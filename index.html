@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarô Quebrado</title>
+    <style>
+        /* ESTÉTICA CO-STAR / MINIMALISTA / DESCONSTRUÍDA */
+        :root {
+            --bg-color: #ffffff;
+            --text-color: #111111;
+            --border-color: #e2e2e2;
+            --accent-color: #000000;
+            --gray-text: #666666;
+            --light-gray: #f9f9f9;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Georgia', 'Baskerville', 'Times New Roman', serif;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+            overscroll-behavior-y: contain; 
+        }
+
+        /* LOADER */
+        #loader {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background-color: var(--bg-color);
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+            z-index: 9999; transition: opacity 0.5s ease;
+        }
+        .loader-spinner {
+            width: 40px; height: 40px; border: 1px solid var(--border-color);
+            border-top: 1px solid var(--accent-color); border-radius: 50%;
+            animation: spin 1s linear infinite; margin-bottom: 20px;
+        }
+        .loader-texto {
+            font-family: sans-serif; text-transform: uppercase; letter-spacing: 3px;
+            font-size: 0.8rem; color: var(--gray-text);
+        }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* CABEÇALHO */
+        header { text-align: center; padding: 20px 0; border-bottom: 1px solid var(--border-color); flex-shrink: 0; }
+        header h1 { font-size: 1.5rem; text-transform: uppercase; letter-spacing: 2px; font-weight: normal; }
+
+        /* MESA DE TIRAGEM */
+        .mesa-container {
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 20px 10px; border-bottom: 1px solid var(--border-color); flex-shrink: 0;
+            background-color: #fff;
+        }
+        .btn-nav { background: none; border: none; font-size: 2rem; color: var(--border-color); cursor: pointer; padding: 0 10px; transition: color 0.3s; }
+        .btn-nav.ativo { color: var(--accent-color); }
+        .mesa { display: flex; flex-grow: 1; justify-content: space-around; align-items: center; }
+        .carta-slot { display: flex; flex-direction: column; align-items: center; width: 40%; text-align: center; }
+        .carta-label { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 1px; color: var(--gray-text); margin-bottom: 8px; font-family: sans-serif; }
+        .carta-nome { font-size: 1.2rem; font-weight: bold; line-height: 1.2; }
+        .sinal-mais { font-size: 1.2rem; color: var(--gray-text); }
+
+        /* ÁREA DE LEITURA (SWIPE) */
+        .leitura-container {
+            flex-grow: 1; overflow-y: auto; padding: 30px 20px;
+            touch-action: pan-y; background-color: var(--bg-color);
+        }
+        .dinamica-bloco { margin-bottom: 30px; }
+        .dinamica-titulo {
+            font-family: sans-serif; font-size: 0.75rem; text-transform: uppercase;
+            letter-spacing: 2px; color: var(--gray-text); border-bottom: 1px solid var(--border-color);
+            padding-bottom: 5px; margin-bottom: 12px;
+        }
+        .dinamica-texto { font-size: 1.15rem; line-height: 1.6; color: var(--text-color); }
+        .aviso-vazio { color: var(--gray-text); font-style: italic; text-align: center; margin-top: 40px; font-size: 1.1rem; }
+
+        /* GAVETA DE AÇÃO RÁPIDA (BOTTOM) */
+        .gaveta {
+            padding: 20px; border-top: 1px solid var(--border-color);
+            background: var(--light-gray); display: flex; justify-content: center; flex-shrink: 0;
+        }
+        .btn-abrir-modal {
+            background: var(--accent-color); color: #fff; border: none;
+            padding: 15px 30px; font-family: sans-serif; font-size: 0.85rem;
+            text-transform: uppercase; letter-spacing: 2px; cursor: pointer;
+            border-radius: 30px; width: 100%; max-width: 400px;
+        }
+
+        /* MODAL DE SELEÇÃO DE CARTAS (BOTTOM SHEET) */
+        .modal-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.3); z-index: 1000;
+            opacity: 0; pointer-events: none; transition: opacity 0.3s ease;
+        }
+        .modal-overlay.ativo { opacity: 1; pointer-events: all; }
+        
+        .modal-content {
+            position: absolute; bottom: -100%; left: 0; width: 100%; height: 80%;
+            background: var(--bg-color); border-top-left-radius: 20px; border-top-right-radius: 20px;
+            display: flex; flex-direction: column; transition: bottom 0.3s ease;
+            box-shadow: 0 -5px 15px rgba(0,0,0,0.1);
+        }
+        .modal-overlay.ativo .modal-content { bottom: 0; }
+
+        .modal-header {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 20px; border-bottom: 1px solid var(--border-color);
+        }
+        .modal-header h2 { font-family: sans-serif; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; }
+        .btn-fechar { background: none; border: none; font-size: 1.5rem; cursor: pointer; color: var(--gray-text); }
+
+        /* FILTROS DO MODAL */
+        .filtros-container {
+            display: flex; overflow-x: auto; padding: 15px 20px; border-bottom: 1px solid var(--border-color);
+            scrollbar-width: none;
+        }
+        .filtros-container::-webkit-scrollbar { display: none; }
+        
+        .btn-filtro {
+            background: none; border: 1px solid var(--border-color); padding: 8px 16px;
+            margin-right: 10px; border-radius: 20px; font-family: sans-serif; font-size: 0.75rem;
+            text-transform: uppercase; letter-spacing: 1px; cursor: pointer; white-space: nowrap;
+        }
+        .btn-filtro.ativo { background: var(--accent-color); color: #fff; border-color: var(--accent-color); }
+
+        /* GRID DE CARTAS NO MODAL */
+        .grid-cartas {
+            padding: 20px; overflow-y: auto; flex-grow: 1;
+            display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px;
+        }
+        .btn-carta-grid {
+            background: var(--light-gray); border: 1px solid var(--border-color); padding: 15px 10px;
+            font-family: 'Georgia', serif; font-size: 0.95rem; text-align: center; cursor: pointer; border-radius: 4px;
+        }
+        .btn-carta-grid:active { background: var(--border-color); }
+
+    </style>
+</head>
+<body>
+
+    <!-- LOADER -->
+    <div id="loader">
+        <div class="loader-spinner"></div>
+        <div class="loader-texto" id="loader-status">Embaralhando...</div>
+    </div>
+
+    <header><h1>Tarô Quebrado</h1></header>
+
+    <div class="mesa-container">
+        <button class="btn-nav" id="btn-prev" onclick="navegar(-1)">‹</button>
+        <div class="mesa">
+            <div class="carta-slot">
+                <span class="carta-label">Posição 1</span>
+                <div class="carta-nome" id="nome-carta-1">---</div>
+            </div>
+            <div class="sinal-mais">+</div>
+            <div class="carta-slot">
+                <span class="carta-label">Posição 2</span>
+                <div class="carta-nome" id="nome-carta-2">---</div>
+            </div>
+        </div>
+        <button class="btn-nav" id="btn-next" onclick="navegar(1)">›</button>
+    </div>
+
+    <div class="leitura-container" id="area-swipe">
+        <div id="conteudo-leitura">
+            <div class="aviso-vazio">Adicione cartas para iniciar a leitura.</div>
+        </div>
+    </div>
+
+    <!-- GAVETA INFERIOR SIMPLIFICADA -->
+    <div class="gaveta">
+        <button class="btn-abrir-modal" onclick="abrirModal()">+ Adicionar Carta</button>
+    </div>
+
+    <!-- MODAL DE SELEÇÃO RÁPIDA -->
+    <div class="modal-overlay" id="modal-cartas">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Escolha a Carta</h2>
+                <button class="btn-fechar" onclick="fecharModal()">×</button>
+            </div>
+            
+            <div class="filtros-container">
+                <button class="btn-filtro ativo" onclick="filtrarCartas('maiores', this)">⭐ Maiores</button>
+                <button class="btn-filtro" onclick="filtrarCartas('copas', this)">🏆 Copas</button>
+                <button class="btn-filtro" onclick="filtrarCartas('espadas', this)">⚔️ Espadas</button>
+                <button class="btn-filtro" onclick="filtrarCartas('ouros', this)">🪙 Ouros</button>
+                <button class="btn-filtro" onclick="filtrarCartas('paus', this)">🪵 Paus</button>
+            </div>
+
+            <div class="grid-cartas" id="grid-cartas-ui">
+                <!-- Cartas renderizadas aqui -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ==========================================
+        // DADOS E ESTADOS
+        // ==========================================
+        let bancoDeDados =[];
+        let listaCartasUnicas = [];
+        let historicoCartas =[];
+        let parAtualIndex = 0;
+
+        // Mock JSON
+        const jsonMockado =[
+          { "id": "1", "name": "O Mago", "category": "maiores", "interactions":[ { "target_id": "2", "target_name": "A Papisa", "dynamics": { "engendrar": "O Mago inicia a faísca...", "conflito": "O Mago projeta sua vontade..." } } ] },
+          { "id": "2", "name": "A Papisa", "category": "maiores", "interactions":[] },
+          { "id": "3", "name": "A Imperatriz", "category": "maiores", "interactions":[] },
+          { "id": "4", "name": "O Imperador", "category": "maiores", "interactions":[] },
+          { "id": "5", "name": "O Papa", "category": "maiores", "interactions":[] },
+          { "id": "6", "name": "O Amante", "category": "maiores", "interactions":[] },
+          { "id": "7", "name": "O Carro", "category": "maiores", "interactions":[] },
+          { "id": "8", "name": "A Justiça", "category": "maiores", "interactions":[] }
+        ];
+
+        async function iniciarApp() {
+            setTimeout(() => {
+                bancoDeDados = jsonMockado;
+                
+                // Mapeamento simulado das cartas (Na vida real virá do seu JSON)
+                let mapaCartas = new Map();
+                bancoDeDados.forEach(base => {
+                    mapaCartas.set(base.id, { id: base.id, name: base.name, category: base.category || 'maiores' });
+                });
+
+                listaCartasUnicas = Array.from(mapaCartas.values());
+                listaCartasUnicas.sort((a, b) => parseInt(a.id) - parseInt(b.id));
+
+                filtrarCartas('maiores', document.querySelector('.btn-filtro'));
+
+                const loader = document.getElementById('loader');
+                loader.style.opacity = '0';
+                setTimeout(() => loader.style.display = 'none', 500);
+            }, 800);
+        }
+
+        // ==========================================
+        // LÓGICA DO MODAL E FILTROS
+        // ==========================================
+        function abrirModal() {
+            document.getElementById('modal-cartas').classList.add('ativo');
+        }
+
+        function fecharModal() {
+            document.getElementById('modal-cartas').classList.remove('ativo');
+        }
+
+        function filtrarCartas(categoria, btnElement) {
+            // Atualiza botões
+            document.querySelectorAll('.btn-filtro').forEach(btn => btn.classList.remove('ativo'));
+            btnElement.classList.add('ativo');
+
+            // Filtra e renderiza as cartas
+            const container = document.getElementById('grid-cartas-ui');
+            container.innerHTML = ''; 
+
+            const cartasFiltradas = listaCartasUnicas.filter(c => c.category === categoria);
+            
+            if(cartasFiltradas.length === 0) {
+                container.innerHTML = `<p style="grid-column: 1/-1; text-align: center; color: var(--gray-text); padding-top: 20px;">Cartas de ${categoria} ainda não mapeadas.</p>`;
+                return;
+            }
+
+            cartasFiltradas.forEach(carta => {
+                const btn = document.createElement('button');
+                btn.className = 'btn-carta-grid';
+                btn.innerText = carta.name;
+                btn.onclick = () => {
+                    selecionarNovaCarta(carta);
+                    fecharModal();
+                };
+                container.appendChild(btn);
+            });
+        }
+
+        // ==========================================
+        // HISTÓRICO E EXIBIÇÃO (MANTIDO IGUAL)
+        // ==========================================
+        function selecionarNovaCarta(novaCarta) {
+            historicoCartas.push(novaCarta);
+            if (historicoCartas.length >= 2) parAtualIndex = historicoCartas.length - 2;
+            atualizarInterface();
+        }
+
+        function navegar(direcao) {
+            let novoIndex = parAtualIndex + direcao;
+            if (novoIndex >= 0 && novoIndex < historicoCartas.length - 1) {
+                parAtualIndex = novoIndex;
+                atualizarInterface();
+            }
+        }
+
+        function atualizarInterface() {
+            const btnPrev = document.getElementById('btn-prev');
+            const btnNext = document.getElementById('btn-next');
+            
+            if (historicoCartas.length < 2) {
+                document.getElementById('nome-carta-1').innerText = historicoCartas[0] ? historicoCartas[0].name : "---";
+                return;
+            }
+
+            const carta1 = historicoCartas[parAtualIndex];
+            const carta2 = historicoCartas[parAtualIndex + 1];
+
+            document.getElementById('nome-carta-1').innerText = carta1.name;
+            document.getElementById('nome-carta-2').innerText = carta2.name;
+
+            parAtualIndex > 0 ? btnPrev.classList.add('ativo') : btnPrev.classList.remove('ativo');
+            parAtualIndex < historicoCartas.length - 2 ? btnNext.classList.add('ativo') : btnNext.classList.remove('ativo');
+
+            exibirLeituraVertical(carta1, carta2);
+        }
+
+        function exibirLeituraVertical(carta1, carta2) {
+            const containerTexto = document.getElementById('conteudo-leitura');
+            let leituraEncontrada = null;
+
+            const baseObj = bancoDeDados.find(item => item.id === carta1.id);
+            if (baseObj && baseObj.interactions) {
+                const targetObj = baseObj.interactions.find(i => i.target_id === carta2.id);
+                if (targetObj && targetObj.dynamics) leituraEncontrada = targetObj.dynamics;
+            }
+
+            if (leituraEncontrada) {
+                let htmlDinâmicas = "";
+                const labels = { engendrar: "Engendrar", conflito: "Conflito", estagnar: "Estagnação", necessitar: "Necessidade", regressar: "Regressão" };
+                for (let key in labels) {
+                    if (leituraEncontrada[key]) {
+                        htmlDinâmicas += `<div class="dinamica-bloco"><div class="dinamica-titulo">${labels[key]}</div><div class="dinamica-texto">${leituraEncontrada[key]}</div></div>`;
+                    }
+                }
+                containerTexto.innerHTML = htmlDinâmicas || `<div class="aviso-vazio">Leitura vazia no banco.</div>`;
+            } else {
+                containerTexto.innerHTML = `<div class="aviso-vazio">A leitura para<br><b>${carta1.name} + ${carta2.name}</b><br>ainda não foi catalogada.</div>`;
+            }
+            document.getElementById('area-swipe').scrollTop = 0;
+        }
+
+        // SWIPE
+        let touchstartX = 0; let touchendX = 0;
+        const swipeArea = document.getElementById('area-swipe');
+        swipeArea.addEventListener('touchstart', e => touchstartX = e.changedTouches[0].screenX);
+        swipeArea.addEventListener('touchend', e => {
+            touchendX = e.changedTouches[0].screenX;
+            if (touchendX - touchstartX < -40) navegar(1);
+            if (touchendX - touchstartX > 40) navegar(-1);
+        });
+
+        window.onload = iniciarApp;
+    </script>
+</body>
+</html>

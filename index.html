@@ -2,358 +2,2025 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tarô Quebrado</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="Taro Quebrado - Leitor de combinacoes de cartas de taro">
+    <meta name="theme-color" content="#ffffff">
+    <title>Taro Quebrado</title>
     <style>
-        /* ESTÉTICA CO-STAR / MINIMALISTA / DESCONSTRUÍDA */
+        /* ============================================
+           CSS CUSTOM PROPERTIES
+           ============================================ */
         :root {
-            --bg-color: #ffffff;
-            --text-color: #111111;
-            --border-color: #e2e2e2;
-            --accent-color: #000000;
-            --gray-text: #666666;
-            --light-gray: #f9f9f9;
+            --bg: #ffffff;
+            --bg-elevated: #f8f8f8;
+            --bg-overlay: rgba(0,0,0,0.4);
+            --text: #111111;
+            --text-secondary: #555555;
+            --text-tertiary: #999999;
+            --border: #e0e0e0;
+            --border-light: #f0f0f0;
+            --accent: #000000;
+            --accent-inverse: #ffffff;
+            --surface: #fafafa;
+            --danger: #cc0000;
+
+            --font-serif: 'Georgia', 'Baskerville', 'Times New Roman', serif;
+            --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+
+            --radius-sm: 4px;
+            --radius-md: 8px;
+            --radius-lg: 16px;
+            --radius-xl: 24px;
+
+            --transition-fast: 150ms ease;
+            --transition-normal: 300ms ease;
+            --transition-slow: 500ms ease;
+
+            --space-xs: 4px;
+            --space-sm: 8px;
+            --space-md: 16px;
+            --space-lg: 24px;
+            --space-xl: 32px;
+            --space-2xl: 48px;
+            --space-3xl: 64px;
+
+            --header-height: 56px;
+            --mesa-height: 140px;
+            --toolbar-height: 48px;
         }
 
-        * { box-sizing: border-box; margin: 0; padding: 0; }
+        /* ============================================
+           RESET & BASE
+           ============================================ */
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        html {
+            height: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
 
         body {
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            font-family: 'Georgia', 'Baskerville', 'Times New Roman', serif;
+            height: 100%;
+            background: var(--bg);
+            color: var(--text);
+            font-family: var(--font-serif);
+            line-height: 1.6;
+            overflow: hidden;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        button {
+            font-family: inherit;
+            cursor: pointer;
+            border: none;
+            background: none;
+            color: inherit;
+            font-size: inherit;
+        }
+
+        button:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        input:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        /* ============================================
+           LOADER
+           ============================================ */
+        #loader {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: var(--bg);
             display: flex;
             flex-direction: column;
-            height: 100vh;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            transition: opacity var(--transition-slow);
+        }
+
+        #loader.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .loader-title {
+            font-family: var(--font-sans);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--text);
+            margin-bottom: var(--space-xl);
+        }
+
+        .loader-bar-track {
+            width: 120px;
+            height: 1px;
+            background: var(--border);
+            position: relative;
             overflow: hidden;
-            overscroll-behavior-y: contain; 
         }
 
-        /* LOADER */
-        #loader {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background-color: var(--bg-color);
-            display: flex; flex-direction: column; justify-content: center; align-items: center;
-            z-index: 9999; transition: opacity 0.5s ease;
-        }
-        .loader-spinner {
-            width: 40px; height: 40px; border: 1px solid var(--border-color);
-            border-top: 1px solid var(--accent-color); border-radius: 50%;
-            animation: spin 1s linear infinite; margin-bottom: 20px;
-        }
-        .loader-texto {
-            font-family: sans-serif; text-transform: uppercase; letter-spacing: 3px;
-            font-size: 0.8rem; color: var(--gray-text);
-        }
-        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-
-        /* CABEÇALHO */
-        header { text-align: center; padding: 20px 0; border-bottom: 1px solid var(--border-color); flex-shrink: 0; }
-        header h1 { font-size: 1.5rem; text-transform: uppercase; letter-spacing: 2px; font-weight: normal; }
-
-        /* MESA DE TIRAGEM */
-        .mesa-container {
-            display: flex; align-items: center; justify-content: space-between;
-            padding: 20px 10px; border-bottom: 1px solid var(--border-color); flex-shrink: 0;
-            background-color: #fff;
-        }
-        .btn-nav { background: none; border: none; font-size: 2rem; color: var(--border-color); cursor: pointer; padding: 0 10px; transition: color 0.3s; }
-        .btn-nav.ativo { color: var(--accent-color); }
-        .mesa { display: flex; flex-grow: 1; justify-content: space-around; align-items: center; }
-        .carta-slot { display: flex; flex-direction: column; align-items: center; width: 40%; text-align: center; }
-        .carta-label { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 1px; color: var(--gray-text); margin-bottom: 8px; font-family: sans-serif; }
-        .carta-nome { font-size: 1.2rem; font-weight: bold; line-height: 1.2; }
-        .sinal-mais { font-size: 1.2rem; color: var(--gray-text); }
-
-        /* ÁREA DE LEITURA (SWIPE) */
-        .leitura-container {
-            flex-grow: 1; overflow-y: auto; padding: 30px 20px;
-            touch-action: pan-y; background-color: var(--bg-color);
-        }
-        .dinamica-bloco { margin-bottom: 30px; }
-        .dinamica-titulo {
-            font-family: sans-serif; font-size: 0.75rem; text-transform: uppercase;
-            letter-spacing: 2px; color: var(--gray-text); border-bottom: 1px solid var(--border-color);
-            padding-bottom: 5px; margin-bottom: 12px;
-        }
-        .dinamica-texto { font-size: 1.15rem; line-height: 1.6; color: var(--text-color); }
-        .aviso-vazio { color: var(--gray-text); font-style: italic; text-align: center; margin-top: 40px; font-size: 1.1rem; }
-
-        /* GAVETA DE AÇÃO RÁPIDA (BOTTOM) */
-        .gaveta {
-            padding: 20px; border-top: 1px solid var(--border-color);
-            background: var(--light-gray); display: flex; justify-content: center; flex-shrink: 0;
-        }
-        .btn-abrir-modal {
-            background: var(--accent-color); color: #fff; border: none;
-            padding: 15px 30px; font-family: sans-serif; font-size: 0.85rem;
-            text-transform: uppercase; letter-spacing: 2px; cursor: pointer;
-            border-radius: 30px; width: 100%; max-width: 400px;
+        .loader-bar-fill {
+            position: absolute;
+            top: 0; left: 0;
+            height: 100%;
+            width: 0%;
+            background: var(--accent);
+            transition: width 200ms linear;
         }
 
-        /* MODAL DE SELEÇÃO DE CARTAS (BOTTOM SHEET) */
-        .modal-overlay {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0,0,0,0.3); z-index: 1000;
-            opacity: 0; pointer-events: none; transition: opacity 0.3s ease;
+        .loader-status {
+            font-family: var(--font-sans);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--text-tertiary);
+            margin-top: var(--space-md);
         }
-        .modal-overlay.ativo { opacity: 1; pointer-events: all; }
-        
-        .modal-content {
-            position: absolute; bottom: -100%; left: 0; width: 100%; height: 80%;
-            background: var(--bg-color); border-top-left-radius: 20px; border-top-right-radius: 20px;
-            display: flex; flex-direction: column; transition: bottom 0.3s ease;
-            box-shadow: 0 -5px 15px rgba(0,0,0,0.1);
-        }
-        .modal-overlay.ativo .modal-content { bottom: 0; }
 
-        .modal-header {
-            display: flex; justify-content: space-between; align-items: center;
-            padding: 20px; border-bottom: 1px solid var(--border-color);
+        /* ============================================
+           APP LAYOUT
+           ============================================ */
+        #app {
+            display: none;
+            flex-direction: column;
+            height: 100%;
         }
-        .modal-header h2 { font-family: sans-serif; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; }
-        .btn-fechar { background: none; border: none; font-size: 1.5rem; cursor: pointer; color: var(--gray-text); }
 
-        /* FILTROS DO MODAL */
-        .filtros-container {
-            display: flex; overflow-x: auto; padding: 15px 20px; border-bottom: 1px solid var(--border-color);
+        #app.visible {
+            display: flex;
+        }
+
+        /* ============================================
+           HEADER
+           ============================================ */
+        .header {
+            height: var(--header-height);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0;
+            position: relative;
+            padding: 0 var(--space-md);
+        }
+
+        .header-title {
+            font-family: var(--font-sans);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-weight: 400;
+        }
+
+        .header-btn {
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: background var(--transition-fast);
+        }
+
+        .header-btn:hover {
+            background: var(--bg-elevated);
+        }
+
+        .header-btn-left { left: var(--space-sm); }
+        .header-btn-right { right: var(--space-sm); }
+
+        .header-btn svg {
+            width: 18px;
+            height: 18px;
+            stroke: var(--text);
+            stroke-width: 1.5;
+            fill: none;
+        }
+
+        /* ============================================
+           MAIN LAYOUT
+           ============================================ */
+        .main-layout {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* ============================================
+           MESA (CARD SLOTS)
+           ============================================ */
+        .mesa {
+            flex-shrink: 0;
+            border-bottom: 1px solid var(--border);
+            padding: var(--space-lg) var(--space-md);
+            background: var(--bg);
+        }
+
+        .mesa-slots {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: var(--space-md);
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        .card-slot {
+            flex: 1;
+            max-width: 180px;
+            text-align: center;
+            padding: var(--space-md) var(--space-sm);
+            border: 1px dashed var(--border);
+            border-radius: var(--radius-md);
+            cursor: pointer;
+            transition: all var(--transition-fast);
+            position: relative;
+            min-height: 80px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .card-slot:hover {
+            border-color: var(--text-tertiary);
+            background: var(--surface);
+        }
+
+        .card-slot.filled {
+            border-style: solid;
+            border-color: var(--border);
+        }
+
+        .card-slot.filled:hover {
+            border-color: var(--text-secondary);
+        }
+
+        .card-slot-label {
+            font-family: var(--font-sans);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--text-tertiary);
+            margin-bottom: var(--space-xs);
+        }
+
+        .card-slot-name {
+            font-size: 1rem;
+            font-weight: 600;
+            line-height: 1.3;
+            color: var(--text);
+        }
+
+        .card-slot-empty {
+            font-family: var(--font-sans);
+            font-size: 0.7rem;
+            color: var(--text-tertiary);
+            letter-spacing: 0.5px;
+        }
+
+        .card-slot-remove {
+            position: absolute;
+            top: -8px;
+            right: -8px;
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            background: var(--text);
+            color: var(--accent-inverse);
+            font-size: 0.7rem;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            font-family: var(--font-sans);
+            line-height: 1;
+            z-index: 2;
+        }
+
+        .card-slot.filled .card-slot-remove {
+            display: flex;
+        }
+
+        .card-slot.filled .card-slot-remove:hover {
+            background: var(--danger);
+        }
+
+        .mesa-connector {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: var(--space-xs);
+            flex-shrink: 0;
+        }
+
+        .connector-symbol {
+            font-size: 0.9rem;
+            color: var(--text-tertiary);
+            font-family: var(--font-sans);
+        }
+
+        .swap-btn {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            border: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all var(--transition-fast);
+            opacity: 0.4;
+            pointer-events: none;
+        }
+
+        .swap-btn.active {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .swap-btn.active:hover {
+            background: var(--accent);
+            border-color: var(--accent);
+        }
+
+        .swap-btn.active:hover svg {
+            stroke: var(--accent-inverse);
+        }
+
+        .swap-btn svg {
+            width: 14px;
+            height: 14px;
+            stroke: var(--text);
+            stroke-width: 1.5;
+            fill: none;
+        }
+
+        /* ============================================
+           TOOLBAR
+           ============================================ */
+        .toolbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: var(--space-sm) var(--space-md);
+            border-bottom: 1px solid var(--border-light);
+            flex-shrink: 0;
+            background: var(--bg);
+        }
+
+        .toolbar-group {
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+        }
+
+        .toolbar-btn {
+            font-family: var(--font-sans);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-tertiary);
+            padding: var(--space-xs) var(--space-sm);
+            border-radius: var(--radius-sm);
+            transition: all var(--transition-fast);
+            display: flex;
+            align-items: center;
+            gap: var(--space-xs);
+        }
+
+        .toolbar-btn:hover {
+            color: var(--text);
+            background: var(--bg-elevated);
+        }
+
+        .toolbar-btn svg {
+            width: 12px;
+            height: 12px;
+            stroke: currentColor;
+            stroke-width: 1.5;
+            fill: none;
+        }
+
+        .toolbar-reading-label {
+            font-family: var(--font-sans);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--text-tertiary);
+        }
+
+        /* ============================================
+           READING AREA
+           ============================================ */
+        .reading-area {
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: hidden;
+            -webkit-overflow-scrolling: touch;
+            scroll-behavior: smooth;
+        }
+
+        .reading-content {
+            max-width: 640px;
+            margin: 0 auto;
+            padding: var(--space-lg) var(--space-md) var(--space-3xl);
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: var(--space-3xl) var(--space-lg);
+        }
+
+        .empty-state-icon {
+            font-size: 2rem;
+            margin-bottom: var(--space-lg);
+            opacity: 0.3;
+        }
+
+        .empty-state-title {
+            font-size: 1.3rem;
+            font-weight: 400;
+            margin-bottom: var(--space-sm);
+            color: var(--text);
+        }
+
+        .empty-state-text {
+            font-family: var(--font-sans);
+            font-size: 0.8rem;
+            color: var(--text-tertiary);
+            line-height: 1.6;
+            max-width: 280px;
+            margin: 0 auto var(--space-lg);
+        }
+
+        .empty-state-btn {
+            font-family: var(--font-sans);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--accent-inverse);
+            background: var(--accent);
+            padding: var(--space-md) var(--space-xl);
+            border-radius: var(--radius-xl);
+            transition: opacity var(--transition-fast);
+        }
+
+        .empty-state-btn:hover {
+            opacity: 0.8;
+        }
+
+        /* Single card selected state */
+        .partial-state {
+            text-align: center;
+            padding: var(--space-3xl) var(--space-lg);
+        }
+
+        .partial-state-text {
+            font-size: 1.1rem;
+            color: var(--text-tertiary);
+            font-style: italic;
+        }
+
+        /* Dynamic Sections */
+        .dynamics-list {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .dynamic-section {
+            border-bottom: 1px solid var(--border-light);
+        }
+
+        .dynamic-section:last-child {
+            border-bottom: none;
+        }
+
+        .dynamic-header {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: var(--space-lg) 0;
+            text-align: left;
+            transition: opacity var(--transition-fast);
+        }
+
+        .dynamic-header:hover {
+            opacity: 0.7;
+        }
+
+        .dynamic-header-left {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .dynamic-label {
+            font-family: var(--font-sans);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--text-tertiary);
+        }
+
+        .dynamic-title {
+            font-size: 1.1rem;
+            font-weight: 400;
+            color: var(--text);
+        }
+
+        .dynamic-chevron {
+            width: 16px;
+            height: 16px;
+            stroke: var(--text-tertiary);
+            stroke-width: 1.5;
+            fill: none;
+            transition: transform var(--transition-normal);
+            flex-shrink: 0;
+        }
+
+        .dynamic-section.expanded .dynamic-chevron {
+            transform: rotate(180deg);
+        }
+
+        .dynamic-body {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height var(--transition-normal), padding var(--transition-normal);
+        }
+
+        .dynamic-section.expanded .dynamic-body {
+            max-height: 800px;
+            padding-bottom: var(--space-lg);
+        }
+
+        .dynamic-text {
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: var(--text-secondary);
+        }
+
+        .dynamic-meta {
+            font-family: var(--font-sans);
+            font-size: 0.65rem;
+            color: var(--text-tertiary);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: var(--space-md);
+        }
+
+        /* Reading header */
+        .reading-header {
+            text-align: center;
+            padding: var(--space-xl) 0 var(--space-lg);
+            border-bottom: 1px solid var(--border-light);
+            margin-bottom: 0;
+        }
+
+        .reading-pair-label {
+            font-family: var(--font-sans);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--text-tertiary);
+            margin-bottom: var(--space-sm);
+        }
+
+        .reading-pair-names {
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.4;
+        }
+
+        .reading-pair-connector {
+            color: var(--text-tertiary);
+            margin: 0 var(--space-xs);
+            font-size: 1rem;
+        }
+
+        .reading-direction-hint {
+            font-family: var(--font-sans);
+            font-size: 0.6rem;
+            color: var(--text-tertiary);
+            margin-top: var(--space-sm);
+            letter-spacing: 0.5px;
+        }
+
+        /* ============================================
+           BOTTOM ACTION BAR
+           ============================================ */
+        .bottom-bar {
+            flex-shrink: 0;
+            padding: var(--space-md);
+            border-top: 1px solid var(--border);
+            background: var(--bg);
+            display: flex;
+            justify-content: center;
+        }
+
+        .bottom-bar-btn {
+            width: 100%;
+            max-width: 400px;
+            padding: 14px var(--space-lg);
+            background: var(--accent);
+            color: var(--accent-inverse);
+            font-family: var(--font-sans);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-radius: var(--radius-xl);
+            transition: opacity var(--transition-fast);
+        }
+
+        .bottom-bar-btn:hover {
+            opacity: 0.85;
+        }
+
+        /* ============================================
+           BOTTOM SHEET (CARD PICKER)
+           ============================================ */
+        .sheet-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: var(--bg-overlay);
+            z-index: 1000;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity var(--transition-normal);
+        }
+
+        .sheet-overlay.open {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .sheet {
+            position: fixed;
+            bottom: 0; left: 0; width: 100%;
+            max-height: 85vh;
+            background: var(--bg);
+            border-top-left-radius: var(--radius-lg);
+            border-top-right-radius: var(--radius-lg);
+            display: flex;
+            flex-direction: column;
+            z-index: 1001;
+            transform: translateY(100%);
+            transition: transform var(--transition-normal) cubic-bezier(0.32, 0.72, 0, 1);
+            box-shadow: 0 -4px 20px rgba(0,0,0,0.08);
+        }
+
+        .sheet-overlay.open .sheet {
+            transform: translateY(0);
+        }
+
+        .sheet-handle-area {
+            display: flex;
+            justify-content: center;
+            padding: var(--space-sm) 0 0;
+            cursor: grab;
+            flex-shrink: 0;
+        }
+
+        .sheet-handle {
+            width: 36px;
+            height: 4px;
+            background: var(--border);
+            border-radius: 2px;
+        }
+
+        .sheet-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: var(--space-md) var(--space-lg);
+            flex-shrink: 0;
+        }
+
+        .sheet-title {
+            font-family: var(--font-sans);
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            font-weight: 500;
+        }
+
+        .sheet-close {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background: var(--bg-elevated);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            transition: background var(--transition-fast);
+        }
+
+        .sheet-close:hover {
+            background: var(--border);
+        }
+
+        /* Search */
+        .sheet-search {
+            padding: 0 var(--space-lg) var(--space-md);
+            flex-shrink: 0;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: var(--space-sm) 0;
+            border: none;
+            border-bottom: 1px solid var(--border);
+            font-family: var(--font-sans);
+            font-size: 0.85rem;
+            color: var(--text);
+            background: transparent;
+            letter-spacing: 0.3px;
+        }
+
+        .search-input::placeholder {
+            color: var(--text-tertiary);
+        }
+
+        /* Filter tabs */
+        .sheet-filters {
+            display: flex;
+            overflow-x: auto;
+            padding: 0 var(--space-lg) var(--space-md);
+            gap: var(--space-sm);
+            flex-shrink: 0;
             scrollbar-width: none;
+            -ms-overflow-style: none;
         }
-        .filtros-container::-webkit-scrollbar { display: none; }
-        
-        .btn-filtro {
-            background: none; border: 1px solid var(--border-color); padding: 8px 16px;
-            margin-right: 10px; border-radius: 20px; font-family: sans-serif; font-size: 0.75rem;
-            text-transform: uppercase; letter-spacing: 1px; cursor: pointer; white-space: nowrap;
-        }
-        .btn-filtro.ativo { background: var(--accent-color); color: #fff; border-color: var(--accent-color); }
 
-        /* GRID DE CARTAS NO MODAL */
-        .grid-cartas {
-            padding: 20px; overflow-y: auto; flex-grow: 1;
-            display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px;
-        }
-        .btn-carta-grid {
-            background: var(--light-gray); border: 1px solid var(--border-color); padding: 15px 10px;
-            font-family: 'Georgia', serif; font-size: 0.95rem; text-align: center; cursor: pointer; border-radius: 4px;
-        }
-        .btn-carta-grid:active { background: var(--border-color); }
+        .sheet-filters::-webkit-scrollbar { display: none; }
 
+        .filter-btn {
+            white-space: nowrap;
+            padding: 6px 14px;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-xl);
+            font-family: var(--font-sans);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-secondary);
+            transition: all var(--transition-fast);
+            flex-shrink: 0;
+        }
+
+        .filter-btn:hover {
+            border-color: var(--text-tertiary);
+        }
+
+        .filter-btn.active {
+            background: var(--accent);
+            color: var(--accent-inverse);
+            border-color: var(--accent);
+        }
+
+        /* Card grid */
+        .sheet-grid {
+            flex: 1;
+            overflow-y: auto;
+            padding: var(--space-sm) var(--space-lg) var(--space-xl);
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+            gap: var(--space-sm);
+        }
+
+        .card-grid-item {
+            padding: var(--space-md) var(--space-sm);
+            border: 1px solid var(--border-light);
+            border-radius: var(--radius-sm);
+            font-size: 0.85rem;
+            text-align: center;
+            transition: all var(--transition-fast);
+            line-height: 1.3;
+            background: var(--bg);
+        }
+
+        .card-grid-item:hover {
+            border-color: var(--text-tertiary);
+            background: var(--surface);
+        }
+
+        .card-grid-item:active {
+            background: var(--bg-elevated);
+            transform: scale(0.97);
+        }
+
+        .card-grid-item.in-slot {
+            border-color: var(--accent);
+            background: var(--surface);
+            position: relative;
+        }
+
+        .card-grid-item.in-slot::after {
+            content: '';
+            position: absolute;
+            top: 4px;
+            right: 4px;
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: var(--accent);
+        }
+
+        .card-grid-empty {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: var(--space-xl);
+            color: var(--text-tertiary);
+            font-family: var(--font-sans);
+            font-size: 0.8rem;
+        }
+
+        /* ============================================
+           HISTORY PANEL
+           ============================================ */
+        .history-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: var(--bg-overlay);
+            z-index: 900;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity var(--transition-normal);
+        }
+
+        .history-overlay.open {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .history-panel {
+            position: fixed;
+            top: 0; left: 0;
+            width: 300px;
+            max-width: 80vw;
+            height: 100%;
+            background: var(--bg);
+            z-index: 901;
+            transform: translateX(-100%);
+            transition: transform var(--transition-normal) cubic-bezier(0.32, 0.72, 0, 1);
+            display: flex;
+            flex-direction: column;
+            box-shadow: 4px 0 20px rgba(0,0,0,0.05);
+        }
+
+        .history-overlay.open .history-panel {
+            transform: translateX(0);
+        }
+
+        .history-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: var(--space-lg);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .history-title {
+            font-family: var(--font-sans);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            font-weight: 500;
+        }
+
+        .history-clear-btn {
+            font-family: var(--font-sans);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-tertiary);
+            transition: color var(--transition-fast);
+        }
+
+        .history-clear-btn:hover {
+            color: var(--danger);
+        }
+
+        .history-list {
+            flex: 1;
+            overflow-y: auto;
+            padding: var(--space-sm) 0;
+        }
+
+        .history-item {
+            display: flex;
+            align-items: center;
+            padding: var(--space-md) var(--space-lg);
+            width: 100%;
+            text-align: left;
+            transition: background var(--transition-fast);
+            gap: var(--space-sm);
+        }
+
+        .history-item:hover {
+            background: var(--surface);
+        }
+
+        .history-item-text {
+            flex: 1;
+        }
+
+        .history-item-pair {
+            font-size: 0.85rem;
+            line-height: 1.3;
+        }
+
+        .history-item-connector {
+            color: var(--text-tertiary);
+            font-size: 0.75rem;
+        }
+
+        .history-item-time {
+            font-family: var(--font-sans);
+            font-size: 0.6rem;
+            color: var(--text-tertiary);
+            margin-top: 2px;
+        }
+
+        .history-empty {
+            padding: var(--space-xl) var(--space-lg);
+            text-align: center;
+            color: var(--text-tertiary);
+            font-family: var(--font-sans);
+            font-size: 0.8rem;
+        }
+
+        /* ============================================
+           TOAST
+           ============================================ */
+        .toast {
+            position: fixed;
+            bottom: 80px;
+            left: 50%;
+            transform: translateX(-50%) translateY(20px);
+            background: var(--accent);
+            color: var(--accent-inverse);
+            font-family: var(--font-sans);
+            font-size: 0.75rem;
+            letter-spacing: 0.5px;
+            padding: var(--space-sm) var(--space-lg);
+            border-radius: var(--radius-xl);
+            opacity: 0;
+            pointer-events: none;
+            transition: all var(--transition-normal);
+            z-index: 2000;
+            white-space: nowrap;
+        }
+
+        .toast.visible {
+            opacity: 1;
+            transform: translateX(-50%) translateY(0);
+        }
+
+        /* ============================================
+           ONBOARDING OVERLAY
+           ============================================ */
+        .onboarding-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.6);
+            z-index: 5000;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity var(--transition-slow);
+        }
+
+        .onboarding-overlay.visible {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .onboarding-card {
+            background: var(--bg);
+            border-radius: var(--radius-lg);
+            padding: var(--space-2xl) var(--space-xl);
+            max-width: 340px;
+            width: 90%;
+            text-align: center;
+        }
+
+        .onboarding-step-label {
+            font-family: var(--font-sans);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--text-tertiary);
+            margin-bottom: var(--space-md);
+        }
+
+        .onboarding-title {
+            font-size: 1.3rem;
+            font-weight: 400;
+            margin-bottom: var(--space-sm);
+        }
+
+        .onboarding-text {
+            font-family: var(--font-sans);
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: var(--space-lg);
+        }
+
+        .onboarding-btn {
+            font-family: var(--font-sans);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            background: var(--accent);
+            color: var(--accent-inverse);
+            padding: var(--space-md) var(--space-xl);
+            border-radius: var(--radius-xl);
+            transition: opacity var(--transition-fast);
+        }
+
+        .onboarding-btn:hover { opacity: 0.85; }
+
+        .onboarding-skip {
+            display: block;
+            margin-top: var(--space-md);
+            font-family: var(--font-sans);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-tertiary);
+        }
+
+        /* ============================================
+           DESKTOP LAYOUT (768px+)
+           ============================================ */
+        @media (min-width: 768px) {
+            .mesa-slots {
+                gap: var(--space-xl);
+            }
+
+            .card-slot {
+                max-width: 200px;
+                padding: var(--space-lg) var(--space-md);
+                min-height: 90px;
+            }
+
+            .card-slot-name {
+                font-size: 1.1rem;
+            }
+
+            .reading-content {
+                padding: var(--space-xl) var(--space-xl) var(--space-3xl);
+            }
+
+            .reading-pair-names {
+                font-size: 1.6rem;
+            }
+
+            .dynamic-text {
+                font-size: 1.1rem;
+            }
+
+            .card-grid {
+                grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            }
+
+            .bottom-bar-btn {
+                max-width: 300px;
+            }
+
+            .sheet {
+                max-width: 480px;
+                left: 50%;
+                margin-left: -240px;
+                border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+            }
+        }
+
+        /* ============================================
+           LARGE DESKTOP (1200px+)
+           ============================================ */
+        @media (min-width: 1200px) {
+            .card-grid {
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            }
+
+            .reading-content {
+                padding: var(--space-2xl) var(--space-xl) var(--space-3xl);
+            }
+
+            .dynamic-header {
+                padding: var(--space-xl) 0;
+            }
+        }
+
+        /* ============================================
+           PRINT STYLES
+           ============================================ */
+        @media print {
+            .header, .mesa, .toolbar, .bottom-bar, .sheet-overlay, .history-overlay, .toast { display: none !important; }
+            .reading-area { overflow: visible; }
+            .dynamic-section .dynamic-body { max-height: none !important; padding-bottom: 16px !important; }
+            body { overflow: visible; height: auto; }
+            #app { height: auto; overflow: visible; }
+            .main-layout { overflow: visible; }
+        }
     </style>
 </head>
 <body>
 
     <!-- LOADER -->
     <div id="loader">
-        <div class="loader-spinner"></div>
-        <div class="loader-texto" id="loader-status">Embaralhando...</div>
+        <div class="loader-title">Taro Quebrado</div>
+        <div class="loader-bar-track">
+            <div class="loader-bar-fill" id="loader-bar"></div>
+        </div>
+        <div class="loader-status" id="loader-status">Carregando cartas...</div>
     </div>
 
-    <header><h1>Tarô Quebrado</h1></header>
+    <!-- APP -->
+    <div id="app">
 
-    <div class="mesa-container">
-        <button class="btn-nav" id="btn-prev" onclick="navegar(-1)">‹</button>
-        <div class="mesa">
-            <div class="carta-slot">
-                <span class="carta-label">Posição 1</span>
-                <div class="carta-nome" id="nome-carta-1">---</div>
+        <!-- HEADER -->
+        <header class="header">
+            <button class="header-btn header-btn-left" onclick="toggleHistory()" aria-label="Historico de leituras">
+                <svg viewBox="0 0 24 24"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+            </button>
+            <h1 class="header-title">Taro Quebrado</h1>
+            <button class="header-btn header-btn-right" onclick="shareReading()" aria-label="Compartilhar leitura" id="share-btn" style="display:none;">
+                <svg viewBox="0 0 24 24"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
+            </button>
+        </header>
+
+        <!-- MAIN -->
+        <div class="main-layout">
+
+            <!-- MESA -->
+            <div class="mesa">
+                <div class="mesa-slots">
+                    <div class="card-slot" id="slot-1" onclick="openPicker(1)" role="button" tabindex="0" aria-label="Selecionar primeira carta">
+                        <button class="card-slot-remove" onclick="event.stopPropagation(); removeCard(1)" aria-label="Remover carta">&#215;</button>
+                        <span class="card-slot-label">Carta 1</span>
+                        <span class="card-slot-name" id="slot-1-name" style="display:none;"></span>
+                        <span class="card-slot-empty" id="slot-1-empty">Toque para escolher</span>
+                    </div>
+
+                    <div class="mesa-connector">
+                        <span class="connector-symbol">+</span>
+                        <button class="swap-btn" id="swap-btn" onclick="swapCards()" aria-label="Trocar ordem das cartas">
+                            <svg viewBox="0 0 24 24"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>
+                        </button>
+                    </div>
+
+                    <div class="card-slot" id="slot-2" onclick="openPicker(2)" role="button" tabindex="0" aria-label="Selecionar segunda carta">
+                        <button class="card-slot-remove" onclick="event.stopPropagation(); removeCard(2)" aria-label="Remover carta">&#215;</button>
+                        <span class="card-slot-label">Carta 2</span>
+                        <span class="card-slot-name" id="slot-2-name" style="display:none;"></span>
+                        <span class="card-slot-empty" id="slot-2-empty">Toque para escolher</span>
+                    </div>
+                </div>
             </div>
-            <div class="sinal-mais">+</div>
-            <div class="carta-slot">
-                <span class="carta-label">Posição 2</span>
-                <div class="carta-nome" id="nome-carta-2">---</div>
+
+            <!-- TOOLBAR -->
+            <div class="toolbar" id="toolbar" style="display:none;">
+                <div class="toolbar-group">
+                    <span class="toolbar-reading-label" id="toolbar-label">Leitura</span>
+                </div>
+                <div class="toolbar-group">
+                    <button class="toolbar-btn" onclick="expandAllDynamics()" id="expand-all-btn">
+                        <svg viewBox="0 0 24 24"><polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/><line x1="21" y1="3" x2="14" y2="10"/><line x1="3" y1="21" x2="10" y2="14"/></svg>
+                        Expandir
+                    </button>
+                    <button class="toolbar-btn" onclick="clearCards()">
+                        <svg viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                        Limpar
+                    </button>
+                </div>
+            </div>
+
+            <!-- READING AREA -->
+            <div class="reading-area" id="reading-area">
+                <div class="reading-content" id="reading-content">
+                    <!-- Rendered by JS -->
+                </div>
+            </div>
+
+        </div>
+
+        <!-- BOTTOM BAR -->
+        <div class="bottom-bar">
+            <button class="bottom-bar-btn" id="bottom-btn" onclick="openPickerSmart()">
+                Escolher cartas
+            </button>
+        </div>
+
+    </div>
+
+    <!-- CARD PICKER BOTTOM SHEET -->
+    <div class="sheet-overlay" id="sheet-overlay" onclick="closePicker()">
+        <div class="sheet" onclick="event.stopPropagation()">
+            <div class="sheet-handle-area" id="sheet-handle">
+                <div class="sheet-handle"></div>
+            </div>
+            <div class="sheet-header">
+                <span class="sheet-title" id="sheet-title">Escolha uma carta</span>
+                <button class="sheet-close" onclick="closePicker()" aria-label="Fechar">&#215;</button>
+            </div>
+            <div class="sheet-search">
+                <input type="text" class="search-input" id="search-input" placeholder="Buscar carta..." oninput="onSearchInput()" autocomplete="off" spellcheck="false">
+            </div>
+            <div class="sheet-filters" id="sheet-filters">
+                <button class="filter-btn active" data-filter="todos" onclick="setFilter('todos', this)">Todos</button>
+                <button class="filter-btn" data-filter="maiores" onclick="setFilter('maiores', this)">Arcanos Maiores</button>
+                <button class="filter-btn" data-filter="copas" onclick="setFilter('copas', this)">Copas</button>
+                <button class="filter-btn" data-filter="paus" onclick="setFilter('paus', this)">Paus</button>
+                <button class="filter-btn" data-filter="espadas" onclick="setFilter('espadas', this)">Espadas</button>
+                <button class="filter-btn" data-filter="ouros" onclick="setFilter('ouros', this)">Ouros</button>
+            </div>
+            <div class="sheet-grid" id="sheet-grid">
+                <div class="card-grid" id="card-grid"></div>
             </div>
         </div>
-        <button class="btn-nav" id="btn-next" onclick="navegar(1)">›</button>
     </div>
 
-    <div class="leitura-container" id="area-swipe">
-        <div id="conteudo-leitura">
-            <div class="aviso-vazio">Adicione cartas para iniciar a leitura.</div>
+    <!-- HISTORY PANEL -->
+    <div class="history-overlay" id="history-overlay" onclick="toggleHistory()">
+        <div class="history-panel" onclick="event.stopPropagation()">
+            <div class="history-header">
+                <span class="history-title">Leituras recentes</span>
+                <button class="history-clear-btn" onclick="clearHistory()">Limpar</button>
+            </div>
+            <div class="history-list" id="history-list">
+                <!-- Rendered by JS -->
+            </div>
         </div>
     </div>
 
-    <!-- GAVETA INFERIOR SIMPLIFICADA -->
-    <div class="gaveta">
-        <button class="btn-abrir-modal" onclick="abrirModal()">+ Adicionar Carta</button>
-    </div>
+    <!-- TOAST -->
+    <div class="toast" id="toast"></div>
 
-    <!-- MODAL DE SELEÇÃO RÁPIDA -->
-    <div class="modal-overlay" id="modal-cartas">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h2>Escolha a Carta</h2>
-                <button class="btn-fechar" onclick="fecharModal()">×</button>
+    <!-- ONBOARDING -->
+    <div class="onboarding-overlay" id="onboarding">
+        <div class="onboarding-card">
+            <div class="onboarding-step-label">Bem-vindo</div>
+            <div class="onboarding-title">Taro Quebrado</div>
+            <div class="onboarding-text">
+                Escolha duas cartas para revelar as cinco dinamicas ocultas entre elas. A ordem importa.
             </div>
-            
-            <div class="filtros-container">
-                <button class="btn-filtro ativo" onclick="filtrarCartas('maiores', this)">⭐ Maiores</button>
-                <button class="btn-filtro" onclick="filtrarCartas('copas', this)">🏆 Copas</button>
-                <button class="btn-filtro" onclick="filtrarCartas('espadas', this)">⚔️ Espadas</button>
-                <button class="btn-filtro" onclick="filtrarCartas('ouros', this)">🪙 Ouros</button>
-                <button class="btn-filtro" onclick="filtrarCartas('paus', this)">🪵 Paus</button>
-            </div>
-
-            <div class="grid-cartas" id="grid-cartas-ui">
-                <!-- Cartas renderizadas aqui -->
-            </div>
+            <button class="onboarding-btn" onclick="dismissOnboarding()">Comecar</button>
         </div>
     </div>
 
     <script>
-        // ==========================================
-        // DADOS E ESTADOS
-        // ==========================================
-        let bancoDeDados =[];
-        let listaCartasUnicas = [];
-        let historicoCartas =[];
-        let parAtualIndex = 0;
+    /* =============================================
+       DATA LAYER
+       ============================================= */
+    let cardsById = new Map();
+    let cardsList = [];
+    let interactionIndex = new Map();
 
-        // Mock JSON
-        const jsonMockado =[
-          { "id": "1", "name": "O Mago", "category": "maiores", "interactions":[ { "target_id": "2", "target_name": "A Papisa", "dynamics": { "engendrar": "O Mago inicia a faísca...", "conflito": "O Mago projeta sua vontade..." } } ] },
-          { "id": "2", "name": "A Papisa", "category": "maiores", "interactions":[] },
-          { "id": "3", "name": "A Imperatriz", "category": "maiores", "interactions":[] },
-          { "id": "4", "name": "O Imperador", "category": "maiores", "interactions":[] },
-          { "id": "5", "name": "O Papa", "category": "maiores", "interactions":[] },
-          { "id": "6", "name": "O Amante", "category": "maiores", "interactions":[] },
-          { "id": "7", "name": "O Carro", "category": "maiores", "interactions":[] },
-          { "id": "8", "name": "A Justiça", "category": "maiores", "interactions":[] }
-        ];
+    function getCategory(id) {
+        const n = parseInt(id);
+        if (n <= 22) return 'maiores';
+        if (n <= 36) return 'copas';
+        if (n <= 50) return 'paus';
+        if (n <= 64) return 'espadas';
+        return 'ouros';
+    }
 
-        async function iniciarApp() {
-            setTimeout(() => {
-                bancoDeDados = jsonMockado;
-                
-                // Mapeamento simulado das cartas (Na vida real virá do seu JSON)
-                let mapaCartas = new Map();
-                bancoDeDados.forEach(base => {
-                    mapaCartas.set(base.id, { id: base.id, name: base.name, category: base.category || 'maiores' });
-                });
+    function getCategoryLabel(cat) {
+        const labels = { maiores: 'Arcano Maior', copas: 'Copas', paus: 'Paus', espadas: 'Espadas', ouros: 'Ouros' };
+        return labels[cat] || cat;
+    }
 
-                listaCartasUnicas = Array.from(mapaCartas.values());
-                listaCartasUnicas.sort((a, b) => parseInt(a.id) - parseInt(b.id));
+    function normalize(str) {
+        return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
 
-                filtrarCartas('maiores', document.querySelector('.btn-filtro'));
+    async function loadData() {
+        const loaderBar = document.getElementById('loader-bar');
+        const loaderStatus = document.getElementById('loader-status');
 
-                const loader = document.getElementById('loader');
-                loader.style.opacity = '0';
-                setTimeout(() => loader.style.display = 'none', 500);
-            }, 800);
-        }
+        try {
+            loaderStatus.textContent = 'Carregando cartas...';
+            const response = await fetch('cartas.json');
 
-        // ==========================================
-        // LÓGICA DO MODAL E FILTROS
-        // ==========================================
-        function abrirModal() {
-            document.getElementById('modal-cartas').classList.add('ativo');
-        }
+            if (!response.ok) throw new Error('Falha ao carregar dados');
 
-        function fecharModal() {
-            document.getElementById('modal-cartas').classList.remove('ativo');
-        }
+            const contentLength = response.headers.get('Content-Length');
+            const total = contentLength ? parseInt(contentLength) : 0;
+            let loaded = 0;
+            const chunks = [];
 
-        function filtrarCartas(categoria, btnElement) {
-            // Atualiza botões
-            document.querySelectorAll('.btn-filtro').forEach(btn => btn.classList.remove('ativo'));
-            btnElement.classList.add('ativo');
+            const reader = response.body.getReader();
+            const decoder = new TextDecoder();
 
-            // Filtra e renderiza as cartas
-            const container = document.getElementById('grid-cartas-ui');
-            container.innerHTML = ''; 
-
-            const cartasFiltradas = listaCartasUnicas.filter(c => c.category === categoria);
-            
-            if(cartasFiltradas.length === 0) {
-                container.innerHTML = `<p style="grid-column: 1/-1; text-align: center; color: var(--gray-text); padding-top: 20px;">Cartas de ${categoria} ainda não mapeadas.</p>`;
-                return;
+            while (true) {
+                const { done, value } = await reader.read();
+                if (done) break;
+                chunks.push(decoder.decode(value, { stream: true }));
+                loaded += value.length;
+                if (total > 0) {
+                    const pct = Math.min(Math.round((loaded / total) * 80), 80);
+                    loaderBar.style.width = pct + '%';
+                }
             }
 
-            cartasFiltradas.forEach(carta => {
-                const btn = document.createElement('button');
-                btn.className = 'btn-carta-grid';
-                btn.innerText = carta.name;
-                btn.onclick = () => {
-                    selecionarNovaCarta(carta);
-                    fecharModal();
-                };
-                container.appendChild(btn);
-            });
-        }
+            loaderStatus.textContent = 'Processando...';
+            loaderBar.style.width = '85%';
 
-        // ==========================================
-        // HISTÓRICO E EXIBIÇÃO (MANTIDO IGUAL)
-        // ==========================================
-        function selecionarNovaCarta(novaCarta) {
-            historicoCartas.push(novaCarta);
-            if (historicoCartas.length >= 2) parAtualIndex = historicoCartas.length - 2;
-            atualizarInterface();
-        }
+            const jsonText = chunks.join('');
+            const data = JSON.parse(jsonText);
 
-        function navegar(direcao) {
-            let novoIndex = parAtualIndex + direcao;
-            if (novoIndex >= 0 && novoIndex < historicoCartas.length - 1) {
-                parAtualIndex = novoIndex;
-                atualizarInterface();
-            }
-        }
+            loaderBar.style.width = '90%';
+            loaderStatus.textContent = 'Indexando combinacoes...';
 
-        function atualizarInterface() {
-            const btnPrev = document.getElementById('btn-prev');
-            const btnNext = document.getElementById('btn-next');
-            
-            if (historicoCartas.length < 2) {
-                document.getElementById('nome-carta-1').innerText = historicoCartas[0] ? historicoCartas[0].name : "---";
-                return;
-            }
+            for (const card of data) {
+                const cat = getCategory(card.id);
+                cardsById.set(card.id, { id: card.id, name: card.name, category: cat });
+                cardsList.push({ id: card.id, name: card.name, category: cat, searchName: normalize(card.name) });
 
-            const carta1 = historicoCartas[parAtualIndex];
-            const carta2 = historicoCartas[parAtualIndex + 1];
-
-            document.getElementById('nome-carta-1').innerText = carta1.name;
-            document.getElementById('nome-carta-2').innerText = carta2.name;
-
-            parAtualIndex > 0 ? btnPrev.classList.add('ativo') : btnPrev.classList.remove('ativo');
-            parAtualIndex < historicoCartas.length - 2 ? btnNext.classList.add('ativo') : btnNext.classList.remove('ativo');
-
-            exibirLeituraVertical(carta1, carta2);
-        }
-
-        function exibirLeituraVertical(carta1, carta2) {
-            const containerTexto = document.getElementById('conteudo-leitura');
-            let leituraEncontrada = null;
-
-            const baseObj = bancoDeDados.find(item => item.id === carta1.id);
-            if (baseObj && baseObj.interactions) {
-                const targetObj = baseObj.interactions.find(i => i.target_id === carta2.id);
-                if (targetObj && targetObj.dynamics) leituraEncontrada = targetObj.dynamics;
-            }
-
-            if (leituraEncontrada) {
-                let htmlDinâmicas = "";
-                const labels = { engendrar: "Engendrar", conflito: "Conflito", estagnar: "Estagnação", necessitar: "Necessidade", regressar: "Regressão" };
-                for (let key in labels) {
-                    if (leituraEncontrada[key]) {
-                        htmlDinâmicas += `<div class="dinamica-bloco"><div class="dinamica-titulo">${labels[key]}</div><div class="dinamica-texto">${leituraEncontrada[key]}</div></div>`;
+                if (card.interactions) {
+                    for (const inter of card.interactions) {
+                        const key = card.id + ':' + inter.target_id;
+                        interactionIndex.set(key, inter.dynamics);
                     }
                 }
-                containerTexto.innerHTML = htmlDinâmicas || `<div class="aviso-vazio">Leitura vazia no banco.</div>`;
-            } else {
-                containerTexto.innerHTML = `<div class="aviso-vazio">A leitura para<br><b>${carta1.name} + ${carta2.name}</b><br>ainda não foi catalogada.</div>`;
             }
-            document.getElementById('area-swipe').scrollTop = 0;
+
+            cardsList.sort((a, b) => parseInt(a.id) - parseInt(b.id));
+            loaderBar.style.width = '100%';
+            loaderStatus.textContent = 'Pronto';
+
+            return true;
+        } catch (err) {
+            loaderStatus.textContent = 'Erro ao carregar. Recarregue a pagina.';
+            console.error(err);
+            return false;
+        }
+    }
+
+    /* =============================================
+       STATE
+       ============================================= */
+    const state = {
+        slot1: null,
+        slot2: null,
+        activeSlot: null,
+        pickerOpen: false,
+        pickerFilter: 'todos',
+        pickerSearch: '',
+        historyOpen: false,
+        expandedDynamics: new Set(),
+        allExpanded: false,
+        history: [],
+    };
+
+    const DYNAMIC_KEYS = ['engendrar', 'conflito', 'estagnar', 'regressar', 'necessitar'];
+    const DYNAMIC_META = {
+        engendrar: { label: 'Engendrar', title: 'O que nasce deste encontro', desc: 'A sinergia criativa entre as cartas' },
+        conflito:  { label: 'Conflito', title: 'Onde as energias se opoem', desc: 'A tensao entre as forcas' },
+        estagnar:  { label: 'Estagnacao', title: 'O que paralisa o fluxo', desc: 'O ponto de inércia' },
+        regressar: { label: 'Regressao', title: 'O retorno a padroes antigos', desc: 'O chamado do passado' },
+        necessitar:{ label: 'Necessidade', title: 'O que precisa ser integrado', desc: 'O que falta para completar' },
+    };
+
+    /* =============================================
+       HISTORY (localStorage)
+       ============================================= */
+    const HISTORY_KEY = 'taro_quebrado_history';
+    const HISTORY_MAX = 30;
+    const ONBOARDING_KEY = 'taro_quebrado_onboarded';
+
+    function loadHistory() {
+        try {
+            const raw = localStorage.getItem(HISTORY_KEY);
+            if (raw) state.history = JSON.parse(raw);
+        } catch(e) { state.history = []; }
+    }
+
+    function saveHistory() {
+        try {
+            localStorage.setItem(HISTORY_KEY, JSON.stringify(state.history));
+        } catch(e) {}
+    }
+
+    function addToHistory(id1, id2) {
+        const existing = state.history.findIndex(h => h.s1 === id1 && h.s2 === id2);
+        if (existing >= 0) state.history.splice(existing, 1);
+        state.history.unshift({ s1: id1, s2: id2, t: Date.now() });
+        if (state.history.length > HISTORY_MAX) state.history.pop();
+        saveHistory();
+    }
+
+    function clearHistory() {
+        state.history = [];
+        saveHistory();
+        renderHistory();
+    }
+
+    /* =============================================
+       HASH ROUTING
+       ============================================= */
+    function parseHash() {
+        const hash = location.hash.replace('#/', '').replace('#', '');
+        if (!hash) return { id1: null, id2: null };
+        const parts = hash.split('/');
+        return {
+            id1: parts[0] && cardsById.has(parts[0]) ? parts[0] : null,
+            id2: parts[1] && cardsById.has(parts[1]) ? parts[1] : null,
+        };
+    }
+
+    function updateHash(id1, id2) {
+        let hash = '#/';
+        if (id1) hash += id1;
+        if (id1 && id2) hash += '/' + id2;
+        if (location.hash !== hash) {
+            history.pushState(null, '', hash);
+        }
+    }
+
+    function onHashChange() {
+        const { id1, id2 } = parseHash();
+        state.slot1 = id1;
+        state.slot2 = id2;
+        state.expandedDynamics = new Set(['engendrar']);
+        state.allExpanded = false;
+        render();
+        if (id1 && id2) addToHistory(id1, id2);
+    }
+
+    /* =============================================
+       RENDER
+       ============================================= */
+    function render() {
+        renderSlots();
+        renderReading();
+        renderToolbar();
+        renderBottomBtn();
+        renderShareBtn();
+    }
+
+    function renderSlots() {
+        renderSlot(1, state.slot1);
+        renderSlot(2, state.slot2);
+
+        const swapBtn = document.getElementById('swap-btn');
+        if (state.slot1 && state.slot2) {
+            swapBtn.classList.add('active');
+        } else {
+            swapBtn.classList.remove('active');
+        }
+    }
+
+    function renderSlot(num, cardId) {
+        const slotEl = document.getElementById('slot-' + num);
+        const nameEl = document.getElementById('slot-' + num + '-name');
+        const emptyEl = document.getElementById('slot-' + num + '-empty');
+
+        if (cardId && cardsById.has(cardId)) {
+            const card = cardsById.get(cardId);
+            nameEl.textContent = card.name;
+            nameEl.style.display = '';
+            emptyEl.style.display = 'none';
+            slotEl.classList.add('filled');
+        } else {
+            nameEl.style.display = 'none';
+            emptyEl.style.display = '';
+            slotEl.classList.remove('filled');
+        }
+    }
+
+    function renderToolbar() {
+        const toolbar = document.getElementById('toolbar');
+        const label = document.getElementById('toolbar-label');
+        if (state.slot1 && state.slot2) {
+            toolbar.style.display = '';
+            const c1 = cardsById.get(state.slot1);
+            const c2 = cardsById.get(state.slot2);
+            label.textContent = c1.name + '  \u2192  ' + c2.name;
+        } else {
+            toolbar.style.display = 'none';
+        }
+    }
+
+    function renderBottomBtn() {
+        const btn = document.getElementById('bottom-btn');
+        if (!state.slot1) {
+            btn.textContent = 'Escolher cartas';
+        } else if (!state.slot2) {
+            btn.textContent = 'Escolher segunda carta';
+        } else {
+            btn.textContent = 'Trocar cartas';
+        }
+    }
+
+    function renderShareBtn() {
+        const btn = document.getElementById('share-btn');
+        btn.style.display = (state.slot1 && state.slot2) ? '' : 'none';
+    }
+
+    function renderReading() {
+        const container = document.getElementById('reading-content');
+        const readingArea = document.getElementById('reading-area');
+
+        if (!state.slot1 && !state.slot2) {
+            container.innerHTML = renderEmptyState();
+            readingArea.scrollTop = 0;
+            return;
         }
 
-        // SWIPE
-        let touchstartX = 0; let touchendX = 0;
-        const swipeArea = document.getElementById('area-swipe');
-        swipeArea.addEventListener('touchstart', e => touchstartX = e.changedTouches[0].screenX);
-        swipeArea.addEventListener('touchend', e => {
-            touchendX = e.changedTouches[0].screenX;
-            if (touchendX - touchstartX < -40) navegar(1);
-            if (touchendX - touchstartX > 40) navegar(-1);
-        });
+        if (!state.slot1 || !state.slot2) {
+            const filledId = state.slot1 || state.slot2;
+            const card = cardsById.get(filledId);
+            container.innerHTML = `
+                <div class="partial-state">
+                    <div class="partial-state-text">
+                        ${card.name} aguarda uma companhia.
+                    </div>
+                </div>
+            `;
+            readingArea.scrollTop = 0;
+            return;
+        }
 
-        window.onload = iniciarApp;
+        const card1 = cardsById.get(state.slot1);
+        const card2 = cardsById.get(state.slot2);
+        const key = state.slot1 + ':' + state.slot2;
+        const dynamics = interactionIndex.get(key);
+
+        let html = `
+            <div class="reading-header">
+                <div class="reading-pair-label">Leitura</div>
+                <div class="reading-pair-names">
+                    ${card1.name}<span class="reading-pair-connector"> &amp; </span>${card2.name}
+                </div>
+                <div class="reading-direction-hint">${card1.name} sobre ${card2.name} &mdash; a ordem importa</div>
+            </div>
+        `;
+
+        if (dynamics) {
+            html += '<div class="dynamics-list">';
+            for (const dk of DYNAMIC_KEYS) {
+                if (!dynamics[dk]) continue;
+                const meta = DYNAMIC_META[dk];
+                const isExpanded = state.allExpanded || state.expandedDynamics.has(dk);
+                html += `
+                    <div class="dynamic-section ${isExpanded ? 'expanded' : ''}" id="dyn-${dk}">
+                        <button class="dynamic-header" onclick="toggleDynamic('${dk}')" aria-expanded="${isExpanded}">
+                            <div class="dynamic-header-left">
+                                <span class="dynamic-label">${meta.label}</span>
+                                <span class="dynamic-title">${meta.title}</span>
+                            </div>
+                            <svg class="dynamic-chevron" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg>
+                        </button>
+                        <div class="dynamic-body">
+                            <div class="dynamic-text">${dynamics[dk]}</div>
+                        </div>
+                    </div>
+                `;
+            }
+            html += '</div>';
+        } else {
+            html += `
+                <div class="partial-state" style="padding-top: var(--space-2xl);">
+                    <div class="partial-state-text">
+                        Combinacao ainda nao catalogada.
+                    </div>
+                </div>
+            `;
+        }
+
+        container.innerHTML = html;
+        readingArea.scrollTop = 0;
+    }
+
+    function renderEmptyState() {
+        return `
+            <div class="empty-state">
+                <div class="empty-state-icon">&#9733;</div>
+                <div class="empty-state-title">Sua leitura comeca aqui</div>
+                <div class="empty-state-text">
+                    Escolha duas cartas de taro para revelar as cinco dinamicas entre elas.
+                </div>
+                <button class="empty-state-btn" onclick="openPicker(1)">Escolher primeira carta</button>
+            </div>
+        `;
+    }
+
+    /* =============================================
+       DYNAMICS ACCORDION
+       ============================================= */
+    function toggleDynamic(key) {
+        if (state.allExpanded) {
+            state.allExpanded = false;
+            state.expandedDynamics = new Set(DYNAMIC_KEYS);
+            state.expandedDynamics.delete(key);
+        } else {
+            if (state.expandedDynamics.has(key)) {
+                state.expandedDynamics.delete(key);
+            } else {
+                state.expandedDynamics.add(key);
+            }
+        }
+        updateDynamicsDOM();
+    }
+
+    function expandAllDynamics() {
+        const btn = document.getElementById('expand-all-btn');
+        if (state.allExpanded) {
+            state.allExpanded = false;
+            state.expandedDynamics = new Set(['engendrar']);
+            btn.innerHTML = '<svg viewBox="0 0 24 24"><polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/><line x1="21" y1="3" x2="14" y2="10"/><line x1="3" y1="21" x2="10" y2="14"/></svg> Expandir';
+        } else {
+            state.allExpanded = true;
+            state.expandedDynamics = new Set(DYNAMIC_KEYS);
+            btn.innerHTML = '<svg viewBox="0 0 24 24"><polyline points="4 14 10 14 10 20"/><polyline points="20 10 14 10 14 4"/><line x1="14" y1="10" x2="21" y2="3"/><line x1="3" y1="21" x2="10" y2="14"/></svg> Recolher';
+        }
+        updateDynamicsDOM();
+    }
+
+    function updateDynamicsDOM() {
+        for (const dk of DYNAMIC_KEYS) {
+            const el = document.getElementById('dyn-' + dk);
+            if (!el) continue;
+            const isExpanded = state.allExpanded || state.expandedDynamics.has(dk);
+            if (isExpanded) {
+                el.classList.add('expanded');
+            } else {
+                el.classList.remove('expanded');
+            }
+            el.querySelector('.dynamic-header').setAttribute('aria-expanded', isExpanded);
+        }
+    }
+
+    /* =============================================
+       CARD PICKER
+       ============================================= */
+    function openPicker(slotNum) {
+        state.activeSlot = slotNum;
+        state.pickerSearch = '';
+        document.getElementById('search-input').value = '';
+        document.getElementById('sheet-title').textContent = 'Carta ' + slotNum;
+
+        const overlay = document.getElementById('sheet-overlay');
+        overlay.classList.add('open');
+        state.pickerOpen = true;
+
+        document.body.style.overflow = 'hidden';
+        renderCardGrid();
+
+        setTimeout(() => {
+            document.getElementById('search-input').focus();
+        }, 350);
+    }
+
+    function openPickerSmart() {
+        if (!state.slot1) {
+            openPicker(1);
+        } else if (!state.slot2) {
+            openPicker(2);
+        } else {
+            openPicker(1);
+        }
+    }
+
+    function closePicker() {
+        const overlay = document.getElementById('sheet-overlay');
+        overlay.classList.remove('open');
+        state.pickerOpen = false;
+        document.body.style.overflow = '';
+    }
+
+    function setFilter(filter, btnEl) {
+        state.pickerFilter = filter;
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btnEl.classList.add('active');
+        renderCardGrid();
+    }
+
+    let searchTimeout = null;
+    function onSearchInput() {
+        clearTimeout(searchTimeout);
+        searchTimeout = setTimeout(() => {
+            state.pickerSearch = normalize(document.getElementById('search-input').value.trim());
+            renderCardGrid();
+        }, 120);
+    }
+
+    function renderCardGrid() {
+        const grid = document.getElementById('card-grid');
+        let filtered = cardsList;
+
+        if (state.pickerFilter !== 'todos') {
+            filtered = filtered.filter(c => c.category === state.pickerFilter);
+        }
+
+        if (state.pickerSearch) {
+            filtered = filtered.filter(c => c.searchName.includes(state.pickerSearch));
+        }
+
+        if (filtered.length === 0) {
+            grid.innerHTML = '<div class="card-grid-empty">Nenhuma carta encontrada</div>';
+            return;
+        }
+
+        let html = '';
+        for (const card of filtered) {
+            const isInSlot = (card.id === state.slot1 || card.id === state.slot2);
+            html += `<button class="card-grid-item ${isInSlot ? 'in-slot' : ''}" onclick="selectCard('${card.id}')">${card.name}</button>`;
+        }
+        grid.innerHTML = html;
+    }
+
+    function selectCard(cardId) {
+        if (state.activeSlot === 1) {
+            state.slot1 = cardId;
+        } else {
+            state.slot2 = cardId;
+        }
+
+        closePicker();
+        updateHash(state.slot1, state.slot2);
+        state.expandedDynamics = new Set(['engendrar']);
+        state.allExpanded = false;
+        render();
+
+        if (state.slot1 && state.slot2) {
+            addToHistory(state.slot1, state.slot2);
+        }
+
+        // Auto-open picker for slot 2 if only slot 1 was just filled
+        if (state.activeSlot === 1 && state.slot1 && !state.slot2) {
+            setTimeout(() => openPicker(2), 400);
+        }
+    }
+
+    /* =============================================
+       CARD ACTIONS
+       ============================================= */
+    function swapCards() {
+        if (!state.slot1 || !state.slot2) return;
+        const temp = state.slot1;
+        state.slot1 = state.slot2;
+        state.slot2 = temp;
+        state.expandedDynamics = new Set(['engendrar']);
+        state.allExpanded = false;
+        updateHash(state.slot1, state.slot2);
+        render();
+        if (state.slot1 && state.slot2) addToHistory(state.slot1, state.slot2);
+        showToast('Ordem invertida');
+    }
+
+    function removeCard(slotNum) {
+        if (slotNum === 1) {
+            state.slot1 = null;
+        } else {
+            state.slot2 = null;
+        }
+        updateHash(state.slot1, state.slot2);
+        render();
+    }
+
+    function clearCards() {
+        state.slot1 = null;
+        state.slot2 = null;
+        updateHash(null, null);
+        render();
+        showToast('Cartas removidas');
+    }
+
+    /* =============================================
+       SHARE
+       ============================================= */
+    function shareReading() {
+        const url = location.href;
+        if (navigator.share) {
+            const c1 = cardsById.get(state.slot1);
+            const c2 = cardsById.get(state.slot2);
+            navigator.share({
+                title: 'Taro Quebrado',
+                text: c1.name + ' & ' + c2.name,
+                url: url,
+            }).catch(() => {});
+        } else if (navigator.clipboard) {
+            navigator.clipboard.writeText(url).then(() => {
+                showToast('Link copiado');
+            }).catch(() => {
+                showToast('Falha ao copiar');
+            });
+        }
+    }
+
+    /* =============================================
+       HISTORY PANEL
+       ============================================= */
+    function toggleHistory() {
+        const overlay = document.getElementById('history-overlay');
+        state.historyOpen = !state.historyOpen;
+        if (state.historyOpen) {
+            overlay.classList.add('open');
+            document.body.style.overflow = 'hidden';
+            renderHistory();
+        } else {
+            overlay.classList.remove('open');
+            if (!state.pickerOpen) document.body.style.overflow = '';
+        }
+    }
+
+    function renderHistory() {
+        const list = document.getElementById('history-list');
+
+        if (state.history.length === 0) {
+            list.innerHTML = '<div class="history-empty">Nenhuma leitura ainda.</div>';
+            return;
+        }
+
+        let html = '';
+        for (const item of state.history) {
+            const c1 = cardsById.get(item.s1);
+            const c2 = cardsById.get(item.s2);
+            if (!c1 || !c2) continue;
+
+            const timeAgo = formatTimeAgo(item.t);
+            html += `
+                <button class="history-item" onclick="loadFromHistory('${item.s1}', '${item.s2}')">
+                    <div class="history-item-text">
+                        <div class="history-item-pair">
+                            ${c1.name} <span class="history-item-connector">&</span> ${c2.name}
+                        </div>
+                        <div class="history-item-time">${timeAgo}</div>
+                    </div>
+                </button>
+            `;
+        }
+        list.innerHTML = html;
+    }
+
+    function loadFromHistory(id1, id2) {
+        toggleHistory();
+        state.slot1 = id1;
+        state.slot2 = id2;
+        state.expandedDynamics = new Set(['engendrar']);
+        state.allExpanded = false;
+        updateHash(id1, id2);
+        render();
+    }
+
+    function formatTimeAgo(timestamp) {
+        const diff = Date.now() - timestamp;
+        const mins = Math.floor(diff / 60000);
+        if (mins < 1) return 'agora';
+        if (mins < 60) return mins + ' min';
+        const hours = Math.floor(mins / 60);
+        if (hours < 24) return hours + 'h';
+        const days = Math.floor(hours / 24);
+        return days + 'd';
+    }
+
+    /* =============================================
+       TOAST
+       ============================================= */
+    let toastTimeout = null;
+    function showToast(msg) {
+        const toast = document.getElementById('toast');
+        toast.textContent = msg;
+        toast.classList.add('visible');
+        clearTimeout(toastTimeout);
+        toastTimeout = setTimeout(() => {
+            toast.classList.remove('visible');
+        }, 2000);
+    }
+
+    /* =============================================
+       ONBOARDING
+       ============================================= */
+    function checkOnboarding() {
+        try {
+            if (!localStorage.getItem(ONBOARDING_KEY)) {
+                document.getElementById('onboarding').classList.add('visible');
+            }
+        } catch(e) {}
+    }
+
+    function dismissOnboarding() {
+        document.getElementById('onboarding').classList.remove('visible');
+        try {
+            localStorage.setItem(ONBOARDING_KEY, '1');
+        } catch(e) {}
+    }
+
+    /* =============================================
+       KEYBOARD NAVIGATION
+       ============================================= */
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            if (state.pickerOpen) { closePicker(); return; }
+            if (state.historyOpen) { toggleHistory(); return; }
+        }
+        // Allow Enter on card slots
+        if (e.key === 'Enter') {
+            const active = document.activeElement;
+            if (active && active.classList.contains('card-slot')) {
+                active.click();
+            }
+        }
+    });
+
+    /* =============================================
+       SHEET DRAG TO DISMISS (MOBILE)
+       ============================================= */
+    (function setupSheetDrag() {
+        const handle = document.getElementById('sheet-handle');
+        const sheet = handle ? handle.closest('.sheet') : null;
+        if (!sheet) return;
+
+        let startY = 0;
+        let currentY = 0;
+        let dragging = false;
+
+        handle.addEventListener('touchstart', (e) => {
+            startY = e.touches[0].clientY;
+            dragging = true;
+            sheet.style.transition = 'none';
+        }, { passive: true });
+
+        document.addEventListener('touchmove', (e) => {
+            if (!dragging) return;
+            currentY = e.touches[0].clientY;
+            const diff = currentY - startY;
+            if (diff > 0) {
+                sheet.style.transform = 'translateY(' + diff + 'px)';
+            }
+        }, { passive: true });
+
+        document.addEventListener('touchend', () => {
+            if (!dragging) return;
+            dragging = false;
+            sheet.style.transition = '';
+            const diff = currentY - startY;
+            if (diff > 100) {
+                closePicker();
+            }
+            sheet.style.transform = '';
+            currentY = 0;
+            startY = 0;
+        });
+    })();
+
+    /* =============================================
+       INIT
+       ============================================= */
+    async function init() {
+        const success = await loadData();
+        if (!success) return;
+
+        const loader = document.getElementById('loader');
+        loader.classList.add('hidden');
+
+        const app = document.getElementById('app');
+        app.classList.add('visible');
+
+        loadHistory();
+
+        // Parse initial hash
+        const { id1, id2 } = parseHash();
+        state.slot1 = id1;
+        state.slot2 = id2;
+        if (id1) state.expandedDynamics = new Set(['engendrar']);
+
+        render();
+
+        if (id1 && id2) addToHistory(id1, id2);
+
+        window.addEventListener('hashchange', onHashChange);
+        window.addEventListener('popstate', onHashChange);
+
+        checkOnboarding();
+    }
+
+    init();
     </script>
 </body>
 </html>

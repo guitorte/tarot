@@ -1,0 +1,203 @@
+import React, { useState, useRef, useEffect } from 'react';
+import { Plus, Search, GripVertical, ArrowRightLeft } from 'lucide-react';
+
+export default function TaroQuebrado() {
+  // Estado inicial simulando as cartas selecionadas na linha do tempo
+  const [timeline, setTimeline] = useState([
+    { id: 'mago', num: 'I', name: 'O Mago' },
+    { id: 'imperador', num: 'IV', name: 'O Imperador' },
+    { id: 'diabo', num: 'XV', name: 'O Diabo' },
+  ]);
+
+  // Modal de busca
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const carouselRef = useRef(null);
+
+  // Navegação por teclado (Setas)
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if (e.key === 'ArrowRight' && carouselRef.current) {
+        carouselRef.current.scrollBy({ left: window.innerWidth, behavior: 'smooth' });
+      } else if (e.key === 'ArrowLeft' && carouselRef.current) {
+        carouselRef.current.scrollBy({ left: -window.innerWidth, behavior: 'smooth' });
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
+
+  // Simula a inversão de cartas (Para o Drag & Drop futuro)
+  const swapCards = (indexA, indexB) => {
+    const newTimeline = [...timeline];
+    const temp = newTimeline[indexA];
+    newTimeline[indexA] = newTimeline[indexB];
+    newTimeline[indexB] = temp;
+    setTimeline(newTimeline);
+  };
+
+  return (
+    <div className="flex flex-col h-screen w-full bg-white text-black font-sans overflow-hidden selection:bg-black selection:text-white">
+      
+      {/* HEADER FIXO - LINHA DO TEMPO (Estética Terminal/Wireframe) */}
+      <header className="flex-shrink-0 border-b-4 border-black p-4 bg-white z-10 flex items-center gap-2 overflow-x-auto hide-scrollbar">
+        
+        {/* Ghost Slot Esquerdo */}
+        <button 
+          onClick={() => setIsModalOpen(true)}
+          className="flex-shrink-0 h-16 w-16 flex items-center justify-center border-2 border-dashed border-black hover:bg-black hover:text-white transition-colors cursor-pointer"
+        >
+          <Plus size={24} />
+        </button>
+
+        {/* Cartas na Linha do Tempo */}
+        {timeline.map((card, idx) => {
+          // Lógica simplificada: na vida real, basearíamos na posição do scroll
+          const isActive = idx === 0 || idx === 1; 
+
+          return (
+            <div key={card.id} className="flex items-center gap-2 flex-shrink-0">
+              <div 
+                className={`
+                  relative flex flex-col justify-center px-4 h-16 border-2 border-black
+                  font-mono uppercase tracking-tighter cursor-grab active:cursor-grabbing
+                  transition-all duration-200
+                  ${isActive ? 'opacity-100 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] bg-white' : 'opacity-40 border-dashed'}
+                `}
+              >
+                <div className="flex items-center gap-2">
+                  <GripVertical size={16} className="opacity-50" />
+                  <span className="font-bold">{card.num}.</span>
+                  <span>{card.name}</span>
+                </div>
+              </div>
+
+              {/* Botão de trocar (Representa a ação de inversão) */}
+              {idx < timeline.length - 1 && (
+                <button 
+                  onClick={() => swapCards(idx, idx + 1)}
+                  className="p-2 border-2 border-black hover:bg-black hover:text-white transition-colors rotate-90 md:rotate-0"
+                  title="Inverter Cartas"
+                >
+                  <ArrowRightLeft size={16} />
+                </button>
+              )}
+            </div>
+          );
+        })}
+
+        {/* Ghost Slot Direito */}
+        <button 
+          onClick={() => setIsModalOpen(true)}
+          className="flex-shrink-0 h-16 w-16 flex items-center justify-center border-2 border-dashed border-black hover:bg-black hover:text-white transition-colors cursor-pointer"
+        >
+          <Plus size={24} />
+        </button>
+      </header>
+
+      {/* ÁREA PRINCIPAL - CARROSSEL COM SCROLL SNAP */}
+      <main 
+        ref={carouselRef}
+        className="flex-1 flex overflow-x-auto snap-x snap-mandatory"
+        style={{ scrollbarWidth: 'none' }} // Esconde barra no Firefox
+      >
+        {/* GERAÇÃO DOS PARES DE LEITURA (Slides) */}
+        {[0, 1].map((pairIndex) => {
+          if (pairIndex + 1 >= timeline.length) return null;
+          
+          const cardA = timeline[pairIndex];
+          const cardB = timeline[pairIndex + 1];
+
+          return (
+            <article 
+              key={`pair-${pairIndex}`}
+              className="w-full h-full flex-shrink-0 snap-center overflow-y-auto border-r-4 border-black"
+            >
+              {/* Cabeçalho da Leitura */}
+              <div className="sticky top-0 bg-white border-b-4 border-black p-6 z-10 flex flex-col md:flex-row md:items-end justify-between gap-4">
+                <h1 className="font-serif text-3xl md:text-5xl font-black leading-none tracking-tight">
+                  {cardA.name} <br/>
+                  <span className="text-gray-400">×</span> {cardB.name}
+                </h1>
+                <span className="font-mono text-xs uppercase border-2 border-black px-2 py-1 bg-black text-white self-start md:self-auto">
+                  Combinação Estrutural
+                </span>
+              </div>
+
+              {/* O Texto - Dinâmicas (Com tipografia serifa clássica) */}
+              <div className="p-6 md:p-12 md:max-w-3xl font-serif text-lg leading-relaxed space-y-12">
+                <section>
+                  <h2 className="font-mono text-sm uppercase font-bold tracking-widest border-b-2 border-black pb-2 mb-4">
+                    [01] Tensão Primária
+                  </h2>
+                  <p>A iniciativa manifesta ({cardA.num}) colide com a estrutura estabelecida ({cardB.num}). Aqui, a vontade pura não é suficiente; ela precisa ser contida e organizada pelas leis do mundo material. É o rascunho caótico encontrando a malha da engenharia.</p>
+                </section>
+
+                <section>
+                  <h2 className="font-mono text-sm uppercase font-bold tracking-widest border-b-2 border-black pb-2 mb-4">
+                    [02] Resolução Prática
+                  </h2>
+                  <p>Existe uma fricção óbvia. Para que a ideia do Mago sobreviva, o Imperador exige um sistema. A leitura sugere a construção de limites rígidos temporários para abrigar um processo criativo intenso. Não tente subverter o sistema agora; use-o como alavanca.</p>
+                  <p className="mt-4">O risco dessa dinâmica é a paralisia burocrática esmagando a fagulha inicial antes que ela tome forma utilitária.</p>
+                </section>
+
+                <section>
+                  <h2 className="font-mono text-sm uppercase font-bold tracking-widest border-b-2 border-black pb-2 mb-4">
+                    [03] O Ponto Cego
+                  </h2>
+                  <p>A ilusão do controle. Acreditar que o ímpeto inicial pode ser totalmente domado. Há uma energia residual aqui que escapará da estrutura se não houver válvulas de escape programadas no plano.</p>
+                  <div className="mt-6 p-4 border-l-4 border-black bg-gray-50 text-base font-mono">
+                    <span className="block text-red-600 font-bold mb-2">ERRO SISTÊMICO ENCONTRADO:</span>
+                    Não confundir a autoridade sobre o método com a autoridade sobre o resultado.
+                  </div>
+                </section>
+                
+                {/* Espaço extra para permitir teste de rolagem */}
+                <div className="h-32"></div> 
+              </div>
+            </article>
+          );
+        })}
+      </main>
+
+      {/* MODAL / BOTTOM SHEET DE BUSCA (Estética Glitch) */}
+      {isModalOpen && (
+        <div className="fixed inset-0 bg-white/80 backdrop-blur-sm z-50 flex items-center justify-center p-4">
+          <div className="w-full max-w-md bg-white border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] flex flex-col max-h-[80vh]">
+            
+            <div className="p-4 border-b-4 border-black flex items-center justify-between bg-black text-white">
+              <span className="font-mono uppercase tracking-widest text-sm">Adicionar_Carta.exe</span>
+              <button onClick={() => setIsModalOpen(false)} className="font-mono hover:text-red-500">
+                [X]
+              </button>
+            </div>
+
+            <div className="p-4 border-b-4 border-black relative">
+              <Search className="absolute left-7 top-7" size={20} />
+              <input 
+                autoFocus
+                type="text" 
+                placeholder="Digite o nome ou número..." 
+                className="w-full border-2 border-black font-mono p-3 pl-12 focus:outline-none focus:bg-yellow-100 transition-colors placeholder:text-gray-400 uppercase text-sm"
+              />
+            </div>
+
+            <ul className="flex-1 overflow-y-auto font-mono text-sm">
+              <li className="p-4 border-b-2 border-dashed border-black hover:bg-black hover:text-white cursor-pointer flex justify-between">
+                <span>II. A Sacerdotisa</span>
+                <span className="text-gray-400 opacity-50">+ ADD</span>
+              </li>
+              <li className="p-4 border-b-2 border-dashed border-black hover:bg-black hover:text-white cursor-pointer flex justify-between">
+                <span>III. A Imperatriz</span>
+                <span className="text-gray-400 opacity-50">+ ADD</span>
+              </li>
+              <li className="p-4 border-b-2 border-dashed border-black hover:bg-black hover:text-white cursor-pointer flex justify-between text-red-600">
+                <span>XVI. A Torre</span>
+                <span className="opacity-50">+ ADD</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}

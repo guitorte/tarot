@@ -3,871 +3,801 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="description" content="Taro Quebrado - Leitor de combinacoes de cartas de taro">
+    <meta name="description" content="Tarô Quebrado — leitor de combinações de cartas de tarô. Explore as cinco dinâmicas ocultas entre cada par.">
     <meta name="theme-color" content="#ffffff">
-    <title>Taro Quebrado</title>
+    <title>Tarô Quebrado</title>
     <style>
-        /* ============================================
-           CSS CUSTOM PROPERTIES
-           ============================================ */
+        /* ===========================================
+           DESIGN TOKENS
+           =========================================== */
         :root {
-            --bg: #ffffff;
-            --bg-elevated: #f8f8f8;
-            --bg-overlay: rgba(0,0,0,0.4);
-            --text: #111111;
-            --text-secondary: #555555;
-            --text-tertiary: #999999;
-            --border: #e0e0e0;
-            --border-light: #f0f0f0;
-            --accent: #000000;
-            --accent-inverse: #ffffff;
-            --surface: #fafafa;
-            --danger: #cc0000;
+            --white: #ffffff;
+            --black: #111111;
+            --gray-1: #1a1a1a;
+            --gray-2: #333333;
+            --gray-3: #555555;
+            --gray-4: #888888;
+            --gray-5: #aaaaaa;
+            --gray-6: #cccccc;
+            --gray-7: #e5e5e5;
+            --gray-8: #f2f2f2;
+            --gray-9: #f9f9f9;
+            --danger: #c00;
 
-            --font-serif: 'Georgia', 'Baskerville', 'Times New Roman', serif;
-            --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+            --serif: 'Georgia', 'Times New Roman', 'Baskerville', serif;
+            --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 
-            --radius-sm: 4px;
-            --radius-md: 8px;
-            --radius-lg: 16px;
-            --radius-xl: 24px;
-
-            --transition-fast: 150ms ease;
-            --transition-normal: 300ms ease;
-            --transition-slow: 500ms ease;
-
-            --space-xs: 4px;
-            --space-sm: 8px;
-            --space-md: 16px;
-            --space-lg: 24px;
-            --space-xl: 32px;
-            --space-2xl: 48px;
-            --space-3xl: 64px;
-
-            --header-height: 56px;
-            --mesa-height: 140px;
-            --toolbar-height: 48px;
+            --ease-out: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            --ease-spring: cubic-bezier(0.32, 0.72, 0, 1);
         }
 
-        /* ============================================
-           RESET & BASE
-           ============================================ */
+        /* ===========================================
+           RESET
+           =========================================== */
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-        html {
-            height: 100%;
-            -webkit-text-size-adjust: 100%;
-        }
-
+        html { height: 100%; -webkit-text-size-adjust: 100%; }
         body {
             height: 100%;
-            background: var(--bg);
-            color: var(--text);
-            font-family: var(--font-serif);
-            line-height: 1.6;
-            overflow: hidden;
+            font-family: var(--serif);
+            color: var(--black);
+            background: var(--white);
             -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
-        }
-
-        button {
-            font-family: inherit;
-            cursor: pointer;
-            border: none;
-            background: none;
-            color: inherit;
-            font-size: inherit;
-        }
-
-        button:focus-visible {
-            outline: 2px solid var(--accent);
-            outline-offset: 2px;
-        }
-
-        input:focus-visible {
-            outline: 2px solid var(--accent);
-            outline-offset: 2px;
-        }
-
-        /* ============================================
-           LOADER
-           ============================================ */
-        #loader {
-            position: fixed;
-            top: 0; left: 0; width: 100%; height: 100%;
-            background: var(--bg);
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            z-index: 9999;
-            transition: opacity var(--transition-slow);
-        }
-
-        #loader.hidden {
-            opacity: 0;
-            pointer-events: none;
-        }
-
-        .loader-title {
-            font-family: var(--font-sans);
-            font-size: 0.7rem;
-            text-transform: uppercase;
-            letter-spacing: 4px;
-            color: var(--text);
-            margin-bottom: var(--space-xl);
-        }
-
-        .loader-bar-track {
-            width: 120px;
-            height: 1px;
-            background: var(--border);
-            position: relative;
             overflow: hidden;
         }
+        button { font-family: inherit; cursor: pointer; border: none; background: none; color: inherit; }
+        button:focus-visible, input:focus-visible { outline: 2px solid var(--black); outline-offset: 2px; }
+        input { font-family: var(--sans); }
 
-        .loader-bar-fill {
-            position: absolute;
-            top: 0; left: 0;
-            height: 100%;
-            width: 0%;
-            background: var(--accent);
-            transition: width 200ms linear;
-        }
-
-        .loader-status {
-            font-family: var(--font-sans);
-            font-size: 0.65rem;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            color: var(--text-tertiary);
-            margin-top: var(--space-md);
-        }
-
-        /* ============================================
-           APP LAYOUT
-           ============================================ */
+        /* ===========================================
+           LAYOUT SHELL
+           =========================================== */
         #app {
             display: none;
             flex-direction: column;
             height: 100%;
         }
+        #app.visible { display: flex; }
 
-        #app.visible {
-            display: flex;
-        }
-
-        /* ============================================
-           HEADER
-           ============================================ */
-        .header {
-            height: var(--header-height);
+        .app-header {
+            height: 48px;
             display: flex;
             align-items: center;
             justify-content: center;
-            border-bottom: 1px solid var(--border);
+            border-bottom: 1px solid var(--gray-7);
             flex-shrink: 0;
             position: relative;
-            padding: 0 var(--space-md);
+            z-index: 10;
+            background: var(--white);
         }
 
-        .header-title {
-            font-family: var(--font-sans);
-            font-size: 0.75rem;
+        .app-header h1 {
+            font-family: var(--sans);
+            font-size: 0.7rem;
             text-transform: uppercase;
-            letter-spacing: 3px;
+            letter-spacing: 3.5px;
             font-weight: 400;
         }
 
-        .header-btn {
+        .hdr-btn {
             position: absolute;
-            width: 40px;
-            height: 40px;
+            width: 44px; height: 44px;
             display: flex;
             align-items: center;
             justify-content: center;
             border-radius: 50%;
-            transition: background var(--transition-fast);
+        }
+        .hdr-btn:hover { background: var(--gray-8); }
+        .hdr-btn svg { width: 18px; height: 18px; stroke: var(--black); stroke-width: 1.5; fill: none; }
+        .hdr-left { left: 4px; }
+        .hdr-right { right: 4px; }
+
+        .app-body {
+            flex: 1;
+            display: flex;
+            overflow: hidden;
         }
 
-        .header-btn:hover {
-            background: var(--bg-elevated);
+        /* ===========================================
+           SIDEBAR (Desktop ≥1024px only)
+           =========================================== */
+        .sidebar {
+            display: none;
+            width: 320px;
+            flex-shrink: 0;
+            border-right: 1px solid var(--gray-7);
+            flex-direction: column;
+            background: var(--white);
         }
 
-        .header-btn-left { left: var(--space-sm); }
-        .header-btn-right { right: var(--space-sm); }
-
-        .header-btn svg {
-            width: 18px;
-            height: 18px;
-            stroke: var(--text);
-            stroke-width: 1.5;
-            fill: none;
+        .sb-header {
+            padding: 20px 24px 0;
         }
 
-        /* ============================================
-           MAIN LAYOUT
-           ============================================ */
-        .main-layout {
+        .sb-label {
+            font-family: var(--sans);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--gray-4);
+            margin-bottom: 12px;
+        }
+
+        .sb-active-hint {
+            font-family: var(--sans);
+            font-size: 0.65rem;
+            color: var(--black);
+            background: var(--gray-8);
+            padding: 6px 12px;
+            border-radius: 4px;
+            margin-bottom: 16px;
+            display: none;
+            letter-spacing: 0.3px;
+        }
+        .sb-active-hint.visible { display: block; }
+
+        .sb-search {
+            width: 100%;
+            padding: 10px 0;
+            border: none;
+            border-bottom: 1px solid var(--gray-7);
+            font-size: 0.85rem;
+            color: var(--black);
+            background: transparent;
+            letter-spacing: 0.2px;
+        }
+        .sb-search::placeholder { color: var(--gray-5); }
+
+        .sb-filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            padding: 14px 24px;
+            border-bottom: 1px solid var(--gray-7);
+        }
+
+        .sb-filter-btn {
+            padding: 5px 12px;
+            border: 1px solid var(--gray-7);
+            border-radius: 20px;
+            font-family: var(--sans);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: var(--gray-3);
+            transition: all 150ms ease;
+        }
+        .sb-filter-btn:hover { border-color: var(--gray-4); }
+        .sb-filter-btn.active {
+            background: var(--black);
+            color: var(--white);
+            border-color: var(--black);
+        }
+
+        .sb-scroll {
+            flex: 1;
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .sb-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 6px;
+            padding: 12px 24px 24px;
+        }
+
+        .sb-card-btn {
+            padding: 10px 6px;
+            border: 1px solid var(--gray-7);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-align: center;
+            line-height: 1.25;
+            transition: all 120ms ease;
+            position: relative;
+        }
+        .sb-card-btn:hover { border-color: var(--gray-4); background: var(--gray-9); }
+        .sb-card-btn:active { transform: scale(0.97); }
+        .sb-card-btn.in-use {
+            border-color: var(--black);
+            font-weight: 600;
+        }
+        .sb-card-btn.in-use::after {
+            content: '';
+            position: absolute;
+            top: 4px; right: 4px;
+            width: 5px; height: 5px;
+            border-radius: 50%;
+            background: var(--black);
+        }
+
+        .sb-divider {
+            height: 1px;
+            background: var(--gray-7);
+            margin: 0 24px;
+        }
+
+        .sb-history-section {
+            padding: 16px 24px 24px;
+        }
+
+        .sb-history-item {
+            display: block;
+            width: 100%;
+            text-align: left;
+            padding: 10px 0;
+            border-bottom: 1px solid var(--gray-8);
+            transition: opacity 120ms;
+        }
+        .sb-history-item:hover { opacity: 0.6; }
+        .sb-history-pair {
+            font-size: 0.82rem;
+            line-height: 1.3;
+        }
+        .sb-history-pair .arr { color: var(--gray-5); }
+        .sb-history-time {
+            font-family: var(--sans);
+            font-size: 0.6rem;
+            color: var(--gray-5);
+            margin-top: 2px;
+        }
+
+        .sb-empty {
+            color: var(--gray-5);
+            font-family: var(--sans);
+            font-size: 0.75rem;
+            text-align: center;
+            padding: 24px;
+        }
+
+        /* ===========================================
+           CONTENT AREA
+           =========================================== */
+        .content {
             flex: 1;
             display: flex;
             flex-direction: column;
             overflow: hidden;
-            position: relative;
+            min-width: 0;
         }
 
-        /* ============================================
-           MESA (CARD SLOTS)
-           ============================================ */
-        .mesa {
+        /* ===========================================
+           ORACLE (Card Slots) — always visible
+           =========================================== */
+        .oracle {
             flex-shrink: 0;
-            border-bottom: 1px solid var(--border);
-            padding: var(--space-lg) var(--space-md);
-            background: var(--bg);
+            padding: 16px 16px 12px;
+            border-bottom: 1px solid var(--gray-7);
+            background: var(--white);
+            position: relative;
+            z-index: 5;
         }
 
-        .mesa-slots {
+        .oracle-row {
             display: flex;
             align-items: center;
             justify-content: center;
-            gap: var(--space-md);
-            max-width: 500px;
+            gap: 12px;
+            max-width: 440px;
             margin: 0 auto;
         }
 
-        .card-slot {
+        .slot {
             flex: 1;
-            max-width: 180px;
+            max-width: 170px;
             text-align: center;
-            padding: var(--space-md) var(--space-sm);
-            border: 1px dashed var(--border);
-            border-radius: var(--radius-md);
+            padding: 10px 8px;
+            border: 1.5px dashed var(--gray-6);
+            border-radius: 8px;
             cursor: pointer;
-            transition: all var(--transition-fast);
+            transition: all 200ms var(--ease-out);
             position: relative;
-            min-height: 80px;
+            min-height: 56px;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
         }
 
-        .card-slot:hover {
-            border-color: var(--text-tertiary);
-            background: var(--surface);
-        }
+        .slot:hover { border-color: var(--gray-4); }
 
-        .card-slot.filled {
+        .slot.filled {
             border-style: solid;
-            border-color: var(--border);
+            border-color: var(--gray-6);
+            background: var(--gray-9);
+        }
+        .slot.filled:hover { border-color: var(--gray-3); }
+
+        .slot.active {
+            border-color: var(--black);
+            border-style: solid;
+            box-shadow: 0 0 0 1px var(--black);
         }
 
-        .card-slot.filled:hover {
-            border-color: var(--text-secondary);
-        }
-
-        .card-slot-label {
-            font-family: var(--font-sans);
-            font-size: 0.6rem;
+        .slot-label {
+            font-family: var(--sans);
+            font-size: 0.55rem;
             text-transform: uppercase;
             letter-spacing: 1.5px;
-            color: var(--text-tertiary);
-            margin-bottom: var(--space-xs);
+            color: var(--gray-5);
+            margin-bottom: 2px;
         }
 
-        .card-slot-name {
-            font-size: 1rem;
+        .slot-name {
+            font-size: 0.95rem;
             font-weight: 600;
-            line-height: 1.3;
-            color: var(--text);
+            line-height: 1.2;
+            display: none;
         }
 
-        .card-slot-empty {
-            font-family: var(--font-sans);
-            font-size: 0.7rem;
-            color: var(--text-tertiary);
-            letter-spacing: 0.5px;
-        }
+        .slot.filled .slot-name { display: block; }
 
-        .card-slot-remove {
+        .slot-empty {
+            font-family: var(--sans);
+            font-size: 0.65rem;
+            color: var(--gray-5);
+        }
+        .slot.filled .slot-empty { display: none; }
+
+        .slot-x {
             position: absolute;
-            top: -8px;
-            right: -8px;
-            width: 22px;
-            height: 22px;
+            top: -7px; right: -7px;
+            width: 20px; height: 20px;
             border-radius: 50%;
-            background: var(--text);
-            color: var(--accent-inverse);
-            font-size: 0.7rem;
+            background: var(--gray-2);
+            color: var(--white);
+            font-size: 0.65rem;
             display: none;
             align-items: center;
             justify-content: center;
-            font-family: var(--font-sans);
+            font-family: var(--sans);
             line-height: 1;
             z-index: 2;
         }
+        .slot.filled .slot-x { display: flex; }
+        .slot-x:hover { background: var(--danger); }
 
-        .card-slot.filled .card-slot-remove {
-            display: flex;
-        }
-
-        .card-slot.filled .card-slot-remove:hover {
-            background: var(--danger);
-        }
-
-        .mesa-connector {
+        .oracle-mid {
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: var(--space-xs);
+            gap: 4px;
             flex-shrink: 0;
         }
 
-        .connector-symbol {
-            font-size: 0.9rem;
-            color: var(--text-tertiary);
-            font-family: var(--font-sans);
+        .oracle-arrow {
+            font-family: var(--sans);
+            font-size: 1.1rem;
+            color: var(--gray-5);
+            line-height: 1;
         }
 
         .swap-btn {
-            width: 32px;
-            height: 32px;
+            width: 28px; height: 28px;
             border-radius: 50%;
-            border: 1px solid var(--border);
+            border: 1px solid var(--gray-7);
             display: flex;
             align-items: center;
             justify-content: center;
-            transition: all var(--transition-fast);
-            opacity: 0.4;
+            transition: all 150ms ease;
+            opacity: 0;
             pointer-events: none;
         }
-
-        .swap-btn.active {
-            opacity: 1;
-            pointer-events: all;
-        }
-
+        .swap-btn.active { opacity: 1; pointer-events: all; }
         .swap-btn.active:hover {
-            background: var(--accent);
-            border-color: var(--accent);
+            background: var(--black);
+            border-color: var(--black);
         }
+        .swap-btn.active:hover svg { stroke: var(--white); }
+        .swap-btn svg { width: 12px; height: 12px; stroke: var(--gray-3); stroke-width: 1.5; fill: none; }
 
-        .swap-btn.active:hover svg {
-            stroke: var(--accent-inverse);
+        .oracle-hint {
+            text-align: center;
+            margin-top: 8px;
         }
-
-        .swap-btn svg {
-            width: 14px;
-            height: 14px;
-            stroke: var(--text);
-            stroke-width: 1.5;
-            fill: none;
-        }
-
-        /* ============================================
-           TOOLBAR
-           ============================================ */
-        .toolbar {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: var(--space-sm) var(--space-md);
-            border-bottom: 1px solid var(--border-light);
-            flex-shrink: 0;
-            background: var(--bg);
-        }
-
-        .toolbar-group {
-            display: flex;
-            align-items: center;
-            gap: var(--space-sm);
-        }
-
-        .toolbar-btn {
-            font-family: var(--font-sans);
-            font-size: 0.65rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--text-tertiary);
-            padding: var(--space-xs) var(--space-sm);
-            border-radius: var(--radius-sm);
-            transition: all var(--transition-fast);
-            display: flex;
-            align-items: center;
-            gap: var(--space-xs);
-        }
-
-        .toolbar-btn:hover {
-            color: var(--text);
-            background: var(--bg-elevated);
-        }
-
-        .toolbar-btn svg {
-            width: 12px;
-            height: 12px;
-            stroke: currentColor;
-            stroke-width: 1.5;
-            fill: none;
-        }
-
-        .toolbar-reading-label {
-            font-family: var(--font-sans);
+        .oracle-random {
+            font-family: var(--sans);
             font-size: 0.6rem;
             text-transform: uppercase;
-            letter-spacing: 1.5px;
-            color: var(--text-tertiary);
+            letter-spacing: 1px;
+            color: var(--gray-5);
+            transition: color 150ms;
         }
+        .oracle-random:hover { color: var(--black); }
 
-        /* ============================================
-           READING AREA
-           ============================================ */
-        .reading-area {
+        /* ===========================================
+           READING SCROLL AREA
+           =========================================== */
+        .reading-scroll {
             flex: 1;
             overflow-y: auto;
             overflow-x: hidden;
             -webkit-overflow-scrolling: touch;
-            scroll-behavior: smooth;
         }
 
-        .reading-content {
-            max-width: 640px;
+        .reading-inner {
+            max-width: 620px;
             margin: 0 auto;
-            padding: var(--space-lg) var(--space-md) var(--space-3xl);
+            padding: 0 20px 80px;
         }
 
-        /* Empty State */
-        .empty-state {
+        /* --- Empty state --- */
+        .empty {
             text-align: center;
-            padding: var(--space-3xl) var(--space-lg);
+            padding: 60px 24px 40px;
         }
 
-        .empty-state-icon {
-            font-size: 2rem;
-            margin-bottom: var(--space-lg);
-            opacity: 0.3;
-        }
-
-        .empty-state-title {
-            font-size: 1.3rem;
-            font-weight: 400;
-            margin-bottom: var(--space-sm);
-            color: var(--text);
-        }
-
-        .empty-state-text {
-            font-family: var(--font-sans);
-            font-size: 0.8rem;
-            color: var(--text-tertiary);
-            line-height: 1.6;
-            max-width: 280px;
-            margin: 0 auto var(--space-lg);
-        }
-
-        .empty-state-btn {
-            font-family: var(--font-sans);
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            letter-spacing: 1.5px;
-            color: var(--accent-inverse);
-            background: var(--accent);
-            padding: var(--space-md) var(--space-xl);
-            border-radius: var(--radius-xl);
-            transition: opacity var(--transition-fast);
-        }
-
-        .empty-state-btn:hover {
-            opacity: 0.8;
-        }
-
-        /* Single card selected state */
-        .partial-state {
-            text-align: center;
-            padding: var(--space-3xl) var(--space-lg);
-        }
-
-        .partial-state-text {
-            font-size: 1.1rem;
-            color: var(--text-tertiary);
-            font-style: italic;
-        }
-
-        /* Dynamic Sections */
-        .dynamics-list {
-            display: flex;
-            flex-direction: column;
-        }
-
-        .dynamic-section {
-            border-bottom: 1px solid var(--border-light);
-        }
-
-        .dynamic-section:last-child {
-            border-bottom: none;
-        }
-
-        .dynamic-header {
-            width: 100%;
+        .empty-mark {
+            width: 48px; height: 48px;
+            margin: 0 auto 24px;
+            border: 1.5px solid var(--gray-7);
+            border-radius: 50%;
             display: flex;
             align-items: center;
-            justify-content: space-between;
-            padding: var(--space-lg) 0;
-            text-align: left;
-            transition: opacity var(--transition-fast);
+            justify-content: center;
+            font-family: var(--sans);
+            font-size: 1rem;
+            color: var(--gray-5);
         }
 
-        .dynamic-header:hover {
-            opacity: 0.7;
-        }
-
-        .dynamic-header-left {
-            display: flex;
-            flex-direction: column;
-            gap: 2px;
-        }
-
-        .dynamic-label {
-            font-family: var(--font-sans);
-            font-size: 0.65rem;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            color: var(--text-tertiary);
-        }
-
-        .dynamic-title {
-            font-size: 1.1rem;
+        .empty h2 {
+            font-size: 1.5rem;
             font-weight: 400;
-            color: var(--text);
+            margin-bottom: 12px;
+            line-height: 1.3;
         }
 
-        .dynamic-chevron {
-            width: 16px;
-            height: 16px;
-            stroke: var(--text-tertiary);
-            stroke-width: 1.5;
-            fill: none;
-            transition: transform var(--transition-normal);
-            flex-shrink: 0;
+        .empty p {
+            font-family: var(--sans);
+            font-size: 0.82rem;
+            color: var(--gray-4);
+            line-height: 1.7;
+            max-width: 300px;
+            margin: 0 auto 28px;
         }
 
-        .dynamic-section.expanded .dynamic-chevron {
-            transform: rotate(180deg);
+        .empty-cta {
+            display: inline-block;
+            font-family: var(--sans);
+            font-size: 0.72rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            background: var(--black);
+            color: var(--white);
+            padding: 14px 32px;
+            border-radius: 28px;
+            transition: opacity 150ms;
         }
+        .empty-cta:hover { opacity: 0.8; }
 
-        .dynamic-body {
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height var(--transition-normal), padding var(--transition-normal);
-        }
-
-        .dynamic-section.expanded .dynamic-body {
-            max-height: 800px;
-            padding-bottom: var(--space-lg);
-        }
-
-        .dynamic-text {
-            font-size: 1.05rem;
-            line-height: 1.8;
-            color: var(--text-secondary);
-        }
-
-        .dynamic-meta {
-            font-family: var(--font-sans);
-            font-size: 0.65rem;
-            color: var(--text-tertiary);
+        .empty-or {
+            display: block;
+            font-family: var(--sans);
+            font-size: 0.6rem;
             text-transform: uppercase;
             letter-spacing: 1px;
-            margin-top: var(--space-md);
+            color: var(--gray-5);
+            margin-top: 16px;
         }
 
-        /* Reading header */
-        .reading-header {
+        .empty-random {
+            font-family: var(--sans);
+            font-size: 0.65rem;
+            letter-spacing: 0.5px;
+            color: var(--gray-4);
+            margin-top: 8px;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+        }
+        .empty-random:hover { color: var(--black); }
+
+        /* --- Partial state (one card) --- */
+        .partial {
             text-align: center;
-            padding: var(--space-xl) 0 var(--space-lg);
-            border-bottom: 1px solid var(--border-light);
-            margin-bottom: 0;
+            padding: 60px 24px;
+        }
+        .partial p {
+            font-size: 1.15rem;
+            color: var(--gray-4);
+            font-style: italic;
+            line-height: 1.6;
         }
 
-        .reading-pair-label {
-            font-family: var(--font-sans);
-            font-size: 0.6rem;
+        /* --- Reading header --- */
+        .rdg-header {
+            text-align: center;
+            padding: 40px 0 32px;
+            border-bottom: 1px solid var(--gray-7);
+        }
+
+        .rdg-kicker {
+            font-family: var(--sans);
+            font-size: 0.55rem;
             text-transform: uppercase;
-            letter-spacing: 2px;
-            color: var(--text-tertiary);
-            margin-bottom: var(--space-sm);
+            letter-spacing: 2.5px;
+            color: var(--gray-5);
+            margin-bottom: 12px;
         }
 
-        .reading-pair-names {
-            font-size: 1.4rem;
+        .rdg-pair {
+            font-size: 1.5rem;
             font-weight: 400;
-            line-height: 1.4;
+            line-height: 1.35;
+        }
+        .rdg-pair .arr {
+            display: inline-block;
+            color: var(--gray-5);
+            margin: 0 6px;
+            font-family: var(--sans);
+            font-size: 0.9rem;
         }
 
-        .reading-pair-connector {
-            color: var(--text-tertiary);
-            margin: 0 var(--space-xs);
-            font-size: 1rem;
-        }
-
-        .reading-direction-hint {
-            font-family: var(--font-sans);
+        .rdg-sub {
+            font-family: var(--sans);
             font-size: 0.6rem;
-            color: var(--text-tertiary);
-            margin-top: var(--space-sm);
+            color: var(--gray-5);
+            margin-top: 10px;
             letter-spacing: 0.5px;
         }
 
-        /* ============================================
-           BOTTOM ACTION BAR
-           ============================================ */
-        .bottom-bar {
-            flex-shrink: 0;
-            padding: var(--space-md);
-            border-top: 1px solid var(--border);
-            background: var(--bg);
-            display: flex;
-            justify-content: center;
+        /* --- Dynamic sections --- */
+        .dyn {
+            padding: 32px 0;
+            border-bottom: 1px solid var(--gray-7);
         }
+        .dyn:last-of-type { border-bottom: none; }
 
-        .bottom-bar-btn {
-            width: 100%;
-            max-width: 400px;
-            padding: 14px var(--space-lg);
-            background: var(--accent);
-            color: var(--accent-inverse);
-            font-family: var(--font-sans);
-            font-size: 0.75rem;
+        .dyn-kicker {
+            font-family: var(--sans);
+            font-size: 0.55rem;
             text-transform: uppercase;
-            letter-spacing: 2px;
-            border-radius: var(--radius-xl);
-            transition: opacity var(--transition-fast);
+            letter-spacing: 2.5px;
+            color: var(--gray-5);
+            margin-bottom: 6px;
         }
 
-        .bottom-bar-btn:hover {
-            opacity: 0.85;
+        .dyn-title {
+            font-size: 1.2rem;
+            font-weight: 400;
+            margin-bottom: 16px;
+            color: var(--black);
         }
 
-        /* ============================================
-           BOTTOM SHEET (CARD PICKER)
-           ============================================ */
-        .sheet-overlay {
+        .dyn-text {
+            font-size: 1.05rem;
+            line-height: 1.9;
+            color: var(--gray-2);
+        }
+
+        /* --- Explore (related) section --- */
+        .explore-section {
+            padding: 40px 0 24px;
+            border-top: 1px solid var(--gray-7);
+            margin-top: 8px;
+        }
+
+        .explore-title {
+            font-family: var(--sans);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            letter-spacing: 2.5px;
+            color: var(--gray-5);
+            margin-bottom: 24px;
+            text-align: center;
+        }
+
+        .explore-swap {
+            display: block;
+            width: 100%;
+            text-align: center;
+            padding: 16px;
+            border: 1px solid var(--gray-7);
+            border-radius: 8px;
+            margin-bottom: 24px;
+            transition: all 150ms;
+        }
+        .explore-swap:hover {
+            border-color: var(--black);
+            background: var(--gray-9);
+        }
+        .explore-swap-label {
+            font-family: var(--sans);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--gray-5);
+            margin-bottom: 4px;
+        }
+        .explore-swap-pair {
+            font-size: 1rem;
+        }
+
+        .explore-group {
+            margin-bottom: 20px;
+        }
+
+        .explore-group-title {
+            font-family: var(--sans);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--gray-4);
+            margin-bottom: 10px;
+        }
+
+        .explore-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .explore-link {
+            font-family: var(--sans);
+            font-size: 0.75rem;
+            padding: 7px 14px;
+            border: 1px solid var(--gray-7);
+            border-radius: 20px;
+            transition: all 120ms;
+            white-space: nowrap;
+        }
+        .explore-link:hover {
+            border-color: var(--black);
+            background: var(--gray-9);
+        }
+
+        /* ===========================================
+           MOBILE PICKER (Full-screen overlay)
+           =========================================== */
+        .picker-overlay {
             position: fixed;
-            top: 0; left: 0; width: 100%; height: 100%;
-            background: var(--bg-overlay);
-            z-index: 1000;
-            opacity: 0;
-            pointer-events: none;
-            transition: opacity var(--transition-normal);
-        }
-
-        .sheet-overlay.open {
-            opacity: 1;
-            pointer-events: all;
-        }
-
-        .sheet {
-            position: fixed;
-            bottom: 0; left: 0; width: 100%;
-            max-height: 85vh;
-            background: var(--bg);
-            border-top-left-radius: var(--radius-lg);
-            border-top-right-radius: var(--radius-lg);
+            inset: 0;
+            background: var(--white);
+            z-index: 100;
             display: flex;
             flex-direction: column;
-            z-index: 1001;
             transform: translateY(100%);
-            transition: transform var(--transition-normal) cubic-bezier(0.32, 0.72, 0, 1);
-            box-shadow: 0 -4px 20px rgba(0,0,0,0.08);
+            transition: transform 300ms var(--ease-spring);
         }
-
-        .sheet-overlay.open .sheet {
+        .picker-overlay.open {
             transform: translateY(0);
         }
 
-        .sheet-handle-area {
-            display: flex;
-            justify-content: center;
-            padding: var(--space-sm) 0 0;
-            cursor: grab;
-            flex-shrink: 0;
-        }
-
-        .sheet-handle {
-            width: 36px;
-            height: 4px;
-            background: var(--border);
-            border-radius: 2px;
-        }
-
-        .sheet-header {
+        .picker-header {
             display: flex;
             align-items: center;
-            justify-content: space-between;
-            padding: var(--space-md) var(--space-lg);
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--gray-7);
+            gap: 12px;
             flex-shrink: 0;
         }
 
-        .sheet-title {
-            font-family: var(--font-sans);
-            font-size: 0.8rem;
+        .picker-back {
+            width: 36px; height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+        }
+        .picker-back:hover { background: var(--gray-8); }
+        .picker-back svg { width: 18px; height: 18px; stroke: var(--black); stroke-width: 1.5; fill: none; }
+
+        .picker-title {
+            font-family: var(--sans);
+            font-size: 0.75rem;
             text-transform: uppercase;
             letter-spacing: 1.5px;
-            font-weight: 500;
+            flex: 1;
         }
 
-        .sheet-close {
-            width: 32px;
-            height: 32px;
-            border-radius: 50%;
-            background: var(--bg-elevated);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.1rem;
-            color: var(--text-secondary);
-            transition: background var(--transition-fast);
-        }
-
-        .sheet-close:hover {
-            background: var(--border);
-        }
-
-        /* Search */
-        .sheet-search {
-            padding: 0 var(--space-lg) var(--space-md);
+        .picker-search-row {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--gray-7);
             flex-shrink: 0;
         }
 
-        .search-input {
+        .picker-search {
             width: 100%;
-            padding: var(--space-sm) 0;
+            padding: 10px 0;
             border: none;
-            border-bottom: 1px solid var(--border);
-            font-family: var(--font-sans);
-            font-size: 0.85rem;
-            color: var(--text);
+            border-bottom: 1px solid var(--gray-7);
+            font-size: 0.9rem;
+            color: var(--black);
             background: transparent;
-            letter-spacing: 0.3px;
         }
+        .picker-search::placeholder { color: var(--gray-5); }
 
-        .search-input::placeholder {
-            color: var(--text-tertiary);
-        }
-
-        /* Filter tabs */
-        .sheet-filters {
+        .picker-filters {
             display: flex;
             overflow-x: auto;
-            padding: 0 var(--space-lg) var(--space-md);
-            gap: var(--space-sm);
+            padding: 12px 16px;
+            gap: 8px;
             flex-shrink: 0;
             scrollbar-width: none;
             -ms-overflow-style: none;
+            border-bottom: 1px solid var(--gray-7);
         }
+        .picker-filters::-webkit-scrollbar { display: none; }
 
-        .sheet-filters::-webkit-scrollbar { display: none; }
-
-        .filter-btn {
+        .pk-filter {
             white-space: nowrap;
             padding: 6px 14px;
-            border: 1px solid var(--border);
-            border-radius: var(--radius-xl);
-            font-family: var(--font-sans);
-            font-size: 0.7rem;
+            border: 1px solid var(--gray-7);
+            border-radius: 20px;
+            font-family: var(--sans);
+            font-size: 0.65rem;
             text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--text-secondary);
-            transition: all var(--transition-fast);
+            letter-spacing: 0.8px;
+            color: var(--gray-3);
+            transition: all 120ms;
             flex-shrink: 0;
         }
-
-        .filter-btn:hover {
-            border-color: var(--text-tertiary);
+        .pk-filter:hover { border-color: var(--gray-4); }
+        .pk-filter.active {
+            background: var(--black);
+            color: var(--white);
+            border-color: var(--black);
         }
 
-        .filter-btn.active {
-            background: var(--accent);
-            color: var(--accent-inverse);
-            border-color: var(--accent);
-        }
-
-        /* Card grid */
-        .sheet-grid {
+        .picker-grid-scroll {
             flex: 1;
             overflow-y: auto;
-            padding: var(--space-sm) var(--space-lg) var(--space-xl);
             -webkit-overflow-scrolling: touch;
         }
 
-        .card-grid {
+        .picker-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-            gap: var(--space-sm);
+            gap: 8px;
+            padding: 16px;
         }
 
-        .card-grid-item {
-            padding: var(--space-md) var(--space-sm);
-            border: 1px solid var(--border-light);
-            border-radius: var(--radius-sm);
+        .pk-card {
+            padding: 14px 8px;
+            border: 1px solid var(--gray-7);
+            border-radius: 4px;
             font-size: 0.85rem;
             text-align: center;
-            transition: all var(--transition-fast);
-            line-height: 1.3;
-            background: var(--bg);
-        }
-
-        .card-grid-item:hover {
-            border-color: var(--text-tertiary);
-            background: var(--surface);
-        }
-
-        .card-grid-item:active {
-            background: var(--bg-elevated);
-            transform: scale(0.97);
-        }
-
-        .card-grid-item.in-slot {
-            border-color: var(--accent);
-            background: var(--surface);
+            line-height: 1.25;
+            transition: all 100ms;
             position: relative;
         }
-
-        .card-grid-item.in-slot::after {
+        .pk-card:hover { border-color: var(--gray-4); background: var(--gray-9); }
+        .pk-card:active { transform: scale(0.96); }
+        .pk-card.in-use {
+            border-color: var(--black);
+            font-weight: 600;
+        }
+        .pk-card.in-use::after {
             content: '';
             position: absolute;
-            top: 4px;
-            right: 4px;
-            width: 6px;
-            height: 6px;
+            top: 4px; right: 4px;
+            width: 5px; height: 5px;
             border-radius: 50%;
-            background: var(--accent);
+            background: var(--black);
         }
 
-        .card-grid-empty {
+        .pk-empty {
             grid-column: 1 / -1;
             text-align: center;
-            padding: var(--space-xl);
-            color: var(--text-tertiary);
-            font-family: var(--font-sans);
+            padding: 32px;
+            color: var(--gray-5);
+            font-family: var(--sans);
             font-size: 0.8rem;
         }
 
-        /* ============================================
-           HISTORY PANEL
-           ============================================ */
-        .history-overlay {
+        /* ===========================================
+           HISTORY PANEL (Mobile slide-over)
+           =========================================== */
+        .history-shade {
             position: fixed;
-            top: 0; left: 0; width: 100%; height: 100%;
-            background: var(--bg-overlay);
-            z-index: 900;
+            inset: 0;
+            background: rgba(0,0,0,0.35);
+            z-index: 90;
             opacity: 0;
             pointer-events: none;
-            transition: opacity var(--transition-normal);
+            transition: opacity 250ms;
         }
-
-        .history-overlay.open {
-            opacity: 1;
-            pointer-events: all;
-        }
+        .history-shade.open { opacity: 1; pointer-events: all; }
 
         .history-panel {
             position: fixed;
@@ -875,1152 +805,1057 @@
             width: 300px;
             max-width: 80vw;
             height: 100%;
-            background: var(--bg);
-            z-index: 901;
+            background: var(--white);
+            z-index: 91;
             transform: translateX(-100%);
-            transition: transform var(--transition-normal) cubic-bezier(0.32, 0.72, 0, 1);
+            transition: transform 300ms var(--ease-spring);
             display: flex;
             flex-direction: column;
-            box-shadow: 4px 0 20px rgba(0,0,0,0.05);
         }
+        .history-shade.open .history-panel { transform: translateX(0); }
 
-        .history-overlay.open .history-panel {
-            transform: translateX(0);
-        }
-
-        .history-header {
+        .hist-header {
             display: flex;
             align-items: center;
             justify-content: space-between;
-            padding: var(--space-lg);
-            border-bottom: 1px solid var(--border);
+            padding: 20px 20px;
+            border-bottom: 1px solid var(--gray-7);
         }
-
-        .history-title {
-            font-family: var(--font-sans);
-            font-size: 0.75rem;
+        .hist-title {
+            font-family: var(--sans);
+            font-size: 0.7rem;
             text-transform: uppercase;
             letter-spacing: 1.5px;
-            font-weight: 500;
         }
-
-        .history-clear-btn {
-            font-family: var(--font-sans);
-            font-size: 0.65rem;
+        .hist-clear {
+            font-family: var(--sans);
+            font-size: 0.6rem;
             text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--text-tertiary);
-            transition: color var(--transition-fast);
+            letter-spacing: 0.5px;
+            color: var(--gray-5);
         }
+        .hist-clear:hover { color: var(--danger); }
 
-        .history-clear-btn:hover {
-            color: var(--danger);
-        }
-
-        .history-list {
+        .hist-list {
             flex: 1;
             overflow-y: auto;
-            padding: var(--space-sm) 0;
+            padding: 8px 20px;
         }
 
-        .history-item {
-            display: flex;
-            align-items: center;
-            padding: var(--space-md) var(--space-lg);
+        .hist-item {
+            display: block;
             width: 100%;
             text-align: left;
-            transition: background var(--transition-fast);
-            gap: var(--space-sm);
+            padding: 12px 0;
+            border-bottom: 1px solid var(--gray-8);
+            transition: opacity 120ms;
         }
-
-        .history-item:hover {
-            background: var(--surface);
-        }
-
-        .history-item-text {
-            flex: 1;
-        }
-
-        .history-item-pair {
+        .hist-item:hover { opacity: 0.6; }
+        .hist-pair {
             font-size: 0.85rem;
             line-height: 1.3;
         }
-
-        .history-item-connector {
-            color: var(--text-tertiary);
-            font-size: 0.75rem;
-        }
-
-        .history-item-time {
-            font-family: var(--font-sans);
+        .hist-pair .arr { color: var(--gray-5); }
+        .hist-time {
+            font-family: var(--sans);
             font-size: 0.6rem;
-            color: var(--text-tertiary);
+            color: var(--gray-5);
             margin-top: 2px;
         }
 
-        .history-empty {
-            padding: var(--space-xl) var(--space-lg);
+        .hist-empty {
+            padding: 32px 0;
             text-align: center;
-            color: var(--text-tertiary);
-            font-family: var(--font-sans);
+            color: var(--gray-5);
+            font-family: var(--sans);
             font-size: 0.8rem;
         }
 
-        /* ============================================
+        /* ===========================================
            TOAST
-           ============================================ */
+           =========================================== */
         .toast {
             position: fixed;
-            bottom: 80px;
+            bottom: 32px;
             left: 50%;
-            transform: translateX(-50%) translateY(20px);
-            background: var(--accent);
-            color: var(--accent-inverse);
-            font-family: var(--font-sans);
-            font-size: 0.75rem;
-            letter-spacing: 0.5px;
-            padding: var(--space-sm) var(--space-lg);
-            border-radius: var(--radius-xl);
+            transform: translateX(-50%) translateY(16px);
+            background: var(--gray-1);
+            color: var(--white);
+            font-family: var(--sans);
+            font-size: 0.72rem;
+            letter-spacing: 0.3px;
+            padding: 10px 24px;
+            border-radius: 24px;
             opacity: 0;
             pointer-events: none;
-            transition: all var(--transition-normal);
-            z-index: 2000;
+            transition: all 250ms var(--ease-out);
+            z-index: 200;
             white-space: nowrap;
         }
-
-        .toast.visible {
+        .toast.show {
             opacity: 1;
             transform: translateX(-50%) translateY(0);
         }
 
-        /* ============================================
-           ONBOARDING OVERLAY
-           ============================================ */
-        .onboarding-overlay {
+        /* ===========================================
+           LOADER
+           =========================================== */
+        #loader {
             position: fixed;
-            top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0,0,0,0.6);
-            z-index: 5000;
+            inset: 0;
+            background: var(--white);
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            opacity: 0;
-            pointer-events: none;
-            transition: opacity var(--transition-slow);
+            z-index: 9999;
+            transition: opacity 500ms;
         }
+        #loader.out { opacity: 0; pointer-events: none; }
 
-        .onboarding-overlay.visible {
-            opacity: 1;
-            pointer-events: all;
+        .ld-title {
+            font-family: var(--sans);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 3.5px;
+            margin-bottom: 28px;
         }
-
-        .onboarding-card {
-            background: var(--bg);
-            border-radius: var(--radius-lg);
-            padding: var(--space-2xl) var(--space-xl);
-            max-width: 340px;
-            width: 90%;
-            text-align: center;
+        .ld-track {
+            width: 100px; height: 1px;
+            background: var(--gray-7);
+            position: relative;
+            overflow: hidden;
         }
-
-        .onboarding-step-label {
-            font-family: var(--font-sans);
+        .ld-fill {
+            position: absolute;
+            top: 0; left: 0;
+            height: 100%;
+            width: 0%;
+            background: var(--black);
+            transition: width 150ms linear;
+        }
+        .ld-status {
+            font-family: var(--sans);
             font-size: 0.6rem;
             text-transform: uppercase;
-            letter-spacing: 2px;
-            color: var(--text-tertiary);
-            margin-bottom: var(--space-md);
+            letter-spacing: 1.5px;
+            color: var(--gray-5);
+            margin-top: 16px;
         }
 
-        .onboarding-title {
-            font-size: 1.3rem;
+        /* ===========================================
+           ONBOARDING
+           =========================================== */
+        .onboard-shade {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.55);
+            z-index: 300;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 400ms;
+        }
+        .onboard-shade.show { opacity: 1; pointer-events: all; }
+
+        .onboard-card {
+            background: var(--white);
+            border-radius: 12px;
+            padding: 40px 32px;
+            max-width: 340px;
+            width: 88%;
+            text-align: center;
+        }
+        .onboard-kicker {
+            font-family: var(--sans);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            letter-spacing: 2.5px;
+            color: var(--gray-5);
+            margin-bottom: 16px;
+        }
+        .onboard-title {
+            font-size: 1.5rem;
             font-weight: 400;
-            margin-bottom: var(--space-sm);
+            margin-bottom: 12px;
         }
-
-        .onboarding-text {
-            font-family: var(--font-sans);
+        .onboard-text {
+            font-family: var(--sans);
             font-size: 0.8rem;
-            color: var(--text-secondary);
-            line-height: 1.6;
-            margin-bottom: var(--space-lg);
+            color: var(--gray-3);
+            line-height: 1.7;
+            margin-bottom: 24px;
         }
-
-        .onboarding-btn {
-            font-family: var(--font-sans);
-            font-size: 0.75rem;
+        .onboard-btn {
+            font-family: var(--sans);
+            font-size: 0.7rem;
             text-transform: uppercase;
             letter-spacing: 1.5px;
-            background: var(--accent);
-            color: var(--accent-inverse);
-            padding: var(--space-md) var(--space-xl);
-            border-radius: var(--radius-xl);
-            transition: opacity var(--transition-fast);
+            background: var(--black);
+            color: var(--white);
+            padding: 12px 28px;
+            border-radius: 24px;
         }
+        .onboard-btn:hover { opacity: 0.85; }
 
-        .onboarding-btn:hover { opacity: 0.85; }
-
-        .onboarding-skip {
-            display: block;
-            margin-top: var(--space-md);
-            font-family: var(--font-sans);
-            font-size: 0.65rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--text-tertiary);
+        /* ===========================================
+           FADE-IN ANIMATION for dynamics
+           =========================================== */
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(12px); }
+            to   { opacity: 1; transform: translateY(0); }
         }
+        .dyn { animation: fadeUp 400ms var(--ease-out) both; }
+        .dyn:nth-child(2) { animation-delay: 80ms; }
+        .dyn:nth-child(3) { animation-delay: 160ms; }
+        .dyn:nth-child(4) { animation-delay: 240ms; }
+        .dyn:nth-child(5) { animation-delay: 320ms; }
 
-        /* ============================================
-           DESKTOP LAYOUT (768px+)
-           ============================================ */
-        @media (min-width: 768px) {
-            .mesa-slots {
-                gap: var(--space-xl);
+        .explore-section { animation: fadeUp 400ms var(--ease-out) 400ms both; }
+
+        /* ===========================================
+           RESPONSIVE — Desktop ≥1024px
+           =========================================== */
+        @media (min-width: 1024px) {
+            .sidebar { display: flex; }
+            .hdr-left { display: none; }
+
+            .oracle {
+                padding: 24px 24px 16px;
             }
-
-            .card-slot {
-                max-width: 200px;
-                padding: var(--space-lg) var(--space-md);
-                min-height: 90px;
+            .oracle-row { gap: 20px; max-width: 480px; }
+            .slot {
+                max-width: 190px;
+                padding: 14px 12px;
+                min-height: 64px;
             }
+            .slot-name { font-size: 1.05rem; }
 
-            .card-slot-name {
-                font-size: 1.1rem;
+            .reading-inner {
+                padding: 0 32px 96px;
             }
+            .rdg-pair { font-size: 1.7rem; }
+            .dyn-title { font-size: 1.3rem; }
+            .dyn-text { font-size: 1.1rem; }
 
-            .reading-content {
-                padding: var(--space-xl) var(--space-xl) var(--space-3xl);
-            }
-
-            .reading-pair-names {
-                font-size: 1.6rem;
-            }
-
-            .dynamic-text {
-                font-size: 1.1rem;
-            }
-
-            .card-grid {
+            .picker-grid {
                 grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
             }
-
-            .bottom-bar-btn {
-                max-width: 300px;
-            }
-
-            .sheet {
-                max-width: 480px;
-                left: 50%;
-                margin-left: -240px;
-                border-radius: var(--radius-lg) var(--radius-lg) 0 0;
-            }
         }
 
-        /* ============================================
-           LARGE DESKTOP (1200px+)
-           ============================================ */
-        @media (min-width: 1200px) {
-            .card-grid {
-                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-            }
-
-            .reading-content {
-                padding: var(--space-2xl) var(--space-xl) var(--space-3xl);
-            }
-
-            .dynamic-header {
-                padding: var(--space-xl) 0;
-            }
-        }
-
-        /* ============================================
-           PRINT STYLES
-           ============================================ */
+        /* ===========================================
+           PRINT
+           =========================================== */
         @media print {
-            .header, .mesa, .toolbar, .bottom-bar, .sheet-overlay, .history-overlay, .toast { display: none !important; }
-            .reading-area { overflow: visible; }
-            .dynamic-section .dynamic-body { max-height: none !important; padding-bottom: 16px !important; }
-            body { overflow: visible; height: auto; }
-            #app { height: auto; overflow: visible; }
-            .main-layout { overflow: visible; }
+            .app-header, .oracle, .sidebar, .picker-overlay, .history-shade, .toast, .onboard-shade, .explore-section { display: none !important; }
+            .reading-scroll { overflow: visible; }
+            body, #app, .app-body, .content { height: auto; overflow: visible; }
+            .reading-inner { padding: 0; max-width: 100%; }
+            .dyn { animation: none; break-inside: avoid; }
         }
     </style>
 </head>
 <body>
 
-    <!-- LOADER -->
-    <div id="loader">
-        <div class="loader-title">Taro Quebrado</div>
-        <div class="loader-bar-track">
-            <div class="loader-bar-fill" id="loader-bar"></div>
-        </div>
-        <div class="loader-status" id="loader-status">Carregando cartas...</div>
-    </div>
+<!-- ======= LOADER ======= -->
+<div id="loader">
+    <div class="ld-title">Tarô Quebrado</div>
+    <div class="ld-track"><div class="ld-fill" id="ld-fill"></div></div>
+    <div class="ld-status" id="ld-status">Carregando cartas...</div>
+</div>
 
-    <!-- APP -->
-    <div id="app">
+<!-- ======= APP ======= -->
+<div id="app">
 
-        <!-- HEADER -->
-        <header class="header">
-            <button class="header-btn header-btn-left" onclick="toggleHistory()" aria-label="Historico de leituras">
-                <svg viewBox="0 0 24 24"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
-            </button>
-            <h1 class="header-title">Taro Quebrado</h1>
-            <button class="header-btn header-btn-right" onclick="shareReading()" aria-label="Compartilhar leitura" id="share-btn" style="display:none;">
-                <svg viewBox="0 0 24 24"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
-            </button>
-        </header>
+    <!-- HEADER -->
+    <header class="app-header">
+        <button class="hdr-btn hdr-left" onclick="toggleHistory()" aria-label="Histórico">
+            <svg viewBox="0 0 24 24"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="15" y2="12"/><line x1="3" y1="18" x2="18" y2="18"/></svg>
+        </button>
+        <h1>Tarô Quebrado</h1>
+        <button class="hdr-btn hdr-right" id="share-btn" onclick="doShare()" aria-label="Compartilhar" style="display:none">
+            <svg viewBox="0 0 24 24"><path d="M4 12v8a2 2 0 002 2h12a2 2 0 002-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
+        </button>
+    </header>
 
-        <!-- MAIN -->
-        <div class="main-layout">
+    <!-- BODY -->
+    <div class="app-body">
 
-            <!-- MESA -->
-            <div class="mesa">
-                <div class="mesa-slots">
-                    <div class="card-slot" id="slot-1" onclick="openPicker(1)" role="button" tabindex="0" aria-label="Selecionar primeira carta">
-                        <button class="card-slot-remove" onclick="event.stopPropagation(); removeCard(1)" aria-label="Remover carta">&#215;</button>
-                        <span class="card-slot-label">Carta 1</span>
-                        <span class="card-slot-name" id="slot-1-name" style="display:none;"></span>
-                        <span class="card-slot-empty" id="slot-1-empty">Toque para escolher</span>
-                    </div>
-
-                    <div class="mesa-connector">
-                        <span class="connector-symbol">+</span>
-                        <button class="swap-btn" id="swap-btn" onclick="swapCards()" aria-label="Trocar ordem das cartas">
-                            <svg viewBox="0 0 24 24"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>
-                        </button>
-                    </div>
-
-                    <div class="card-slot" id="slot-2" onclick="openPicker(2)" role="button" tabindex="0" aria-label="Selecionar segunda carta">
-                        <button class="card-slot-remove" onclick="event.stopPropagation(); removeCard(2)" aria-label="Remover carta">&#215;</button>
-                        <span class="card-slot-label">Carta 2</span>
-                        <span class="card-slot-name" id="slot-2-name" style="display:none;"></span>
-                        <span class="card-slot-empty" id="slot-2-empty">Toque para escolher</span>
-                    </div>
+        <!-- SIDEBAR (desktop) -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sb-header">
+                <div class="sb-label">Cartas</div>
+                <div class="sb-active-hint" id="sb-hint"></div>
+                <input type="text" class="sb-search" id="sb-search" placeholder="Buscar carta..." autocomplete="off" spellcheck="false">
+            </div>
+            <div class="sb-filters" id="sb-filters"></div>
+            <div class="sb-scroll" id="sb-scroll">
+                <div class="sb-grid" id="sb-grid"></div>
+                <div class="sb-divider"></div>
+                <div class="sb-history-section">
+                    <div class="sb-label">Recentes</div>
+                    <div id="sb-history"></div>
                 </div>
             </div>
+        </aside>
 
-            <!-- TOOLBAR -->
-            <div class="toolbar" id="toolbar" style="display:none;">
-                <div class="toolbar-group">
-                    <span class="toolbar-reading-label" id="toolbar-label">Leitura</span>
+        <!-- CONTENT -->
+        <div class="content">
+
+            <!-- ORACLE -->
+            <div class="oracle">
+                <div class="oracle-row">
+                    <div class="slot" id="slot1" onclick="onSlotClick(1)" role="button" tabindex="0" aria-label="Carta 1">
+                        <button class="slot-x" onclick="event.stopPropagation();removeCard(1)" aria-label="Remover">&#215;</button>
+                        <span class="slot-label">Carta 1</span>
+                        <span class="slot-name" id="s1name"></span>
+                        <span class="slot-empty">Escolha</span>
+                    </div>
+                    <div class="oracle-mid">
+                        <span class="oracle-arrow">&rarr;</span>
+                        <button class="swap-btn" id="swap-btn" onclick="doSwap()" aria-label="Inverter ordem">
+                            <svg viewBox="0 0 24 24"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 014-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 01-4 4H3"/></svg>
+                        </button>
+                    </div>
+                    <div class="slot" id="slot2" onclick="onSlotClick(2)" role="button" tabindex="0" aria-label="Carta 2">
+                        <button class="slot-x" onclick="event.stopPropagation();removeCard(2)" aria-label="Remover">&#215;</button>
+                        <span class="slot-label">Carta 2</span>
+                        <span class="slot-name" id="s2name"></span>
+                        <span class="slot-empty">Escolha</span>
+                    </div>
                 </div>
-                <div class="toolbar-group">
-                    <button class="toolbar-btn" onclick="expandAllDynamics()" id="expand-all-btn">
-                        <svg viewBox="0 0 24 24"><polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/><line x1="21" y1="3" x2="14" y2="10"/><line x1="3" y1="21" x2="10" y2="14"/></svg>
-                        Expandir
-                    </button>
-                    <button class="toolbar-btn" onclick="clearCards()">
-                        <svg viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-                        Limpar
-                    </button>
+                <div class="oracle-hint">
+                    <button class="oracle-random" onclick="doRandom()">Tirada aleatória</button>
                 </div>
             </div>
 
             <!-- READING AREA -->
-            <div class="reading-area" id="reading-area">
-                <div class="reading-content" id="reading-content">
-                    <!-- Rendered by JS -->
-                </div>
+            <div class="reading-scroll" id="reading-scroll">
+                <div class="reading-inner" id="reading"></div>
             </div>
 
-        </div>
-
-        <!-- BOTTOM BAR -->
-        <div class="bottom-bar">
-            <button class="bottom-bar-btn" id="bottom-btn" onclick="openPickerSmart()">
-                Escolher cartas
-            </button>
-        </div>
-
-    </div>
-
-    <!-- CARD PICKER BOTTOM SHEET -->
-    <div class="sheet-overlay" id="sheet-overlay" onclick="closePicker()">
-        <div class="sheet" onclick="event.stopPropagation()">
-            <div class="sheet-handle-area" id="sheet-handle">
-                <div class="sheet-handle"></div>
-            </div>
-            <div class="sheet-header">
-                <span class="sheet-title" id="sheet-title">Escolha uma carta</span>
-                <button class="sheet-close" onclick="closePicker()" aria-label="Fechar">&#215;</button>
-            </div>
-            <div class="sheet-search">
-                <input type="text" class="search-input" id="search-input" placeholder="Buscar carta..." oninput="onSearchInput()" autocomplete="off" spellcheck="false">
-            </div>
-            <div class="sheet-filters" id="sheet-filters">
-                <button class="filter-btn active" data-filter="todos" onclick="setFilter('todos', this)">Todos</button>
-                <button class="filter-btn" data-filter="maiores" onclick="setFilter('maiores', this)">Arcanos Maiores</button>
-                <button class="filter-btn" data-filter="copas" onclick="setFilter('copas', this)">Copas</button>
-                <button class="filter-btn" data-filter="paus" onclick="setFilter('paus', this)">Paus</button>
-                <button class="filter-btn" data-filter="espadas" onclick="setFilter('espadas', this)">Espadas</button>
-                <button class="filter-btn" data-filter="ouros" onclick="setFilter('ouros', this)">Ouros</button>
-            </div>
-            <div class="sheet-grid" id="sheet-grid">
-                <div class="card-grid" id="card-grid"></div>
-            </div>
         </div>
     </div>
 
-    <!-- HISTORY PANEL -->
-    <div class="history-overlay" id="history-overlay" onclick="toggleHistory()">
-        <div class="history-panel" onclick="event.stopPropagation()">
-            <div class="history-header">
-                <span class="history-title">Leituras recentes</span>
-                <button class="history-clear-btn" onclick="clearHistory()">Limpar</button>
-            </div>
-            <div class="history-list" id="history-list">
-                <!-- Rendered by JS -->
-            </div>
-        </div>
+</div>
+
+<!-- ======= MOBILE PICKER ======= -->
+<div class="picker-overlay" id="picker">
+    <div class="picker-header">
+        <button class="picker-back" onclick="closePicker()" aria-label="Voltar">
+            <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+        </button>
+        <span class="picker-title" id="pk-title">Carta 1</span>
     </div>
-
-    <!-- TOAST -->
-    <div class="toast" id="toast"></div>
-
-    <!-- ONBOARDING -->
-    <div class="onboarding-overlay" id="onboarding">
-        <div class="onboarding-card">
-            <div class="onboarding-step-label">Bem-vindo</div>
-            <div class="onboarding-title">Taro Quebrado</div>
-            <div class="onboarding-text">
-                Escolha duas cartas para revelar as cinco dinamicas ocultas entre elas. A ordem importa.
-            </div>
-            <button class="onboarding-btn" onclick="dismissOnboarding()">Comecar</button>
-        </div>
+    <div class="picker-search-row">
+        <input type="text" class="picker-search" id="pk-search" placeholder="Buscar carta..." autocomplete="off" spellcheck="false">
     </div>
+    <div class="picker-filters" id="pk-filters"></div>
+    <div class="picker-grid-scroll">
+        <div class="picker-grid" id="pk-grid"></div>
+    </div>
+</div>
 
-    <script>
-    /* =============================================
-       DATA LAYER
-       ============================================= */
-    let cardsById = new Map();
-    let cardsList = [];
-    let interactionIndex = new Map();
+<!-- ======= HISTORY (Mobile) ======= -->
+<div class="history-shade" id="hist-shade" onclick="toggleHistory()">
+    <div class="history-panel" onclick="event.stopPropagation()">
+        <div class="hist-header">
+            <span class="hist-title">Recentes</span>
+            <button class="hist-clear" onclick="clearHist()">Limpar</button>
+        </div>
+        <div class="hist-list" id="hist-list"></div>
+    </div>
+</div>
 
-    function getCategory(id) {
-        const n = parseInt(id);
-        if (n <= 22) return 'maiores';
-        if (n <= 36) return 'copas';
-        if (n <= 50) return 'paus';
-        if (n <= 64) return 'espadas';
-        return 'ouros';
-    }
+<!-- TOAST -->
+<div class="toast" id="toast"></div>
 
-    function getCategoryLabel(cat) {
-        const labels = { maiores: 'Arcano Maior', copas: 'Copas', paus: 'Paus', espadas: 'Espadas', ouros: 'Ouros' };
-        return labels[cat] || cat;
-    }
+<!-- ONBOARDING -->
+<div class="onboard-shade" id="onboard">
+    <div class="onboard-card">
+        <div class="onboard-kicker">Bem-vindo</div>
+        <div class="onboard-title">Tarô Quebrado</div>
+        <div class="onboard-text">
+            Escolha duas cartas para revelar as cinco dinâmicas ocultas entre elas.
+            A ordem importa — cada direção conta uma história diferente.
+        </div>
+        <button class="onboard-btn" onclick="closeOnboard()">Começar</button>
+    </div>
+</div>
 
-    function normalize(str) {
-        return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-    }
+<script>
+/* ================================================
+   DATA LAYER
+   ================================================ */
+let cardsById = new Map();
+let cardsList = [];
+let interactions = new Map(); // "id1:id2" -> dynamics obj
 
-    async function loadData() {
-        const loaderBar = document.getElementById('loader-bar');
-        const loaderStatus = document.getElementById('loader-status');
+function catOf(id) {
+    const n = +id;
+    if (n <= 22) return 'maiores';
+    if (n <= 36) return 'copas';
+    if (n <= 50) return 'paus';
+    if (n <= 64) return 'espadas';
+    return 'ouros';
+}
 
-        try {
-            loaderStatus.textContent = 'Carregando cartas...';
-            const response = await fetch('cartas.json');
+function norm(s) {
+    return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
 
-            if (!response.ok) throw new Error('Falha ao carregar dados');
+const CATS = [
+    { key: 'todos',   label: 'Todos' },
+    { key: 'maiores', label: 'Arcanos Maiores' },
+    { key: 'copas',   label: 'Copas' },
+    { key: 'paus',    label: 'Paus' },
+    { key: 'espadas', label: 'Espadas' },
+    { key: 'ouros',   label: 'Ouros' },
+];
 
-            const contentLength = response.headers.get('Content-Length');
-            const total = contentLength ? parseInt(contentLength) : 0;
-            let loaded = 0;
-            const chunks = [];
+const DYN = [
+    { key: 'engendrar',  kicker: 'Engendrar',   title: 'O que nasce deste encontro' },
+    { key: 'conflito',   kicker: 'Conflito',    title: 'Onde as energias se opõem' },
+    { key: 'estagnar',   kicker: 'Estagnação',  title: 'O que paralisa o fluxo' },
+    { key: 'regressar',  kicker: 'Regressão',   title: 'O retorno a padrões antigos' },
+    { key: 'necessitar', kicker: 'Necessidade', title: 'O que precisa ser integrado' },
+];
 
-            const reader = response.body.getReader();
-            const decoder = new TextDecoder();
+async function loadData() {
+    const fill = document.getElementById('ld-fill');
+    const stat = document.getElementById('ld-status');
+    try {
+        stat.textContent = 'Carregando cartas...';
+        const res = await fetch('cartas.json');
+        if (!res.ok) throw new Error('HTTP ' + res.status);
 
-            while (true) {
-                const { done, value } = await reader.read();
-                if (done) break;
-                chunks.push(decoder.decode(value, { stream: true }));
-                loaded += value.length;
-                if (total > 0) {
-                    const pct = Math.min(Math.round((loaded / total) * 80), 80);
-                    loaderBar.style.width = pct + '%';
+        const total = +(res.headers.get('Content-Length') || 0);
+        let loaded = 0;
+        const chunks = [];
+        const reader = res.body.getReader();
+        const dec = new TextDecoder();
+
+        while (true) {
+            const { done, value } = await reader.read();
+            if (done) break;
+            chunks.push(dec.decode(value, { stream: true }));
+            loaded += value.length;
+            if (total) fill.style.width = Math.min(80, Math.round(loaded / total * 80)) + '%';
+        }
+
+        stat.textContent = 'Indexando...';
+        fill.style.width = '90%';
+
+        const data = JSON.parse(chunks.join(''));
+
+        for (const c of data) {
+            const cat = catOf(c.id);
+            cardsById.set(c.id, { id: c.id, name: c.name, cat });
+            cardsList.push({ id: c.id, name: c.name, cat, norm: norm(c.name) });
+            if (c.interactions) {
+                for (const inter of c.interactions) {
+                    interactions.set(c.id + ':' + inter.target_id, inter.dynamics);
                 }
             }
-
-            loaderStatus.textContent = 'Processando...';
-            loaderBar.style.width = '85%';
-
-            const jsonText = chunks.join('');
-            const data = JSON.parse(jsonText);
-
-            loaderBar.style.width = '90%';
-            loaderStatus.textContent = 'Indexando combinacoes...';
-
-            for (const card of data) {
-                const cat = getCategory(card.id);
-                cardsById.set(card.id, { id: card.id, name: card.name, category: cat });
-                cardsList.push({ id: card.id, name: card.name, category: cat, searchName: normalize(card.name) });
-
-                if (card.interactions) {
-                    for (const inter of card.interactions) {
-                        const key = card.id + ':' + inter.target_id;
-                        interactionIndex.set(key, inter.dynamics);
-                    }
-                }
-            }
-
-            cardsList.sort((a, b) => parseInt(a.id) - parseInt(b.id));
-            loaderBar.style.width = '100%';
-            loaderStatus.textContent = 'Pronto';
-
-            return true;
-        } catch (err) {
-            loaderStatus.textContent = 'Erro ao carregar. Recarregue a pagina.';
-            console.error(err);
-            return false;
-        }
-    }
-
-    /* =============================================
-       STATE
-       ============================================= */
-    const state = {
-        slot1: null,
-        slot2: null,
-        activeSlot: null,
-        pickerOpen: false,
-        pickerFilter: 'todos',
-        pickerSearch: '',
-        historyOpen: false,
-        expandedDynamics: new Set(),
-        allExpanded: false,
-        history: [],
-    };
-
-    const DYNAMIC_KEYS = ['engendrar', 'conflito', 'estagnar', 'regressar', 'necessitar'];
-    const DYNAMIC_META = {
-        engendrar: { label: 'Engendrar', title: 'O que nasce deste encontro', desc: 'A sinergia criativa entre as cartas' },
-        conflito:  { label: 'Conflito', title: 'Onde as energias se opoem', desc: 'A tensao entre as forcas' },
-        estagnar:  { label: 'Estagnacao', title: 'O que paralisa o fluxo', desc: 'O ponto de inércia' },
-        regressar: { label: 'Regressao', title: 'O retorno a padroes antigos', desc: 'O chamado do passado' },
-        necessitar:{ label: 'Necessidade', title: 'O que precisa ser integrado', desc: 'O que falta para completar' },
-    };
-
-    /* =============================================
-       HISTORY (localStorage)
-       ============================================= */
-    const HISTORY_KEY = 'taro_quebrado_history';
-    const HISTORY_MAX = 30;
-    const ONBOARDING_KEY = 'taro_quebrado_onboarded';
-
-    function loadHistory() {
-        try {
-            const raw = localStorage.getItem(HISTORY_KEY);
-            if (raw) state.history = JSON.parse(raw);
-        } catch(e) { state.history = []; }
-    }
-
-    function saveHistory() {
-        try {
-            localStorage.setItem(HISTORY_KEY, JSON.stringify(state.history));
-        } catch(e) {}
-    }
-
-    function addToHistory(id1, id2) {
-        const existing = state.history.findIndex(h => h.s1 === id1 && h.s2 === id2);
-        if (existing >= 0) state.history.splice(existing, 1);
-        state.history.unshift({ s1: id1, s2: id2, t: Date.now() });
-        if (state.history.length > HISTORY_MAX) state.history.pop();
-        saveHistory();
-    }
-
-    function clearHistory() {
-        state.history = [];
-        saveHistory();
-        renderHistory();
-    }
-
-    /* =============================================
-       HASH ROUTING
-       ============================================= */
-    function parseHash() {
-        const hash = location.hash.replace('#/', '').replace('#', '');
-        if (!hash) return { id1: null, id2: null };
-        const parts = hash.split('/');
-        return {
-            id1: parts[0] && cardsById.has(parts[0]) ? parts[0] : null,
-            id2: parts[1] && cardsById.has(parts[1]) ? parts[1] : null,
-        };
-    }
-
-    function updateHash(id1, id2) {
-        let hash = '#/';
-        if (id1) hash += id1;
-        if (id1 && id2) hash += '/' + id2;
-        if (location.hash !== hash) {
-            history.pushState(null, '', hash);
-        }
-    }
-
-    function onHashChange() {
-        const { id1, id2 } = parseHash();
-        state.slot1 = id1;
-        state.slot2 = id2;
-        state.expandedDynamics = new Set(['engendrar']);
-        state.allExpanded = false;
-        render();
-        if (id1 && id2) addToHistory(id1, id2);
-    }
-
-    /* =============================================
-       RENDER
-       ============================================= */
-    function render() {
-        renderSlots();
-        renderReading();
-        renderToolbar();
-        renderBottomBtn();
-        renderShareBtn();
-    }
-
-    function renderSlots() {
-        renderSlot(1, state.slot1);
-        renderSlot(2, state.slot2);
-
-        const swapBtn = document.getElementById('swap-btn');
-        if (state.slot1 && state.slot2) {
-            swapBtn.classList.add('active');
-        } else {
-            swapBtn.classList.remove('active');
-        }
-    }
-
-    function renderSlot(num, cardId) {
-        const slotEl = document.getElementById('slot-' + num);
-        const nameEl = document.getElementById('slot-' + num + '-name');
-        const emptyEl = document.getElementById('slot-' + num + '-empty');
-
-        if (cardId && cardsById.has(cardId)) {
-            const card = cardsById.get(cardId);
-            nameEl.textContent = card.name;
-            nameEl.style.display = '';
-            emptyEl.style.display = 'none';
-            slotEl.classList.add('filled');
-        } else {
-            nameEl.style.display = 'none';
-            emptyEl.style.display = '';
-            slotEl.classList.remove('filled');
-        }
-    }
-
-    function renderToolbar() {
-        const toolbar = document.getElementById('toolbar');
-        const label = document.getElementById('toolbar-label');
-        if (state.slot1 && state.slot2) {
-            toolbar.style.display = '';
-            const c1 = cardsById.get(state.slot1);
-            const c2 = cardsById.get(state.slot2);
-            label.textContent = c1.name + '  \u2192  ' + c2.name;
-        } else {
-            toolbar.style.display = 'none';
-        }
-    }
-
-    function renderBottomBtn() {
-        const btn = document.getElementById('bottom-btn');
-        if (!state.slot1) {
-            btn.textContent = 'Escolher cartas';
-        } else if (!state.slot2) {
-            btn.textContent = 'Escolher segunda carta';
-        } else {
-            btn.textContent = 'Trocar cartas';
-        }
-    }
-
-    function renderShareBtn() {
-        const btn = document.getElementById('share-btn');
-        btn.style.display = (state.slot1 && state.slot2) ? '' : 'none';
-    }
-
-    function renderReading() {
-        const container = document.getElementById('reading-content');
-        const readingArea = document.getElementById('reading-area');
-
-        if (!state.slot1 && !state.slot2) {
-            container.innerHTML = renderEmptyState();
-            readingArea.scrollTop = 0;
-            return;
         }
 
-        if (!state.slot1 || !state.slot2) {
-            const filledId = state.slot1 || state.slot2;
-            const card = cardsById.get(filledId);
-            container.innerHTML = `
-                <div class="partial-state">
-                    <div class="partial-state-text">
-                        ${card.name} aguarda uma companhia.
-                    </div>
-                </div>
-            `;
-            readingArea.scrollTop = 0;
-            return;
+        cardsList.sort((a, b) => (+a.id) - (+b.id));
+        fill.style.width = '100%';
+        stat.textContent = 'Pronto';
+        return true;
+    } catch (e) {
+        stat.textContent = 'Erro ao carregar. Recarregue.';
+        console.error(e);
+        return false;
+    }
+}
+
+/* ================================================
+   STATE
+   ================================================ */
+const S = {
+    s1: null,        // card id in slot 1
+    s2: null,        // card id in slot 2
+    active: null,    // 1, 2, or null (which slot is receiving next pick)
+    pkFilter: 'todos',
+    pkSearch: '',
+    hist: [],
+};
+
+const HIST_KEY = 'tq_hist';
+const HIST_MAX = 40;
+const OB_KEY = 'tq_ob';
+
+/* ================================================
+   HASH ROUTING
+   ================================================ */
+function readHash() {
+    const h = location.hash.replace(/^#\/?/, '');
+    if (!h) return [null, null];
+    const p = h.split('/');
+    return [
+        p[0] && cardsById.has(p[0]) ? p[0] : null,
+        p[1] && cardsById.has(p[1]) ? p[1] : null,
+    ];
+}
+
+function writeHash(id1, id2) {
+    let h = '#/';
+    if (id1) h += id1;
+    if (id1 && id2) h += '/' + id2;
+    if (location.hash !== h) history.pushState(null, '', h);
+}
+
+function onHash() {
+    const [a, b] = readHash();
+    S.s1 = a;
+    S.s2 = b;
+    if (a && b) {
+        S.active = null;
+        addHist(a, b);
+    } else if (a && !b) {
+        S.active = 2;
+    } else if (!a && b) {
+        S.active = 1;
+    } else {
+        S.active = 1;
+    }
+    render();
+}
+
+/* ================================================
+   HISTORY
+   ================================================ */
+function loadHist() {
+    try { S.hist = JSON.parse(localStorage.getItem(HIST_KEY)) || []; } catch(e) { S.hist = []; }
+}
+
+function saveHist() {
+    try { localStorage.setItem(HIST_KEY, JSON.stringify(S.hist)); } catch(e) {}
+}
+
+function addHist(a, b) {
+    const idx = S.hist.findIndex(h => h.a === a && h.b === b);
+    if (idx >= 0) S.hist.splice(idx, 1);
+    S.hist.unshift({ a, b, t: Date.now() });
+    if (S.hist.length > HIST_MAX) S.hist.length = HIST_MAX;
+    saveHist();
+}
+
+function clearHist() {
+    S.hist = [];
+    saveHist();
+    renderHistory();
+}
+
+function timeAgo(ts) {
+    const d = Date.now() - ts;
+    const m = Math.floor(d / 60000);
+    if (m < 1) return 'agora';
+    if (m < 60) return m + ' min';
+    const h = Math.floor(m / 60);
+    if (h < 24) return h + 'h';
+    return Math.floor(h / 24) + 'd';
+}
+
+/* ================================================
+   RENDER
+   ================================================ */
+function render() {
+    renderSlots();
+    renderReading();
+    renderShareBtn();
+    renderSidebar();
+}
+
+function renderSlots() {
+    rSlot(1, S.s1);
+    rSlot(2, S.s2);
+    const sw = document.getElementById('swap-btn');
+    sw.classList.toggle('active', !!(S.s1 && S.s2));
+}
+
+function rSlot(n, id) {
+    const el = document.getElementById('slot' + n);
+    const nm = document.getElementById('s' + n + 'name');
+    if (id && cardsById.has(id)) {
+        const c = cardsById.get(id);
+        nm.textContent = c.name;
+        el.classList.add('filled');
+    } else {
+        nm.textContent = '';
+        el.classList.remove('filled');
+    }
+    el.classList.toggle('active', S.active === n);
+}
+
+function renderShareBtn() {
+    document.getElementById('share-btn').style.display = (S.s1 && S.s2) ? '' : 'none';
+}
+
+function renderReading() {
+    const box = document.getElementById('reading');
+    const scroll = document.getElementById('reading-scroll');
+
+    // Empty state
+    if (!S.s1 && !S.s2) {
+        box.innerHTML =
+            '<div class="empty">' +
+                '<div class="empty-mark">&#10037;</div>' +
+                '<h2>Sua leitura começa aqui</h2>' +
+                '<p>Escolha duas cartas do tarô para revelar as cinco dinâmicas ocultas entre elas. A ordem importa.</p>' +
+                '<button class="empty-cta" onclick="onSlotClick(1)">Escolher primeira carta</button>' +
+                '<span class="empty-or">ou</span>' +
+                '<button class="empty-random" onclick="doRandom()">Tirada aleatória</button>' +
+            '</div>';
+        scroll.scrollTop = 0;
+        return;
+    }
+
+    // Partial state
+    if (!S.s1 || !S.s2) {
+        const cid = S.s1 || S.s2;
+        const c = cardsById.get(cid);
+        box.innerHTML =
+            '<div class="partial">' +
+                '<p>' + esc(c.name) + ' aguarda uma companhia.</p>' +
+            '</div>';
+        scroll.scrollTop = 0;
+        return;
+    }
+
+    // Full reading
+    const c1 = cardsById.get(S.s1);
+    const c2 = cardsById.get(S.s2);
+    const dyn = interactions.get(S.s1 + ':' + S.s2);
+
+    let html =
+        '<div class="rdg-header">' +
+            '<div class="rdg-kicker">Leitura</div>' +
+            '<div class="rdg-pair">' + esc(c1.name) + '<span class="arr">&rarr;</span>' + esc(c2.name) + '</div>' +
+            '<div class="rdg-sub">A influência de ' + esc(c1.name) + ' sobre ' + esc(c2.name) + '</div>' +
+        '</div>';
+
+    if (dyn) {
+        for (const d of DYN) {
+            if (!dyn[d.key]) continue;
+            html +=
+                '<div class="dyn">' +
+                    '<div class="dyn-kicker">' + d.kicker + '</div>' +
+                    '<div class="dyn-title">' + d.title + '</div>' +
+                    '<div class="dyn-text">' + esc(dyn[d.key]) + '</div>' +
+                '</div>';
         }
+    } else {
+        html +=
+            '<div class="partial" style="padding-top:48px">' +
+                '<p>Combinação ainda não catalogada.</p>' +
+            '</div>';
+    }
 
-        const card1 = cardsById.get(state.slot1);
-        const card2 = cardsById.get(state.slot2);
-        const key = state.slot1 + ':' + state.slot2;
-        const dynamics = interactionIndex.get(key);
+    // Explore section
+    html += buildExplore(c1, c2);
 
-        let html = `
-            <div class="reading-header">
-                <div class="reading-pair-label">Leitura</div>
-                <div class="reading-pair-names">
-                    ${card1.name}<span class="reading-pair-connector"> &amp; </span>${card2.name}
-                </div>
-                <div class="reading-direction-hint">${card1.name} sobre ${card2.name} &mdash; a ordem importa</div>
-            </div>
-        `;
+    box.innerHTML = html;
+    scroll.scrollTop = 0;
+}
 
-        if (dynamics) {
-            html += '<div class="dynamics-list">';
-            for (const dk of DYNAMIC_KEYS) {
-                if (!dynamics[dk]) continue;
-                const meta = DYNAMIC_META[dk];
-                const isExpanded = state.allExpanded || state.expandedDynamics.has(dk);
-                html += `
-                    <div class="dynamic-section ${isExpanded ? 'expanded' : ''}" id="dyn-${dk}">
-                        <button class="dynamic-header" onclick="toggleDynamic('${dk}')" aria-expanded="${isExpanded}">
-                            <div class="dynamic-header-left">
-                                <span class="dynamic-label">${meta.label}</span>
-                                <span class="dynamic-title">${meta.title}</span>
-                            </div>
-                            <svg class="dynamic-chevron" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg>
-                        </button>
-                        <div class="dynamic-body">
-                            <div class="dynamic-text">${dynamics[dk]}</div>
-                        </div>
-                    </div>
-                `;
-            }
-            html += '</div>';
-        } else {
-            html += `
-                <div class="partial-state" style="padding-top: var(--space-2xl);">
-                    <div class="partial-state-text">
-                        Combinacao ainda nao catalogada.
-                    </div>
-                </div>
-            `;
+function buildExplore(c1, c2) {
+    let h = '<div class="explore-section">' +
+        '<div class="explore-title">Explorar</div>';
+
+    // Swap
+    h += '<button class="explore-swap" onclick="doSwap()">' +
+            '<div class="explore-swap-label">Inverter a leitura</div>' +
+            '<div class="explore-swap-pair">' + esc(c2.name) + ' <span class="arr">&rarr;</span> ' + esc(c1.name) + '</div>' +
+         '</button>';
+
+    // Related with card 1
+    const rel1 = getSuggestions(c1.id, c2.id);
+    if (rel1.length) {
+        h += '<div class="explore-group">' +
+            '<div class="explore-group-title">Outras com ' + esc(c1.name) + '</div>' +
+            '<div class="explore-links">';
+        for (const r of rel1) {
+            h += '<button class="explore-link" onclick="goPair(\'' + c1.id + '\',\'' + r.id + '\')">' + esc(r.name) + '</button>';
         }
-
-        container.innerHTML = html;
-        readingArea.scrollTop = 0;
+        h += '</div></div>';
     }
 
-    function renderEmptyState() {
-        return `
-            <div class="empty-state">
-                <div class="empty-state-icon">&#9733;</div>
-                <div class="empty-state-title">Sua leitura comeca aqui</div>
-                <div class="empty-state-text">
-                    Escolha duas cartas de taro para revelar as cinco dinamicas entre elas.
-                </div>
-                <button class="empty-state-btn" onclick="openPicker(1)">Escolher primeira carta</button>
-            </div>
-        `;
-    }
-
-    /* =============================================
-       DYNAMICS ACCORDION
-       ============================================= */
-    function toggleDynamic(key) {
-        if (state.allExpanded) {
-            state.allExpanded = false;
-            state.expandedDynamics = new Set(DYNAMIC_KEYS);
-            state.expandedDynamics.delete(key);
-        } else {
-            if (state.expandedDynamics.has(key)) {
-                state.expandedDynamics.delete(key);
-            } else {
-                state.expandedDynamics.add(key);
-            }
+    // Related with card 2
+    const rel2 = getSuggestions(c2.id, c1.id);
+    if (rel2.length) {
+        h += '<div class="explore-group">' +
+            '<div class="explore-group-title">Outras com ' + esc(c2.name) + '</div>' +
+            '<div class="explore-links">';
+        for (const r of rel2) {
+            h += '<button class="explore-link" onclick="goPair(\'' + r.id + '\',\'' + c2.id + '\')">' + esc(r.name) + '</button>';
         }
-        updateDynamicsDOM();
+        h += '</div></div>';
     }
 
-    function expandAllDynamics() {
-        const btn = document.getElementById('expand-all-btn');
-        if (state.allExpanded) {
-            state.allExpanded = false;
-            state.expandedDynamics = new Set(['engendrar']);
-            btn.innerHTML = '<svg viewBox="0 0 24 24"><polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/><line x1="21" y1="3" x2="14" y2="10"/><line x1="3" y1="21" x2="10" y2="14"/></svg> Expandir';
-        } else {
-            state.allExpanded = true;
-            state.expandedDynamics = new Set(DYNAMIC_KEYS);
-            btn.innerHTML = '<svg viewBox="0 0 24 24"><polyline points="4 14 10 14 10 20"/><polyline points="20 10 14 10 14 4"/><line x1="14" y1="10" x2="21" y2="3"/><line x1="3" y1="21" x2="10" y2="14"/></svg> Recolher';
-        }
-        updateDynamicsDOM();
-    }
+    h += '</div>';
+    return h;
+}
 
-    function updateDynamicsDOM() {
-        for (const dk of DYNAMIC_KEYS) {
-            const el = document.getElementById('dyn-' + dk);
-            if (!el) continue;
-            const isExpanded = state.allExpanded || state.expandedDynamics.has(dk);
-            if (isExpanded) {
-                el.classList.add('expanded');
-            } else {
-                el.classList.remove('expanded');
-            }
-            el.querySelector('.dynamic-header').setAttribute('aria-expanded', isExpanded);
-        }
-    }
-
-    /* =============================================
-       CARD PICKER
-       ============================================= */
-    function openPicker(slotNum) {
-        state.activeSlot = slotNum;
-        state.pickerSearch = '';
-        document.getElementById('search-input').value = '';
-        document.getElementById('sheet-title').textContent = 'Carta ' + slotNum;
-
-        const overlay = document.getElementById('sheet-overlay');
-        overlay.classList.add('open');
-        state.pickerOpen = true;
-
-        document.body.style.overflow = 'hidden';
-        renderCardGrid();
-
-        setTimeout(() => {
-            document.getElementById('search-input').focus();
-        }, 350);
-    }
-
-    function openPickerSmart() {
-        if (!state.slot1) {
-            openPicker(1);
-        } else if (!state.slot2) {
-            openPicker(2);
-        } else {
-            openPicker(1);
-        }
-    }
-
-    function closePicker() {
-        const overlay = document.getElementById('sheet-overlay');
-        overlay.classList.remove('open');
-        state.pickerOpen = false;
-        document.body.style.overflow = '';
-    }
-
-    function setFilter(filter, btnEl) {
-        state.pickerFilter = filter;
-        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-        btnEl.classList.add('active');
-        renderCardGrid();
-    }
-
-    let searchTimeout = null;
-    function onSearchInput() {
-        clearTimeout(searchTimeout);
-        searchTimeout = setTimeout(() => {
-            state.pickerSearch = normalize(document.getElementById('search-input').value.trim());
-            renderCardGrid();
-        }, 120);
-    }
-
-    function renderCardGrid() {
-        const grid = document.getElementById('card-grid');
-        let filtered = cardsList;
-
-        if (state.pickerFilter !== 'todos') {
-            filtered = filtered.filter(c => c.category === state.pickerFilter);
-        }
-
-        if (state.pickerSearch) {
-            filtered = filtered.filter(c => c.searchName.includes(state.pickerSearch));
-        }
-
-        if (filtered.length === 0) {
-            grid.innerHTML = '<div class="card-grid-empty">Nenhuma carta encontrada</div>';
-            return;
-        }
-
-        let html = '';
-        for (const card of filtered) {
-            const isInSlot = (card.id === state.slot1 || card.id === state.slot2);
-            html += `<button class="card-grid-item ${isInSlot ? 'in-slot' : ''}" onclick="selectCard('${card.id}')">${card.name}</button>`;
-        }
-        grid.innerHTML = html;
-    }
-
-    function selectCard(cardId) {
-        if (state.activeSlot === 1) {
-            state.slot1 = cardId;
-        } else {
-            state.slot2 = cardId;
-        }
-
-        closePicker();
-        updateHash(state.slot1, state.slot2);
-        state.expandedDynamics = new Set(['engendrar']);
-        state.allExpanded = false;
-        render();
-
-        if (state.slot1 && state.slot2) {
-            addToHistory(state.slot1, state.slot2);
-        }
-
-        // Auto-open picker for slot 2 if only slot 1 was just filled
-        if (state.activeSlot === 1 && state.slot1 && !state.slot2) {
-            setTimeout(() => openPicker(2), 400);
-        }
-    }
-
-    /* =============================================
-       CARD ACTIONS
-       ============================================= */
-    function swapCards() {
-        if (!state.slot1 || !state.slot2) return;
-        const temp = state.slot1;
-        state.slot1 = state.slot2;
-        state.slot2 = temp;
-        state.expandedDynamics = new Set(['engendrar']);
-        state.allExpanded = false;
-        updateHash(state.slot1, state.slot2);
-        render();
-        if (state.slot1 && state.slot2) addToHistory(state.slot1, state.slot2);
-        showToast('Ordem invertida');
-    }
-
-    function removeCard(slotNum) {
-        if (slotNum === 1) {
-            state.slot1 = null;
-        } else {
-            state.slot2 = null;
-        }
-        updateHash(state.slot1, state.slot2);
-        render();
-    }
-
-    function clearCards() {
-        state.slot1 = null;
-        state.slot2 = null;
-        updateHash(null, null);
-        render();
-        showToast('Cartas removidas');
-    }
-
-    /* =============================================
-       SHARE
-       ============================================= */
-    function shareReading() {
-        const url = location.href;
-        if (navigator.share) {
-            const c1 = cardsById.get(state.slot1);
-            const c2 = cardsById.get(state.slot2);
-            navigator.share({
-                title: 'Taro Quebrado',
-                text: c1.name + ' & ' + c2.name,
-                url: url,
-            }).catch(() => {});
-        } else if (navigator.clipboard) {
-            navigator.clipboard.writeText(url).then(() => {
-                showToast('Link copiado');
-            }).catch(() => {
-                showToast('Falha ao copiar');
-            });
+function getSuggestions(cardId, excludeId) {
+    const n = +cardId;
+    const cats = ['maiores', 'copas', 'paus', 'espadas', 'ouros'];
+    const result = [];
+    for (const cat of cats) {
+        if (result.length >= 4) break;
+        const pool = cardsList.filter(c => c.cat === cat && c.id !== cardId && c.id !== excludeId);
+        if (pool.length) {
+            result.push(pool[n % pool.length]);
         }
     }
+    return result;
+}
 
-    /* =============================================
-       HISTORY PANEL
-       ============================================= */
-    function toggleHistory() {
-        const overlay = document.getElementById('history-overlay');
-        state.historyOpen = !state.historyOpen;
-        if (state.historyOpen) {
-            overlay.classList.add('open');
-            document.body.style.overflow = 'hidden';
-            renderHistory();
-        } else {
-            overlay.classList.remove('open');
-            if (!state.pickerOpen) document.body.style.overflow = '';
-        }
-    }
+function esc(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
 
-    function renderHistory() {
-        const list = document.getElementById('history-list');
-
-        if (state.history.length === 0) {
-            list.innerHTML = '<div class="history-empty">Nenhuma leitura ainda.</div>';
-            return;
-        }
-
-        let html = '';
-        for (const item of state.history) {
-            const c1 = cardsById.get(item.s1);
-            const c2 = cardsById.get(item.s2);
-            if (!c1 || !c2) continue;
-
-            const timeAgo = formatTimeAgo(item.t);
-            html += `
-                <button class="history-item" onclick="loadFromHistory('${item.s1}', '${item.s2}')">
-                    <div class="history-item-text">
-                        <div class="history-item-pair">
-                            ${c1.name} <span class="history-item-connector">&</span> ${c2.name}
-                        </div>
-                        <div class="history-item-time">${timeAgo}</div>
-                    </div>
-                </button>
-            `;
-        }
-        list.innerHTML = html;
-    }
-
-    function loadFromHistory(id1, id2) {
-        toggleHistory();
-        state.slot1 = id1;
-        state.slot2 = id2;
-        state.expandedDynamics = new Set(['engendrar']);
-        state.allExpanded = false;
-        updateHash(id1, id2);
-        render();
-    }
-
-    function formatTimeAgo(timestamp) {
-        const diff = Date.now() - timestamp;
-        const mins = Math.floor(diff / 60000);
-        if (mins < 1) return 'agora';
-        if (mins < 60) return mins + ' min';
-        const hours = Math.floor(mins / 60);
-        if (hours < 24) return hours + 'h';
-        const days = Math.floor(hours / 24);
-        return days + 'd';
-    }
-
-    /* =============================================
-       TOAST
-       ============================================= */
-    let toastTimeout = null;
-    function showToast(msg) {
-        const toast = document.getElementById('toast');
-        toast.textContent = msg;
-        toast.classList.add('visible');
-        clearTimeout(toastTimeout);
-        toastTimeout = setTimeout(() => {
-            toast.classList.remove('visible');
-        }, 2000);
-    }
-
-    /* =============================================
-       ONBOARDING
-       ============================================= */
-    function checkOnboarding() {
-        try {
-            if (!localStorage.getItem(ONBOARDING_KEY)) {
-                document.getElementById('onboarding').classList.add('visible');
-            }
-        } catch(e) {}
-    }
-
-    function dismissOnboarding() {
-        document.getElementById('onboarding').classList.remove('visible');
-        try {
-            localStorage.setItem(ONBOARDING_KEY, '1');
-        } catch(e) {}
-    }
-
-    /* =============================================
-       KEYBOARD NAVIGATION
-       ============================================= */
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') {
-            if (state.pickerOpen) { closePicker(); return; }
-            if (state.historyOpen) { toggleHistory(); return; }
-        }
-        // Allow Enter on card slots
-        if (e.key === 'Enter') {
-            const active = document.activeElement;
-            if (active && active.classList.contains('card-slot')) {
-                active.click();
-            }
-        }
+/* ================================================
+   SIDEBAR (desktop)
+   ================================================ */
+function initSidebar() {
+    // Filters
+    const fc = document.getElementById('sb-filters');
+    fc.innerHTML = CATS.map(c =>
+        '<button class="sb-filter-btn' + (c.key === 'todos' ? ' active' : '') + '" data-f="' + c.key + '">' + c.label + '</button>'
+    ).join('');
+    fc.addEventListener('click', e => {
+        const b = e.target.closest('[data-f]');
+        if (!b) return;
+        S.pkFilter = b.dataset.f;
+        fc.querySelectorAll('.sb-filter-btn').forEach(x => x.classList.toggle('active', x === b));
+        renderSbGrid();
     });
 
-    /* =============================================
-       SHEET DRAG TO DISMISS (MOBILE)
-       ============================================= */
-    (function setupSheetDrag() {
-        const handle = document.getElementById('sheet-handle');
-        const sheet = handle ? handle.closest('.sheet') : null;
-        if (!sheet) return;
+    // Search
+    let sbt;
+    document.getElementById('sb-search').addEventListener('input', e => {
+        clearTimeout(sbt);
+        sbt = setTimeout(() => { S.pkSearch = norm(e.target.value.trim()); renderSbGrid(); }, 100);
+    });
+}
 
-        let startY = 0;
-        let currentY = 0;
-        let dragging = false;
+function renderSidebar() {
+    renderSbGrid();
+    renderSbHint();
+    renderSbHistory();
+}
 
-        handle.addEventListener('touchstart', (e) => {
-            startY = e.touches[0].clientY;
-            dragging = true;
-            sheet.style.transition = 'none';
-        }, { passive: true });
+function renderSbHint() {
+    const hint = document.getElementById('sb-hint');
+    if (S.active) {
+        hint.textContent = 'Escolhendo para posição ' + S.active;
+        hint.classList.add('visible');
+    } else {
+        hint.classList.remove('visible');
+    }
+}
 
-        document.addEventListener('touchmove', (e) => {
-            if (!dragging) return;
-            currentY = e.touches[0].clientY;
-            const diff = currentY - startY;
-            if (diff > 0) {
-                sheet.style.transform = 'translateY(' + diff + 'px)';
-            }
-        }, { passive: true });
+function renderSbGrid() {
+    const grid = document.getElementById('sb-grid');
+    const filtered = getFiltered();
+    if (!filtered.length) {
+        grid.innerHTML = '<div class="sb-empty">Nenhuma carta encontrada</div>';
+        return;
+    }
+    grid.innerHTML = filtered.map(c => {
+        const cls = (c.id === S.s1 || c.id === S.s2) ? ' in-use' : '';
+        return '<button class="sb-card-btn' + cls + '" data-id="' + c.id + '">' + esc(c.name) + '</button>';
+    }).join('');
+}
 
-        document.addEventListener('touchend', () => {
-            if (!dragging) return;
-            dragging = false;
-            sheet.style.transition = '';
-            const diff = currentY - startY;
-            if (diff > 100) {
-                closePicker();
-            }
-            sheet.style.transform = '';
-            currentY = 0;
-            startY = 0;
-        });
-    })();
+function renderSbHistory() {
+    const box = document.getElementById('sb-history');
+    if (!S.hist.length) {
+        box.innerHTML = '<div class="sb-empty">Nenhuma leitura ainda</div>';
+        return;
+    }
+    box.innerHTML = S.hist.slice(0, 15).map(h => {
+        const a = cardsById.get(h.a);
+        const b = cardsById.get(h.b);
+        if (!a || !b) return '';
+        return '<button class="sb-history-item" onclick="goPair(\'' + h.a + '\',\'' + h.b + '\')">' +
+            '<div class="sb-history-pair">' + esc(a.name) + ' <span class="arr">&rarr;</span> ' + esc(b.name) + '</div>' +
+            '<div class="sb-history-time">' + timeAgo(h.t) + '</div>' +
+        '</button>';
+    }).join('');
+}
 
-    /* =============================================
-       INIT
-       ============================================= */
-    async function init() {
-        const success = await loadData();
-        if (!success) return;
+// Click delegation for sidebar grid
+document.getElementById('sb-scroll').addEventListener('click', e => {
+    const btn = e.target.closest('[data-id]');
+    if (!btn) return;
+    pickCard(btn.dataset.id);
+});
 
-        const loader = document.getElementById('loader');
-        loader.classList.add('hidden');
+/* ================================================
+   MOBILE PICKER
+   ================================================ */
+function initPicker() {
+    const fc = document.getElementById('pk-filters');
+    fc.innerHTML = CATS.map(c =>
+        '<button class="pk-filter' + (c.key === 'todos' ? ' active' : '') + '" data-f="' + c.key + '">' + c.label + '</button>'
+    ).join('');
+    fc.addEventListener('click', e => {
+        const b = e.target.closest('[data-f]');
+        if (!b) return;
+        S.pkFilter = b.dataset.f;
+        fc.querySelectorAll('.pk-filter').forEach(x => x.classList.toggle('active', x === b));
+        renderPkGrid();
+    });
 
-        const app = document.getElementById('app');
-        app.classList.add('visible');
+    let pkt;
+    document.getElementById('pk-search').addEventListener('input', e => {
+        clearTimeout(pkt);
+        pkt = setTimeout(() => { S.pkSearch = norm(e.target.value.trim()); renderPkGrid(); }, 100);
+    });
 
-        loadHistory();
+    document.getElementById('pk-grid').addEventListener('click', e => {
+        const btn = e.target.closest('[data-id]');
+        if (!btn) return;
+        pickCard(btn.dataset.id);
+        closePicker();
+    });
+}
 
-        // Parse initial hash
-        const { id1, id2 } = parseHash();
-        state.slot1 = id1;
-        state.slot2 = id2;
-        if (id1) state.expandedDynamics = new Set(['engendrar']);
+function openPicker(slotNum) {
+    S.active = slotNum;
+    S.pkSearch = '';
+    const overlay = document.getElementById('picker');
+    document.getElementById('pk-title').textContent = 'Carta ' + slotNum;
+    document.getElementById('pk-search').value = '';
+    renderPkGrid();
+    overlay.classList.add('open');
+    setTimeout(() => document.getElementById('pk-search').focus(), 320);
+}
 
+function closePicker() {
+    document.getElementById('picker').classList.remove('open');
+}
+
+function renderPkGrid() {
+    const grid = document.getElementById('pk-grid');
+    const filtered = getFiltered();
+    if (!filtered.length) {
+        grid.innerHTML = '<div class="pk-empty">Nenhuma carta encontrada</div>';
+        return;
+    }
+    grid.innerHTML = filtered.map(c => {
+        const cls = (c.id === S.s1 || c.id === S.s2) ? ' in-use' : '';
+        return '<button class="pk-card' + cls + '" data-id="' + c.id + '">' + esc(c.name) + '</button>';
+    }).join('');
+}
+
+function getFiltered() {
+    let list = cardsList;
+    if (S.pkFilter !== 'todos') list = list.filter(c => c.cat === S.pkFilter);
+    if (S.pkSearch) list = list.filter(c => c.norm.includes(S.pkSearch));
+    return list;
+}
+
+/* ================================================
+   CARD ACTIONS
+   ================================================ */
+function onSlotClick(n) {
+    // On desktop: just activate the slot (sidebar is the picker)
+    // On mobile: open fullscreen picker
+    S.active = n;
+    if (window.innerWidth >= 1024) {
         render();
+        document.getElementById('sb-search').focus();
+    } else {
+        openPicker(n);
+    }
+}
 
-        if (id1 && id2) addToHistory(id1, id2);
-
-        window.addEventListener('hashchange', onHashChange);
-        window.addEventListener('popstate', onHashChange);
-
-        checkOnboarding();
+function pickCard(id) {
+    // Prevent same card in both slots
+    if (S.active === 1 && S.s2 === id) {
+        toast('Esta carta já está na posição 2');
+        return;
+    }
+    if (S.active === 2 && S.s1 === id) {
+        toast('Esta carta já está na posição 1');
+        return;
     }
 
-    init();
-    </script>
+    if (S.active === 1) {
+        S.s1 = id;
+        if (!S.s2) S.active = 2; else S.active = null;
+    } else if (S.active === 2) {
+        S.s2 = id;
+        if (!S.s1) S.active = 1; else S.active = null;
+    } else {
+        // No active slot — default to slot 1
+        S.s1 = id;
+        S.active = 2;
+    }
+
+    writeHash(S.s1, S.s2);
+    if (S.s1 && S.s2) addHist(S.s1, S.s2);
+    render();
+
+    // Auto-open picker for slot 2 on mobile
+    if (S.active === 2 && window.innerWidth < 1024) {
+        setTimeout(() => openPicker(2), 350);
+    }
+}
+
+function removeCard(n) {
+    if (n === 1) S.s1 = null; else S.s2 = null;
+    S.active = n;
+    writeHash(S.s1, S.s2);
+    render();
+}
+
+function doSwap() {
+    if (!S.s1 || !S.s2) return;
+    [S.s1, S.s2] = [S.s2, S.s1];
+    S.active = null;
+    writeHash(S.s1, S.s2);
+    addHist(S.s1, S.s2);
+    render();
+    toast('Ordem invertida');
+}
+
+function goPair(a, b) {
+    S.s1 = a;
+    S.s2 = b;
+    S.active = null;
+    writeHash(a, b);
+    addHist(a, b);
+    render();
+}
+
+function doRandom() {
+    const ids = cardsList.map(c => c.id);
+    const i = Math.floor(Math.random() * ids.length);
+    let j;
+    do { j = Math.floor(Math.random() * ids.length); } while (j === i);
+    goPair(ids[i], ids[j]);
+}
+
+/* ================================================
+   SHARE
+   ================================================ */
+function doShare() {
+    const url = location.href;
+    if (navigator.share && S.s1 && S.s2) {
+        const a = cardsById.get(S.s1), b = cardsById.get(S.s2);
+        navigator.share({ title: 'Tarô Quebrado', text: a.name + ' → ' + b.name, url }).catch(() => {});
+    } else if (navigator.clipboard) {
+        navigator.clipboard.writeText(url).then(() => toast('Link copiado')).catch(() => toast('Erro ao copiar'));
+    }
+}
+
+/* ================================================
+   HISTORY PANEL (mobile)
+   ================================================ */
+function toggleHistory() {
+    const shade = document.getElementById('hist-shade');
+    const isOpen = shade.classList.contains('open');
+    if (isOpen) {
+        shade.classList.remove('open');
+    } else {
+        renderHistory();
+        shade.classList.add('open');
+    }
+}
+
+function renderHistory() {
+    const list = document.getElementById('hist-list');
+    if (!S.hist.length) {
+        list.innerHTML = '<div class="hist-empty">Nenhuma leitura ainda</div>';
+        return;
+    }
+    list.innerHTML = S.hist.map(h => {
+        const a = cardsById.get(h.a), b = cardsById.get(h.b);
+        if (!a || !b) return '';
+        return '<button class="hist-item" onclick="goPair(\'' + h.a + '\',\'' + h.b + '\');toggleHistory()">' +
+            '<div class="hist-pair">' + esc(a.name) + ' <span class="arr">&rarr;</span> ' + esc(b.name) + '</div>' +
+            '<div class="hist-time">' + timeAgo(h.t) + '</div>' +
+        '</button>';
+    }).join('');
+}
+
+/* ================================================
+   TOAST
+   ================================================ */
+let toastTimer;
+function toast(msg) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.classList.add('show');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => t.classList.remove('show'), 2200);
+}
+
+/* ================================================
+   ONBOARDING
+   ================================================ */
+function checkOnboard() {
+    try {
+        if (!localStorage.getItem(OB_KEY)) {
+            document.getElementById('onboard').classList.add('show');
+        }
+    } catch(e) {}
+}
+
+function closeOnboard() {
+    document.getElementById('onboard').classList.remove('show');
+    try { localStorage.setItem(OB_KEY, '1'); } catch(e) {}
+}
+
+/* ================================================
+   KEYBOARD
+   ================================================ */
+document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+        if (document.getElementById('picker').classList.contains('open')) return closePicker();
+        if (document.getElementById('hist-shade').classList.contains('open')) return toggleHistory();
+    }
+});
+
+/* ================================================
+   INIT
+   ================================================ */
+async function init() {
+    const ok = await loadData();
+    if (!ok) return;
+
+    document.getElementById('loader').classList.add('out');
+    setTimeout(() => document.getElementById('loader').style.display = 'none', 600);
+
+    document.getElementById('app').classList.add('visible');
+
+    loadHist();
+    initSidebar();
+    initPicker();
+
+    const [a, b] = readHash();
+    S.s1 = a;
+    S.s2 = b;
+    if (a && b) { S.active = null; addHist(a, b); }
+    else if (a) S.active = 2;
+    else S.active = 1;
+
+    render();
+
+    window.addEventListener('hashchange', onHash);
+    window.addEventListener('popstate', onHash);
+
+    checkOnboard();
+}
+
+init();
+</script>
 </body>
 </html>

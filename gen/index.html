@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+<title>Tarô do Craque — Faísca de Leitura</title>
+<style>
+  :root{
+    --bg:#14110d;
+    --bg-grad-1:#1c1812;
+    --bg-grad-2:#0f0c09;
+    --surface:#211b14;
+    --surface-2:#2a2218;
+    --ink:#f4ead4;
+    --ink-soft:#d9c8a6;
+    --muted:#a8946f;
+    --gold:#c9a24b;
+    --gold-soft:#e6cd86;
+    --line:rgba(201,162,75,.22);
+    --line-soft:rgba(201,162,75,.12);
+    /* lens accents */
+    --l1:#86b06c; /* engendra  — crescimento */
+    --l2:#cf6a55; /* conflito  — choque */
+    --l3:#9a8d72; /* estagnado — inércia */
+    --l4:#cf9a3f; /* reduz     — encolhe */
+    --l5:#6f96bd; /* necessita — falta */
+    --display:"Hoefler Text","Baskerville Old Face",Baskerville,"Palatino Linotype",Palatino,Garamond,Georgia,serif;
+    --body:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0}
+  body{
+    font-family:var(--body);
+    color:var(--ink);
+    background:
+      radial-gradient(120% 80% at 50% -10%, var(--bg-grad-1) 0%, var(--bg) 45%, var(--bg-grad-2) 100%);
+    background-attachment:fixed;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+    min-height:100vh;
+    padding:max(18px,env(safe-area-inset-top)) 16px calc(96px + env(safe-area-inset-bottom));
+    max-width:560px;margin:0 auto;
+  }
+  /* faint grain/texture */
+  body::before{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:0;
+    background-image:radial-gradient(rgba(201,162,75,.05) 1px,transparent 1px);
+    background-size:4px 4px;opacity:.5;mix-blend-mode:screen;
+  }
+  .wrap{position:relative;z-index:1}
+
+  /* ---------- header ---------- */
+  header{text-align:center;margin:6px 0 22px}
+  .kicker{font-size:11px;letter-spacing:.42em;text-transform:uppercase;color:var(--gold);
+    margin:0 0 6px;padding-left:.42em}
+  h1{font-family:var(--display);font-weight:600;font-size:30px;letter-spacing:.01em;
+    margin:0;color:var(--ink);text-shadow:0 1px 0 rgba(0,0,0,.4)}
+  .sub{font-style:italic;color:var(--muted);font-size:15px;margin:6px 0 0}
+  .rule{height:1px;background:linear-gradient(90deg,transparent,var(--line),transparent);margin:18px 0 0}
+
+  /* ---------- picker zone ---------- */
+  .pair{display:flex;align-items:stretch;gap:10px;margin-top:18px}
+  .slot{flex:1;min-width:0}
+  .slot-label{font-size:10.5px;letter-spacing:.28em;text-transform:uppercase;color:var(--muted);
+    margin:0 0 7px;text-align:center}
+  .card-btn{
+    width:100%;min-height:104px;border:1px solid var(--line);border-radius:14px;
+    background:linear-gradient(180deg,var(--surface-2),var(--surface));
+    color:var(--ink);cursor:pointer;padding:14px 12px;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;
+    transition:border-color .25s,transform .08s;
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.03),0 6px 18px rgba(0,0,0,.35);
+  }
+  .card-btn:active{transform:scale(.985)}
+  .card-btn.filled{border-color:var(--line)}
+  .card-btn .glyph{font-family:var(--display);font-size:26px;color:var(--gold);line-height:1}
+  .card-btn .name{font-family:var(--display);font-size:18px;line-height:1.15;text-align:center}
+  .card-btn .ph{color:var(--muted);font-style:italic;font-size:15px}
+  .card-btn .suit{font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:var(--muted)}
+
+  .arrow{align-self:center;flex:0 0 auto;display:flex;align-items:center;justify-content:center;
+    width:30px;color:var(--gold);font-family:var(--display);font-size:22px;padding-top:22px}
+
+  .tools{display:flex;gap:10px;margin-top:14px}
+  .tool{
+    flex:1;border:1px solid var(--line-soft);background:transparent;color:var(--ink-soft);
+    font-family:var(--body);font-size:14px;border-radius:11px;padding:11px 8px;cursor:pointer;
+    display:flex;align-items:center;justify-content:center;gap:7px;transition:border-color .2s,color .2s;
+    min-height:44px;
+  }
+  .tool:active{border-color:var(--gold);color:var(--gold-soft)}
+  .tool .ic{font-size:15px}
+
+  /* ---------- empty state ---------- */
+  .empty{margin-top:34px;text-align:center;color:var(--muted);font-style:italic;
+    border:1px dashed var(--line-soft);border-radius:16px;padding:30px 22px;line-height:1.7}
+  .empty b{color:var(--ink-soft);font-style:normal;font-weight:600}
+
+  /* ---------- results ---------- */
+  .results{margin-top:26px;display:flex;flex-direction:column;gap:14px}
+  .results.show{animation:fade .5s ease both}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+
+  .pairline{text-align:center;font-family:var(--display);font-size:17px;color:var(--ink-soft);
+    margin:2px 0 6px}
+  .pairline em{font-style:normal;color:var(--gold-soft)}
+  .pairline .ar{color:var(--gold);margin:0 7px}
+
+  .lens{
+    border:1px solid var(--line-soft);border-left:3px solid var(--ac);
+    border-radius:14px;background:linear-gradient(180deg,rgba(42,34,24,.55),rgba(33,27,20,.55));
+    padding:15px 16px 16px;
+    animation:fade .45s ease both;animation-delay:var(--d,0s);
+  }
+  .lens-head{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap;margin-bottom:3px}
+  .lens-n{font-family:var(--display);font-size:13px;color:var(--ac);
+    border:1px solid var(--ac);border-radius:50%;width:22px;height:22px;flex:0 0 auto;
+    display:inline-flex;align-items:center;justify-content:center;opacity:.9}
+  .lens-name{font-family:var(--display);font-size:18px;letter-spacing:.01em;color:var(--ink)}
+  .lens-gloss{font-style:italic;color:var(--muted);font-size:13.5px;margin:2px 0 11px;line-height:1.5}
+  .lens-gloss .q{color:var(--ink-soft)}
+
+  .seeds{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:9px}
+  .seed{display:flex;gap:10px;align-items:flex-start;font-size:17px;line-height:1.4}
+  .seed .dot{color:var(--ac);flex:0 0 auto;font-size:13px;padding-top:4px}
+  .seed .txt{color:var(--ink)}
+  .seed .txt .a{color:var(--gold-soft)}
+  .seed .txt .b{color:var(--gold-soft)}
+
+  .footnote{margin-top:20px;text-align:center;color:var(--muted);font-style:italic;
+    font-size:12.5px;line-height:1.6;padding:0 6px}
+
+  /* ---------- sticky generate ---------- */
+  .dock{
+    position:fixed;left:0;right:0;bottom:0;z-index:30;
+    padding:12px 16px calc(12px + env(safe-area-inset-bottom));
+    background:linear-gradient(0deg,var(--bg) 55%,rgba(20,17,13,0));
+    display:flex;justify-content:center;pointer-events:none;
+  }
+  .dock.hidden{display:none}
+  .gen{
+    pointer-events:auto;width:100%;max-width:528px;min-height:54px;
+    border:none;border-radius:14px;cursor:pointer;
+    font-family:var(--display);font-size:18px;letter-spacing:.02em;color:#231a08;
+    background:linear-gradient(180deg,var(--gold-soft),var(--gold));
+    box-shadow:0 8px 22px rgba(0,0,0,.45),inset 0 1px 0 rgba(255,255,255,.4);
+    display:flex;align-items:center;justify-content:center;gap:9px;transition:transform .08s,filter .2s;
+  }
+  .gen:active{transform:translateY(1px) scale(.995);filter:brightness(1.04)}
+
+  /* ---------- bottom-sheet picker ---------- */
+  .scrim{position:fixed;inset:0;z-index:40;background:rgba(8,6,4,.6);
+    backdrop-filter:blur(2px);opacity:0;pointer-events:none;transition:opacity .25s}
+  .scrim.open{opacity:1;pointer-events:auto}
+  .sheet{
+    position:fixed;left:0;right:0;bottom:0;z-index:41;
+    max-width:560px;margin:0 auto;max-height:88vh;
+    background:linear-gradient(180deg,var(--surface-2),var(--surface));
+    border-top:1px solid var(--line);border-radius:20px 20px 0 0;
+    transform:translateY(102%);transition:transform .3s cubic-bezier(.22,1,.36,1);
+    display:flex;flex-direction:column;box-shadow:0 -10px 40px rgba(0,0,0,.5);
+    padding-bottom:env(safe-area-inset-bottom);
+  }
+  .sheet.open{transform:translateY(0)}
+  .grab{width:42px;height:5px;border-radius:3px;background:var(--line);margin:10px auto 4px}
+  .sheet-head{display:flex;align-items:center;justify-content:space-between;padding:6px 18px 10px}
+  .sheet-title{font-family:var(--display);font-size:18px;color:var(--ink)}
+  .sheet-x{background:none;border:none;color:var(--muted);font-size:24px;cursor:pointer;
+    width:40px;height:40px;line-height:1}
+  .search-wrap{padding:0 16px 10px}
+  .search{width:100%;min-height:46px;border:1px solid var(--line);border-radius:11px;
+    background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;padding:11px 14px;outline:none}
+  .search:focus{border-color:var(--gold)}
+  .search::placeholder{color:var(--muted);font-style:italic}
+  .list{overflow-y:auto;-webkit-overflow-scrolling:touch;padding:0 8px 14px;flex:1}
+  .grp{font-size:10.5px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold);
+    padding:14px 12px 6px;position:sticky;top:0;
+    background:linear-gradient(180deg,var(--surface-2) 70%,transparent)}
+  .row{display:flex;align-items:center;gap:12px;width:100%;text-align:left;
+    background:none;border:none;border-radius:10px;cursor:pointer;
+    color:var(--ink);font-family:var(--display);font-size:18px;padding:13px 12px;min-height:50px}
+  .row:active{background:var(--surface-2)}
+  .row.sel{color:var(--gold-soft)}
+  .row .rg{color:var(--gold);font-size:17px;width:20px;text-align:center;flex:0 0 auto}
+  .row .chk{margin-left:auto;color:var(--gold)}
+  .nohit{color:var(--muted);font-style:italic;text-align:center;padding:24px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="kicker">Tarô do Craque</p>
+    <h1>Faísca de Leitura</h1>
+    <p class="sub">duas cartas, cinco lentes, muitas ideias pra destravar</p>
+    <div class="rule"></div>
+  </header>
+
+  <div class="pair">
+    <div class="slot">
+      <p class="slot-label">Carta de origem</p>
+      <button class="card-btn" id="btn0" onclick="openPicker(0)">
+        <span class="glyph">✦</span><span class="ph">tocar p/ escolher</span>
+      </button>
+    </div>
+    <div class="arrow">→</div>
+    <div class="slot">
+      <p class="slot-label">Carta de destino</p>
+      <button class="card-btn" id="btn1" onclick="openPicker(1)">
+        <span class="glyph">✦</span><span class="ph">tocar p/ escolher</span>
+      </button>
+    </div>
+  </div>
+
+  <div class="tools">
+    <button class="tool" onclick="invert()"><span class="ic">⇄</span> Inverter</button>
+    <button class="tool" onclick="randomPair()"><span class="ic">🎲</span> Sortear par</button>
+  </div>
+
+  <div id="empty" class="empty">
+    Escolha <b>duas cartas</b> e o tarô devolve uma constelação de faíscas —
+    pequenas combinações pra você puxar o fio e ler à sua maneira.<br>
+    Nada aqui é resposta fechada. São <b>pontos de partida</b>.
+  </div>
+
+  <div id="results" class="results"></div>
+
+  <div id="footnote" class="footnote" style="display:none">
+    Nem toda lente encaixa em todo par — use as que acenderem algo e ignore o resto.
+    Toque em <b>Mais ideias</b> pra trocar as faíscas.
+  </div>
+</div>
+
+<div class="dock hidden" id="dock">
+  <button class="gen" onclick="shuffle()">✦&nbsp; Mais ideias</button>
+</div>
+
+<!-- picker sheet -->
+<div class="scrim" id="scrim" onclick="closePicker()"></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true">
+  <div class="grab"></div>
+  <div class="sheet-head">
+    <span class="sheet-title" id="sheetTitle">Escolher carta</span>
+    <button class="sheet-x" onclick="closePicker()" aria-label="Fechar">×</button>
+  </div>
+  <div class="search-wrap">
+    <input class="search" id="search" type="text" inputmode="search" autocomplete="off"
+           placeholder="Buscar carta…" oninput="renderList()">
+  </div>
+  <div class="list" id="list"></div>
+</div>
+
+<script id="deck" type="application/json">[{"name":"Rei de Copas","description":[{"title":"Positivo","points":["sábio","diplomático","equilíbrio entre razão e coração","devotado","conselheiro","aconselhante"]},{"title":"Negativo","points":["sobrecarregado","ansioso","frio","reprimido","retirado","manipulador","egoísta"]}]},{"name":"Rainha de Copas","description":[{"title":"Positivo","points":["compaixão","calor","bondade","intuição","curadora","aconselhante","apoio"]},{"title":"Negativo","points":["insegurança","dar demais","excessivamente sensível","necessitada","frágil","dependência","martírio"]}]},{"name":"Cavaleiro de Copas","description":[{"title":"Positivo","points":["idealista","encantador","artístico","gracioso","sutil","diplomático","mediador","negociador"]},{"title":"Negativo","points":["decepção","birras","mudança de humor","tumulto","evitar conflitos","vaidade"]}]},{"name":"Valete de Copas","description":[{"title":"Positivo","points":["idealismo","sensibilidade","sonhador","ingenuidade","inocência","criança interior","cabeça nas nuvens"]},{"title":"Negativo","points":["vulnerabilidade emocional","imaturidade","negligenciar a criança interior","escapismo","insegurança"]}]},{"name":"10 de Copas","description":[{"title":"Positivo","points":["felicidade","retornos ao lar","realização","estabilidade emocional","segurança","harmonia doméstica"]},{"title":"Negativo","points":["lar infeliz","separação","conflito doméstico","desarmonia","isolamento"]}]},{"name":"9 de Copas","description":[{"title":"Positivo","points":["desejos realizados","contentamento","satisfação","sucesso","realizações","reconhecimento","prazer"]},{"title":"Negativo","points":["infelicidade","falta de realização","decepção","baixo desempenho","arrogância","esnobismo"]}]},{"name":"8 de Copas","description":[{"title":"Positivo","points":["abandono","partir","deixar ir","procurando pela verdade","deixar para trás"]},{"title":"Negativo","points":["estagnação","monotonia","aceitar menos","evitação","medo da mudança","permanecer em uma situação ruim"]}]},{"name":"7 de Copas","description":[{"title":"Positivo","points":["escolhas","buscando por propósito","ilusão","fantasia","devaneios","pensamentos desejosos","indecisão"]},{"title":"Negativo","points":["falta de propósito","desordem","confusão","desvios","distrações","clareza","tomando decisões"]}]},{"name":"6 de Copas","description":[{"title":"Positivo","points":["nostalgia","memórias","familiaridade","cura","conforto","sentimentalismo","prazer"]},{"title":"Negativo","points":["preso ao passado","seguindo em frente","deixando o lar","independência"]}]},{"name":"5 de Copas","description":[{"title":"Positivo","points":["perda","luto","decepção","tristeza","lamento","descontentamento","sentimento de decepção"]},{"title":"Negativo","points":["aceitação","seguir em frente","encontrando paz","contentamento","vendo o lado positivo"]}]},{"name":"4 de Copas","description":[{"title":"Positivo","points":["apatia","contemplação","sentindo-se desconectado","melancolia","tédio","indiferença","descontentamento"]},{"title":"Negativo","points":["clareza","consciência","aceitação","escolhendo a felicidade","depressão","negatividade"]}]},{"name":"3 de Copas","description":[{"title":"Positivo","points":["amizade","comunidade","encontros","celebrações","eventos em grupo","eventos sociais"]},{"title":"Negativo","points":["fofocas","escândalos","excesso","isolamento","solidão","isolamento social","vida social desequilibrada"]}]},{"name":"2 de Copas","description":[{"title":"Positivo","points":["unidade","parceria","atração","conexão","laços próximos","juntando forças","respeito mútuo"]},{"title":"Negativo","points":["separação","rejeição","divisão","desequilíbrio","tensão","má comunicação","isolamento"]}]},{"name":"Ás de Copas","description":[{"title":"Positivo","points":["amor","novos sentimentos","despertar emocional","criatividade","espiritualidade","intuição"]},{"title":"Negativo","points":["frieza","vazio","perda emocional","criatividade bloqueada","sentimento de ser não amado","melancolia"]}]},{"name":"Rei de Espadas","description":[{"title":"Positivo","points":["razão","autoridade","disciplina","integridade","moralidade","sério","altos padrões","rigoroso"]},{"title":"Negativo","points":["irracional","ditador","opressor","desumano","controlador","frio","ruthless","desonesto"]}]},{"name":"Rainha de Espadas","description":[{"title":"Positivo","points":["honesta","independente","principiada","justa","crítica construtiva","objetiva","perceptiva"]},{"title":"Negativo","points":["pessimista","malévola","manipulativa","severa","amarga","venenosa","cruel","enganosa","implacável"]}]},{"name":"Cavaleiro de Espadas","description":[{"title":"Positivo","points":["assertivo","Positivo","impaciente","intelectual","audacioso","focado","perfeccionista","ambicioso"]},{"title":"Negativo","points":["rude","desajeitado","forçado","intimidador","agressivo","vicioso","ruthless","arrogante"]}]},{"name":"Valete de Espadas","description":[{"title":"Positivo","points":["curioso","engraçado","falante","comunicativo","inspirado","vigilante","alerta","agilidade mental"]},{"title":"Negativo","points":["disperso","cínico","sarcástico","fofoqueiro","insultante","rude","falta de planejamento"]}]},{"name":"10 de Espadas","description":[{"title":"Negativo","points":["ruína","fracasso","amargura","colapso","exaustão","impasse","vitimização","traição"]},{"title":"Positivo","points":["sobrevivência","melhora","cura","lições aprendidas","desespero","recaída"]}]},{"name":"9 de Espadas","description":[{"title":"Positivo","points":["medo","ansiedade","negatividade","ponto de ruptura","desespero","pesadelos","isolamento"]},{"title":"Negativo","points":["recuperação","aprendendo a lidar","enfrentando a vida","encontrando ajuda","vergonha","culpa","problemas de saúde mental"]}]},{"name":"8 de Espadas","description":[{"title":"Positivo","points":["preso","restrito","vitimizado","paralisado","desamparado","impotente","aprisionamento"]},{"title":"Negativo","points":["liberdade","liberação","assumindo o controle","sobrevivente","enfrentando os medos","empoderado","rendição"]}]},{"name":"7 de Espadas","description":[{"title":"Positivo","points":["mentiras","engano","trama","estratégia","habilidade","astúcia","fraude"]},{"title":"Negativo","points":["confissão","consciência","arrependimento","maldade","verdade revelada"]}]},{"name":"6 de Espadas","description":[{"title":"Positivo","points":["seguir em frente","partida","deixar para trás","distância","aceitação das lições"]},{"title":"Negativo","points":["preso ao passado","voltando para os problemas","fugindo dos problemas","preso"]}]},{"name":"5 de Espadas","description":[{"title":"Positivo","points":["discussões","conflitos","agressão","bullying","intimidação","conflito","hostilidade","estresse"]},{"title":"Negativo","points":["reconciliação","resolução","compromisso","vingança","arrependimento","remorso","cortar perdas"]}]},{"name":"4 de Espadas","description":[{"title":"Positivo","points":["descanso","relaxamento","paz","santuário","recuperação","autoproteção","revitalização"]},{"title":"Negativo","points":["recuperação","despertar","reentrando no mundo","liberação do isolamento","inquietação","exaustão"]}]},{"name":"3 de Espadas","description":[{"title":"Positivo","points":["coração partido","separação","tristeza","luto","dor","abalo","perda","trauma","lágrimas"]},{"title":"Negativo","points":["cura","perdão","recuperação","reconciliação","reprimindo emoções"]}]},{"name":"2 de Espadas","description":[{"title":"Positivo","points":["impasse","escolhas difíceis","preso no meio","negando","informações ocultas"]},{"title":"Negativo","points":["indecisão","hesitação","ansiedade","informação demais","sem escolha certa","verdade revelada"]}]},{"name":"Ás de Espadas","description":[{"title":"Positivo","points":["clareza","avanço","nova ideia","concentração","visão","força","foco","verdade"]},{"title":"Negativo","points":["confusão","má comunicação","hostilidade","argumentos","destruição","brutalidade"]}]},{"name":"Rei de Paus","description":[{"title":"Positivo","points":["liderança","visão","grande imagem","assumir o controle","decisões ousadas","audácia","otimismo"]},{"title":"Negativo","points":["forçoso","dominador","tirano","vicioso","impotente","ineficaz","líder fraco"]}]},{"name":"Rainha de Paus","description":[{"title":"Positivo","points":["confiante","segura de si","apaixonada","determinada","social","carismática","viva","otimista"]},{"title":"Negativo","points":["exigente","vingativa","baixa confiança","ciumenta","egoísta","temperamental","intimidadora"]}]},{"name":"Cavaleiro de Paus","description":[{"title":"Positivo","points":["corajoso","energético","encantador","herói","rebelde","temperamento quente","espírito livre"]},{"title":"Negativo","points":["arrogante","impulsivo","impaciente","falta de autocontrole","passivo","volátil","dominador"]}]},{"name":"Valete de Paus","description":[{"title":"Positivo","points":["aventura","excitação","novas ideias","alegria","energético","destemido","extrovertido"]},{"title":"Negativo","points":["impulsivo","impaciente","falta de ideias","birras","preguiça","entediante","não confiável","distraído"]}]},{"name":"10 de Paus","description":[{"title":"Positivo","points":["carga","responsabilidade","dever","estresse","obrigação","exaustão","dificuldades"]},{"title":"Negativo","points":["falha em delegar","assumir responsabilidades demais","colapso","quebra"]}]},{"name":"9 de Paus","description":[{"title":"Positivo","points":["última resistência","persistência","determinação","resiliência","perseverança","quase no sucesso","fadiga"]},{"title":"Negativo","points":["teimosia","rigidez","defensividade","recusa em ceder","desistência"]}]},{"name":"8 de Paus","description":[{"title":"Positivo","points":["movimento","velocidade","progresso","decisões rápidas","mudanças súbitas","excitamento"]},{"title":"Negativo","points":["espera","lentidão","caos","atrasos","perda de momentum","precipitação","falta de preparação"]}]},{"name":"7 de Paus","description":[{"title":"Positivo","points":["proteção","defender a si mesmo","proteger o território"]},{"title":"Negativo","points":["desistir","admitir a derrota","ceder","falta de autoconfiança","rendição"]}]},{"name":"6 de Paus","description":[{"title":"Positivo","points":["sucesso","vitória","triunfo","recompensas","reconhecimento","elogios","aclamação","orgulho"]},{"title":"Negativo","points":["fracasso","falta de reconhecimento","sem recompensas","falta de realização"]}]},{"name":"5 de Paus","description":[{"title":"Positivo","points":["competição","conflito","caos","desentendimento","desafio","rivalidade","disputas"]},{"title":"Negativo","points":["evitar o conflito","conflito interno","resolução","acordo","trégua","exaustão"]}]},{"name":"4 de Paus","description":[{"title":"Positivo","points":["comunidade","lar","celebrações","reuniões","festas","encontros","estabilidade","pertencimento"]},{"title":"Negativo","points":["falta de apoio","instabilidade","sentimento de não ser bem-vindo","transitoriedade","falta de raízes","conflito no lar"]}]},{"name":"3 de Paus","description":[{"title":"Positivo","points":["momentum","confiança","expansão","crescimento","previsão","olhando para o futuro"]},{"title":"Negativo","points":["restrição","limitações","falta de progresso","obstáculos","atrasos","frustração"]}]},{"name":"2 de Paus","description":[{"title":"Positivo","points":["planejamento","primeiros passos","tomando decisões","deixando o conforto","assumindo riscos"]},{"title":"Negativo","points":["planejamento ruim","analisando demais","não tomando ação","evitando riscos","não arriscando"]}]},{"name":"Ás de Paus","description":[{"title":"Positivo","points":["inspiração","faísca criativa","nova iniciativa","nova paixão","entusiasmo","energia"]},{"title":"Negativo","points":["atrasos","bloqueios","falta de paixão","falta de energia","hesitação","bloqueios criativos"]}]},{"name":"Rei de Ouros","description":[{"title":"Positivo","points":["abundância","prosperidade","segurança","ambicioso","seguro","gentil","patriarcal","protetor","homem de negócios","provedor","sensual","confiável"]},{"title":"Negativo","points":["ganância","materialista","desperdício","chauvinista","decisões financeiras ruins","jogador","explorador","possessivo"]}]},{"name":"Rainha de Ouros","description":[{"title":"Positivo","points":["generosa","carinhosa","cuidadosa","caseira","bom senso de negócios","prática","confortante","acolhedora","sensata","luxuosa"]},{"title":"Negativo","points":["egoísta","desleixada","ciumenta","insegura","gananciosa","materialista","caçadora de ouro","intolerante","autoabsorvida","invejosa"]}]},{"name":"Cavaleiro de Ouros","description":[{"title":"Positivo","points":["prático","confiável","eficiente","estoico","lento e constante","trabalhador","comprometido","paciente","conservador"]},{"title":"Negativo","points":["workaholic","preguiçoso","monótono","entediante","sem iniciativa","barato","irresponsável","jogador","investimentos arriscados"]}]},{"name":"Valete de Ouros","description":[{"title":"Positivo","points":["ambicioso","diligente","orientado para objetivos","planejador","consistente","estudante estrela","estudioso","pé no chão","leal","fiel","confiável"]},{"title":"Negativo","points":["tolo","imatura","irresponsável","preguiçosa","baixo desempenho","procrastinadora","chances perdidas","perspectivas ruins"]}]},{"name":"10 de Ouros","description":[{"title":"Positivo","points":["legado","raízes","família","ancestralidade","herança","lucro inesperado","fundamentos","privilégio","afluência","estabilidade","tradição"]},{"title":"Negativo","points":["disputas familiares","falência","dívidas","sucesso passageiro","conflito sobre dinheiro","instabilidade","quebrando tradições"]}]},{"name":"9 de Ouros","description":[{"title":"Positivo","points":["abundância","autossuficiência","independência","refinamento","luxo","disciplina","gratidão"]},{"title":"Negativo","points":["isolamento","dependência excessiva","materialismo","perda financeira","superficialidade"]}]},{"name":"8 de Ouros","description":[{"title":"Positivo","points":["habilidade","talento","artesanato","qualidade","altos padrões","especialização","mestre","comprometimento","dedicação","realização"]},{"title":"Negativo","points":["falta de qualidade","trabalho apressado","má reputação","falta de motivação","mediocridade","preguiça","baixa habilidade","emprego sem futuro"]}]},{"name":"7 de Ouros","description":[{"title":"Positivo","points":["colheita","recompensas","resultados","crescimento","progresso","perseverança","paciência","planejamento"]},{"title":"Negativo","points":["trabalho inacabado","procrastinação","baixo esforço","desperdício","falta de crescimento","reveses","impaciência","falta de recompensa"]}]},{"name":"6 de Ouros","description":[{"title":"Positivo","points":["generosidade","caridade","comunidade","ajuda material","apoio","compartilhamento","dar e receber","gratidão"]},{"title":"Negativo","points":["dinâmica de poder","abuso de generosidade","presentes com condições","desigualdade","extorsão"]}]},{"name":"5 de Ouros","description":[{"title":"Positivo","points":["dificuldades","perda","isolamento","sentimento de abandono","adversidade","luta","desemprego","alienação","desgraça"]},{"title":"Negativo","points":["mudanças positivas","recuperação da perda","superando a adversidade","perdão","sentimento de acolhimento"]}]},{"name":"4 de Ouros","description":[{"title":"Positivo","points":["possessividade","insegurança","acumulação","mesquinharia","estabilidade","segurança","poupança","materialismo","riqueza","frugalidade","limites","proteção"]},{"title":"Negativo","points":["generosidade","doação","gastos","abertura","insegurança financeira","gastos impulsivos"]}]},{"name":"3 de Ouros","description":[{"title":"Positivo","points":["trabalho em equipe","objetivos compartilhados","colaboração","aprendizado","esforço","juntar energias"]},{"title":"Negativo","points":["falta de coesão","falta de trabalho em equipe","apatia","falta de motivação","conflito","ego","competição"]}]},{"name":"2 de Ouros","description":[{"title":"Positivo","points":["equilibrando recursos","adaptação","habilidade para lidar com recursos","flexibilidade","esticar recursos"]},{"title":"Negativo","points":["desequilíbrio","desorganização","sobrecarregado","bagunça","caos","excesso de compromissos"]}]},{"name":"Ás de Ouros","description":[{"title":"Positivo","points":["novas oportunidades","recursos","abundância","prosperidade","segurança","estabilidade","manifestação"]},{"title":"Negativo","points":["chances perdidas","escassez","deficiência","instabilidade","mesquinharia","má investimentos"]}]},{"name":"02. Sacerdotisa","description":[{"title":"Positivo","points":["inconsciente","intuição","mistério","espiritualidade","poder superior","voz interior"]},{"title":"Negativo","points":["intuição reprimida","motivos ocultos","superficialidade","confusão","dissonância cognitiva"]}]},{"name":"06. Amantes","description":[{"title":"Positivo","points":["amor","uniões","parcerias","relacionamentos","escolhas","romance","equilíbrio","unidade"]},{"title":"Negativo","points":["desarmonia","desequilíbrio","conflito","desapego","más escolhas","indecisão"]}]},{"name":"07. Carro","description":[{"title":"Positivo","points":["sucesso","ambição","determinação","força de vontade","controle","autodisciplina","foco"]},{"title":"Negativo","points":["forçoso","sem direção","sem controle","impotente","agressão","obstáculos"]}]},{"name":"09. Eremita","description":[{"title":"Positivo","points":["auto-reflexão","introspecção","contemplação","retirada","solidão","busca pelo eu"]},{"title":"Negativo","points":["solidão","isolamento","reclusão","comportamento anti-social","rejeição","retorno à sociedade"]}]},{"name":"17. Estrela","description":[{"title":"Positivo","points":["esperança","inspiração","positividade","fé","renovação","cura","revitalização"]},{"title":"Negativo","points":["desesperança","desespero","negatividade","falta de fé","desânimo"]}]},{"name":"Força","description":[{"title":"Positivo","points":["coragem","bravura","autoconfiança","compaixão","autoconfiança","poder interior"]},{"title":"Negativo","points":["dúvida de si mesmo","fraqueza","baixa confiança","inadequação","covardia","força excessiva"]}]},{"name":"05. Hierofante","description":[{"title":"Positivo","points":["tradição","grupos sociais","convencionalidade","conformidade","educação","conhecimento","crenças"]},{"title":"Negativo","points":["rebelião","não convencionalidade","não conformidade","novos métodos","ignorância"]}]},{"name":"04. Imperador","description":[{"title":"Positivo","points":["estabilidade","estrutura","proteção","autoridade","controle","pragmatismo","foco","disciplina"]},{"title":"Negativo","points":["tirano","dominador","rígido","teimoso","falta de disciplina","imprudência"]}]},{"name":"03. Imperatriz","description":[{"title":"Positivo","points":["feminino divino","sensualidade","fertilidade","nutrição","criatividade","beleza","abundância","natureza"]},{"title":"Negativo","points":["insegurança","excessiva","negligência","sufocante","falta de crescimento","falta de progresso"]}]},{"name":"20. Julgamento","description":[{"title":"Positivo","points":["autoavaliação","despertar","renovação","propósito","reflexão","prestações de contas"]},{"title":"Negativo","points":["dúvida de si mesmo","falta de autoconsciência","falha em aprender lições","autodesprezo"]}]},{"name":"21. O Mundo","description":[{"title":"Positivo","points":["conclusão","realização","integração","plenitude","êxito","completude","liberdade"]},{"title":"Negativo","points":["incompletude","atraso","falta de encerramento","atalhos","estagnação"]}]},{"name":"08. Justiça","description":[{"title":"Positivo","points":["justiça","karma","consequência","responsabilidade","lei","verdade","honestidade","integridade","causa e efeito"]},{"title":"Negativo","points":["injustiça","retribuição","desonestidade","corrupção","injustiça","falta de responsabilidade"]}]},{"name":"18. Lua","description":[{"title":"Positivo","points":["ilusão","intuição","incerteza","confusão","complexidade","segredos","inconsciente"]},{"title":"Negativo","points":["medo","engano","ansiedade","mal-entendido","má interpretação","clareza","entendimento"]}]},{"name":"01. Mago","description":[{"title":"Positivo","points":["força de vontade","desejo","ser engenhoso","habilidade","capacidade","concentração","manifestação"]},{"title":"Negativo","points":["manipulação","astúcia","engano","talento desperdiçado","ilusão","decepção"]}]},{"name":"13. Morte","description":[{"title":"Positivo","points":["transformação","finais","mudança","transição","deixar ir","liberação"]},{"title":"Negativo","points":["medo da mudança","repetição de padrões negativos","resistência à mudança","estagnação","decaimento"]}]},{"name":"15. O Diabo","description":[{"title":"Positivo","points":["opressão","dependência","obsessão","dependência","excesso","impotência","limitações"]},{"title":"Negativo","points":["independência","liberdade","revelação","liberação","reconquista do poder","reconquista do controle"]}]},{"name":"12. O Enforcado","description":[{"title":"Positivo","points":["sacrifício","espera","incerteza","falta de direção","perspectiva","contemplação"]},{"title":"Negativo","points":["adiamento","desinteresse","estagnação","evitar sacrifício","impasse","apatia"]}]},{"name":"22. O Louco","description":[{"title":"Positivo","points":["começos","liberdade","inocência","originalidade","aventura","idealismo","espontaneidade"]},{"title":"Negativo","points":["imprudente","descuidado","distraído","ingênuo","tolo","credulidade","estagnado","entediante"]}]},{"name":"10. Roda da Fortuna","description":[{"title":"Positivo","points":["mudança","ciclos","destino","momentos decisivos","sorte","fortuna","eventos inesperados"]},{"title":"Negativo","points":["má sorte","falta de controle","agarrar-se ao controle","mudanças indesejadas","atrasos"]}]},{"name":"19. Sol","description":[{"title":"Positivo","points":["felicidade","sucesso","otimismo","vitalidade","alegria","autoconfiança","felicidade","verdade"]},{"title":"Negativo","points":["felicidade bloqueada","entusiasmo excessivo","pessimismo","expectativas irreais","presunção"]}]},{"name":"14. Temperança","description":[{"title":"Positivo","points":["equilíbrio","paz","paciência","moderação","calma","tranquilidade","harmonia","serenidade"]},{"title":"Negativo","points":["desequilíbrio","excesso","extremos","discórdia","imprudência","precipitação"]}]},{"name":"16. Torre","description":[{"title":"Positivo","points":["desastre","destruição","revolta","trauma","mudança súbita","caos"]},{"title":"Negativo","points":["evitar desastre","adiar o inevitável","resistir à mudança"]}]}]</script>
+<script>
+"use strict";
+const DECK = JSON.parse(document.getElementById('deck').textContent);
+
+/* ---- suit / glyph helpers ---- */
+const SUIT_GLYPH={Copas:"♥",Espadas:"⚔",Paus:"♣",Ouros:"♦","Arcanos Maiores":"✦"};
+const SUIT_ORDER=["Arcanos Maiores","Copas","Ouros","Paus","Espadas"];
+function suitOf(name){
+  if(/de Copas/.test(name))return"Copas";
+  if(/de Espadas/.test(name))return"Espadas";
+  if(/de Paus/.test(name))return"Paus";
+  if(/de Ouros/.test(name))return"Ouros";
+  return"Arcanos Maiores";
+}
+function cleanName(name){return name.replace(/^\d+\.\s*/,"");} // "16. Torre" -> "Torre"
+function pos(card){return (card.description.find(d=>d.title==="Positivo")||{}).points||[];}
+function neg(card){return (card.description.find(d=>d.title==="Negativo")||{}).points||[];}
+function byName(n){return DECK.find(c=>c.name===n);}
+
+/* ---- state ---- */
+let sel=[null,null];      // selected card names
+let pickerSlot=0;
+
+/* ---- the five lenses ---- */
+/* render(x,y) -> array of seed HTML strings, using the card meaning pools */
+const LENSES=[
+  {n:"1",name:"Engendra",ac:"var(--l1)",
+   gloss:'uma faz a outra nascer. <span class="q">o que a origem faz brotar no destino?</span>',
+   build:(x,y)=>combine(pos(x),pos(y),(a,b)=>`${tag(a)} vira ${tag(b)}`)},
+  {n:"2",name:"Conflito",ac:"var(--l2)",
+   gloss:'as duas se chocam. <span class="q">onde elas brigam?</span>',
+   build:(x,y)=>combine(
+      pick(pos(x)).map(a=>[a,rand(neg(y))]).concat(pick(neg(x)).map(a=>[a,rand(pos(y))])),
+      null,(a,b)=>`${tag(a)} bate de frente com ${tag(b)}`,true)},
+  {n:"3",name:"Estagnado",ac:"var(--l3)",
+   gloss:'uma trava diante da outra — por conforto, não por briga. <span class="q">o que faz a origem parar?</span>',
+   build:(x,y)=>combine(pos(x),pos(y),(a,b)=>`${tag(a)} estaciona no conforto de ${tag(b)}`)},
+  {n:"4",name:"Reduz-se",ac:"var(--l4)",
+   gloss:'a origem encolhe e vira uma versão menor. <span class="q">em que versão pequena ela cai?</span>',
+   build:(x,y)=>combine(pos(x),neg(y),(a,b)=>`${tag(a)} encolhe até virar ${tag(b)}`)},
+  {n:"5",name:"Necessita",ac:"var(--l5)",
+   gloss:'uma precisa da outra pra se completar. <span class="q">o que falta na origem que o destino tem?</span>',
+   build:(x,y)=>combine(neg(x),pos(y),(a,b)=>`${tag(a)} pede ${tag(b)}`)},
+];
+
+/* sampling utilities */
+function rand(arr){return arr[Math.floor(Math.random()*arr.length)];}
+function pick(arr,n=3){ // up to n unique random items
+  const a=[...arr];const out=[];
+  while(a.length&&out.length<n){out.push(a.splice(Math.floor(Math.random()*a.length),1)[0]);}
+  return out;
+}
+function tag(w){return `<span class="a">${w}</span>`;}
+// combine: either two pools (x,y) sampled into 3 pairs, or a prebuilt pair list (poolA = array of [a,b], poolB=null)
+function combine(poolA,poolB,fmt,prebuilt){
+  let pairs;
+  if(prebuilt){pairs=poolA.filter(p=>p[0]&&p[1]);pairs=pick(pairs,3);}
+  else{
+    const xs=pick(poolA,3), ys=pick(poolB,3);
+    const k=Math.min(3,Math.max(xs.length,ys.length));
+    pairs=[];
+    for(let i=0;i<k;i++){pairs.push([xs[i%xs.length],ys[i%ys.length]]);}
+  }
+  // de-dupe identical phrases
+  const seen=new Set(),out=[];
+  for(const [a,b] of pairs){const s=fmt(a,b);if(!seen.has(s)){seen.add(s);out.push(s);}}
+  return out;
+}
+
+/* ---- rendering ---- */
+function setBtn(slot){
+  const btn=document.getElementById('btn'+slot);
+  const name=sel[slot];
+  if(!name){btn.className='card-btn';
+    btn.innerHTML='<span class="glyph">✦</span><span class="ph">tocar p/ escolher</span>';return;}
+  const s=suitOf(name);
+  btn.className='card-btn filled';
+  btn.innerHTML=`<span class="glyph">${SUIT_GLYPH[s]}</span>
+    <span class="name">${cleanName(name)}</span><span class="suit">${s}</span>`;
+}
+
+function render(){
+  setBtn(0);setBtn(1);
+  const results=document.getElementById('results');
+  const empty=document.getElementById('empty');
+  const dock=document.getElementById('dock');
+  const fn=document.getElementById('footnote');
+
+  if(!sel[0]||!sel[1]){
+    results.innerHTML='';results.classList.remove('show');
+    empty.style.display='';dock.classList.add('hidden');fn.style.display='none';return;
+  }
+  empty.style.display='none';dock.classList.remove('hidden');fn.style.display='';
+
+  const x=byName(sel[0]), y=byName(sel[1]);
+  let html=`<p class="pairline"><em>${cleanName(sel[0])}</em>
+    <span class="ar">→</span><em>${cleanName(sel[1])}</em></p>`;
+  LENSES.forEach((L,i)=>{
+    const seeds=L.build(x,y);
+    const lis=seeds.map(s=>`<li class="seed"><span class="dot">✦</span><span class="txt">${s}</span></li>`).join('');
+    html+=`<div class="lens" style="--ac:${L.ac};--d:${(i*0.05).toFixed(2)}s">
+      <div class="lens-head"><span class="lens-n">${L.n}</span><span class="lens-name">${L.name}</span></div>
+      <div class="lens-gloss">${L.gloss}</div>
+      <ul class="seeds">${lis}</ul></div>`;
+  });
+  results.innerHTML=html;
+  results.classList.remove('show');void results.offsetWidth;results.classList.add('show');
+}
+
+function shuffle(){if(sel[0]&&sel[1])render();}
+
+/* ---- picker controls ---- */
+function openPicker(slot){
+  pickerSlot=slot;
+  document.getElementById('sheetTitle').textContent =
+    slot===0?'Carta de origem':'Carta de destino';
+  document.getElementById('search').value='';
+  renderList();
+  document.getElementById('scrim').classList.add('open');
+  document.getElementById('sheet').classList.add('open');
+  document.body.style.overflow='hidden';
+  setTimeout(()=>document.getElementById('search').focus(),120);
+}
+function closePicker(){
+  document.getElementById('scrim').classList.remove('open');
+  document.getElementById('sheet').classList.remove('open');
+  document.body.style.overflow='';
+}
+function renderList(){
+  const q=document.getElementById('search').value.trim().toLowerCase();
+  const list=document.getElementById('list');
+  const groups={};
+  DECK.forEach(c=>{
+    if(q && !cleanName(c.name).toLowerCase().includes(q) && !c.name.toLowerCase().includes(q))return;
+    const s=suitOf(c.name);(groups[s]=groups[s]||[]).push(c);
+  });
+  let html='';
+  SUIT_ORDER.forEach(s=>{
+    if(!groups[s])return;
+    html+=`<div class="grp">${s}</div>`;
+    groups[s].forEach(c=>{
+      const isSel=sel[pickerSlot]===c.name;
+      html+=`<button class="row${isSel?' sel':''}" onclick="choose('${c.name.replace(/'/g,"\\'")}')">
+        <span class="rg">${SUIT_GLYPH[s]}</span>${cleanName(c.name)}
+        ${isSel?'<span class="chk">✓</span>':''}</button>`;
+    });
+  });
+  list.innerHTML = html || '<div class="nohit">nenhuma carta encontrada</div>';
+}
+function choose(name){sel[pickerSlot]=name;closePicker();render();}
+
+function invert(){sel=[sel[1],sel[0]];render();}
+function randomPair(){
+  let i=Math.floor(Math.random()*DECK.length), j;
+  do{j=Math.floor(Math.random()*DECK.length);}while(j===i&&DECK.length>1);
+  sel=[DECK[i].name,DECK[j].name];render();
+}
+
+render();
+</script>
+</body>
+</html>

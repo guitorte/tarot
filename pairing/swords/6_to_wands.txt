@@ -1,7 +1,7 @@
 card_pair: 6 of Swords, Ace of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Pure Inspiration, The Creative Spark, The Potent Beginning, The Divine Fire Descending
-numerical_relation: 6 + Ace = 7 (The Chariot; the crossing powered by inspiration)
+numerical_relation: 6 + 1 = 7 (VII The Chariot; the crossing powered by inspiration)
 elemental_bridge: Air carrying Fire's spark; the journey ignited by creative fire
 threshold_type: The Traveler Carrying Inspiration—the departure as creative awakening
 
@@ -20,37 +20,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler carries the Ace of Wands but the inspiration cannot flow freely during the crossing; the creative fire is present but not expressed
-  consequence: The traveler arrives with the spark alive but unmanifested; the journey is complete but the creation is not
-  spatial_logic: The traveler in the boat with the fire burning internally but unable to create while journeying
+  blockade_nature: The traveler arrives with the spark alive but unmanifested; the journey is complete but the creation is not
+  swords_state: The traveler in the boat with the fire burning internally but unable to create while journeying
+  consequence: the creative fire is present but not expressed
+  key_terms: traveler arrives with the spark, traveler in the boat, creative fire is present, traveler carries the ace
 
 dynamic_devolution:
   mechanism: The creative fire gradually dies as the traveler refuses to create during the journey; the Ace's potential is lost
-  corruption: The spark is extinguished; the journey is revealed as sterile; the traveler arrives empty
+  mode: The spark is extinguished; the journey is revealed as sterile; the traveler arrives empty
   loss: Both the journey and the creation are destroyed; what was meant to inspire leads to emptiness
   key_terms: The extinguished fire, lost creation, sterile journey, arrival empty
 
 dynamic_dependency:
   mechanism: The 6 of Swords must allow the Ace of Wands' inspiration to express through the journey; the Ace must understand that creation during travel is valid
-  integration: The traveler creates while journeying; the boat becomes the studio; the crossing is the art; the Ace of Wands is expressed through motion
-  paradox: The deepest creativity often flows through those who travel; the Ace of Wands is most alive when fueling the crossing
-  outcome: The traveler journeys and creates; the crossing is illuminated by the creative fire; the journey and the creation are one
+  function: The traveler creates while journeying; the boat becomes the studio; the crossing is the art; the Ace of Wands is expressed through motion
+  integration_outcome: The traveler journeys and creates; the crossing is illuminated by the creative fire; the journey and the creation are one
   key_terms: The creative crossing, traveling studio, inspired motion, the artist journeys
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, 2 of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Ambitious Planning, The Next Move Considered, The Power Held in Reserve, The Vision of Future
-numerical_relation: 6 + 2 = 8 (Strength; the planning that empowers the crossing)
+numerical_relation: 6 + 2 = 8 (VIII Justice; the planning that empowers the crossing)
 elemental_bridge: Air carrying Fire's vision; the journey guided by strategic planning
 threshold_type: The Traveler With Plan—the departure guided by vision
 
@@ -69,37 +70,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler departs but with incomplete planning; the journey is shadowed by the awareness of what planning remains undone
-  consequence: The crossing is uncertain because the vision was not fully realized before departure; the journey is complicated by the lack of complete strategic preparation
-  spatial_logic: The traveler journeying with plans that are still being formulated, the vision incomplete
+  blockade_nature: The crossing is uncertain because the vision was not fully realized before departure; the journey is complicated by the lack of complete strategic preparation
+  swords_state: The traveler journeying with plans that are still being formulated, the vision incomplete
+  consequence: the journey is shadowed by the awareness of what planning remains undone
+  key_terms: crossing is uncertain because, traveler journeying with plans, journey is shadowed, traveler departs but with incomplete
 
 dynamic_devolution:
   mechanism: The incomplete planning gradually destroys the journey; obstacles arise because they were not anticipated; the crossing becomes increasingly difficult
-  corruption: The vision fails because it was not realized before departure; the 2 of Wands' power is lost because it was not fully manifest
+  mode: The vision fails because it was not realized before departure; the 2 of Wands' power is lost because it was not fully manifest
   loss: Both the journey and the vision are destroyed by the failure to plan completely
   key_terms: The failed crossing, destroyed vision, unprepared journey, the lost plan
 
 dynamic_dependency:
   mechanism: The 6 of Swords must accept that some journeys must begin before planning is complete; the 2 of Wands must understand that vision can continue to guide even after departure
-  integration: The traveler journeys and the vision continues to guide; the planning adapts to the crossing; the journey and the vision are completed together
-  paradox: The deepest vision often emerges during the journey rather than before it; the 2 of Wands is most powerful when willing to continue planning while traveling
-  outcome: The traveler journeys with the 2 of Wands' vision guiding; the crossing is completed with the strategic vision intact; both are fulfilled
+  function: The traveler journeys and the vision continues to guide; the planning adapts to the crossing; the journey and the vision are completed together
+  integration_outcome: The traveler journeys with the 2 of Wands' vision guiding; the crossing is completed with the strategic vision intact; both are fulfilled
   key_terms: The continuing vision, adaptive planning, the guided journey, vision manifested
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, 3 of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Expansion, The Distant Horizons, The Trading Routes, The Empire Built on Exchange
-numerical_relation: 6 + 3 = 9 (Completion; the crossing as part of the larger expansion)
+numerical_relation: 6 + 3 = 9 (IX The Hermit; the crossing as part of the larger expansion)
 elemental_bridge: Air crossing toward Fire's horizons; the journey as expansion in progress
 threshold_type: The Traveler Part of Larger Expansion—the crossing within the empire's trading routes
 
@@ -118,37 +120,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains within the 3 of Wands' network but resentfully; the crossing is made but as service to the empire rather than personal journey
-  consequence: A crossing that is instrumental rather than authentic; the traveler is part of the expansion but is not free
-  spatial_logic: The traveler in the boat following the empire's routes, compelled to serve the network
+  blockade_nature: A crossing that is instrumental rather than authentic; the traveler is part of the expansion but is not free
+  swords_state: The traveler in the boat following the empire's routes, compelled to serve the network
+  consequence: the crossing is made but as service to the empire rather than personal journey
+  key_terms: crossing that is instrumental rather, traveler in the boat following, crossing is made, traveler remains within the 3
 
 dynamic_devolution:
   mechanism: The traveler breaks from the network and the empire's expansion is threatened; the 3 of Wands' horizons begin to collapse
-  corruption: The expansion is destroyed by the loss of the traveler; the trading routes are abandoned; the empire begins to fail
+  mode: The expansion is destroyed by the loss of the traveler; the trading routes are abandoned; the empire begins to fail
   loss: Both the personal journey and the imperial expansion are destroyed by the conflict
   key_terms: The escaped rebel, failing empire, abandoned routes, mutual destruction
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the 3 of Wands' expansion even while departing; the 3 of Wands must understand that allowing the traveler to journey strengthens the empire
-  integration: The traveler journeys and returns with knowledge gained; the crossing serves the expansion through experience rather than obligation
-  paradox: The strongest empires often release their members to journey; the 3 of Wands is most expanded when willing to support individual journeys
-  outcome: The traveler departs as an ambassador of the empire; the crossing serves the expansion through free choice; both are strengthened
+  function: The traveler journeys and returns with knowledge gained; the crossing serves the expansion through experience rather than obligation
+  integration_outcome: The traveler departs as an ambassador of the empire; the crossing serves the expansion through free choice; both are strengthened
   key_terms: The honored departure, expanded empire, served network, the traveling ambassador
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, 4 of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Celebration of Work, The Harvest Home, The Stability Achieved, The Community Gathered
-numerical_relation: 6 + 4 = 10 (Completion; departure from the celebration, the work ending)
+numerical_relation: 6 + 4 = 10 (X The Wheel of Fortune; departure from the celebration, the work ending)
 elemental_bridge: Air dispersing Fire's gathering; the traveler leaving the celebration
 threshold_type: The Traveler Leaving Celebration—the departure from achieved stability
 
@@ -167,37 +170,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains at the celebration but with restlessness; the joy is present but cannot be fully experienced knowing departure awaits
-  consequence: A celebration that is bittersweet; the community feels the traveler's internal absence; the stability is shadowed by impending departure
-  spatial_logic: The traveler at the celebration but looking toward the horizon, unable to fully participate
+  blockade_nature: A celebration that is bittersweet; the community feels the traveler's internal absence; the stability is shadowed by impending departure
+  swords_state: The traveler at the celebration but looking toward the horizon, unable to fully participate
+  consequence: the joy is present but cannot be fully experienced knowing departure awaits
+  key_terms: celebration that is bittersweet, traveler at the celebration, joy is present but cannot, traveler remains at the celebration
 
 dynamic_devolution:
   mechanism: The traveler's continued presence becomes increasingly tense; finally departing in a way that shatters the celebration; the 4 of Wands' stability is broken
-  corruption: The celebration is destroyed by the abrupt departure; the community is wounded; the stability crumbles
+  mode: The celebration is destroyed by the abrupt departure; the community is wounded; the stability crumbles
   loss: Both the celebration and the journey are poisoned by the bitterness of separation
   key_terms: The shattered celebration, broken stability, wounded community, mutual loss
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the 4 of Wands' celebration even while departing; the 4 of Wands must release the traveler with blessing
-  integration: The celebration is completed and the traveler is released; the departure is part of the natural cycle; the community gathers again even after the traveler's leaving
-  paradox: The strongest communities are those that can celebrate and then release; the 4 of Wands is most stable when willing to support the traveler's journey
-  outcome: The traveler departs blessed; the celebration is complete; the community remains strong; both the celebration and the journey are honored
+  function: The celebration is completed and the traveler is released; the departure is part of the natural cycle; the community gathers again even after the traveler's leaving
+  integration_outcome: The traveler departs blessed; the celebration is complete; the community remains strong; both the celebration and the journey are honored
   key_terms: The blessed release, honored celebration, completed work, the traveling blessed
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, 5 of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Internal Conflict, The Creative Competition, The Clashing Wills, The Struggle for Dominance
-numerical_relation: 6 + 5 = 11 (The Hanged One; perspective—conflict is transcended through departure)
+numerical_relation: 6 + 5 = 11 (XI Strength; perspective—conflict is transcended through departure)
 elemental_bridge: Air escaping Fire's struggle; the journey away from conflict
 threshold_type: The Traveler Leaving Conflict—the crossing away from creative struggle
 
@@ -216,37 +220,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler departs but the conflict travels with them; the 5 of Wands' struggle echoes in the traveler's heart during the crossing
-  consequence: A journey that is not truly peaceful because the conflict remains internal; the escape is incomplete
-  spatial_logic: The traveler journeying but the voices of conflict following, unable to leave the struggle fully behind
+  blockade_nature: A journey that is not truly peaceful because the conflict remains internal; the escape is incomplete
+  swords_state: The traveler journeying but the voices of conflict following, unable to leave the struggle fully behind
+  consequence: the 5 of Wands' struggle echoes in the traveler's heart during the crossing
+  key_terms: journey that is not truly, traveler journeying but the voices, 5 of wands' struggle echoes, traveler departs but the conflict
 
 dynamic_devolution:
   mechanism: The conflict gradually destroys the journey; the traveler becomes consumed by the voices; the crossing is poisoned by internal struggle
-  corruption: The escape fails because the conflict was internal; the journey becomes another form of the struggle
+  mode: The escape fails because the conflict was internal; the journey becomes another form of the struggle
   loss: Both the escape and the journey are destroyed by the inability to release the conflict
   key_terms: The failed escape, internal struggle, poisoned journey, the haunted traveler
 
 dynamic_dependency:
   mechanism: The 6 of Swords must allow the internal conflict to be released during the crossing; the 5 of Wands must understand that the traveler's departure creates space for conflict to be resolved
-  integration: The traveler journeys and gradually releases the conflict; the crossing itself becomes the resolution; the struggle is transcended through movement
-  paradox: The deepest resolution of conflict often comes through moving away from it; the 5 of Wands is most truly resolved when the traveler journeys toward peace
-  outcome: The traveler crosses and leaves the conflict behind; the internal struggle is released; the journey becomes genuinely peaceful
+  function: The traveler journeys and gradually releases the conflict; the crossing itself becomes the resolution; the struggle is transcended through movement
+  integration_outcome: The traveler crosses and leaves the conflict behind; the internal struggle is released; the journey becomes genuinely peaceful
   key_terms: The released conflict, peaceful arrival, transcended struggle, the healed traveler
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, 6 of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Victory Recognized, The Reputation Earned, The Acclaim Deserved, The Triumph Witnessed
-numerical_relation: 6 + 6 = 12 (The Hanged One; perspective—the victory and the departure are both valid)
+numerical_relation: 6 + 6 = 12 (XII The Hanged Man; perspective—the victory and the departure are both valid)
 elemental_bridge: Air carrying Fire's victory; the traveler bearing the reputation across the water
 threshold_type: The Victorious Traveler—the crossing with acclaim behind them
 
@@ -265,37 +270,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains for the acclimation but with hidden restlessness; the victory is recognized but the recognition feels insufficient
-  consequence: A victory that is present but not fully savored because the traveler's attention is elsewhere
-  spatial_logic: The traveler receiving acclaim but looking toward the horizon, the victory incomplete
+  blockade_nature: A victory that is present but not fully savored because the traveler's attention is elsewhere
+  swords_state: The traveler receiving acclaim but looking toward the horizon, the victory incomplete
+  consequence: the victory is recognized but the recognition feels insufficient
+  key_terms: victory that is present, traveler receiving acclaim but looking, victory is recognized, traveler remains for the acclimation
 
 dynamic_devolution:
   mechanism: The traveler finally departs and the acclimation is understood as hollow; the victory is revealed as insufficient for lasting satisfaction
-  corruption: The acclaim is poisoned by the traveler's departure; the victory becomes a loss; the triumph is remembered with bitterness
+  mode: The acclaim is poisoned by the traveler's departure; the victory becomes a loss; the triumph is remembered with bitterness
   loss: Both the victory and the journey are destroyed by the sense that triumph is temporary
   key_terms: The poisoned victory, abandoned acclaim, hollow triumph, the bitter traveler
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the 6 of Wands' victory even while departing; the 6 of Wands must understand that the traveler's journey is another form of triumph
-  integration: The traveler departs with the victory honored; the acclimation is completed and the journey is blessed; both forms of triumph are valid
-  paradox: The deepest victory is often that which includes the freedom to move beyond it; the 6 of Wands is most truly triumphant when willing to release the victor
-  outcome: The traveler departs with the victory honored; the acclimation becomes a blessing for the journey; both are fulfilled
+  function: The traveler departs with the victory honored; the acclimation is completed and the journey is blessed; both forms of triumph are valid
+  integration_outcome: The traveler departs with the victory honored; the acclimation becomes a blessing for the journey; both are fulfilled
   key_terms: The honored victory, blessed departure, completed acclimation, the traveling victor
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, 7 of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Defense Against Odds, The Struggle Against Opposition, The Holding Ground, The Courageous Stand
-numerical_relation: 6 + 7 = 13 (Death/Transformation; the crossing away from defensive struggle)
+numerical_relation: 6 + 7 = 13 (XIII Death; the crossing away from defensive struggle)
 elemental_bridge: Air's escape and Fire's defense meeting; the traveler leaving the one who must stand
 threshold_type: The Traveler Leaving the Defender—the crossing away from necessary defense
 
@@ -314,37 +320,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains to help defend but with the knowledge that they should journey; the defense is partially supported but the traveler is incomplete
-  consequence: A defense that is technically stronger but spiritually weakened by the traveler's resentment; the crossing is prevented but the traveler suffers
-  spatial_logic: The traveler standing with the defender but looking toward the boat, the defense incomplete
+  blockade_nature: A defense that is technically stronger but spiritually weakened by the traveler's resentment; the crossing is prevented but the traveler suffers
+  swords_state: The traveler standing with the defender but looking toward the boat, the defense incomplete
+  consequence: the defense is partially supported but the traveler is incomplete
+  key_terms: defense that is technically stronger, traveler standing with the defender, defense is partially supported, traveler remains to help defend
 
 dynamic_devolution:
   mechanism: The traveler finally leaves and the defense collapses; the 7 of Wands is overwhelmed; the ground is lost; the departure is experienced as catastrophic betrayal
-  corruption: The defense is destroyed; the ground is lost; the betrayal poisons the relationship between traveler and defender
+  mode: The defense is destroyed; the ground is lost; the betrayal poisons the relationship between traveler and defender
   loss: Both the journey and the defense are destroyed; the traveler is consumed with guilt and the defender is consumed with rage
   key_terms: The fallen defense, lost ground, catastrophic departure, mutual destruction
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the 7 of Wands' defense even while departing; the 7 of Wands must understand that the traveler's journey is their own form of necessary stand
-  integration: The traveler departs and the defender continues to hold; both are honored for their respective roles; the departure is understood as part of a larger strategy
-  paradox: The strongest defenses often release some to journey; the 7 of Wands is most secure when understanding that the traveler's departure is not abandonment
-  outcome: The traveler departs blessed; the defender continues to hold; both understand their roles; the ground is held and the journey is made
+  function: The traveler departs and the defender continues to hold; both are honored for their respective roles; the departure is understood as part of a larger strategy
+  integration_outcome: The traveler departs blessed; the defender continues to hold; both understand their roles; the ground is held and the journey is made
   key_terms: The honored roles, blessed departure, the standing defender, the journeying blessed
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, 8 of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Swift Movement, The Rapid Progress, The Messengers Flying, The Speed Unleashed
-numerical_relation: 6 + 8 = 14 (Moderation; two forms of speed aligned)
+numerical_relation: 6 + 8 = 14 (XIV Temperance; two forms of speed aligned)
 elemental_bridge: Air and Fire in swift motion together; the crossing accelerated
 threshold_type: The Rapid Crossing—the traveler and the swift messenger moving in alignment
 
@@ -363,37 +370,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The 8 of Wands slows to match the boat but is frustrated; the swift movement is constrained by the crossing's pace; both are partially present
-  consequence: A journey that is partially rapid; the 8 of Wands' speed is present but not fully expressed; the crossing is faster than normal but not as fast as desired
-  spatial_logic: The swift messages trying to match the boat's pace, frustrated by the constraint
+  blockade_nature: A journey that is partially rapid; the 8 of Wands' speed is present but not fully expressed; the crossing is faster than normal but not as fast as desired
+  swords_state: The swift messages trying to match the boat's pace, frustrated by the constraint
+  consequence: both are partially present
+  key_terms: journey that is partially rapid, swift messages trying to match, both are partially present, 8 of wands slows
 
 dynamic_devolution:
   mechanism: The 8 of Wands abandons the boat and speeds ahead; the crossing is left behind; the rapid movement is separated from the crossing
-  corruption: The swift movement is separated from the journey; the crossing is slowed by the loss of the 8 of Wands' momentum
+  mode: The swift movement is separated from the journey; the crossing is slowed by the loss of the 8 of Wands' momentum
   loss: Both the speed and the journey are destroyed by the separation
   key_terms: The abandoned boat, separated speed, lost momentum, the isolated crossing
 
 dynamic_dependency:
   mechanism: The 6 of Swords must allow the 8 of Wands' speed to express through the crossing; the 8 of Wands must understand that the boat's pace is also a form of momentum
-  integration: The crossing is made at a speed that includes both the boat's journey and the swift movement; the velocity is expressed through the crossing
-  paradox: The deepest speed is often that which moves in harmony with its context; the 8 of Wands is most alive when expressing through the crossing's pace
-  outcome: The traveler and the swift messages move together; the crossing is swift; both forms of speed are honored; the journey is rapid and flowing
+  function: The crossing is made at a speed that includes both the boat's journey and the swift movement; the velocity is expressed through the crossing
+  integration_outcome: The traveler and the swift messages move together; the crossing is swift; both forms of speed are honored; the journey is rapid and flowing
   key_terms: The aligned motion, swift crossing, honored speed, the rapid journey
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, 9 of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Final Stand, The Resilience Tested, The Strength of the Weary, The Last Defense
-numerical_relation: 6 + 9 = 15 (The Devil reversed; liberation through the willingness to journey after struggle)
+numerical_relation: 6 + 9 = 15 (XV The Devil; liberation through the willingness to journey after struggle)
 elemental_bridge: Air carrying Fire's exhaustion; the journey as rest after struggle
 threshold_type: The Exhausted One Finally Journeying—the crossing as the relief after endurance
 
@@ -412,37 +420,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The exhausted one begins the journey but does not allow full recovery; the crossing is slow because exhaustion slows movement; the rest is incomplete
-  consequence: A journey that is partial recovery; the 9 of Wands' exhaustion is somewhat relieved by the crossing but not fully resolved
-  spatial_logic: The weary traveler in the boat, slowly recovering but not yet restored
+  blockade_nature: A journey that is partial recovery; the 9 of Wands' exhaustion is somewhat relieved by the crossing but not fully resolved
+  swords_state: The weary traveler in the boat, slowly recovering but not yet restored
+  consequence: the rest is incomplete
+  key_terms: journey that is partial recovery, weary traveler in the boat, rest is incomplete, exhausted one begins the journey
 
 dynamic_devolution:
   mechanism: The exhaustion is so complete that even the crossing cannot restore; the 9 of Wands is destroyed by the refusal to rest; the journey is made impossible
-  corruption: The exhaustion metastasizes into collapse; the final stand is not the last but the beginning of perpetual collapse
+  mode: The exhaustion metastasizes into collapse; the final stand is not the last but the beginning of perpetual collapse
   loss: Both the journey and the recovery are destroyed by the inability to rest
   key_terms: The collapsed resilience, failed journey, permanent exhaustion, the broken one
 
 dynamic_dependency:
   mechanism: The 6 of Swords must explicitly invite the 9 of Wands to rest through the crossing; the 9 of Wands must finally accept that the duty is complete
-  integration: The exhausted one journeys and begins to recover; the crossing is the earned rest; the 9 of Wands' resilience is honored by being allowed to restore
-  paradox: The deepest resilience is often that which knows when to rest; the 9 of Wands is most truly strong when willing to journey toward recovery
-  outcome: The exhausted one journeys and recovers; the crossing is restorative; the final stand is honored; the recovery begins
+  function: The exhausted one journeys and begins to recover; the crossing is the earned rest; the 9 of Wands' resilience is honored by being allowed to restore
+  integration_outcome: The exhausted one journeys and recovers; the crossing is restorative; the final stand is honored; the recovery begins
   key_terms: The honored stand, earned rest, the recovering journey, restoration begins
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, 10 of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Burden Carried, The Responsibility Heavy, The Load Immense, The Duty Binding
-numerical_relation: 6 + 10 = 16 (The Tower; the burdens that prevent departure)
+numerical_relation: 6 + 10 = 16 (XVI The Tower; the burdens that prevent departure)
 elemental_bridge: Air escaping Fire's weight; the journey away from burden
 threshold_type: The Burdened One Finally Releasing—the crossing away from overwhelming duty
 
@@ -461,37 +470,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The burdened one attempts to journey but carries the burden anyway; the boat is weighed down; the crossing is impossibly slow
-  consequence: A journey that is not truly free because the burden travels with the traveler; the crossing is made but the traveler is not liberated
-  spatial_logic: The traveler in the boat still weighted down by the burden, unable to move at speed
+  blockade_nature: A journey that is not truly free because the burden travels with the traveler; the crossing is made but the traveler is not liberated
+  swords_state: The traveler in the boat still weighted down by the burden, unable to move at speed
+  consequence: the crossing is impossibly slow
+  key_terms: journey that is not truly, traveler in the boat, crossing is impossibly slow, burdened one attempts to journey
 
 dynamic_devolution:
   mechanism: The burden is so heavy that the crossing is abandoned; the burdened one returns to the place of duty; the journey is never made
-  corruption: The burden is revealed as unreleasable; the duty is permanent; the journey is impossible
+  mode: The burden is revealed as unreleasable; the duty is permanent; the journey is impossible
   loss: Both the freedom and the crossing are destroyed by the unreleasable burden
   key_terms: The returned traveler, permanent burden, impossible freedom, the trapped one
 
 dynamic_dependency:
   mechanism: The 6 of Swords must help the 10 of Wands release the burden; the 10 of Wands must understand that releasing is not abandonment
-  integration: The burden is released or distributed; the traveler is freed; the crossing is made light; the one left behind carries what remains with support from community
-  paradox: The deepest freedom is often that which includes the willingness to release what cannot be carried; the 10 of Wands is most truly strong when willing to release the burden
-  outcome: The burden is released; the traveler journeys free; the crossing is light; the one left behind is supported; both are honored
+  function: The burden is released or distributed; the traveler is freed; the crossing is made light; the one left behind carries what remains with support from community
+  integration_outcome: The burden is released; the traveler journeys free; the crossing is light; the one left behind is supported; both are honored
   key_terms: The released burden, freed journey, distributed responsibility, the supported one
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, Page of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Enthusiastic Messenger, The Creative Spark Discovered, The First Fire, The Young Vision
-numerical_relation: 6 + Page = The traveler and the young enthusiast; different life phases meeting
+numerical_relation: 6 + 11 = 17 (XVII The Star; different life phases meeting)
 elemental_bridge: Air moving swiftly and Fire burning brightly; youth and movement aligned
 threshold_type: The Traveler and the Young One—the crossing and the awakening
 
@@ -510,37 +520,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains for the Page's awakening but with hidden restlessness; the young one's fire is present but cannot fully express because something is withheld
-  consequence: An awakening that is partial; the Page's enthusiasm is present but is shadowed by the traveler's need to depart
-  spatial_logic: The traveler and the Page together but the traveler's attention divided, the fire burning dimly
+  blockade_nature: An awakening that is partial; the Page's enthusiasm is present but is shadowed by the traveler's need to depart
+  swords_state: The traveler and the Page together but the traveler's attention divided, the fire burning dimly
+  consequence: the young one's fire is present but cannot fully express because something is withheld
+  key_terms: awakening that is partial, traveler and the page together, young one's fire is present, traveler remains for the page's
 
 dynamic_devolution:
   mechanism: The traveler departs and the Page's fire is extinguished; the young one's enthusiasm becomes bitterness; what should have been awakening becomes hardening
-  corruption: The Page is corrupted by the departure; the fire dies; what emerges is cynicism premature to the young one's years
+  mode: The Page is corrupted by the departure; the fire dies; what emerges is cynicism premature to the young one's years
   loss: Both the Page's awakening and the traveler's journey are destroyed by the trauma of separation
   key_terms: The corrupted fire, premature bitterness, destroyed awakening, the hardened youth
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the Page of Wands' emerging fire even while departing; the Page must understand that the traveler's departure is a gift of freedom
-  integration: The traveler departs and the Page is freed to awaken through their own exploration; the departure enables the young one's authentic fire
-  paradox: The deepest awakening is often that which emerges when given freedom; the Page of Wands is most truly kindled when the traveler releases them
-  outcome: The traveler departs; the Page's fire awakens; the departure is revealed as essential to the awakening; both are honored
+  function: The traveler departs and the Page is freed to awaken through their own exploration; the departure enables the young one's authentic fire
+  integration_outcome: The traveler departs; the Page's fire awakens; the departure is revealed as essential to the awakening; both are honored
   key_terms: The freed fire, honored departure, the awakened page, the blessed release
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, Knight of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Adventurous Seeker, The Passionate Explorer, The Bold Adventurer, The Courageous Journeyer
-numerical_relation: 6 + Knight = 9 (Completion; two questers moving in similar directions)
+numerical_relation: 6 + 12 = 18 (XVIII The Moon; two questers moving in similar directions)
 elemental_bridge: Air and Fire in motion together; the traveler and the adventurer aligned
 threshold_type: The Two Adventurers—the crossing and the passionate quest moving together
 
@@ -559,37 +570,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The two move together but at different internal temperatures; the Knight's passion is constrained by the traveler's steadiness; the crossing is complicated by the Knight's need for adventure
-  consequence: A journey that is shared but internally divided; both adventurers are diminished by the partnership
-  spatial_logic: The traveler and the Knight in the same boat but facing different horizons
+  blockade_nature: A journey that is shared but internally divided; both adventurers are diminished by the partnership
+  swords_state: The traveler and the Knight in the same boat but facing different horizons
+  consequence: the crossing is complicated by the Knight's need for adventure
+  key_terms: journey that is shared, traveler and the knight, crossing is complicated, two move together but at
 
 dynamic_devolution:
   mechanism: The partnership falls apart; the Knight charges ahead in passionate adventure; the traveler continues at steady pace; they become separated
-  corruption: What could have been mutual support becomes mutual judgment; the adventurers are estranged
+  mode: What could have been mutual support becomes mutual judgment; the adventurers are estranged
   loss: Both the practical crossing and the passionate quest are diminished by the loss of companionship
   key_terms: The separated adventurers, divided passion, lost support, mutual estrangement
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the Knight of Wands' passion even while maintaining steady pace; the Knight must honor the traveler's practical wisdom as valid
-  integration: The two move together with mutual respect; the steady crossing supports the passionate quest and the passion enlivens the practical journey
-  paradox: The deepest adventures often require both steady foundation and passionate fire; the 6 of Swords and the Knight of Wands are most complete together
-  outcome: The adventurers move together; the crossing is enlivened by the Knight's passion; the quest is grounded by the traveler's steadiness; both arrive transformed
+  function: The two move together with mutual respect; the steady crossing supports the passionate quest and the passion enlivens the practical journey
+  integration_outcome: The adventurers move together; the crossing is enlivened by the Knight's passion; the quest is grounded by the traveler's steadiness; both arrive transformed
   key_terms: The united adventurers, enlivened crossing, grounded quest, the deepened journey
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, Queen of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Charismatic Leader, The Inspiring Presence, The Bold Creator, The Magnetizing Force
-numerical_relation: 6 + Queen = 12 (The Hanged One; perspective required—the leader releasing the traveler)
+numerical_relation: 6 + 13 = 19 (XIX The Sun; perspective required—the leader releasing the traveler)
 elemental_bridge: Air's movement and Fire's magnetism; the traveler and the inspiring leader
 threshold_type: The Charismatic Queen Releasing the Traveler—the leader blessing the departure
 
@@ -608,37 +620,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler departs but remains magnetized to the Queen; the crossing is incomplete because something pulls back
-  consequence: A journey that is divided; the traveler moves away but is tethered to the Queen's presence
-  spatial_logic: The traveler in the boat but the cord of magnetism stretching back, preventing full departure
+  blockade_nature: A journey that is divided; the traveler moves away but is tethered to the Queen's presence
+  swords_state: The traveler in the boat but the cord of magnetism stretching back, preventing full departure
+  consequence: the crossing is incomplete because something pulls back
+  key_terms: journey that is divided, traveler in the boat, crossing is incomplete because something, traveler departs but remains magnetized
 
 dynamic_devolution:
   mechanism: The magnetic pull gradually destroys the departure; the traveler is pulled back; the Queen becomes increasingly demanding of the traveler's presence
-  corruption: The magnetism becomes destructive; the traveler is destroyed by the internal conflict between departure and the pull to return
+  mode: The magnetism becomes destructive; the traveler is destroyed by the internal conflict between departure and the pull to return
   loss: Both the journey and the magnetism are destroyed by the conflict
   key_terms: The destroyed departure, corrupted magnetism, internal war, mutual loss
 
 dynamic_dependency:
   mechanism: The 6 of Swords must help the Queen of Wands understand that true magnetism includes the freedom to release; the Queen must learn that leaders who hold too tightly destroy what they seek to keep
-  integration: The Queen releases the traveler with full magnetism supporting the journey; the traveler carries the Queen's charisma across the water
-  paradox: The strongest magnetism is often that which can release; the Queen of Wands is most truly magnetic when willing to support the traveler's departure
-  outcome: The traveler departs with the Queen's blessing; the magnetism travels with them; the journey is enlivened by the Queen's strength; both are honored
+  function: The Queen releases the traveler with full magnetism supporting the journey; the traveler carries the Queen's charisma across the water
+  integration_outcome: The traveler departs with the Queen's blessing; the magnetism travels with them; the journey is enlivened by the Queen's strength; both are honored
   key_terms: The released blessing, supported magnetism, the magnetized journey, the inspired traveler
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW
 
 ---
 
 card_pair: 6 of Swords, King of Wands
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_wands: The Fiery Ruler, The Passionate Leader, The Inspirational Force, The Sovereign of Action
-numerical_relation: 6 + King = 13 (Death/Transformation; the king releasing the traveler for the good of the realm)
+numerical_relation: 6 + 14 = 20 (XX Judgement; the king releasing the traveler for the good of the realm)
 elemental_bridge: Air's escape and Fire's rule meeting; the traveler and the passionate sovereign
 threshold_type: The Passionate King Releasing the Traveler—the sovereign blessing the crossing
 
@@ -657,27 +670,28 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains under the King's rule but with resentment; the crossing is prevented by the need to serve the King; both are incomplete
-  consequence: A service that is given under duress; the traveler is present but not genuinely serving because they resent the obligation
-  spatial_logic: The traveler and the King together but the traveler's internal absence, the crossing prevented
+  blockade_nature: A service that is given under duress; the traveler is present but not genuinely serving because they resent the obligation
+  swords_state: The traveler and the King together but the traveler's internal absence, the crossing prevented
+  consequence: both are incomplete
+  key_terms: service that is given under, traveler and the king together, both are incomplete, traveler remains under the king's
 
 dynamic_devolution:
   mechanism: The traveler openly rebels against the King; the departure becomes a breaking of the kingdom's bonds; the King's passionate rule is challenged
-  corruption: The kingdom is shattered by the rebellion; the King's authority is revealed as controlling rather than inspiring
+  mode: The kingdom is shattered by the rebellion; the King's authority is revealed as controlling rather than inspiring
   loss: Both the kingdom and the traveler are destroyed by the conflict
   key_terms: The shattered kingdom, broken authority, violent rebellion, mutual destruction
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the King of Wands' passionate rule even while departing; the King must understand that true leadership includes releasing those who must journey
-  integration: The King releases the traveler as an ambassador; the crossing serves the kingdom; the traveler carries the King's passionate vision
-  paradox: The strongest kingdoms are those that can release their travelers; the King of Wands is most truly passionate when willing to support the traveler's departure
-  outcome: The traveler departs as an ambassador; the King's rule is served by the journey; the crossing spreads the kingdom's vision; both are honored
+  function: The King releases the traveler as an ambassador; the crossing serves the kingdom; the traveler carries the King's passionate vision
+  integration_outcome: The traveler departs as an ambassador; the King's rule is served by the journey; the crossing spreads the kingdom's vision; both are honored
   key_terms: The honored departure, the traveling ambassador, spread vision, the passionate kingdom
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSW

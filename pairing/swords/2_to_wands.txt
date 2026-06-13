@@ -1,7 +1,7 @@
 card_pair: 2 of Swords, Ace of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
-numerical_relation: 2-1 (Stalemate blocking creative spark; paralysis preventing enterprise ignition)
+numerical_relation: 2 + 1 = 3 (III The Empress; Stalemate blocking creative spark; paralysis preventing enterprise ignition)
 elemental_bridge: Air indecision meeting fire inspiration; choice-avoidance preventing creative momentum
 threshold_type: The unlit spark; stalemate preventing creative launch
 
@@ -39,19 +39,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, 2 of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
-numerical_relation: 2-2 (Stalemate meeting power-choice; paralysis blocking personal dominion)
+numerical_relation: 2 + 2 = 4 (IV The Emperor; Stalemate meeting power-choice; paralysis blocking personal dominion)
 elemental_bridge: Air indecision meeting fire power; choice-avoidance preventing authoritative action
 threshold_type: The weak visionary; stalemate blocking power-choice
 
@@ -89,19 +89,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, 3 of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
-numerical_relation: 2-3 (Stalemate blocking foresight; paralysis preventing forward momentum)
+numerical_relation: 2 + 3 = 5 (V The Pope; Stalemate blocking foresight; paralysis preventing forward momentum)
 elemental_bridge: Air indecision meeting fire vision; choice-avoidance preventing collaborative growth
 threshold_type: The stuck dreamer; stalemate blocking progress
 
@@ -139,19 +139,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, 4 of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Celebration, harmony, community, home, joy, establishment
-numerical_relation: 2-4 (Stalemate preventing celebration; paralysis blocking communal joy)
+numerical_relation: 2 + 4 = 6 (VI The Lovers; Stalemate preventing celebration; paralysis blocking communal joy)
 elemental_bridge: Air indecision meeting fire celebration; choice-avoidance preventing festive establishment
 threshold_type: The joyless gathering; stalemate blocking festivity
 
@@ -189,19 +189,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, 5 of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Conflict, competition, competition, struggle, contested victory
-numerical_relation: 2-5 (Stalemate enabling conflict-avoidance; paralysis preventing necessary confrontation)
+numerical_relation: 2 + 5 = 7 (VII The Chariot; Stalemate enabling conflict-avoidance; paralysis preventing necessary confrontation)
 elemental_bridge: Air indecision meeting fire conflict; choice-avoidance preventing engaged struggle
 threshold_type: The avoided conflict; stalemate preventing necessary confrontation
 
@@ -239,19 +239,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, 6 of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Victory, recognition, success, honor, public achievement
-numerical_relation: 2-6 (Stalemate preventing achievement; paralysis blocking victory)
+numerical_relation: 2 + 6 = 8 (VIII Justice; Stalemate preventing achievement; paralysis blocking victory)
 elemental_bridge: Air indecision meeting fire success; choice-avoidance preventing achievement-claiming
 threshold_type: The unrecognized victor; stalemate blocking success-claim
 
@@ -289,19 +289,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, 7 of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
-numerical_relation: 2-7 (Stalemate preventing resilient defense; paralysis blocking necessary standing-ground)
+numerical_relation: 2 + 7 = 9 (IX The Hermit; Stalemate preventing resilient defense; paralysis blocking necessary standing-ground)
 elemental_bridge: Air indecision meeting fire resilience; choice-avoidance preventing defensive action
 threshold_type: The indefensible position; stalemate preventing necessary defense
 
@@ -339,19 +339,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, 8 of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
-numerical_relation: 2-8 (Stalemate blocking momentum; paralysis preventing rapid progress)
+numerical_relation: 2 + 8 = 10 (X The Wheel of Fortune; Stalemate blocking momentum; paralysis preventing rapid progress)
 elemental_bridge: Air indecision meeting fire speed; choice-avoidance preventing accelerated action
 threshold_type: The frozen momentum; stalemate blocking speed
 
@@ -389,19 +389,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, 9 of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
-numerical_relation: 2-9 (Stalemate preventing perseverance; paralysis blocking sustained strength)
+numerical_relation: 2 + 9 = 11 (XI Strength; Stalemate preventing perseverance; paralysis blocking sustained strength)
 elemental_bridge: Air indecision meeting fire endurance; choice-avoidance preventing sustained action
 threshold_type: The weakened warrior; stalemate blocking strength
 
@@ -439,19 +439,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, 10 of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
-numerical_relation: 2-10 (Stalemate avoiding burden; paralysis preventing responsibility-taking)
+numerical_relation: 2 + 10 = 12 (XII The Hanged Man; Stalemate avoiding burden; paralysis preventing responsibility-taking)
 elemental_bridge: Air indecision meeting fire burden; choice-avoidance preventing burden-acceptance
 threshold_type: The avoided responsibility; stalemate preventing mature action
 
@@ -489,19 +489,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, Page of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
-numerical_relation: 2-Page (Stalemate preventing enthusiastic engagement; paralysis blocking youthful energy)
+numerical_relation: 2 + 11 = 13 (XIII Death; Stalemate preventing enthusiastic engagement; paralysis blocking youthful energy)
 elemental_bridge: Air indecision meeting fire enthusiasm; choice-avoidance preventing energetic growth
 threshold_type: The dampened spark; stalemate blocking enthusiasm
 
@@ -539,19 +539,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, Knight of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
-numerical_relation: 2-Knight (Stalemate preventing action; paralysis blocking passionate pursuit)
+numerical_relation: 2 + 12 = 14 (XIV Temperance; Stalemate preventing action; paralysis blocking passionate pursuit)
 elemental_bridge: Air indecision meeting fire action; choice-avoidance preventing bold engagement
 threshold_type: The frozen adventurer; stalemate blocking action
 
@@ -589,19 +589,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, Queen of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
-numerical_relation: 2-Queen (Stalemate preventing leadership; paralysis blocking charismatic authority)
+numerical_relation: 2 + 13 = 15 (XV The Devil; Stalemate preventing leadership; paralysis blocking charismatic authority)
 elemental_bridge: Air indecision meeting fire mastery; choice-avoidance preventing authoritative action
 threshold_type: The powerless leader; stalemate blocking authority
 
@@ -639,19 +639,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW
 
 ---
 
 card_pair: 2 of Swords, King of Wands
 archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
-numerical_relation: 2-King (Stalemate preventing dominion; paralysis blocking powerful rule)
+numerical_relation: 2 + 14 = 16 (XVI The Tower; Stalemate preventing dominion; paralysis blocking powerful rule)
 elemental_bridge: Air indecision meeting fire dominion; choice-avoidance preventing authoritative action
 threshold_type: The paralyzed sovereign; stalemate blocking dominion
 
@@ -689,9 +689,9 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 2-1 through 2-14
-  uid: TOSW
+  uid: 2OSW

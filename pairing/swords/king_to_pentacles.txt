@@ -351,7 +351,7 @@ structural_metadata:
 card_pair: King of Swords, 8 of Pentacles
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_pentacles: Mastery, skill-development, apprenticeship, dedication, refined craft
-numerical_relation: 14 + 8 = 22 -> 2+2 = 4 (IV The Emperor; authority over disciplined practice)
+numerical_relation: 14 + 8 = 22 → 2+2=4 (IV The Emperor; authority over disciplined practice)
 elemental_bridge: Air's standard meets Earth's patient repetition; the master's verdict meets the apprentice at the bench
 threshold_type: The practice brought before the master; skill-in-formation asked to meet a finished standard
 
@@ -401,7 +401,7 @@ structural_metadata:
 card_pair: King of Swords, 9 of Pentacles
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
-numerical_relation: 14 + 9 = 23 -> 2+3 = 5 (V The Pope; judgment before earned self-sufficiency)
+numerical_relation: 14 + 9 = 23 → 2+3=5 (V The Pope; judgment before earned self-sufficiency)
 elemental_bridge: Air's habit of assessment meets Earth's completed abundance; the verdict meets a thing that needs none
 threshold_type: The self-sufficient estate brought before the judge; completeness asked to submit to review
 
@@ -451,7 +451,7 @@ structural_metadata:
 card_pair: King of Swords, 10 of Pentacles
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
-numerical_relation: 14 + 10 = 24 -> 2+4 = 6 (VI The Lover(s); judgment governs the inheritance)
+numerical_relation: 14 + 10 = 24 → 2+4=6 (VI The Lovers; judgment governs the inheritance)
 elemental_bridge: Air's law of succession meets Earth's living dynasty; the statute meets the family bond
 threshold_type: The inheritance brought before the judge; a living legacy asked to pass by rule
 
@@ -501,7 +501,7 @@ structural_metadata:
 card_pair: King of Swords, Page of Pentacles
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
-numerical_relation: 14 + 11 = 25 -> 2+5 = 7 (VII The Chariot; authority directs the eager student)
+numerical_relation: 14 + 11 = 25 → 2+5=7 (VII The Chariot; authority directs the eager student)
 elemental_bridge: Air's curriculum meets Earth's eager beginner; the imposed syllabus meets the learner's appetite
 threshold_type: The student brought before the master; raw curiosity asked to follow a discipline
 
@@ -551,7 +551,7 @@ structural_metadata:
 card_pair: King of Swords, Knight of Pentacles
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
-numerical_relation: 14 + 12 = 26 -> 2+6 = 8 (VIII Justice; judgment aims the steady laborer)
+numerical_relation: 14 + 12 = 26 → 2+6=8 (VIII Justice; judgment aims the steady laborer)
 elemental_bridge: Air's changing verdict meets Earth's fixed method; the new ruling meets the long, committed course
 threshold_type: The steady worker brought before the judge; diligence asked to follow a shifting decree
 
@@ -601,7 +601,7 @@ structural_metadata:
 card_pair: King of Swords, Queen of Pentacles
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-numerical_relation: 14 + 13 = 27 -> 2+7 = 9 (IX The Hermit; judgment meets nurturing authority)
+numerical_relation: 14 + 13 = 27 → 2+7=9 (IX The Hermit; judgment meets nurturing authority)
 elemental_bridge: Air's general law meets Earth's particular care; the uniform verdict meets the tended need
 threshold_type: Two sovereigns at one table; the rule of principle meets the rule of nourishment
 
@@ -651,7 +651,7 @@ structural_metadata:
 card_pair: King of Swords, King of Pentacles
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-numerical_relation: 14 + 14 = 28 -> 2+8 = 10 (X The Wheel of Fortune; intellectual law meets material dominion)
+numerical_relation: 14 + 14 = 28 → 2+8=10 (X The Wheel of Fortune; intellectual law meets material dominion)
 elemental_bridge: Air's principle meets Earth's wealth; the authority of the idea meets the authority of property
 threshold_type: Two kings, two thrones; law and treasury asked which governs the realm
 

@@ -1,7 +1,157 @@
+card_pair: 4 of Swords, Ace of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 4 + 1 = 5 (V The Pope; stillness meets the clarity that arrives in it)
+elemental_bridge: Air's quiet meets Air's breakthrough; the stilled mind meets the insight that lands in silence
+threshold_type: The insight arriving in the rest; the breakthrough that would end the repose
+
+dynamic_genesis:
+  mechanism: The Ace's clarity arrives precisely because the 4 has stilled the noise; insight lands in the quieted mind
+  process: rest clears the mental field; into that silence the breakthrough drops clean
+  outcome: clarity received whole; insight earned by stillness rather than chased
+  key_terms: received insight, quieted mind, clarity in stillness, earned breakthrough
+
+dynamic_antagonism:
+  mechanism: The Ace's breakthrough disturbs the rest it needs; clarity demands action the 4 is not ready for
+  tension_axis: the stillness that restores versus the insight that summons to act
+  four_of_swords_position: Guards the respite; refuses to be roused by a new idea
+  ace_of_swords_position: Cuts into the quiet; insists the truth not wait for rest to finish
+  key_terms: disturbed rest, summoning insight, guarded quiet, premature rousing
+
+dynamic_inhibition:
+  mechanism: The rest deadens into avoidance; clarity offered but the mind stays withdrawn
+  blockade_nature: insight that cannot reach a mind closed for repair; the breakthrough left at the door
+  swords_state: a mind so still it has gone inert; rest hardened into refusal to think
+  consequence: the clarity is missed; stillness becomes a hiding place from the truth
+  key_terms: inert stillness, missed insight, withdrawn mind, rest as hiding
+
+dynamic_devolution:
+  mechanism: Rest curdles into evasion; the Ace's truth permanently deferred in the name of "not yet"
+  mode: convalescence used as excuse; clarity postponed until it dies unheard
+  loss: the breakthrough's moment; insight gone stale by the time the rest is "finished"
+  key_terms: deferred truth, evasive rest, stale insight, lost moment
+
+dynamic_dependency:
+  mechanism: The Ace needs the 4's stillness to be heard clearly; the 4 needs the Ace's clarity to know when rest is complete
+  function: Swords-4 supplies the quiet that lets insight land; Swords-Ace supplies the clarity that says the rest has done its work
+  integration_outcome: insight received in earned stillness, then acted on; rest that ends in clear sight
+  key_terms: earned clarity, completed rest, landed insight, timely action
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OSS
+
+---
+
+card_pair: 4 of Swords, 2 of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 4 + 2 = 6 (VI The Lovers; true rest meets disguised paralysis)
+elemental_bridge: Air's restorative pause meets Air's avoidant halt; the stop that heals meets the stop that hides
+threshold_type: The pause examined; restoration told apart from avoidance
+
+dynamic_genesis:
+  mechanism: The 4's genuine respite reveals the 2's stalemate as false rest; real stillness exposes mere avoidance
+  process: the quality of a true pause is felt against the quality of frozen indecision; the difference becomes clear
+  outcome: the stalemate is named as the avoidance it is; rest reclaimed as restoration, not evasion
+  key_terms: true pause, exposed avoidance, distinguished stillness, reclaimed rest
+
+dynamic_antagonism:
+  mechanism: The 4 calls its stop restorative; the 2 calls its stop necessary — each suspects the other of hiding
+  tension_axis: rest that restores versus suspension that avoids; legitimate pause versus disguised paralysis
+  four_of_swords_position: Claims its stillness is recovery, not evasion
+  two_of_swords_position: Claims its halt is prudence, not fear
+  key_terms: contested stillness, recovery versus evasion, mutual suspicion, disputed pause
+
+dynamic_inhibition:
+  mechanism: rest and stalemate reinforce each other into a comfortable inertia; neither stop ever ends
+  blockade_nature: a pause that has forgotten it was meant to be temporary; stillness fused with indecision
+  swords_state: a mind that rests to avoid choosing and avoids choosing to keep resting
+  consequence: nothing resumes; respite and deadlock become indistinguishable and permanent
+  key_terms: comfortable inertia, fused stops, permanent pause, never resuming
+
+dynamic_devolution:
+  mechanism: rest and avoidance corrupt into chronic withdrawal; the stop becomes a life
+  mode: convalescence and indecision both made permanent; retreat from action total
+  loss: the return to engagement; both the rest's purpose and the choice's necessity dissolved
+  key_terms: chronic withdrawal, permanent retreat, dissolved purpose, lost engagement
+
+dynamic_dependency:
+  mechanism: The 2 needs the 4 to show what a true pause is; the 4 needs the 2's pressure-to-choose to know when its rest must end
+  function: Swords-4 supplies the model of restorative stillness; Swords-2 supplies the looming choice that gives rest a deadline
+  integration_outcome: a pause that genuinely restores and then ends in a made choice; stillness with a term
+  key_terms: bounded rest, restorative pause, deadlined stillness, resumed choice
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OSS
+
+---
+
+card_pair: 4 of Swords, 3 of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 4 + 3 = 7 (VII The Chariot; stillness meets the grief it must hold)
+elemental_bridge: Air's quiet meets Air's wound; the sheltering calm meets the sorrow that needs room
+threshold_type: The grief brought into the rest; the mourning the stillness must hold or suppress
+
+dynamic_genesis:
+  mechanism: The 4's stillness opens a sheltered space in which the 3's grief can finally be felt
+  process: the noise of coping quiets; into that shelter the held-off sorrow is allowed to arrive
+  outcome: grief mourned in safety; rest becomes the container that makes feeling bearable
+  key_terms: sheltered grief, held space, safe mourning, contained sorrow
+
+dynamic_antagonism:
+  mechanism: The 4 wants the quiet undisturbed; the 3's grief is loud and will not be hushed
+  tension_axis: the stillness that seeks calm versus the sorrow that needs to break the silence
+  four_of_swords_position: Seeks an undisturbed peace; resists the grief that would fill it
+  three_of_swords_position: Refuses to be quieted; insists the wound be heard
+  key_terms: disturbed peace, insistent grief, contested quiet, sorrow against calm
+
+dynamic_inhibition:
+  mechanism: rest is used to suppress the grief rather than hold it; the stillness becomes a lid
+  blockade_nature: mourning sealed under a forced calm; sorrow pressed down in the name of peace
+  swords_state: a quiet that is really suppression; stillness holding a wound shut
+  consequence: the grief festers beneath the calm; peace bought by refusing to mourn
+  key_terms: suppressed grief, forced calm, sealed mourning, festering wound
+
+dynamic_devolution:
+  mechanism: the rest hardens into denial; the 3's loss buried under a performance of being fine
+  mode: stillness weaponized into numb avoidance; grief frozen rather than mourned
+  loss: the mourning that would have healed; sorrow embalmed in a false peace
+  key_terms: denied grief, false peace, frozen mourning, buried loss
+
+dynamic_dependency:
+  mechanism: The 3 needs the 4's stillness to grieve without being overwhelmed; the 4 needs the 3's sorrow to keep its rest honest rather than evasive
+  function: Swords-4 supplies the safe container for mourning; Swords-3 supplies the grief that gives the rest a real purpose
+  integration_outcome: sorrow mourned within a stillness that holds it; rest that heals because it lets the grief through
+  key_terms: held mourning, honest rest, healing stillness, purposeful pause
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OSS
+
+---
+
 card_pair: 4 of Swords, 4 of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Rest, truce, peace, mental stillness, respite
-numerical_relation: 4-4 (Rest meeting rest; peace enabling mutual recovery)
+numerical_relation: 4 + 4 = 8 (VIII Justice; Rest meeting rest; peace enabling mutual recovery)
 elemental_bridge: Air stillness encountering air stillness; mental rest enabling shared peace
 threshold_type: The mutual respite; shared recovery
 
@@ -39,19 +189,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS
 
 ---
 
 card_pair: 4 of Swords, 5 of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
-numerical_relation: 4-5 (Rest before conflict; peace preceding inevitable struggle)
+numerical_relation: 4 + 5 = 9 (IX The Hermit; Rest before conflict; peace preceding inevitable struggle)
 elemental_bridge: Air stillness meeting air struggle; mental peace before necessary fighting
 threshold_type: The rested combatant; peace enabling clear conflict
 
@@ -64,8 +214,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Conflict demands immediate action; rest demands deferral
   tension_axis: Conflict-urgency versus needed recovery; demanded fighting versus restorative peace
-  swords_position_1: Seeks rest before fighting; wants preparation
-  swords_position_2: Demands immediate combat; refuses delayed engagement
+  four_of_swords_position: Seeks rest before fighting; wants preparation
+  five_of_swords_position: Demands immediate combat; refuses delayed engagement
   key_terms: demanded fighting, delayed engagement, preparation-seeking, incompatible timing
 
 dynamic_inhibition:
@@ -89,19 +239,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS
 
 ---
 
 card_pair: 4 of Swords, 6 of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Travel, transition, movement toward solution, passage, departure
-numerical_relation: 4-6 (Rest before transition; peace enabling conscious passage)
+numerical_relation: 4 + 6 = 10 (X The Wheel of Fortune; Rest before transition; peace enabling conscious passage)
 elemental_bridge: Air stillness meeting air movement; mental pause enabling clear passage
 threshold_type: The prepared traveler; rest enabling conscious transition
 
@@ -114,8 +264,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Transition demands decision; rest demands deferral
   tension_axis: Passage-urgency versus needed preparation; movement-timing versus restorative pause
-  swords_position_1: Seeks rest before departing; wants preparation-time
-  swords_position_2: Calls for immediate passage; demands leaving
+  four_of_swords_position: Seeks rest before departing; wants preparation-time
+  six_of_swords_position: Calls for immediate passage; demands leaving
   key_terms: demanded passage, delayed departure, preparation-seeking, incompatible timing
 
 dynamic_inhibition:
@@ -139,19 +289,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS
 
 ---
 
 card_pair: 4 of Swords, 7 of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Deception, theft, cunning, strategic secrecy, hidden strategy
-numerical_relation: 4-7 (Rest enabling concealment; peace permitting hidden strategy)
+numerical_relation: 4 + 7 = 11 (XI Strength; Rest enabling concealment; peace permitting hidden strategy)
 elemental_bridge: Air stillness meeting air concealment; mental peace enabling strategic hiding
 threshold_type: The peaceful deceiver; rest enabling secrets
 
@@ -164,8 +314,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Deception demands secrecy; rest demands transparency
   tension_axis: Hidden strategy versus restful openness; secretive action versus peaceful honesty
-  swords_position_1: Seeks rest and transparency; wants honesty
-  swords_position_2: Demands secrecy and strategy; requires concealment
+  four_of_swords_position: Seeks rest and transparency; wants honesty
+  seven_of_swords_position: Demands secrecy and strategy; requires concealment
   key_terms: demanded secrecy, sought transparency, incompatible honesty, strategic hiding
 
 dynamic_inhibition:
@@ -189,19 +339,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS
 
 ---
 
 card_pair: 4 of Swords, 8 of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Imprisonment, constraint, mental bondage, restriction, entrapment
-numerical_relation: 4-8 (Rest enabling escape-planning; peace allowing bondage-healing)
+numerical_relation: 4 + 8 = 12 (XII The Hanged Man; Rest enabling escape-planning; peace allowing bondage-healing)
 elemental_bridge: Air stillness meeting air bondage; mental rest enabling liberation-consciousness
 threshold_type: The recovering prisoner; peace enabling freedom-vision
 
@@ -214,8 +364,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Imprisonment demands escape-action; bondage requires immediate freedom-seeking
   tension_axis: Escape-urgency versus restorative pause; liberation-demand versus healing-rest
-  swords_position_1: Seeks rest and recovery before escaping; wants preparation
-  swords_position_2: Demands immediate escape; refuses rest-delay
+  four_of_swords_position: Seeks rest and recovery before escaping; wants preparation
+  eight_of_swords_position: Demands immediate escape; refuses rest-delay
   key_terms: demanded escape, delayed freedom-seeking, preparation-seeking, incompatible urgency
 
 dynamic_inhibition:
@@ -239,19 +389,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS
 
 ---
 
 card_pair: 4 of Swords, 9 of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
-numerical_relation: 4-9 (Rest interrupted by anxiety; peace disturbed by obsession)
+numerical_relation: 4 + 9 = 13 (XIII Death; Rest interrupted by anxiety; peace disturbed by obsession)
 elemental_bridge: Air stillness meeting air torment; mental rest invaded by anxious thought
 threshold_type: The restless mind; peace broken by torment
 
@@ -264,8 +414,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Rest seeks peace; anxiety demands attention
   tension_axis: Peaceful stillness versus anxious intrusion; wanted silence versus tormenting thought
-  swords_position_1: Seeks quiet peace; wants rest from thought
-  swords_position_2: Invades silence with obsession; demands attention-giving
+  four_of_swords_position: Seeks quiet peace; wants rest from thought
+  nine_of_swords_position: Invades silence with obsession; demands attention-giving
   key_terms: demanded attention, sought silence, invaded peace, incompatible rest
 
 dynamic_inhibition:
@@ -289,19 +439,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS
 
 ---
 
 card_pair: 4 of Swords, 10 of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Destruction, ending, inevitable pain, completion through ruin, death-knife
-numerical_relation: 4-10 (Rest before final ending; peace enabling accepted completion)
+numerical_relation: 4 + 10 = 14 (XIV Temperance; Rest before final ending; peace enabling accepted completion)
 elemental_bridge: Air stillness meeting air devastation; mental rest enabling acceptance of death
 threshold_type: The final rest; peace enabling completion
 
@@ -314,8 +464,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Death demands acceptance; rest enables denial
   tension_axis: Final reality versus peaceful escape; inevitable ending versus wanted continuation
-  swords_position_1: Seeks rest from reality; wants continued peace
-  swords_position_2: Brings inescapable ending; demands facing completion
+  four_of_swords_position: Seeks rest from reality; wants continued peace
+  ten_of_swords_position: Brings inescapable ending; demands facing completion
   key_terms: demanded acceptance, sought escape, inevitable reality, incompatible peace
 
 dynamic_inhibition:
@@ -339,19 +489,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS
 
 ---
 
 card_pair: 4 of Swords, Page of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
-numerical_relation: 4-Page (Rest enabling focused inquiry; peace allowing clear learning)
+numerical_relation: 4 + 11 = 15 (XV The Devil; Rest enabling focused inquiry; peace allowing clear learning)
 elemental_bridge: Air stillness meeting air curiosity; mental rest enabling centered exploration
 threshold_type: The rested learner; peace enabling discovery
 
@@ -364,8 +514,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Curiosity demands active exploration; rest demands withdrawal from seeking
   tension_axis: Learning-urgency versus restorative pause; investigation-demand versus restful reflection
-  swords_position_1: Seeks rest and reflection before inquiry; wants contemplative pause
-  swords_position_2: Demands immediate investigation; refuses rest-delay
+  four_of_swords_position: Seeks rest and reflection before inquiry; wants contemplative pause
+  page_of_swords_position: Demands immediate investigation; refuses rest-delay
   key_terms: demanded exploration, sought rest, incompatible timing, needed reflection
 
 dynamic_inhibition:
@@ -389,19 +539,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS
 
 ---
 
 card_pair: 4 of Swords, Knight of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
-numerical_relation: 4-Knight (Rest before action; peace enabling powerful engagement)
+numerical_relation: 4 + 12 = 16 (XVI The Tower; Rest before action; peace enabling powerful engagement)
 elemental_bridge: Air stillness meeting air momentum; mental rest enabling courageous action
 threshold_type: The rested warrior; peace enabling engagement
 
@@ -414,8 +564,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Action demands immediate movement; rest demands continued stillness
   tension_axis: Movement-urgency versus restorative pause; aggressive pursuit versus reflective peace
-  swords_position_1: Seeks rest before aggressive action; wants preparation-time
-  swords_position_2: Demands immediate action; refuses rest-delay
+  four_of_swords_position: Seeks rest before aggressive action; wants preparation-time
+  knight_of_swords_position: Demands immediate action; refuses rest-delay
   key_terms: demanded action, delayed movement, incompatible timing, needed rest
 
 dynamic_inhibition:
@@ -439,19 +589,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS
 
 ---
 
 card_pair: 4 of Swords, Queen of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
-numerical_relation: 4-Queen (Rest enabling mastership; peace allowing wisdom-integration)
+numerical_relation: 4 + 13 = 17 (XVII The Star; Rest enabling mastership; peace allowing wisdom-integration)
 elemental_bridge: Air stillness meeting air mastery; mental rest enabling discernment-sharpening
 threshold_type: The wise rest; peace enabling mastery
 
@@ -464,8 +614,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Mastery demands constant refinement; rest demands withdrawal from practice
   tension_axis: Continued development versus restorative pause; mastery-demand versus reflective peace
-  swords_position_1: Seeks rest from constant refinement; wants reflection-time
-  swords_position_2: Demands continued mastery-development; refuses rest-delay
+  four_of_swords_position: Seeks rest from constant refinement; wants reflection-time
+  queen_of_swords_position: Demands continued mastery-development; refuses rest-delay
   key_terms: demanded development, sought rest, incompatible timing, needed reflection
 
 dynamic_inhibition:
@@ -489,19 +639,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS
 
 ---
 
 card_pair: 4 of Swords, King of Swords
 archetype_swords_1: Rest, truce, peace, mental stillness, respite
 archetype_swords_2: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
-numerical_relation: 4-King (Rest enabling authoritative presence; peace allowing wise dominion)
+numerical_relation: 4 + 14 = 18 (XVIII The Moon; Rest enabling authoritative presence; peace allowing wise dominion)
 elemental_bridge: Air stillness meeting air authority; mental rest enabling commanding wisdom
 threshold_type: The wise sovereign; peace enabling just rule
 
@@ -514,8 +664,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Authority demands constant command; rest demands withdrawal from rule
   tension_axis: Continuous commanding versus restorative pause; authority-demand versus reflective peace
-  swords_position_1: Seeks rest from constant command; wants reflection-time
-  swords_position_2: Demands continuous authority-exercise; refuses rest-delay
+  four_of_swords_position: Seeks rest from constant command; wants reflection-time
+  king_of_swords_position: Demands continuous authority-exercise; refuses rest-delay
   key_terms: demanded authority, sought rest, incompatible timing, needed reflection
 
 dynamic_inhibition:
@@ -539,9 +689,9 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 4-1 through 4-14
-  uid: FOSS
+  uid: 4OSS

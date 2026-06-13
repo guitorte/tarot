@@ -1,7 +1,7 @@
 card_pair: 5 of Swords, Ace of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
-numerical_relation: 5-1 (Conflict preventing opportunity; defeat blocking manifestation)
+numerical_relation: 5 + 1 = 6 (VI The Lovers; Conflict preventing opportunity; defeat blocking manifestation)
 elemental_bridge: Air struggle meeting earth opportunity; contested truth preventing material grounding
 threshold_type: The undermined beginning; conflict destroying opportunity
 
@@ -39,19 +39,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, 2 of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Balance, juggling, flexibility, adaptive exchange, equilibrium
-numerical_relation: 5-2 (Conflict destroying balance; defeat disrupting equilibrium)
+numerical_relation: 5 + 2 = 7 (VII The Chariot; Conflict destroying balance; defeat disrupting equilibrium)
 elemental_bridge: Air struggle meeting earth flexibility; contested victory preventing adaptive flow
 threshold_type: The unbalanced victor; conflict disrupting equilibrium
 
@@ -89,19 +89,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, 3 of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
-numerical_relation: 5-3 (Conflict preventing collaboration; defeat blocking shared craft)
+numerical_relation: 5 + 3 = 8 (VIII Justice; Conflict preventing collaboration; defeat blocking shared craft)
 elemental_bridge: Air struggle meeting earth cooperation; contested victory preventing partnership
 threshold_type: The isolated crafter; conflict blocking cooperation
 
@@ -139,19 +139,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, 4 of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Holding, security, control, possessiveness, guarded resources
-numerical_relation: 5-4 (Conflict threatening security; defeat destroying holdings)
+numerical_relation: 5 + 4 = 9 (IX The Hermit; Conflict threatening security; defeat destroying holdings)
 elemental_bridge: Air struggle meeting earth security; contested victory threatening possession
 threshold_type: The threatened hoarder; conflict destroying security
 
@@ -189,19 +189,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, 5 of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
-numerical_relation: 5-5 (Conflict intensifying hardship; defeat deepening poverty)
+numerical_relation: 5 + 5 = 10 (X The Wheel of Fortune; Conflict intensifying hardship; defeat deepening poverty)
 elemental_bridge: Air struggle meeting earth deprivation; contested victory worsening material loss
 threshold_type: The impoverished fighter; conflict destroying material foundation
 
@@ -239,19 +239,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, 6 of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
-numerical_relation: 5-6 (Conflict preventing sharing; defeat blocking generosity)
+numerical_relation: 5 + 6 = 11 (XI Strength; Conflict preventing sharing; defeat blocking generosity)
 elemental_bridge: Air struggle meeting earth giving; contested victory preventing reciprocal exchange
 threshold_type: The isolated victor; conflict preventing community
 
@@ -289,19 +289,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, 7 of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
-numerical_relation: 5-7 (Conflict destroying long-term vision; defeat destroying investment trust)
+numerical_relation: 5 + 7 = 12 (XII The Hanged Man; Conflict destroying long-term vision; defeat destroying investment trust)
 elemental_bridge: Air struggle meeting earth patience; contested victory preventing trusting process
 threshold_type: The desperate farmer; conflict destroying patience
 
@@ -339,19 +339,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, 8 of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Mastery, skill-development, apprenticeship, dedication, refined craft
-numerical_relation: 5-8 (Conflict preventing mastery; defeat destroying craft-dedication)
+numerical_relation: 5 + 8 = 13 (XIII Death; Conflict preventing mastery; defeat destroying craft-dedication)
 elemental_bridge: Air struggle meeting earth craft; contested victory preventing dedicated practice
 threshold_type: The unskilled fighter; conflict blocking mastery
 
@@ -389,19 +389,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, 9 of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
-numerical_relation: 5-9 (Conflict destroying autonomy; defeat destroying earned independence)
+numerical_relation: 5 + 9 = 14 (XIV Temperance; Conflict destroying autonomy; defeat destroying earned independence)
 elemental_bridge: Air struggle meeting earth independence; contested victory preventing self-sufficiency
 threshold_type: The dependent fighter; conflict preventing autonomy
 
@@ -439,19 +439,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, 10 of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
-numerical_relation: 5-10 (Conflict destroying family; defeat threatening legacy)
+numerical_relation: 5 + 10 = 15 (XV The Devil; Conflict destroying family; defeat threatening legacy)
 elemental_bridge: Air struggle meeting earth legacy; contested victory threatening generational foundation
 threshold_type: The family fighter; conflict destroying inheritance
 
@@ -489,19 +489,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, Page of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
-numerical_relation: 5-Page (Conflict blocking learning; defeat preventing material growth)
+numerical_relation: 5 + 11 = 16 (XVI The Tower; Conflict blocking learning; defeat preventing material growth)
 elemental_bridge: Air struggle meeting earth learning; contested victory preventing skill-development
 threshold_type: The war-interrupted student; conflict blocking education
 
@@ -539,19 +539,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, Knight of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
-numerical_relation: 5-Knight (Conflict preventing service; defeat destroying dedication)
+numerical_relation: 5 + 12 = 17 (XVII The Star; Conflict preventing service; defeat destroying dedication)
 elemental_bridge: Air struggle meeting earth duty; contested victory preventing steady work
 threshold_type: The unreliable servant; conflict destroying commitment
 
@@ -589,19 +589,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, Queen of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-numerical_relation: 5-Queen (Conflict preventing nurturing; defeat destroying care)
+numerical_relation: 5 + 13 = 18 (XVIII The Moon; Conflict preventing nurturing; defeat destroying care)
 elemental_bridge: Air struggle meeting earth nurturing; contested victory preventing generous leadership
 threshold_type: The battle-weary caregiver; conflict destroying compassion
 
@@ -639,19 +639,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP
 
 ---
 
 card_pair: 5 of Swords, King of Pentacles
 archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-numerical_relation: 5-King (Conflict undermining authority; defeat destroying dominion)
+numerical_relation: 5 + 14 = 19 (XIX The Sun; Conflict undermining authority; defeat destroying dominion)
 elemental_bridge: Air struggle meeting earth authority; contested victory threatening rule
 threshold_type: The threatened ruler; conflict undermining dominion
 
@@ -689,9 +689,9 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 5-1 through 5-14
-  uid: FOSP
+  uid: 5OSP

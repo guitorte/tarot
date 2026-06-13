@@ -1,7 +1,7 @@
 card_pair: 3 of Swords, Ace of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
-numerical_relation: 3-1 (Sorrow blocking manifestation; heartbreak preventing prosperity)
+numerical_relation: 3 + 1 = 4 (IV The Emperor; Sorrow blocking manifestation; heartbreak preventing prosperity)
 elemental_bridge: Air pain meeting earth opportunity; emotional suffering preventing material grounding
 threshold_type: The unmaterialized grief; sorrow blocking earthly beginning
 
@@ -39,19 +39,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, 2 of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Balance, juggling, flexibility, adaptive exchange, equilibrium
-numerical_relation: 3-2 (Sorrow disrupting balance; heartbreak destabilizing equilibrium)
+numerical_relation: 3 + 2 = 5 (V The Pope; Sorrow disrupting balance; heartbreak destabilizing equilibrium)
 elemental_bridge: Air pain meeting earth flexibility; emotional suffering disrupting adaptive flow
 threshold_type: The unbalanced griever; sorrow tilting scales
 
@@ -89,19 +89,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, 3 of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
-numerical_relation: 3-3 (Sorrow preventing collaboration; heartbreak blocking partnership)
+numerical_relation: 3 + 3 = 6 (VI The Lovers; Sorrow preventing collaboration; heartbreak blocking partnership)
 elemental_bridge: Air pain meeting earth cooperation; emotional suffering preventing shared craft
 threshold_type: The isolated artisan; sorrow blocking partnership
 
@@ -139,19 +139,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, 4 of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Holding, security, control, possessiveness, guarded resources
-numerical_relation: 3-4 (Sorrow driving desperate clinging; heartbreak causing possessive grip)
+numerical_relation: 3 + 4 = 7 (VII The Chariot; Sorrow driving desperate clinging; heartbreak causing possessive grip)
 elemental_bridge: Air pain meeting earth control; emotional suffering seeking security through holding
 threshold_type: The desperate gripper; grief seeking security in possession
 
@@ -189,19 +189,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, 5 of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
-numerical_relation: 3-5 (Sorrow meeting deprivation; emotional loss compounded by material loss)
+numerical_relation: 3 + 5 = 8 (VIII Justice; Sorrow meeting deprivation; emotional loss compounded by material loss)
 elemental_bridge: Air pain meeting earth deprivation; emotional suffering deepened by material poverty
 threshold_type: The doubly abandoned; grief in scarcity
 
@@ -239,19 +239,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, 6 of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
-numerical_relation: 3-6 (Sorrow preventing generosity; heartbreak blocking sharing)
+numerical_relation: 3 + 6 = 9 (IX The Hermit; Sorrow preventing generosity; heartbreak blocking sharing)
 elemental_bridge: Air pain meeting earth giving; emotional withdrawal preventing reciprocal exchange
 threshold_type: The ungenerous griever; sorrow blocking abundance-sharing
 
@@ -289,19 +289,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, 7 of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
-numerical_relation: 3-7 (Sorrow doubting investment; heartbreak questioning long-term trust)
+numerical_relation: 3 + 7 = 10 (X The Wheel of Fortune; Sorrow doubting investment; heartbreak questioning long-term trust)
 elemental_bridge: Air pain meeting earth patience; emotional loss undermining faith in growth
 threshold_type: The doubting investor; grief questioning long-term
 
@@ -339,19 +339,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, 8 of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Mastery, skill-development, apprenticeship, dedication, refined craft
-numerical_relation: 3-8 (Sorrow blocking dedication; heartbreak preventing mastery-development)
+numerical_relation: 3 + 8 = 11 (XI Strength; Sorrow blocking dedication; heartbreak preventing mastery-development)
 elemental_bridge: Air pain meeting earth craft; emotional suffering preventing skill-commitment
 threshold_type: The grieving apprentice; sorrow blocking mastery-path
 
@@ -389,19 +389,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, 9 of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
-numerical_relation: 3-9 (Sorrow preventing independence; heartbreak blocking solitude-comfort)
+numerical_relation: 3 + 9 = 12 (XII The Hanged Man; Sorrow preventing independence; heartbreak blocking solitude-comfort)
 elemental_bridge: Air pain meeting earth independence; emotional loss undermining self-sufficiency
 threshold_type: The solitary griever; sorrow isolating further
 
@@ -439,19 +439,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, 10 of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
-numerical_relation: 3-10 (Sorrow threatening legacy; heartbreak breaking generational bonds)
+numerical_relation: 3 + 10 = 13 (XIII Death; Sorrow threatening legacy; heartbreak breaking generational bonds)
 elemental_bridge: Air pain meeting earth legacy; emotional loss threatening family continuity
 threshold_type: The grieving heir; sorrow threatening inheritance
 
@@ -489,19 +489,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, Page of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
-numerical_relation: 3-Page (Sorrow blocking curiosity; heartbreak preventing learning)
+numerical_relation: 3 + 11 = 14 (XIV Temperance; Sorrow blocking curiosity; heartbreak preventing learning)
 elemental_bridge: Air pain meeting earth learning; emotional suffering preventing material growth
 threshold_type: The grieving student; sorrow blocking learning
 
@@ -539,19 +539,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, Knight of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
-numerical_relation: 3-Knight (Sorrow preventing dedication; heartbreak blocking reliable service)
+numerical_relation: 3 + 12 = 15 (XV The Devil; Sorrow preventing dedication; heartbreak blocking reliable service)
 elemental_bridge: Air pain meeting earth duty; emotional suffering preventing committed work
 threshold_type: The grieving servant; sorrow blocking service
 
@@ -589,19 +589,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, Queen of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-numerical_relation: 3-Queen (Sorrow preventing nurturing; heartbreak blocking generous leadership)
+numerical_relation: 3 + 13 = 16 (XVI The Tower; Sorrow preventing nurturing; heartbreak blocking generous leadership)
 elemental_bridge: Air pain meeting earth nurturing; emotional suffering preventing abundant care
 threshold_type: The grieving caregiver; sorrow blocking nurturance
 
@@ -639,19 +639,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP
 
 ---
 
 card_pair: 3 of Swords, King of Pentacles
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-numerical_relation: 3-King (Sorrow undermining authority; heartbreak threatening dominion)
+numerical_relation: 3 + 14 = 17 (XVII The Star; Sorrow undermining authority; heartbreak threatening dominion)
 elemental_bridge: Air pain meeting earth dominion; emotional suffering preventing authoritative rule
 threshold_type: The grieving sovereign; sorrow undermining power
 
@@ -689,9 +689,9 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to earth (pentacles)
   numerical_axis: 3-1 through 3-14
-  uid: TOSP
+  uid: 3OSP

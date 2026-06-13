@@ -1,7 +1,7 @@
 card_pair: 3 of Swords, Ace of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Emotional opening, love, receptivity, new feeling, overflowing heart
-numerical_relation: 3-1 (Sorrow preventing emotional opening; heartbreak blocking new love)
+numerical_relation: 3 + 1 = 4 (IV The Emperor; Sorrow preventing emotional opening; heartbreak blocking new love)
 elemental_bridge: Air pain meeting water receptivity; emotional suffering preventing emotional overflow
 threshold_type: The closing heart; sorrow preventing opening
 
@@ -39,19 +39,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, 2 of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Partnership, duality, emotional connection, mutual feeling, balanced union
-numerical_relation: 3-3 (Sorrow threatening partnership; heartbreak breaking emotional bonds)
+numerical_relation: 3 + 2 = 5 (V The Pope; Sorrow threatening partnership; heartbreak breaking emotional bonds)
 elemental_bridge: Air pain meeting water bonding; emotional suffering threatening partnership
 threshold_type: The injured bond; sorrow breaking connection
 
@@ -89,19 +89,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, 3 of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Celebration, joy, emotional communion, friendship, festive togetherness
-numerical_relation: 3-3 (Sorrow preventing celebration; heartbreak blocking joy)
+numerical_relation: 3 + 3 = 6 (VI The Lovers; Sorrow preventing celebration; heartbreak blocking joy)
 elemental_bridge: Air pain meeting water celebration; emotional suffering preventing festive joy
 threshold_type: The joyless gathering; sorrow isolating from celebration
 
@@ -139,19 +139,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, 4 of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Apathy, emotional stagnation, dissatisfaction, withdrawn feeling, boredom
-numerical_relation: 3-4 (Sorrow reinforcing apathy; heartbreak deepening withdrawal)
+numerical_relation: 3 + 4 = 7 (VII The Chariot; Sorrow reinforcing apathy; heartbreak deepening withdrawal)
 elemental_bridge: Air pain meeting water numbness; emotional suffering intensifying disconnection
 threshold_type: The despairing withdrawal; grief deepening numbness
 
@@ -189,19 +189,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, 5 of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Loss, grief, heartbreak, mourning, emotional devastation
-numerical_relation: 3-5 (Grief meeting grief; heartbreak intensifying loss)
+numerical_relation: 3 + 5 = 8 (VIII Justice; Grief meeting grief; heartbreak intensifying loss)
 elemental_bridge: Air pain meeting water sorrow; emotional truth compounding emotional loss
 threshold_type: The doubled wound; grief meeting grief
 
@@ -214,8 +214,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Both grieve; neither can rescue the other from pain
   tension_axis: Both internal; both demanding; mutual vulnerability without mutual solution
-  swords_position_1: Grieves its own loss; cannot relieve the other's pain
-  swords_position_2: Grieves its own loss; cannot rescue the first from sorrow
+  three_of_swords_position: Grieves its own loss; cannot relieve the other's pain
+  five_of_cups_position: Grieves its own loss; cannot rescue the first from sorrow
   key_terms: mutual isolation, mutual grief, shared helplessness, incompatible healing
 
 dynamic_inhibition:
@@ -239,19 +239,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, 6 of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Nostalgia, innocence, reunion, past tenderness, childhood wonder
-numerical_relation: 3-6 (Sorrow preventing nostalgic return; heartbreak blocking reunion)
+numerical_relation: 3 + 6 = 9 (IX The Hermit; Sorrow preventing nostalgic return; heartbreak blocking reunion)
 elemental_bridge: Air pain meeting water memory; emotional loss preventing emotional return
 threshold_type: The lost innocence; sorrow preventing childhood revisit
 
@@ -289,19 +289,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, 7 of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Illusion, temptation, fantasy, confusion, delusional desire
-numerical_relation: 3-7 (Sorrow preventing escape into fantasy; heartbreak blocking illusion)
+numerical_relation: 3 + 7 = 10 (X The Wheel of Fortune; Sorrow preventing escape into fantasy; heartbreak blocking illusion)
 elemental_bridge: Air pain meeting water illusion; emotional truth preventing delusional escape
 threshold_type: The forced reality; grief destroying illusion
 
@@ -339,19 +339,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, 8 of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Abandonment, departure, walking away, chosen leaving, emotional departure
-numerical_relation: 3-8 (Sorrow forcing departure; heartbreak enabling leaving)
+numerical_relation: 3 + 8 = 11 (XI Strength; Sorrow forcing departure; heartbreak enabling leaving)
 elemental_bridge: Air pain meeting water leaving; emotional loss enabling emotional transition
 threshold_type: The forced exodus; grief demanding departure
 
@@ -389,19 +389,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, 9 of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Wish fulfillment, contentment, emotional satisfaction, satisfied desire, achieved happiness
-numerical_relation: 3-9 (Sorrow preventing satisfaction; heartbreak blocking fulfillment)
+numerical_relation: 3 + 9 = 12 (XII The Hanged Man; Sorrow preventing satisfaction; heartbreak blocking fulfillment)
 elemental_bridge: Air pain meeting water contentment; emotional loss preventing satisfaction
 threshold_type: The unsatisfied griever; sorrow blocking happiness
 
@@ -439,19 +439,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, 10 of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Family harmony, happiness, love's fulfillment, emotional completeness, belonging
-numerical_relation: 3-10 (Sorrow threatening family; heartbreak breaking family bonds)
+numerical_relation: 3 + 10 = 13 (XIII Death; Sorrow threatening family; heartbreak breaking family bonds)
 elemental_bridge: Air pain meeting water family; emotional loss threatening family harmony
 threshold_type: The broken family; grief threatening belonging
 
@@ -489,19 +489,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, Page of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Curiosity, emotional exploration, feeling-learning, youthful receptivity, openness
-numerical_relation: 3-Page (Sorrow blocking emotional exploration; heartbreak preventing learning)
+numerical_relation: 3 + 11 = 14 (XIV Temperance; Sorrow blocking emotional exploration; heartbreak preventing learning)
 elemental_bridge: Air pain meeting water curiosity; emotional suffering preventing feeling-learning
 threshold_type: The wounded student; grief blocking emotional discovery
 
@@ -539,19 +539,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, Knight of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Romance, emotional action, passionate pursuit, love-driven action, heart's quest
-numerical_relation: 3-Knight (Sorrow preventing romance; heartbreak blocking passionate pursuit)
+numerical_relation: 3 + 12 = 15 (XV The Devil; Sorrow preventing romance; heartbreak blocking passionate pursuit)
 elemental_bridge: Air pain meeting water passion; emotional loss preventing love-action
 threshold_type: The wounded lover; grief preventing pursuit
 
@@ -589,19 +589,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, Queen of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Emotional mastery, nurturing wisdom, intuitive understanding, emotional authority, compassion
-numerical_relation: 3-Queen (Sorrow enabling emotional wisdom; heartbreak deepening nurturing)
+numerical_relation: 3 + 13 = 16 (XVI The Tower; Sorrow enabling emotional wisdom; heartbreak deepening nurturing)
 elemental_bridge: Air pain meeting water wisdom; emotional loss enabling emotional mastery
 threshold_type: The wounded healer; grief enabling compassion
 
@@ -639,19 +639,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC
 
 ---
 
 card_pair: 3 of Swords, King of Cups
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_cups: Emotional authority, heart's dominion, compassionate power, mastered feeling, authoritative love
-numerical_relation: 3-King (Sorrow threatening emotional authority; heartbreak undermining heart's rule)
+numerical_relation: 3 + 14 = 17 (XVII The Star; Sorrow threatening emotional authority; heartbreak undermining heart's rule)
 elemental_bridge: Air pain meeting water dominion; emotional loss threatening emotional rule
 threshold_type: The wounded sovereign; grief threatening heart's dominion
 
@@ -689,9 +689,9 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 3-1 through 3-14
-  uid: TOSC
+  uid: 3OSC

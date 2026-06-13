@@ -1,7 +1,7 @@
 card_pair: 7 of Swords, Ace of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Gift Appearing, The Opportunity Manifesting, The Earthly Blessing, The Material Seed
-numerical_relation: 7 + Ace = 8 (Strength; the stolen opportunity, the gift taken by cunning)
+numerical_relation: 7 + 1 = 8 (VIII Justice; the stolen opportunity, the gift taken by cunning)
 elemental_bridge: Air's stealth taking Earth's blessing; the opportunity claimed through deception
 threshold_type: The Thief Stealing Opportunity—the gift stolen before it can manifest
 
@@ -20,37 +20,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief possesses the stolen gift but cannot enjoy it; the knowledge of the theft prevents full possession
-  consequence: The Ace of Pentacles is held but not fully experienced; the material blessing is present but is haunted
-  spatial_logic: The thief holding the coin but unable to fully claim it, aware that it is stolen
+  blockade_nature: The Ace of Pentacles is held but not fully experienced; the material blessing is present but is haunted
+  swords_state: The thief holding the coin but unable to fully claim it, aware that it is stolen
+  consequence: the knowledge of the theft prevents full possession
+  key_terms: ace of pentacles is held, thief holding the coin, knowledge of the theft prevents, thief possesses the stolen gift
 
 dynamic_devolution:
   mechanism: The theft gradually destroys the gift; the stolen opportunity becomes a curse; the material blessing transforms into a weight
-  corruption: The Ace of Pentacles is revealed as poisoned; the gift becomes a mark of shame; the material blessing becomes a symbol of unworthiness
+  mode: The Ace of Pentacles is revealed as poisoned; the gift becomes a mark of shame; the material blessing becomes a symbol of unworthiness
   loss: The opportunity is lost not through external force but through the internal corruption created by theft
   key_terms: The poisoned opportunity, cursed blessing, corrupted manifestation, the damned gift
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept that the stolen gift is ultimately hollow; the Ace of Pentacles must offer genuine opportunity to those who claim honestly
-  integration: The thief eventually releases the stolen gift; the Ace's true blessing appears to those willing to receive it honestly
-  paradox: The deepest material blessings emerge for those who accept manifestation as gift rather than conquest; the Ace of Pentacles is most potent when received with gratitude
-  outcome: The thief releases the stolen blessing; the genuine opportunity appears to the honest; both discover that authentic manifestation requires integrity
+  function: The thief eventually releases the stolen gift; the Ace's true blessing appears to those willing to receive it honestly
+  integration_outcome: The thief releases the stolen blessing; the genuine opportunity appears to the honest; both discover that authentic manifestation requires integrity
   key_terms: The released theft, genuine manifestation, the honest claiming, authentic blessing
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, 2 of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Balance Maintained, The Juggling of Resources, The Equilibrium Precarious, The Joy in Mastery
-numerical_relation: 7 + 2 = 9 (Completion; the thief's juggling finally fails)
+numerical_relation: 7 + 2 = 9 (IX The Hermit; the thief's juggling finally fails)
 elemental_bridge: Air's deception meeting Earth's balance; stealth disrupting equilibrium
 threshold_type: The Thief Stealing from the Juggler—deception threatening balance
 
@@ -69,37 +70,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The theft is discovered but the damage is done; the juggler cannot restore the balance because too much has been stolen
-  consequence: The 2 of Pentacles is frozen in the moment of discovering the theft; the balance cannot be recovered
-  spatial_logic: The juggler staring at the empty hand, the stolen resources gone, the balance impossible to maintain
+  blockade_nature: The 2 of Pentacles is frozen in the moment of discovering the theft; the balance cannot be recovered
+  swords_state: The juggler staring at the empty hand, the stolen resources gone, the balance impossible to maintain
+  consequence: the juggler cannot restore the balance because too much has been stolen
+  key_terms: 2 of pentacles is frozen, juggler staring at the empty, juggler cannot restore the balance, theft is discovered
 
 dynamic_devolution:
   mechanism: The theft gradually destroys the juggler's ability to balance; the resources are so depleted that equilibrium becomes impossible
-  corruption: The 2 of Pentacles is completely destroyed; what was balanced mastery becomes desperate chaos
+  mode: The 2 of Pentacles is completely destroyed; what was balanced mastery becomes desperate chaos
   loss: The juggling collapses; the resources are gone; the balance is lost
   key_terms: The collapsed balance, depleted resources, impossible equilibrium, mastery destroyed
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept that theft from those who juggle carefully is ultimately revealed; the 2 of Pentacles must rebuild after discovering dishonesty
-  integration: The juggler restores the balance with honest resources; the thief is expelled from the system
-  paradox: The most careful balance is often that which has survived theft and known betrayal; the 2 of Pentacles is most resilient when aware of deception
-  outcome: The theft is discovered and stopped; the juggler rebuilds; the balance is restored with greater vigilance
+  function: The juggler restores the balance with honest resources; the thief is expelled from the system
+  integration_outcome: The theft is discovered and stopped; the juggler rebuilds; the balance is restored with greater vigilance
   key_terms: The rebuilt balance, expelled thief, honest restoration, the watched juggler
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, 3 of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Collaborative Work, The Team Assembled, The Shared Labor, The Craft Mastered Together
-numerical_relation: 7 + 3 = 10 (Completion; but of what? The theft that destroys collaboration)
+numerical_relation: 7 + 3 = 10 (X The Wheel of Fortune; The theft that destroys collaboration)
 elemental_bridge: Air's deception infiltrating Earth's collaborative space; treachery in the workshop
 threshold_type: The Thief Infiltrating the Team—deception corrupting collaboration
 
@@ -118,37 +120,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The team remains together but the collaboration is poisoned by the knowledge of betrayal; no one trusts
-  consequence: The 3 of Pentacles continues to function technically but the genuine collaboration is dead
-  spatial_logic: The team still working together but each member isolated by suspicion
+  blockade_nature: The 3 of Pentacles continues to function technically but the genuine collaboration is dead
+  swords_state: The team still working together but each member isolated by suspicion
+  consequence: no one trusts
+  key_terms: 3 of pentacles continues, team still working together, no one trusts, team remains together
 
 dynamic_devolution:
   mechanism: The team gradually dissolves as trust cannot be restored; the collaborative work fails
-  corruption: The 3 of Pentacles is completely destroyed; the team breaks apart; the shared labor ends
+  mode: The 3 of Pentacles is completely destroyed; the team breaks apart; the shared labor ends
   loss: The collaborative mastery is lost; the craft cannot be continued
   key_terms: The dissolved team, ended collaboration, lost craft, the broken workshop
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept that infiltrating teams ultimately leads to expulsion; the 3 of Pentacles must rebuild with vigilance and restored trust
-  integration: The thief is removed; the team rebuilds; new members are carefully vetted; collaboration is restored
-  paradox: The strongest teams are often those that have survived and recovered from betrayal; the 3 of Pentacles is most resilient when aware of deception's possibility
-  outcome: The thief is expelled; the team rebuilds with greater care; collaboration is restored with deeper awareness
+  function: The thief is removed; the team rebuilds; new members are carefully vetted; collaboration is restored
+  integration_outcome: The thief is expelled; the team rebuilds with greater care; collaboration is restored with deeper awareness
   key_terms: The expelled thief, rebuilt team, restored collaboration, the strengthened craft
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, 4 of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Possessive Holding, The Fearful Grasping, The Refusal to Release, The Security Hoarded
-numerical_relation: 7 + 4 = 11 (The Hanged One; perspective—the thief cannot steal what is too tightly held)
+numerical_relation: 7 + 4 = 11 (XI Strength; perspective—the thief cannot steal what is too tightly held)
 elemental_bridge: Air's stealth meeting Earth's resistance; deception encountering defended possession
 threshold_type: The Thief Facing Defended Security—cunning against protective grasping
 
@@ -167,37 +170,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief remains in the vicinity, attempting theft but unable to succeed; the hoarder remains vigilant, exhausted by constant fear
-  consequence: A standoff where neither can win; the thief cannot steal and the hoarder cannot rest
-  spatial_logic: The thief circling the hoarder, attempting theft from every angle but unable to penetrate the defense
+  blockade_nature: A standoff where neither can win; the thief cannot steal and the hoarder cannot rest
+  swords_state: The thief circling the hoarder, attempting theft from every angle but unable to penetrate the defense
+  consequence: the hoarder remains vigilant, exhausted by constant fear
+  key_terms: standoff where neither can win, thief circling the hoarder, hoarder remains vigilant, thief remains in the vicinity
 
 dynamic_devolution:
   mechanism: The hoarder's vigilance eventually becomes paranoia; the thief becomes obsessed with penetrating the defense
-  corruption: Both the security and the thievery become pathological; the hoarder is destroyed by fear and the thief is destroyed by obsession
+  mode: Both the security and the thievery become pathological; the hoarder is destroyed by fear and the thief is destroyed by obsession
   loss: The security collapses through paranoia; the theft eventually succeeds through the hoarder's complete breakdown
   key_terms: The paranoid hoarder, obsessed thief, security destroyed, theft through breakdown
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept that some security is impenetrable; the 4 of Pentacles must eventually release the terror
-  integration: The thief departs; the hoarder learns that the greatest security comes from gradual release rather than absolute grasping
-  paradox: The most secure possession is often that which has learned to share; the 4 of Pentacles is most protected when willing to distribute the fear
-  outcome: The thief leaves; the hoarder gradually learns to hold with less desperation; true security is achieved
+  function: The thief departs; the hoarder learns that the greatest security comes from gradual release rather than absolute grasping
+  integration_outcome: The thief leaves; the hoarder gradually learns to hold with less desperation; true security is achieved
   key_terms: The departed thief, released fear, redefined security, the calm hoarder
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, 5 of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Hardship, The Material Struggle, The Poverty of Spirit, The Abandonment in Need
-numerical_relation: 7 + 5 = 12 (The Hanged One; the thief steals from those who have nothing)
+numerical_relation: 7 + 5 = 12 (XII The Hanged Man; the thief steals from those who have nothing)
 elemental_bridge: Air's theft and Earth's deprivation; deception preying on the vulnerable
 threshold_type: The Thief Robbing the Poor—cunning exploiting desperation
 
@@ -216,37 +220,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The theft is complete but the thief is haunted by the crime; the struggling one descends into complete hopelessness
-  consequence: A wound that prevents both from moving forward; the thief is enslaved by guilt and the struggling one is destroyed by despair
-  spatial_logic: The thief carrying the stolen goods but unable to enjoy them; the struggling one lying in deeper desperation
+  blockade_nature: A wound that prevents both from moving forward; the thief is enslaved by guilt and the struggling one is destroyed by despair
+  swords_state: The thief carrying the stolen goods but unable to enjoy them; the struggling one lying in deeper desperation
+  consequence: the struggling one descends into complete hopelessness
+  key_terms: wound that prevents both from, thief carrying the stolen goods, struggling one descends into complete, theft is complete
 
 dynamic_devolution:
   mechanism: The guilt gradually destroys the thief; the despair gradually destroys the struggling one; both are consumed by the theft
-  corruption: The thief eventually becomes as poor as those they stole from; the struggling one ceases to struggle and simply dies
+  mode: The thief eventually becomes as poor as those they stole from; the struggling one ceases to struggle and simply dies
   loss: Both the thief and the struggling one are destroyed by the theft
   key_terms: The self-destroyed thief, the defeated victim, mutual destruction, the finished suffering
 
 dynamic_dependency:
   mechanism: The 7 of Swords must eventually return what was stolen or find redemption through restitution; the 5 of Pentacles must find a way to survive beyond despair
-  integration: The thief returns the stolen goods; the struggling one receives help from unexpected sources; both are restored
-  paradox: The deepest redemption for a thief is often through restitution; the 5 of Pentacles is most healed when the stolen is returned
-  outcome: The thief makes restitution; the struggling one receives aid; both are restored; the wound is healed
+  function: The thief returns the stolen goods; the struggling one receives help from unexpected sources; both are restored
+  integration_outcome: The thief makes restitution; the struggling one receives aid; both are restored; the wound is healed
   key_terms: The restored goods, restitution made, the healed victim, redemption offered
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, 6 of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Gift Given, The Sharing of Abundance, The Generosity Expressed, The Fairness Distributed
-numerical_relation: 7 + 6 = 13 (Death/Transformation; theft from the generous is destruction of faith in giving)
+numerical_relation: 7 + 6 = 13 (XIII Death; theft from the generous is destruction of faith in giving)
 elemental_bridge: Air's theft corrupting Earth's generosity; deception destroying the gift
 threshold_type: The Thief Stealing the Generous One's Gift—betrayal of the open-hearted
 
@@ -265,37 +270,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The generous one continues to give but with internal doubt; the giving is present but the joy is poisoned
-  consequence: The 6 of Pentacles gives but the authentic generosity is compromised by awareness of potential theft
-  spatial_logic: The generous one distributing gifts but checking for thieves, the openness guarded
+  blockade_nature: The 6 of Pentacles gives but the authentic generosity is compromised by awareness of potential theft
+  swords_state: The generous one distributing gifts but checking for thieves, the openness guarded
+  consequence: the giving is present but the joy is poisoned
+  key_terms: 6 of pentacles gives, generous one distributing gifts, giving is present, generous one continues to give
 
 dynamic_devolution:
   mechanism: The generous one stops giving; the generosity is completely destroyed by the betrayal
-  corruption: The 6 of Pentacles transforms from giver to hoarder; the faith in humanity is lost
+  mode: The 6 of Pentacles transforms from giver to hoarder; the faith in humanity is lost
   loss: The generosity dies; what emerges is fearful withholding
   key_terms: The stopped giving, destroyed generosity, lost faith, the fearful hoarder
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept the cruelty of stealing from the generous; the 6 of Pentacles must find a way to restore faith in humanity
-  integration: The thief makes restitution and genuine apology; the generous one gradually restores their giving with greater discernment
-  paradox: The deepest generosity is often that which is given despite the knowledge that some may steal; the 6 of Pentacles is most genuine when giving with awareness
-  outcome: The thief makes restitution; the generous one resumes giving with wiser boundaries; both are transformed
+  function: The thief makes restitution and genuine apology; the generous one gradually restores their giving with greater discernment
+  integration_outcome: The thief makes restitution; the generous one resumes giving with wiser boundaries; both are transformed
   key_terms: The restored faith, restitution accepted, the wiser giver, generosity renewed
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, 7 of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Painstaking Work, The Long-term Investment, The Patience Invested, The Harvest Awaited
-numerical_relation: 7 + 7 = 14 (Moderation; the thief and the worker recognizing each other's patience)
+numerical_relation: 7 + 7 = 14 (XIV Temperance; the thief and the worker recognizing each other's patience)
 elemental_bridge: Air's stealth and Earth's cultivation meeting in delayed understanding
 threshold_type: The Thief Stealing the Harvest—cunning robbing the patient one's labor
 
@@ -314,37 +320,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The worker continues to labor but the thief continues to steal; both are trapped in the repetition
-  consequence: An endless cycle where the worker labors and the thief steals; neither can break the pattern
-  spatial_logic: The worker tending the garden; the thief harvesting at night; the cycle continuing indefinitely
+  blockade_nature: An endless cycle where the worker labors and the thief steals; neither can break the pattern
+  swords_state: The worker tending the garden; the thief harvesting at night; the cycle continuing indefinitely
+  consequence: both are trapped in the repetition
+  key_terms: endless cycle where the worker, worker tending the garden, both are trapped, worker continues to labor
 
 dynamic_devolution:
   mechanism: The worker's patience is gradually destroyed by the theft; the thief becomes dependent on stolen goods
-  corruption: The 7 of Pentacles stops working; the thief starves when the harvest ceases; both are destroyed by the parasitism
+  mode: The 7 of Pentacles stops working; the thief starves when the harvest ceases; both are destroyed by the parasitism
   loss: Both the work and the theft are destroyed; the cycle ends in mutual collapse
   key_terms: The stopped work, starving thief, collapsed cycle, mutual destruction
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept that stealing from the patient destroys the source of stolen goods; the 7 of Pentacles must confront their own vulnerability
-  integration: The thief stops stealing and joins the work; the worker teaches the thief patience; both labor together
-  paradox: The deepest appreciation for labor comes from attempting to steal its fruits; the 7 of Pentacles is most secure when the thief becomes a worker
-  outcome: The thief is caught and offered work; both labor together; the harvest is shared; both are sustained
+  function: The thief stops stealing and joins the work; the worker teaches the thief patience; both labor together
+  integration_outcome: The thief is caught and offered work; both labor together; the harvest is shared; both are sustained
   key_terms: The converted thief, shared labor, the working partnership, harvest shared
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, 8 of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Mastery, The Skill Refined, The Apprentice Becoming, The Craft Perfected
-numerical_relation: 7 + 8 = 15 (The Devil reversed; the thief learning the craft instead of stealing)
+numerical_relation: 7 + 8 = 15 (XV The Devil; the thief learning the craft instead of stealing)
 elemental_bridge: Air's stealth meeting Earth's mastery; cunning learning discipline
 threshold_type: The Thief Apprenticing—deception transformed into craftsmanship
 
@@ -363,37 +370,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief attempts apprenticeship but steals while learning; the progress is compromised by the dishonesty
-  consequence: An apprenticeship that is technically happening but spiritually false; the skill is learned but the integrity is missing
-  spatial_logic: The thief learning the craft while secretly stealing materials and knowledge
+  blockade_nature: An apprenticeship that is technically happening but spiritually false; the skill is learned but the integrity is missing
+  swords_state: The thief learning the craft while secretly stealing materials and knowledge
+  consequence: the progress is compromised by the dishonesty
+  key_terms: apprenticeship that is technically happening, thief learning the craft, progress is compromised, thief attempts apprenticeship but steals
 
 dynamic_devolution:
   mechanism: The thief's theft is discovered; the apprenticeship is ended; the thief is expelled from the craft
-  corruption: The opportunity for transformation is lost; the thief returns to pure theft; the craft is protected but the thief is unchanged
+  mode: The opportunity for transformation is lost; the thief returns to pure theft; the craft is protected but the thief is unchanged
   loss: Both the potential mastery and the thief's redemption are destroyed
   key_terms: The expelled apprentice, lost transformation, returned theft, the unchanged thief
 
 dynamic_dependency:
   mechanism: The 7 of Swords must genuinely accept the apprenticeship without theft; the 8 of Pentacles must offer genuine opportunity to learn
-  integration: The thief learns the craft honestly; the discipline gradually transforms the thief's nature; mastery is achieved through genuine effort
-  paradox: The deepest mastery often comes to those who have known theft and chosen craft instead; the 8 of Pentacles is most complete when teaching reformed thieves
-  outcome: The thief completes the apprenticeship; the mastery is earned; the thief becomes a craftsperson; both are transformed
+  function: The thief learns the craft honestly; the discipline gradually transforms the thief's nature; mastery is achieved through genuine effort
+  integration_outcome: The thief completes the apprenticeship; the mastery is earned; the thief becomes a craftsperson; both are transformed
   key_terms: The earned mastery, completed apprenticeship, the reformed thief, craftsmanship honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, 9 of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Earned Abundance, The Solitary Success, The Independence Achieved, The Prosperity Established
-numerical_relation: 7 + 9 = 16 (The Tower; the self-made wealth destroyed by theft)
+numerical_relation: 7 + 9 = 16 (XVI The Tower; the self-made wealth destroyed by theft)
 elemental_bridge: Air's theft undermining Earth's foundation; deception destroying earned security
 threshold_type: The Thief Stealing from the Self-Made—cunning destroying hard-won independence
 
@@ -412,37 +420,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The self-made one increases their vigilance; the thief cannot steal again but remains a presence
-  consequence: The independence is preserved but is now shadowed by wariness; the solitude is no longer peaceful
-  spatial_logic: The self-made one alone in their garden but constantly checking for the thief
+  blockade_nature: The independence is preserved but is now shadowed by wariness; the solitude is no longer peaceful
+  swords_state: The self-made one alone in their garden but constantly checking for the thief
+  consequence: the thief cannot steal again but remains a presence
+  key_terms: independence is preserved, self-made one alone, thief cannot steal again, self-made one increases their vigilance
 
 dynamic_devolution:
   mechanism: The repeated theft attempts gradually destroy the self-made one's ability to remain independent
-  corruption: The prosperity is eventually lost through defensive measures; the independence becomes isolation
+  mode: The prosperity is eventually lost through defensive measures; the independence becomes isolation
   loss: The 9 of Pentacles is destroyed; the self-made one loses everything in the attempt to protect it
   key_terms: The destroyed independence, lost prosperity, the isolated failure, the undone work
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept that stealing from the self-made destroys the very security being robbed; the 9 of Pentacles must find a way to balance independence with community
-  integration: The thief is prevented from theft; the self-made one learns that true independence includes boundaries and community awareness
-  paradox: The most secure independence is often that which includes vulnerability to others; the 9 of Pentacles is most stable when willing to accept help
-  outcome: The theft is prevented; the independence is maintained through awareness; the prosperity is preserved; both are transformed by the encounter
+  function: The thief is prevented from theft; the self-made one learns that true independence includes boundaries and community awareness
+  integration_outcome: The theft is prevented; the independence is maintained through awareness; the prosperity is preserved; both are transformed by the encounter
   key_terms: The protected independence, preserved prosperity, the wary success, security honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, 10 of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Family Legacy, The Generational Wealth, The Inheritance Received, The Dynasty Established
-numerical_relation: 7 + 10 = 17 (The Star; the thief destroying the inherited legacy through theft)
+numerical_relation: 7 + 10 = 17 (XVII The Star; the thief destroying the inherited legacy through theft)
 elemental_bridge: Air's stealth infiltrating Earth's legacy; deception targeting family wealth
 threshold_type: The Thief Destroying Legacy—cunning corrupting inherited security
 
@@ -461,37 +470,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The family remains intact but the knowledge of theft prevents the peaceful passing of inheritance
-  consequence: The legacy is technically preserved but is shadowed by the violation of trust
-  spatial_logic: The family gathered around the inheritance but unable to truly receive it peacefully
+  blockade_nature: The legacy is technically preserved but is shadowed by the violation of trust
+  swords_state: The family gathered around the inheritance but unable to truly receive it peacefully
+  consequence: neither figure can move toward the other; the meeting stalls
+  key_terms: legacy is technically preserved, family gathered around the inheritance, neither figure can move toward, family remains intact
 
 dynamic_devolution:
   mechanism: The theft gradually destroys the family unity; the generations become divided by suspicion
-  corruption: The 10 of Pentacles is completely destroyed; the family breaks apart; the legacy is lost through internal conflict
+  mode: The 10 of Pentacles is completely destroyed; the family breaks apart; the legacy is lost through internal conflict
   loss: The inheritance is lost not to the thief but to the family's dissolution
   key_terms: The divided family, broken inheritance, destroyed dynasty, the dissolved legacy
 
 dynamic_dependency:
   mechanism: The 7 of Swords must be prevented from stealing; the 10 of Pentacles must rebuild the family bonds through transparency
-  integration: The theft is stopped; the family confronts the violation; the legacy is passed forward with greater integrity
-  paradox: The strongest legacies are often those that have survived and recovered from betrayal; the 10 of Pentacles is most secure when built on resilience
-  outcome: The thief is expelled; the family heals; the inheritance is passed with renewed commitment; the legacy is honored
+  function: The theft is stopped; the family confronts the violation; the legacy is passed forward with greater integrity
+  integration_outcome: The thief is expelled; the family heals; the inheritance is passed with renewed commitment; the legacy is honored
   key_terms: The protected legacy, healed family, the strengthened inheritance, dynasty renewed
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, Page of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Student Seeker, The Young Apprentice, The Potential Emerging, The First Opportunity
-numerical_relation: 7 + Page = The thief and the young seeker; cunning and innocence
+numerical_relation: 7 + 11 = 18 (XVIII The Moon; cunning and innocence)
 elemental_bridge: Air's deception meeting Earth's innocence; stealth exploiting naivete
 threshold_type: The Thief Corrupting the Student—cunning preying on youthful innocence
 
@@ -510,37 +520,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The Page remains with the thief but is aware of the corruption; the apprenticeship is technically continuing but is morally compromised
-  consequence: A learning that is hollow; the Page absorbs lessons of dishonesty alongside genuine craft knowledge
-  spatial_logic: The young seeker learning with the thief but increasingly suspicious and withdrawn
+  blockade_nature: A learning that is hollow; the Page absorbs lessons of dishonesty alongside genuine craft knowledge
+  swords_state: The young seeker learning with the thief but increasingly suspicious and withdrawn
+  consequence: the apprenticeship is technically continuing but is morally compromised
+  key_terms: learning that is hollow, young seeker learning, apprenticeship is technically continuing, page remains with the thief
 
 dynamic_devolution:
   mechanism: The Page's innocence is completely destroyed by the deception; the young seeker becomes a thief themselves
-  corruption: The Page is transformed from innocent seeker into corrupted accomplice; the cycle of theft continues through the next generation
+  mode: The Page is transformed from innocent seeker into corrupted accomplice; the cycle of theft continues through the next generation
   loss: The innocence is lost; the potential for genuine apprenticeship is destroyed
   key_terms: The corrupted youth, inherited theft, the damaged student, the cycle continues
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept that corrupting innocence creates only damaged people; the Page of Pentacles must find a way to restore their own integrity
-  integration: The Page breaks free from the thief; genuine teaching becomes possible; the young seeker finds an honest mentor
-  paradox: The most resilient students are often those who have survived corrupted teaching and learned to discern truth from deception
-  outcome: The Page escapes the thief; honest apprenticeship begins; the student's integrity is restored; both are transformed
+  function: The Page breaks free from the thief; genuine teaching becomes possible; the young seeker finds an honest mentor
+  integration_outcome: The Page escapes the thief; honest apprenticeship begins; the student's integrity is restored; both are transformed
   key_terms: The freed student, restored integrity, honest apprenticeship, innocence reclaimed
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, Knight of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Steady Rider, The Cautious Warrior, The Responsible Steward, The Grounded Quester
-numerical_relation: 7 + Knight = 9 (Completion; the cautious one eventually detecting the thief)
+numerical_relation: 7 + 12 = 19 (XIX The Sun; the cautious one eventually detecting the thief)
 elemental_bridge: Air's stealth meeting Earth's carefulness; deception eventually discovered by vigilance
 threshold_type: The Thief Encountering the Careful Guardian—cunning against caution
 
@@ -559,37 +570,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief remains in the vicinity, attempting theft but unable to succeed; the Knight remains vigilant, exhausted
-  consequence: A standoff where neither can win; the thief cannot steal and the guardian cannot rest
-  spatial_logic: The thief circling the Knight; the Knight constantly checking for theft; both tired
+  blockade_nature: A standoff where neither can win; the thief cannot steal and the guardian cannot rest
+  swords_state: The thief circling the Knight; the Knight constantly checking for theft; both tired
+  consequence: the Knight remains vigilant, exhausted
+  key_terms: standoff where neither can win, thief circling the knight, knight remains vigilant, thief remains in the vicinity
 
 dynamic_devolution:
   mechanism: The Knight's caution gradually becomes paranoia; the thief becomes obsessed with penetrating the defense
-  corruption: Both the defense and the theft become pathological; the Knight is destroyed by paranoia and the thief by obsession
+  mode: Both the defense and the theft become pathological; the Knight is destroyed by paranoia and the thief by obsession
   loss: The caution collapses through paranoia; the theft eventually succeeds through the guardian's breakdown
   key_terms: The paranoid guardian, obsessed thief, broken caution, the defeated defense
 
 dynamic_dependency:
   mechanism: The 7 of Swords must eventually depart or be stopped; the Knight of Pentacles must find a way to maintain caution without paranoia
-  integration: The thief is caught or leaves; the guardian learns that true caution includes trust in one's own strength
-  paradox: The most careful guardians are often those who have survived theft and learned that balance is stronger than paranoia
-  outcome: The thief departs or is stopped; the Knight learns to be cautious without paranoia; both are transformed by the encounter
+  function: The thief is caught or leaves; the guardian learns that true caution includes trust in one's own strength
+  integration_outcome: The thief departs or is stopped; the Knight learns to be cautious without paranoia; both are transformed by the encounter
   key_terms: The cautious victory, balanced defense, the departed thief, the strengthened guardian
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, Queen of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Nurturing Presence, The Earthly Abundance, The Caretaker, The Grounded Sovereignty
-numerical_relation: 7 + Queen = 12 (The Hanged One; perspective—the Queen understanding the thief's desperation)
+numerical_relation: 7 + 13 = 20 (XX Judgement; perspective—the Queen understanding the thief's desperation)
 elemental_bridge: Air's theft meeting Earth's compassion; deception encountered by understanding
 threshold_type: The Thief Meeting the Queen's Compassion—cunning softened by empathy
 
@@ -608,37 +620,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The Queen gives compassionately but the thief takes dishonestly; both are engaged but the relationship is false
-  consequence: A dynamic where the Queen's abundance feeds the thief's greed; the compassion is genuine but enables theft
-  spatial_logic: The Queen providing abundance; the thief secretly stealing more while receiving the Queen's gifts
+  blockade_nature: A dynamic where the Queen's abundance feeds the thief's greed; the compassion is genuine but enables theft
+  swords_state: The Queen providing abundance; the thief secretly stealing more while receiving the Queen's gifts
+  consequence: both are engaged but the relationship is false
+  key_terms: dynamic where the queen's abundance, queen providing abundance, both are engaged, queen gives compassionately
 
 dynamic_devolution:
   mechanism: The Queen's compassion is gradually destroyed by the continued theft; the Queen becomes bitter
-  corruption: The Queen's nurturing is corrupted into enabling; the thief is corrupted into complete parasitism
+  mode: The Queen's nurturing is corrupted into enabling; the thief is corrupted into complete parasitism
   loss: Both the compassion and the thief's redemption are destroyed
   key_terms: The destroyed compassion, enabled theft, the embittered queen, the hardened thief
 
 dynamic_dependency:
   mechanism: The 7 of Swords must eventually accept the Queen's genuine compassion; the Queen must set boundaries that prevent exploitation
-  integration: The Queen offers compassion with firmness; the thief is given opportunity without permission to steal; redemption becomes possible
-  paradox: The most effective compassion often comes with clear boundaries; the Queen of Pentacles is most nurturing when offering help without enabling theft
-  outcome: The thief accepts the Queen's compassion; boundaries are established; the thief is redeemed; both are honored
+  function: The Queen offers compassion with firmness; the thief is given opportunity without permission to steal; redemption becomes possible
+  integration_outcome: The thief accepts the Queen's compassion; boundaries are established; the thief is redeemed; both are honored
   key_terms: The honored compassion, established boundaries, the redeemed thief, the wise queen
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP
 
 ---
 
 card_pair: 7 of Swords, King of Pentacles
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_pentacles: The Material Authority, The Earthly Ruler, The Sovereign of Prosperity, The Master of Domain
-numerical_relation: 7 + King = 13 (Death/Transformation; the thief challenging the King's rule)
+numerical_relation: 7 + 14 = 21 (XXI The World; the thief challenging the King's rule)
 elemental_bridge: Air's cunning meeting Earth's authority; deception challenging sovereignty
 threshold_type: The Thief Defying the King—cunning against power
 
@@ -657,27 +670,28 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief remains free but cannot use the stolen goods; the King remains in power but is constantly threatened
-  consequence: A cold war where neither can fully defeat the other; the King rules but with awareness of vulnerability
-  spatial_logic: The King on his throne but constantly watching for the thief; the thief free but unable to enjoy the stolen goods
+  blockade_nature: A cold war where neither can fully defeat the other; the King rules but with awareness of vulnerability
+  swords_state: The King on his throne but constantly watching for the thief; the thief free but unable to enjoy the stolen goods
+  consequence: the King remains in power but is constantly threatened
+  key_terms: cold war where neither can, king on his throne, king remains in power, thief remains free but cannot
 
 dynamic_devolution:
   mechanism: The King becomes increasingly tyrannical in his pursuit of the thief; the thief becomes increasingly desperate
-  corruption: The rule is corrupted by the obsession with capturing the thief; the kingdom suffers from the instability
+  mode: The rule is corrupted by the obsession with capturing the thief; the kingdom suffers from the instability
   loss: Both the King's rule and the thief's freedom are destroyed by the conflict
   key_terms: The tyrannical king, desperate thief, the destroyed kingdom, mutual loss
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept capture or exile; the King of Pentacles must find a way to rule that acknowledges vulnerability
-  integration: The thief is captured and offered a choice: exile or service; the King learns that true sovereignty includes accepting imperfection
-  paradox: The strongest rulers are often those who have survived challenges to their authority; the King of Pentacles is most secure when acknowledging that theft is possible
-  outcome: The thief accepts service to the King; the King learns wisdom through the challenge; the kingdom is strengthened
+  function: The thief is captured and offered a choice: exile or service; the King learns that true sovereignty includes accepting imperfection
+  integration_outcome: The thief accepts service to the King; the King learns wisdom through the challenge; the kingdom is strengthened
   key_terms: The accepted capture, offered service, the wiser king, stability restored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 7 of Swords (deception, theft) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSP

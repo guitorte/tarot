@@ -1,7 +1,7 @@
 card_pair: 5 of Swords, Ace of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Pure Inspiration, The Creative Spark, The Potent Beginning, The Divine Fire Descending
-numerical_relation: 5 + Ace = 6 (The Lovers, but inverted; inspiration meets conflict and is divided)
+numerical_relation: 5 + 1 = 6 (VI The Lovers; inspiration meets conflict and is divided)
 elemental_bridge: Air's bitterness extinguishing Fire's spark before it can ignite; clarity that kills creativity
 threshold_type: The Inspiration Arriving Too Late—the creative fire appearing in a soul already scarred by battle
 
@@ -20,37 +20,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The creative fire is allowed to exist but not to be acted upon; the victor receives the inspiration but cannot manifest it, cannot trust it enough to build something with it
-  consequence: A fire that burns internally without spreading; the creative potential is locked within the victor, producing an internal burning that has no outlet
-  spatial_logic: The flame existing in the victor's chest but their hands remain clenched, unable to grasp the spark or share it with the world
+  blockade_nature: A fire that burns internally without spreading; the creative potential is locked within the victor, producing an internal burning that has no outlet
+  swords_state: The flame existing in the victor's chest but their hands remain clenched, unable to grasp the spark or share it with the world
+  consequence: the victor receives the inspiration but cannot manifest it, cannot trust it enough to build something with it
+  key_terms: fire that burns internally without, flame existing in the victor's, victor receives the inspiration, creative fire is allowed
 
 dynamic_devolution:
   mechanism: The refused inspiration metastasizes into bitterness toward creativity itself; the Ace of Wands is gradually extinguished by the victor's refusal; what could have been transformative becomes destructive
-  corruption: The creative potential turns inward and becomes destructive; the fire becomes a fever that consumes the victor from within; the Ace of Wands devolves into addiction or obsession
+  mode: The creative potential turns inward and becomes destructive; the fire becomes a fever that consumes the victor from within; the Ace of Wands devolves into addiction or obsession
   loss: The possibility of transforming the conflict through creation is destroyed; what remains is the bitter isolation of one who refused the offer of renewal
   key_terms: The rejected renewal, creativity turned inward, the extinguished spark, burning without light
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually allow the Ace of Wands' inspiration to move beyond cynicism; the creative fire must prove itself resilient enough to survive the victor's skepticism
-  integration: A slow acceptance that some inspiration is genuinely real, that some creative fires are not traps but genuine pathways to transformation; the victor gradually learns to trust their own creative impulse
-  paradox: The most powerful art often comes from those who have survived and can now create; the strongest creativity is that which emerges from conflict and honors its depth
-  outcome: The victor finally grasps the spark; the creative fire becomes the vehicle for transformation; the bitter experience is transmuted through art into something that can teach or heal others
+  function: A slow acceptance that some inspiration is genuinely real, that some creative fires are not traps but genuine pathways to transformation; the victor gradually learns to trust their own creative impulse
+  integration_outcome: The victor finally grasps the spark; the creative fire becomes the vehicle for transformation; the bitter experience is transmuted through art into something that can teach or heal others
   key_terms: The artist emerges, the survivor's voice, creation as testimony, inspiration finally acted upon
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, 2 of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Ambitious Planning, The Next Move Considered, The Power Held in Reserve, The Vision of Future
-numerical_relation: 5 + 2 = 7 (The Chariot; but the future envisioned is tainted by the past conflict)
+numerical_relation: 5 + 2 = 7 (VII The Chariot; but the future envisioned is tainted by the past conflict)
 elemental_bridge: Air providing clarity for Fire's planning, but the clarity is about danger rather than opportunity
 threshold_type: The Strategist Born from Conflict—the victor planning the next move from a position of hard-won knowledge
 
@@ -69,37 +70,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The planning is incomplete; the 2 of Wands' vision is held in check by the 5 of Swords' insistence on accounting for every possible failure; the strategy becomes paralyzed by overcaution
-  consequence: A plan that exists but cannot be executed because every possible scenario is hedged with contingencies; the vision becomes so complicated by safety measures that it becomes unworkable
-  spatial_logic: The strategist holding the orbs of future power but unable to move forward because the victor is insisting on fortifying every possible approach
+  blockade_nature: A plan that exists but cannot be executed because every possible scenario is hedged with contingencies; the vision becomes so complicated by safety measures that it becomes unworkable
+  swords_state: The strategist holding the orbs of future power but unable to move forward because the victor is insisting on fortifying every possible approach
+  consequence: the strategy becomes paralyzed by overcaution
+  key_terms: plan that exists but cannot, strategist holding the orbs, strategy becomes paralyzed by overcaution, planning is incomplete
 
 dynamic_devolution:
   mechanism: The vision is gradually corrupted by the victor's cynicism; the strategic planning becomes obsessed with defense rather than opportunity; the 2 of Wands becomes a map of all possible catastrophes
-  corruption: The future vision transforms into a projection of disaster; every plan is a contingency against failure; the ambition dies under the weight of anticipated defeat
+  mode: The future vision transforms into a projection of disaster; every plan is a contingency against failure; the ambition dies under the weight of anticipated defeat
   loss: The capacity for genuine strategic vision is destroyed; what remains is a defensive crouch, a series of bunkers rather than a vision of future power
   key_terms: The defensive planner, vision consumed by fear, strategy as fortification, ambition paralyzed
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that the 2 of Wands' vision can survive contact with reality; the strategist must incorporate the victor's hard-won knowledge into their planning without abandoning the vision
-  integration: A vision that includes both the possibility of success and the account of real dangers; planning that is ambitious but grounded, strategic but flexible
-  paradox: The most effective strategy is often created by those who have experienced defeat and can therefore plan realistically; the vision is most powerful when it accounts for human fallibility
-  outcome: A collaborative strategy where the victor's experience strengthens rather than weakens the vision; the two of wands becomes a powerful tool held by hands that know both fire and scar
+  function: A vision that includes both the possibility of success and the account of real dangers; planning that is ambitious but grounded, strategic but flexible
+  integration_outcome: A collaborative strategy where the victor's experience strengthens rather than weakens the vision; the two of wands becomes a powerful tool held by hands that know both fire and scar
   key_terms: The powerful strategy, vision grounded in reality, strategic thinking informed by experience, the ambitious survivor
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, 3 of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Expansion, The Distant Horizons, The Trading Routes, The Empire Built on Exchange
-numerical_relation: 5 + 3 = 8 (Strength, but of what kind? The strength to expand or the strength to defend what is already won?)
+numerical_relation: 5 + 3 = 8 (VIII Justice; )
 elemental_bridge: Air's separation meeting Fire's reaching; the victor unable to embrace the expansion
 threshold_type: The Empire Defended Against Expansion—victory so costly that growth feels dangerous
 
@@ -118,37 +120,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The expansion is allowed but remains incomplete; the 3 of Wands gazes at the distant horizons but cannot fully embrace them because the victor insists on first securing the foundations
-  consequence: An empire suspended in the moment of reaching; the growth is stunted by excessive caution; the horizons remain distant, beautiful but unreachable
-  spatial_logic: The figure standing before three wands, arms extended toward the horizon but unable to step forward because the victor is securing the ground beneath their feet
+  blockade_nature: An empire suspended in the moment of reaching; the growth is stunted by excessive caution; the horizons remain distant, beautiful but unreachable
+  swords_state: The figure standing before three wands, arms extended toward the horizon but unable to step forward because the victor is securing the ground beneath their feet
+  consequence: the 3 of Wands gazes at the distant horizons but cannot fully embrace them because the victor insists on first securing the foundations
+  key_terms: empire suspended in the moment, figure standing before three wands, 3 of wands gazes at, expansion is allowed
 
 dynamic_devolution:
   mechanism: The expansion stagnates completely; the 3 of Wands' vision dies under the weight of defensive measures; the empire becomes a fortress, beautiful from inside but closed to the world
-  corruption: The vigilance metastasizes into paranoia; every distant ship is a potential threat; the peaceful trade routes are fortified into military checkpoints; the 3 of Wands transforms into a paranoid defense
+  mode: The vigilance metastasizes into paranoia; every distant ship is a potential threat; the peaceful trade routes are fortified into military checkpoints; the 3 of Wands transforms into a paranoid defense
   loss: The possibility of genuine growth and connection beyond the current borders is destroyed; the empire becomes isolated and inward-turning
   key_terms: The isolated empire, growth denied, paranoid defense, horizons closed
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that the 3 of Wands' expansion is possible with proper defense; the expansionist must accept that the victor's vigilance comes from genuine experience
-  integration: An empire that grows carefully but continuously; expansion that is both ambitious and protected; the horizons remain distant but achievable
-  paradox: The strongest empires are often those that have survived conflict and learned to balance growth with security; expansion that acknowledges danger but pursues it anyway
-  outcome: The figure steps forward toward the horizons; the expansion continues under the guardian's eye; the empire grows and strengthens through both the pursuit of new territory and the defense of what is won
+  function: An empire that grows carefully but continuously; expansion that is both ambitious and protected; the horizons remain distant but achievable
+  integration_outcome: The figure steps forward toward the horizons; the expansion continues under the guardian's eye; the empire grows and strengthens through both the pursuit of new territory and the defense of what is won
   key_terms: The secured expansion, strategic growth, defended horizons, the empire that reaches and holds
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, 4 of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Celebration of Work, The Harvest Home, The Stability Achieved, The Community Gathered
-numerical_relation: 5 + 4 = 9 (Completion, but of what? The temporary peace after conflict, not the permanent celebration)
+numerical_relation: 5 + 4 = 9 (IX The Hermit; The temporary peace after conflict, not the permanent celebration)
 elemental_bridge: Air threatening Fire's celebration; the victor unable to enjoy the fruits of labor
 threshold_type: The Survivor at the Festival—the victor invited to celebrate but unable to lower their guard
 
@@ -167,37 +170,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The celebration becomes a performance; the victor is invited to participate but cannot; the community gathers around the harvest but the victor remains outside, watching
-  consequence: A false celebration where joy is performed while the victor stands guard; the 4 of Wands becomes a stage set rather than a genuine gathering
-  spatial_logic: The community gathered around a central fire while the victor circles the perimeter, unable to join the circle
+  blockade_nature: A false celebration where joy is performed while the victor stands guard; the 4 of Wands becomes a stage set rather than a genuine gathering
+  swords_state: The community gathered around a central fire while the victor circles the perimeter, unable to join the circle
+  consequence: the community gathers around the harvest but the victor remains outside, watching
+  key_terms: false celebration where joy, community gathered around a central, community gathers around the harvest, celebration becomes a performance
 
 dynamic_devolution:
   mechanism: The celebration curdles; the victor's isolation becomes contagious; the 4 of Wands transforms from a gathering of joy into a gathering of obligation; the harvest becomes heavy rather than light
-  corruption: The work is completed but its fruits taste like ashes; the community gathering becomes a reminder of all that was lost to achieve it; the celebration transforms into a wake
+  mode: The work is completed but its fruits taste like ashes; the community gathering becomes a reminder of all that was lost to achieve it; the celebration transforms into a wake
   loss: The capacity to genuinely enjoy the fruits of labor is destroyed; what remains is the bitter knowledge that the victory came at a price
   key_terms: The celebration turned to mourning, joy poisoned, the harvest of sorrow, work's bitter fruit
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that celebration includes the permission to temporarily set down the weapons; the 4 of Wands must make room for the grief that shadows the joy
-  integration: A celebration that includes both the joy of harvest and the acknowledgment of its cost; a gathering where the victor is welcomed as a full participant without the requirement to forget
-  paradox: The deepest celebrations are often those where joy and sorrow coexist; the most genuine harvest is honored by those who know what starvation would cost
-  outcome: The victor finally sets down the weapons and joins the circle; the celebration is real and includes the depth that only one who has fought can bring to it
+  function: A celebration that includes both the joy of harvest and the acknowledgment of its cost; a gathering where the victor is welcomed as a full participant without the requirement to forget
+  integration_outcome: The victor finally sets down the weapons and joins the circle; the celebration is real and includes the depth that only one who has fought can bring to it
   key_terms: The honest celebration, joy with depth, the victor's participation, the feast honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, 5 of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Internal Conflict, The Creative Competition, The Clashing Wills, The Struggle for Dominance
-numerical_relation: 5 + 5 = 10 (Completion, but of conflict compounded; two forms of struggle acknowledging each other)
+numerical_relation: 5 + 5 = 10 (X The Wheel of Fortune; two forms of struggle acknowledging each other)
 elemental_bridge: Air's clarity meeting Fire's struggle; conflict recognizing its own reflection
 threshold_type: The War Within War—the external victor encountering the internal conflict
 
@@ -216,37 +220,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: Both forms of struggle are arrested by the other's presence; the victor's certainty prevents growth in the internal strugglers; the internal strife frustrates the victor's attempts to create external order
-  consequence: A mutual paralysis where neither the victor nor the strugglers can move forward; the external victory is shadowed by the knowledge that internal conflicts persist; the internal struggles are shadowed by the knowledge that they may be mere weakness
-  spatial_logic: Five wands clashing at a central point while the victor stands at the periphery, unable to step into the struggle or move beyond it
+  blockade_nature: A mutual paralysis where neither the victor nor the strugglers can move forward; the external victory is shadowed by the knowledge that internal conflicts persist; the internal struggles are shadowed by the knowledge that they may be mere weakness
+  swords_state: Five wands clashing at a central point while the victor stands at the periphery, unable to step into the struggle or move beyond it
+  consequence: the internal strife frustrates the victor's attempts to create external order
+  key_terms: mutual paralysis where neither, five wands clashing at, internal strife frustrates the victor's, both forms of struggle
 
 dynamic_devolution:
   mechanism: The victor's external victory is gradually consumed by the realization that no external victory can resolve internal conflict; the 5 of Wands' struggle is gradually poisoned by the victor's judgment
-  corruption: The victor becomes cynical about the possibility of genuine growth; the internal strugglers become bitter about their inability to match the victor's certainty; both descend into a state of perpetual frustration
+  mode: The victor becomes cynical about the possibility of genuine growth; the internal strugglers become bitter about their inability to match the victor's certainty; both descend into a state of perpetual frustration
   loss: The possibility of mutual learning is destroyed; the victor remains isolated in their victory; the strugglers remain isolated in their process
   key_terms: The isolated victor, the frustrated strugglers, mutual incomprehension, conflict compounded
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that internal struggle is as valid as external victory; the 5 of Wands must accept that the victor's clarity comes from experience with genuine stakes
-  integration: A recognition that external victory and internal process are different expressions of the same fundamental human drive toward coherence; that both teach essential lessons
-  paradox: The victor often learns most from those still engaged in the struggle; the internal process is most valuable when it produces genuine understanding rather than mere debate
-  outcome: The victor becomes a genuine mentor; the strugglers learn from the victor's certainty while the victor learns from the strugglers' process; both forms of conflict are honored as valid
+  function: A recognition that external victory and internal process are different expressions of the same fundamental human drive toward coherence; that both teach essential lessons
+  integration_outcome: The victor becomes a genuine mentor; the strugglers learn from the victor's certainty while the victor learns from the strugglers' process; both forms of conflict are honored as valid
   key_terms: The mutual learning, struggle as teacher, victory and process reconciled, conflict honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, 6 of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Victory Recognized, The Reputation Earned, The Acclaim Deserved, The Triumph Witnessed
-numerical_relation: 5 + 6 = 11 (The Hanged One; perspective shifted, but the victor cannot see their own victory clearly)
+numerical_relation: 5 + 6 = 11 (XI Strength; perspective shifted, but the victor cannot see their own victory clearly)
 elemental_bridge: Air's clarity meeting Fire's celebration of itself; the bitter victor confronting their own achievement
 threshold_type: The Hollow Victor Acclaimed—recognition arriving for a victory the victor no longer believes in
 
@@ -265,37 +270,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The victor is frozen by the recognition; unable to accept it but unable to reject it; the public narrative of achievement conflicts with the private knowledge of loss
-  consequence: A public figure who is admired but who cannot believe in their own admiration; the 6 of Wands' celebration becomes a performance in which the victor does not believe
-  spatial_logic: The victor standing on a pedestal of recognition while internally collapsed with the knowledge of the cost
+  blockade_nature: A public figure who is admired but who cannot believe in their own admiration; the 6 of Wands' celebration becomes a performance in which the victor does not believe
+  swords_state: The victor standing on a pedestal of recognition while internally collapsed with the knowledge of the cost
+  consequence: the public narrative of achievement conflicts with the private knowledge of loss
+  key_terms: public figure who is admired, victor standing on a pedestal, public narrative of achievement conflicts, victor is frozen
 
 dynamic_devolution:
   mechanism: The rejection of recognition metastasizes into contempt for those who grant it; the victor's bitterness poisons the very acclimation that might have redeemed it; the 6 of Wands is corrupted into mockery
-  corruption: The recognition becomes obscene; the victor's sacrifice is cheapened by celebration; the acclimation transforms into an accusation—you are being praised for something you know is hollow
+  mode: The recognition becomes obscene; the victor's sacrifice is cheapened by celebration; the acclimation transforms into an accusation—you are being praised for something you know is hollow
   loss: The possibility of healing through recognition is destroyed; the public triumph becomes a private tragedy; the victor is trapped between what they did and what people believe they did
   key_terms: The obscene acclimation, recognition as accusation, the prisoner of fame, triumph turned hollow
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually accept that the 6 of Wands' recognition is not an insult but an offer of meaning; the acclimation must acknowledge the cost without requiring the victor to deny the loss
-  integration: Recognition that includes the shadow of sacrifice; the victory celebrated not despite the cost but because of it; the triumph honored as a moment when the victor paid everything and received genuine achievement
-  paradox: The most meaningful recognition is often that which arrives late and acknowledges not just the achievement but the price paid for it; the victor is redeemed not by denying the hollowness but by having it acknowledged
-  outcome: The victor finally accepts the recognition; the bitterness remains but is contextualized within a narrative of meaningful struggle; the public triumph and private loss are held together
+  function: Recognition that includes the shadow of sacrifice; the victory celebrated not despite the cost but because of it; the triumph honored as a moment when the victor paid everything and received genuine achievement
+  integration_outcome: The victor finally accepts the recognition; the bitterness remains but is contextualized within a narrative of meaningful struggle; the public triumph and private loss are held together
   key_terms: The honored sacrifice, meaningful recognition, the victor redeemed, acclimation that includes the cost
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, 7 of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Defense Against Odds, The Struggle Against Opposition, The Holding Ground, The Courageous Stand
-numerical_relation: 5 + 7 = 12 (The Hanged One; perspective required to understand the burden of endless struggle)
+numerical_relation: 5 + 7 = 12 (XII The Hanged Man; perspective required to understand the burden of endless struggle)
 elemental_bridge: Air's clarity revealing Fire's burden; the victor meeting another who must continue fighting
 threshold_type: The Perpetual Warrior—the victor who has won encountering those still forced to fight
 
@@ -314,37 +320,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The defender is weakened by the victor's certainty that the struggle is hopeless; the resistance is undermined by the knowledge that even victory may be hollow
-  consequence: A defense that is weakened by doubt; the 7 of Wands still holds the position but without conviction; the struggle continues but the spirit is fractured
-  spatial_logic: The figure holding ground but looking back at the victor, seeking reassurance that the defense is worthwhile
+  blockade_nature: A defense that is weakened by doubt; the 7 of Wands still holds the position but without conviction; the struggle continues but the spirit is fractured
+  swords_state: The figure holding ground but looking back at the victor, seeking reassurance that the defense is worthwhile
+  consequence: the resistance is undermined by the knowledge that even victory may be hollow
+  key_terms: defense that is weakened, figure holding ground but looking, resistance is undermined, defender is weakened
 
 dynamic_devolution:
   mechanism: The defense gradually collapses under the weight of the victim's insistence on hopelessness; the 7 of Wands' courage is gradually poisoned by the victor's bitterness
-  corruption: The position is abandoned not because it is lost but because holding it is revealed as pointless; the defender's courage transforms into resignation; the struggle transforms into passive acceptance
+  mode: The position is abandoned not because it is lost but because holding it is revealed as pointless; the defender's courage transforms into resignation; the struggle transforms into passive acceptance
   loss: The possibility of meaningful resistance is destroyed; what remains is cynical acceptance of inevitable defeat
   key_terms: The abandoned position, courage lost, resistance becomes resignation, struggle becomes surrender
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that struggle can be meaningful even if victory is impossible; the 7 of Wands must accept that not all struggles can be won but can still be worth fighting
-  integration: A shared understanding that some battles are fought not to be won but to be survived, not for victory but for the integrity of the stance itself
-  paradox: The most courageous defense is often that which continues despite the knowledge that victory may be impossible; the struggle is most meaningful when fought with open eyes
-  outcome: The victor blesses the defender; the defender stands stronger knowing they are witnessed and honored; the eternal struggle is recontextualized as an expression of integrity
+  function: A shared understanding that some battles are fought not to be won but to be survived, not for victory but for the integrity of the stance itself
+  integration_outcome: The victor blesses the defender; the defender stands stronger knowing they are witnessed and honored; the eternal struggle is recontextualized as an expression of integrity
   key_terms: The honored defense, struggle as integrity, the blessed warrior, courage in impossible odds
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, 8 of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Swift Movement, The Rapid Progress, The Messengers Flying, The Speed Unleashed
-numerical_relation: 5 + 8 = 13 (Death/Transformation; but the transformation is not into peace but into further motion)
+numerical_relation: 5 + 8 = 13 (XIII Death; but the transformation is not into peace but into further motion)
 elemental_bridge: Air's clarity accelerating Fire's momentum; speed with understanding of consequences
 threshold_type: The Weary Victor Watching Haste—the bitter one forced to witness others rushing toward their own conflicts
 
@@ -363,37 +370,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The speed is maintained but with increasing anxiety; the 8 of Wands flies forward but the victor's voice of warning echoes; the momentum is not slowed but the joy of swift movement is poisoned
-  consequence: Rapid progress shadowed by fear; the movement continues but is not pure; the 8 of Wands is haunted by the victor's certainty that collision is coming
-  spatial_logic: Swift arrows flying forward while the victor's shadow falls across them, darkening their path
+  blockade_nature: Rapid progress shadowed by fear; the movement continues but is not pure; the 8 of Wands is haunted by the victor's certainty that collision is coming
+  swords_state: Swift arrows flying forward while the victor's shadow falls across them, darkening their path
+  consequence: the momentum is not slowed but the joy of swift movement is poisoned
+  key_terms: rapid progress shadowed by fear, swift arrows flying forward, momentum is not slowed, speed is maintained
 
 dynamic_devolution:
   mechanism: The speed is gradually consumed by the victor's insistence on danger; the momentum is destroyed by excessive caution; the 8 of Wands becomes paralyzed by the fear of collision
-  corruption: The swift movement transforms into anxious acceleration; the ones flying forward are driven not by inspiration but by fear; the speed becomes a form of panic
+  mode: The swift movement transforms into anxious acceleration; the ones flying forward are driven not by inspiration but by fear; the speed becomes a form of panic
   loss: The joy and meaning of swift progress is destroyed; what remains is frantic motion driven by dread
   key_terms: The anxious acceleration, panic-driven motion, the poisoned momentum, speed as flight
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that not all swift movement leads to collision; the 8 of Wands must accept that the victor's caution comes from genuine experience
-  integration: A movement that is both swift and aware; the speed is tempered by wisdom but not killed by caution; the momentum continues with understanding of its consequences
-  paradox: The most effective movement is often that which combines swiftness with awareness; the fastest journey is often taken by those who understand the terrain
-  outcome: The 8 of Wands flies forward with the victor's blessing; the speed is maintained while the awareness is integrated; progress continues with both momentum and wisdom
+  function: A movement that is both swift and aware; the speed is tempered by wisdom but not killed by caution; the momentum continues with understanding of its consequences
+  integration_outcome: The 8 of Wands flies forward with the victor's blessing; the speed is maintained while the awareness is integrated; progress continues with both momentum and wisdom
   key_terms: The wise speed, blessed momentum, progress with awareness, the swift yet cautious
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, 9 of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Final Stand, The Resilience Tested, The Strength of the Weary, The Last Defense
-numerical_relation: 5 + 9 = 14 (Moderation, tempered through exhaustion; the 9 of Wands is the victor who has learned to rest while remaining vigilant)
+numerical_relation: 5 + 9 = 14 (XIV Temperance; the 9 of Wands is the victor who has learned to rest while remaining vigilant)
 elemental_bridge: Air meeting Fire in the moment of extreme weariness; clarity about what truly matters
 threshold_type: The Veteran Recognizes the Exhausted Defender—the victor meeting one who is becoming the victor
 
@@ -412,37 +420,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The defender holds the position but is frozen in exhaustion; they cannot advance, cannot retreat, cannot rest; the stance becomes one of pure endurance without any purpose beyond itself
-  consequence: A final stand that becomes eternal; the 9 of Wands suspended in the moment of holding on, unable to move forward into recovery
-  spatial_logic: The weary figure standing with raised wands, unable to lower them, unable to continue, suspended in the moment of ultimate exhaustion
+  blockade_nature: A final stand that becomes eternal; the 9 of Wands suspended in the moment of holding on, unable to move forward into recovery
+  swords_state: The weary figure standing with raised wands, unable to lower them, unable to continue, suspended in the moment of ultimate exhaustion
+  consequence: the stance becomes one of pure endurance without any purpose beyond itself
+  key_terms: final stand that becomes eternal, weary figure standing with raised, stance becomes one of pure, defender holds the position
 
 dynamic_devolution:
   mechanism: The exhaustion becomes a wound; the 9 of Wands gradually collapses under the weight of unrelenting vigilance; the final stand becomes a slow defeat by attrition
-  corruption: The resilience is consumed by the demand for continued endurance; the weary defender gradually gives up, not in a moment of surrender but through slow erosion of will
+  mode: The resilience is consumed by the demand for continued endurance; the weary defender gradually gives up, not in a moment of surrender but through slow erosion of will
   loss: The capacity to endure is destroyed by the refusal to rest; the one who could have become the victor instead becomes broken
   key_terms: The collapse of resilience, defeat by attrition, the broken defender, exhaustion unto death
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that true strength includes the wisdom to rest; the 9 of Wands must accept that rest is not surrender but essential to endurance
-  integration: A final stand that includes periods of rest; the defender learns that vigilance and recovery are not opposites but complementary; the exhaustion is honored as the price of standing
-  paradox: The strongest defense is often that which includes the wisdom to rest; the most resilient are often those who have learned when to stand and when to recover
-  outcome: The exhausted defender finally rests, knowing it is not surrender; the victor blesses this rest, recognizing it as the final form of victory; the 9 of Wands becomes the threshold to recovery
+  function: A final stand that includes periods of rest; the defender learns that vigilance and recovery are not opposites but complementary; the exhaustion is honored as the price of standing
+  integration_outcome: The exhausted defender finally rests, knowing it is not surrender; the victor blesses this rest, recognizing it as the final form of victory; the 9 of Wands becomes the threshold to recovery
   key_terms: The blessed rest, resilience renewed, the veteran's acceptance, endurance transformed into wisdom
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, 10 of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Burden Carried, The Responsibility Heavy, The Load Immense, The Duty Binding
-numerical_relation: 5 + 10 = 15 (The Devil reversed; liberation through the acceptance that burdens must be carried)
+numerical_relation: 5 + 10 = 15 (XV The Devil; liberation through the acceptance that burdens must be carried)
 elemental_bridge: Air's clarity revealing Fire's burden; the victory that has created new weight
 threshold_type: The Victor Oppressed by Victory—the winner discovering that their prize is a burden
 
@@ -461,37 +470,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The burden is carried but with resentment; the 10 of Wands moves forward but grudgingly, understanding that the weight is necessary but unable to accept it gracefully
-  consequence: The burden becomes a slow poison; the one carrying it is not freed but enslaved by the very victory they fought for; the 10 of Wands is crushed under the weight
-  spatial_logic: The figure staggering under the burden of ten wands, barely able to move forward, forced to continue because stopping is not an option
+  blockade_nature: The burden becomes a slow poison; the one carrying it is not freed but enslaved by the very victory they fought for; the 10 of Wands is crushed under the weight
+  swords_state: The figure staggering under the burden of ten wands, barely able to move forward, forced to continue because stopping is not an option
+  consequence: the 10 of Wands moves forward but grudgingly, understanding that the weight is necessary but unable to accept it gracefully
+  key_terms: burden becomes a slow poison, figure staggering under the burden, 10 of wands moves forward, burden is carried
 
 dynamic_devolution:
   mechanism: The resentment of the burden metastasizes into rebellion; the victor who fought so hard to win now seeks to abandon the prize and all its responsibilities
-  corruption: The burden becomes unbearable; the one carrying it seeks escape through any means possible; the 10 of Wands transforms into a symbol of enslavement
+  mode: The burden becomes unbearable; the one carrying it seeks escape through any means possible; the 10 of Wands transforms into a symbol of enslavement
   loss: The victory is lost not through defeat but through the victor's abandonment of it; what was won is surrendered because its weight is intolerable
   key_terms: The abandoned prize, the burden rejected, escape sought, victory lost
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that victory does bring new responsibilities; the 10 of Wands must accept that the burden is the price of leadership
-  integration: The burden is carried with understanding that it is the natural consequence of having won; the weight becomes acceptable when its meaning is clear
-  paradox: The heaviest burdens are often carried by those who have fought to earn the right to carry them; the most meaningful weight is that which comes from genuine responsibility
-  outcome: The victor accepts the burden; the understanding that this is what victory means becomes acceptance; the 10 of Wands is carried with grace because it is recognized as the price of what was won
+  function: The burden is carried with understanding that it is the natural consequence of having won; the weight becomes acceptable when its meaning is clear
+  integration_outcome: The victor accepts the burden; the understanding that this is what victory means becomes acceptance; the 10 of Wands is carried with grace because it is recognized as the price of what was won
   key_terms: The accepted responsibility, burden as meaning, the victor's maturity, weight accepted
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, Page of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Enthusiastic Messenger, The Creative Spark Discovered, The First Fire, The Young Vision
-numerical_relation: 5 + Page = The collision of hard experience and youthful enthusiasm
+numerical_relation: 5 + 11 = 16 (XVI The Tower; The collision of hard experience and youthful enthusiasm)
 elemental_bridge: Air's clarity dimming Fire's spark; the bitter one witnessing the enthusiast's awakening
 threshold_type: The Cynic Encountering Enthusiasm—the victor's bitterness tested by the Page's undeniable passion
 
@@ -510,37 +520,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The Page's enthusiasm is arrested by the victor's insistence on caution; the creative fire continues to burn but cannot be expressed; the young one is frozen by contradiction
-  consequence: The passion burns internally without outlet; the 8 of Wands is frustrated and slowly consumed by the unexpressed fire
-  spatial_logic: The young enthusiast standing before the victor, internal flames visible but unable to leap outward
+  blockade_nature: The passion burns internally without outlet; the 8 of Wands is frustrated and slowly consumed by the unexpressed fire
+  swords_state: The young enthusiast standing before the victor, internal flames visible but unable to leap outward
+  consequence: the young one is frozen by contradiction
+  key_terms: passion burns internally without outlet, young enthusiast standing before, young one is frozen, page's enthusiasm is arrested
 
 dynamic_devolution:
   mechanism: The unexpressed enthusiasm gradually metastasizes into bitterness; the Page of Wands is gradually corrupted into becoming like the victor; the fire dims and hardens
-  corruption: The youthful enthusiasm is destroyed; what emerges is a cynicism older than the young one's years; the Page becomes another bitter survivor
+  mode: The youthful enthusiasm is destroyed; what emerges is a cynicism older than the young one's years; the Page becomes another bitter survivor
   loss: The fire is extinguished; what remains is ash and the knowledge that enthusiasm is dangerous
   key_terms: The extinguished fire, premature bitterness, the corrupted youth, flame turned to ash
 
 dynamic_dependency:
   mechanism: The 5 of Swords must allow the Page of Wands' enthusiasm to live; the Page must respect the victor's wisdom without losing the fire
-  integration: The enthusiasm is expressed with the awareness of danger; the fire burns but with the victor's protective presence; the Page grows toward wholeness that includes both passion and caution
-  paradox: The most powerful creative fire is often that which emerges in those protected by those who have been burned; the youth who can burn while witnessed by those who know the cost
-  outcome: The Page expresses the creative fire; the victor blesses it; the enthusiasm is genuine and informed, neither naive nor corrupted; the fire shines in the victor's presence without dimming
+  function: The enthusiasm is expressed with the awareness of danger; the fire burns but with the victor's protective presence; the Page grows toward wholeness that includes both passion and caution
+  integration_outcome: The Page expresses the creative fire; the victor blesses it; the enthusiasm is genuine and informed, neither naive nor corrupted; the fire shines in the victor's presence without dimming
   key_terms: The blessed enthusiasm, fire protected, youth honored, passion informed by wisdom
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, Knight of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Adventurous Seeker, The Passionate Explorer, The Bold Adventurer, The Courageous Journeyer
-numerical_relation: 5 + Knight = 7 (The Chariot; the journey that the victor knows will lead to danger)
+numerical_relation: 5 + 12 = 17 (XVII The Star; the journey that the victor knows will lead to danger)
 elemental_bridge: Air's clarity revealing Fire's path; the warning spoken about the adventure ahead
 threshold_type: The Veteran Watches the Adventurer Depart—the victor unable to prevent the journeyer's departure into danger
 
@@ -559,37 +570,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The knight is held back by the victor's warnings; the departure is delayed by doubt; the adventure is compromised by the knowledge of what might go wrong
-  consequence: The knight departs but with the victor's voice echoing in their ears; the adventure is shadowed by fear; the journey is taken but the joy of it is poisoned
-  spatial_logic: The knight at the threshold of departure, looking back at the victor, unable to move forward without carrying the weight of the warning
+  blockade_nature: The knight departs but with the victor's voice echoing in their ears; the adventure is shadowed by fear; the journey is taken but the joy of it is poisoned
+  swords_state: The knight at the threshold of departure, looking back at the victor, unable to move forward without carrying the weight of the warning
+  consequence: the adventure is compromised by the knowledge of what might go wrong
+  key_terms: knight departs, knight at the threshold, adventure is compromised, knight is held back
 
 dynamic_devolution:
   mechanism: The warning becomes a curse; the knight's journey is increasingly shadowed by anxiety; the adventure becomes a flight from the victor's prophecy
-  corruption: The knight is driven not by enthusiasm but by the need to prove the victor wrong; the journey becomes twisted by resentment; the adventure transforms into compulsive wandering
+  mode: The knight is driven not by enthusiasm but by the need to prove the victor wrong; the journey becomes twisted by resentment; the adventure transforms into compulsive wandering
   loss: The genuine possibility of a meaningful adventure is destroyed; what remains is a journey driven by bitterness and resentment
   key_terms: The cursed journey, adventure twisted, wandering compulsive, the quest corrupted
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that some must journey despite the dangers; the Knight of Wands must accept that the victor's warnings come from genuine love
-  integration: The adventure is undertaken with blessing; the knight carries both the victor's wisdom and the knight's own courage; the journey is real and dangerous but is not cursed
-  paradox: The most meaningful adventures are often those undertaken by those who understand the dangers but choose the journey anyway; the seeker is most truly adventurous when they move forward with eyes open
-  outcome: The knight departs with the victor's blessing; the adventure continues; the danger is acknowledged but the journey is undertaken anyway; the knight becomes what the victor once was, but with the wisdom of the victor's experience
+  function: The adventure is undertaken with blessing; the knight carries both the victor's wisdom and the knight's own courage; the journey is real and dangerous but is not cursed
+  integration_outcome: The knight departs with the victor's blessing; the adventure continues; the danger is acknowledged but the journey is undertaken anyway; the knight becomes what the victor once was, but with the wisdom of the victor's experience
   key_terms: The blessed departure, adventure understood, the conscious risk, the journey honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, Queen of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Charismatic Leader, The Inspiring Presence, The Bold Creator, The Magnetizing Force
-numerical_relation: 5 + Queen = 10 (Completion; the victor meets a presence so strong that it catalyzes transformation)
+numerical_relation: 5 + 13 = 18 (XVIII The Moon; the victor meets a presence so strong that it catalyzes transformation)
 elemental_bridge: Air clarified by Fire's magnetism; the bitter one drawn toward warmth
 threshold_type: The Charismatic Queen Encountering the Bitter Victor—the leader recognizing a potential ally
 
@@ -608,37 +620,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The Queen's magnetism is dampened by the victor's presence; the charisma is present but its effect is limited by the victor's obvious doubt
-  consequence: The partnership is incomplete; the Queen leads but the victor's skepticism prevents full commitment; the vision is present but the army behind it is uncertain
-  spatial_logic: The Queen radiating magnetism while the victor stands to the side, drawn but unable to fully enter the circle of influence
+  blockade_nature: The partnership is incomplete; the Queen leads but the victor's skepticism prevents full commitment; the vision is present but the army behind it is uncertain
+  swords_state: The Queen radiating magnetism while the victor stands to the side, drawn but unable to fully enter the circle of influence
+  consequence: the charisma is present but its effect is limited by the victor's obvious doubt
+  key_terms: partnership is incomplete, queen radiating magnetism, charisma is present, queen's magnetism is dampened
 
 dynamic_devolution:
   mechanism: The conflict between the Queen's optimism and the victor's bitterness becomes a wound; the partnership dissolves into accusation
-  corruption: The Queen's charisma is twisted into manipulation; the victor's clarity becomes cruelty; the potential alliance becomes rivalry
+  mode: The Queen's charisma is twisted into manipulation; the victor's clarity becomes cruelty; the potential alliance becomes rivalry
   loss: The possibility of a powerful partnership is destroyed; the Queen and the victor remain separated by their fundamental disagreement about the nature of reality
   key_terms: The broken alliance, charisma twisted, clarity become cruel, separation deepened
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that genuine strength can include optimism; the Queen of Wands must accept that true leadership includes the integration of realistic caution
-  integration: A partnership where the Queen's vision is grounded by the victor's realism; the magnetism is balanced by clarity; the charisma is strengthened by the presence of one who knows the dangers
-  paradox: The strongest leadership is often that which combines optimism with realism, magnetism with clarity; the queen is most truly powerful when she stands alongside those who understand danger
-  outcome: The victor becomes the Queen's most trusted ally; the partnership is complete; the vision is pursued with both magnetism and clarity; the strength is doubled by the union
+  function: A partnership where the Queen's vision is grounded by the victor's realism; the magnetism is balanced by clarity; the charisma is strengthened by the presence of one who knows the dangers
+  integration_outcome: The victor becomes the Queen's most trusted ally; the partnership is complete; the vision is pursued with both magnetism and clarity; the strength is doubled by the union
   key_terms: The strong alliance, vision and reality aligned, the trusted ally, the powerful partnership
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW
 
 ---
 
 card_pair: 5 of Swords, King of Wands
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_wands: The Fiery Ruler, The Passionate Leader, The Inspirational Force, The Sovereign of Action
-numerical_relation: 5 + King = 12 (The Hanged One; two sovereigns meeting, but one rules through action while the other rules through understanding)
+numerical_relation: 5 + 14 = 19 (XIX The Sun; two sovereigns meeting, but one rules through action while the other rules through understanding)
 elemental_bridge: Air and Fire meeting as equals; the clarity and the passion both claiming authority
 threshold_type: The Rival Sovereigns—two rulers whose authority derives from different sources
 
@@ -657,27 +670,28 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: Neither sovereign can fully exercise their authority because the other's presence complicates their domain; the King's passion is dampened by the victor's caution; the victor's clarity is questioned by the King's confidence
-  consequence: A strange paralysis where both sovereigns are diminished by the presence of the other; the realm is caught between inspiration and caution
-  spatial_logic: Two thrones, two flags, two armies—the kingdom divided not by open war but by the tension between two different visions of rulership
+  blockade_nature: A strange paralysis where both sovereigns are diminished by the presence of the other; the realm is caught between inspiration and caution
+  swords_state: Two thrones, two flags, two armies—the kingdom divided not by open war but by the tension between two different visions of rulership
+  consequence: the victor's clarity is questioned by the King's confidence
+  key_terms: strange paralysis where both sovereigns, two thrones, victor's clarity is questioned, neither sovereign can fully exercise
 
 dynamic_devolution:
   mechanism: The tension becomes actual conflict; the two sovereigns war for control; the victor's clarity is weaponized; the King's passion is inflamed
-  corruption: The potential for greatness is destroyed by rivalry; the King becomes destructively passionate; the victor becomes destructively cynical; the rulership is torn apart
+  mode: The potential for greatness is destroyed by rivalry; the King becomes destructively passionate; the victor becomes destructively cynical; the rulership is torn apart
   loss: The possibility of a truly great kingdom, ruled by both passion and wisdom, is destroyed
   key_terms: The divided kingdom, civil war, passion inflamed, clarity weaponized
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that the King's passion is a valid form of power; the King of Wands must accept that the victor's clarity is essential to good rulership
-  integration: A collaboration where the King rules but with the counsel of the victor; the passion is tempered by wisdom; the vision is inspired but grounded
-  paradox: The most powerful rulership is often that which combines action and reflection, passion and clarity; the kingdom is strongest when ruled by those who both inspire and understand
-  outcome: The two sovereigns stand together; the kingdom is ruled by the King but with the full backing of the victor; the vision is inspired and the action is wise; the realm flourishes
+  function: A collaboration where the King rules but with the counsel of the victor; the passion is tempered by wisdom; the vision is inspired but grounded
+  integration_outcome: The two sovereigns stand together; the kingdom is ruled by the King but with the full backing of the victor; the vision is inspired and the action is wise; the realm flourishes
   key_terms: The united kingdom, mutual respect, vision and wisdom aligned, the great rulership
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Wands cards (action, passion, creation)
-  uid: FSOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSW

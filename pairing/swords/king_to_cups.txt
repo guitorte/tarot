@@ -351,7 +351,7 @@ structural_metadata:
 card_pair: King of Swords, 8 of Cups
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_cups: Abandonment, departure, walking away, chosen leaving, emotional departure
-numerical_relation: 14 + 8 = 22 -> 2+2 = 4 (IV The Emperor; judgment confirms the departure)
+numerical_relation: 14 + 8 = 22 → 2+2=4 (IV The Emperor; judgment confirms the departure)
 elemental_bridge: Air's demand to justify meets Water's quiet leaving; the cross-examination meets the one already turned to go
 threshold_type: The departure brought before the judge; a necessary leaving asked to defend itself
 
@@ -401,7 +401,7 @@ structural_metadata:
 card_pair: King of Swords, 9 of Cups
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_cups: Wish fulfillment, contentment, emotional satisfaction, satisfied desire, achieved happiness
-numerical_relation: 14 + 9 = 23 -> 2+3 = 5 (V The Pope; judgment before contentment)
+numerical_relation: 14 + 9 = 23 → 2+3=5 (V The Pope; judgment before contentment)
 elemental_bridge: Air's search for the flaw meets Water's satisfaction; the probing question meets the rest in the good
 threshold_type: The contentment brought before the judge; satisfaction asked what it is overlooking
 
@@ -451,7 +451,7 @@ structural_metadata:
 card_pair: King of Swords, 10 of Cups
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_cups: Family harmony, happiness, love's fulfillment, emotional completeness, belonging
-numerical_relation: 14 + 10 = 24 -> 2+4 = 6 (VI The Lover(s); judgment before the fulfilled family)
+numerical_relation: 14 + 10 = 24 → 2+4=6 (VI The Lovers; judgment before the fulfilled family)
 elemental_bridge: Air's governance meets Water's belonging; the bench brought into the home meets a love that needs no verdict
 threshold_type: The family's harmony brought before the judge; belonging asked to be ordered by rule
 
@@ -501,7 +501,7 @@ structural_metadata:
 card_pair: King of Swords, Page of Cups
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_cups: Curiosity, emotional exploration, feeling-learning, youthful receptivity, openness
-numerical_relation: 14 + 11 = 25 -> 2+5 = 7 (VII The Chariot; judgment meets the young dreamer)
+numerical_relation: 14 + 11 = 25 → 2+5=7 (VII The Chariot; judgment meets the young dreamer)
 elemental_bridge: Air's premature naming meets Water's forming feeling; the definition meets the emotion still taking shape
 threshold_type: The young feeling brought before the judge; a forming emotion asked to define itself too soon
 
@@ -551,7 +551,7 @@ structural_metadata:
 card_pair: King of Swords, Knight of Cups
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_cups: Romance, emotional action, passionate pursuit, love-driven action, heart's quest
-numerical_relation: 14 + 12 = 26 -> 2+6 = 8 (VIII Justice; judgment meets the romantic)
+numerical_relation: 14 + 12 = 26 → 2+6=8 (VIII Justice; judgment meets the romantic)
 elemental_bridge: Air's demand for proof meets Water's momentum; the verdict at the gate meets the heart already riding
 threshold_type: The romantic quest brought before the judge; passion asked to defend its object
 
@@ -601,7 +601,7 @@ structural_metadata:
 card_pair: King of Swords, Queen of Cups
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_cups: Emotional mastery, nurturing wisdom, intuitive understanding, emotional authority, compassion
-numerical_relation: 14 + 13 = 27 -> 2+7 = 9 (IX The Hermit; judgment meets empathy)
+numerical_relation: 14 + 13 = 27 → 2+7=9 (IX The Hermit; judgment meets empathy)
 elemental_bridge: Air's verdict of reason meets Water's knowing of feeling; principle that distrusts emotion meets empathy that distrusts cold rule
 threshold_type: Two authorities at one bench; the rule of reason meets the rule of the heart
 
@@ -651,7 +651,7 @@ structural_metadata:
 card_pair: King of Swords, King of Cups
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_cups: Emotional authority, heart's dominion, compassionate power, mastered feeling, authoritative love
-numerical_relation: 14 + 14 = 28 -> 2+8 = 10 (X The Wheel of Fortune; law meets mastered feeling)
+numerical_relation: 14 + 14 = 28 → 2+8=10 (X The Wheel of Fortune; law meets mastered feeling)
 elemental_bridge: Air's principle meets Water's mastered feeling; the rule of what is right meets the rule of what is felt
 threshold_type: Two kings, two thrones; principle and compassion asked which tempers which
 

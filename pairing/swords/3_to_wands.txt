@@ -1,0 +1,697 @@
+card_pair: 3 of Swords, Ace of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 3-1 (Sorrow extinguishing creative spark; heartbreak blocking inspiration)
+elemental_bridge: Air pain meeting fire inspiration; emotional suffering preventing creative ignition
+threshold_type: The extinguished spark; grief blocking creative fire
+
+dynamic_genesis:
+  mechanism: Transforming pain into creative fuel enables inspiration; integrated grief channels creative fire
+  process: Processing heartbreak permits creative expression; honored loss enables visionary breakthrough
+  outcome: Inspiration emerges through integrated grief; creativity becomes powerful through pain-channeling
+  key_terms: grief-fueled creativity, transformed pain, channeled fire, inspired breakthrough
+
+dynamic_antagonism:
+  mechanism: Inspiration demands energetic engagement; creation requires burning passion
+  tension_axis: Internal sorrow versus external creative action; grief-contraction versus fire-expansion
+  swords_position: Extinguishes creative spark; pain blocks inspiration-access
+  wands_position: Offers creative fire; cannot warm grief-cooled heart
+  key_terms: extinguished spark, blocked inspiration, cooled fire, incompatible creation
+
+dynamic_inhibition:
+  mechanism: Sorrow extinguishes creative fire; grief prevents inspirational access
+  blockade_nature: The emotional wound cools creative passion; pain prevents spark-ignition
+  swords_state: Grief becomes inspiration-blocking force; sorrow prevents creative momentum
+  consequence: Creativity cannot emerge; inspiration remains inaccessible from grief-cooling
+  key_terms: extinguished inspiration, cooled passion, blocked creativity, impossible fire
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts creative potential into destructive obsession; grief becomes self-sabotaging
+  mode: Heartbreak-driven creation becomes destructive expression; loss enables creative self-harm
+  loss: Potential creativity replaced by destructive creation; authentic expression becomes impossible
+  key_terms: destructive creation, creative self-harm, sabotaged expression, impossible inspiration
+
+dynamic_dependency:
+  mechanism: Sorrow without creative-outlet becomes meaningless suffering; creativity without grief-integration becomes shallow
+  function: Wands-Ace provides fire that can transmute grief; Swords-3 provides depth that prevents superficial creation
+  integration_outcome: Sorrow becomes fuel for authentic creation; grief deepens creative power
+  key_terms: grief-fueled fire, deepened creation, authentic expression, transformed inspiration
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, 2 of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 3-2 (Sorrow weakening personal power; heartbreak blocking dominion)
+elemental_bridge: Air pain meeting fire power; emotional loss preventing authoritative action
+threshold_type: The weakened visionary; grief preventing power-assertion
+
+dynamic_genesis:
+  mechanism: Transforming pain enables deeper power; integrated grief deepens personal authority
+  process: Processing heartbreak permits authentic vision; honored loss enables grounded dominion
+  outcome: Power emerges through integrated grief; vision becomes wise through pain-integration
+  key_terms: grief-grounded power, deepened vision, integrated pain, authentic dominion
+
+dynamic_antagonism:
+  mechanism: Power-assertion demands confidence; dominion requires assured presence
+  tension_axis: Internal sorrow versus external power-assertion; grief-weakness versus authoritative strength
+  swords_position: Weakens personal power; pain prevents confident assertion
+  wands_position: Offers power-potential; cannot restore confidence shattered by grief
+  key_terms: weakened power, shattered confidence, prevented assertion, incompatible dominion
+
+dynamic_inhibition:
+  mechanism: Sorrow weakens power-assertion; grief prevents confident dominion
+  blockade_nature: The emotional wound erodes confidence; pain prevents authoritative presence
+  swords_state: Grief becomes power-weakening force; sorrow prevents dominion-exercise
+  consequence: Power cannot be asserted; dominion becomes impossible from grief-weakening
+  key_terms: weakened power, prevented dominion, impossible assertion, lost confidence
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts power-potential into destructive abuse; grief becomes tyrannical
+  mode: Heartbreak-driven power becomes aggressive compensation; loss enables destructive dominion
+  loss: Genuine power replaced by tyrannical desperation; authentic dominion becomes impossible
+  key_terms: tyrannical compensation, aggressive abuse, lost power, impossible dominion
+
+dynamic_dependency:
+  mechanism: Sorrow without power-grounding becomes overwhelming; power without grief-integration becomes hard
+  function: Wands-2 provides power-potential that grief must transform; Swords-3 provides wisdom that softens power
+  integration_outcome: Sorrow becomes integrated into deepened power; grief humanizes authority
+  key_terms: humanized power, grief-integrated dominion, deepened wisdom, authentic authority
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, 3 of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 3-3 (Sorrow preventing forward movement; heartbreak blocking collaborative vision)
+elemental_bridge: Air pain meeting fire growth; emotional loss preventing enterprise momentum
+threshold_type: The stuck visionary; grief preventing progress
+
+dynamic_genesis:
+  mechanism: Transforming pain permits growth; integrated grief enables forward movement
+  process: Processing heartbreak permits collaborative engagement; honored loss enables enterprise
+  outcome: Growth emerges through integrated grief; vision becomes collaborative through pain
+  key_terms: grief-enabled growth, deepened vision, integrated collaboration, forward pain
+
+dynamic_antagonism:
+  mechanism: Growth demands forward momentum; vision requires continued engagement
+  tension_axis: Internal sorrow versus forward action; grief-stagnation versus growth-movement
+  swords_position: Prevents forward movement; pain stagnates enterprise
+  wands_position: Demands continued growth; refuses grief-related pause
+  key_terms: demanded growth, prevented movement, resisted collaboration, blocked vision
+
+dynamic_inhibition:
+  mechanism: Sorrow prevents forward movement; grief blocks collaborative vision
+  blockade_nature: The emotional wound stagnates momentum; pain prevents enterprise-engagement
+  swords_state: Grief becomes growth-blocking force; sorrow prevents collaborative action
+  consequence: Growth cannot proceed; collaboration becomes impossible from grief-stagnation
+  key_terms: stagnated growth, prevented collaboration, blocked vision, impossible momentum
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts vision into destructive ambition; grief becomes growth-destroying
+  mode: Heartbreak-driven enterprise becomes reckless overreach; loss enables destructive expansion
+  loss: Genuine vision replaced by manic overextension; authentic growth becomes impossible
+  key_terms: destructive ambition, manic overreach, corrupted vision, impossible growth
+
+dynamic_dependency:
+  mechanism: Sorrow without growth-context becomes meaningless suffering; growth without grief-integration becomes superficial
+  function: Wands-3 provides forward momentum; Swords-3 provides depth that prevents shallow growth
+  integration_outcome: Sorrow becomes integrated into meaningful growth; grief deepens authentic vision
+  key_terms: deepened vision, grief-integrated growth, authentic collaboration, meaningful momentum
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, 4 of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 3-4 (Sorrow preventing celebration; heartbreak blocking community joy)
+elemental_bridge: Air pain meeting fire celebration; emotional loss preventing festive gathering
+threshold_type: The joyless gathering; grief blocking festivity
+
+dynamic_genesis:
+  mechanism: Grieving within community permits authentic celebration; integrated pain deepens joy
+  process: Honoring heartbreak permits genuine festivity; acknowledged loss enables true harmony
+  outcome: Celebration emerges through integrated grief; joy becomes profound through pain-honoring
+  key_terms: grief-honored joy, authentic celebration, deepened harmony, integrated community
+
+dynamic_antagonism:
+  mechanism: Celebration demands joyful participation; community requires engaged presence
+  tension_axis: Internal sorrow versus festive celebration; grief-withdrawal versus community-joy
+  swords_position: Prevents festive participation; pain blocks joy-access
+  wands_position: Invites celebration; demands communal engagement
+  key_terms: demanded celebration, painful withdrawal, resisted joy, blocked participation
+
+dynamic_inhibition:
+  mechanism: Sorrow prevents festive participation; grief blocks community celebration
+  blockade_nature: The emotional wound isolates from joy; pain prevents festive engagement
+  swords_state: Grief becomes joy-blocking force; sorrow prevents celebration-participation
+  consequence: Celebration feels hollow; community cannot console grief-paralyzed person
+  key_terms: hollow celebration, paralyzed grief, prevented joy, isolated participation
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts celebration into bitter resentment; grief becomes joy-destroying
+  mode: Heartbreak-driven bitterness taints festivity; loss prevents all joy-access
+  loss: Authentic celebration replaced by bitter isolation; genuine joy becomes impossible
+  key_terms: bitter resentment, joy-destroying, isolated festivity, impossible celebration
+
+dynamic_dependency:
+  mechanism: Sorrow without celebration-context becomes meaningless suffering; celebration without grief-acknowledgment becomes manic
+  function: Wands-4 provides joy that can honor grief; Swords-3 provides truth that prevents manic escape
+  integration_outcome: Sorrow becomes integrated into authentic celebration; grief deepens communal joy
+  key_terms: grief-honored celebration, deepened joy, authentic community, integrated harmony
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, 5 of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Conflict, competition, competition, struggle, contested victory
+numerical_relation: 3-5 (Sorrow preventing necessary conflict; heartbreak blocking productive struggle)
+elemental_bridge: Air pain meeting fire conflict; emotional loss preventing engaged fight
+threshold_type: The unable combatant; grief preventing confrontation
+
+dynamic_genesis:
+  mechanism: Transforming pain through conflict enables breakthrough; integrated grief permits fighting-through
+  process: Processing heartbreak permits necessary confrontation; honored loss enables clearing struggle
+  outcome: Clarity emerges through grief-channeled conflict; resolution flows from pain-transformed engagement
+  key_terms: grief-channeled conflict, transformed pain, clearing struggle, integrated resolution
+
+dynamic_antagonism:
+  mechanism: Conflict demands engaged fighting; struggle requires aggressive energy
+  tension_axis: Internal sorrow versus external combat; grief-weakness versus fighting-strength
+  swords_position: Weakens fighting-capacity; pain prevents aggressive engagement
+  wands_position: Offers combative fire; cannot fuel grief-weakened warrior
+  key_terms: weakened fighting, prevented engagement, cooled combat, incompatible struggle
+
+dynamic_inhibition:
+  mechanism: Sorrow prevents necessary confrontation; grief blocks productive fighting
+  blockade_nature: The emotional wound prevents aggressive engagement; pain prevents fighting-capacity
+  swords_state: Grief becomes conflict-preventing force; sorrow blocks necessary struggle
+  consequence: Conflict remains unresolved; necessary confrontation becomes impossible from weakness
+  key_terms: unresolved conflict, prevented engagement, impossible confrontation, weakened struggle
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts conflict into destructive rage; grief becomes destructive fighting
+  mode: Heartbreak-driven conflict becomes aggressive destruction; loss enables uncontrolled fighting
+  loss: Productive struggle replaced by destructive rage; authentic resolution becomes impossible
+  key_terms: destructive rage, uncontrolled fighting, aggressive destruction, impossible resolution
+
+dynamic_dependency:
+  mechanism: Sorrow without conflict-purpose becomes meaningless suffering; conflict without grief-grounding becomes destructive
+  function: Wands-5 provides fighting-energy; Swords-3 provides wisdom that channels conflict productively
+  integration_outcome: Sorrow becomes fuel for clearing struggle; grief deepens resolution-capacity
+  key_terms: grief-fueled conflict, clearing struggle, productive engagement, integrated resolution
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, 6 of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 3-6 (Sorrow preventing achievement-claiming; heartbreak blocking recognition)
+elemental_bridge: Air pain meeting fire success; emotional loss preventing achievement-celebration
+threshold_type: The unrecognized griever; grief preventing success-claim
+
+dynamic_genesis:
+  mechanism: Transforming pain permits achievement; integrated grief enables success-claiming
+  process: Processing heartbreak permits accepting recognition; honored loss enables achievement-honoring
+  outcome: Victory emerges through integrated grief; success becomes meaningful through pain
+  key_terms: grief-transformed victory, deepened success, integrated achievement, honored pain
+
+dynamic_antagonism:
+  mechanism: Success demands achievement-claiming; recognition requires confident assertion
+  tension_axis: Internal sorrow versus external success; grief-unworthiness versus achievement-pride
+  swords_position: Prevents achievement-claiming; pain creates unworthiness-feeling
+  wands_position: Offers recognition; cannot overcome grief-based self-doubt
+  key_terms: prevented claiming, self-doubt, blocked recognition, incompatible success
+
+dynamic_inhibition:
+  mechanism: Sorrow prevents achievement-claiming; grief blocks success-recognition
+  blockade_nature: The emotional wound creates unworthiness; pain prevents celebrating success
+  swords_state: Grief becomes recognition-blocking force; sorrow prevents achievement-joy
+  consequence: Success becomes hollow; recognition cannot be claimed from grief-based doubt
+  key_terms: hollow success, unclaimed victory, prevented recognition, impossible achievement
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts success into bitter emptiness; grief becomes achievement-negating
+  mode: Heartbreak-driven success becomes meaningless; loss negates all accomplishment
+  loss: Genuine achievement replaced by empty victory; authentic success becomes impossible
+  key_terms: bitter emptiness, empty victory, negated achievement, impossible success
+
+dynamic_dependency:
+  mechanism: Sorrow without achievement-outlet becomes meaningless suffering; success without grief-integration becomes hollow
+  function: Wands-6 provides success-energy; Swords-3 provides wisdom that deepens achievement-meaning
+  integration_outcome: Sorrow becomes integrated into meaningful victory; grief deepens authentic success
+  key_terms: meaningful victory, grief-integrated success, deepened achievement, authentic recognition
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, 7 of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 3-7 (Sorrow weakening defense; heartbreak undermining resilience)
+elemental_bridge: Air pain meeting fire resilience; emotional loss preventing sustained defense
+threshold_type: The collapsing defender; grief weakening stance
+
+dynamic_genesis:
+  mechanism: Transforming pain into resilience enables standing-ground; integrated grief deepens endurance
+  process: Processing heartbreak permits authentic defense; honored loss enables sustained strength
+  outcome: Resilience emerges through integrated grief; defense becomes stronger through pain
+  key_terms: grief-grounded resilience, deepened strength, integrated defense, honored pain
+
+dynamic_antagonism:
+  mechanism: Resilience demands sustained engagement; defense requires unwavering stance
+  tension_axis: Internal sorrow versus maintained defense; grief-collapse versus resilient standing
+  swords_position: Weakens defensive stance; pain prevents sustained resistance
+  wands_position: Offers resilience-fire; cannot hold grief-weakened defender
+  key_terms: weakened defense, prevented stance, collapsed resilience, incompatible strength
+
+dynamic_inhibition:
+  mechanism: Sorrow weakens defensive stance; grief prevents resilient standing
+  blockade_nature: The emotional wound erodes strength; pain prevents sustained defense
+  swords_state: Grief becomes resilience-blocking force; sorrow weakens standing-ground
+  consequence: Defense becomes impossible to maintain; stance collapses from grief-weakening
+  key_terms: collapsed stance, weakened defense, prevented resilience, impossible standing
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts resilience into aggressive desperation; grief becomes destructive fight
+  mode: Heartbreak-driven defense becomes reckless attack; loss enables destructive overreach
+  loss: Genuine resilience replaced by desperate aggression; authentic defense becomes impossible
+  key_terms: desperate aggression, reckless defense, destructive overreach, impossible resilience
+
+dynamic_dependency:
+  mechanism: Sorrow without defense-purpose becomes meaningless collapse; defense without grief-grounding becomes hard
+  function: Wands-7 provides resilience-energy; Swords-3 provides wisdom that softens defensive stance
+  integration_outcome: Sorrow becomes integrated into grounded resilience; grief deepens authentic defense
+  key_terms: grounded resilience, grief-softened defense, deepened strength, integrated standing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, 8 of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 3-8 (Sorrow blocking momentum; heartbreak preventing rapid progress)
+elemental_bridge: Air pain meeting fire speed; emotional loss preventing acceleration
+threshold_type: The stalled journey; grief preventing speed
+
+dynamic_genesis:
+  mechanism: Transforming pain permits movement; integrated grief enables accelerated progress
+  process: Processing heartbreak permits forward motion; honored loss enables renewed momentum
+  outcome: Movement emerges through integrated grief; speed develops through pain-transformation
+  key_terms: grief-enabled movement, transformed pain, renewed momentum, accelerated progress
+
+dynamic_antagonism:
+  mechanism: Speed demands rapid engagement; momentum requires continuous forward motion
+  tension_axis: Internal sorrow versus external speed; grief-heaviness versus rapid progress
+  swords_position: Slows momentum; pain prevents rapid movement
+  wands_position: Offers accelerating fire; cannot lift grief-weighted traveler
+  key_terms: slowed momentum, prevented movement, heavy grief, incompatible speed
+
+dynamic_inhibition:
+  mechanism: Sorrow prevents rapid progress; grief blocks momentum-acceleration
+  blockade_nature: The emotional wound weighs movement; pain prevents swift progress
+  swords_state: Grief becomes momentum-blocking force; sorrow prevents rapid movement
+  consequence: Progress becomes sluggish; momentum cannot accelerate from grief-weight
+  key_terms: sluggish progress, blocked momentum, heavy grief, impossible acceleration
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts movement into frantic escape; grief becomes destructive rushing
+  mode: Heartbreak-driven movement becomes panicked flight; loss enables chaotic acceleration
+  loss: Genuine progress replaced by frantic escape; authentic momentum becomes impossible
+  key_terms: frantic escape, chaotic rushing, destructive flight, impossible momentum
+
+dynamic_dependency:
+  mechanism: Sorrow without movement-purpose becomes meaningless heaviness; speed without grief-grounding becomes reckless
+  function: Wands-8 provides accelerating fire; Swords-3 provides wisdom that grounds movement
+  integration_outcome: Sorrow becomes integrated into purposeful movement; grief deepens meaningful progress
+  key_terms: meaningful progress, grief-grounded movement, purposeful speed, integrated momentum
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, 9 of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 3-9 (Sorrow weakening endurance; heartbreak undermining strength)
+elemental_bridge: Air pain meeting fire strength; emotional loss preventing perseverance
+threshold_type: The weary warrior; grief preventing endurance
+
+dynamic_genesis:
+  mechanism: Transforming pain into strength enables endurance; integrated grief deepens perseverance
+  process: Processing heartbreak permits sustained effort; honored loss enables profound resilience
+  outcome: Strength emerges through integrated grief; endurance becomes tested through pain
+  key_terms: grief-grounded strength, deepened endurance, integrated perseverance, honored pain
+
+dynamic_antagonism:
+  mechanism: Strength demands sustained effort; endurance requires unwavering commitment
+  tension_axis: Internal sorrow versus sustained strength; grief-depletion versus persevering fire
+  swords_position: Depletes strength-reserves; pain prevents sustained perseverance
+  wands_position: Offers endurance-fire; cannot restore grief-depleted warrior
+  key_terms: depleted strength, prevented perseverance, exhausted warrior, incompatible endurance
+
+dynamic_inhibition:
+  mechanism: Sorrow depletes strength; grief prevents perseverance
+  blockade_nature: The emotional wound drains reserves; pain prevents sustained effort
+  swords_state: Grief becomes strength-draining force; sorrow prevents endurance
+  consequence: Perseverance becomes impossible; effort cannot be sustained from grief-depletion
+  key_terms: depleted reserves, prevented perseverance, impossible endurance, exhausted effort
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts strength into obsessive overwork; grief becomes destructive pushing
+  mode: Heartbreak-driven perseverance becomes self-destructive; loss enables burnout
+  loss: Genuine strength replaced by destructive overextension; authentic endurance becomes impossible
+  key_terms: self-destructive pushing, burnout, destructive overwork, impossible strength
+
+dynamic_dependency:
+  mechanism: Sorrow without strength-purpose becomes meaningless depletion; strength without grief-integration becomes hard
+  function: Wands-9 provides perseverance-fire; Swords-3 provides wisdom that prevents burnout
+  integration_outcome: Sorrow becomes integrated into deeper strength; grief deepens authentic endurance
+  key_terms: deepened strength, grief-integrated endurance, sustainable perseverance, integrated power
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, 10 of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 3-10 (Sorrow adding to burden; heartbreak crushing under weight)
+elemental_bridge: Air pain meeting fire burden; emotional loss deepening overwhelm
+threshold_type: The crushed bearer; grief compounding burden
+
+dynamic_genesis:
+  mechanism: Transforming pain through burden permits wisdom; integrated grief enables bearing weight
+  process: Processing heartbreak permits accepting responsibility; honored loss enables grounded strength
+  outcome: Wisdom emerges through integrated burden; maturity flows from pain-bearing
+  key_terms: grief-bearing wisdom, integrated burden, deepened maturity, honored pain
+
+dynamic_antagonism:
+  mechanism: Burden demands engagement; responsibility requires carrying weight despite pain
+  tension_axis: Internal sorrow versus sustained burden; grief-overwhelm versus bearing weight
+  swords_position: Adds to burden; pain deepens overwhelm
+  wands_position: Offers responsibility-fire; cannot ease grief-doubled burden
+  key_terms: doubled burden, added pain, deepened overwhelm, incompatible responsibility
+
+dynamic_inhibition:
+  mechanism: Sorrow deepens burden-overwhelm; grief compounds carrying-weight
+  blockade_nature: The emotional wound adds to load; pain prevents bearing responsibility
+  swords_state: Grief becomes burden-deepening force; sorrow prevents responsible action
+  consequence: Burden becomes crushing; responsibility cannot be borne from grief-addition
+  key_terms: crushing burden, compounded pain, prevented responsibility, impossible bearing
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts responsibility into self-destruction; grief becomes burden-breaking collapse
+  mode: Heartbreak-driven burden becomes unbearable; loss enables complete breakdown
+  loss: Genuine responsibility replaced by collapse; authentic bearing becomes impossible
+  key_terms: complete breakdown, crushing weight, self-destruction, impossible responsibility
+
+dynamic_dependency:
+  mechanism: Sorrow without responsibility-context becomes meaningless overwhelm; burden without grief-integration becomes inhuman
+  function: Wands-10 provides burden-form; Swords-3 provides wisdom that enables wise bearing
+  integration_outcome: Sorrow becomes integrated into meaningful responsibility; grief deepens mature strength
+  key_terms: mature strength, grief-integrated responsibility, meaningful burden, sustainable weight
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, Page of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 3-Page (Sorrow dampening enthusiasm; heartbreak preventing spark)
+elemental_bridge: Air pain meeting fire enthusiasm; emotional loss cooling youthful fire
+threshold_type: The dampened spark; grief cooling enthusiasm
+
+dynamic_genesis:
+  mechanism: Transforming pain into inspiration enables renewed enthusiasm; integrated grief deepens spark
+  process: Processing heartbreak permits accessing inspiration; honored loss enables grounded enthusiasm
+  outcome: Inspiration emerges through integrated grief; enthusiasm becomes profound through pain
+  key_terms: grief-inspired enthusiasm, deepened spark, integrated pain, renewed potential
+
+dynamic_antagonism:
+  mechanism: Enthusiasm demands energetic engagement; spark requires unchecked youthful fire
+  tension_axis: Internal sorrow versus external enthusiasm; grief-dampening versus unchecked fire
+  swords_position: Cools youthful fire; pain dampens enthusiasm
+  wands_position: Offers unlimited enthusiasm; cannot warm grief-cooled youth
+  key_terms: cooled fire, dampened enthusiasm, prevented spark, incompatible energy
+
+dynamic_inhibition:
+  mechanism: Sorrow prevents enthusiastic engagement; grief cools creative spark
+  blockade_nature: The emotional wound cools passion; pain prevents inspired engagement
+  swords_state: Grief becomes enthusiasm-blocking force; sorrow prevents spark-ignition
+  consequence: Enthusiasm cannot kindle; spark remains cold from grief-dampening
+  key_terms: cold spark, prevented enthusiasm, blocked energy, impossible inspiration
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts enthusiasm into bitter cynicism; grief becomes spark-killing
+  mode: Heartbreak-driven youth becomes jaded; loss kills unchecked enthusiasm
+  loss: Genuine inspiration replaced by bitter detachment; authentic spark becomes impossible
+  key_terms: bitter cynicism, killed spark, jaded youth, impossible enthusiasm
+
+dynamic_dependency:
+  mechanism: Sorrow without enthusiasm-outlet becomes meaningless suffering; enthusiasm without grief-depth becomes superficial
+  function: Wands-Page provides youthful fire; Swords-3 provides wisdom that deepens inspiration
+  integration_outcome: Sorrow becomes integrated into grounded enthusiasm; grief deepens authentic spark
+  key_terms: grounded enthusiasm, grief-deepened spark, authentic inspiration, integrated energy
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, Knight of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 3-Knight (Sorrow preventing action; heartbreak blocking passionate pursuit)
+elemental_bridge: Air pain meeting fire action; emotional loss preventing bold engagement
+threshold_type: The immobilized adventurer; grief blocking action
+
+dynamic_genesis:
+  mechanism: Transforming pain through action enables transformation; integrated grief fuels bold movement
+  process: Processing heartbreak permits passionate engagement; honored loss enables courageous action
+  outcome: Action emerges through integrated grief; boldness becomes grounded through pain
+  key_terms: grief-fueled action, deepened boldness, integrated passion, grounded movement
+
+dynamic_antagonism:
+  mechanism: Action demands immediate engagement; passion requires unbridled movement
+  tension_axis: Internal sorrow versus external action; grief-immobility versus bold engagement
+  swords_position: Prevents action; pain blocks passionate pursuit
+  wands_position: Offers action-fire; cannot move grief-paralyzed adventurer
+  key_terms: prevented action, blocked pursuit, paralyzed boldness, incompatible engagement
+
+dynamic_inhibition:
+  mechanism: Sorrow prevents action; grief blocks passionate engagement
+  blockade_nature: The emotional wound paralyzes movement; pain prevents bold action
+  swords_state: Grief becomes action-blocking force; sorrow prevents engagement
+  consequence: Action becomes impossible; passion cannot be expressed from grief-paralysis
+  key_terms: paralyzed action, blocked passion, prevented engagement, impossible boldness
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts action into reckless escape; grief becomes self-destructive pursuit
+  mode: Heartbreak-driven action becomes frantic flight; loss enables destructive engagement
+  loss: Genuine action replaced by reckless escape; authentic boldness becomes impossible
+  key_terms: reckless escape, self-destructive flight, destructive action, impossible boldness
+
+dynamic_dependency:
+  mechanism: Sorrow without action-outlet becomes meaningless suffering; action without grief-grounding becomes reckless
+  function: Wands-Knight provides action-energy; Swords-3 provides wisdom that channels movement wisely
+  integration_outcome: Sorrow becomes fuel for grounded action; grief deepens meaningful engagement
+  key_terms: meaningful action, grief-grounded boldness, wise engagement, integrated passion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, Queen of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 3-Queen (Sorrow preventing charismatic leadership; heartbreak blocking magnetism)
+elemental_bridge: Air pain meeting fire mastery; emotional loss preventing authoritative presence
+threshold_type: The wounded queen; grief preventing leadership
+
+dynamic_genesis:
+  mechanism: Transforming pain deepens authentic charisma; integrated grief enables inspired leadership
+  process: Processing heartbreak permits leading from wisdom; honored loss enables grounded authority
+  outcome: Leadership emerges through integrated grief; charisma becomes grounded through pain
+  key_terms: wisdom-grounded leadership, grief-deepened charisma, integrated authority, honored pain
+
+dynamic_antagonism:
+  mechanism: Charisma demands confident presence; leadership requires assured magnetism
+  tension_axis: Internal sorrow versus external charisma; grief-sadness versus confident magnetism
+  swords_position: Dims charismatic light; pain prevents magnetic presence
+  wands_position: Offers confident leadership; cannot warm grief-darkened queen
+  key_terms: dimmed light, prevented charisma, darkened presence, incompatible leadership
+
+dynamic_inhibition:
+  mechanism: Sorrow prevents charismatic engagement; grief blocks authoritative presence
+  blockade_nature: The emotional wound erodes confidence; pain prevents magnetic leadership
+  swords_state: Grief becomes charisma-blocking force; sorrow prevents authority-presence
+  consequence: Leadership cannot be exercised magneticly; charisma fades from grief-dimming
+  key_terms: faded charisma, prevented leadership, blocked magnetism, impossible presence
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts leadership into tyrannical despair; grief becomes abusive authority
+  mode: Heartbreak-driven leadership becomes aggressive domination; loss enables destructive rule
+  loss: Genuine authority replaced by tyrannical collapse; authentic leadership becomes impossible
+  key_terms: tyrannical despair, aggressive domination, destroyed authority, impossible leadership
+
+dynamic_dependency:
+  mechanism: Sorrow without leadership-purpose becomes meaningless suffering; leadership without grief-integration becomes hard
+  function: Wands-Queen provides authority-form; Swords-3 provides wisdom that softens command
+  integration_outcome: Sorrow becomes integrated into compassionate leadership; grief deepens authentic authority
+  key_terms: compassionate leadership, grief-softened authority, deepened charisma, integrated presence
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW
+
+---
+
+card_pair: 3 of Swords, King of Wands
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 3-King (Sorrow threatening dominion; heartbreak undermining rule)
+elemental_bridge: Air pain meeting fire dominion; emotional loss threatening authoritative command
+threshold_type: The wounded sovereign; grief threatening dominion
+
+dynamic_genesis:
+  mechanism: Transforming pain deepens authoritative wisdom; integrated grief enables commanding rule
+  process: Processing heartbreak permits ruling from depth; honored loss enables grounded dominion
+  outcome: Dominion emerges through integrated grief; command becomes wise through pain
+  key_terms: wisdom-grounded rule, grief-deepened dominion, integrated authority, honored pain
+
+dynamic_antagonism:
+  mechanism: Dominion demands confident command; rule requires assured presence
+  tension_axis: Internal sorrow versus external dominion; grief-vulnerability versus authoritative strength
+  swords_position: Threatens commanding presence; pain weakens authoritative strength
+  wands_position: Offers dominant rule; cannot restore confidence shattered by grief
+  key_terms: weakened command, prevented dominion, threatened rule, incompatible authority
+
+dynamic_inhibition:
+  mechanism: Sorrow threatens authoritative presence; grief undermines command
+  blockade_nature: The emotional wound erodes authority; pain prevents confident dominion
+  swords_state: Grief becomes dominion-threatening force; sorrow weakens authority
+  consequence: Dominion cannot be confidently exercised; rule becomes questionable from grief
+  key_terms: threatened dominion, weakened rule, questionable authority, impossible command
+
+dynamic_devolution:
+  mechanism: Sorrow corrupts dominion into tyrannical despair; grief becomes abusive rule
+  mode: Heartbreak-driven authority becomes destructive dominion; loss enables corrupt rule
+  loss: Genuine authority replaced by tyrannical collapse; authentic dominion becomes impossible
+  key_terms: tyrannical despair, corrupt rule, abusive dominion, impossible authority
+
+dynamic_dependency:
+  mechanism: Sorrow without rule-purpose becomes meaningless suffering; dominion without grief-integration becomes hard
+  function: Wands-King provides authority-form; Swords-3 provides wisdom that softens rule
+  integration_outcome: Sorrow becomes integrated into wise dominion; grief deepens authentic authority
+  key_terms: wise authority, grief-softened rule, deepened command, integrated dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: TOSW

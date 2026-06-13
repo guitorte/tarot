@@ -1,7 +1,7 @@
 card_pair: 6 of Swords, Ace of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Gift Appearing, The Opportunity Manifesting, The Earthly Blessing, The Material Seed
-numerical_relation: 6 + Ace = 7 (The Chariot; a journey toward material manifestation, the crossing toward earthly opportunity)
+numerical_relation: 6 + 1 = 7 (VII The Chariot; a journey toward material manifestation, the crossing toward earthly opportunity)
 elemental_bridge: Air carrying Water toward Earth; the healing journey arriving at manifestation
 threshold_type: The Opportunity Appearing at the Journey's End—the departure leading toward material blessing
 
@@ -20,37 +20,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler moves but carries the Ace of Pentacles with them; the material gift cannot take root because the journey continues; the opportunity is held but cannot be planted
-  consequence: The traveler possesses the gift but cannot use it; the blessing travels but does not manifest in material form; the journey is shadowed by the consciousness of what cannot be built
-  spatial_logic: The traveler in the boat carrying the golden seed, unable to plant it because movement is constant
+  blockade_nature: The traveler possesses the gift but cannot use it; the blessing travels but does not manifest in material form; the journey is shadowed by the consciousness of what cannot be built
+  swords_state: The traveler in the boat carrying the golden seed, unable to plant it because movement is constant
+  consequence: the opportunity is held but cannot be planted
+  key_terms: traveler possesses the gift, traveler in the boat carrying, opportunity is held but cannot, traveler moves but carries
 
 dynamic_devolution:
   mechanism: The gift gradually decays during the journey; the Ace's potential spoils from the constant movement; the opportunity is lost to the necessity of departure
-  corruption: The material blessing transforms into burden; the seed becomes a weight; the journey is increasingly shadowed by the possession of something that cannot be used
+  mode: The material blessing transforms into burden; the seed becomes a weight; the journey is increasingly shadowed by the possession of something that cannot be used
   loss: The opportunity is destroyed by the refusal to settle; the material manifestation is sacrificed to the need for movement
   key_terms: The decayed gift, burden traveled, opportunity lost, manifestation impossible
 
 dynamic_dependency:
   mechanism: The 6 of Swords must eventually accept that some journeys lead to a place where settlement becomes possible; the Ace of Pentacles must accept that the journey is prerequisite to true manifestation
-  integration: The traveler arrives at a new shore where the gift can be planted; the journey is complete and the manifestation begins; the opportunity flowers in new soil
-  paradox: The deepest material manifestation often emerges from those who have traveled far; the Ace of Pentacles is most potent when given to those who have journeyed toward it
-  outcome: The traveler grounds in new territory; the Ace of Pentacles is planted and flourishes; the journey and the settlement are revealed as two parts of a whole
+  function: The traveler arrives at a new shore where the gift can be planted; the journey is complete and the manifestation begins; the opportunity flowers in new soil
+  integration_outcome: The traveler grounds in new territory; the Ace of Pentacles is planted and flourishes; the journey and the settlement are revealed as two parts of a whole
   key_terms: The grounded arrival, planted gift, opportunity manifested, blessing rooted
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, 2 of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Balance Maintained, The Juggling of Resources, The Equilibrium Precarious, The Joy in Mastery
-numerical_relation: 6 + 2 = 8 (Strength; the balance that can move and travel while maintaining equilibrium)
+numerical_relation: 6 + 2 = 8 (VIII Justice; the balance that can move and travel while maintaining equilibrium)
 elemental_bridge: Air's mobility meeting Earth's balance; movement that preserves what has been built
 threshold_type: The Traveler Maintaining Balance—the departure requiring the skill to manage what cannot be abandoned
 
@@ -69,37 +70,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler moves but slowly, carefully attempting to maintain the balance while crossing; the journey is impeded by the need to preserve equilibrium
-  consequence: A crossing that is extremely slow and precarious; the 2 of Pentacles' juggling becomes the traveler's burden; the journey is nearly impossible because the balance cannot be abandoned
-  spatial_logic: The traveler moving across the water extremely slowly, juggling the two pentacles while rowing, unable to move at speed because balance must be maintained
+  blockade_nature: A crossing that is extremely slow and precarious; the 2 of Pentacles' juggling becomes the traveler's burden; the journey is nearly impossible because the balance cannot be abandoned
+  swords_state: The traveler moving across the water extremely slowly, juggling the two pentacles while rowing, unable to move at speed because balance must be maintained
+  consequence: the journey is impeded by the need to preserve equilibrium
+  key_terms: crossing that is extremely slow, traveler moving across the water, journey is impeded, traveler moves but slowly
 
 dynamic_devolution:
   mechanism: The balance gradually falls apart; the journey is too demanding; the precarious equilibrium becomes impossible to maintain; the traveler is gradually forced to abandon one or both pentacles
-  corruption: The 2 of Pentacles is destroyed by the attempt to maintain it during the crossing; the balance collapses; the juggling becomes frantic and then falls
+  mode: The 2 of Pentacles is destroyed by the attempt to maintain it during the crossing; the balance collapses; the juggling becomes frantic and then falls
   loss: The careful equilibrium of the 2 of Pentacles is destroyed; the traveler arrives at the new shore with nothing, having lost everything in the attempt to maintain balance while journeying
   key_terms: The collapsed balance, lost resources, the failed crossing, arrival impoverished
 
 dynamic_dependency:
   mechanism: The 6 of Swords must accept that some resources must be left behind to travel; the 2 of Pentacles must understand that true balance includes the wisdom to know what can be carried and what must be released
-  integration: The traveler releases what cannot be moved and carries what can; the balance is maintained not through rigidity but through flexibility; the 2 of Pentacles is realized through the wisdom of what to carry
-  paradox: The deepest balance is often that which is maintained while moving; the 2 of Pentacles is most truly balanced when flexible enough to travel
-  outcome: The traveler moves with essential resources; the balance is maintained through intelligent release; the new shore is reached with what matters most
+  function: The traveler releases what cannot be moved and carries what can; the balance is maintained not through rigidity but through flexibility; the 2 of Pentacles is realized through the wisdom of what to carry
+  integration_outcome: The traveler moves with essential resources; the balance is maintained through intelligent release; the new shore is reached with what matters most
   key_terms: The traveling balance, released wisdom, essential resources kept, arrival grounded
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, 3 of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Collaborative Work, The Team Assembled, The Shared Labor, The Craft Mastered Together
-numerical_relation: 6 + 3 = 9 (Completion; departure from community, leaving the collaborative work behind)
+numerical_relation: 6 + 3 = 9 (IX The Hermit; departure from community, leaving the collaborative work behind)
 elemental_bridge: Air dispersing what Earth has assembled; the team scattered by the necessity of departure
 threshold_type: The Traveler Leaving Community—the departure from the place of collaborative work
 
@@ -118,37 +120,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler is held by the team's need; the departure is incomplete; the traveler remains tethered to the collaborative work even as they journey
-  consequence: A departure that is not truly a departure; the traveler carries the team's unfinished work; the journey is shadowed by guilt and obligation
-  spatial_logic: The traveler in the boat but ropes still tying them to the shore where the team stands
+  blockade_nature: A departure that is not truly a departure; the traveler carries the team's unfinished work; the journey is shadowed by guilt and obligation
+  swords_state: The traveler in the boat but ropes still tying them to the shore where the team stands
+  consequence: the traveler remains tethered to the collaborative work even as they journey
+  key_terms: departure that is not truly, traveler in the boat, traveler remains tethered, traveler is held
 
 dynamic_devolution:
   mechanism: The guilt gradually poisons both the journey and the work left behind; the team gradually fragments without the traveler; the 3 of Pentacles collapses
-  corruption: The collaborative work is destroyed by the traveler's absence; the team blames the traveler; the traveler is consumed with guilt; the connection becomes bitter
+  mode: The collaborative work is destroyed by the traveler's absence; the team blames the traveler; the traveler is consumed with guilt; the connection becomes bitter
   loss: Both the journey and the collaborative work are destroyed; the traveler never truly leaves and the team never truly releases; both are trapped in obligation and resentment
   key_terms: The poisoned departure, blamed traveler, team fragments, mutual destruction
 
 dynamic_dependency:
   mechanism: The 6 of Swords must accept that the team can continue without the traveler; the 3 of Pentacles must accept that the collaborative work has equipped the traveler for the journey
-  integration: The departure is complete and the team releases the traveler with blessing; the skills learned in collaboration are carried forward; the team begins the work of rebuilding with new members
-  paradox: The strongest teams often are those that have learned to release members who must journey; the 3 of Pentacles is most resilient when it includes the wisdom that members must sometimes depart
-  outcome: The traveler departs; the team releases with gratitude; the collaborative work continues in new form; the journey is blessed by the community left behind
+  function: The departure is complete and the team releases the traveler with blessing; the skills learned in collaboration are carried forward; the team begins the work of rebuilding with new members
+  integration_outcome: The traveler departs; the team releases with gratitude; the collaborative work continues in new form; the journey is blessed by the community left behind
   key_terms: The blessed release, continuing work, remembered collaboration, the traveler honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, 4 of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Possessive Holding, The Fearful Grasping, The Refusal to Release, The Security Hoarded
-numerical_relation: 6 + 4 = 10 (Completion; but of what? The journey cannot complete while clutching what must be released)
+numerical_relation: 6 + 4 = 10 (X The Wheel of Fortune; The journey cannot complete while clutching what must be released)
 elemental_bridge: Air's necessity to move versus Earth's inability to release what is held
 threshold_type: The Traveler Forced to Leave Behind—the departure revealing what cannot be carried
 
@@ -167,37 +170,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler is held in place by the 4 of Pentacles' fear; the journey is impossible while the grasping continues; the traveler becomes increasingly desperate
-  consequence: A state of paralysis where the traveler knows they must leave but cannot release what they hold; the clutching becomes more intense with each moment of awareness
-  spatial_logic: The traveler at the shore, clutching to what has been hoarded, unable to step into the boat
+  blockade_nature: A state of paralysis where the traveler knows they must leave but cannot release what they hold; the clutching becomes more intense with each moment of awareness
+  swords_state: The traveler at the shore, clutching to what has been hoarded, unable to step into the boat
+  consequence: the traveler becomes increasingly desperate
+  key_terms: state of paralysis, traveler at the shore, traveler becomes increasingly desperate, traveler is held in place
 
 dynamic_devolution:
   mechanism: The grasping gradually becomes destructive; the more the 4 of Pentacles clutches, the more the traveler is trapped; the fear metastasizes into rage at the inability to depart
-  corruption: What was held for security becomes a prison; the 4 of Pentacles' possessions weigh down to immobility; the clutching becomes pathological
+  mode: What was held for security becomes a prison; the 4 of Pentacles' possessions weigh down to immobility; the clutching becomes pathological
   loss: The journey is made impossible; the traveler is trapped by their own and others' fear; what was meant to provide security instead becomes a tomb
   key_terms: The imprisoning security, pathological clutching, trapped traveler, freedom impossible
 
 dynamic_dependency:
   mechanism: The 6 of Swords must help the 4 of Pentacles see that release does not mean loss; the 4 of Pentacles must learn that some security is the ability to move
-  integration: The grasping gradually loosens; the traveler helps the 4 of Pentacles recognize that what truly matters can be internalized and does not need to be held externally
-  paradox: The deepest security is often found not in grasping but in the freedom to move; the 4 of Pentacles is most secure when willing to release what external possession cannot provide
-  outcome: The 4 of Pentacles releases; the traveler departs; the fear is released with the possession; both discover that freedom and security can coexist
+  function: The grasping gradually loosens; the traveler helps the 4 of Pentacles recognize that what truly matters can be internalized and does not need to be held externally
+  integration_outcome: The 4 of Pentacles releases; the traveler departs; the fear is released with the possession; both discover that freedom and security can coexist
   key_terms: The released fear, redefined wealth, the departing traveler, security in movement
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, 5 of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Hardship, The Material Struggle, The Poverty of Spirit, The Abandonment in Need
-numerical_relation: 6 + 5 = 11 (The Hanged One; perspective shift—what looks like abandonment is actually escape from deeper hardship)
+numerical_relation: 6 + 5 = 11 (XI Strength; perspective shift—what looks like abandonment is actually escape from deeper hardship)
 elemental_bridge: Air's escape meeting Earth's suffering; the departure that leads away from material deprivation
 threshold_type: The Traveler Leaving Hardship—the crossing away from material suffering toward possibility
 
@@ -216,37 +220,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler is held back by the 5 of Pentacles' suffering; the departure is slowed by guilt; the journey is shadowed by the knowledge of those left in hardship
-  consequence: A departure that is incomplete; the traveler moves but carries the weight of those left behind; the guilt is as heavy as the struggle was
-  spatial_logic: The traveler in the boat but looking back at the struggling one on the shore, the oars moving slowly because of the weight of guilt
+  blockade_nature: A departure that is incomplete; the traveler moves but carries the weight of those left behind; the guilt is as heavy as the struggle was
+  swords_state: The traveler in the boat but looking back at the struggling one on the shore, the oars moving slowly because of the weight of guilt
+  consequence: the journey is shadowed by the knowledge of those left in hardship
+  key_terms: departure that is incomplete, traveler in the boat, journey is shadowed, traveler is held back
 
 dynamic_devolution:
   mechanism: The traveler eventually returns to the hardship they tried to escape; the departure becomes a failure; the 5 of Pentacles' struggle becomes even deeper because hope was briefly offered and then withdrawn
-  corruption: Both the traveler and the struggling one are destroyed by the failed escape; the departure proves that escape is impossible; the hardship becomes compounded by the failure to leave
+  mode: Both the traveler and the struggling one are destroyed by the failed escape; the departure proves that escape is impossible; the hardship becomes compounded by the failure to leave
   loss: The possibility of escape from material suffering is destroyed; what remains is the certainty that hardship is permanent
   key_terms: The failed escape, returned traveler, compounded hardship, hope destroyed
 
 dynamic_dependency:
   mechanism: The 6 of Swords must accept that leaving some hardship is necessary for healing; the 5 of Pentacles must understand that the traveler's departure offers a model of escape
-  integration: The traveler departs and, in departing, shows that escape is possible; the 5 of Pentacles gradually recognizes that the path the traveler took is also available to them
-  paradox: The deepest healing of hardship often comes from witnessing another's escape; the 5 of Pentacles is most freed when released to follow the traveler's path
-  outcome: The traveler departs; the 5 of Pentacles eventually follows or finds their own path of escape; the hardship is transcended not through remaining but through movement
+  function: The traveler departs and, in departing, shows that escape is possible; the 5 of Pentacles gradually recognizes that the path the traveler took is also available to them
+  integration_outcome: The traveler departs; the 5 of Pentacles eventually follows or finds their own path of escape; the hardship is transcended not through remaining but through movement
   key_terms: The witnessed escape, followed path, transcended hardship, freedom modeled
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, 6 of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Gift Given, The Sharing of Abundance, The Generosity Expressed, The Fairness Distributed
-numerical_relation: 6 + 6 = 12 (The Hanged One; perspective required—generosity must sometimes be given through departure)
+numerical_relation: 6 + 6 = 12 (XII The Hanged Man; perspective required—generosity must sometimes be given through departure)
 elemental_bridge: Air carrying Earth's gifts; the generosity expressed through movement and crossing
 threshold_type: The Traveler Expressing Generosity—the departure as the greatest gift
 
@@ -265,37 +270,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler hesitates to leave because the 6 of Pentacles' sharing feels like obligation; the sharing becomes a form of binding; the generosity prevents the journey
-  consequence: The traveler remains bound by gratitude; the crossing is prevented by the sense that departure would be ingratitude; the sharing becomes a form of control
-  spatial_logic: The traveler held in place by the generosity, unable to depart without rejecting the gift
+  blockade_nature: The traveler remains bound by gratitude; the crossing is prevented by the sense that departure would be ingratitude; the sharing becomes a form of control
+  swords_state: The traveler held in place by the generosity, unable to depart without rejecting the gift
+  consequence: the generosity prevents the journey
+  key_terms: traveler remains bound by gratitude, traveler held in place, generosity prevents the journey, traveler hesitates to leave because
 
 dynamic_devolution:
   mechanism: The generosity gradually becomes resentment; the 6 of Pentacles gives with the expectation that the traveler will remain; the sharing becomes conditional
-  corruption: What began as generosity becomes transaction; the gift is withdrawn if the traveler insists on departing; the 6 of Pentacles' abundance transforms into control
+  mode: What began as generosity becomes transaction; the gift is withdrawn if the traveler insists on departing; the 6 of Pentacles' abundance transforms into control
   loss: Both the journey and the genuine sharing are destroyed; the gift becomes a weapon; the relationship becomes bitter
   key_terms: The conditional gift, withdrawn abundance, generosity weaponized, sharing becomes control
 
 dynamic_dependency:
   mechanism: The 6 of Swords must accept that genuine generosity includes the freedom for the traveler to depart; the 6 of Pentacles must understand that the greatest gift is sometimes the release
-  integration: The 6 of Pentacles gives freely and releases the traveler; the traveler accepts the gift and moves forward blessed; the generosity continues across distance
-  paradox: The deepest generosity is often that which allows the other to move away; the 6 of Pentacles is most truly abundant when giving includes freedom
-  outcome: The traveler accepts the gift and departs; the 6 of Pentacles releases with blessing; the sharing continues through the journey because the gift was given freely
+  function: The 6 of Pentacles gives freely and releases the traveler; the traveler accepts the gift and moves forward blessed; the generosity continues across distance
+  integration_outcome: The traveler accepts the gift and departs; the 6 of Pentacles releases with blessing; the sharing continues through the journey because the gift was given freely
   key_terms: The blessed gift, generosity released, the traveling blessed, sharing across distance
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, 7 of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Painstaking Work, The Long-term Investment, The Patience Invested, The Harvest Awaited
-numerical_relation: 6 + 7 = 13 (Death/Transformation; the work left unfinished by departure, the transformation of what remains)
+numerical_relation: 6 + 7 = 13 (XIII Death; the work left unfinished by departure, the transformation of what remains)
 elemental_bridge: Air's swift departure meeting Earth's slow cultivation; the field left tended by another
 threshold_type: The Traveler Leaving Unfinished Work—the crossing before the harvest is ready
 
@@ -314,37 +320,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler is held by the 7 of Pentacles' work; the journey is slowed by the obligation to see the work through; the crossing is impeded by the weight of responsibility
-  consequence: A departure that is extremely slow; the traveler cannot leave while the work remains unfinished; the journey may take longer than the work itself
-  spatial_logic: The traveler in the boat but still tending the field, unable to fully leave because the work is incomplete
+  blockade_nature: A departure that is extremely slow; the traveler cannot leave while the work remains unfinished; the journey may take longer than the work itself
+  swords_state: The traveler in the boat but still tending the field, unable to fully leave because the work is incomplete
+  consequence: the crossing is impeded by the weight of responsibility
+  key_terms: departure that is extremely slow, traveler in the boat, crossing is impeded, traveler is held
 
 dynamic_devolution:
   mechanism: The work gradually fails without the traveler's attention; the 7 of Pentacles' patient investment gradually dies; the harvest never comes
-  corruption: The field lies fallow; the patience is revealed as wasted; the 7 of Pentacles' work becomes a symbol of futility; the traveler's departure proves that the work was pointless
+  mode: The field lies fallow; the patience is revealed as wasted; the 7 of Pentacles' work becomes a symbol of futility; the traveler's departure proves that the work was pointless
   loss: Both the journey and the work are destroyed; neither the traveler nor the field succeeds
   key_terms: The failed harvest, wasted investment, pointless work, the destroyed future
 
 dynamic_dependency:
   mechanism: The 6 of Swords must accept that some work will continue without the traveler; the 7 of Pentacles must understand that the work is larger than any individual's presence
-  integration: The traveler departs and the work continues with others; the harvest is gathered by different hands but is no less real; the investment bears fruit beyond the original worker's presence
-  paradox: The deepest work is often that which transcends the individual worker; the 7 of Pentacles is most truly successful when the harvest comes despite or after the original worker's departure
-  outcome: The traveler departs; the 7 of Pentacles continues the work; the harvest comes; both the journey and the work are honored as complete in themselves
+  function: The traveler departs and the work continues with others; the harvest is gathered by different hands but is no less real; the investment bears fruit beyond the original worker's presence
+  integration_outcome: The traveler departs; the 7 of Pentacles continues the work; the harvest comes; both the journey and the work are honored as complete in themselves
   key_terms: The continued work, gathered harvest, transcended labor, both honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, 8 of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Mastery, The Skill Refined, The Apprentice Becoming, The Craft Perfected
-numerical_relation: 6 + 8 = 14 (Moderation; the skill that allows for both mastery and movement)
+numerical_relation: 6 + 8 = 14 (XIV Temperance; the skill that allows for both mastery and movement)
 elemental_bridge: Air's mobility meeting Earth's mastery; the journey taken with skills in hand
 threshold_type: The Traveling Craftsperson—the traveler carrying the skill to new places
 
@@ -363,37 +370,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains at the apprenticeship but with growing restlessness; the craft is learned but cannot be freely practiced; the mastery is achieved but feels like a prison
-  consequence: A skill learned but not fully expressed; the 8 of Pentacles is completed technically but the traveler carries the sense that the journey was prevented
-  spatial_logic: The apprentice at the workbench, mastering the craft but looking toward the horizon, unable to fully focus
+  blockade_nature: A skill learned but not fully expressed; the 8 of Pentacles is completed technically but the traveler carries the sense that the journey was prevented
+  swords_state: The apprentice at the workbench, mastering the craft but looking toward the horizon, unable to fully focus
+  consequence: the mastery is achieved but feels like a prison
+  key_terms: skill learned but not fully, apprentice at the workbench, mastery is achieved but feels, traveler remains at the apprenticeship
 
 dynamic_devolution:
   mechanism: The skill gradually atrophies because it is not used; the 8 of Pentacles' mastery becomes theoretical; the craft dies without expression
-  corruption: The apprenticeship was completed but the skill is wasted because the journey is prevented; the mastery becomes bitter knowledge of what cannot be done
+  mode: The apprenticeship was completed but the skill is wasted because the journey is prevented; the mastery becomes bitter knowledge of what cannot be done
   loss: Both the journey and the craft are destroyed; the skill that could have been shared is instead imprisoned
   key_terms: The imprisoned skill, wasted mastery, craft unused, knowledge bitter
 
 dynamic_dependency:
   mechanism: The 6 of Swords must accept that some mastery is portable and some journeys are made possible by the craft; the 8 of Pentacles must recognize that mastery is meant to be expressed and shared
-  integration: The traveler carries the craft; the mastery is expressed in new contexts; the 8 of Pentacles' apprenticeship is completed through the journey rather than despite it
-  paradox: The deepest mastery is often that which can travel; the 8 of Pentacles is most truly perfected when the skill can be freely expressed and shared
-  outcome: The traveler departs with mastery; the craft is practiced and refined in new places; the journey becomes the ultimate expression of the apprenticeship
+  function: The traveler carries the craft; the mastery is expressed in new contexts; the 8 of Pentacles' apprenticeship is completed through the journey rather than despite it
+  integration_outcome: The traveler departs with mastery; the craft is practiced and refined in new places; the journey becomes the ultimate expression of the apprenticeship
   key_terms: The expressed skill, traveling mastery, craft shared widely, apprenticeship fulfilled
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, 9 of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Earned Abundance, The Solitary Success, The Independence Achieved, The Prosperity Established
-numerical_relation: 6 + 9 = 15 (The Devil reversed; liberation from the very abundance that seems to demand staying)
+numerical_relation: 6 + 9 = 15 (XV The Devil; liberation from the very abundance that seems to demand staying)
 elemental_bridge: Air's freedom meeting Earth's security; the departure from the golden cage
 threshold_type: The Traveler Leaving Prosperity—the crossing away from earned security
 
@@ -412,37 +420,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains in the 9 of Pentacles' garden but feels increasingly trapped; the prosperity becomes heavier with each passing day; the security feels like imprisonment
-  consequence: A life of quiet desperation; the traveler remains outwardly prosperous but is internally consumed with the need to journey; the abundance becomes a cage
-  spatial_logic: The traveler in the perfect garden, surrounded by plenty, looking toward the horizon, unable to leave what is perfect
+  blockade_nature: A life of quiet desperation; the traveler remains outwardly prosperous but is internally consumed with the need to journey; the abundance becomes a cage
+  swords_state: The traveler in the perfect garden, surrounded by plenty, looking toward the horizon, unable to leave what is perfect
+  consequence: the security feels like imprisonment
+  key_terms: life of quiet desperation, traveler in the perfect garden, security feels like imprisonment, traveler remains in the 9
 
 dynamic_devolution:
   mechanism: The prosperity gradually becomes destructive; the comfort metastasizes into complacency; the 9 of Pentacles' solitary abundance becomes increasingly lonely; the traveler is destroyed by the refusal to leave
-  corruption: The security becomes a tomb; the abundance is revealed as empty; the solitude becomes intolerable; the prosperous one is consumed by quiet desperation
+  mode: The security becomes a tomb; the abundance is revealed as empty; the solitude becomes intolerable; the prosperous one is consumed by quiet desperation
   loss: The journey is lost and the prosperity is destroyed as well; what remains is a life that is outwardly complete but inwardly dead
   key_terms: The imprisoned prosperity, empty security, complacent despair, the living death
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the 9 of Pentacles' achievement even while departing; the 9 of Pentacles must understand that true independence includes the freedom to move beyond security
-  integration: The traveler releases the prosperity; the 9 of Pentacles remains but with the understanding that what was achieved is not destroyed by the traveler's departure; the security is offered to others
-  paradox: The deepest independence is often that which includes the freedom to walk away from security; the 9 of Pentacles is most truly prosperous when willing to release the prosperity
-  outcome: The traveler departs from the garden; the 9 of Pentacles remains or follows; both discover that true prosperity includes freedom and security is incomplete without movement
+  function: The traveler releases the prosperity; the 9 of Pentacles remains but with the understanding that what was achieved is not destroyed by the traveler's departure; the security is offered to others
+  integration_outcome: The traveler departs from the garden; the 9 of Pentacles remains or follows; both discover that true prosperity includes freedom and security is incomplete without movement
   key_terms: The released security, honored prosperity, the free departure, prosperity transformed
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, 10 of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Family Legacy, The Generational Wealth, The Inheritance Received, The Dynasty Established
-numerical_relation: 6 + 10 = 16 (The Tower; the family legacy disrupted by the traveler's departure)
+numerical_relation: 6 + 10 = 16 (XVI The Tower; the family legacy disrupted by the traveler's departure)
 elemental_bridge: Air's movement disrupting Earth's foundations; the inheritance and the wanderer in tension
 threshold_type: The Heir Who Must Depart—the departure from family legacy
 
@@ -461,37 +470,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The heir remains with the family but is internally departed; the legacy is maintained but without genuine presence; the heir's restlessness haunts the inheritance
-  consequence: An inheritance that is technically received but spiritually rejected; the legacy continues but is poisoned by the heir's resentment
-  spatial_logic: The heir at the family table, physically present but emotionally absent, bound by obligation to a heritage they did not choose
+  blockade_nature: An inheritance that is technically received but spiritually rejected; the legacy continues but is poisoned by the heir's resentment
+  swords_state: The heir at the family table, physically present but emotionally absent, bound by obligation to a heritage they did not choose
+  consequence: the heir's restlessness haunts the inheritance
+  key_terms: inheritance that is technically received, heir at the family table, heir's restlessness haunts the inheritance, heir remains with the family
 
 dynamic_devolution:
   mechanism: The heir's internal departure becomes external; the legacy is abandoned; the family is shattered by the actual departure; the 10 of Pentacles crumbles
-  corruption: The inheritance is lost or rejected; the family legacy is destroyed by the heir's departure; the dynasty ends; generations of work are rendered meaningless
+  mode: The inheritance is lost or rejected; the family legacy is destroyed by the heir's departure; the dynasty ends; generations of work are rendered meaningless
   loss: Both the heir's journey and the family's legacy are destroyed; the departure becomes a wound that never heals
   key_terms: The shattered dynasty, lost inheritance, destroyed legacy, family ended
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the 10 of Pentacles' legacy even in departure; the 10 of Pentacles must understand that true strength is the ability to release heirs
-  integration: The heir departs but carries the legacy within; the inheritance is given freely and the heir is released with blessing; the legacy is not diminished but is enriched by the heir's journey
-  paradox: The strongest legacies are often those that can release heirs; the 10 of Pentacles is most truly dynasty when it includes the freedom for members to create their own paths
-  outcome: The heir departs blessed; the family remains strong; the legacy is carried forward in new forms through the heir's journey; the inheritance includes freedom
+  function: The heir departs but carries the legacy within; the inheritance is given freely and the heir is released with blessing; the legacy is not diminished but is enriched by the heir's journey
+  integration_outcome: The heir departs blessed; the family remains strong; the legacy is carried forward in new forms through the heir's journey; the inheritance includes freedom
   key_terms: The freed heir, honored legacy, blessed departure, the enriched inheritance
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, Page of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Student Seeker, The Young Apprentice, The Potential Emerging, The First Opportunity
-numerical_relation: 6 + Page = The collision of the journeyer and the young seeker; the model and the student
+numerical_relation: 6 + 11 = 17 (XVII The Star; the model and the student)
 elemental_bridge: Air showing Earth's student the horizon; the apprentice witnessing the traveler's departure
 threshold_type: The Traveler Departing from the Student—the model leaving the apprentice
 
@@ -510,37 +520,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler hesitates to leave because the Page's apprenticeship is incomplete; the departure is delayed by the need to see the student progress; the journey is impeded by responsibility
-  consequence: The traveler remains longer than the heart desires, teaching but with the resentment of one whose journey is being delayed
-  spatial_logic: The traveler teaching the Page but constantly looking toward the horizon, the presence divided between student and journey
+  blockade_nature: The traveler remains longer than the heart desires, teaching but with the resentment of one whose journey is being delayed
+  swords_state: The traveler teaching the Page but constantly looking toward the horizon, the presence divided between student and journey
+  consequence: the journey is impeded by responsibility
+  key_terms: traveler remains longer, traveler teaching the page, journey is impeded by responsibility, traveler hesitates to leave because
 
 dynamic_devolution:
   mechanism: The traveler finally leaves and the Page is left without guidance; the apprenticeship is abandoned; the Page gradually loses the motivation to learn
-  corruption: The student is destroyed by the departure; the learning that began with such promise dies; the Page becomes embittered about the teacher's leaving
+  mode: The student is destroyed by the departure; the learning that began with such promise dies; the Page becomes embittered about the teacher's leaving
   loss: Both the journey and the apprenticeship are destroyed; the traveler is consumed with guilt and the Page is consumed with abandonment
   key_terms: The destroyed apprenticeship, abandoned student, embittered learning, mutual loss
 
 dynamic_dependency:
   mechanism: The 6 of Swords must be willing to depart; the Page of Pentacles must understand that the teacher's departure is the final and most important teaching
-  integration: The traveler departs; the Page gradually recognizes that they have been taught how to teach themselves; the apprenticeship is completed through the departure
-  paradox: The deepest teaching often comes from the teacher's willingness to leave; the Page is most truly educated when they understand that their own journey is the continuation of the apprenticeship
-  outcome: The traveler departs with the Page's blessing; the Page begins their own journey; the apprenticeship is completed in the act of separation
+  function: The traveler departs; the Page gradually recognizes that they have been taught how to teach themselves; the apprenticeship is completed through the departure
+  integration_outcome: The traveler departs with the Page's blessing; the Page begins their own journey; the apprenticeship is completed in the act of separation
   key_terms: The completed teaching, freed student, the honored departure, the continuing apprenticeship
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, Knight of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Steady Rider, The Cautious Warrior, The Responsible Steward, The Grounded Quester
-numerical_relation: 6 + Knight = 9 (Completion; but the completion of one path leads to the beginning of another)
+numerical_relation: 6 + 12 = 18 (XVIII The Moon; but the completion of one path leads to the beginning of another)
 elemental_bridge: Air's speed meeting Earth's deliberation; the quick crossing and the slow rider
 threshold_type: The Swift Traveler and the Steady Steward—different paces moving in similar directions
 
@@ -559,37 +570,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler waits for the Knight but becomes increasingly frustrated; the crossing is slowed to an unbearable pace; the speed that could be traveled is constrained
-  consequence: A journey that is painfully slow for the traveler and guiltily fast for the Knight; both are uncomfortable; neither is truly themselves
-  spatial_logic: The traveler and the Knight traveling together but the traveler constantly looking ahead while the Knight constantly looks back with concern
+  blockade_nature: A journey that is painfully slow for the traveler and guiltily fast for the Knight; both are uncomfortable; neither is truly themselves
+  swords_state: The traveler and the Knight traveling together but the traveler constantly looking ahead while the Knight constantly looks back with concern
+  consequence: the speed that could be traveled is constrained
+  key_terms: journey that is painfully slow, traveler and the knight traveling, speed that could be traveled, traveler waits for the knight
 
 dynamic_devolution:
   mechanism: The traveler eventually leaves the Knight behind; the Knight is abandoned; both become increasingly resentful; the journey becomes a statement about their incompatibility
-  corruption: The crossing is completed by both but in separation and bitterness; what could have been a companionship becomes a wound
+  mode: The crossing is completed by both but in separation and bitterness; what could have been a companionship becomes a wound
   loss: The potential for mutual support is destroyed; both complete their journeys alone and diminished
   key_terms: The abandoned rider, resentful traveler, the separated journey, mutual loss
 
 dynamic_dependency:
   mechanism: The 6 of Swords must accept that the Knight's pace is valid even if different; the Knight of Pentacles must accept that the traveler's speed is valid even if frightening
-  integration: The two move together at a pace that is faster than the Knight would choose but slower than the traveler would prefer; both are stretched by the other; the journey is richer for the companionship
-  paradox: The deepest journeys often come from traveling with those whose pace is different; the 6 of Swords is most complete when it includes the steadiness of the Knight
-  outcome: The traveler and the Knight cross together; the journey is valid for both; the crossing leads to new territory where both stand together
+  function: The two move together at a pace that is faster than the Knight would choose but slower than the traveler would prefer; both are stretched by the other; the journey is richer for the companionship
+  integration_outcome: The traveler and the Knight cross together; the journey is valid for both; the crossing leads to new territory where both stand together
   key_terms: The shared journey, honored paces, crossing accomplished together, the validated companion
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, Queen of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Nurturing Presence, The Earthly Abundance, The Caretaker, The Grounded Sovereignty
-numerical_relation: 6 + Queen = 11 (The Hanged One; perspective required—nurturing sometimes means releasing)
+numerical_relation: 6 + 13 = 19 (XIX The Sun; perspective required—nurturing sometimes means releasing)
 elemental_bridge: Air's movement meeting Earth's rooting; the caregiver and the traveler in tension
 threshold_type: The Nurturer Releasing the Traveler—the queen learning that care includes freedom
 
@@ -608,37 +620,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains but increasingly resentfully; the Queen's care is received as a prison; the crossing is prevented by the weight of gratitude and obligation
-  consequence: A life of comfort that is increasingly experienced as captivity; the traveler remains surrounded by abundance but is starved for freedom
-  spatial_logic: The traveler at the Queen's table, surrounded by plenty and care, looking toward the horizon but unable to leave without wounding the one who cares
+  blockade_nature: A life of comfort that is increasingly experienced as captivity; the traveler remains surrounded by abundance but is starved for freedom
+  swords_state: The traveler at the Queen's table, surrounded by plenty and care, looking toward the horizon but unable to leave without wounding the one who cares
+  consequence: the crossing is prevented by the weight of gratitude and obligation
+  key_terms: life of comfort, traveler at the queen's table, crossing is prevented, traveler remains but increasingly resentfully
 
 dynamic_devolution:
   mechanism: The traveler finally leaves and the Queen is devastated; the care that was given becomes a source of pain; the nurtured one is revealed as ungrateful
-  corruption: The Queen's nurturing metastasizes into resentment; the care becomes accusation; the Queen and the traveler become enemies
+  mode: The Queen's nurturing metastasizes into resentment; the care becomes accusation; the Queen and the traveler become enemies
   loss: Both the Queen's care and the traveler's journey are destroyed; the relationship becomes a wound
   key_terms: The wounded caregiver, ungrateful traveler, caring becomes resentment, mutual harm
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the Queen of Pentacles' care even in departure; the Queen must understand that true nurturing includes the freedom to leave
-  integration: The Queen releases the traveler with blessing; the traveler accepts the care and carries it forward; the nurturing is not diminished by the departure but is honored through it
-  paradox: The deepest nurturing is often that which includes the freedom to depart; the Queen of Pentacles is most truly caring when willing to release those she loves
-  outcome: The traveler departs blessed; the Queen's care lives in the traveler's heart; the relationship is transformed from bondage into companionship across distance
+  function: The Queen releases the traveler with blessing; the traveler accepts the care and carries it forward; the nurturing is not diminished by the departure but is honored through it
+  integration_outcome: The traveler departs blessed; the Queen's care lives in the traveler's heart; the relationship is transformed from bondage into companionship across distance
   key_terms: The blessed departure, honored care, the traveling blessed, nurturing transforms
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP
 
 ---
 
 card_pair: 6 of Swords, King of Pentacles
 archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
 archetype_pentacles: The Material Authority, The Earthly Ruler, The Sovereign of Prosperity, The Master of Domain
-numerical_relation: 6 + King = 12 (The Hanged One; perspective required—the King's realm and the traveler's path are both valid)
+numerical_relation: 6 + 14 = 20 (XX Judgement; perspective required—the King's realm and the traveler's path are both valid)
 elemental_bridge: Air's movement and Earth's rule meeting as equals; two sovereignties recognizing each other
 threshold_type: The Sovereign Releasing the Traveler—the king learning that wisdom includes letting go
 
@@ -657,27 +670,28 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains bound to the King; the departure is incomplete; the traveler serves the King but with resentment and internal absence
-  consequence: A kingdom that is technically intact but is missing the genuine presence of the traveler; the King's rule is preserved but at the cost of genuine loyalty
-  spatial_logic: The traveler serving the King but always looking toward the horizon, their presence divided between duty and desire
+  blockade_nature: A kingdom that is technically intact but is missing the genuine presence of the traveler; the King's rule is preserved but at the cost of genuine loyalty
+  swords_state: The traveler serving the King but always looking toward the horizon, their presence divided between duty and desire
+  consequence: the traveler serves the King but with resentment and internal absence
+  key_terms: kingdom that is technically intact, traveler serving the king, traveler serves the king, traveler remains bound
 
 dynamic_devolution:
   mechanism: The traveler openly rebels; the departure becomes a breaking of the kingdom's bonds; the King's authority is challenged and defeated
-  corruption: The kingdom is shattered by the traveler's departure; the King's sovereignty is revealed as fragile; the authority is destroyed by the attempt to hold what must be released
+  mode: The kingdom is shattered by the traveler's departure; the King's sovereignty is revealed as fragile; the authority is destroyed by the attempt to hold what must be released
   loss: Both the kingdom and the traveler are destroyed; the separation becomes a wound from which neither recovers
   key_terms: The shattered kingdom, broken authority, defeated rule, mutual destruction
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the King of Pentacles' domain even while departing; the King must understand that true sovereignty includes the wisdom to release
-  integration: The King releases the traveler with blessing; the traveler honors the kingdom through the act of departure; the sovereignty is strengthened by the release
-  paradox: The strongest kingdoms are often those that can release their subjects; the King of Pentacles is most truly sovereign when willing to let go
-  outcome: The traveler departs blessed; the King's rule is strengthened by the act of release; the kingdom is honored; the traveler is honored; both sovereignties are validated
+  function: The King releases the traveler with blessing; the traveler honors the kingdom through the act of departure; the sovereignty is strengthened by the release
+  integration_outcome: The traveler departs blessed; the King's rule is strengthened by the act of release; the kingdom is honored; the traveler is honored; both sovereignties are validated
   key_terms: The blessed release, honored kingdom, the sovereign's wisdom, the validated journey
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: Air + Earth
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Pentacles cards (manifestation, material grounding)
-  uid: SISP
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSP

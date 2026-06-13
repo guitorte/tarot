@@ -70,6 +70,35 @@ def synth_consequence(mech):
             return mech.rsplit(sep, 1)[1].strip()
     return "neither figure can move toward the other; the meeting stalls"
 
+_STOP = {"but", "is", "are", "was", "the", "a", "an", "that", "with", "of",
+         "in", "to", "and", "by", "where", "which", "who", "into", "not",
+         "its", "their", "this", "as", "so", "becomes", "remains", "extremely",
+         "increasingly", "now", "still", "while", "than", "more", "less"}
+
+def _tag(text):
+    """A short, clean block-specific tag: lead words of a clause, trailing
+    connectives/verbs trimmed so it reads as a noun phrase."""
+    if not text:
+        return None
+    clause = re.split(r"[;,—–]", text)[0]
+    w = re.sub(r"^(the|a|an) ", "", clause.strip().rstrip(".:"), flags=re.I)
+    words = w.split()[:5]
+    while words and words[-1].lower() in _STOP:
+        words.pop()
+    return " ".join(words).lower() if len(words) >= 2 else None
+
+def synth_keyterms(*texts):
+    """One block-specific tag drawn from each source field; deduped, up to 4."""
+    seen = []
+    for t in texts:
+        tag = _tag(t)
+        if tag and tag not in seen:
+            seen.append(tag)
+    fallback = ["frozen meeting", "suspended movement", "blocked passage", "held distance"]
+    while len(seen) < 3:
+        seen.append(fallback[len(seen)])
+    return ", ".join(seen[:4])
+
 def normalize(path, inh_keyterms=None):
     fn = os.path.basename(path)
     m = re.match(r"^([a-z0-9]+)_to_([a-z]+)\.txt$", fn)
@@ -117,7 +146,7 @@ def normalize(path, inh_keyterms=None):
         i_state = get(inhib, "spatial_logic") or get(inhib, "swords_state") or "held in suspension"
         i_cons = get(inhib, "consequence_final") or synth_consequence(i_mech)
         i_kt = inh_keyterms.get(target_card) or get(inhib, "key_terms") \
-               or "frozen meeting, suspended movement, blocked passage, held distance"
+               or synth_keyterms(i_block, i_state, i_cons, i_mech)
 
         # devolution remap
         d_mech = get(devol, "mechanism")

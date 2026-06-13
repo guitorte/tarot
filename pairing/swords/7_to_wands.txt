@@ -1,7 +1,7 @@
 card_pair: 7 of Swords, Ace of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Pure Inspiration, The Creative Spark, The Potent Beginning, The Divine Fire Descending
-numerical_relation: 7 + Ace = 8 (Strength; the stolen inspiration, cunning disguised as creativity)
+numerical_relation: 7 + 1 = 8 (VIII Justice; the stolen inspiration, cunning disguised as creativity)
 elemental_bridge: Air's deception stealing Fire's spark; false creativity replacing genuine inspiration
 threshold_type: The Thief Stealing the Spark—deception claiming creative fire
 
@@ -20,37 +20,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief possesses the stolen spark but cannot truly create with it
-  consequence: Inspiration that is held but cannot be manifested; the fire burns but produces nothing
-  spatial_logic: The thief holding the spark but unable to ignite genuine creation
+  blockade_nature: Inspiration that is held but cannot be manifested; the fire burns but produces nothing
+  swords_state: The thief holding the spark but unable to ignite genuine creation
+  consequence: neither figure can move toward the other; the meeting stalls
+  key_terms: inspiration that is held, thief holding the spark, neither figure can move toward, thief possesses the stolen spark
 
 dynamic_devolution:
   mechanism: The stolen inspiration gradually loses its power; the fire dies in hands that did not earn it
-  corruption: The Ace of Wands is corrupted; what should have been potent becomes sterile
+  mode: The Ace of Wands is corrupted; what should have been potent becomes sterile
   loss: The inspiration is lost; genuine creativity becomes impossible
   key_terms: The dead spark, sterile creation, lost inspiration, the corrupted fire
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept that stolen inspiration cannot sustain creation; the Ace must find genuine receivers
-  integration: The spark is released; genuine creativity emerges in honest hands
-  paradox: The deepest creativity often comes from those who have survived the discovery of theft
-  outcome: The spark is restored to genuine creators; authentic inspiration flows
+  function: The spark is released; genuine creativity emerges in honest hands
+  integration_outcome: The spark is restored to genuine creators; authentic inspiration flows
   key_terms: The restored spark, genuine creation, authentic inspiration, the honored fire
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, 2 of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Ambitious Planning, The Next Move Considered, The Power Held in Reserve, The Vision of Future
-numerical_relation: 7 + 2 = 9 (Completion; the stolen vision, the compromised plan)
+numerical_relation: 7 + 2 = 9 (IX The Hermit; the stolen vision, the compromised plan)
 elemental_bridge: Air's deception corrupting Fire's vision; theft of strategic secrets
 threshold_type: The Thief Stealing the Plan—deception robbing strategic advantage
 
@@ -69,37 +70,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The plan continues but is shadowed by the knowledge of theft
-  consequence: Strategy that is technically viable but is no longer secret; the advantage is gone
-  spatial_logic: The planner executing a strategy that is known to competitors
+  blockade_nature: Strategy that is technically viable but is no longer secret; the advantage is gone
+  swords_state: The planner executing a strategy that is known to competitors
+  consequence: neither figure can move toward the other; the meeting stalls
+  key_terms: strategy that is technically viable, planner executing a strategy, neither figure can move toward, plan continues but is shadowed
 
 dynamic_devolution:
   mechanism: The plan gradually fails because it is known; the vision is corrupted by the theft
-  corruption: The 2 of Wands becomes useless; the power is revealed as illusory
+  mode: The 2 of Wands becomes useless; the power is revealed as illusory
   loss: The vision is lost; planning becomes futile
   key_terms: The failed plan, lost vision, revealed futility, the corrupted strategy
 
 dynamic_dependency:
   mechanism: The 7 of Swords must be expelled; the 2 of Wands must develop a new strategy
-  integration: The thief is removed; new plans are developed with greater security
-  paradox: The strongest plans are often those developed after experiencing theft of strategy
-  outcome: The thief is expelled; new vision emerges; the advantage is reclaimed
+  function: The thief is removed; new plans are developed with greater security
+  integration_outcome: The thief is expelled; new vision emerges; the advantage is reclaimed
   key_terms: The removed thief, new strategy, reclaimed advantage, the honored vision
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, 3 of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Expansion, The Distant Horizons, The Trading Routes, The Empire Built on Exchange
-numerical_relation: 7 + 3 = 10 (Completion; the stolen empire, the compromised trade)
+numerical_relation: 7 + 3 = 10 (X The Wheel of Fortune; the stolen empire, the compromised trade)
 elemental_bridge: Air's infiltration corrupting Fire's expansion
 threshold_type: The Thief Infiltrating the Empire—deception destroying trade routes
 
@@ -118,37 +120,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The expansion continues but with greater caution and suspicion
-  consequence: Growth that is technically proceeding but is shadowed by awareness of potential theft
-  spatial_logic: The empire expanding but checking every trader, the routes defended
+  blockade_nature: Growth that is technically proceeding but is shadowed by awareness of potential theft
+  swords_state: The empire expanding but checking every trader, the routes defended
+  consequence: neither figure can move toward the other; the meeting stalls
+  key_terms: growth that is technically proceeding, empire expanding but checking every, neither figure can move toward, expansion continues but with greater
 
 dynamic_devolution:
   mechanism: The empire gradually becomes isolated due to suspicion of infiltrators
-  corruption: The 3 of Wands transforms into a fortress; expansion dies
+  mode: The 3 of Wands transforms into a fortress; expansion dies
   loss: The vision of expansion is lost; the empire becomes isolated
   key_terms: The isolated empire, dead expansion, paranoid empire, the closed routes
 
 dynamic_dependency:
   mechanism: The 7 of Swords must be expelled; the 3 of Wands must rebuild trust in expansion
-  integration: The thief is removed; the empire restores relationships; expansion resumes with wisdom
-  paradox: The strongest expansions are those that have survived and recovered from internal theft
-  outcome: The thief is expelled; the empire heals; expansion continues with greater integrity
+  function: The thief is removed; the empire restores relationships; expansion resumes with wisdom
+  integration_outcome: The thief is expelled; the empire heals; expansion continues with greater integrity
   key_terms: The removed thief, healed empire, resumed expansion, honored routes
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, 4 of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Celebration of Work, The Harvest Home, The Stability Achieved, The Community Gathered
-numerical_relation: 7 + 4 = 11 (The Hanged One; perspective—the thief exposed at the celebration)
+numerical_relation: 7 + 4 = 11 (XI Strength; perspective—the thief exposed at the celebration)
 elemental_bridge: Air's infiltration corrupting Fire's celebration; theft discovered at the feast
 threshold_type: The Thief Exposed at the Celebration—deception revealed among the gathered
 
@@ -167,37 +170,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief remains but is known; the celebration is technically continuing but is poisoned
-  consequence: A gathering where the thief is present but is ostracized; the celebration is compromised
-  spatial_logic: The thief at the celebration but isolated; the community celebrating around them but avoiding them
+  blockade_nature: A gathering where the thief is present but is ostracized; the celebration is compromised
+  swords_state: The thief at the celebration but isolated; the community celebrating around them but avoiding them
+  consequence: the celebration is technically continuing but is poisoned
+  key_terms: gathering where the thief, thief at the celebration, celebration is technically continuing, thief remains but is known
 
 dynamic_devolution:
   mechanism: The community gradually dissolves due to the breach of trust
-  corruption: The 4 of Wands is completely destroyed; the celebration dies
+  mode: The 4 of Wands is completely destroyed; the celebration dies
   loss: The community is lost; the gathering is impossible
   key_terms: The dissolved community, dead celebration, lost gathering, the scattered assembly
 
 dynamic_dependency:
   mechanism: The 7 of Swords must be expelled; the 4 of Wands must rebuild community trust
-  integration: The thief is removed; the community heals; celebration is restored
-  paradox: The strongest communities are those that have survived and recovered from infiltration
-  outcome: The thief is expelled; the celebration is restored; the community is healed
+  function: The thief is removed; the community heals; celebration is restored
+  integration_outcome: The thief is expelled; the celebration is restored; the community is healed
   key_terms: The removed thief, restored celebration, healed community, the honored gathering
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, 5 of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Internal Conflict, The Creative Competition, The Clashing Wills, The Struggle for Dominance
-numerical_relation: 7 + 5 = 12 (The Hanged One; perspective—the thief using conflict for theft)
+numerical_relation: 7 + 5 = 12 (XII The Hanged Man; perspective—the thief using conflict for theft)
 elemental_bridge: Air's deception exploiting Fire's internal struggle
 threshold_type: The Thief Exploiting Conflict—deception using struggle for advantage
 
@@ -216,37 +220,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief is trapped by the conflict; unable to escape or continue theft
-  consequence: A standoff where the competitors focus on the thief but cannot capture them
-  spatial_logic: The thief surrounded by the five wands, unable to escape or continue stealing
+  blockade_nature: A standoff where the competitors focus on the thief but cannot capture them
+  swords_state: The thief surrounded by the five wands, unable to escape or continue stealing
+  consequence: unable to escape or continue theft
+  key_terms: standoff where the competitors focus, thief surrounded by the five, unable to escape or continue, thief is trapped
 
 dynamic_devolution:
   mechanism: The internal conflict and the chase for the thief merge into complete chaos
-  corruption: The 5 of Wands becomes a destructive free-for-all
+  mode: The 5 of Wands becomes a destructive free-for-all
   loss: Both the internal struggle and the pursuit of the thief are lost in chaos
   key_terms: The complete chaos, lost pursuit, the destroyed conflict, mutual destruction
 
 dynamic_dependency:
   mechanism: The 7 of Swords must be captured or expelled; the 5 of Wands must resolve their internal conflict
-  integration: The thief is caught; the competitors stop fighting each other; peace is restored
-  paradox: The strongest unity often comes from facing an external threat together
-  outcome: The thief is caught; the internal conflict is resolved through unified action
+  function: The thief is caught; the competitors stop fighting each other; peace is restored
+  integration_outcome: The thief is caught; the internal conflict is resolved through unified action
   key_terms: The caught thief, resolved conflict, the unified team, peace restored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, 6 of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Victory Recognized, The Reputation Earned, The Acclaim Deserved, The Triumph Witnessed
-numerical_relation: 7 + 6 = 13 (Death/Transformation; the stolen triumph, false acclaim)
+numerical_relation: 7 + 6 = 13 (XIII Death; the stolen triumph, false acclaim)
 elemental_bridge: Air's theft of Fire's victory; deception claiming earned triumph
 threshold_type: The Thief Stealing Victory—cunning claiming the victor's laurels
 
@@ -265,37 +270,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The false acclaim is known but the thief continues to enjoy it; the true victor is overshadowed
-  consequence: A dynamic where the thief receives acclaim that is known to be false
-  spatial_logic: The thief receiving applause while the true victor stands unrecognized
+  blockade_nature: A dynamic where the thief receives acclaim that is known to be false
+  swords_state: The thief receiving applause while the true victor stands unrecognized
+  consequence: the true victor is overshadowed
+  key_terms: dynamic where the thief receives, thief receiving applause, true victor is overshadowed, false acclaim is known
 
 dynamic_devolution:
   mechanism: The false acclaim gradually destroys the thief; the true victor is completely overshadowed
-  corruption: The 6 of Wands is corrupted; genuine victory is revealed as impossible
+  mode: The 6 of Wands is corrupted; genuine victory is revealed as impossible
   loss: The true victory is lost; the triumph is stolen
   key_terms: The destroyed true victor, the corrupted acclaim, lost genuine victory, stolen triumph
 
 dynamic_dependency:
   mechanism: The 7 of Swords must be exposed; the 6 of Wands must be vindicated
-  integration: The truth is revealed; the true victor is recognized; the thief is stripped of false acclaim
-  paradox: The strongest triumphs are those that survive and are vindicated after theft of credit
-  outcome: The thief is exposed; the true victor is recognized; genuine acclaim is restored
+  function: The truth is revealed; the true victor is recognized; the thief is stripped of false acclaim
+  integration_outcome: The thief is exposed; the true victor is recognized; genuine acclaim is restored
   key_terms: The vindicated victor, restored triumph, genuine acclaim, the honored achievement
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, 7 of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Defense Against Odds, The Struggle Against Opposition, The Holding Ground, The Courageous Stand
-numerical_relation: 7 + 7 = 14 (Moderation; the thief and the defender recognizing each other's cunning)
+numerical_relation: 7 + 7 = 14 (XIV Temperance; the thief and the defender recognizing each other's cunning)
 elemental_bridge: Air meeting Fire in mutual strategy; theft and defense aligned
 threshold_type: The Thief and the Defender—cunning and courage meeting
 
@@ -314,37 +320,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief and defender are locked in constant strategy; neither can fully win
-  consequence: A cold war of cunning where both survive but neither advances
-  spatial_logic: The thief attempting theft; the defender thwarting attempts; the cycle continuing
+  blockade_nature: A cold war of cunning where both survive but neither advances
+  swords_state: The thief attempting theft; the defender thwarting attempts; the cycle continuing
+  consequence: neither can fully win
+  key_terms: cold war of cunning, thief attempting theft, neither can fully win, thief and defender are locked
 
 dynamic_devolution:
   mechanism: The constant strategic engagement gradually exhausts both
-  corruption: Both the thief and defender become worn by the endless struggle
+  mode: Both the thief and defender become worn by the endless struggle
   loss: The ability to thrive is lost to both; survival becomes all that matters
   key_terms: The exhausted thief, the weary defender, endless struggle, mutual fatigue
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept that the defender's position is unbreakable; the 7 of Wands must accept that the thief will persist
-  integration: Both accept a truce; the thief seeks opportunities elsewhere; the defender maintains vigilance
-  paradox: Sometimes the greatest victory is the mutual recognition that neither can defeat the other
-  outcome: A truce is reached; both move on; the struggle ends with respect
+  function: Both accept a truce; the thief seeks opportunities elsewhere; the defender maintains vigilance
+  integration_outcome: A truce is reached; both move on; the struggle ends with respect
   key_terms: The honored truce, mutual respect, the ended struggle, the acknowledged equals
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, 8 of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Swift Movement, The Rapid Progress, The Messengers Flying, The Speed Unleashed
-numerical_relation: 7 + 8 = 15 (The Devil reversed; the thief and the swift messenger moving in opposite directions)
+numerical_relation: 7 + 8 = 15 (XV The Devil; the thief and the swift messenger moving in opposite directions)
 elemental_bridge: Air's theft and Fire's speed in conflict
 threshold_type: The Thief Unable to Match the Messenger—cunning against pure speed
 
@@ -363,37 +370,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The chase continues indefinitely; neither can overcome the other
-  consequence: A pursuit that never ends; the thief always trailing the swift messenger
-  spatial_logic: The thief pursuing; the swift one flying ahead; the gap never closing or widening
+  blockade_nature: A pursuit that never ends; the thief always trailing the swift messenger
+  swords_state: The thief pursuing; the swift one flying ahead; the gap never closing or widening
+  consequence: neither can overcome the other
+  key_terms: pursuit that never ends, thief pursuing, neither can overcome the other, chase continues indefinitely
 
 dynamic_devolution:
   mechanism: The chase becomes obsessive; both are destroyed by the endless pursuit
-  corruption: The thief loses all purpose except the chase; the messenger loses all destination
+  mode: The thief loses all purpose except the chase; the messenger loses all destination
   loss: Both are lost to the pursuit; nothing else matters
   key_terms: The obsessed thief, the trapped messenger, the endless chase, mutual loss
 
 dynamic_dependency:
   mechanism: The 7 of Swords must accept that some cannot be caught; the 8 of Wands must accept that flight is not living
-  integration: The chase ends; the thief seeks other targets; the messenger finds destination
-  paradox: Sometimes the greatest wisdom is knowing when to stop pursuing or fleeing
-  outcome: The chase ends; both find new purpose; the pursuit is released
+  function: The chase ends; the thief seeks other targets; the messenger finds destination
+  integration_outcome: The chase ends; both find new purpose; the pursuit is released
   key_terms: The ended chase, the found destination, the released pursuit, new purpose
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, 9 of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Final Stand, The Resilience Tested, The Strength of the Weary, The Last Defense
-numerical_relation: 7 + 9 = 16 (The Tower; the exhausted defender finally falls to the thief)
+numerical_relation: 7 + 9 = 16 (XVI The Tower; the exhausted defender finally falls to the thief)
 elemental_bridge: Air's theft wearing down Fire's exhaustion
 threshold_type: The Thief Preying on Exhaustion—cunning attacking at the moment of weakness
 
@@ -412,37 +420,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The defender remains but the final stand is broken; the theft is complete but incomplete
-  consequence: The exhaustion becomes total; the defender cannot recover from the theft at this moment
-  spatial_logic: The defender standing but broken; the thief taking the last reserves
+  blockade_nature: The exhaustion becomes total; the defender cannot recover from the theft at this moment
+  swords_state: The defender standing but broken; the thief taking the last reserves
+  consequence: the theft is complete but incomplete
+  key_terms: exhaustion becomes total, defender standing but broken, theft is complete but incomplete, defender remains but the final
 
 dynamic_devolution:
   mechanism: The defender collapses completely; the final stand becomes a complete failure
-  corruption: The 9 of Wands is destroyed; what was the last defense becomes the final wound
+  mode: The 9 of Wands is destroyed; what was the last defense becomes the final wound
   loss: The defender is lost; the stand is lost; everything is lost
   key_terms: The collapsed defense, the destroyed final stand, complete failure, the destroyed warrior
 
 dynamic_dependency:
   mechanism: The 7 of Swords must make restitution; the 9 of Wands must find recovery
-  integration: The thief restores what was stolen; the defender finds recovery and a renewed final stand
-  paradox: The strongest final stands are sometimes those that have been breached and then rebuilt
-  outcome: The theft is reversed; the defender recovers; the final stand is honored
+  function: The thief restores what was stolen; the defender finds recovery and a renewed final stand
+  integration_outcome: The theft is reversed; the defender recovers; the final stand is honored
   key_terms: The restored goods, recovered defender, the honored stand, renewed resilience
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, 10 of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Burden Carried, The Responsibility Heavy, The Load Immense, The Duty Binding
-numerical_relation: 7 + 10 = 17 (The Star; the thief stealing the burden, creating false freedom)
+numerical_relation: 7 + 10 = 17 (XVII The Star; the thief stealing the burden, creating false freedom)
 elemental_bridge: Air's stealth taking Fire's weight; theft of responsibility
 threshold_type: The Thief Stealing Burden—cunning relieving weight through deception
 
@@ -461,37 +470,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The burden continues but is now known to be stolen; the weight feels even heavier
-  consequence: A burden that appears lighter but is morally heavier; the theft adds shame to the weight
-  spatial_logic: The burdened one carrying weight that is lighter physically but heavier spiritually
+  blockade_nature: A burden that appears lighter but is morally heavier; the theft adds shame to the weight
+  swords_state: The burdened one carrying weight that is lighter physically but heavier spiritually
+  consequence: the weight feels even heavier
+  key_terms: burden that appears lighter, burdened one carrying weight, weight feels even heavier, burden continues
 
 dynamic_devolution:
   mechanism: The stolen burden gradually destroys the one who carried it
-  corruption: The 10 of Wands becomes unbearable because it is revealed as falsely lightened
+  mode: The 10 of Wands becomes unbearable because it is revealed as falsely lightened
   loss: The capacity to carry the burden is lost
   key_terms: The destroyed bearer, unbearable burden, lost capacity, the collapsed under weight
 
 dynamic_dependency:
   mechanism: The 7 of Swords must restore what was stolen; the 10 of Wands must find genuine help
-  integration: The stolen burden is returned; genuine support is found
-  paradox: The strongest bearers are those who have survived both the burden and the theft
-  outcome: The burden is restored; genuine help is found; the weight is carried with integrity
+  function: The stolen burden is returned; genuine support is found
+  integration_outcome: The burden is restored; genuine help is found; the weight is carried with integrity
   key_terms: The restored burden, genuine help, the honored bearer, integrity recovered
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, Page of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Enthusiastic Messenger, The Creative Spark Discovered, The First Fire, The Young Vision
-numerical_relation: 7 + Page = The thief and the young enthusiast; cunning and naivete
+numerical_relation: 7 + 11 = 18 (XVIII The Moon; cunning and naivete)
 elemental_bridge: Air's theft exploiting Fire's innocence
 threshold_type: The Thief Stealing from the Youth—deception preying on enthusiasm
 
@@ -510,37 +520,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The Page remains enthusiastic despite the theft but is now aware of potential exploitation
-  consequence: An enthusiasm that is guarded; the young one's fire is present but is cautious
-  spatial_logic: The Page maintaining spark but watching for thieves
+  blockade_nature: An enthusiasm that is guarded; the young one's fire is present but is cautious
+  swords_state: The Page maintaining spark but watching for thieves
+  consequence: neither figure can move toward the other; the meeting stalls
+  key_terms: enthusiasm that is guarded, page maintaining spark but watching, neither figure can move toward, page remains enthusiastic despite
 
 dynamic_devolution:
   mechanism: The Page's enthusiasm is completely destroyed by repeated thefts
-  corruption: The young one becomes cynical and hardened; the spark dies
+  mode: The young one becomes cynical and hardened; the spark dies
   loss: The creative potential of youth is lost
   key_terms: The hardened youth, lost enthusiasm, destroyed potential, the dead spark
 
 dynamic_dependency:
   mechanism: The 7 of Swords must be prevented from causing harm; the Page must find genuine mentors
-  integration: The thief is prevented; the Page finds honest guides; the spark is protected and flourishes
-  paradox: The strongest creative potential often comes from those who have survived and recovered from theft of their spark
-  outcome: The Page is protected; genuine mentorship is found; the spark flourishes
+  function: The thief is prevented; the Page finds honest guides; the spark is protected and flourishes
+  integration_outcome: The Page is protected; genuine mentorship is found; the spark flourishes
   key_terms: The protected youth, genuine mentorship, the flourishing spark, the honored fire
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, Knight of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Adventurous Seeker, The Passionate Explorer, The Bold Adventurer, The Courageous Journeyer
-numerical_relation: 7 + Knight = 9 (Completion; the adventure stolen by false direction)
+numerical_relation: 7 + 12 = 19 (XIX The Sun; the adventure stolen by false direction)
 elemental_bridge: Air's deception misleading Fire's quest
 threshold_type: The Thief Leading the Adventurer Astray—cunning redirecting passionate seeking
 
@@ -559,37 +570,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The knight continues on the false path despite knowing it is false
-  consequence: An adventure that is hollow; the knight moves but is empty inside
-  spatial_logic: The knight journeying on the false path, knowing it is false but unable to turn back
+  blockade_nature: An adventure that is hollow; the knight moves but is empty inside
+  swords_state: The knight journeying on the false path, knowing it is false but unable to turn back
+  consequence: neither figure can move toward the other; the meeting stalls
+  key_terms: adventure that is hollow, knight journeying on the false, neither figure can move toward, knight continues on the false
 
 dynamic_devolution:
   mechanism: The false adventure gradually destroys the knight's capacity for genuine adventure
-  corruption: The Knight of Wands becomes a lost wanderer rather than an adventurer
+  mode: The Knight of Wands becomes a lost wanderer rather than an adventurer
   loss: The capacity for genuine questing is lost
   key_terms: The lost wanderer, destroyed adventurer, false journey, the empty seeking
 
 dynamic_dependency:
   mechanism: The 7 of Swords must confess the deception; the Knight must find the genuine path
-  integration: The true direction is revealed; the knight finds the authentic adventure
-  paradox: The most genuine adventures are sometimes those that have survived and recovered from false direction
-  outcome: The deception is revealed; the true path is found; the adventure is completed authentically
+  function: The true direction is revealed; the knight finds the authentic adventure
+  integration_outcome: The deception is revealed; the true path is found; the adventure is completed authentically
   key_terms: The revealed truth, found path, the authentic adventure, the honored seeking
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, Queen of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Charismatic Leader, The Inspiring Presence, The Bold Creator, The Magnetizing Force
-numerical_relation: 7 + Queen = 12 (The Hanged One; the thief attempting to steal the Queen's magnetism)
+numerical_relation: 7 + 13 = 20 (XX Judgement; the thief attempting to steal the Queen's magnetism)
 elemental_bridge: Air's deception attempting to capture Fire's charisma
 threshold_type: The Thief Infiltrating the Queen—cunning against magnetism
 
@@ -608,37 +620,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief's claimed magnetism is false; the followers gradually recognize the fraud
-  consequence: A false authority that is technically in place but is not believed
-  spatial_logic: The thief claiming the Queen's throne but followers remaining loyal to the true Queen
+  blockade_nature: A false authority that is technically in place but is not believed
+  swords_state: The thief claiming the Queen's throne but followers remaining loyal to the true Queen
+  consequence: the followers gradually recognize the fraud
+  key_terms: false authority that is technically, thief claiming the queen's throne, followers gradually recognize the fraud, thief's claimed magnetism is false
 
 dynamic_devolution:
   mechanism: The false authority gradually crumbles; the followers see through the deception
-  corruption: The thief's claimed magnetism is completely destroyed
+  mode: The thief's claimed magnetism is completely destroyed
   loss: The authority is lost; the charisma is revealed as illusory
   key_terms: The failed usurper, destroyed authority, revealed fraud, the empty magnetism
 
 dynamic_dependency:
   mechanism: The 7 of Swords must be exposed and removed; the Queen must restore her authority
-  integration: The thief is expelled; the Queen's true magnetism is restored
-  paradox: The strongest magnetism is often that which has survived attempts at theft
-  outcome: The thief is expelled; the Queen's authority is restored; her followers return
+  function: The thief is expelled; the Queen's true magnetism is restored
+  integration_outcome: The thief is expelled; the Queen's authority is restored; her followers return
   key_terms: The removed thief, restored authority, returned followers, the honored queen
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW
 
 ---
 
 card_pair: 7 of Swords, King of Wands
 archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
 archetype_wands: The Fiery Ruler, The Passionate Leader, The Inspirational Force, The Sovereign of Action
-numerical_relation: 7 + King = 13 (Death/Transformation; the thief challenging the King's rule through cunning)
+numerical_relation: 7 + 14 = 21 (XXI The World; the thief challenging the King's rule through cunning)
 elemental_bridge: Air's theft attempting to overthrow Fire's rule
 threshold_type: The Thief Attempting Coup—deception challenging passionate sovereignty
 
@@ -657,27 +670,28 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief is discovered but remains; a cold war develops
-  consequence: The King rules but must remain vigilant; the thief remains at court but is watched
-  spatial_logic: The King on the throne but aware of the threat; the thief present but powerless
+  blockade_nature: The King rules but must remain vigilant; the thief remains at court but is watched
+  swords_state: The King on the throne but aware of the threat; the thief present but powerless
+  consequence: a cold war develops
+  key_terms: king rules but must remain, king on the throne, cold war develops, thief is discovered
 
 dynamic_devolution:
   mechanism: The cold war gradually poisons the kingdom
-  corruption: The rule deteriorates due to constant vigilance; the thief becomes more desperate
+  mode: The rule deteriorates due to constant vigilance; the thief becomes more desperate
   loss: Both the kingship and the thief are destroyed by the conflict
   key_terms: The poisoned rule, desperate thief, the weakened kingdom, mutual destruction
 
 dynamic_dependency:
   mechanism: The 7 of Swords must be executed or exiled; the King of Wands must restore stable rule
-  integration: The thief is removed; the kingdom is restored
-  paradox: The strongest rulers are often those who have survived and defeated coup attempts
-  outcome: The thief is exiled; the King's rule is restored and strengthened
+  function: The thief is removed; the kingdom is restored
+  integration_outcome: The thief is exiled; the King's rule is restored and strengthened
   key_terms: The exiled thief, restored rule, the strengthened king, stable kingdom
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with wands graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: Air + Fire
-  numerical_axis: 7 of Swords (deception, theft) to 14 Wands cards (action, passion, creation)
-  uid: SIOW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OSW

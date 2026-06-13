@@ -1,0 +1,697 @@
+card_pair: King of Swords, Ace of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 14 + 1 = 15 (XV The Devil; judgment meets raw inspiration)
+elemental_bridge: Air's scrutiny meets Fire's first spark; the design that must be sound meets the heat that wants only to catch
+threshold_type: The raw inspiration brought before the judge; the spark asked to prove itself before it burns
+
+dynamic_genesis:
+  mechanism: The King's judgment gives the raw spark a shape and a viable direction
+  process: The King tests the inspiration for soundness, frames it as a workable enterprise
+  outcome: creative fire given form; inspiration disciplined into a viable venture
+  key_terms: shaped spark, tested inspiration, viable enterprise, fire given form
+
+dynamic_antagonism:
+  mechanism: The King wants the idea proven; the Ace wants only to ignite
+  tension_axis: scrutiny versus combustion
+  king_of_swords_position: Withholds the match until the design is sound
+  ace_of_wands_position: The spark dies if it must wait for approval
+  key_terms: scrutiny versus ignition, approval delays the spark, design versus fire
+
+dynamic_inhibition:
+  mechanism: The King over-examines the inspiration until its heat is gone
+  blockade_nature: the spark smothered under analysis before it can catch
+  swords_state: a judge debating a fire into ash
+  consequence: the inspiration cools; nothing is kindled
+  key_terms: smothered spark, fire debated to ash, cooled inspiration, nothing kindled
+
+dynamic_devolution:
+  mechanism: Judgment rules spontaneity reckless; the King outlaws inspiration that cannot pre-justify itself
+  mode: principle hostile to creative risk; the new ruled dangerous by default
+  loss: the generative spark; invention foreclosed by demand for proof before trial
+  key_terms: spontaneity outlawed, creative risk forbidden, invention foreclosed, spark lost
+
+dynamic_dependency:
+  mechanism: The Ace needs the King's judgment to become more than a flash; the King needs the Ace's fire to have anything new to govern
+  function: Swords-King supplies the form and discernment; Wands-Ace supplies the generative heat
+  integration_outcome: inspiration that survives into a real venture; fire shaped without being doused
+  key_terms: shaped inspiration, surviving spark, fire plus form, viable creation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, 2 of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 14 + 2 = 16 (XVI The Tower; judgment refines the strategist's vision)
+elemental_bridge: Air's test meets Fire's held vision; the demand to decide meets the wish to keep the horizon open
+threshold_type: The expansion plan brought before the judge; vision asked to fix itself before it is ready
+
+dynamic_genesis:
+  mechanism: The King's clarity sharpens the visionary's plan; judgment tests the strategy before commitment
+  process: The King probes the vision for weak assumptions, confirms the sound, discards the rest
+  outcome: an expansion plan refined by judgment; vision committed to deliberately
+  key_terms: sharpened vision, tested strategy, sound plan, deliberate expansion
+
+dynamic_antagonism:
+  mechanism: The King wants the strategy settled; the 2 wants to keep its options open on the horizon
+  tension_axis: the closed decision versus the held vision
+  king_of_swords_position: Demands the plan be fixed and executed
+  two_of_wands_position: Vision needs room; premature fixing forecloses the larger move
+  key_terms: fix-it versus keep-open, decision versus vision, foreclosed horizon
+
+dynamic_inhibition:
+  mechanism: The King forces a decision before the vision has matured into strategy
+  blockade_nature: an expansion frozen by a ruling demanded too early
+  swords_state: a judge ruling on a plan still forming on the map
+  consequence: the larger possibility is cut off by a premature verdict
+  key_terms: premature decision, frozen expansion, plan still forming, possibility cut
+
+dynamic_devolution:
+  mechanism: Judgment shrinks the vision to what can be immediately proven
+  mode: clarity made small; ambition ruled imprudent
+  loss: the scope of the vision; the bold move replaced by the safe verdict
+  key_terms: shrunken vision, ambition ruled imprudent, scope lost, safe over bold
+
+dynamic_dependency:
+  mechanism: The 2 needs the King's judgment to turn vision into sound strategy; the King needs the 2's vision so his rulings serve a future, not just the present
+  function: Swords-King supplies the rigorous test of the plan; Wands-2 supplies the vision and the will to expand
+  integration_outcome: a bold vision made sound; ambition with a tested strategy
+  key_terms: sound ambition, tested vision, strategy plus will, bold-and-viable
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, 3 of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 14 + 3 = 17 (XVII The Star; judgment reads the horizon with the merchant)
+elemental_bridge: Air's analysis meets Fire's far sight; the bench's assessment meets the trader's read of the distance
+threshold_type: The venture on the horizon brought before the judge; foresight asked which ships to back
+
+dynamic_genesis:
+  mechanism: The King's clarity confirms which of the merchant's ventures will return
+  process: The King reads the signs the 3 watches for, rules on which ships to back
+  outcome: enterprise guided by judgment; foresight confirmed by a clear assessment
+  key_terms: backed ventures, confirmed foresight, read signs, guided enterprise
+
+dynamic_antagonism:
+  mechanism: The King rules from analysis; the 3 trusts the merchant's read of the distance
+  tension_axis: the bench's assessment versus the trader's instinct for the horizon
+  king_of_swords_position: Backs only what the analysis supports
+  three_of_wands_position: The horizon speaks to those who watch it; the ledger comes late
+  key_terms: analysis versus instinct, assessment versus the watch, ledger versus horizon
+
+dynamic_inhibition:
+  mechanism: The King withholds backing pending certainty the venture cannot supply in advance
+  blockade_nature: enterprise stalled waiting for proof that only the voyage can produce
+  swords_state: a judge demanding the returns before the ships are launched
+  consequence: the opportunity sails for someone bolder; the venture never leaves port
+  key_terms: backing withheld, proof-before-voyage, stalled enterprise, opportunity sailed
+
+dynamic_devolution:
+  mechanism: Judgment recasts foresight as gambling and forbids the expansion
+  mode: clarity made timid; vision ruled mere speculation
+  loss: the growth the venture promised; enterprise foreclosed by excessive caution
+  key_terms: foresight ruled gambling, expansion forbidden, growth foreclosed, timid clarity
+
+dynamic_dependency:
+  mechanism: The 3 needs the King's judgment to separate sound ventures from wishful ones; the King needs the 3's foresight so his rulings reach beyond the visible
+  function: Swords-King supplies the rigorous read of which venture pays; Wands-3 supplies the foresight and reach
+  integration_outcome: expansion both visionary and vetted; foresight backed by sound judgment
+  key_terms: vetted expansion, backed foresight, reach plus rigor, sound growth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, 4 of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 14 + 4 = 18 (XVIII The Moon; judgment among the celebrants of completion)
+elemental_bridge: Air's tally of the unfinished meets Fire's earned festivity; the pending verdict meets the milestone's joy
+threshold_type: The completed milestone brought before the judge; the celebration asked what remains undone
+
+dynamic_genesis:
+  mechanism: The King's recognition confirms the milestone was truly reached; judgment dignifies the celebration
+  process: The King verifies the work behind the festivity, ratifies the achievement
+  outcome: a celebration grounded in confirmed achievement; joy with a sound basis
+  key_terms: confirmed milestone, dignified celebration, ratified achievement, grounded joy
+
+dynamic_antagonism:
+  mechanism: The King assesses what remains undone; the 4 wants to celebrate what is finished
+  tension_axis: the unfinished business versus the earned pause
+  king_of_swords_position: Names the work still pending before the festivity
+  four_of_wands_position: The milestone is real; the pause is earned now
+  key_terms: pending work versus earned pause, assessment versus festivity, milestone questioned
+
+dynamic_inhibition:
+  mechanism: The King's focus on what is incomplete denies the establishment its moment
+  blockade_nature: legitimate celebration blocked by a ruling that nothing is ever finished enough
+  swords_state: a judge who cannot let a milestone be marked
+  consequence: the achievement goes unmarked; the community is denied its renewing pause
+  key_terms: unmarked milestone, denied pause, never-finished ruling, renewal blocked
+
+dynamic_devolution:
+  mechanism: Judgment rules the celebration premature self-congratulation
+  mode: principle scorning the marking of achievement; joy ruled complacency
+  loss: the cohesion celebration builds; the community's earned rest shamed away
+  key_terms: celebration scorned, joy ruled complacent, cohesion lost, rest shamed
+
+dynamic_dependency:
+  mechanism: The 4 needs the King's judgment to celebrate the real and not the hollow; the King needs the 4's joy to mark the achievements his rulings produce
+  function: Swords-King supplies the verification that the milestone is genuine; Wands-4 supplies the communal joy that consolidates it
+  integration_outcome: a grounded celebration; achievement both verified and marked
+  key_terms: verified celebration, marked achievement, grounded joy, consolidated milestone
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, 5 of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Conflict, competition, competition, struggle, contested victory
+numerical_relation: 14 + 5 = 19 (XIX The Sun; judgment arbitrates the contest)
+elemental_bridge: Air's imposed order meets Fire's scrum; the referee's rules meet the free-for-all
+threshold_type: The contest brought before the judge; the brawl asked to accept a referee
+
+dynamic_genesis:
+  mechanism: The King's authority names the rules of the contest; judgment turns brawl into fair competition
+  process: The King defines the terms, the stakes, the bounds; the struggle becomes adjudicable
+  outcome: competition with rules; conflict made productive by a clear arbiter
+  key_terms: ruled contest, defined stakes, fair competition, adjudicable struggle
+
+dynamic_antagonism:
+  mechanism: The King imposes order; the 5 is a scrum that resists being refereed
+  tension_axis: the imposed rules versus the free-for-all
+  king_of_swords_position: Declares the terms all combatants must obey
+  five_of_wands_position: The fight has its own life; the gavel is just another stick
+  key_terms: rules versus scrum, referee resisted, order imposed on chaos
+
+dynamic_inhibition:
+  mechanism: The King's rulings multiply faster than the contest can absorb; the fight stalls in procedure
+  blockade_nature: vital competition smothered under adjudication
+  swords_state: a referee whose constant whistle stops the game entirely
+  consequence: the productive struggle dies in points of order
+  key_terms: smothered contest, constant whistle, procedure over play, struggle stalled
+
+dynamic_devolution:
+  mechanism: Judgment takes a side under the guise of refereeing; the King's verdict rigs the contest
+  mode: authority's impartiality faked; the gavel become a weapon for one party
+  loss: the fairness that made the competition worth having; arbitration corrupted
+  key_terms: rigged contest, faked impartiality, gavel as weapon, fairness lost
+
+dynamic_dependency:
+  mechanism: The 5 needs the King's rules so the struggle produces something; the King needs the 5's contest so his judgment has live forces to order
+  function: Swords-King supplies the fair terms and the arbiter; Wands-5 supplies the competitive energy that, ruled, becomes productive
+  integration_outcome: a contest that is both vigorous and fair; struggle made generative by sound arbitration
+  key_terms: vigorous-and-fair, generative struggle, sound arbitration, ruled energy
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, 6 of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 14 + 6 = 20 (XX Judgement; judgment confers or withholds the laurel)
+elemental_bridge: Air's verification meets Fire's triumph; the deferred verdict meets the claimed acclaim
+threshold_type: The victory brought before the judge; the laurel asked to wait on review
+
+dynamic_genesis:
+  mechanism: The King's authority confirms the victory is genuine; judgment makes the honor legitimate
+  process: The King examines the win, verifies it was earned, confers recognition with weight
+  outcome: a victory legitimized by clear judgment; honor that withstands scrutiny
+  key_terms: legitimized victory, verified win, weighted honor, recognition that holds
+
+dynamic_antagonism:
+  mechanism: The King withholds the laurel pending review; the 6 expects the acclaim now
+  tension_axis: the verdict deferred versus the triumph claimed
+  king_of_swords_position: Recognition waits on examination of the win
+  six_of_wands_position: The victory is public and present; deferral insults it
+  key_terms: deferred verdict versus claimed triumph, review versus acclaim, laurel withheld
+
+dynamic_inhibition:
+  mechanism: The King's endless verification keeps the honor perpetually pending
+  blockade_nature: an earned recognition frozen in review
+  swords_state: a judge who will not certify a win he cannot fault
+  consequence: the victor is left uncrowned, the achievement unacknowledged
+  key_terms: pending honor, frozen recognition, uncrowned victor, unacknowledged win
+
+dynamic_devolution:
+  mechanism: Judgment dispenses recognition to bind; the King makes the victor dependent on his certification
+  mode: honor weaponized; acclaim metered to control the one who earned it
+  loss: the victor's independent standing; recognition turned into a leash
+  key_terms: honor weaponized, metered acclaim, dependence engineered, standing lost
+
+dynamic_dependency:
+  mechanism: The 6 needs the King's judgment to make the honor credible; the King needs the 6's achievement to have merit worth certifying
+  function: Swords-King supplies the credible verification; Wands-6 supplies the genuine victory to be recognized
+  integration_outcome: honor both earned and certified; recognition that strengthens rather than binds
+  key_terms: credible honor, certified victory, recognition that frees, earned-and-affirmed
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, 7 of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 14 + 7 = 21 (XXI The World; judgment rules on the defended position)
+elemental_bridge: Air's appraisal from safety meets Fire's stand under fire; the verdict meets the line being held
+threshold_type: The defended position brought before the judge; the stand asked whether it is worth holding
+
+dynamic_genesis:
+  mechanism: The King's judgment confirms the position is worth defending; principle backs the stand
+  process: The King weighs the cause, rules the defense legitimate, lends it the authority of right
+  outcome: a stand validated by judgment; resistance with a principled mandate
+  key_terms: validated stand, principled mandate, legitimate defense, backed resistance
+
+dynamic_antagonism:
+  mechanism: The King assesses from safety; the 7 holds the ground under attack
+  tension_axis: the bench's appraisal versus the defender's lived pressure
+  king_of_swords_position: Rules on whether the position should be held at all
+  seven_of_wands_position: The assessment ignores what holding actually costs from here
+  key_terms: appraisal versus pressure, safety versus the line, ruling on the held ground
+
+dynamic_inhibition:
+  mechanism: The King's deliberation withholds the mandate while the defender is overrun
+  blockade_nature: a stand undermined by judgment that arrives too slow to back it
+  swords_state: a judge weighing the case as the position falls
+  consequence: the ground is lost during the deliberation that should have defended it
+  key_terms: slow mandate, undermined stand, ground lost, deliberation too late
+
+dynamic_devolution:
+  mechanism: Judgment rules the defense stubbornness and orders the position abandoned
+  mode: principle miscalling resolve obstinacy; the stand condemned from comfort
+  loss: a position worth keeping, surrendered by a verdict made far from the line
+  key_terms: resolve miscalled obstinacy, position surrendered, verdict from comfort, stand condemned
+
+dynamic_dependency:
+  mechanism: The 7 needs the King's judgment to know the stand is right and not mere ego; the King needs the 7's resolve to make his rulings hold against pressure
+  function: Swords-King supplies the verdict that the cause is just; Wands-7 supplies the resilience to hold the line
+  integration_outcome: a defense both principled and resolute; a stand that is right and held
+  key_terms: principled resolve, just-and-held, backed stand, right defended
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, 8 of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 14 + 8 = 22 -> 2+2 = 4 (IV The Emperor; judgment governs velocity)
+elemental_bridge: Air's pause to deliberate meets Fire's momentum; the call to halt meets the arrows already loosed
+threshold_type: The rushing momentum brought before the judge; speed asked to confirm its target before flight
+
+dynamic_genesis:
+  mechanism: The King's judgment aims the rushing momentum; clarity gives speed a target
+  process: The King decides the direction before release; the 8's velocity is pointed true
+  outcome: rapid action aimed by judgment; speed with a verified destination
+  key_terms: aimed momentum, verified destination, pointed speed, governed velocity
+
+dynamic_antagonism:
+  mechanism: The King wants to deliberate; the 8 is already in flight
+  tension_axis: the pause for judgment versus the momentum that cannot wait
+  king_of_swords_position: Halt and confirm the target before the arrows fly
+  eight_of_wands_position: The moment is now; deliberation forfeits the speed
+  key_terms: halt versus flight, confirm versus launch, momentum cannot wait
+
+dynamic_inhibition:
+  mechanism: The King's demand to deliberate kills the momentum that was the whole advantage
+  blockade_nature: swift action stalled into a standstill by review
+  swords_state: a judge calling for halt after halt until the motion dies
+  consequence: the window closes; speed forfeited to deliberation
+  key_terms: stalled momentum, repeated halt, window closed, speed forfeited
+
+dynamic_devolution:
+  mechanism: Judgment, unable to keep pace, rules all speed reckless and forbids it
+  mode: clarity made sclerotic; momentum ruled dangerous by default
+  loss: the decisive advantage of speed; action throttled to the pace of review
+  key_terms: speed forbidden, sclerotic clarity, advantage lost, action throttled
+
+dynamic_dependency:
+  mechanism: The 8 needs the King's judgment so its speed reaches the right target; the King needs the 8's momentum so his decisions are enacted in time
+  function: Swords-King supplies the aim and the timing of the decision; Wands-8 supplies the velocity that delivers it
+  integration_outcome: fast action aimed true; decision and momentum synchronized
+  key_terms: aimed speed, timely decision, synchronized action, fast-and-true
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, 9 of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 14 + 9 = 23 -> 2+3 = 5 (V The Pope; judgment reads the battle-worn guardian)
+elemental_bridge: Air's fresh decree meets Fire's spent reserves; the order to hold again meets the exhausted guardian
+threshold_type: The weary guardian brought before the judge; tested endurance asked for one more stand
+
+dynamic_genesis:
+  mechanism: The King's judgment tells the weary guardian which battles still merit the strength
+  process: The King assesses what remains worth defending, ratifies the endurance as well-spent
+  outcome: perseverance directed by judgment; strength spent on what is worth it
+  key_terms: directed perseverance, worth assessed, well-spent strength, endurance ratified
+
+dynamic_antagonism:
+  mechanism: The King orders one more stand; the 9 is already past its reserves
+  tension_axis: the fresh decree versus the spent body
+  king_of_swords_position: Rules that the line must be held again
+  nine_of_wands_position: The ruling does not feel the exhaustion it commands
+  key_terms: decree versus exhaustion, fresh order meets spent guardian, command without cost
+
+dynamic_inhibition:
+  mechanism: The King's demands ignore the limit; the guardian seizes up between duty and depletion
+  blockade_nature: endurance commanded past the point where it can answer
+  swords_state: a judge ordering effort from a reserve that is already empty
+  consequence: the guardian freezes; the strength that remained is wasted in collapse
+  key_terms: limit ignored, seized guardian, empty reserve commanded, wasted strength
+
+dynamic_devolution:
+  mechanism: Judgment exploits the guardian's resilience, ruling endless defense onto the proven
+  mode: authority loading the strong because they have always held
+  loss: the guardian's permission to stop; resilience drained into ruin by decree
+  key_terms: resilience exploited, the strong overloaded, no permission to stop, drained to ruin
+
+dynamic_dependency:
+  mechanism: The 9 needs the King's judgment to spend its last strength wisely; the King needs the 9's endurance to make his hardest rulings hold
+  function: Swords-King supplies the read on which fights are worth it; Wands-9 supplies the tested strength to win them
+  integration_outcome: endurance spent where it counts; the hardest stands judged worth the cost
+  key_terms: wise endurance, worth-it stands, tested strength directed, cost judged
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, 10 of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 14 + 10 = 24 -> 2+4 = 6 (VI The Lover(s); judgment sorts the burden)
+elemental_bridge: Air's audit of the load meets Fire's crushing weight; the verdict to release meets the compulsion to carry
+threshold_type: The overloaded bearer brought before the judge; the burden asked what may be set down
+
+dynamic_genesis:
+  mechanism: The King's judgment names which burdens are truly the bearer's to carry
+  process: The King audits the load, separates real duty from assumed weight, rules what may be set down
+  outcome: a burden sorted by principle; only the necessary weight kept
+  key_terms: sorted burden, real duty named, weight released, necessary load kept
+
+dynamic_antagonism:
+  mechanism: The King rules to set the load down; the 10 cannot let any of it go
+  tension_axis: the verdict to release versus the compulsion to carry
+  king_of_swords_position: Rules that half the weight serves no one and must be dropped
+  ten_of_wands_position: All of it feels owed; the verdict cannot loosen the grip
+  key_terms: release-by-ruling versus compulsion, verdict versus grip, owed-weight
+
+dynamic_inhibition:
+  mechanism: The King's analysis of the burden adds the weight of judgment to the load
+  blockade_nature: the bearer pinned between the crushing weight and the verdict on how to carry it
+  swords_state: a judge auditing a load while the bearer buckles under it
+  consequence: the burden is now both heavy and judged; nothing is lifted
+  key_terms: judgment added, pinned bearer, audited load, nothing lifted
+
+dynamic_devolution:
+  mechanism: Judgment rules the exhaustion a failure of will; the King sentences the bearer to carry more
+  mode: principle shaming depletion; the overloaded blamed for not coping
+  loss: relief; the possibility of setting anything down foreclosed by a verdict of weakness
+  key_terms: exhaustion ruled failure, more decreed, relief foreclosed, depletion blamed
+
+dynamic_dependency:
+  mechanism: The 10 needs the King's judgment to tell true duty from needless weight; the King needs the 10's sense of responsibility so his rulings are not careless
+  function: Swords-King supplies the discernment of what must be carried; Wands-10 supplies the conscientiousness that the discernment refines
+  integration_outcome: a load reduced to the necessary; responsibility kept without being crushed by it
+  key_terms: necessary load, refined responsibility, carried-not-crushed, discerned duty
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, Page of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 14 + 11 = 25 -> 2+5 = 7 (VII The Chariot; judgment directs the eager spark)
+elemental_bridge: Air's imposed discipline meets Fire's untrained eagerness; the standard meets the spark that wants to chase everything
+threshold_type: The eager beginner brought before the master; raw fire asked to accept discipline
+
+dynamic_genesis:
+  mechanism: The King's judgment gives the young enthusiasm a worthy aim and a standard
+  process: The King names what the spark is good for, orders its first steps, judges the progress
+  outcome: youthful fire directed by clarity; enthusiasm pointed at something real
+  key_terms: directed enthusiasm, worthy aim, ordered steps, fire pointed
+
+dynamic_antagonism:
+  mechanism: The King demands discipline; the Page wants to chase every spark
+  tension_axis: imposed discipline versus untrained fire
+  king_of_swords_position: Decrees the discipline the talent requires
+  page_of_wands_position: Discipline too soon smothers the very spark it would train
+  key_terms: discipline versus fire, decree versus chase, spark smothered
+
+dynamic_inhibition:
+  mechanism: The King's standard, applied to a beginner, extinguishes the nerve to try
+  blockade_nature: eager potential barred by a bar set for the finished
+  swords_state: a judge grading a novice's fire by a master's measure
+  consequence: the Page stops trying rather than fail the impossible standard
+  key_terms: nerve extinguished, novice over-judged, impossible bar, trying stopped
+
+dynamic_devolution:
+  mechanism: Judgment rules the enthusiasm immature noise and corrects it into caution
+  mode: authority dampening fire; eagerness ruled foolishness
+  loss: the generative energy of the beginner; the spark dimmed to fit the rule
+  key_terms: enthusiasm dampened, eagerness ruled folly, energy lost, spark dimmed
+
+dynamic_dependency:
+  mechanism: The Page needs the King's judgment to aim the fire; the King needs the Page's enthusiasm so his standards are met by living energy
+  function: Swords-King supplies the aim and the criterion; Wands-Page supplies the fire that powers the work
+  integration_outcome: enthusiasm aimed into competence; fire that learns discipline without dying
+  key_terms: aimed enthusiasm, living standard, fire plus discipline, competence kindled
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, Knight of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 14 + 12 = 26 -> 2+6 = 8 (VIII Justice; judgment reins the wild rider)
+elemental_bridge: Air's vetting pause meets Fire's gallop; the demand to justify meets the rider already charging
+threshold_type: The bold adventure brought before the judge; daring asked to be vetted before the ride
+
+dynamic_genesis:
+  mechanism: The King's judgment gives the bold rider a worthy quest and a check on recklessness
+  process: The King names the adventure worth taking, sets the bounds, the Knight supplies the daring
+  outcome: bold action governed by judgment; daring aimed at something that merits it
+  key_terms: worthy adventure, bounded daring, governed boldness, aimed action
+
+dynamic_antagonism:
+  mechanism: The King wants the venture vetted; the Knight is already galloping
+  tension_axis: the vetting pause versus the charge
+  king_of_swords_position: Halt and justify the adventure before riding
+  knight_of_wands_position: The ride is the point; vetting is for those who never move
+  key_terms: vetting versus charge, halt versus gallop, justification refused
+
+dynamic_inhibition:
+  mechanism: The King's demands for justification strand the rider's momentum
+  blockade_nature: bold action frozen by a tribunal the daring will not sit for
+  swords_state: a judge ordering a halt the gallop cannot honor
+  consequence: the venture neither rides nor is ruled; the energy spoils in the standstill
+  key_terms: stranded momentum, refused tribunal, neither-rides-nor-ruled, energy spoiled
+
+dynamic_devolution:
+  mechanism: Judgment rules all boldness recklessness and forbids the adventure
+  mode: clarity turned timid; daring ruled folly by default
+  loss: the capacity for bold action; the venture grounded by excessive caution
+  key_terms: boldness forbidden, daring ruled folly, venture grounded, timid clarity
+
+dynamic_dependency:
+  mechanism: The Knight needs the King's judgment to keep daring from disaster; the King needs the Knight's boldness to enact what mere ruling cannot
+  function: Swords-King supplies the check and the worthy target; Wands-Knight supplies the daring that carries the decision into action
+  integration_outcome: bold action that is also wise; daring aimed and checked
+  key_terms: wise daring, checked boldness, aimed adventure, decision enacted
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, Queen of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 14 + 13 = 27 -> 2+7 = 9 (IX The Hermit; judgment meets magnetism)
+elemental_bridge: Air's reasoned rule meets Fire's magnetism; the authority of principle meets the authority that draws a following
+threshold_type: Two authorities before the realm; the rule of reason meets the rule of charisma
+
+dynamic_genesis:
+  mechanism: The King's principle and the Queen's charisma combine: sound rule made compelling
+  process: The King decides what is right; the Queen makes it magnetic; the two lead together
+  outcome: leadership both principled and inspiring; authority that is right and followed gladly
+  key_terms: principled charisma, compelling rule, combined leadership, right-and-followed
+
+dynamic_antagonism:
+  mechanism: The King rules by reason; the Queen leads by fire; each distrusts the other's hold on people
+  tension_axis: the authority of principle versus the authority of magnetism
+  king_of_swords_position: People should follow what is right, not who is magnetic
+  queen_of_wands_position: Principle no one follows is a dead letter; fire moves them
+  key_terms: reason versus magnetism, right versus charisma, two holds on people
+
+dynamic_inhibition:
+  mechanism: The King's coldness drains the Queen's fire; the Queen's heat dismisses the King's rigor as joyless
+  blockade_nature: leadership stalled between charisma without principle and principle without appeal
+  swords_state: a lawgiver whose right rule no one is moved to follow
+  consequence: the realm hears the verdict and feels nothing; nothing is led
+  key_terms: drained fire, joyless rigor, unmoving verdict, leadership stalled
+
+dynamic_devolution:
+  mechanism: Charisma overrides principle or principle smothers charisma; one tyrannizes the other
+  mode: magnetism without rightness, or rightness with no power to move; leadership halved
+  loss: the union of sound and compelling; authority reduced to one faculty
+  key_terms: charisma without principle, rule without appeal, halved leadership, union lost
+
+dynamic_dependency:
+  mechanism: The King needs the Queen's magnetism to make right rule followed; the Queen needs the King's principle to make her fire worth following
+  function: Swords-King supplies the sound principle; Wands-Queen supplies the charisma that carries it into hearts
+  integration_outcome: leadership both right and inspiring; principle that people gladly follow
+  key_terms: right-and-inspiring, followed principle, compelling rightness, complete leadership
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW
+
+---
+
+card_pair: King of Swords, King of Wands
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 14 + 14 = 28 -> 2+8 = 10 (X The Wheel of Fortune; law meets visionary command)
+elemental_bridge: Air's principle meets Fire's visionary drive; the rule of what is right meets the rule of what is possible
+threshold_type: Two kings, two thrones; principle and vision asked which leads the realm
+
+dynamic_genesis:
+  mechanism: The Swords King's principle and the Wands King's vision align: sound law in service of a bold future
+  process: Swords supplies the just rule; Wands supplies the visionary drive; the two rule one realm
+  outcome: governance both principled and visionary; law that builds toward something
+  key_terms: principled vision, just-and-bold rule, combined command, law that builds
+
+dynamic_antagonism:
+  mechanism: The Swords King rules by what is right; the Wands King rules by what is possible; each claims the throne
+  tension_axis: the primacy of principle versus the primacy of vision
+  king_of_swords_position: Vision must answer to principle, or it becomes conquest
+  king_of_wands_position: Principle without vision merely administers decline
+  key_terms: principle versus vision, right versus possible, contested throne
+
+dynamic_inhibition:
+  mechanism: Each king checks the other; bold vision blocked by caution, sound law starved of direction
+  blockade_nature: governance deadlocked between principle that will not move and vision that will not be ruled
+  swords_state: a lawgiver vetoing every venture his rule cannot pre-approve
+  consequence: the realm neither advances nor is well-ordered; both kings cancel out
+  key_terms: vetoed vision, starved law, deadlocked kings, no advance
+
+dynamic_devolution:
+  mechanism: Vision overrides principle or principle strangles vision; one king conquers the other
+  mode: ambition without restraint, or restraint without ambition; authority made either tyrannous or sterile
+  loss: the balance of bold and sound; governance reduced to conquest or stagnation
+  key_terms: ambition unrestrained, sterile restraint, conquest or stagnation, balance lost
+
+dynamic_dependency:
+  mechanism: The Swords King needs the Wands King's vision so his law serves a future; the Wands King needs the Swords King's principle so his vision does not become tyranny
+  function: Swords-King supplies the governing principle; Wands-King supplies the visionary drive that gives the principle somewhere to go
+  integration_outcome: a realm both well-governed and boldly led; principle and vision crowned together
+  key_terms: governed-and-led, principled vision, bold-and-sound rule, twin crown
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSW

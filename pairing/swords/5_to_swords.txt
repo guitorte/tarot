@@ -1,7 +1,7 @@
 card_pair: 5 of Swords, Ace of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Pure Truth, The Clarity Descending, The Divine Insight, The Sword of Reality
-numerical_relation: 5 + Ace = 6 (The Lovers; truth and bitterness meeting, lovers who cannot unite)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 5 + 1 = 6 (VI The Lovers; truth and bitterness meeting, lovers who cannot unite)
 elemental_bridge: Air meeting Air in mutual recognition; clarity that recognizes itself in another form
 threshold_type: The Truth Arriving Too Late—pure clarity appears in a mind already scarred by conflict's lessons
 
@@ -20,37 +20,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The pure truth is imprisoned by the victor's bitterness; the clarity cannot flow freely because the victor insists on its contextual nature, on the suffering that precedes it
-  consequence: A truth that is technically correct but feels false to those who know it through experience; the Ace of Swords is rendered powerless by the victor's insistence on the cost
-  spatial_logic: The pure truth standing before the victor, clear and undeniable, but unable to penetrate the armor of experience
+  blockade_nature: A truth that is technically correct but feels false to those who know it through experience; the Ace of Swords is rendered powerless by the victor's insistence on the cost
+  swords_state: The pure truth standing before the victor, clear and undeniable, but unable to penetrate the armor of experience
+  consequence: the clarity cannot flow freely because the victor insists on its contextual nature, on the suffering that precedes it
+  key_terms: truth that is technically correct, pure truth standing before, clarity cannot flow freely because, pure truth is imprisoned
 
 dynamic_devolution:
   mechanism: The pure truth gradually corrupts under the weight of the victor's bitterness; the clarity becomes tainted; what should be pure is twisted by the association with suffering
-  corruption: The Ace of Swords becomes just another weapon in the victor's arsenal; the truth is weaponized and loses its pure character; the clarity becomes a tool of judgment rather than illumination
+  mode: The Ace of Swords becomes just another weapon in the victor's arsenal; the truth is weaponized and loses its pure character; the clarity becomes a tool of judgment rather than illumination
   loss: The possibility of healing through pure truth is destroyed; what remains is the cynical use of truth to wound others
   key_terms: The corrupted truth, clarity weaponized, innocence lost, truth as wound
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually accept that pure truth can exist and can heal; the Ace of Swords must accept that truth often comes late and that the bitterness of its arrival is part of its validity
-  integration: A truth that includes the knowledge of its own cost; the clarity that honors the suffering that precedes it; the wisdom that knows that truth must be earned
-  paradox: The deepest truths are often those that arrive accompanied by the scars of the journey toward them; the purest clarity is that which includes the acknowledgment of darkness
-  outcome: The victor finally receives the Ace of Swords' truth; the clarity is integrated not as negation of the bitterness but as its culmination; the truth heals by validating what was already known
+  function: A truth that includes the knowledge of its own cost; the clarity that honors the suffering that precedes it; the wisdom that knows that truth must be earned
+  integration_outcome: The victor finally receives the Ace of Swords' truth; the clarity is integrated not as negation of the bitterness but as its culmination; the truth heals by validating what was already known
   key_terms: The integrated truth, clarity honoring scars, wisdom complete, truth as healing
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, 2 of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Binding Stalemate, The Mutual Paralysis, The Indecision Enforced, The Blindfolded Standoff
-numerical_relation: 5 + 2 = 7 (The Chariot; but the chariot is disabled by the 2's paralysis; victory meets gridlock)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 5 + 2 = 7 (VII The Chariot; but the chariot is disabled by the 2's paralysis; victory meets gridlock)
 elemental_bridge: Air's clarity meeting Air's confusion; the victor cannot pierce the 2's deliberate blindness
 threshold_type: The Bitter Victor Encountering the Stalemate—one who fought and lost meeting one who refuses to fight at all
 
@@ -69,37 +70,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The victor's pressure to choose forces the 2 of Swords into deeper paralysis; the stalemate becomes even more rigid; the blindfold is tightened rather than loosened
-  consequence: A standoff where the victor demands choice and the 2 of Swords refuses with increasing desperation; the two become locked in a struggle that mirrors the original conflict
-  spatial_logic: The victor circling the blindfolded one, demanding choice, while the 2 of Swords becomes increasingly rigid, increasingly certain that the blindfold must not be removed
+  blockade_nature: A standoff where the victor demands choice and the 2 of Swords refuses with increasing desperation; the two become locked in a struggle that mirrors the original conflict
+  swords_state: The victor circling the blindfolded one, demanding choice, while the 2 of Swords becomes increasingly rigid, increasingly certain that the blindfold must not be removed
+  consequence: the blindfold is tightened rather than loosened
+  key_terms: standoff where the victor demands, victor circling the blindfolded one, blindfold is tightened rather, victor's pressure to choose forces
 
 dynamic_devolution:
   mechanism: The confrontation becomes a new conflict; the victor's pressure becomes a form of violence; the 2 of Swords' paralysis becomes a form of aggression
-  corruption: The potential mentorship becomes a war; the 2 of Swords is eventually forced to choose but not through understanding—through the sheer force of the victor's will
+  mode: The potential mentorship becomes a war; the 2 of Swords is eventually forced to choose but not through understanding—through the sheer force of the victor's will
   loss: The blindfold is removed but the removal is a violation; the choice is made but under duress; the 2 of Swords is wounded in the process of being forced to wake
   key_terms: The forced awakening, violated stalemate, choice through coercion, the new wound
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that the 2's stalemate, while ultimately unsustainable, is not simply cowardice; the 2 of Swords must accept that continued paralysis will eventually force a choice anyway
-  integration: The blindfold is removed through understanding rather than force; the stalemate is resolved not through the victor's pressure but through the 2's gradual recognition of its impossibility
-  paradox: The strongest choices often emerge from those who have first exhausted all other options; the 2 of Swords must be allowed to come to the choice themselves
-  outcome: The blindfold is finally removed, and the choice is made; the victor's presence makes this possible not through coercion but through patient witness to the stalemate's unsustainability
+  function: The blindfold is removed through understanding rather than force; the stalemate is resolved not through the victor's pressure but through the 2's gradual recognition of its impossibility
+  integration_outcome: The blindfold is finally removed, and the choice is made; the victor's presence makes this possible not through coercion but through patient witness to the stalemate's unsustainability
   key_terms: The patient witness, choice finally made, stalemate resolved, the victor's acceptance
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, 3 of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Heartbreak, The Sorrow, The Three Wounding Truths, The Grief Exposed
-numerical_relation: 5 + 3 = 8 (Strength, but of what? The strength to witness another's pain without being consumed by it)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 5 + 3 = 8 (VIII Justice; The strength to witness another's pain without being consumed by it)
 elemental_bridge: Air meeting Air in shared recognition of sorrow; two minds understanding each other's darkness
 threshold_type: The Siblings in Sorrow—the victor and the griever meeting in the landscape of shared suffering
 
@@ -118,37 +120,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The griever is held in their sorrow by the victor's insistence that the sorrow is the natural state; the grief cannot complete because it is interrupted by the knowledge that bitterness is what follows
-  consequence: The mourning process is interrupted; the griever remains suspended between grief and bitterness, unable to fully experience either
-  spatial_logic: The 3 of Swords grieving while the 5 of Swords watches, and the watching becomes a form of weight that prevents the grief from flowing naturally
+  blockade_nature: The mourning process is interrupted; the griever remains suspended between grief and bitterness, unable to fully experience either
+  swords_state: The 3 of Swords grieving while the 5 of Swords watches, and the watching becomes a form of weight that prevents the grief from flowing naturally
+  consequence: the grief cannot complete because it is interrupted by the knowledge that bitterness is what follows
+  key_terms: mourning process is interrupted, 3 of swords grieving, grief cannot complete because it, griever is held
 
 dynamic_devolution:
   mechanism: The mutual sorrow becomes poisonous; the victor's bitterness is experienced as judgment by the griever; the griever's continued mourning is experienced as weakness by the victor
-  corruption: The fellowship of sorrow becomes accusation; the two sufferers turn against each other; the potential communion becomes division
+  mode: The fellowship of sorrow becomes accusation; the two sufferers turn against each other; the potential communion becomes division
   loss: The possibility of healing through shared understanding is destroyed; what remains is mutual judgment and isolation
   key_terms: The poisoned fellowship, mutual judgment, sorrow become bitter, the divided sufferers
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that grief must be fully felt before it can be integrated into bitterness; the 3 of Swords must accept that the bitterness that follows is also valid
-  integration: A shared understanding where the griever is allowed to mourn fully and the victor is honored for having survived beyond the mourning; the sorrow is acknowledged as part of the path toward wisdom
-  paradox: The deepest understanding often emerges between those who have suffered differently but through the same or similar causes; the 3 of Swords becomes wise not by avoiding the victor's path but by walking it
-  outcome: The griever is finally allowed to feel their sorrow fully, witnessed by one who understands where it leads; the victor finds in this witnessing a form of redemption; the two become companions in understanding
+  function: A shared understanding where the griever is allowed to mourn fully and the victor is honored for having survived beyond the mourning; the sorrow is acknowledged as part of the path toward wisdom
+  integration_outcome: The griever is finally allowed to feel their sorrow fully, witnessed by one who understands where it leads; the victor finds in this witnessing a form of redemption; the two become companions in understanding
   key_terms: The honored grief, witnessed mourning, the path accepted, wisdom through sorrow
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, 4 of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Peace of Stillness, The Recovery Pause, The Truce Held, The Rest Between Battles
-numerical_relation: 5 + 4 = 9 (Completion, but of what? The cycle of conflict and rest, rotating endlessly)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: Rest, truce, peace, mental stillness, respite
+numerical_relation: 5 + 4 = 9 (IX The Hermit; The cycle of conflict and rest, rotating endlessly)
 elemental_bridge: Air's clarity recognizing Air's stillness; the victor understanding the necessity of pause
 threshold_type: The Warrior Recognizing Rest—the bitter victor understanding that the 4 of Swords' peace is earned, not naive
 
@@ -167,37 +170,88 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The rest of the 4 of Swords is interrupted by the victor's refusal to truly rest; the stillness becomes a facade while the victor maintains internal vigilance
-  consequence: A surface peace that does not penetrate; the warrior sleeps but does not recover; the rest does not restore because the mind remains in a state of threat awareness
-  spatial_logic: The figure appearing to rest while internally remaining tense, unable to let down the guard even in the space designed for peace
+  blockade_nature: A surface peace that does not penetrate; the warrior sleeps but does not recover; the rest does not restore because the mind remains in a state of threat awareness
+  swords_state: The figure appearing to rest while internally remaining tense, unable to let down the guard even in the space designed for peace
+  consequence: the stillness becomes a facade while the victor maintains internal vigilance
+  key_terms: surface peace that does, figure appearing to rest, stillness becomes a facade, rest of the 4
 
 dynamic_devolution:
   mechanism: The restlessness gradually becomes unbearable; the victor cannot continue to pretend to rest; the 4 of Swords' peace is abandoned in favor of active vigilance
-  corruption: The rest is destroyed; the warrior rises before recovery is complete; the cycle of conflict and rest is interrupted by the refusal to actually rest
+  mode: The rest is destroyed; the warrior rises before recovery is complete; the cycle of conflict and rest is interrupted by the refusal to actually rest
   loss: The recovery that should happen during the 4 of Swords never occurs; the warrior is perpetually exhausted but cannot stop to recover
   key_terms: The abandoned rest, perpetual exhaustion, recovery impossible, the unhealed warrior
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually learn to trust that the 4 of Swords' peace offers real recovery; the 4 of Swords must accept that the peace comes after conflict and will be followed by more conflict
-  integration: A rest that is both safe and authentic; the victor learns to actually recover during the 4's peace; the stillness is protected but not through the victor's constant vigilance but through wisdom about what deserves protection
-  paradox: The deepest rest is often that which comes after genuine conflict and is followed by the knowledge that more conflict will come; the peace is most authentic when it includes the truth of the cycle
-  outcome: The victor finally rests fully; the 4 of Swords' peace is real and restorative; the warrior recovers and rises again, strengthened by the true rest
+  function: A rest that is both safe and authentic; the victor learns to actually recover during the 4's peace; the stillness is protected but not through the victor's constant vigilance but through wisdom about what deserves protection
+  integration_outcome: The victor finally rests fully; the 4 of Swords' peace is real and restorative; the warrior recovers and rises again, strengthened by the true rest
   key_terms: The restorative peace, the authentic rest, the protected stillness, the recovered warrior
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
+
+---
+
+card_pair: 5 of Swords, 5 of Swords
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 5 + 5 = 10 (X The Wheel of Fortune; two hollow victories turning on the same wheel)
+elemental_bridge: Air's wound meeting its mirror; two clarities each sharpened on defeat, each recognizing itself in the other
+threshold_type: The Two Victors—two who won at cost meeting on the same emptied field
+
+dynamic_genesis:
+  mechanism: Two bitter victors recognize in each other the one face that understands the price; the hollow victory is no longer carried alone
+  process: Each sees their own defeat-in-winning reflected back; the armor relaxes a degree before the only witness who will not mistake the cost for triumph
+  outcome: A grim solidarity; two who know that winning emptied them, no longer pretending otherwise to each other
+  key_terms: recognized cost, mirrored victory, grim solidarity, the witness who understands
+
+dynamic_antagonism:
+  mechanism: Two contested truths cannot both hold the field; each victor's clarity indicts the other's; the ground that fit one barely fits two
+  tension_axis: my hollow victory against yours—two who cannot both have been the one who was right
+  swords_position_1: Holds the field as rightfully won; reads the other's presence as a challenge to the verdict
+  swords_position_2: Holds an equal claim; refuses to be cast as the defeated half of another's victory
+  key_terms: contested ground, rival verdicts, no room for two victors, mutual indictment
+
+dynamic_inhibition:
+  mechanism: Neither will lower the sword first; each waits for the other to concede the truth, and neither does
+  blockade_nature: a standoff of pride; the duel suspended at the instant before the strike, frozen because conceding would unmake the victory each defends
+  swords_state: two armed figures locked face to face, each unable to sheathe without admitting the win was hollow
+  consequence: nothing resolves; the field is held but by no one, two victors stalled in a deadlock neither chose
+  key_terms: standoff of pride, suspended duel, neither concedes first, the deadlocked field
+
+dynamic_devolution:
+  mechanism: Recognition curdles into rivalry; each decides the other must be defeated to make his own victory mean something
+  mode: the mirror attacked instead of trusted; solidarity turned into a fight to be the sole survivor of an already-won war
+  loss: the one witness who understood the cost is destroyed; each victor is left more alone than before they met
+  key_terms: solidarity soured, the mirror attacked, redoubled isolation, victory that needs a victim
+
+dynamic_dependency:
+  mechanism: Each victor needs the other as the only one who can name the hollowness without mistaking it for weakness
+  function: Swords-5 supplies, in each figure, proof that the cost was real and shared; the twin presence lets each set down the pretense that the win was clean
+  integration_outcome: two who stop contesting and begin corroborating; the hollow victory, witnessed by an equal, finally becomes something that can be put down
+  key_terms: shared corroboration, cost set down, equal witness, the pretense released
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, 6 of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Journey Away, The Escape, The Crossing, The Departure Required
-numerical_relation: 5 + 6 = 11 (The Hanged One; transition required, the departure from the landscape of conflict)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: The Traveler, The Departure, The Crossing, The Healer Through Distance
+numerical_relation: 5 + 6 = 11 (XI Strength; transition required, the departure from the landscape of conflict)
 elemental_bridge: Air understanding Air's need to leave; the clarity that enables departure
 threshold_type: The Witness to Departure—the bitter victor encountering those who must leave the field of battle
 
@@ -216,37 +270,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The departure is slowed by the victor's insistence on the landscape's infinity; the boat moves slowly toward the horizon, and doubt creeps into the voyager's mind
-  consequence: The 6 of Swords departs but with growing uncertainty; the crossing is incomplete; the voyager remains suspended between the battlefield left behind and the safety not yet reached
-  spatial_logic: The boat on the water, moving away from the shore but unable to reach the far bank, suspended in an eternal crossing
+  blockade_nature: The 6 of Swords departs but with growing uncertainty; the crossing is incomplete; the voyager remains suspended between the battlefield left behind and the safety not yet reached
+  swords_state: The boat on the water, moving away from the shore but unable to reach the far bank, suspended in an eternal crossing
+  consequence: the boat moves slowly toward the horizon, and doubt creeps into the voyager's mind
+  key_terms: 6 of swords departs, boat on the water, boat moves slowly toward, departure is slowed
 
 dynamic_devolution:
   mechanism: The doubt grows until the boat turns back; the 6 of Swords returns to the landscape of conflict, having proven the victor's point that escape is impossible
-  corruption: The departure becomes a punishment; the return to the battlefield is experienced as failure; the 6 of Swords is gradually corrupted into believing that leaving is impossible
+  mode: The departure becomes a punishment; the return to the battlefield is experienced as failure; the 6 of Swords is gradually corrupted into believing that leaving is impossible
   loss: The possibility of genuine escape from the conflict is destroyed; those who might have crossed over are instead condemned to remain in the landscape forever
   key_terms: The return to battle, escape proven impossible, the failed departure, the eternal battlefield
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that the 6 of Swords can genuinely cross to safety; the 6 of Swords must accept that leaving requires the willingness to release what is left behind
-  integration: The departure happens; the battlefield is genuinely left behind; the crossing is real; the far shore exists; those who depart are blessed by the victor's acceptance of their leaving
-  paradox: The greatest witness to departure is often those who have remained and learned to live with what they could not escape; the 6 of Swords is most fully blessed by one who understands the cost of leaving
-  outcome: The 6 of Swords crosses successfully; the boat reaches the far shore; the blessing of the victor makes the crossing real and lasting; those who depart do so with the knowledge that their escape is honored
+  function: The departure happens; the battlefield is genuinely left behind; the crossing is real; the far shore exists; those who depart are blessed by the victor's acceptance of their leaving
+  integration_outcome: The 6 of Swords crosses successfully; the boat reaches the far shore; the blessing of the victor makes the crossing real and lasting; those who depart do so with the knowledge that their escape is honored
   key_terms: The successful crossing, blessed departure, the far shore reached, escape honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, 7 of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Theft, The Deception, The Cunning Escape, The Duplicity Revealed
-numerical_relation: 5 + 7 = 12 (The Hanged One; perspective required to understand the nature of betrayal)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+numerical_relation: 5 + 7 = 12 (XII The Hanged Man; perspective required to understand the nature of betrayal)
 elemental_bridge: Air understanding Air's deception; the clarity recognizing how truth can be twisted
 threshold_type: The Victor Encountering Deception—the bitter one understanding both sides of betrayal
 
@@ -265,37 +320,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The thief is frozen in the act of stealing, aware that the victor sees but unable to stop; the deception continues but is now performed for an audience that understands it
-  consequence: The theft becomes a strange performance; the 7 of Swords steals knowing the victor knows; the stealing loses all meaning because its secrecy is destroyed
-  spatial_logic: The thief and the victor locked in a dance where the stealing happens but its purpose is already defeated
+  blockade_nature: The theft becomes a strange performance; the 7 of Swords steals knowing the victor knows; the stealing loses all meaning because its secrecy is destroyed
+  swords_state: The thief and the victor locked in a dance where the stealing happens but its purpose is already defeated
+  consequence: the deception continues but is now performed for an audience that understands it
+  key_terms: theft becomes a strange performance, thief and the victor locked, deception continues, thief is frozen
 
 dynamic_devolution:
   mechanism: The continuing deception poisons the relationship; the victor gradually loses patience; the thief gradually becomes desperate as the theft no longer serves its purpose
-  corruption: The 7 of Swords becomes compulsive—stealing not for survival but for the sake of stealing itself; the theft transforms from strategy into addiction
+  mode: The 7 of Swords becomes compulsive—stealing not for survival but for the sake of stealing itself; the theft transforms from strategy into addiction
   loss: The possibility of the thief transcending their own deception is destroyed; what remains is a life built entirely on lies
   key_terms: The compulsive theft, deception as addiction, strategy lost, the enslaved thief
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that the 7's deception comes from genuine fear; the 7 of Swords must accept that the victor's directness is not a threat
-  integration: The thief gradually learns that honesty can be safer than deception; the victor's understanding makes this learning possible; the theft is gradually abandoned not through shame but through the recognition that it is no longer necessary
-  paradox: The deepest transformation often comes from being understood by those who have lived through similar darkness; the 7 of Swords is freed not through judgment but through witness
-  outcome: The thief finally ceases stealing; the 7 of Swords moves toward direct engagement; the victory of the victor is complete when the thief becomes honest not through force but through the example and blessing of one who has learned to live truthfully
+  function: The thief gradually learns that honesty can be safer than deception; the victor's understanding makes this learning possible; the theft is gradually abandoned not through shame but through the recognition that it is no longer necessary
+  integration_outcome: The thief finally ceases stealing; the 7 of Swords moves toward direct engagement; the victory of the victor is complete when the thief becomes honest not through force but through the example and blessing of one who has learned to live truthfully
   key_terms: The abandoned theft, honesty learned, the freed thief, truth honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, 8 of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Trapped Mind, The Mental Prison, The Bonds of Thought, The Captivity of Understanding
-numerical_relation: 5 + 8 = 13 (Death/Transformation; the freedom that comes from accepting one's captivity)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+numerical_relation: 5 + 8 = 13 (XIII Death; the freedom that comes from accepting one's captivity)
 elemental_bridge: Air understanding Air's imprisonment; the clarity recognizing how thought can become a prison
 threshold_type: The Victor Encountering Mental Captivity—the bitter one understanding the prisoner's invisible chains
 
@@ -314,37 +370,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The prisoner sees the way out but cannot take it; the bonds, while invisible, are internalized so completely that movement becomes impossible
-  consequence: The 8 of Swords is frozen by the knowledge of possible escape; the refusal to move becomes compulsive; the invisible bonds tighten as the awareness of freedom grows
-  spatial_logic: The prisoner within arm's reach of the exit but unable to step forward, the invisible bonds becoming tighter with each moment of awareness
+  blockade_nature: The 8 of Swords is frozen by the knowledge of possible escape; the refusal to move becomes compulsive; the invisible bonds tighten as the awareness of freedom grows
+  swords_state: The prisoner within arm's reach of the exit but unable to step forward, the invisible bonds becoming tighter with each moment of awareness
+  consequence: the bonds, while invisible, are internalized so completely that movement becomes impossible
+  key_terms: 8 of swords is frozen, prisoner within arm's reach, prisoner sees the way out
 
 dynamic_devolution:
   mechanism: The awareness of possible escape becomes torture; the prisoner is gradually destroyed by the knowledge of freedom they cannot access; the invisible bonds transform into visible despair
-  corruption: The mental captivity transforms into actual breakdown; the prisoner's mind fragments under the weight of knowing freedom is possible but remaining imprisoned
+  mode: The mental captivity transforms into actual breakdown; the prisoner's mind fragments under the weight of knowing freedom is possible but remaining imprisoned
   loss: The capacity for rational thought is destroyed; what remains is the madness of captivity
   key_terms: The tortured prisoner, broken mind, despair visible, the insane captive
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that some prisoners need to find their own way to freedom; the 8 of Swords must accept that the bonds are illusion and that leaving is possible
-  integration: The prisoner gradually tests the bonds; the testing becomes movement; the movement becomes escape; the way out is not shown but is discovered
-  paradox: The deepest freedom is often that which is won by those who have known genuine captivity and understand the nature of bonds; the 8 of Swords becomes free not through being shown the way but through recognizing that the way was always open
-  outcome: The prisoner steps free; the invisible bonds break; the 8 of Swords walks into daylight; the victor's presence makes this freedom real and lasting
+  function: The prisoner gradually tests the bonds; the testing becomes movement; the movement becomes escape; the way out is not shown but is discovered
+  integration_outcome: The prisoner steps free; the invisible bonds break; the 8 of Swords walks into daylight; the victor's presence makes this freedom real and lasting
   key_terms: The recognized illusion, chains broken, the escaped prisoner, freedom claimed
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, 9 of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Nightmare, The Despair Deepening, The Thoughts That Wound, The Mental Anguish
-numerical_relation: 5 + 9 = 14 (Moderation, the acceptance of despair as part of existence)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+numerical_relation: 5 + 9 = 14 (XIV Temperance; the acceptance of despair as part of existence)
 elemental_bridge: Air understanding Air's nightmare; the clarity that can descend into darkness
 threshold_type: The Sufferer of Nightmares Meeting the Victor—one consumed by thought encountering one who has survived thought
 
@@ -363,37 +420,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The sufferer is held in the nightmare by the victor's insistence that it must be borne; the hope of escape dies; the nightmares become even more terrible because they are now permanent
-  consequence: The 9 of Swords is frozen in perpetual night; the nightmares are acknowledged as eternal; the sufferer becomes increasingly desperate
-  spatial_logic: The sufferer lying awake in nightmare, the victor standing silent in the darkness, witness to suffering without remedy
+  blockade_nature: The 9 of Swords is frozen in perpetual night; the nightmares are acknowledged as eternal; the sufferer becomes increasingly desperate
+  swords_state: The sufferer lying awake in nightmare, the victor standing silent in the darkness, witness to suffering without remedy
+  consequence: the nightmares become even more terrible because they are now permanent
+  key_terms: 9 of swords is frozen, sufferer lying awake in nightmare, nightmares become even more terrible, sufferer is held
 
 dynamic_devolution:
   mechanism: The despair becomes suicidal; the sufferer gradually loses the will to continue; the nightmares are not merely torment but become a reason to end existence
-  corruption: The 9 of Swords transforms from mere suffering into a journey toward death; the nightmares become not torment but a pathway toward rest
+  mode: The 9 of Swords transforms from mere suffering into a journey toward death; the nightmares become not torment but a pathway toward rest
   loss: The will to live is destroyed; what remains is the desire for the nightmares to end through any means necessary
   key_terms: The suicidal despair, death sought, the eternal nightmare, the will destroyed
 
 dynamic_dependency:
   mechanism: The 5 of Swords must find a way to hold the sufferer's pain without demanding acceptance of hopelessness; the 9 of Swords must come to understand that the nightmares, while permanent, need not be fatal
-  integration: A compassionate presence that does not offer false hope but offers genuine witness; the sufferer gradually learns that nightmares, while terrible, are survivable; life becomes possible alongside the nightmare
-  paradox: The deepest compassion is often that which accompanies suffering without offering escape; the 9 of Swords becomes whole not through the elimination of nightmares but through learning to live with them
-  outcome: The sufferer does not sleep without nightmares, but gradually learns to live awake and in community; the nightmares remain but are no longer solitary; the victor's presence transforms isolation into shared understanding
+  function: A compassionate presence that does not offer false hope but offers genuine witness; the sufferer gradually learns that nightmares, while terrible, are survivable; life becomes possible alongside the nightmare
+  integration_outcome: The sufferer does not sleep without nightmares, but gradually learns to live awake and in community; the nightmares remain but are no longer solitary; the victor's presence transforms isolation into shared understanding
   key_terms: The shared nightmare, witnessed suffering, life alongside torment, the survivor's compassion
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, 10 of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Final Betrayal, The Utter Defeat, The Ending, The Death That Leads to Rebirth
-numerical_relation: 5 + 10 = 15 (The Devil reversed; liberation through surrender, the freedom that comes from complete defeat)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+numerical_relation: 5 + 10 = 15 (XV The Devil; liberation through surrender, the freedom that comes from complete defeat)
 elemental_bridge: Air understanding Air's final wounding; the clarity that comes only at the moment of utter collapse
 threshold_type: The Victor Meeting the Utterly Defeated—the one who survived meeting one at the moment of total collapse
 
@@ -412,37 +470,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The 10 of Swords is held in the moment of collapse indefinitely; the transformation cannot complete; the sword remains stuck, the defeat remains incomplete
-  consequence: An eternal moment of ending; the 10 of Swords is suspended in the instant of destruction; the rebirth that should follow is prevented by the inability to complete the collapse
-  spatial_logic: The fallen figure pinned to earth by the ten swords, unable to descend fully into death or rise toward renewal
+  blockade_nature: An eternal moment of ending; the 10 of Swords is suspended in the instant of destruction; the rebirth that should follow is prevented by the inability to complete the collapse
+  swords_state: The fallen figure pinned to earth by the ten swords, unable to descend fully into death or rise toward renewal
+  consequence: the sword remains stuck, the defeat remains incomplete
+  key_terms: eternal moment of ending, fallen figure pinned to earth, sword remains stuck, 10 of swords is held
 
 dynamic_devolution:
   mechanism: The collapse, while remaining incomplete, becomes a new form of torture; the 10 of Swords is gradually consumed by the awareness that they are suspended between death and life
-  corruption: The moment of transformation becomes a moment of eternal torment; the final sword is never withdrawn but the death never completes; the defeat becomes perpetual
+  mode: The moment of transformation becomes a moment of eternal torment; the final sword is never withdrawn but the death never completes; the defeat becomes perpetual
   loss: The possibility of rebirth is destroyed; what remains is an eternal moment of dying without ever arriving at death
   key_terms: The eternal collapse, endless death, the suspended moment, rebirth impossible
 
 dynamic_dependency:
   mechanism: The 5 of Swords must allow the 10 of Swords to complete their collapse; the utterly defeated must be allowed to fall fully, because only in the completion of the fall is the rebirth possible
-  integration: The collapse is allowed to complete; the 10 of Swords falls fully; the moment of total defeat becomes the moment of total liberation; the resurrection emerges from the completion of the death
-  paradox: The deepest renewal emerges from the most complete defeat; the 10 of Swords must be allowed to die fully before they can rise; the victor's role is to witness the completion, not to prevent it
-  outcome: The 10 of Swords falls and, in falling completely, touches the ground of renewal; the swords release; the figure rises transformed; the utterly defeated becomes the utterly renewed
+  function: The collapse is allowed to complete; the 10 of Swords falls fully; the moment of total defeat becomes the moment of total liberation; the resurrection emerges from the completion of the death
+  integration_outcome: The 10 of Swords falls and, in falling completely, touches the ground of renewal; the swords release; the figure rises transformed; the utterly defeated becomes the utterly renewed
   key_terms: The allowed collapse, completed death, the renewal, the transformed survivor
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, Page of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Curious Seeker, The Young Intellect, The Questions Emerging, The Wonder Unfolding
-numerical_relation: 5 + Page = The collision of youth and experience, curiosity meeting cynicism
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+numerical_relation: 5 + 11 = 16 (XVI The Tower; curiosity meeting cynicism)
 elemental_bridge: Air meeting Air in the moment before the seeker is wounded; the clarity before bitterness
 threshold_type: The Cynic Encountering Innocent Inquiry—the victor watching the Page's first questions
 
@@ -461,37 +520,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The Page's curiosity is arrested by the victor's insistence on danger; the questions continue but are asked with growing doubt; the wonder is infected with fear
-  consequence: A young seeker who is partially alive; the questions are asked but without the joy of genuine seeking; the wonder survives but is shadowed
-  spatial_logic: The Page with raised hand, questions forming but unable to speak them fully, the victor's presence creating silence
+  blockade_nature: A young seeker who is partially alive; the questions are asked but without the joy of genuine seeking; the wonder survives but is shadowed
+  swords_state: The Page with raised hand, questions forming but unable to speak them fully, the victor's presence creating silence
+  consequence: the wonder is infected with fear
+  key_terms: young seeker who is partially, page with raised hand, wonder is infected with fear, page's curiosity is arrested
 
 dynamic_devolution:
   mechanism: The curiosity is gradually destroyed by the victor's insistence on danger; the Page becomes afraid of their own questions; the wonder transforms into paranoia
-  corruption: The young seeker is corrupted into becoming like the victor; what emerges is a cynical young person whose questions have become weapons rather than pathways to understanding
+  mode: The young seeker is corrupted into becoming like the victor; what emerges is a cynical young person whose questions have become weapons rather than pathways to understanding
   loss: The capacity for genuine seeking is destroyed; what remains is the empty form of questions without the life of authentic inquiry
   key_terms: The corrupted seeker, paranoid questioning, wonder lost, cynicism premature
 
 dynamic_dependency:
   mechanism: The 5 of Swords must allow the Page of Swords' questions to flourish; the young seeker must come to understand, through the process of genuine inquiry, that some questions carry cost but are worth asking anyway
-  integration: The Page continues to seek, guided by the victor's wisdom but not silenced by it; the questions are asked and answered, and the answers are received as genuine knowledge rather than as warnings
-  paradox: The most genuine wisdom often emerges from those who ask questions despite knowing the cost; the Page who asks despite the warnings becomes wise not in spite of them but through them
-  outcome: The Page asks fully; the victor answers honestly; the knowledge that emerges is neither innocent nor cynical but genuinely wise; the young seeker grows toward maturity informed by the victor's understanding
+  function: The Page continues to seek, guided by the victor's wisdom but not silenced by it; the questions are asked and answered, and the answers are received as genuine knowledge rather than as warnings
+  integration_outcome: The Page asks fully; the victor answers honestly; the knowledge that emerges is neither innocent nor cynical but genuinely wise; the young seeker grows toward maturity informed by the victor's understanding
   key_terms: The honored questions, genuine seeking, knowledge earned, wisdom transmitted
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, Knight of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Truth Seeker, The Relentless Inquirer, The Challenger, The One Who Pursues Clarity
-numerical_relation: 5 + Knight = 7 (The Chariot; a journey driven by the need for truth, but the journey leads toward the victor's own bitter knowledge)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+numerical_relation: 5 + 12 = 17 (XVII The Star; a journey driven by the need for truth, but the journey leads toward the victor's own bitter knowledge)
 elemental_bridge: Air meeting Air in the pursuit of truth; two clarity-seekers with different understandings of what clarity reveals
 threshold_type: The Victor Meeting the Relentless Seeker—one who has stopped asking meeting one who cannot stop
 
@@ -510,37 +570,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The knight is slowed by the victor's presence; the pursuit continues but with increasing doubt; the seeker's confidence is undermined by the knowledge of what awaits
-  consequence: A journey that is incomplete; the knight moves forward but no longer moves freely; clarity is pursued but with growing anxiety about its nature
-  spatial_logic: The knight riding toward truth but constantly looking back at the victor's shape in the distance, hearing the voice of warning even in the pursuit itself
+  blockade_nature: A journey that is incomplete; the knight moves forward but no longer moves freely; clarity is pursued but with growing anxiety about its nature
+  swords_state: The knight riding toward truth but constantly looking back at the victor's shape in the distance, hearing the voice of warning even in the pursuit itself
+  consequence: the seeker's confidence is undermined by the knowledge of what awaits
+  key_terms: journey that is incomplete, knight riding toward truth, seeker's confidence is undermined, knight is slowed
 
 dynamic_devolution:
   mechanism: The doubt gradually poisons the pursuit; the knight becomes increasingly desperate to find a truth that is not the victor's bitter knowledge; the pursuit transforms from genuine seeking into flight
-  corruption: The knight is driven not by the desire for clarity but by the need to prove the victor wrong; the pursuit becomes twisted by resentment
+  mode: The knight is driven not by the desire for clarity but by the need to prove the victor wrong; the pursuit becomes twisted by resentment
   loss: The possibility of genuine truth-seeking is destroyed; what remains is a driven pursuit of vindication rather than understanding
   key_terms: The twisted pursuit, resentful seeking, vindication desired, truth corrupted
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that the Knight's pursuit of truth is necessary and that the knight will arrive at their own understanding; the knight must accept that the victor's knowledge is genuine and has been earned
-  integration: The pursuit continues; the knight seeks truth and gradually comes to the victor's understanding not because they were warned but because their own pursuit led them there
-  paradox: The deepest truth is often that which is arrived at through personal seeking despite warnings; the knight becomes wise not through listening to the victim but through walking the same path
-  outcome: The knight completes the journey; the clarity is achieved; the understanding matches the victor's not because it was imposed but because it was independently discovered
+  function: The pursuit continues; the knight seeks truth and gradually comes to the victor's understanding not because they were warned but because their own pursuit led them there
+  integration_outcome: The knight completes the journey; the clarity is achieved; the understanding matches the victor's not because it was imposed but because it was independently discovered
   key_terms: The completed journey, clarity achieved, independent understanding, the seeker become wise
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, Queen of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Intellectual Authority, The Discerning Mind, The Wise Judge, The Sovereign of Clarity
-numerical_relation: 5 + Queen = 10 (Completion; two forms of clarity meeting as potential peers, but one has been broken by what she understands)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+numerical_relation: 5 + 13 = 18 (XVIII The Moon; two forms of clarity meeting as potential peers, but one has been broken by what she understands)
 elemental_bridge: Air meeting Air in the realm of intellect; two minds recognizing each other
 threshold_type: The Disillusioned Victor Meeting the Discerning Queen—one whose clarity has become bitter encountering one whose clarity remains sovereign
 
@@ -559,37 +620,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The Queen's clarity is limited by the victor's presence; the wisdom that should be sovereign is shadowed by the victim's doubt about its authenticity
-  consequence: The Queen judges but without full authority; the clarity is present but its impact is diminished by the underlying doubt about whether such clarity can be genuine
-  spatial_logic: The Queen on her throne, dispensing wisdom, but the victor's presence in the shadows calling into question the nature of that wisdom
+  blockade_nature: The Queen judges but without full authority; the clarity is present but its impact is diminished by the underlying doubt about whether such clarity can be genuine
+  swords_state: The Queen on her throne, dispensing wisdom, but the victor's presence in the shadows calling into question the nature of that wisdom
+  consequence: the wisdom that should be sovereign is shadowed by the victim's doubt about its authenticity
+  key_terms: queen judges but without full, queen on her throne, wisdom that should be sovereign, queen's clarity is limited
 
 dynamic_devolution:
   mechanism: The Queen's clarity gradually becomes infected by the victor's bitterness; the integrity fails; the wisdom becomes tainted
-  corruption: The Queen is corrupted by the presence of one whose clarity has turned bitter; the sovereign mind becomes less certain of its own sovereignty
+  mode: The Queen is corrupted by the presence of one whose clarity has turned bitter; the sovereign mind becomes less certain of its own sovereignty
   loss: The possibility of genuine authority grounded in clarity is destroyed; what remains is the question of whether such authority can exist without bitterness
   key_terms: The infected clarity, corrupted wisdom, questioned authority, sovereignty lost
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that clarity need not lead to bitterness, that the Queen's path is genuinely different; the Queen must accept that the victor's path is also genuine, even if it led to bitterness
-  integration: A mutual respect where the two forms of clarity are honored as different but equally valid; the Queen's wholeness is a model of possibility; the victor's bitterness is acknowledged as a real price that some pay
-  paradox: The deepest clarity is often that which comes from the integration of both paths—the Queen's integrity and the victor's hard-won understanding combining to create a wisdom that is both whole and aware of cost
-  outcome: The Queen's authority is restored and amplified by the victor's acknowledgment; the victor finds in the Queen's example a vision of healing; the two minds collaborate at the highest level
+  function: A mutual respect where the two forms of clarity are honored as different but equally valid; the Queen's wholeness is a model of possibility; the victor's bitterness is acknowledged as a real price that some pay
+  integration_outcome: The Queen's authority is restored and amplified by the victor's acknowledgment; the victor finds in the Queen's example a vision of healing; the two minds collaborate at the highest level
   key_terms: The restored authority, integrated clarity, the sovereign's wisdom, wholeness and awareness united
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS
 
 ---
 
 card_pair: 5 of Swords, King of Swords
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-archetype_swords: The Sovereign of Intellect, The Master of Clarity, The Ruler of Thought, The Authority Absolute
-numerical_relation: 5 + King = 12 (The Hanged One; two sovereigns meeting, both ruling through clarity, but one rules toward truth while the other rules toward survival)
+archetype_swords_1: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_swords_2: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+numerical_relation: 5 + 14 = 19 (XIX The Sun; two sovereigns meeting, both ruling through clarity, but one rules toward truth while the other rules toward survival)
 elemental_bridge: Air understanding Air at the highest level; two sovereigns of thought recognizing each other
 threshold_type: The Rival Sovereigns—two rulers whose authority derives from clarity but whose visions of clarity differ
 
@@ -608,27 +670,28 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: Neither sovereign can fully exercise their authority because the other's presence complicates their domain; the King's clarity is limited by the victor's insistence on practical consequence; the victor cannot act fully because the King's principles constrain them
-  consequence: A realm ruled by two sovereigns who do not agree; the territory is governed but divided; neither vision is fully realized
-  spatial_logic: Two thrones, two armies, two flags—the kingdom divided not by open war but by the tension between principle and pragmatism
+  blockade_nature: A realm ruled by two sovereigns who do not agree; the territory is governed but divided; neither vision is fully realized
+  swords_state: Two thrones, two armies, two flags—the kingdom divided not by open war but by the tension between principle and pragmatism
+  consequence: the victor cannot act fully because the King's principles constrain them
+  key_terms: realm ruled by two sovereigns, two thrones, victor cannot act fully because, neither sovereign can fully exercise
 
 dynamic_devolution:
   mechanism: The tension becomes actual conflict; the two sovereigns war for control; the King's vision is opposed by the victor's determination to survive
-  corruption: The potential for greatness is destroyed by rivalry; the clarity is weaponized; the pragmatism becomes cynical; the rulership is torn apart
+  mode: The potential for greatness is destroyed by rivalry; the clarity is weaponized; the pragmatism becomes cynical; the rulership is torn apart
   loss: The possibility of a truly great kingdom, ruled by both principle and pragmatism, is destroyed
   key_terms: The divided kingdom, civil war, clarity weaponized, pragmatism corrupted
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that the King's principles are necessary for sustainable rulership; the King of Swords must accept that the victor's pragmatism is required for vision to manifest in the world
-  integration: A collaboration where the King rules through clarity and the victor serves as the keeper of consequences; the principles are pursued but with the wisdom of knowing what principle can sustain
-  paradox: The most powerful rulership is often that which combines absolute clarity with the understanding of practical consequence; the kingdom is strongest when ruled by those who understand both truth and survival
-  outcome: The two sovereigns stand together; the kingdom is ruled by the King's principles and protected by the victor's pragmatism; the vision is clear and the survival is ensured; the realm flourishes
+  function: A collaboration where the King rules through clarity and the victor serves as the keeper of consequences; the principles are pursued but with the wisdom of knowing what principle can sustain
+  integration_outcome: The two sovereigns stand together; the kingdom is ruled by the King's principles and protected by the victor's pragmatism; the vision is clear and the survival is ensured; the realm flourishes
   key_terms: The united kingdom, principle and pragmatism aligned, clarity served, the sovereign realm
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Swords cards (thought, clarity, conflict)
-  uid: FSOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSS

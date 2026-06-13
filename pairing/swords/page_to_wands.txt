@@ -1,0 +1,556 @@
+card_pair: Page of Swords, Ace of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Fire Gift Offered, The Creative Spark, The Inspiration Arriving, Passion Ignited
+numerical_relation: 11 + 1 = 12; the messenger carries the spark; news of creative fire arrives
+elemental_bridge: Air (communication of ideas) meets Fire (creative passion); the message ignites inspiration
+threshold_type: The moment when the messenger announces the arrival of creative fire
+
+dynamic_genesis:
+  mechanism: The page of swords brings news: the creative fire is awakening; the intellectual messenger announces the arrival of inspiration
+  process: The page becomes aware that communication itself can spark creativity; that words can carry the heat of passion
+  outcome: Understanding that the messenger's voice can ignite others; that intellectual truth has creative power
+  key_terms: Messenger announcing fire, words sparking inspiration, ideas carrying passion, news of creative awakening
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks; the ace of wands burns silently; the message about fire may fuel or smother the spark
+  tension_axis: Between the articulation of passion and its spontaneous expression
+  page_of_swords_position: "I bring news of creative fire; understand this awakening"
+  ace_of_wands_position: "I burn; my fire needs no words, only fuel"
+  key_terms: Inspiration announced, fire acknowledged, words fueling passion, spark heard
+
+dynamic_inhibition:
+  blockade: The messenger's words may slow the immediate creative impulse; too much talking before the spark is struck
+  consequence: The fire arrives but the message arrives too late; the creative moment may pass while still being explained
+
+dynamic_devolution:
+  corruption: The page of swords' message about the creative fire becomes a set of rules or restrictions
+  loss: The figure loses the raw spontaneity of inspiration because it becomes intellectually bound
+
+dynamic_dependency:
+  integration: The message and the fire teach each other about timing; the page learns that some inspiration resists articulation; the figure learns that articulating inspiration can deepen and sustain it; the message becomes creative fuel
+  outcome: The page's announcement amplifies the creative spark without dampening it; the fire finds voice through the message; together they create sustained passion through articulation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, 2 of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Master of Worlds, The Vision Held, The Dual Passion, Fire Directed
+numerical_relation: 11 + 2 = 13; the messenger questions the visionary; news of dual possibilities arrives
+elemental_bridge: Air (intellectual inquiry) meets Fire (directed passion); the messenger asks what the visionary seeks
+threshold_type: The moment when the messenger questions the direction of the visionary's fire
+
+dynamic_genesis:
+  mechanism: The page of swords brings inquiry: what are you building; why does this vision matter; the messenger seeks understanding of the passion
+  process: The page becomes aware that questioning can clarify vision; that intellectual curiosity supports directed passion
+  outcome: Understanding that the messenger's questions help focus the fire; that wonder and vision strengthen together
+  key_terms: Questions clarifying vision, curiosity fueling direction, inquiry supporting purpose, words illuminating passion
+
+dynamic_antagonism:
+  mechanism: The page of swords asks; the two of wands holds; the visionary may resist interruption
+  tension_axis: Between the need to explore and question versus the need to remain focused on the vision held
+  page_of_swords_position: "I ask you: what do you build; why does this matter"
+  two_of_wands_position: "I hold the vision; my fire knows its direction"
+  key_terms: Question received, vision clarified, direction explained, inquiry deepened
+
+dynamic_inhibition:
+  blockade: The messenger's constant questions may distract from the visionary work; inquiry without action
+  consequence: The figure becomes paralyzed by questions about purpose while the vision requiring attention sits unbuilt
+
+dynamic_devolution:
+  corruption: The page of swords' inquiry becomes doubt cast on the visionary's chosen direction
+  loss: The figure loses conviction about their vision because the questions trigger self-doubt
+
+dynamic_dependency:
+  integration: The message and the vision teach each other about purpose; the page learns that some visions require faith before they can be articulated; the figure learns that articulating vision strengthens it; the inquiry becomes devotion
+  outcome: The page's questions strengthen the visionary's conviction; the vision becomes clearer through explanation; together they create purposeful passion that knows why it burns
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, 3 of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Trader, The Exploration Begun, The Distant Vision, Horizons Expanding
+numerical_relation: 11 + 3 = 14; the messenger carries news across the distances; information travels on trading routes
+elemental_bridge: Air (swift communication) meets Fire (explored horizons); the messenger becomes the trader of news
+threshold_type: The moment when the messenger's words travel the same distance as the visionary's passion
+
+dynamic_genesis:
+  mechanism: The page of swords brings news from distant lands; the trader listens for word from afar; communication facilitates distant commerce
+  process: The page becomes aware that the messenger role includes carrying information across separation
+  outcome: Understanding that words travel as swiftly as fire; that communication and exploration serve each other
+  key_terms: News from distances, message carried far, information enabling trade, words crossing horizons
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks; the three of wands watches distant horizons; the message may arrive ahead of or after the fire
+  tension_axis: Between the communication of what is happening in distant places and the direct experience of exploration
+  page_of_swords_position: "I bring news from the horizons you gaze toward"
+  three_of_wands_position: "I wait to see what arrives; I watch what my fire discovers"
+  key_terms: News received, distance bridged, horizons confirmed, message illuminating
+
+dynamic_inhibition:
+  blockade: The messenger's news may create false expectations about the distant lands; reports may mislead
+  consequence: The figure prepares for what the news describes but finds reality differs from the messenger's account
+
+dynamic_devolution:
+  corruption: The page of swords' message becomes gossip or rumor about distant lands
+  loss: The figure loses genuine curiosity about exploration because they believe they already know what lies beyond
+
+dynamic_dependency:
+  integration: The message and the exploration teach each other about discovery; the page learns that firsthand experience transcends words; the figure learns that communication from afar prepares the heart for what is found; the message becomes invitation
+  outcome: The page's news excites rather than defines the explorer; the message prepares the ground for genuine discovery; together they create the joy of learning what lies beyond known borders
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, 4 of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Celebration, The Harmony of Fires, The Victory Shared, Passion Crowned
+numerical_relation: 11 + 4 = 15; the messenger announces the celebration; news of victory reaches the gathering
+elemental_bridge: Air (proclamation) meets Fire (joyful flames); the messenger heralds the victory
+threshold_type: The moment when the messenger announces that passion has achieved its aim
+
+dynamic_genesis:
+  mechanism: The page of swords brings news: the fire has achieved its aim; the messenger heralds the victory and the celebration begins
+  process: The page becomes aware that the messenger role includes announcing what has been won; that words can crown achievement
+  outcome: Understanding that the messenger's proclamation validates the fire's work; that announcement transforms private achievement into shared celebration
+  key_terms: Victory announced, celebration heralded, achievement recognized, message crowning fire
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks the victory; the four of wands radiates it; the message may diminish or amplify the fire
+  tension_axis: Between describing the achievement and living it
+  page_of_swords_position: "I announce to all: the fire has achieved victory; gather and celebrate"
+  four_of_wands_position: "We celebrate; the fire has crowned itself in joy"
+  key_terms: Victory proclaimed, celebration confirmed, message unifying, fire witnessed
+
+dynamic_inhibition:
+  blockade: The messenger's announcement may diminish the spontaneity of celebration; making it formal rather than joyful
+  consequence: The gathering hears the news but loses the organic fire of celebration in receiving it formally
+
+dynamic_devolution:
+  corruption: The page of swords' message about victory becomes boasting about the achievement
+  loss: The figure loses the humility of the victory because the messenger frames it as a personal triumph
+
+dynamic_dependency:
+  integration: The message and the celebration teach each other about achievement; the page learns that some victories live best in shared joy rather than words; the figure learns that articulating victory honors those who contributed; the message becomes blessing
+  outcome: The page's announcement elevates the celebration without controlling it; the victory finds full voice through the message; together they transform individual achievement into communal blessing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, 5 of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Struggle, The Clashing Fires, The Conflict Witnessed, Passion Opposed
+numerical_relation: 11 + 5 = 16; the messenger arrives at conflict; news of the struggle spreads
+elemental_bridge: Air (witness to conflict) meets Fire (opposing passions); the messenger observes and reports the clash
+threshold_type: The moment when the messenger witnesses the collision of competing fires
+
+dynamic_genesis:
+  mechanism: The page of swords brings awareness: this conflict is not resolution but collision; the messenger articulates what is at stake in the struggle
+  process: The page becomes aware that the messenger role includes witnessing conflict and speaking truth about it
+  outcome: Understanding that naming the struggle can help clarify what each fire represents; that articulation prevents confusion about cause
+  key_terms: Conflict witnessed, struggle named, message clarifying stakes, words illuminating passion
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks; the five of wands burns; the message may inflame or cool the conflict
+  tension_axis: Between explaining the conflict and allowing it to burn itself toward resolution
+  page_of_swords_position: "I observe the clash; let me speak what I see"
+  five_of_wands_position: "We burn; let this fire determine what survives"
+  key_terms: Conflict observed, struggle explained, message received, fire continuing
+
+dynamic_inhibition:
+  blockade: The messenger's articulation of the conflict may freeze it; analysis may prevent natural resolution
+  consequence: The struggle continues but now self-aware and self-conscious; the raw fire becomes intellectual debate
+
+dynamic_devolution:
+  corruption: The page of swords' message takes sides in the conflict
+  loss: The figure loses the potential for genuine resolution because the messenger has labeled one passion as right and another as wrong
+
+dynamic_dependency:
+  integration: The message and the struggle teach each other about truth; the page learns that witnessing without judgment is itself a form of healing; the figure learns that having the struggle acknowledged can clarify what is truly at stake; the message becomes mirror
+  outcome: The page's observation helps the conflicting fires understand themselves without determining their outcome; the struggle continues but with clarity; together they transform blind clash into conscious engagement
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, 6 of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Victory, The Recognized Fire, The Triumph Witnessed, Passion Crowned
+numerical_relation: 11 + 6 = 17; the messenger proclaims the victor; news of recognition travels
+elemental_bridge: Air (proclamation of victory) meets Fire (recognized achievement); the messenger announces who has prevailed
+threshold_type: The moment when the messenger declares who has triumphed
+
+dynamic_genesis:
+  mechanism: The page of swords brings word: this fire is recognized; the messenger validates the victor's achievement
+  process: The page becomes aware that the messenger role includes recognizing and proclaiming excellence
+  outcome: Understanding that the messenger's words can crown achievement; that articulation transforms victory into legacy
+  key_terms: Victory proclaimed, fire recognized, message validating, words crowning
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks victory; the six of wands radiates it; the message may burden or glorify the victor
+  tension_axis: Between declaring victory and allowing it to exist simply
+  page_of_swords_position: "I proclaim your victory; let all know your fire has prevailed"
+  six_of_wands_position: "I am recognized; the fire stands crowned"
+  key_terms: Victory announced, recognition confirmed, message elevating, fire witnessed
+
+dynamic_inhibition:
+  blockade: The messenger's proclamation may create expectation of continued excellence the victor cannot maintain
+  consequence: The figure achieves but then struggles under the weight of the proclaimed victory
+
+dynamic_devolution:
+  corruption: The page of swords' message makes the victor dependent on external validation
+  loss: The figure loses the internal satisfaction of victory because they now need the messenger's words to feel successful
+
+dynamic_dependency:
+  integration: The message and the victory teach each other about recognition; the page learns that the greatest victories speak for themselves; the figure learns that being witnessed honors the fire's work; the message becomes witness
+  outcome: The page's proclamation honors the victory without making it fragile; the fire stands independent while witnessed; together they create recognition that strengthens rather than binds
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, 7 of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Defense, The Fire Held Against Opposition, The Stand Maintained, Passion Persisting
+numerical_relation: 11 + 7 = 18; the messenger reports the stand; news of resistance reaches the threatened
+elemental_bridge: Air (communication of position) meets Fire (defended passion); the messenger articulates why the fire must be held
+threshold_type: The moment when the messenger explains the necessity of the stand
+
+dynamic_genesis:
+  mechanism: The page of swords brings clarity: this fire must be defended; the messenger articulates the reason for resistance
+  process: The page becomes aware that the messenger role includes advocating for what must be protected
+  outcome: Understanding that articulation can justify resistance; that words can strengthen the resolve to stand
+  key_terms: Stand explained, defense articulated, message justifying persistence, words supporting fire
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks reason; the seven of wands acts in defiance; the message may weaken or strengthen the stand
+  tension_axis: Between arguing for the position and simply holding it
+  page_of_swords_position: "I speak why this fire must be defended; hear my words"
+  seven_of_wands_position: "I stand; let my fire answer"
+  key_terms: Position explained, stand justified, message received, fire persisting
+
+dynamic_inhibition:
+  blockade: The messenger's articulation of the defense may invite more questions rather than settle the matter
+  consequence: The figure stands and explains but finds explanation never fully convinces those attacking
+
+dynamic_devolution:
+  corruption: The page of swords' message becomes self-righteous justification of the stand
+  loss: The figure loses the purity of their resistance because now they are fighting to prove they are right
+
+dynamic_dependency:
+  integration: The message and the stand teach each other about conviction; the page learns that some fires require no justification to those who matter; the figure learns that being able to articulate the stand strengthens it; the message becomes anchor
+  outcome: The page's explanation firms the resolve without making it brittle; the fire stands without needing constant defense; together they create resistance that is both principled and articulate
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, 8 of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Swiftness, The Accelerated Fire, The Rapid Movement, Momentum Unleashed
+numerical_relation: 11 + 8 = 19; the messenger accelerates; news travels as swiftly as the arrows fly
+elemental_bridge: Air (swift communication) meets Fire (rapid momentum); the messenger becomes speed itself
+threshold_type: The moment when the messenger and the movement become one velocity
+
+dynamic_genesis:
+  mechanism: The page of swords brings urgency: the fire moves quickly; the messenger matches the pace with swift communication
+  process: The page becomes aware that the messenger role can include acceleration; that words can fuel momentum
+  outcome: Understanding that articulation can match speed; that communication need not slow what burns fast
+  key_terms: Urgency announced, speed matched, message accelerating, words fueling momentum
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks; the eight of wands moves; the message may lag behind the fire's momentum
+  tension_axis: Between explaining what is happening and simply letting it happen at full speed
+  page_of_swords_position: "I announce the acceleration; understand the pace that approaches"
+  eight_of_wands_position: "I move; do not delay me with words"
+  key_terms: Speed announced, movement acknowledged, message racing, fire flowing
+
+dynamic_inhibition:
+  blockade: The messenger's communication may slow the momentum; words spoken become hesitation
+  consequence: The fire slows to match the pace of explanation; the rapid movement becomes delayed
+
+dynamic_devolution:
+  corruption: The page of swords' message becomes frantic chatter that accelerates anxiety rather than motion
+  loss: The figure loses the clarity of their momentum because the messenger fills the space with nervous words
+
+dynamic_dependency:
+  integration: The message and the momentum teach each other about timing; the page learns that sometimes silence serves speed better than words; the figure learns that being understood can sustain momentum without slowing it; the message becomes wind
+  outcome: The page's communication clears the path without creating obstacles; the momentum flows unimpeded and witnessed; together they create swift progress that is both rapid and understood
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, 9 of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Resilience, The Tested Fire, The Endurance Proven, Strength Through Trial
+numerical_relation: 11 + 9 = 20; the messenger arrives at the weary guardian; news reaches the one who has stood long
+elemental_bridge: Air (fresh communication) meets Fire (tested resolve); the messenger speaks to what has already been proven
+threshold_type: The moment when the messenger honors the fire that has endured
+
+dynamic_genesis:
+  mechanism: The page of swords brings acknowledgment: your fire has been tested and remains; the messenger validates the endurance
+  process: The page becomes aware that the messenger role includes witnessing what has been tried
+  outcome: Understanding that naming the trial can honor what has endured it; that acknowledgment sustains the next test
+  key_terms: Trial acknowledged, endurance named, message validating strength, words honoring fire
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks fresh hope; the nine of wands stands weary; the message may inspire or burden further
+  tension_axis: Between offering encouragement to what is tired and allowing rest
+  page_of_swords_position: "I see how long you have stood; I come with fresh tidings"
+  nine_of_wands_position: "I am weary; but still I stand"
+  key_terms: Endurance witnessed, fire acknowledged, message encouraging, strength honored
+
+dynamic_inhibition:
+  blockade: The messenger's encouragement may demand more from what is already exhausted
+  consequence: The figure stands longer not because renewed but because the message makes resting feel like failure
+
+dynamic_devolution:
+  corruption: The page of swords' message becomes demands for continued sacrifice
+  loss: The figure loses the permission to rest because the messenger frames their endurance as obligation
+
+dynamic_dependency:
+  integration: The message and the endurance teach each other about strength; the page learns that the greatest encouragement sometimes is offering rest; the figure learns that being witnessed for what has been borne sustains the fire; the message becomes rest
+  outcome: The page's acknowledgment gives permission to rest without losing worth; the fire remains strong through witnessing rather than demand; together they create sustainable resilience that knows when to continue and when to pause
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, 10 of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Burden, The Oppressed Fire, The Weight Carried, Passion Burdened
+numerical_relation: 11 + 10 = 21; the messenger arrives at one who carries too much; news reaches the overwhelmed
+elemental_bridge: Air (possibility of relief) meets Fire (exhausted labor); the messenger questions whether the burden is necessary
+threshold_type: The moment when the messenger asks: why do you carry what breaks you
+
+dynamic_genesis:
+  mechanism: The page of swords brings question: must you carry all of this; the messenger speaks what the weary figure cannot articulate
+  process: The page becomes aware that the messenger role includes asking hard questions of those who suffer silently
+  outcome: Understanding that articulating suffering can be the first step toward release; that naming the burden is naming the possibility of putting it down
+  key_terms: Burden questioned, weight named, message liberating, words offering possibility
+
+dynamic_antagonism:
+  mechanism: The page of swords questions; the ten of wands carries; the message may lighten or add to the load
+  tension_axis: Between naming the burden and simply bearing it in silence
+  page_of_swords_position: "I see what you carry; I ask: why do you bear this"
+  ten_of_wands_position: "I carry what must be carried; do not distract me with questions"
+  key_terms: Burden witnessed, weight acknowledged, message questioning, fire exhausted
+
+dynamic_inhibition:
+  blockade: The messenger's questions may make the figure feel blamed for their burden rather than supported
+  consequence: The figure carries the weight alone and unheard; the message creates shame rather than relief
+
+dynamic_devolution:
+  corruption: The page of swords' message becomes judgment of the figure's inability to put down the burden
+  loss: The figure loses the will to seek help because the messenger's words feel like criticism of their weakness
+
+dynamic_dependency:
+  integration: The message and the burden teach each other about release; the page learns that sometimes silence is more healing than questions; the figure learns that being heard about their struggle is the first step toward relief; the message becomes permission
+  outcome: The page's question plants the seed of possibility without demand; the fire slowly releases what no longer serves; together they create the space where burden becomes choice again
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, Knight of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Adventurer, The Wild Fire, The Quest Unbounded, Passion Unleashed
+numerical_relation: 11 + 11 = 22; two messengers meet; the truth spoken travels the roads; adventure finds a voice
+elemental_bridge: Air (swift communication) meets Fire (boundless movement); the messenger becomes the adventurer's herald
+threshold_type: The moment when the messenger joins the quest
+
+dynamic_genesis:
+  mechanism: The page of swords brings news of the adventure; the knight listens and rides; the messenger understands that truth requires movement to be known
+  process: The page becomes aware that the messenger role includes following the path, not just reporting from home
+  outcome: Understanding that the messenger who travels learns what sedentary watchers cannot; that truth lives in movement
+  key_terms: Quest announced, adventure shared, message traveling, words discovering
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks; the knight of wands rides; the message may slow or guide the adventure
+  tension_axis: Between documenting the journey and living it
+  page_of_swords_position: "Let me travel with you and speak what we discover together"
+  knight_of_wands_position: "I ride; if you come, keep pace and keep silent"
+  key_terms: Adventure acknowledged, journey shared, message traveling, fire moving
+
+dynamic_inhibition:
+  blockade: The messenger's attempt to document the adventure may dilute its lived experience
+  consequence: The figure arrives and has the experience, but filtered through the messenger's interpretations rather than known directly
+
+dynamic_devolution:
+  corruption: The page of swords' message becomes controlling instruction that demands the adventure follow a specific path
+  loss: The figure loses the freedom of the quest because the messenger has mapped out where they must go
+
+dynamic_dependency:
+  integration: The message and the adventure teach each other about discovery; the page learns that sometimes traveling is enough without needing to speak what is found; the figure learns that being witnessed in the adventure deepens it; the message becomes testimony
+  outcome: The page and knight travel together where the message honors the journey without demanding it follow predetermined paths; the adventure unfolds witnessed and shared; together they create quests that build both truth and understanding
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, Queen of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The Queen, The Radiant Fire, The Creative Authority, Passion Crowned
+numerical_relation: 11 + 12 = 23; the messenger meets the queen; news is brought before the throne of creative power
+elemental_bridge: Air (communication of truth) meets Fire (sovereign authority); the messenger speaks to creative power
+threshold_type: The moment when the messenger approaches the creative throne
+
+dynamic_genesis:
+  mechanism: The page of swords brings news before the queen of wands; the creative sovereign listens and decides; the messenger learns that truth must be offered with respect to authority
+  process: The page becomes aware that the messenger role includes knowing when to speak and when to listen
+  outcome: Understanding that offering truth to authority requires a certain humility; that the message is shaped by its recipient
+  key_terms: News before authority, message respectfully offered, truth presented, word received by sovereign
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks; the queen of wands radiates; the message may illuminate or pale beside her fire
+  tension_axis: Between the messenger's truth and the queen's authority to decide what is true
+  page_of_swords_position: "I bring you this truth; decide what it means"
+  queen_of_wands_position: "I hear your words; I decide their worth"
+  key_terms: Truth offered, authority acknowledged, message received, fire deciding
+
+dynamic_inhibition:
+  blockade: The messenger's words may intimidate or be dismissed by the queen's presence
+  consequence: The truth arrives but is not heard because the messenger becomes small in the presence of authority
+
+dynamic_devolution:
+  corruption: The page of swords' message becomes flattery designed to please the queen rather than truth
+  loss: The figure loses integrity because the need for acceptance from authority has silenced honest speech
+
+dynamic_dependency:
+  integration: The message and the authority teach each other about power; the page learns that truth becomes wiser when offered to those with the power to act on it; the figure learns that hearing honest truth from humble sources strengthens creative authority; the message becomes counsel
+  outcome: The page speaks with integrity while offering respect; the queen receives truth without needing to diminish its source; together they create a dynamic where authority and honesty support rather than threaten each other
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS
+
+---
+
+card_pair: Page of Swords, King of Wands
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_wands: The King, The Enthroned Fire, The Visionary Authority, Passion Sovereign
+numerical_relation: 11 + 13 = 24; the messenger meets the king; news is brought to the throne of fire and vision
+elemental_bridge: Air (communication of understanding) meets Fire (sovereign vision); the messenger speaks to visionary authority
+threshold_type: The moment when the messenger approaches the throne of fire
+
+dynamic_genesis:
+  mechanism: The page of swords brings understanding to the king of wands; the visionary sovereign listens and commands; the messenger learns that truth must serve vision, not replace it
+  process: The page becomes aware that the messenger role includes understanding the greater pattern the authority sees
+  outcome: Understanding that the messenger who seeks to serve must first understand the vision being served; that words align themselves with purpose
+  key_terms: Understanding offered, vision honored, message serving, word elevating authority
+
+dynamic_antagonism:
+  mechanism: The page of swords speaks; the king of wands commands; the message may clarify or conflict with the vision
+  tension_axis: Between the truth the messenger knows and the vision the king holds
+  page_of_swords_position: "I bring understanding to serve your vision"
+  king_of_wands_position: "I command because I see what must be; your words serve or hinder this"
+  key_terms: Understanding received, vision clarified, message serving, fire commanding
+
+dynamic_inhibition:
+  blockade: The messenger's words may constrain the king's vision if they too rigidly define what is possible
+  consequence: The king hears the message but then must break through it to enact what only vision can access
+
+dynamic_devolution:
+  corruption: The page of swords' message becomes manipulation designed to serve the messenger's interests while appearing to serve the king
+  loss: The figure loses trust in counsel because the messenger's words were shaped by hidden agenda
+
+dynamic_dependency:
+  integration: The message and the vision teach each other about authority; the page learns that truth serves best when it amplifies rather than diminishes the vision it serves; the figure learns that hearing truth from those who understand the pattern deepens authority; the message becomes understanding
+  outcome: The page speaks understanding that illuminates the king's vision without constraining it; the fire commands with clarity gained from the messenger's words; together they create visionary authority that is both clear and purposeful
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: POWS

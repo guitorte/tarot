@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: Clarity exists but is contested; the truth is present but is denied
   swords_state: The sword of truth standing but the thief circling it, attempting to dull its edge
   consequence: reality becomes a battlefield
-  key_terms: clarity exists but is contested, sword of truth standing, reality becomes a battlefield, truth is present
+  key_terms: contested truth, reality as battlefield, clarity denied, the dulled edge
 
 dynamic_devolution:
   mechanism: The conflict gradually corrupts both truth and deception
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: A complete standoff where neither can advance; the thief cannot steal and the stalemate cannot be broken
   swords_state: The thief circling the frozen figure; both trapped in stillness
   consequence: neither can move
-  key_terms: complete standoff where neither can, thief circling the frozen figure, neither can move, thief and the paralyzed one
+  key_terms: complete standoff, neither advances, theft frozen by stalemate, locked stillness
 
 dynamic_devolution:
   mechanism: The stalemate gradually includes the thief; all three are frozen
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic of mutual destruction; the thief is haunted and the griever is devastated
   swords_state: The thief stealing while the griever sits in sorrow, both in darkness
   consequence: the meeting stalls; neither figure moves toward the other
-  key_terms: dynamic of mutual destruction, thief stealing while the griever, meeting stalls, theft happens
+  key_terms: mutual destruction, thief haunted griever devastated, both in darkness, the stalled meeting
 
 dynamic_devolution:
   mechanism: Both descend into complete despair; the theft and the grief merge
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic where theft is attempted but has no effect
   swords_state: The thief attempting theft while the peaceful one sleeps unmoved
   consequence: the meeting stalls; neither figure moves toward the other
-  key_terms: dynamic where theft is attempted, thief attempting theft, meeting stalls, thief remains in the vicinity
+  key_terms: theft without effect, the unmoved sleeper, stealing that fails to register, peace undisturbed
 
 dynamic_devolution:
   mechanism: The thief becomes infected by the peace; the drive to steal is gradually lost
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic where cunning is present but neither achieves final victory
   swords_state: The thief and victor circling each other, both cautious, neither winning
   consequence: the meeting stalls; neither figure moves toward the other
-  key_terms: dynamic where cunning is present, thief and victor circling each, meeting stalls, both remain but are unable
+  key_terms: neither dominates, cunning without victory, wary circling, the stalemate
 
 dynamic_devolution:
   mechanism: The mutual cunning gradually becomes destructive
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is shared but spiritually divided
   swords_state: The thief and traveler in the same boat but increasingly separated
   consequence: the meeting stalls; neither figure moves toward the other
-  key_terms: journey that is shared, thief and traveler, meeting stalls, both travel together
+  key_terms: shared journey growing distrust, increasingly separate in one boat, spiritually divided crossing, the stalled meeting
 
 dynamic_devolution:
   mechanism: The partnership dissolves into conflict
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: A partnership where both are present but neither trusts the other
   swords_state: Two thieves circling each other, both watching for betrayal
   consequence: the meeting stalls; neither figure moves toward the other
-  key_terms: partnership where both are present, two thieves circling each other, meeting stalls, both thieves remain
+  key_terms: two thieves watching for betrayal, competition blocking theft, mutual distrust, no trust between mirrors
 
 dynamic_devolution:
   mechanism: The mutual distrust gradually becomes hatred
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: A mental prison that is deepened by the false promise
   swords_state: The prisoner in the invisible bonds but believing they are free
   consequence: the meeting stalls; neither figure moves toward the other
-  key_terms: mental prison that is deepened, prisoner in the invisible bonds, meeting stalls, prisoner remains in captivity believing
+  key_terms: deepened mental prison, false freedom believed, bonds tightened by false promise, captivity mistaken for liberty
 
 dynamic_devolution:
   mechanism: The false freedom poisons the real captivity; complete despair
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic where deception is present but is ineffective; the torment deepens
   swords_state: The thief offering false comfort while the tormented sinks deeper
   consequence: the torment continues
-  key_terms: dynamic where deception is present, thief offering false comfort, torment continues, false comfort persists
+  key_terms: false comfort known false, the torment that deepens, ineffective deception, the sinking sufferer
 
 dynamic_devolution:
   mechanism: Both the thief and the tormented descend into complete madness
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: A moment where death is so complete that rebirth can begin
   swords_state: The utterly defeated lying; the thief standing over them; both at the threshold
   consequence: transformation becomes possible
-  key_terms: moment where death, utterly defeated lying, transformation becomes possible, both exist in the moment
+  key_terms: defeat so complete rebirth nears, both at the threshold, death that opens transformation, the utter end
 
 dynamic_devolution:
   mechanism: The thief is consumed by the collapse; the utterly defeated does not recover
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: A learning that is hollow; knowledge that is known to be false but is still held
   swords_state: The Page holding false knowledge, unable to unlearn what was taught
   consequence: the meeting stalls; neither figure moves toward the other
-  key_terms: learning that is hollow, page holding false knowledge, meeting stalls, page continues with the false
+  key_terms: hollow learning, false knowledge that won't unlearn, corrupted lessons held, the stalled meeting
 
 dynamic_devolution:
   mechanism: The false knowledge gradually destroys the Page's capacity for genuine seeking
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: A pursuit that never ends; both are trapped in the chase
   swords_state: The Knight following the thief; the thief always ahead but never far enough
   consequence: the Knight pursues and the thief flees
-  key_terms: pursuit that never ends, knight following the thief, knight pursues and the thief, chase continues indefinitely
+  key_terms: endless pursuit, the gap that never closes, both trapped in the chase, flight without escape
 
 dynamic_devolution:
   mechanism: The endless pursuit gradually destroys both
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic where deception is useless; the thief is impotent
   swords_state: The thief before the Queen; every word is seen as false; no deception holds
   consequence: all attempts at cunning fail
-  key_terms: dynamic where deception is useless, thief before the queen, all attempts at cunning fail, thief remains but is completely
+  key_terms: deception made useless, the transparent thief, every lie seen, impotent cunning
 
 dynamic_devolution:
   mechanism: The thief is gradually destroyed by the Queen's unwavering clarity
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: The thief awaits judgment; the King rules but must decide the thief's fate
   swords_state: The thief before the King's throne; awaiting the sovereign's judgment
   consequence: a judgment is to be rendered
-  key_terms: thief awaits judgment, thief before the king's throne, judgment is to be rendered, thief is caught
+  key_terms: the thief awaiting judgment, caught before the throne, fate suspended, the sovereign's verdict pending
 
 dynamic_devolution:
   mechanism: The King's judgment is harsh; the thief is destroyed; the kingdom trembles

@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: A truth that is technically correct but feels false to those who know it through experience; the Ace of Swords is rendered powerless by the victor's insistence on the cost
   swords_state: The pure truth standing before the victor, clear and undeniable, but unable to penetrate the armor of experience
   consequence: the clarity cannot flow freely because the victor insists on its contextual nature, on the suffering that precedes it
-  key_terms: truth that is technically correct, pure truth standing before, clarity cannot flow freely because, pure truth is imprisoned
+  key_terms: truth imprisoned by bitterness, clarity that cannot penetrate armor, correct yet felt false, experience-blocked insight
 
 dynamic_devolution:
   mechanism: The pure truth gradually corrupts under the weight of the victor's bitterness; the clarity becomes tainted; what should be pure is twisted by the association with suffering
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: A standoff where the victor demands choice and the 2 of Swords refuses with increasing desperation; the two become locked in a struggle that mirrors the original conflict
   swords_state: The victor circling the blindfolded one, demanding choice, while the 2 of Swords becomes increasingly rigid, increasingly certain that the blindfold must not be removed
   consequence: the blindfold is tightened rather than loosened
-  key_terms: standoff where the victor demands, victor circling the blindfolded one, blindfold is tightened rather, victor's pressure to choose forces
+  key_terms: the tightened blindfold, demanded choice refused, deepening paralysis, stalemate made rigid
 
 dynamic_devolution:
   mechanism: The confrontation becomes a new conflict; the victor's pressure becomes a form of violence; the 2 of Swords' paralysis becomes a form of aggression
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: The mourning process is interrupted; the griever remains suspended between grief and bitterness, unable to fully experience either
   swords_state: The 3 of Swords grieving while the 5 of Swords watches, and the watching becomes a form of weight that prevents the grief from flowing naturally
   consequence: the grief cannot complete because it is interrupted by the knowledge that bitterness is what follows
-  key_terms: mourning process is interrupted, 3 of swords grieving, grief cannot complete because it, griever is held
+  key_terms: interrupted mourning, grief suspended before bitterness, sorrow that cannot complete, watched into stillness
 
 dynamic_devolution:
   mechanism: The mutual sorrow becomes poisonous; the victor's bitterness is experienced as judgment by the griever; the griever's continued mourning is experienced as weakness by the victor
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: A surface peace that does not penetrate; the warrior sleeps but does not recover; the rest does not restore because the mind remains in a state of threat awareness
   swords_state: The figure appearing to rest while internally remaining tense, unable to let down the guard even in the space designed for peace
   consequence: the stillness becomes a facade while the victor maintains internal vigilance
-  key_terms: surface peace that does, figure appearing to rest, stillness becomes a facade, rest of the 4
+  key_terms: surface peace that won't penetrate, sleep without recovery, vigilance in the place of rest, the unrested warrior
 
 dynamic_devolution:
   mechanism: The restlessness gradually becomes unbearable; the victor cannot continue to pretend to rest; the 4 of Swords' peace is abandoned in favor of active vigilance
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The 6 of Swords departs but with growing uncertainty; the crossing is incomplete; the voyager remains suspended between the battlefield left behind and the safety not yet reached
   swords_state: The boat on the water, moving away from the shore but unable to reach the far bank, suspended in an eternal crossing
   consequence: the boat moves slowly toward the horizon, and doubt creeps into the voyager's mind
-  key_terms: 6 of swords departs, boat on the water, boat moves slowly toward, departure is slowed
+  key_terms: doubt creeping into departure, the eternal crossing, suspended between battlefield and safety, the slowed voyage
 
 dynamic_devolution:
   mechanism: The doubt grows until the boat turns back; the 6 of Swords returns to the landscape of conflict, having proven the victor's point that escape is impossible
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: The theft becomes a strange performance; the 7 of Swords steals knowing the victor knows; the stealing loses all meaning because its secrecy is destroyed
   swords_state: The thief and the victor locked in a dance where the stealing happens but its purpose is already defeated
   consequence: the deception continues but is now performed for an audience that understands it
-  key_terms: theft becomes a strange performance, thief and the victor locked, deception continues, thief is frozen
+  key_terms: theft stripped of secrecy, stealing performed for a knowing audience, deception without purpose, the pointless dance
 
 dynamic_devolution:
   mechanism: The continuing deception poisons the relationship; the victor gradually loses patience; the thief gradually becomes desperate as the theft no longer serves its purpose
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: The 8 of Swords is frozen by the knowledge of possible escape; the refusal to move becomes compulsive; the invisible bonds tighten as the awareness of freedom grows
   swords_state: The prisoner within arm's reach of the exit but unable to step forward, the invisible bonds becoming tighter with each moment of awareness
   consequence: the bonds, while invisible, are internalized so completely that movement becomes impossible
-  key_terms: 8 of swords is frozen, prisoner within arm's reach, prisoner sees the way out
+  key_terms: escape seen but untaken, internalized bonds, freedom that tightens the chains, compulsive refusal to move
 
 dynamic_devolution:
   mechanism: The awareness of possible escape becomes torture; the prisoner is gradually destroyed by the knowledge of freedom they cannot access; the invisible bonds transform into visible despair
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The 9 of Swords is frozen in perpetual night; the nightmares are acknowledged as eternal; the sufferer becomes increasingly desperate
   swords_state: The sufferer lying awake in nightmare, the victor standing silent in the darkness, witness to suffering without remedy
   consequence: the nightmares become even more terrible because they are now permanent
-  key_terms: 9 of swords is frozen, sufferer lying awake in nightmare, nightmares become even more terrible, sufferer is held
+  key_terms: nightmare made permanent, the dying hope of escape, perpetual night, witnessed suffering without remedy
 
 dynamic_devolution:
   mechanism: The despair becomes suicidal; the sufferer gradually loses the will to continue; the nightmares are not merely torment but become a reason to end existence
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: An eternal moment of ending; the 10 of Swords is suspended in the instant of destruction; the rebirth that should follow is prevented by the inability to complete the collapse
   swords_state: The fallen figure pinned to earth by the ten swords, unable to descend fully into death or rise toward renewal
   consequence: the sword remains stuck, the defeat remains incomplete
-  key_terms: eternal moment of ending, fallen figure pinned to earth, sword remains stuck, 10 of swords is held
+  key_terms: collapse held indefinitely, the sword that won't release, rebirth prevented, incomplete defeat
 
 dynamic_devolution:
   mechanism: The collapse, while remaining incomplete, becomes a new form of torture; the 10 of Swords is gradually consumed by the awareness that they are suspended between death and life
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: A young seeker who is partially alive; the questions are asked but without the joy of genuine seeking; the wonder survives but is shadowed
   swords_state: The Page with raised hand, questions forming but unable to speak them fully, the victor's presence creating silence
   consequence: the wonder is infected with fear
-  key_terms: young seeker who is partially, page with raised hand, wonder is infected with fear, page's curiosity is arrested
+  key_terms: curiosity infected with fear, questions shadowed by danger, wonder without joy, the silenced seeker
 
 dynamic_devolution:
   mechanism: The curiosity is gradually destroyed by the victor's insistence on danger; the Page becomes afraid of their own questions; the wonder transforms into paranoia
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is incomplete; the knight moves forward but no longer moves freely; clarity is pursued but with growing anxiety about its nature
   swords_state: The knight riding toward truth but constantly looking back at the victor's shape in the distance, hearing the voice of warning even in the pursuit itself
   consequence: the seeker's confidence is undermined by the knowledge of what awaits
-  key_terms: journey that is incomplete, knight riding toward truth, seeker's confidence is undermined, knight is slowed
+  key_terms: pursuit slowed by doubt, the backward glance mid-ride, undermined confidence, clarity chased with anxiety
 
 dynamic_devolution:
   mechanism: The doubt gradually poisons the pursuit; the knight becomes increasingly desperate to find a truth that is not the victor's bitter knowledge; the pursuit transforms from genuine seeking into flight
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: The Queen judges but without full authority; the clarity is present but its impact is diminished by the underlying doubt about whether such clarity can be genuine
   swords_state: The Queen on her throne, dispensing wisdom, but the victor's presence in the shadows calling into question the nature of that wisdom
   consequence: the wisdom that should be sovereign is shadowed by the victim's doubt about its authenticity
-  key_terms: queen judges but without full, queen on her throne, wisdom that should be sovereign, queen's clarity is limited
+  key_terms: wisdom shadowed by doubt, judgment without full authority, sovereignty questioned, diminished clarity
 
 dynamic_devolution:
   mechanism: The Queen's clarity gradually becomes infected by the victor's bitterness; the integrity fails; the wisdom becomes tainted
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: A realm ruled by two sovereigns who do not agree; the territory is governed but divided; neither vision is fully realized
   swords_state: Two thrones, two armies, two flags—the kingdom divided not by open war but by the tension between principle and pragmatism
   consequence: the victor cannot act fully because the King's principles constrain them
-  key_terms: realm ruled by two sovereigns, two thrones, victor cannot act fully because, neither sovereign can fully exercise
+  key_terms: realm split principle-versus-pragmatism, two thrones one territory, neither vision realized, divided rule
 
 dynamic_devolution:
   mechanism: The tension becomes actual conflict; the two sovereigns war for control; the King's vision is opposed by the victor's determination to survive

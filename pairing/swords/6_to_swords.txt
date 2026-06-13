@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: A crossing where clarity is glimpsed but not fully integrated; truth is present but undigested
   swords_state: The traveler in motion with the Ace's sword visible but never fully grasped
   consequence: the Ace's truth is present but cannot be fully contemplated during the journey
-  key_terms: crossing where clarity is glimpsed, traveler in motion, ace's truth is present, traveler moves but cannot fully
+  key_terms: truth glimpsed not integrated, undigested clarity, thought ungrasped in motion, contemplation impossible mid-crossing
 
 dynamic_devolution:
   mechanism: The journey gradually becomes meaningless because the truth cannot be integrated; the traveler arrives without understanding
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: A journey made difficult by the stalemate's resistance; the traveler moves but feels pulled back by the deadlock
   swords_state: The traveler at the shore ready to depart but the invisible bonds of stalemate holding them partially back
   consequence: the traveler remains partially bound
-  key_terms: journey made difficult, traveler at the shore ready, traveler remains partially bound, traveler's departure is incomplete
+  key_terms: crossing pulled back by deadlock, traveler partially bound, departure incomplete, the stalemate's lingering hold
 
 dynamic_devolution:
   mechanism: The stalemate eventually reasserts itself; the traveler cannot fully leave while the other remains bound; guilt pulls the traveler back
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: A crossing weighted by unprocessed sorrow; the traveler arrives but still carrying the fullness of the pain
   swords_state: The traveler in the boat weeping, neither fully grieving nor fully crossing
   consequence: neither the journey nor the grief is complete
-  key_terms: crossing weighted by unprocessed sorrow, traveler in the boat weeping, neither the journey nor, traveler moves but carries
+  key_terms: crossing weighted by sorrow, grieving in the boat, neither mourned nor arrived, pain carried whole
 
 dynamic_devolution:
   mechanism: The grief gradually destroys the journey; the heartbreak becomes so complete that the traveler cannot continue; the crossing is abandoned
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: A rest that is partial; the traveler never fully recovers because the awareness of the journey's continuation prevents complete relaxation
   swords_state: The traveler resting at the shore but the boat visible, ready to continue
   consequence: the peace is present but incomplete because the journey waits
-  key_terms: rest that is partial, traveler resting at the shore, peace is present but incomplete, traveler attempts to rest
+  key_terms: partial rest, recovery cut short by the waiting boat, peace under the journey's shadow, relaxation withheld
 
 dynamic_devolution:
   mechanism: The traveler gradually becomes exhausted by the refusal to truly rest; the crossing becomes impossible; the traveler collapses
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: A journey made difficult by the victor's weight; the traveler's peace is threatened by the bitterness
   swords_state: The traveler and the victor in the boat together, the traveler's peace shadowed by the victor's bitterness
   consequence: neither fully moves forward
-  key_terms: journey made difficult, traveler and the victor, neither fully moves forward, traveler remains with the victor
+  key_terms: peace shadowed by bitterness, the victor's weight in the boat, the slowed crossing, neither moving forward
 
 dynamic_devolution:
   mechanism: The traveler's patience eventually ends; the journey continues but the victor is abandoned; the bitterness eventually destroys the traveler's peace
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: A crossing that is compromised by the need to accommodate both; the travelers move together but neither is truly themselves
   swords_state: Two figures in the boat struggling to synchronize the oars
   consequence: neither can move at their natural speed
-  key_terms: crossing that is compromised, two figures in the boat, neither can move at, two travelers attempt to move
+  key_terms: mismatched pace, oars out of sync, accommodation that erases both, neither at natural speed
 
 dynamic_devolution:
   mechanism: The travelers gradually resent each other; the shared crossing becomes a prison; eventually they separate in bitterness
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: A companionship that is technically present but spiritually divided; neither can fully be themselves
   swords_state: Two travelers in the boat but unable to truly travel together, unable to trust
   consequence: the thief cannot fully relax with the transparent traveler
-  key_terms: companionship that is technically present, two travelers in the boat, thief cannot fully relax, two attempt to travel together
+  key_terms: companionship without trust, the transparent traveler and the wary thief, shared boat spiritually divided, neither fully present
 
 dynamic_devolution:
   mechanism: The traveler reports the thief; the thief betrays the traveler; the companionship becomes a warfare
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is externally free but internally imprisoned; the prisoner escapes physically but remains bound mentally
   swords_state: The traveler and the prisoner in the boat but the prisoner still mentally bound
   consequence: the crossing is attempted with inner captivity
-  key_terms: journey that is externally free, traveler and the prisoner, crossing is attempted with inner, prisoner accepts the journey
+  key_terms: outward escape inward prison, mental bonds carried across, freedom only physical, captivity in transit
 
 dynamic_devolution:
   mechanism: The prisoner returns to the bonds; the crossing is abandoned; the captivity reasserts itself completely
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: A crossing that is not healing because the nightmares are carried within
   swords_state: The traveler in the boat but the nightmares following, the boat never far enough away
   consequence: the mental anguish is internal and cannot be escaped through physical movement
-  key_terms: crossing that is not healing, traveler in the boat, mental anguish is internal, traveler journeys but the nightmares
+  key_terms: nightmares that travel too, anguish no distance escapes, crossing without healing, the boat never far enough
 
 dynamic_devolution:
   mechanism: The nightmares gradually consume the traveler; the journey becomes another form of torment; the crossing is destroyed
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is technically happening but spiritually incomplete; the defeated one has not truly left the place of collapse
   swords_state: The defeated figure in the boat but still lying down, not yet able to sit or move
   consequence: the crossing is made but the traveler is not truly present
-  key_terms: journey that is technically happening, defeated figure in the boat, crossing is made, defeated one begins the journey
+  key_terms: defeat that hasn't left the shore, present in body absent in spirit, collapse carried into the boat, journey without the traveler
 
 dynamic_devolution:
   mechanism: The defeated one cannot continue the crossing; the collapse is too complete; the journey is abandoned
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: Questions that are half-answered; the Page remains curious but unsatisfied
   swords_state: The traveler and the Page together but the traveler's attention elsewhere, the boat always visible
   consequence: the Page's inquiry is incomplete
-  key_terms: questions that are half-answered, traveler and the page together, page's inquiry is incomplete, traveler remains partially to answer
+  key_terms: half-answered questions, curiosity unsatisfied, divided attention, the boat always in view
 
 dynamic_devolution:
   mechanism: The traveler eventually leaves and the Page's questions become bitterness; the young seeker's curiosity is corrupted into skepticism
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: A crossing that is technically shared but spiritually divided
   swords_state: Two figures in the boat pulling in different directions
   consequence: both are diminished by the partnership
-  key_terms: crossing that is technically shared, two figures in the boat, both are diminished, two attempt to journey together
+  key_terms: methods in conflict, two pulling different ways, shared crossing spiritually divided, partnership diminishing both
 
 dynamic_devolution:
   mechanism: The two separate in bitter disagreement about what truth is worth seeking
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: A state of enforced stillness; the traveler is present but absent
   swords_state: The traveler and the Queen together but the traveler's internal absence
   consequence: the crossing is prevented by the obligation to the authority
-  key_terms: state of enforced stillness, traveler and the queen together, crossing is prevented, traveler remains bound
+  key_terms: enforced stillness, present but absent, crossing barred by obligation, resentful binding
 
 dynamic_devolution:
   mechanism: The traveler rebels against the Queen's authority; the crossing becomes a breaking of bonds
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: A forced service that breaks the traveler's spirit
   swords_state: The traveler and the King together but the traveler bound in service
   consequence: the crossing is prevented by the King's will
-  key_terms: forced service that breaks, traveler and the king together, crossing is prevented, traveler remains in service
+  key_terms: forced service breaking the spirit, crossing barred by the King's will, bound in duty, resentful subjection
 
 dynamic_devolution:
   mechanism: The traveler openly rebels; the King's authority is challenged and defeated

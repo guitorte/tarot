@@ -1,7 +1,56 @@
-card_pair: 5 of Swords, 2 of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+card_pair: 5 of Swords, Ace of Cups
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_cups: Emotional opening, love, receptivity, new feeling, overflowing heart
+numerical_relation: 5 + 1 = 6 (VI The Lovers; conflict meets the opening heart)
+elemental_bridge: Air's wound meets Water's overflow; the victory that cannot receive the gift of new feeling
+threshold_type: The wounded heart offered love; the victor too scarred to receive
+
+dynamic_genesis:
+  mechanism: The Ace of Cups' overflow begins to soften the 5 of Swords' hardness; new feeling arrives where bitterness had calcified
+  process: The opening heart meets the battle-scarred victor; emotional receptivity thaws what conflict froze
+  outcome: Love arrives despite the bitterness; the wound becomes the place where tenderness can finally land
+  key_terms: Softened hardness, received love, thawed victory, tender opening
+
+dynamic_antagonism:
+  mechanism: The victor's hardness repels the Ace's tender overflow; the opening meets the sealed heart
+  tension_axis: Flooding emotion against protective closure; receptivity against defended victory
+  five_of_swords_position: Still armed, unable to unfold to receive; protective armor bars the entry of what heals
+  ace_of_cups_position: Pours without condition; cannot understand why the wounded heart refuses feeling
+  key_terms: Repelled love, sealed heart, protective armor, refused overflow
+
+dynamic_inhibition:
+  mechanism: The Ace's love is blocked by the victor's defensive armor; feeling arrives but finds no entrance
+  blockade_nature: The emotional overflow cannot penetrate the hardened surface; tenderness held outside the perimeter
+  swords_state: The victor locked in its victory; armor that protected the fight now guards against healing
+  consequence: Love is present but unreceived; the opening spills into empty air
+  key_terms: Unreceived love, blocked opening, sealed perimeter, rejected healing
+
+dynamic_devolution:
+  mechanism: The Ace's gift becomes accusation; the overflow turns to resentment; the victor's refusal poisons the gift
+  mode: The tender offering becomes indictment; love weaponized against the refusal to be loved
+  loss: The Ace's capacity to give without condition; pure opening corrupted by the rejection
+  key_terms: Poisoned gift, corrupted love, rejected tenderness, resentful overflow
+
+dynamic_dependency:
+  mechanism: The victor must eventually lower the armor to receive; the Ace must trust the opening despite refusal
+  function: Swords-5 supplies the protective wisdom that makes the Ace's love weighty; Cups-Ace supplies the healing that eventually dissolves the necessary armor
+  integration_outcome: The hardened heart learns to open; love that was refused learns to persist; the victory becomes ground where tenderness roots
+  key_terms: Opened heart, received love, earned tenderness, rooted healing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
+
+---
+
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Sacred Bond, The Emotional Union, The Heart's Recognition, The Mutual Devotion
-numerical_relation: 5 + 2 = 7 (The Chariot reversed, struggle against union; triumph paradoxically isolating)
+numerical_relation: 5 + 2 = 7 (VII The Chariot; judgment over love; triumph paradoxically isolating)
 elemental_bridge: Air (clarity, conflict, division) meeting Water (emotion, flow, union) creates emotional wounding through clarity—truth weaponized against the heart
 threshold_type: The Wounded Lovers' Meeting—defeat severing what tenderness seeks to mend
 
@@ -20,37 +69,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The 5 of Swords freezes the 2 of Cups in place—emotional bonds become hostages to the conflict; the lovers cannot move toward each other without reliving the defeat that divided them
-  consequence: Union suspended in temporal amber—two hearts aware of their connection but unable to cross the field of broken glass between them; each gesture toward reconciliation is paralyzed by the fear of renewed harm
-  spatial_logic: The lovers remain on opposite banks of a river of their own tears, able to see each other but unable to bridge what was broken
+  blockade_nature: The lovers remain on opposite banks of a river of their own tears, able to see each other but unable to bridge what was broken
+  swords_state: Union suspended in temporal amber—two hearts aware of their connection but unable to cross the field of broken glass between them; each gesture toward reconciliation is paralyzed by the fear of renewed harm
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The conflict deepens; emotional wounds calcify into permanent resentment; the 2 of Cups' vision of sacred union becomes a mockery of itself—two people bound together by shared bitterness rather than shared love
-  corruption: Love transforms into obligation; tenderness becomes a prison; the union survives but the heart dies within it; the 2 of Cups becomes the 2 of Swords—bound but weaponized against each other
+  mode: Love transforms into obligation; tenderness becomes a prison; the union survives but the heart dies within it; the 2 of Cups becomes the 2 of Swords—bound but weaponized against each other
   loss: The capacity to trust erodes with each revisiting of the original wound; the 2 of Cups devolves into mutual surveillance and self-protection rather than genuine intimacy
   key_terms: Hollow marriage, bitter bonding, the death of innocence, love as entrapment
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually lay down its weapons to receive the 2 of Cups' healing touch; the emotional vulnerability required for the 2 of Cups demands that the victor accept that their bitterness cannot be transcended alone
-  integration: The healing of emotional bonds requires the acknowledgment of defeat as part of the victor's story—not as failure but as the scar tissue through which compassion is learned
-  paradox: The deepest unions are often forged between those who have wounded and been wounded by each other, who have chosen to stay despite the knowledge of each other's capacity to harm
+  integration_outcome: The healing of emotional bonds requires the acknowledgment of defeat as part of the victor's story—not as failure but as the scar tissue through which compassion is learned
+  function: The deepest unions are often forged between those who have wounded and been wounded by each other, who have chosen to stay despite the knowledge of each other's capacity to harm
   outcome: Emotional intimacy that includes room for conflict without destroying the bond; love that incorporates the scars rather than denying them
   key_terms: Post-trauma bonding, forgiveness as surrender, wounds as wisdom, the tenderness learned in bitterness
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, 3 of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Celebration, The Genuine Togetherness, The Community of Hearts, The Abundance Shared
-numerical_relation: 5 + 3 = 8 (Strength, but shadowed; power paradoxically weakened by withdrawal)
+numerical_relation: 5 + 3 = 8 (VIII Justice; victory poisons celebration; power paradoxically weakened by withdrawal)
 elemental_bridge: Air dividing where Water unites; the conflict that scattered many now haunts the gathering of the few
 threshold_type: The Scarred Celebrant—the victor forced to witness joy they believe they've forfeited
 
@@ -69,37 +119,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The 3 of Cups' circle becomes a prison for the 5 of Swords—the victor is invited to celebrate but cannot; invited to belong but cannot accept that they deserve belonging
-  consequence: A false gathering where the celebration is performed but joy is strangled; the 3 of Cups maintains the form of togetherness while the 5 of Swords drains the authenticity from every moment
-  spatial_logic: Three dancers and one shadow—the victor present in body but absent in spirit, their bitterness casting a darkness that no celebration can dispel
+  blockade_nature: Three dancers and one shadow—the victor present in body but absent in spirit, their bitterness casting a darkness that no celebration can dispel
+  swords_state: A false gathering where the celebration is performed but joy is strangled; the 3 of Cups maintains the form of togetherness while the 5 of Swords drains the authenticity from every moment
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The 3 of Cups withers from the inside; the joy becomes strained and artificial; the gathering transforms into collusion, a conspiracy to pretend that the cost of conflict has been erased
-  corruption: Celebration becomes denial; togetherness becomes complicity; the 3 of Cups devolves into a mockery of itself—forced smiling over unprocessed trauma, the festive table built on a grave
+  mode: Celebration becomes denial; togetherness becomes complicity; the 3 of Cups devolves into a mockery of itself—forced smiling over unprocessed trauma, the festive table built on a grave
   loss: The genuine quality of the celebration dies; what remains is the hollow performance of joy, a gathering of ghosts pretending to be alive
   key_terms: The false feast, festive denial, the party that hides the funeral, joy as self-betrayal
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually consent to celebrate without requiring the world to acknowledge the cost; the 3 of Cups must hold space for the victor's bitterness without demanding it be overcome
-  integration: Celebration that includes the scars, that makes room for the memory of the fallen within the joy of the survivors; togetherness that is built not on forgetting but on bearing witness together
-  paradox: The deepest celebrations are often those that acknowledge what was lost to make them possible; the most genuine togetherness includes the permission to mourn
+  integration_outcome: Celebration that includes the scars, that makes room for the memory of the fallen within the joy of the survivors; togetherness that is built not on forgetting but on bearing witness together
+  function: The deepest celebrations are often those that acknowledge what was lost to make them possible; the most genuine togetherness includes the permission to mourn
   outcome: A gathering where the victor is welcomed without being required to pretend the defeat did not happen; where joy and sorrow can coexist within the circle
   key_terms: Inclusive grief, celebration as witness, the feast that honors both the living and the dead, mourning within togetherness
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, 4 of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Emotional Apathy, The Withdrawal from Feeling, The Numb Sanctuary, The Weariness of the Heart
-numerical_relation: 5 + 4 = 9 (Completion, but of what? The end of feeling, the final numbness)
+numerical_relation: 5 + 4 = 9 (IX The Hermit; withdrawal as escape The end of feeling, the final numbness)
 elemental_bridge: Air cutting through the protective withdrawal of Water; clarity meets apathy
 threshold_type: The Deadened Survivor—conflict having extracted such a price that emotional numbness feels like mercy
 
@@ -118,37 +169,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The 5 of Swords freezes the 4 of Cups in a state of enforced numbness; the withdrawal becomes less a choice and more a compulsion; the silence becomes a prison
-  consequence: Emotional paralysis so complete that neither feeling nor healing is possible; the 4 of Cups devolves into pure inertia, a statue of a human being rather than a person capable of growth
-  spatial_logic: The victor stands guard over the sanctuary of apathy, ensuring that nothing enters to disturb the numb peace; the deadened one sits in an increasingly suffocating stillness
+  blockade_nature: The victor stands guard over the sanctuary of apathy, ensuring that nothing enters to disturb the numb peace; the deadened one sits in an increasingly suffocating stillness
+  swords_state: Emotional paralysis so complete that neither feeling nor healing is possible; the 4 of Cups devolves into pure inertia, a statue of a human being rather than a person capable of growth
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The protective apathy calcifies into total emotional death; the 4 of Cups transforms from sanctuary into tomb; the numbness spreads until nothing lives within the withdrawn one
-  corruption: Apathy metastasizes; the capacity for any feeling—even pain—dies; the sanctuary becomes a burial chamber; the 4 of Cups devolves into the void, an absence rather than a presence
+  mode: Apathy metastasizes; the capacity for any feeling—even pain—dies; the sanctuary becomes a burial chamber; the 4 of Cups devolves into the void, an absence rather than a presence
   loss: The possibility of future emotional engagement is sacrificed on the altar of protection; the heart not only heals slowly but ceases to beat entirely
   key_terms: The emotional void, the living death, sanctuary as tomb, the price of numbness
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually accept that some wounds require more than bitterness for their healing; the 4 of Cups must risk feeling again despite the knowledge of how much feeling can cost
-  integration: The acceptance that numbness, while a temporary mercy, cannot be a permanent solution; that the apathy learned in conflict must eventually give way to a cautious reopening
-  paradox: The deepest healing often requires that we first acknowledge the wisdom of our withdrawal—that we were right to protect ourselves, and that we can eventually afford to lower our guard
+  integration_outcome: The acceptance that numbness, while a temporary mercy, cannot be a permanent solution; that the apathy learned in conflict must eventually give way to a cautious reopening
+  function: The deepest healing often requires that we first acknowledge the wisdom of our withdrawal—that we were right to protect ourselves, and that we can eventually afford to lower our guard
   outcome: A slow return to feeling that incorporates the caution learned through conflict; emotional engagement that includes the knowledge of vulnerability but chooses connection anyway
   key_terms: The slow thaw, feeling through the numbness, cautious reengagement, wisdom as the price of healing
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, 5 of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Heartbroken, The Loss and Grief, The Mourning Witness, The Regret Doubled
-numerical_relation: 5 + 5 = 10 (Completion, but of suffering; the wheel turning full circle into darkness)
+numerical_relation: 5 + 5 = 10 (X The Wheel of Fortune; two losses meeting; the wheel turning full circle into darkness)
 elemental_bridge: Air meeting Water in mutual recognition of loss; two forms of regret acknowledging each other
 threshold_type: The Doubled Mourning—conflict and heartbreak meeting as siblings in grief
 
@@ -167,37 +219,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The two regrets become mirrors that distort rather than clarify; each prevents the other from moving forward by insisting that their loss is more profound, more worthy of mourning
-  consequence: Mutual paralysis; two grievers locked in a competition of suffering, unable to move toward healing because doing so would suggest their loss was less significant
-  spatial_logic: Two figures standing amid the ruins of the same catastrophe, unable to move toward each other because admitting the other's loss would require admitting their own
+  blockade_nature: Two figures standing amid the ruins of the same catastrophe, unable to move toward each other because admitting the other's loss would require admitting their own
+  swords_state: Mutual paralysis; two grievers locked in a competition of suffering, unable to move toward healing because doing so would suggest their loss was less significant
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The regrets poison each other; bitterness infects heartbreak, and heartbreak deepens bitterness; what could have been mutual understanding becomes mutual accusation
-  corruption: The 5 of Cups' grief becomes infected with resentment; the 5 of Swords' bitterness becomes infected with despair; the two forms of loss merge into a compound wound from which no recovery seems possible
+  mode: The 5 of Cups' grief becomes infected with resentment; the 5 of Swords' bitterness becomes infected with despair; the two forms of loss merge into a compound wound from which no recovery seems possible
   loss: The possibility of shared mourning dies; what remains is blame, each griever insisting that the other caused their loss
   key_terms: Mutual blame, compounded regret, bitterness poisoning grief, the death of empathy
 
 dynamic_dependency:
   mechanism: The 5 of Swords and 5 of Cups must eventually accept that they grieve different losses but mourn the same catastrophe; that the victor's bitterness and the griever's heartbreak come from the same source
-  integration: Mourning that makes room for different forms of loss; the recognition that some grieve the battle while others grieve what was lost in it, and both losses are valid
-  paradox: The deepest empathy often emerges between those who have suffered in different ways from the same cause; the understanding that victory and defeat are different faces of the same tragedy
+  integration_outcome: Mourning that makes room for different forms of loss; the recognition that some grieve the battle while others grieve what was lost in it, and both losses are valid
+  function: The deepest empathy often emerges between those who have suffered in different ways from the same cause; the understanding that victory and defeat are different faces of the same tragedy
   outcome: A fellowship of grief where the victor and the heartbroken stand together, not competing for whose loss is greater but witnessing each other's wounds
   key_terms: Unified mourning, the acceptance of different griefs, brotherhood in loss, witnesses to each other's darkness
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, 6 of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Innocence Reclaimed, The Nostalgia Safe, The Childhood's Return, The Simplicity of Past Joy
-numerical_relation: 5 + 6 = 11 (The Hanged One, the perspective shift; looking at childhood through the lens of adult hardening)
+numerical_relation: 5 + 6 = 11 (XI Strength; hardness cannot enter innocence; looking at childhood through the lens of adult hardening)
 elemental_bridge: Air cutting through Water's remembrance; the clarity of loss shattering the sanctuary of memory
 threshold_type: The Hardened Child—the victor unable to return to innocence, haunted by what they've become
 
@@ -216,37 +269,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The 6 of Cups' memory becomes a prison of what-cannot-be; the victim of conflict remains suspended between the innocence they've lost and the hardness they've gained, unable to inhabit either fully
-  consequence: A frozen longing where the victor is perpetually looking backward at a self they can no longer access; the nostalgia becomes obsessive, a refusal to accept that time has moved in only one direction
-  spatial_logic: The victor stands at the boundary of memory, always seeing the 6 of Cups' realm but never able to step fully back into it
+  blockade_nature: The victor stands at the boundary of memory, always seeing the 6 of Cups' realm but never able to step fully back into it
+  swords_state: A frozen longing where the victor is perpetually looking backward at a self they can no longer access; the nostalgia becomes obsessive, a refusal to accept that time has moved in only one direction
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The longing for lost innocence becomes a wound that will not heal; the victor's bitterness metastasizes into hatred for what they've become; the 6 of Cups' memory becomes a torture device
-  corruption: The nostalgia transforms into bitter regret; the joy of childhood is re-cast as a false paradise that was destroyed; the innocent self is mourned as though it were dead
+  mode: The nostalgia transforms into bitter regret; the joy of childhood is re-cast as a false paradise that was destroyed; the innocent self is mourned as though it were dead
   loss: The capacity to appreciate the present is sacrificed on the altar of an idealized past; the victor remains emotionally a child while carrying the responsibilities and scars of an adult
   key_terms: The irretrievable past, nostalgia as poison, the haunting of innocence, the child mourned as dead
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually accept that returning to innocence is impossible, but that the memory of it need not be a source of bitterness; the 6 of Cups must offer its sanctuary not as a return but as a contemplation
-  integration: The acceptance that the victor has become someone new, and that this new self is not lesser but different; that the childhood memories can be honored without demanding that the adult regression back to innocence
-  paradox: The deepest joy in memory often comes not from wishing to return to the past but from gratitude that such a past existed; the ability to remember innocence without being destroyed by its loss
+  integration_outcome: The acceptance that the victor has become someone new, and that this new self is not lesser but different; that the childhood memories can be honored without demanding that the adult regression back to innocence
+  function: The deepest joy in memory often comes not from wishing to return to the past but from gratitude that such a past existed; the ability to remember innocence without being destroyed by its loss
   outcome: A relationship with memory that is neither obsessive nor denying; the 6 of Cups offered as a place to rest and reflect, not as a destination to return to
   key_terms: The honored past, memory as teacher, acceptance of change, the wisdom of scars, gratitude for what was
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, 7 of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Illusions, The Wishful Thinking, The Dreams Ungrounded, The Fantasy Escape
-numerical_relation: 5 + 7 = 12 (The Hanged One, suspension; illusions suspended on the edge of conflict)
+numerical_relation: 5 + 7 = 12 (XII The Hanged Man; clarity shatters fantasy; illusions suspended on the edge of conflict)
 elemental_bridge: Air's clarity shattering Water's illusions; the hardness of reality destroying the softness of fantasy
 threshold_type: The Disillusioned Dreamer—conflict having proven that wishes are not reality
 
@@ -265,37 +319,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The victor's reality-insistence freezes the dreamer in a state of guilty fantasy; they continue to desire but cannot do so without the victor's voice reminding them of the cost
-  consequence: Dreams become shameful; the fantasy is pursued in secret, in shame, with the knowledge that the victor judges the very act of wishing
-  spatial_logic: The dreamer in a locked room full of beautiful impossible cups, the victor standing outside the door, arms crossed, reminding them of how the last dream ended
+  blockade_nature: The dreamer in a locked room full of beautiful impossible cups, the victor standing outside the door, arms crossed, reminding them of how the last dream ended
+  swords_state: Dreams become shameful; the fantasy is pursued in secret, in shame, with the knowledge that the victor judges the very act of wishing
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The conflict between reality and fantasy becomes a trauma; the dreamer either abandons all hope or becomes delusional, clinging to illusion as the only refuge from the victor's cruel clarity
-  corruption: The 7 of Cups transforms from innocent daydreaming into desperate delusion; the fantasy becomes a form of psychosis, a refusal to accept reality that deepens with every scar the victor displays
+  mode: The 7 of Cups transforms from innocent daydreaming into desperate delusion; the fantasy becomes a form of psychosis, a refusal to accept reality that deepens with every scar the victor displays
   loss: The capacity to imagine a better future dies; what remains is either the apathy of the defeated or the madness of the delusional
   key_terms: The descent into delusion, the death of hope, denial as disease, madness as refuge
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually accept that some illusions are necessary for survival; the 7 of Cups must accept that not all fantasies are harmless
-  integration: A grounded dreaming where the fantasy is held alongside the knowledge of reality; the dreams are pursued not in denial of the world's hardness but in dialogue with it
-  paradox: The most powerful dreams are those that acknowledge reality but refuse to be bound by it; the strongest fantasies are those that are held with one hand while the other hand works to build them
+  integration_outcome: A grounded dreaming where the fantasy is held alongside the knowledge of reality; the dreams are pursued not in denial of the world's hardness but in dialogue with it
+  function: The most powerful dreams are those that acknowledge reality but refuse to be bound by it; the strongest fantasies are those that are held with one hand while the other hand works to build them
   outcome: A collaboration where the victor's clarity protects the dreamer from the illusions that poison, while the dreamer's imagination offers the victor a vision of something beyond bitterness
   key_terms: Grounded dreaming, imagination tempered by reality, the dream pursued with awareness, fantasy as fuel rather than escape
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, 8 of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Walking Away, The Abandonment of False Comfort, The Search Beyond, The Seeker's Departure
-numerical_relation: 5 + 8 = 13 (Death/Transformation; the departure required to leave the conflict behind)
+numerical_relation: 5 + 8 = 13 (XIII Death; departure required; the departure required to leave the conflict behind)
 elemental_bridge: Air clearing away Water's attachments; the space made for departure
 threshold_type: The Abandoned Winner—victory hollow enough that the victor must depart to find meaning
 
@@ -314,37 +369,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The victor's need for witness chains the seeker; the departure is incomplete, the seeker looking back constantly, unable to fully commit to the journey because of the debt to the victor
-  consequence: A departure that is not truly a departure; the 8 of Cups walks forward but carries the conflict within, unable to leave the bitterness behind while still bound by obligation to acknowledge the victor
-  spatial_logic: The seeker moving away but always glancing over their shoulder, never achieving the true distance required for transformation
+  blockade_nature: The seeker moving away but always glancing over their shoulder, never achieving the true distance required for transformation
+  swords_state: A departure that is not truly a departure; the 8 of Cups walks forward but carries the conflict within, unable to leave the bitterness behind while still bound by obligation to acknowledge the victor
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The departure becomes a form of betrayal; the victor's bitterness curdled into abandonment resentment; the seeker's journey becomes a flight driven by desperation rather than hope
-  corruption: The 8 of Cups transforms into desperate flight; the search becomes a running-away rather than a running-toward; the seeker leaves behind not just the conflict but their own capacity for meaningful connection
+  mode: The 8 of Cups transforms into desperate flight; the search becomes a running-away rather than a running-toward; the seeker leaves behind not just the conflict but their own capacity for meaningful connection
   loss: The transformation is aborted; the seeker arrives at new terrain still carrying the weight of the old, unable to shed the bitterness through the act of leaving alone
   key_terms: Flight disguised as journey, abandonment as trauma, the eternal return, running in circles
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that the seeker cannot serve as witness to their victory; that true transformation requires the departure of even those who might validate the struggle
-  integration: The recognition that lasting value emerges not from being witnessed but from being transcended; the victor discovers meaning not in remaining but in accepting the departure of those who must grow beyond
-  paradox: The victory is complete only when those seeking growth are allowed to leave; the deepest vindication is the seeker's eventual return from a transformed perspective
+  integration_outcome: The recognition that lasting value emerges not from being witnessed but from being transcended; the victor discovers meaning not in remaining but in accepting the departure of those who must grow beyond
+  function: The victory is complete only when those seeking growth are allowed to leave; the deepest vindication is the seeker's eventual return from a transformed perspective
   outcome: The victor learns to release, to bless the departure, to recognize that transformation requires separation; the seeker journeys with permission rather than guilt
   key_terms: The blessing of departure, acceptance of growth beyond, transformation as completion, the victor's final gift
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, 9 of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Wish Fulfilled, The Satisfaction Achieved, The Abundance Realized, The Heart's Desire Met
-numerical_relation: 5 + 9 = 14 (Moderation, but in conflict with satisfaction; the victor cannot enjoy the prize)
+numerical_relation: 5 + 9 = 14 (XIV Temperance; the prize poisoned with satisfaction; the victor cannot enjoy the prize)
 elemental_bridge: Air witnessing Water's fulfillment but unable to participate in it; the clarity that separates from the satisfaction
 threshold_type: The Haunted Victor—the prize won but poisoned by the bitterness of its acquisition
 
@@ -363,37 +419,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The fulfillment becomes a prison; the victor possesses what they wished for but cannot enjoy it; the 9 of Cups' satisfaction is frozen in an eternal moment of near-ecstasy that never quite arrives
-  consequence: Possession without joy; the victor hoards the fulfilled wish, protecting it obsessively, unable to use it or share it or truly experience its fulfillment
-  spatial_logic: The victor clutching the prize to their chest but unable to open their arms to actually experience what they hold
+  blockade_nature: The victor clutching the prize to their chest but unable to open their arms to actually experience what they hold
+  swords_state: Possession without joy; the victor hoards the fulfilled wish, protecting it obsessively, unable to use it or share it or truly experience its fulfillment
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The wish that was fought for transforms into a curse; the fulfillment becomes a weight that crushes rather than uplifts; the 9 of Cups metastasizes into its own opposite
-  corruption: The prize becomes a symbol of all that was sacrificed for it; every moment of enjoyment is shadowed by the memory of what was lost; the fulfillment transforms into a form of torment
+  mode: The prize becomes a symbol of all that was sacrificed for it; every moment of enjoyment is shadowed by the memory of what was lost; the fulfillment transforms into a form of torment
   loss: The capacity to enjoy what was won dies; the victor becomes a guardian of the wish rather than its beneficiary, kept alive only by the refusal to enjoy what they fought for
   key_terms: The curse of victory, possession as torture, the haunted prize, the fulfillment that kills
 
 dynamic_dependency:
   mechanism: The 5 of Swords must learn to honor those sacrificed by actually living the wish they died to secure; the 9 of Cups must offer satisfaction that includes the shadow of its cost
-  integration: A fulfillment that is tinged with melancholy but genuine nonetheless; the victor learns that the best way to honor what was sacrificed is to actually use and enjoy the prize
-  paradox: The deepest satisfaction often comes from the hardest-won victories; the wish is most genuinely fulfilled when it is held alongside the knowledge of its cost
+  integration_outcome: A fulfillment that is tinged with melancholy but genuine nonetheless; the victor learns that the best way to honor what was sacrificed is to actually use and enjoy the prize
+  function: The deepest satisfaction often comes from the hardest-won victories; the wish is most genuinely fulfilled when it is held alongside the knowledge of its cost
   outcome: The victor finally opens their arms; the prize flows into the life and brings a complex joy—not innocent, not pure, but genuine and earned
   key_terms: The honored sacrifice, enjoyment as witness, satisfaction earned through suffering, the wish that honors the dead
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, 10 of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Harmonious Family, The Lasting Happiness, The Circle Complete, The Love Established
-numerical_relation: 5 + 10 = 15 (The Devil reversed; liberation from the bonds that would poison happiness)
+numerical_relation: 5 + 10 = 15 (XV The Devil; family built on scars; liberation from the bonds that would poison happiness)
 elemental_bridge: Air threatening Water's harmony; the clarity that can shatter the family if its truths are spoken
 threshold_type: The Scarred Patriarch—the victor forced to build family and home while still bearing the wounds of conflict
 
@@ -412,37 +469,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The family becomes a performance; the 10 of Cups' happiness is staged while the victor remains locked in vigilance; the family members cannot genuinely connect because the victor's presence prevents true relaxation
-  consequence: A household frozen in false harmony; everyone playing the role of happy family while actual intimacy remains impossible; the children learn to hide their real selves
-  spatial_logic: A table set for dinner where everyone sits in assigned places, unable to move, unable to speak the truth that would shatter the careful arrangement
+  blockade_nature: A table set for dinner where everyone sits in assigned places, unable to move, unable to speak the truth that would shatter the careful arrangement
+  swords_state: A household frozen in false harmony; everyone playing the role of happy family while actual intimacy remains impossible; the children learn to hide their real selves
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The family circle becomes a battlefield; the bitterness finally erupts; the victor's vigilance becomes tyranny; the 10 of Cups transforms into something that resembles family only in form
-  corruption: The happiness is revealed as constructed lies; the love becomes ownership; the children are bound by obligation rather than genuine affection; the circle becomes a cage
+  mode: The happiness is revealed as constructed lies; the love becomes ownership; the children are bound by obligation rather than genuine affection; the circle becomes a cage
   loss: The capacity for authentic family connection dies; what remains is the legal and social structure of family without any of its genuine warmth
   key_terms: The tyrannical family, love as control, the false home, happiness as performance
 
 dynamic_dependency:
   mechanism: The 5 of Swords must learn to trust that the 10 of Cups' circle can include the awareness of danger without remaining perpetually vigilant; that real family includes the right to lower one's guard
-  integration: A family that makes space for both the victor's wisdom and the children's innocence; where the scars are acknowledged but do not overshadow the genuine love and safety present
-  paradox: The most genuine families are often those where the parents have known danger but have chosen to create safety within the home; where vigilance is tempered by trust
+  integration_outcome: A family that makes space for both the victor's wisdom and the children's innocence; where the scars are acknowledged but do not overshadow the genuine love and safety present
+  function: The most genuine families are often those where the parents have known danger but have chosen to create safety within the home; where vigilance is tempered by trust
   outcome: The victor finally joins the family circle; the children inherit not just the caution but the capacity to love despite the knowledge of danger; the family becomes a genuine sanctuary
   key_terms: The family that includes the truth, inherited wisdom not bitterness, love that acknowledges danger, the trusted circle
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, Page of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Emotional Messenger, The Innocent Seeker, The Wonder of Heart, The First Stirring of Feeling
-numerical_relation: 5 + Page = The collision of hardness and softness, cynicism and innocence
+numerical_relation: 5 + 11 = 16 (XVI The Tower; hardness meets innocence, cynicism and innocence
 elemental_bridge: Air's clarity illuminating Water's tender opening; the bitter truths exposed before the heart is ready
 threshold_type: The Cynical Guardian—the victor encountering the innocent seeker's openness
 
@@ -461,37 +519,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The Page's emotional growth is arrested by the victor's insistence on danger; the innocent remains suspended between the desire to feel and the fear of repeating the victor's trauma
-  consequence: Emotional paralysis; the Page is frozen at the threshold of maturation, unable to step forward into genuine feeling without betraying the victor's sacrifice, unable to step backward into pure innocence
-  spatial_logic: The Page standing on the banks of an emotional river they long to cross, held back by the victor's steady hand refusing to release them
+  blockade_nature: The Page standing on the banks of an emotional river they long to cross, held back by the victor's steady hand refusing to release them
+  swords_state: Emotional paralysis; the Page is frozen at the threshold of maturation, unable to step forward into genuine feeling without betraying the victor's sacrifice, unable to step backward into pure innocence
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The victor's protection becomes imprisonment; the Page's innocence metastasizes into ignorance, a willful refusal to see; the relationship transforms into resentment
-  corruption: The Page internalizes the victor's cynicism but without the victor's earned understanding; the result is a wounded innocence that is also contemptuous; the young seeker becomes cruel
+  mode: The Page internalizes the victor's cynicism but without the victor's earned understanding; the result is a wounded innocence that is also contemptuous; the young seeker becomes cruel
   loss: The Page loses both innocence and the capacity for genuine feeling; what remains is a hollow performance of emotions that were never fully experienced
   key_terms: The toxic mentorship, innocence corrupted by bitterness, protection as abuse, the apprentice's rebellion
 
 dynamic_dependency:
   mechanism: The victor must learn to protect without controlling; the Page must learn to feel without demanding that the guardian abandon their hard-won wisdom
-  integration: A relationship where the victim's experience becomes teaching rather than trauma; where the innocent learns to feel while understanding the genuine dangers that exist
-  paradox: The most genuine emotional growth often emerges in those protected by those who have known harm; the innocent can unfold their petals without fear of immediate destruction
+  integration_outcome: A relationship where the victim's experience becomes teaching rather than trauma; where the innocent learns to feel while understanding the genuine dangers that exist
+  function: The most genuine emotional growth often emerges in those protected by those who have known harm; the innocent can unfold their petals without fear of immediate destruction
   outcome: The Page blooms into genuine emotional capacity while honoring the victor's wisdom; the victor finds in this growth a strange redemption—proof that not all innocence must be destroyed
   key_terms: The mentorship earned, wisdom shared without wounding, protection that enables growth, the innocent strengthened by the guardian's scars
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, Knight of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Emotional Idealist, The Romantic Seeker, The Noble Heart, The Quest for True Love
-numerical_relation: 5 + Knight = 7 (The Chariot reversed; the quest poisoned by the bitterness of the guide)
+numerical_relation: 5 + 12 = 17 (XVII The Star; idealism poisoned; the quest poisoned by the bitterness of the guide)
 elemental_bridge: Air's clarity deflating Water's noble intentions; the vision that is too pure to survive contact with the victor's reality
 threshold_type: The Cynical Witness to Romance—the victor watching the Knight's quest with sad knowing
 
@@ -510,37 +569,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The Knight's quest is slowed and complicated by the victor's warnings; the romantic journey becomes fraught with doubt; the idealism is infected with cynicism
-  consequence: The Knight moves forward but no longer moves freely; every beautiful moment is shadowed by the question of whether it will last; the quest continues but its purity is compromised
-  spatial_logic: The Knight riding forward but constantly looking back at the victor's shape in the distance, hearing the voice of warning even when alone
+  blockade_nature: The Knight riding forward but constantly looking back at the victor's shape in the distance, hearing the voice of warning even when alone
+  swords_state: The Knight moves forward but no longer moves freely; every beautiful moment is shadowed by the question of whether it will last; the quest continues but its purity is compromised
+  consequence: Union cannot form while the victor remains sealed
 
 dynamic_devolution:
   mechanism: The conflict between the quest and the warnings becomes a trauma; the Knight either abandons the quest entirely or pursues it with a poisoned idealism—a romantic seeking that is twisted by resentment
-  corruption: The Knight's noble heart becomes hardened by the victor's insistence on danger; the quest transforms from a seeking of true love into a proving ground where the Knight must demonstrate that the victor was wrong
+  mode: The Knight's noble heart becomes hardened by the victor's insistence on danger; the quest transforms from a seeking of true love into a proving ground where the Knight must demonstrate that the victor was wrong
   loss: The genuine possibility of simple, pure love is destroyed; what remains is a complicated seeking driven by the need to vindicate oneself against the victor's cynicism
   key_terms: The corrupted quest, romance twisted by resentment, the seeker hardened, the noble heart darkened
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually accept that some quests are genuine and some love is real; the Knight of Cups must learn that the victor's cynicism comes from love, not contempt
-  integration: A relationship where the victor's wisdom enhances rather than poisons the quest; where the Knight learns to move forward with both idealism and awareness
-  paradox: The most genuine quests are often those undertaken by those who understand the dangers but choose the quest anyway; the deepest love emerges from those who could have given up but didn't
+  integration_outcome: A relationship where the victor's wisdom enhances rather than poisons the quest; where the Knight learns to move forward with both idealism and awareness
+  function: The most genuine quests are often those undertaken by those who understand the dangers but choose the quest anyway; the deepest love emerges from those who could have given up but didn't
   outcome: The Knight continues the quest but with the victor's blessing rather than the victor's warning; the idealism is tempered but not destroyed; the romance is real and aware
   key_terms: The blessed quest, romance informed by wisdom, the seeker strengthened by the guardian's acceptance, love that includes understanding
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, Queen of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Mature Compassion, The Emotional Wisdom, The Nurturer's Heart, The Profound Empathy
-numerical_relation: 5 + Queen = 10 (Completion, but of what? The healing that can only be offered, not forced)
+numerical_relation: 5 + 13 = 18 (XVIII The Moon; bitterness meets compassion The healing that can only be offered, not forced)
 elemental_bridge: Air meeting Water's compassion; the possibility of the victor being healed by the one they sought to protect
 threshold_type: The Wounded One Encountering the Healer—the victor meeting someone whose compassion is wise enough to include their bitterness
 
@@ -555,41 +615,42 @@ dynamic_antagonism:
   tension_axis: Healing against refusal—the Queen seeks to draw the victor toward wholeness; the victor insists on remaining broken as proof of their survival
   5_of_swords_position: Suspicious of the Queen's compassion, interpreting kindness as weakness or manipulation, unable to accept that someone would care without requiring the victim to change
   queen_of_cups_position: Offering healing without demanding surrender; understanding that the victor must come to wholeness at their own pace; unable to force what can only be received
-  key_terms: The suspicious victim, compassion misinterpreted, the refusal of healing, the healer's patience
 
 dynamic_inhibition:
   mechanism: The healing offered by the Queen is held at arm's length by the victor; the compassion is received but not integrated; the victim remains partially locked in bitterness despite the presence of healing
-  consequence: A strange dance where the Queen continues to offer presence and the victor continues to refuse it, not from cruelty but from the inability to believe that healing is possible without a price
-  spatial_logic: The Queen with arms extended and the victor just beyond their reach, unable to step forward into the offered compassion
+  blockade_nature: The Queen with arms extended and the victor just beyond their reach, unable to step forward into the offered compassion
+  swords_state: A strange dance where the Queen continues to offer presence and the victor continues to refuse it, not from cruelty but from the inability to believe that healing is possible without a price
+  consequence: Union cannot form while the victor remains sealed
+  key_terms: Arms extended, refused help, locked distance, slow opening
 
 dynamic_devolution:
   mechanism: The refusal of healing metastasizes into rejection of the Queen themselves; the victor's bitterness becomes aggressive; what was a potential healing relationship becomes another wound
-  corruption: The Queen's compassion is interpreted as condescension; the victim attacks the healer; the relationship transforms into a replay of the original conflict
+  mode: The Queen's compassion is interpreted as condescension; the victim attacks the healer; the relationship transforms into a replay of the original conflict
   loss: The possibility of healing dies; what remains is a bitter isolation that is now enforced by the victim's own hands
   key_terms: The rejected healing, compassion met with cruelty, the double wound, the isolation chosen
 
 dynamic_dependency:
   mechanism: The 5 of Swords must eventually accept that allowing someone to care is not weakness but a form of strength; the Queen of Cups must maintain her presence even if it is not immediately received
-  integration: A healing that emerges slowly, not through the Queen's intervention but through the Queen's persistent presence; the victor gradually learns that wholeness is possible and that compassion can be trusted
-  paradox: The deepest healing often comes from those who understand that forcing it is impossible; the most profound compassion is that which offers presence without demanding change
+  integration_outcome: A healing that emerges slowly, not through the Queen's intervention but through the Queen's persistent presence; the victor gradually learns that wholeness is possible and that compassion can be trusted
+  function: The deepest healing often comes from those who understand that forcing it is impossible; the most profound compassion is that which offers presence without demanding change
   outcome: The victor gradually opens to the Queen's compassion; the bitterness remains but is contextualized within a larger understanding; healing emerges not as the elimination of pain but as the integration of it
   key_terms: The slow opening, trust gradually offered, compassion finally received, wholeness that includes the scar, the healed heart
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC
 
 ---
 
 card_pair: 5 of Swords, King of Cups
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 archetype_cups: The Emotional Mastery, The Controlled Power, The Sovereign of Heart, The Wise Ruler of Feeling
-numerical_relation: 5 + King = 12 (The Hanged One; two forms of power meeting—the power of victory and the power of mastery)
+numerical_relation: 5 + 14 = 19 (XIX The Sun; two sovereigns meet; two forms of power meeting—the power of victory and the power of mastery)
 elemental_bridge: Air's clarity meeting Water's sovereign control; two different forms of authority recognizing each other
 threshold_type: The Rival Kings—victor and emotional master encountering each other as equals in authority
 
@@ -608,27 +669,29 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: Neither sovereign can fully exercise their authority because the other's presence complicates their domain; the King cannot fully master emotions that are threatened by the victor's conflict; the victor cannot fully celebrate victory in a realm ruled by emotional mastery
-  consequence: A strange paralysis where both sovereigns are diminished by the presence of the other; the victor's clarity is clouded by doubt about its validity; the King's mastery is shaken by the victor's certainty
-  spatial_logic: Two thrones in the same hall, both sovereigns unable to sit fully upon their seats because of the presence of the other
+  blockade_nature: Two thrones in the same hall, both sovereigns unable to sit fully upon their seats because of the presence of the other
+  swords_state: A strange paralysis where both sovereigns are diminished by the presence of the other; the victor's clarity is clouded by doubt about its validity; the King's mastery is shaken by the victor's certainty
+  consequence: Union cannot form while the victor remains sealed
+  key_terms: Arms extended, refused help, locked distance, slow opening
 
 dynamic_devolution:
   mechanism: The competition becomes a war; each sovereign seeks to diminish the other; the 5 of Swords attacks the King's mastery as mere emotional avoidance; the King attacks the victor's victory as emotional immaturity
-  corruption: The partnership that could have been becomes a rivalry that degrades both; the victor's clarity is twisted into cruelty; the King's mastery is twisted into coldness
+  mode: The partnership that could have been becomes a rivalry that degrades both; the victor's clarity is twisted into cruelty; the King's mastery is twisted into coldness
   loss: The possibility of true leadership—leadership that includes both action and wisdom, both will and heart—is destroyed
   key_terms: The civil war, the diminished sovereigns, the throne divided, power turned against itself
 
 dynamic_dependency:
   mechanism: The 5 of Swords must accept that there is sovereignty beyond the realm of victory; the King of Cups must accept that true mastery includes the willingness to engage in conflict
-  integration: A collaboration where each sovereign honors the other's domain; the victor offers the King protection from external threats; the King offers the victor wisdom about the emotional consequences of victory
-  paradox: The most powerful leadership emerges from those who understand both action and reflection, both the willingness to fight and the wisdom to feel; the king is most truly sovereign when he rules with both sword and cup
+  integration_outcome: A collaboration where each sovereign honors the other's domain; the victor offers the King protection from external threats; the King offers the victor wisdom about the emotional consequences of victory
+  function: The most powerful leadership emerges from those who understand both action and reflection, both the willingness to fight and the wisdom to feel; the king is most truly sovereign when he rules with both sword and cup
   outcome: The two sovereigns sit upon their respective thrones in the same hall, no longer competing but collaborating; the realm is protected by the victor's strength and guided by the King's wisdom
   key_terms: The unified realm, complementary sovereignty, the sovereign's maturity, power that includes wisdom and will
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
-  elemental_primary: Air + Water
-  numerical_axis: 5 of Swords (defeat, bitterness) to 14 Cups cards (emotional states and unions)
-  uid: FSOC
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OSC

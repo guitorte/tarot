@@ -1,0 +1,697 @@
+card_pair: 2 of Swords, Ace of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Emotional opening, love, receptivity, new feeling, overflowing heart
+numerical_relation: 2-1 (Stalemate blocking emotional opening; paralysis preventing love)
+elemental_bridge: Air indecision meeting water receptivity; choice-avoidance preventing emotional flow
+threshold_type: The unopened heart; paralysis preventing love
+
+dynamic_genesis:
+  mechanism: Breaking stalemate opens emotional receptivity; willingness to choose enables love's entrance
+  process: Choosing vulnerability allows feeling's overflow; decision removes the blindfold from the heart
+  outcome: Love flows from courageous choice; emotional opening emerges from decisive vulnerability
+  key_terms: vulnerable choice, opened heart, flowing emotion, courageous receptivity
+
+dynamic_antagonism:
+  mechanism: Love demands opening; emotional vulnerability requires choice to receive
+  tension_axis: Protective stalemate versus emotional opening; binding agreement versus vulnerable feeling
+  swords_position: Maintains protective blindness; refuses the vulnerability love requires
+  cups_position: Pours forth feeling; demands emotional openness
+  key_terms: demanded vulnerability, resisted opening, protective blindness, blocked emotion
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents emotional opening; paralysis blocks love's entrance
+  blockade_nature: The binding agreement prevents vulnerable receptivity; non-choice hardens the heart
+  swords_state: Stalemate becomes emotion-blocking force; paralysis prevents feeling-flow
+  consequence: Love cannot enter; emotional opening becomes impossible from protective refusal
+  key_terms: prevented emotion, hardened heart, impossible openness, blocked love
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts emotional protection into cold numbness; indecision becomes heartless isolation
+  mode: Choice-avoidance becomes emotional death; binding paralysis becomes cruel indifference to love
+  loss: Protective distance replaced by toxic emptiness; authentic self-protection becomes impossible
+  key_terms: emotional death, toxic numbness, heartless isolation, impossible protection
+
+dynamic_dependency:
+  mechanism: Stalemate without emotional purpose becomes meaningless paralysis; emotion without stalemate becomes overwhelming
+  function: Cups-Ace provides the feeling that makes choice valuable; Swords-2 provides thoughtful consideration that prevents love from becoming consuming
+  integration_outcome: Stalemate becomes reflection before opening; choice manifests from grounded feeling
+  key_terms: grounded feeling, thoughtful opening, wise vulnerability, integrated love
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, 2 of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Partnership, duality, emotional connection, mutual feeling, balanced union
+numerical_relation: 2-2 (Stalemate meeting partnership; paralysis blocking union)
+elemental_bridge: Air indecision meeting water bonding; choice-avoidance preventing emotional union
+threshold_type: The estranged partnership; stalemate separating partners
+
+dynamic_genesis:
+  mechanism: Breaking protective stalemate enables authentic partnership; choice allows mutual feeling
+  process: Removing the blindfold permits seeing the partner; decision enables emotional bonding
+  outcome: Partnership flows from brave mutual choice; union emerges from decided vulnerability
+  key_terms: courageous partnership, mutual choice, bonded union, decided emotion
+
+dynamic_antagonism:
+  mechanism: Partnership demands mutual choice; union requires choosing-together
+  tension_axis: Protective stalemate versus emotional bonding; individual non-choice versus partnership commitment
+  swords_position: Defends individual neutrality; resists commitment to emotional partnership
+  cups_position: Seeks mutual bonding; demands emotional connection
+  key_terms: demanded bonding, resisted partnership, incompatible independence, blocked union
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents partnership formation; paralysis blocks emotional union
+  blockade_nature: The binding agreement prevents seeing the partner; non-choice prevents connection-flow
+  swords_state: Stalemate becomes partnership-preventing force; paralysis separates bonded souls
+  consequence: Connection cannot form; union becomes impossible from refusing emotional commitment
+  key_terms: separated souls, prevented connection, impossible union, blocked bonding
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts partnership into enmeshed codependence; indecision becomes entangling attachment
+  mode: Choice-avoidance becomes parasitic bonding; binding paralysis becomes consuming dependence
+  loss: Genuine partnership replaced by toxic enmeshment; authentic connection becomes impossible
+  key_terms: toxic enmeshment, parasitic bonding, consuming dependence, impossible partnership
+
+dynamic_dependency:
+  mechanism: Stalemate without partnership-purpose becomes meaningless paralysis; partnership without stalemate becomes fused codependence
+  function: Cups-2 provides the bonding-desire that makes choice necessary; Swords-2 provides healthy boundaries that prevent fusion
+  integration_outcome: Stalemate becomes reflection before commitment; choice manifests from grounded bonding
+  key_terms: grounded bonding, healthy commitment, wise partnership, integrated union
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, 3 of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Celebration, joy, emotional communion, friendship, festive togetherness
+numerical_relation: 2-3 (Stalemate preventing celebration; indecision blocking festive joy)
+elemental_bridge: Air paralysis meeting water celebration; choice-avoidance preventing communal emotion
+threshold_type: The isolated festivity; stalemate preventing joy
+
+dynamic_genesis:
+  mechanism: Breaking protective stalemate enables festive participation; choice allows joyful communion
+  process: Removing blindness permits seeing the celebration; decision enables emotional joining
+  outcome: Joy flows from brave choice-to-celebrate; festivity emerges from decided participation
+  key_terms: chosen celebration, brave joy, participated festivity, decided communion
+
+dynamic_antagonism:
+  mechanism: Celebration demands participatory choice; joy requires joining-in
+  tension_axis: Protective stalemate versus emotional celebration; isolated non-choice versus festive communion
+  swords_position: Maintains aloof distance; resists the vulnerability of joyful participation
+  cups_position: Invites festive participation; demands emotional celebration
+  key_terms: demanded participation, resisted joy, aloof distance, blocked celebration
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents celebratory participation; paralysis blocks festive joy
+  blockade_nature: The binding agreement prevents joining celebration; non-choice prevents emotional engagement
+  swords_state: Stalemate becomes joy-blocking force; paralysis isolates from festivity
+  consequence: Joy cannot be shared; celebration becomes hollow from outsider-paralysis
+  key_terms: blocked joy, hollow celebration, isolated festivity, prevented participation
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts celebration into bitter resentment; indecision becomes festivity-destroying cynicism
+  mode: Choice-avoidance becomes active opposition to joy; binding paralysis becomes celebration-wounding
+  loss: Genuine festivity replaced by bitter isolation; authentic joy becomes impossible
+  key_terms: bitter resentment, celebration-wounding, joy-destroying, impossible festivity
+
+dynamic_dependency:
+  mechanism: Stalemate without celebration-purpose becomes meaningless paralysis; celebration without stalemate becomes manic escapism
+  function: Cups-3 provides the joy that makes connection valuable; Swords-2 provides reflection that prevents manic avoidance
+  integration_outcome: Stalemate becomes reflection before joining; choice manifests from grounded joy
+  key_terms: grounded joy, thoughtful participation, wise celebration, integrated communion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, 4 of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Apathy, emotional stagnation, dissatisfaction, withdrawn feeling, boredom
+numerical_relation: 2-4 (Stalemate reinforcing apathy; paralysis deepening emotional withdrawal)
+elemental_bridge: Air indecision meeting water stagnation; choice-avoidance intensifying emotional disconnection
+threshold_type: The paralyzed apathy; indecision deepening numbness
+
+dynamic_genesis:
+  mechanism: Breaking stalemate restores emotional engagement; choice revitalizes withdrawn feeling
+  process: Forcing decision interrupts apathetic withdrawal; choosing participation rekindles interest
+  outcome: Emotional engagement flows from difficult choice; revitalization emerges from decided re-entry
+  key_terms: chosen engagement, difficult choice, revitalized feeling, re-entered life
+
+dynamic_antagonism:
+  mechanism: Stalemate enables and mirrors apathy; both withdraw from commitment
+  tension_axis: Binding paralysis reinforcing emotional withdrawal; both resist re-engagement
+  swords_position: Maintains protective numbness; finds comfort in emotional withdrawal paralleling apathy
+  cups_position: Represents stagnation seeking revitalization; offers no energy for breaking stalemate
+  key_terms: mirrored withdrawal, mutual stagnation, resistant apathy, deepened numbness
+
+dynamic_inhibition:
+  mechanism: Stalemate deepens apathy; paralysis intensifies emotional withdrawal
+  blockade_nature: Both forces withdraw: the stalemate from choice, the apathy from feeling
+  swords_state: Stalemate becomes apathy-amplifying force; paralysis intensifies disconnection
+  consequence: Emotional engagement becomes impossible; feeling withdraws further into numbness
+  key_terms: amplified apathy, intensified withdrawal, deepened numbness, impossible engagement
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts apathy into existential despair; indecision becomes nihilistic surrender
+  mode: Choice-avoidance becomes death-wish; binding paralysis becomes suicidal numbness
+  loss: Protective withdrawal replaced by annihilating despair; life-disengagement becomes death-embrace
+  key_terms: existential despair, death-wish, suicidal numbness, impossible revitalization
+
+dynamic_dependency:
+  mechanism: Stalemate without apathy-context becomes meaningless paralysis; apathy without stalemate becomes overwhelming pressure
+  function: Cups-4 provides the emotional depth that stalemate mirrors; Swords-2 provides the potential breaking-point that prevents complete dissolution
+  integration_outcome: Stalemate becomes necessary pause before re-engagement; apathy transforms into deliberate rest
+  key_terms: deliberate rest, necessary pause, prepared re-engagement, integrated withdrawal
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, 5 of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Loss, grief, heartbreak, mourning, emotional devastation
+numerical_relation: 2-5 (Stalemate preventing grief-processing; indecision blocking emotional healing)
+elemental_bridge: Air paralysis meeting water sorrow; choice-avoidance preventing mourning-work
+threshold_type: The frozen grief; stalemate blocking processing
+
+dynamic_genesis:
+  mechanism: Choosing to grieve allows emotional processing; decision enables mourning-work
+  process: Breaking stalemate permits feeling the loss; choice releases suppressed sorrow
+  outcome: Healing flows from courageous grieving; transformation emerges through emotional processing
+  key_terms: courageous grieving, chosen mourning, processed emotion, healing choice
+
+dynamic_antagonism:
+  mechanism: Grief demands emotional processing; loss requires chosen engagement with sorrow
+  tension_axis: Protective stalemate versus necessary grieving; binding non-choice versus emotional reality
+  swords_position: Maintains defensive numbness; resists the vulnerability of grieving
+  cups_position: Demands emotional acknowledgment; insists on facing loss
+  key_terms: demanded acknowledgment, resisted grief, defended numbness, blocked emotion
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents grief-processing; paralysis traps sorrow in numbness
+  blockade_nature: The binding agreement prevents emotional engagement with loss; non-choice freezes grief
+  swords_state: Stalemate becomes grief-blocking force; paralysis prevents emotional healing
+  consequence: Loss cannot be processed; grief remains frozen and toxic
+  key_terms: frozen grief, unprocessed loss, blocked healing, toxic numbness
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts grief into bitter resentment; indecision becomes hardened despair
+  mode: Choice-avoidance becomes self-destructive rumination; binding paralysis becomes suicidal despair
+  loss: Authentic mourning replaced by self-annihilating bitterness; genuine grief becomes impossible
+  key_terms: bitter resentment, suicidal despair, self-destruction, impossible mourning
+
+dynamic_dependency:
+  mechanism: Stalemate without grief-context becomes meaningless paralysis; grief without stalemate becomes overwhelming
+  function: Cups-5 provides the emotional reality that makes choice necessary; Swords-2 provides the pause that allows compassionate grieving
+  integration_outcome: Stalemate becomes compassionate pause in mourning; choice manifests from grounded sorrow
+  key_terms: grounded sorrow, compassionate pause, wise grieving, integrated healing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, 6 of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Nostalgia, innocence, reunion, past tenderness, childhood wonder
+numerical_relation: 2-6 (Stalemate preventing return; indecision blocking reconnection)
+elemental_bridge: Air paralysis meeting water nostalgia; choice-avoidance preventing emotional return
+threshold_type: The unreturning past; stalemate preventing reunion
+
+dynamic_genesis:
+  mechanism: Choosing to return enables nostalgic reconnection; decision allows emotional reunion
+  process: Breaking stalemate permits revisiting past connections; choice releases nostalgia-energy
+  outcome: Reunion flows from courageous return; reconnection emerges from decided vulnerability
+  key_terms: chosen return, courageous reunion, nostalgic reconnection, decided vulnerability
+
+dynamic_antagonism:
+  mechanism: Reunion demands choice to reconnect; nostalgia requires decision to return
+  tension_axis: Protective stalemate versus nostalgic pull; binding non-choice versus emotional reconnection
+  swords_position: Maintains defensive distance; resists the vulnerability of reconnection
+  cups_position: Invites nostalgic return; demands emotional reunion
+  key_terms: demanded reunion, resisted return, defended distance, blocked reconnection
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents reunion; paralysis blocks nostalgic reconnection
+  blockade_nature: The binding agreement prevents returning to the past; non-choice traps in present isolation
+  swords_state: Stalemate becomes reunion-blocking force; paralysis prevents nostalgic healing
+  consequence: Reunion cannot occur; past connections remain severed from refusing return
+  key_terms: severed connection, prevented reunion, blocked return, impossible nostalgia
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts nostalgia into bitter regret; indecision becomes destructive fantasy
+  mode: Choice-avoidance becomes obsessive dwelling in past; binding paralysis becomes regret-consumed
+  loss: Authentic nostalgia replaced by destructive bitterness; genuine reunion becomes impossible
+  key_terms: destructive bitterness, obsessive regret, consuming fantasy, impossible reunion
+
+dynamic_dependency:
+  mechanism: Stalemate without nostalgia-context becomes meaningless paralysis; nostalgia without stalemate becomes escapist fantasy
+  function: Cups-6 provides the tenderness that makes reunion valuable; Swords-2 provides discernment that prevents nostalgic escapism
+  integration_outcome: Stalemate becomes considered return; choice manifests from grounded reconnection
+  key_terms: grounded reconnection, considered return, wise nostalgia, integrated healing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, 7 of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Illusion, temptation, fantasy, confusion, delusional desire
+numerical_relation: 2-7 (Stalemate reinforcing illusion; indecision enabling fantasy)
+elemental_bridge: Air paralysis meeting water illusion; choice-avoidance intensifying delusional thinking
+threshold_type: The paralyzed dreamer; stalemate deepening confusion
+
+dynamic_genesis:
+  mechanism: Breaking stalemate clears illusions; choice cuts through fantasy
+  process: Choosing reality forces confrontation with truth; decision ends delusional comfort
+  outcome: Clarity flows from difficult choice; reality emerges from ended illusion
+  key_terms: chosen clarity, difficult truth, ended fantasy, real choice
+
+dynamic_antagonism:
+  mechanism: Stalemate enables illusion; both resist reality-confrontation
+  tension_axis: Protective paralysis reinforcing fantasy; binding non-choice enabling delusion
+  swords_position: Maintains blindness to illusion; uses paralysis to avoid confronting fantasy
+  cups_position: Creates confusion and temptation; offers no clarity for breaking stalemate
+  key_terms: mutual avoidance, reinforced illusion, enabled confusion, avoided reality
+
+dynamic_inhibition:
+  mechanism: Stalemate deepens illusion; paralysis intensifies delusional thinking
+  blockade_nature: Both forces cloud reality: stalemate through non-choice, illusion through confusion
+  swords_state: Stalemate becomes illusion-deepening force; paralysis prevents reality-seeing
+  consequence: Clarity becomes impossible; illusion thickens from paralyzing refusal
+  key_terms: deepened delusion, thickened illusion, impossible clarity, prevented reality
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts illusion into mad fantasy; indecision becomes psychotic break
+  mode: Choice-avoidance becomes delusional dissociation; binding paralysis becomes reality-dissolving
+  loss: Protective fantasy replaced by mad delusion; distinction between reality and fantasy collapses
+  key_terms: mad fantasy, psychotic break, delusional dissociation, impossible reality
+
+dynamic_dependency:
+  mechanism: Stalemate without illusion-context becomes meaningless paralysis; illusion without stalemate becomes urgent pressure
+  function: Cups-7 provides the temptation that stalemate enables; Swords-2 provides the potential breaking-point that reality demands
+  integration_outcome: Stalemate becomes honest pause in decision; fantasy transforms into grounded imagination
+  key_terms: grounded imagination, honest pause, wise decision, integrated fantasy
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, 8 of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Abandonment, departure, walking away, chosen leaving, emotional departure
+numerical_relation: 2-8 (Stalemate preventing departure; indecision blocking leaving)
+elemental_bridge: Air paralysis meeting water leaving; choice-avoidance preventing emotional transition
+threshold_type: The stuck departure; stalemate blocking escape
+
+dynamic_genesis:
+  mechanism: Choosing to leave overcomes stalemate; decision enables emotional departure
+  process: Breaking binding agreement permits leaving; choosing to go allows transition
+  outcome: Departure flows from courageous choice; freedom emerges from decided leaving
+  key_terms: courageous departure, chosen freedom, decided leaving, transition choice
+
+dynamic_antagonism:
+  mechanism: Departure demands choice to leave; abandonment requires decisive action
+  tension_axis: Protective stalemate versus needed leaving; binding non-choice versus emotional escape
+  swords_position: Maintains protective binding; resists the vulnerability of leaving
+  cups_position: Calls for departure; demands emotional transition
+  key_terms: demanded departure, resisted leaving, protective binding, blocked transition
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents departure; paralysis traps in place
+  blockade_nature: The binding agreement prevents leaving; non-choice freezes one in relationship
+  swords_state: Stalemate becomes departure-blocking force; paralysis prevents transition
+  consequence: Departure becomes impossible; one remains trapped in the situation
+  key_terms: prevented departure, frozen in place, blocked transition, impossible escape
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts departure into devastating abandonment; indecision becomes cruel leaving
+  mode: Choice-avoidance becomes sudden explosive departure; binding paralysis becomes traumatic flight
+  loss: Conscious leaving replaced by reactive flight; authentic transition becomes impossible
+  key_terms: traumatic flight, explosive departure, cruel leaving, impossible transition
+
+dynamic_dependency:
+  mechanism: Stalemate without departure-purpose becomes meaningless paralysis; departure without stalemate becomes reckless escape
+  function: Cups-8 provides the emotional necessity that makes leaving vital; Swords-2 provides reflection that prevents reckless abandonment
+  integration_outcome: Stalemate becomes considered pause before departure; choice manifests from grounded leaving
+  key_terms: grounded leaving, considered departure, wise transition, integrated escape
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, 9 of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Wish fulfillment, contentment, emotional satisfaction, satisfied desire, achieved happiness
+numerical_relation: 2-9 (Stalemate preventing fulfillment; indecision blocking satisfaction)
+elemental_bridge: Air paralysis meeting water contentment; choice-avoidance preventing achievement
+threshold_type: The unfulfilled wish; stalemate blocking satisfaction
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables wish-pursuit; choice allows fulfillment-seeking
+  process: Deciding what to want permits movement toward satisfaction; choosing action enables achievement
+  outcome: Fulfillment flows from committed choice; contentment emerges from decided action
+  key_terms: committed pursuit, chosen fulfillment, decided satisfaction, achieved happiness
+
+dynamic_antagonism:
+  mechanism: Fulfillment demands choice about what to pursue; satisfaction requires committed action
+  tension_axis: Protective stalemate versus pursued happiness; binding non-choice versus emotional achievement
+  swords_position: Maintains protective distance from desire; resists commitment to fulfillment-pursuit
+  cups_position: Invites pursuit of happiness; demands commitment to desire
+  key_terms: demanded commitment, resisted desire, protected distance, blocked fulfillment
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents wish-pursuit; paralysis blocks fulfillment-achievement
+  blockade_nature: The binding agreement prevents choosing what to want; non-choice freezes before desire
+  swords_state: Stalemate becomes fulfillment-blocking force; paralysis prevents satisfaction-pursuit
+  consequence: Desires cannot be pursued; wishes remain unfulfilled from paralyzing indecision
+  key_terms: unfulfilled wishes, blocked pursuit, prevented satisfaction, impossible fulfillment
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts wish-desire into obsessive fantasy; indecision becomes addictive craving
+  mode: Choice-avoidance becomes compulsive wanting; binding paralysis becomes unrequited longing
+  loss: Genuine fulfillment replaced by tormented craving; authentic satisfaction becomes impossible
+  key_terms: obsessive craving, tormented longing, addictive desire, impossible fulfillment
+
+dynamic_dependency:
+  mechanism: Stalemate without fulfillment-purpose becomes meaningless paralysis; fulfillment without stalemate becomes addictive pursuit
+  function: Cups-9 provides the satisfaction that makes choice valuable; Swords-2 provides reflection that prevents addictive chasing
+  integration_outcome: Stalemate becomes considered pause before pursuing; choice manifests from grounded desire
+  key_terms: grounded desire, considered pursuit, wise fulfillment, integrated satisfaction
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, 10 of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Family harmony, happiness, love's fulfillment, emotional completeness, belonging
+numerical_relation: 2-10 (Stalemate preventing family harmony; indecision blocking belonging)
+elemental_bridge: Air paralysis meeting water family; choice-avoidance preventing belonging-achievement
+threshold_type: The separated family; stalemate blocking unity
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables family connection; choice allows belonging
+  process: Deciding to commit to family permits harmony; choosing openness enables love
+  outcome: Harmony flows from committed family choice; belonging emerges from decided participation
+  key_terms: committed family, chosen harmony, decided belonging, connected love
+
+dynamic_antagonism:
+  mechanism: Family harmony demands family choice-commitment; belonging requires choosing to participate
+  tension_axis: Protective stalemate versus family connection; binding non-choice versus emotional belonging
+  swords_position: Maintains protected distance from family; resists commitment to family belonging
+  cups_position: Invites family participation; demands emotional connection
+  key_terms: demanded participation, resisted family, protected distance, blocked belonging
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents family participation; paralysis blocks belonging-achievement
+  blockade_nature: The binding agreement prevents family commitment; non-choice isolates from family harmony
+  swords_state: Stalemate becomes family-separating force; paralysis prevents connection
+  consequence: Family unity cannot form; belonging remains impossible from refusal to participate
+  key_terms: family separation, blocked belonging, prevented unity, impossible participation
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts family bonds into enmeshed dysfunction; indecision becomes family betrayal
+  mode: Choice-avoidance becomes family destruction; binding paralysis becomes ancestral trauma
+  loss: Genuine family harmony replaced by broken bonds; authentic belonging becomes impossible
+  key_terms: family breakdown, ancestral trauma, betrayed bonds, impossible belonging
+
+dynamic_dependency:
+  mechanism: Stalemate without family-purpose becomes meaningless paralysis; family without stalemate becomes enmeshed fusion
+  function: Cups-10 provides the family vision that makes choice necessary; Swords-2 provides healthy boundaries that prevent fusion
+  integration_outcome: Stalemate becomes reflection before family commitment; choice manifests from grounded belonging
+  key_terms: grounded belonging, thoughtful family, wise commitment, integrated love
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, Page of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Curiosity, emotional exploration, feeling-learning, youthful receptivity, openness
+numerical_relation: 2-Page (Stalemate preventing emotional exploration; indecision blocking feeling-learning)
+elemental_bridge: Air paralysis meeting water curiosity; choice-avoidance preventing emotional growth
+threshold_type: The guarded explorer; stalemate blocking emotional discovery
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables emotional exploration; choice allows feeling-learning
+  process: Deciding to explore permits emotional discovery; choosing openness enables growth
+  outcome: Learning flows from courageous emotional choice; discovery emerges from decided vulnerability
+  key_terms: courageous exploration, chosen learning, emotional discovery, decided growth
+
+dynamic_antagonism:
+  mechanism: Emotional learning demands openness; curiosity requires vulnerable choice
+  tension_axis: Protective stalemate versus emotional exploration; binding non-choice versus feeling-learning
+  swords_position: Maintains protective guardedness; resists the vulnerability of emotional exploration
+  cups_position: Invites emotional discovery; demands openness to feeling
+  key_terms: demanded openness, resisted exploration, protective guardedness, blocked learning
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents emotional exploration; paralysis blocks feeling-learning
+  blockade_nature: The binding agreement prevents emotional opening; non-choice guards against discovery
+  swords_state: Stalemate becomes exploration-blocking force; paralysis prevents emotional growth
+  consequence: Emotional learning cannot occur; discovery remains impossible from protective refusal
+  key_terms: prevented discovery, blocked learning, guarded heart, impossible exploration
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts curiosity into fearful avoidance; indecision becomes emotional shutdown
+  mode: Choice-avoidance becomes emotional death; binding paralysis becomes heart-hardening
+  loss: Genuine curiosity replaced by fearful protection; authentic feeling-learning becomes impossible
+  key_terms: fearful avoidance, emotional death, hardened heart, impossible learning
+
+dynamic_dependency:
+  mechanism: Stalemate without curiosity-purpose becomes meaningless paralysis; curiosity without stalemate becomes overwhelming
+  function: Cups-Page provides the openness that makes discovery valuable; Swords-2 provides reflection that prevents emotional overwhelm
+  integration_outcome: Stalemate becomes considered pause before exploration; choice manifests from grounded curiosity
+  key_terms: grounded curiosity, thoughtful exploration, wise openness, integrated learning
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, Knight of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Romance, emotional action, passionate pursuit, love-driven action, heart's quest
+numerical_relation: 2-Knight (Stalemate preventing romance; indecision blocking passionate pursuit)
+elemental_bridge: Air paralysis meeting water passion; choice-avoidance preventing emotional action
+threshold_type: The immobilized lover; stalemate blocking pursuit
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables romantic pursuit; choice allows love-driven action
+  process: Deciding to act permits passionate engagement; choosing vulnerability enables romantic connection
+  outcome: Romance flows from courageous choice; passion emerges from decided action
+  key_terms: courageous pursuit, chosen romance, decided action, passionate connection
+
+dynamic_antagonism:
+  mechanism: Romance demands passionate choice; love-pursuit requires committed action
+  tension_axis: Protective stalemate versus emotional pursuit; binding non-choice versus passionate engagement
+  swords_position: Maintains protective distance; resists the vulnerability of romantic pursuit
+  cups_position: Invites romantic action; demands passionate engagement
+  key_terms: demanded passion, resisted pursuit, protected distance, blocked romance
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents romantic action; paralysis blocks passionate pursuit
+  blockade_nature: The binding agreement prevents romantic commitment; non-choice freezes before love
+  swords_state: Stalemate becomes pursuit-blocking force; paralysis prevents emotional action
+  consequence: Romance cannot proceed; love remains unexpressed from paralyzing indecision
+  key_terms: unexpressed love, blocked pursuit, prevented romance, impossible passion
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts romance into bitter resentment; indecision becomes emotionally destructive
+  mode: Choice-avoidance becomes love-sabotage; binding paralysis becomes relationship-destruction
+  loss: Genuine romance replaced by bitter stagnation; authentic love becomes impossible
+  key_terms: bitter resentment, love-sabotage, relationship-destruction, impossible romance
+
+dynamic_dependency:
+  mechanism: Stalemate without romance-purpose becomes meaningless paralysis; passion without stalemate becomes overwhelming pursuit
+  function: Cups-Knight provides the passion that makes choice valuable; Swords-2 provides reflection that prevents reckless pursuit
+  integration_outcome: Stalemate becomes considered pause before pursuit; choice manifests from grounded passion
+  key_terms: grounded passion, thoughtful pursuit, wise romance, integrated action
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, Queen of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Emotional mastery, nurturing wisdom, intuitive understanding, emotional authority, compassion
+numerical_relation: 2-Queen (Stalemate preventing emotional mastery; indecision blocking nurturing authority)
+elemental_bridge: Air paralysis meeting water wisdom; choice-avoidance preventing emotional leadership
+threshold_type: The inhibited caregiver; stalemate blocking nurturing
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables nurturing leadership; choice allows emotional authority
+  process: Deciding to care permits emotional guidance; choosing vulnerability enables compassionate wisdom
+  outcome: Nurturing flows from courageous choice; wisdom emerges from decided emotional engagement
+  key_terms: courageous nurturing, chosen wisdom, decided authority, compassionate leadership
+
+dynamic_antagonism:
+  mechanism: Emotional mastery demands engaged choice; nurturing requires committed vulnerability
+  tension_axis: Protective stalemate versus emotional engagement; binding non-choice versus compassionate action
+  swords_position: Maintains protective distance; resists the vulnerability of emotional nurturing
+  cups_position: Demands emotional care; requires compassionate engagement
+  key_terms: demanded care, resisted nurturing, protected distance, blocked wisdom
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents emotional nurturing; paralysis blocks compassionate action
+  blockade_nature: The binding agreement prevents engaged care; non-choice prevents emotional leadership
+  swords_state: Stalemate becomes nurturing-blocking force; paralysis prevents wisdom-flow
+  consequence: Care cannot be offered; emotional guidance becomes impossible from paralyzing withdrawal
+  key_terms: prevented nurturing, withdrawn care, blocked wisdom, impossible compassion
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts nurturing into cold indifference; indecision becomes emotionally destructive
+  mode: Choice-avoidance becomes emotional abandonment; binding paralysis becomes caregiver-shutdown
+  loss: Genuine nurturing replaced by emotional coldness; authentic wisdom becomes impossible
+  key_terms: emotional abandonment, caregiver-shutdown, emotional coldness, impossible wisdom
+
+dynamic_dependency:
+  mechanism: Stalemate without nurturing-purpose becomes meaningless paralysis; nurturing without stalemate becomes enmeshed codependence
+  function: Cups-Queen provides the wisdom that makes choice valuable; Swords-2 provides healthy boundaries that prevent codependence
+  integration_outcome: Stalemate becomes reflection before nurturing; choice manifests from grounded compassion
+  key_terms: grounded compassion, thoughtful nurturing, wise care, integrated wisdom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC
+
+---
+
+card_pair: 2 of Swords, King of Cups
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_cups: Emotional authority, heart's dominion, compassionate power, mastered feeling, authoritative love
+numerical_relation: 2-King (Stalemate preventing emotional authority; indecision blocking mastered leadership)
+elemental_bridge: Air paralysis meeting water dominion; choice-avoidance preventing emotional rule
+threshold_type: The powerless ruler; stalemate paralyzing authority
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables emotional authority; choice allows heart's dominion
+  process: Deciding to rule permits emotional leadership; choosing vulnerability enables authoritative wisdom
+  outcome: Authority flows from courageous choice; dominion emerges from decided emotional mastery
+  key_terms: courageous authority, chosen dominion, decided mastery, authoritative love
+
+dynamic_antagonism:
+  mechanism: Emotional authority demands decisive choice; heart's rule requires committed vulnerability
+  tension_axis: Protective stalemate versus emotional dominion; binding non-choice versus authoritative action
+  swords_position: Maintains protective paralysis; resists the vulnerability of emotional authority
+  cups_position: Demands emotional rule; requires authoritative engagement
+  key_terms: demanded authority, resisted leadership, protected paralysis, blocked dominion
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents emotional authority; paralysis blocks heart's dominion
+  blockade_nature: The binding agreement prevents authoritative engagement; non-choice prevents heart-rule
+  swords_state: Stalemate becomes authority-blocking force; paralysis prevents emotional leadership
+  consequence: Authority cannot be exercised; dominion becomes impossible from paralyzing indecision
+  key_terms: prevented authority, powerless rule, blocked dominion, impossible leadership
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts authority into emotional tyranny; indecision becomes destructive control
+  mode: Choice-avoidance becomes emotional manipulation; binding paralysis becomes abusive authority
+  loss: Genuine authority replaced by tyrannical abuse; authentic dominion becomes impossible
+  key_terms: emotional tyranny, abusive authority, destructive control, impossible dominion
+
+dynamic_dependency:
+  mechanism: Stalemate without authority-purpose becomes meaningless paralysis; authority without stalemate becomes tyrannical domination
+  function: Cups-King provides the mastery that makes choice vital; Swords-2 provides reflection that prevents tyrannical abuse
+  integration_outcome: Stalemate becomes reflection before ruling; choice manifests from grounded authority
+  key_terms: grounded authority, thoughtful dominion, wise rule, integrated mastery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSC

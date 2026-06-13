@@ -1,0 +1,683 @@
+card_pair: 7 of Swords, Ace of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Pure Emotion, The Love Descending, The Heart Opening, The Emotional Gift
+numerical_relation: 7 + Ace = 8 (Strength; the stolen gift of love)
+elemental_bridge: Air's deception stealing Water's blessing; cunning stealing emotional openness
+threshold_type: The Thief Stealing Love—deception poisoning the emotional gift
+
+dynamic_genesis:
+  mechanism: The thief presents false emotion to obtain the Ace of Cups' authentic love; the gift is obtained through deception
+  process: The thief mimics genuine feeling while harboring dishonesty; the Ace is given freely to what appears to be honesty
+  outcome: The gift is stolen; love is given to one who does not truly receive it
+  key_terms: The false emotion, stolen love, obtained gift, deceptive reception
+
+dynamic_antagonism:
+  mechanism: The deception is eventually discovered; the gift is revealed as given to someone unworthy
+  tension_axis: Deception against authenticity—the thief deceives; the Ace demands genuine reception
+  7_of_swords_position: Unable to maintain the false emotion once the gift is received
+  ace_of_cups_position: Unable to accept that the love was wasted on one who deceived
+  key_terms: The exposed deception, wasted love, revealed falseness, gift corrupted
+
+dynamic_inhibition:
+  mechanism: The gift is received but is poison to both; the false love cannot be sustained
+  consequence: The Ace of Cups is haunted by the knowledge of deception; the thief is haunted by the gift they cannot genuinely receive
+  spatial_logic: Both holding the emotional gift but unable to truly accept it
+
+dynamic_devolution:
+  mechanism: The gift gradually destroys both the giver and the receiver; the false love poisons everything it touches
+  corruption: The Ace of Cups loses the capacity to give authentic love; the thief is destroyed by emotional weight they cannot carry
+  loss: The gift is lost to both; authentic emotion is impossible
+  key_terms: The destroyed gift, incapacitated giver, poisoned receiver, love killed
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept that stolen love cannot be kept; the Ace of Cups must find a genuine receiver
+  integration: The thief releases the false gift; the Ace offers the blessing to one who receives honestly
+  paradox: Love stolen never truly belongs to the thief; the Ace of Cups is most potent when given to those who can receive authentically
+  outcome: The gift is released; genuine love is found; both discover the power of authentic emotion
+  key_terms: The released false love, genuine reception, the honored gift, authentic emotion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, 2 of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Sacred Bond, The Emotional Union, The Heart's Recognition, The Mutual Devotion
+numerical_relation: 7 + 2 = 9 (Completion; the union destroyed by deception)
+elemental_bridge: Air's infiltration corrupting Water's union; theft destroying sacred bond
+threshold_type: The Thief Infiltrating the Sacred Union—deception destroying emotional devotion
+
+dynamic_genesis:
+  mechanism: The thief infiltrates the 2 of Cups' union; one member of the partnership is actually the thief in disguise
+  process: The union appears intact while one partner is secretly deceiving
+  outcome: The theft is successful; the bond is compromised from within
+  key_terms: The infiltrated union, hidden deception, secret theft, compromised bond
+
+dynamic_antagonism:
+  mechanism: The deception is discovered; the union is shattered by the revelation
+  tension_axis: Deception against trust—the thief deceives; the union was built on trust
+  7_of_swords_position: Exposed but unable to maintain the false partnership
+  2_of_cups_position: Unable to accept that the union was false, unable to forgive the theft
+  key_terms: The exposed thief, shattered union, destroyed trust, betrayed devotion
+
+dynamic_inhibition:
+  mechanism: The union continues technically but is poisoned by the knowledge of deception
+  consequence: A partnership where love is present but is shadowed by betrayal; the 2 of Cups survives but is no longer sacred
+  spatial_logic: The two together but unable to truly touch, the bond stretched by suspicion
+
+dynamic_devolution:
+  mechanism: The union gradually dissolves; the betrayal cannot be overcome; the partnership ends
+  corruption: The 2 of Cups is completely destroyed; what was sacred becomes ash
+  loss: The emotional union is lost; authentic love is impossible
+  key_terms: The dissolved union, destroyed sacredness, ended partnership, love killed
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept the consequences of infiltrating sacred bonds; the 2 of Cups must find healing
+  integration: The thief is expelled; the genuine partner grieves and eventually finds authentic union elsewhere
+  paradox: The strongest unions are often those that have survived and recovered from betrayal
+  outcome: The thief leaves; the union is released to allow genuine healing; both discover integrity
+  key_terms: The expelled thief, released healing, the restored capacity to love, genuine union found
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, 3 of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Celebration, The Genuine Togetherness, The Community of Hearts, The Abundance Shared
+numerical_relation: 7 + 3 = 10 (Completion; the celebration infiltrated by false presence)
+elemental_bridge: Air's stealth infiltrating Water's gathering; theft from community
+threshold_type: The Thief in the Celebration—deception corrupting genuine togetherness
+
+dynamic_genesis:
+  mechanism: The thief infiltrates the 3 of Cups' celebration; the false presence appears as genuine belonging
+  process: The thief participates in the celebration while stealing; the community believes the thief belongs
+  outcome: The theft succeeds; the celebration is compromised
+  key_terms: The infiltrated celebration, false belonging, hidden theft, compromised joy
+
+dynamic_antagonism:
+  mechanism: The theft is discovered during the celebration; the joy is shattered by the revelation
+  tension_axis: Deception against community—the thief deceives; the community trusted
+  7_of_swords_position: Exposed before the community, unable to maintain false belonging
+  3_of_cups_position: Unable to accept that the celebration was compromised, unable to forgive the theft
+  key_terms: The exposed thief, shattered celebration, destroyed community, false belonging
+
+dynamic_inhibition:
+  mechanism: The thief is known but remains for the celebration; the joy is present but poisoned
+  consequence: A gathering where celebration continues but is shadowed by the thief's presence
+  spatial_logic: The thief dancing among the celebrants but isolated by the awareness of their falseness
+
+dynamic_devolution:
+  mechanism: The community gradually divides over the thief; the celebration is completely destroyed
+  corruption: The 3 of Cups is lost; the community fragments; authentic togetherness is impossible
+  loss: The celebration is destroyed; genuine community is lost
+  key_terms: The destroyed celebration, divided community, lost togetherness, the scattered gathering
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must be expelled; the 3 of Cups must rebuild with genuine members
+  integration: The thief is removed; the community heals; celebration is restored with greater awareness
+  paradox: The strongest communities are those that have survived and recovered from infiltration by false members
+  outcome: The thief is expelled; the celebration is restored; genuine community is re-established
+  key_terms: The removed thief, restored celebration, healed community, genuine togetherness
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, 4 of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Emotional Apathy, The Withdrawal from Feeling, The Numb Sanctuary, The Weariness of the Heart
+numerical_relation: 7 + 4 = 11 (The Hanged One; perspective—the numb one cannot be truly robbed of feeling they don't have)
+elemental_bridge: Air's theft meeting Water's numbness; deception unable to steal what is not present
+threshold_type: The Thief Unable to Steal Numbness—cunning encountering emotional withdrawal
+
+dynamic_genesis:
+  mechanism: The thief attempts to steal from the 4 of Cups' numbness but discovers there is nothing emotional to steal
+  process: The thief learns that numbness cannot be exploited; the withdrawn one is protected by their own apathy
+  outcome: The thief respects the protective numbness; neither can truly harm the other
+  key_terms: The respected numbness, protected apathy, the invulnerable withdrawn, mutual respect
+
+dynamic_antagonism:
+  mechanism: The thief attempts theft but the numb one is indifferent to the loss
+  tension_axis: Theft against numbness—the thief steals; the numb one does not care
+  7_of_swords_position: Frustrated by the numb one's indifference to the theft
+  4_of_cups_position: Unable to care about the theft, unable to react
+  key_terms: The indifferent victim, frustrated thief, uncared loss, apathy as defense
+
+dynamic_inhibition:
+  mechanism: The theft continues but the numb one remains unmoved; neither can truly engage
+  consequence: A dynamic where theft happens but has no emotional impact
+  spatial_logic: The thief stealing while the numb one sits unmoved, unaware or uncaring
+
+dynamic_devolution:
+  mechanism: The theft eventually infects the thief with numbness; both become apathetic
+  corruption: The thief is corrupted by the withdrawn one's apathy; both descend into complete numbness
+  loss: The ability to feel is lost to both; nothing remains but emptiness
+  key_terms: The infected thief, spreading numbness, mutual apathy, the dead relationship
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must find something worth stealing that matters; the 4 of Cups must eventually choose to feel
+  integration: The thief moves on to find genuine targets; the numb one gradually awakens to feeling
+  paradox: The numbness that seemed like protection is finally revealed as imprisonment; the withdrawal is transcended through the thief's departure
+  outcome: The thief departs; the numb one gradually begins to feel again; both are freed from the empty dynamic
+  key_terms: The departing thief, awakening numbness, the returned feeling, liberated both
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, 5 of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Heartbroken, The Loss and Grief, The Mourning Witness, The Regret Doubled
+numerical_relation: 7 + 5 = 12 (The Hanged One; the thief stealing from the grieving)
+elemental_bridge: Air's theft from Water's sorrow; deception preying on emotional vulnerability
+threshold_type: The Thief Stealing from the Griever—cunning exploiting heartbreak
+
+dynamic_genesis:
+  mechanism: The thief recognizes the 5 of Cups' vulnerability through grief and exploits it mercilessly
+  process: The thief steals while the griever is absorbed in sorrow; the theft is easy
+  outcome: The theft succeeds; the griever is further harmed
+  key_terms: The exploited grief, easy theft, doubled loss, the stolen sorrow
+
+dynamic_antagonism:
+  mechanism: The grief prevents the griever from caring about the theft; the thief eventually feels guilty
+  tension_axis: Theft against suffering—the thief steals from one already destroyed
+  7_of_swords_position: Unable to accept their own cruelty, attempting to justify stealing from the grieving
+  5_of_cups_position: Unable to care about theft because the grief is already total
+  key_terms: The guilty thief, careless victim, unseen theft, doubled despair
+
+dynamic_inhibition:
+  mechanism: The theft happens but both are destroyed by it; neither can fully engage with their role
+  consequence: A dynamic of mutual destruction; the thief is haunted and the griever is further devastated
+  spatial_logic: The thief stealing while the griever sits unmoved by sorrow, both in darkness
+
+dynamic_devolution:
+  mechanism: The grief consumes everything; the theft becomes irrelevant; both descend into total despair
+  corruption: The thief is destroyed by guilt; the griever is destroyed by compounded loss
+  loss: Both are lost to despair; the theft and the grief merge into mutual annihilation
+  key_terms: The destroyed thief, total grief, mutual despair, the void
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must make restitution or depart; the 5 of Cups must find healing beyond the grief
+  integration: The thief attempts to restore what was stolen; the griever gradually finds compassion even for the thief
+  paradox: The deepest compassion often comes from those who have known total loss; the 5 of Cups can eventually forgive even the thief
+  outcome: The thief makes restitution; the griever finds healing; both are transformed by the experience
+  key_terms: The restitution offered, accepted compassion, the healed griever, mutual redemption
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, 6 of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Innocence Reclaimed, The Nostalgia Safe, The Childhood's Return, The Simplicity of Past Joy
+numerical_relation: 7 + 6 = 13 (Death/Transformation; the thief stealing innocence itself)
+elemental_bridge: Air's deception corrupting Water's innocent memory; theft of the past
+threshold_type: The Thief Stealing Memory—cunning poisoning innocence
+
+dynamic_genesis:
+  mechanism: The thief exploits the 6 of Cups' nostalgic openness; false memories are implanted; innocent joy is corrupted
+  process: The thief creates false past memories while stealing genuine ones
+  outcome: The innocence is poisoned; the past is corrupted
+  key_terms: The false memories, stolen innocence, corrupted past, poisoned joy
+
+dynamic_antagonism:
+  mechanism: The corruption is discovered; the innocence is revealed as false
+  tension_axis: Deception against innocence—the thief corrupts; the memory was pure
+  7_of_swords_position: Unable to maintain the false memories once discovered
+  6_of_cups_position: Unable to accept that innocence was corrupted, unable to forgive the theft
+  key_terms: The exposed theft, corrupted innocence, poisoned memory, false past
+
+dynamic_inhibition:
+  mechanism: The innocence is known to be corrupted but the 6 of Cups continues to cherish it
+  consequence: The memory is preserved but is now poisoned by the knowledge of corruption
+  spatial_logic: The 6 of Cups holding memories that are known to be false but still treasured
+
+dynamic_devolution:
+  mechanism: The corrupted innocence gradually destroys the ability to trust any memory
+  corruption: The 6 of Cups loses the capacity to access genuine past joy
+  loss: All innocence is lost; the past becomes unreliable
+  key_terms: The destroyed innocence, unreliable past, lost joy, the corrupted memory
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must restore or release the corrupted memories; the 6 of Cups must rebuild genuine connection to innocence
+  integration: The thief releases the stolen innocence; the genuine memory is restored
+  paradox: The most precious memories are often those that have survived and recovered from corruption
+  outcome: The memories are restored; the innocence is reclaimed; both are healed
+  key_terms: The restored memory, reclaimed innocence, the healed past, genuine joy
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, 7 of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Illusions, The Wishful Thinking, The Dreams Ungrounded, The Fantasy Escape
+numerical_relation: 7 + 7 = 14 (Moderation; the thief and the illusionist recognizing their kinship)
+elemental_bridge: Air meeting Air in mutual deception; two forms of dishonesty aligned
+threshold_type: The Thief and the Illusionist—deception meeting fantasy
+
+dynamic_genesis:
+  mechanism: The thief and the 7 of Cups recognize a kinship; both create false realities
+  process: The thief and the dreamer become collaborators; together they weave more elaborate deceptions
+  outcome: A dynamic where deception is compounded; reality is completely lost
+  key_terms: The kinship of deceivers, compounded illusion, false reality, the collaborated deception
+
+dynamic_antagonism:
+  mechanism: The thief's theft threatens the 7 of Cups' carefully constructed illusions
+  tension_axis: Theft against fantasy—the thief takes from the illusionist
+  7_of_swords_position: Unable to respect the illusionist's fantasy, attempting to steal from it
+  7_of_cups_position: Unable to accept that the fantasy is being stolen from
+  key_terms: The threatened fantasy, stolen illusion, disrupted dreams, fantasy breached
+
+dynamic_inhibition:
+  mechanism: Both exist in deception but are unable to fully collaborate or fully oppose
+  consequence: A dynamic where both are partially engaged but fully disconnected
+  spatial_logic: The thief and the dreamer together but unable to truly interact
+
+dynamic_devolution:
+  mechanism: The deceptions gradually destroy each other; neither can sustain the fantasy alone
+  corruption: Both descend into complete delusion and theft
+  loss: All connection to reality is lost
+  key_terms: The complete delusion, mutual destruction, the void, the empty theft
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept that theft of illusions eventually leads nowhere; the 7 of Cups must eventually awaken from fantasy
+  integration: Both gradually recognize the futility of their deceptions; reality begins to intrude
+  paradox: The deepest awakenings often come from those who have exhausted deception
+  outcome: Both abandon deception gradually; reality is faced; both find genuine ground
+  key_terms: The abandoned deception, faced reality, the awakened, genuine grounding
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, 8 of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Walking Away, The Abandonment of False Comfort, The Search Beyond, The Seeker's Departure
+numerical_relation: 7 + 8 = 15 (The Devil reversed; the thief and the seeker parting ways)
+elemental_bridge: Air's theft and Water's departure moving in opposite directions
+threshold_type: The Thief and the Seeker Parting—two fugitives on different paths
+
+dynamic_genesis:
+  mechanism: The thief and the 8 of Cups recognize each other as fugitives; they move in the same direction initially
+  process: Both are leaving something behind; the journey seems shared
+  outcome: They move together briefly before parting
+  key_terms: The shared departure, brief companionship, the parting, the diverging paths
+
+dynamic_antagonism:
+  mechanism: The thief attempts to steal from the seeker; the seeker cannot accept dishonesty while searching for truth
+  tension_axis: Theft against seeking—the thief steals; the seeker searches for authenticity
+  7_of_swords_position: Unable to resist stealing despite the shared departure
+  8_of_cups_position: Unable to accept theft from one they briefly trusted
+  key_terms: The broken trust, betrayed seeker, theft during journey, parting becomes conflict
+
+dynamic_inhibition:
+  mechanism: Both travel together but with growing distrust; neither fully engages with the other
+  consequence: A journey that is technically shared but spiritually divided
+  spatial_logic: The thief and the seeker moving in the same direction but increasingly separated
+
+dynamic_devolution:
+  mechanism: The partnership gradually dissolves into conflict
+  corruption: Both are damaged by the brief companionship; trust is destroyed
+  loss: Both journeys are compromised by the betrayal
+  key_terms: The dissolved partnership, damaged seeker, the thief alone, the failed companionship
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept the seeker's departure with grace; the 8 of Cups must find companions who are trustworthy
+  integration: The thief and the seeker part peacefully; both continue their journeys
+  paradox: Sometimes the best journeys require solitude or honest companions; the 8 of Cups is most complete when with those who seek truth
+  outcome: The thief departs; the seeker continues with greater discernment; both find their own paths
+  key_terms: The honored parting, the discerning seeker, the departed thief, the separated journeys
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, 9 of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Wish Fulfilled, The Satisfaction Achieved, The Abundance Realized, The Heart's Desire Met
+numerical_relation: 7 + 9 = 16 (The Tower; the fulfilled wish destroyed by theft)
+elemental_bridge: Air's theft destroying Water's fulfillment; deception poisoning satisfaction
+threshold_type: The Thief Stealing the Wish—theft destroying the achieved desire
+
+dynamic_genesis:
+  mechanism: The thief recognizes the 9 of Cups' fulfilled wish as a target worth stealing
+  process: The thief steals the fulfillment; the wish is revealed as hollow
+  outcome: The theft succeeds; the satisfaction is destroyed
+  key_terms: The stolen wish, destroyed fulfillment, hollow satisfaction, the poisoned desire
+
+dynamic_antagonism:
+  mechanism: The theft is discovered; the wish is revealed as stolen, not earned
+  tension_axis: Theft against satisfaction—the thief takes the achieved desire
+  7_of_swords_position: Unable to maintain the theft without the satisfaction's destruction
+  9_of_cups_position: Unable to accept that the fulfillment was hollow, unable to forgive the theft
+  key_terms: The exposed theft, hollow wish, destroyed satisfaction, the revealed lie
+
+dynamic_inhibition:
+  mechanism: The wish is known to be stolen but the 9 of Cups clings to it anyway
+  consequence: Satisfaction that is preserved but is now poisoned by the knowledge of theft
+  spatial_logic: The 9 of Cups holding the stolen wish but unable to truly enjoy it
+
+dynamic_devolution:
+  mechanism: The stolen wish gradually poisons the 9 of Cups' entire life
+  corruption: What was fulfilled wish becomes a curse; satisfaction is lost
+  loss: The wish is lost; the fulfillment is destroyed; the satisfaction is impossible
+  key_terms: The poisoned wish, destroyed satisfaction, cursed desire, the void
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must restore the stolen wish or depart; the 9 of Cups must find genuine fulfillment
+  integration: The thief restores the wish; the fulfillment is achieved honestly
+  paradox: The most genuine wishes are often those that have survived theft and are reclaimed
+  outcome: The wish is restored; the satisfaction is achieved; both are transformed
+  key_terms: The restored wish, genuine fulfillment, the satisfied heart, honest desire
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, 10 of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Harmonious Family, The Lasting Happiness, The Circle Complete, The Love Established
+numerical_relation: 7 + 10 = 17 (The Star; the thief destroying the family's hope)
+elemental_bridge: Air's infiltration destroying Water's family bond; theft destroying household harmony
+threshold_type: The Thief Infiltrating the Family—deception destroying domestic happiness
+
+dynamic_genesis:
+  mechanism: The thief infiltrates the 10 of Cups' family; one member of the family is secretly the thief
+  process: The family appears whole while one member is systematically stealing
+  outcome: The theft succeeds; the family is corrupted from within
+  key_terms: The infiltrated family, hidden thief, secret theft, corrupted happiness
+
+dynamic_antagonism:
+  mechanism: The theft is discovered; the family is shattered by the revelation
+  tension_axis: Deception against family—the thief deceives family members
+  7_of_swords_position: Exposed before the family, unable to maintain the false belonging
+  10_of_cups_position: Unable to accept that the family was compromised, unable to forgive the theft
+  key_terms: The exposed family thief, shattered family, destroyed happiness, betrayed love
+
+dynamic_inhibition:
+  mechanism: The family remains together but the bonds are poisoned by the knowledge of deception
+  consequence: A family where love is present but is shadowed by betrayal
+  spatial_logic: The family gathered around the table but unable to truly trust
+
+dynamic_devolution:
+  mechanism: The family gradually dissolves; the betrayal cannot be overcome
+  corruption: The 10 of Cups is completely destroyed; the family breaks apart
+  loss: The family is lost; the happiness is impossible
+  key_terms: The dissolved family, destroyed happiness, broken love, the fractured circle
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must be expelled or imprisoned; the 10 of Cups must find healing
+  integration: The thief is removed; the family grieves and gradually heals
+  paradox: The strongest families are those that have survived betrayal and choose to rebuild
+  outcome: The thief is expelled; the family heals; genuine love is restored
+  key_terms: The expelled thief, healed family, restored love, the renewed circle
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, Page of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Emotional Messenger, The Innocent Seeker, The Wonder of Heart, The First Stirring of Feeling
+numerical_relation: 7 + Page = The thief and the innocent emoter; cunning and vulnerability
+elemental_bridge: Air's deception exploiting Water's innocent opening
+threshold_type: The Thief Seducing the Innocent—deception corrupting emotional awakening
+
+dynamic_genesis:
+  mechanism: The thief preys on the Page of Cups' innocent emotional opening
+  process: The thief steals the Page's emotional innocence through false affection
+  outcome: The innocence is corrupted; the Page is damaged
+  key_terms: The exploited innocence, false affection, stolen emotion, the corrupted youth
+
+dynamic_antagonism:
+  mechanism: The Page eventually discovers the deception; the innocence is revealed as exploited
+  tension_axis: Deception against innocence—the thief manipulates the emotionally open
+  7_of_swords_position: Unable to maintain the false affection once the theft is complete
+  page_of_cups_position: Unable to accept that they were deceived, unable to forgive the manipulation
+  key_terms: The exposed manipulator, damaged innocence, betrayed emotion, lost openness
+
+dynamic_inhibition:
+  mechanism: The Page remains emotionally open despite the deception
+  consequence: An innocence that is known to be at risk but continues to open anyway
+  spatial_logic: The Page offering emotion while the thief watches to exploit it
+
+dynamic_devolution:
+  mechanism: The Page's innocence is completely destroyed by repeated deceptions
+  corruption: The Page becomes hardened and cynical; the emotional opening is lost
+  loss: The emotional awakening is prevented; the Page's heart closes
+  key_terms: The hardened youth, lost innocence, closed heart, the cynical page
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must be prevented from harming the Page; the Page must find genuine emotional mentors
+  integration: The thief is prevented from causing harm; the Page finds trustworthy guides
+  paradox: The most genuine emotional openness comes from those who have survived deception and chosen trust anyway
+  outcome: The Page is protected; genuine emotional awakening occurs; the thief is prevented from causing harm
+  key_terms: The protected innocence, genuine awakening, trustworthy guides, the healed heart
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, Knight of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Emotional Idealist, The Romantic Seeker, The Noble Heart, The Quest for True Love
+numerical_relation: 7 + Knight = 9 (Completion; the romantic quest destroyed by betrayal)
+elemental_bridge: Air's theft destroying Water's romantic quest
+threshold_type: The Thief Betraying the Romantic—deception destroying noble seeking
+
+dynamic_genesis:
+  mechanism: The thief seduces the Knight of Cups through false romantic affection
+  process: The Knight's quest appears to be leading to true love; it is actually leading to theft
+  outcome: The romantic quest is poisoned; the theft is successful
+  key_terms: The seduced romantic, false quest, stolen innocence, the betrayed seeker
+
+dynamic_antagonism:
+  mechanism: The betrayal is discovered; the romantic quest is revealed as false
+  tension_axis: Deception against romance—the thief deceives the seeker of true love
+  7_of_swords_position: Unable to maintain the false romantic affection
+  knight_of_cups_position: Unable to accept that the romantic quest was false, unable to forgive the deception
+  key_terms: The exposed manipulator, destroyed quest, betrayed romance, false love
+
+dynamic_inhibition:
+  mechanism: The Knight continues to seek true love despite the betrayal
+  consequence: A quest that is now shadowed by doubt; the Knight seeks but with caution
+  spatial_logic: The Knight on the quest but looking over their shoulder for betrayal
+
+dynamic_devolution:
+  mechanism: The Knight's capacity for romantic seeking is completely destroyed
+  corruption: The romantic quest dies; the knight becomes cynical about love
+  loss: The ability to seek true love authentically is lost
+  key_terms: The destroyed quest, killed romance, cynical knight, the hardened seeker
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept the consequences; the Knight must find genuine romantic connection
+  integration: The thief is exposed and expelled; the Knight finds authentic romantic partnership
+  paradox: The most genuine romantic quests are often those that have survived betrayal
+  outcome: The thief departs; the Knight finds true love; the quest is completed authentically
+  key_terms: The genuine quest, authentic love found, the healed knight, romance honored
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, Queen of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Mature Compassion, The Emotional Wisdom, The Nurturer's Heart, The Profound Empathy
+numerical_relation: 7 + Queen = 12 (The Hanged One; the Queen understanding the thief's theft as desperation)
+elemental_bridge: Air's theft meeting Water's compassion; deception encountered by understanding
+threshold_type: The Thief Meeting the Queen's Wisdom—deception seen through by compassion
+
+dynamic_genesis:
+  mechanism: The Queen of Cups sees through the thief's deception but offers compassion instead of judgment
+  process: The Queen addresses the desperation beneath the theft; the thief is offered transformation
+  outcome: The theft is prevented through the offer of genuine help
+  key_terms: The recognized desperation, offered compassion, prevented theft, the transformed potential
+
+dynamic_antagonism:
+  mechanism: The Queen's compassion is interpreted as weakness; the thief continues to steal despite the understanding
+  tension_axis: Compassion against exploitation—the Queen offers help; the thief takes advantage
+  7_of_swords_position: Unable to accept the Queen's genuine compassion, continuing to steal
+  queen_of_cups_position: Unable to accept that compassion is being exploited, confused by the continued theft
+  key_terms: The exploited compassion, continued theft, misunderstood generosity, the taken advantage
+
+dynamic_inhibition:
+  mechanism: The Queen offers compassion but the thief takes dishonestly; both are engaged but the relationship is false
+  consequence: A dynamic where the Queen's compassion enables theft; genuine help is impossible
+  spatial_logic: The Queen offering compassion; the thief secretly stealing while receiving the Queen's care
+
+dynamic_devolution:
+  mechanism: The Queen's compassion is gradually destroyed by the continued exploitation
+  corruption: The nurturing is corrupted into enabling; the thief becomes a parasite
+  loss: Both the compassion and the thief's redemption are destroyed
+  key_terms: The destroyed compassion, enabled theft, the embittered queen, the hardened thief
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must genuinely accept the Queen's offer or be expelled; the Queen must set boundaries
+  integration: The Queen offers compassion with firmness; boundaries are established; the thief is offered genuine redemption
+  paradox: The most effective compassion includes clear consequences; the Queen is most nurturing when establishing boundaries
+  outcome: The thief accepts the Queen's offer with genuine intent; transformation occurs; both are honored
+  key_terms: The accepted offer, established boundaries, the redeemed thief, the wise queen
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 7 of Swords, King of Cups
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_cups: The Emotional Mastery, The Controlled Power, The Sovereign of Heart, The Wise Ruler of Feeling
+numerical_relation: 7 + King = 13 (Death/Transformation; the thief attempting to steal emotional mastery)
+elemental_bridge: Air's theft attempting to steal Water's mastery; deception against emotional authority
+threshold_type: The Thief Facing Emotional Authority—cunning against wisdom
+
+dynamic_genesis:
+  mechanism: The thief attempts to steal from the King of Cups but the King's mastery sees through the deception
+  process: The thief is quickly exposed; the King offers the thief understanding in exchange for honesty
+  outcome: The theft is prevented; the thief is offered transformation
+  key_terms: The exposed thief, offered understanding, prevented theft, the potential redemption
+
+dynamic_antagonism:
+  mechanism: The thief refuses the King's offer; the theft continues despite exposure
+  tension_axis: Theft against mastery—the thief steals; the King rules with emotional wisdom
+  7_of_swords_position: Unable to accept the King's wisdom, continuing to attempt theft
+  king_of_cups_position: Unable to force the thief to accept help, unable to prevent the continued theft
+  key_terms: The refused offer, continued theft, rejected wisdom, the stubborn thief
+
+dynamic_inhibition:
+  mechanism: The thief remains but the theft is impossible because the King's mastery prevents it
+  consequence: A stalemate where the thief cannot steal and the King must remain vigilant
+  spatial_logic: The thief attempting theft; the King maintaining mastery; neither winning
+
+dynamic_devolution:
+  mechanism: The thief becomes increasingly desperate and destructive
+  corruption: The relationship becomes antagonistic; the theft becomes destructive sabotage
+  loss: Both the King's mastery and the thief's redemption are damaged
+  key_terms: The destroyed mastery, the desperate thief, the damaged relationship, mutual loss
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept the King's authority; the King must find a way to reach the thief
+  integration: The thief eventually accepts the King's wisdom; transformation is finally possible
+  paradox: The most profound transformations come from those who have resisted and finally accepted help
+  outcome: The thief accepts the King's authority; transformation is complete; both are honored
+  key_terms: The accepted authority, the transformed thief, the honored wisdom, the mastered heart
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 7 of Swords (deception, theft) to 14 Cups cards (emotional states and unions)
+  uid: SIOC

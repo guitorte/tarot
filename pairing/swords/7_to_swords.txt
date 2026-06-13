@@ -1,0 +1,683 @@
+card_pair: 7 of Swords, Ace of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Pure Truth, The Clarity Descending, The Divine Insight, The Sword of Reality
+numerical_relation: 7 + Ace = 8 (Strength; the truth exposing the deception)
+elemental_bridge: Air meeting Air; truth and deception confronting each other
+threshold_type: The Truth Revealing the Thief—clarity exposing cunning
+
+dynamic_genesis:
+  mechanism: The Ace of Swords' truth reveals the 7 of Swords' deception completely
+  process: There is nowhere for the thief to hide; the clarity exposes every false claim
+  outcome: The deception is completely revealed; the thief is stripped of all pretense
+  key_terms: The exposed deception, revealed truth, stripped pretense, the clear judgment
+
+dynamic_antagonism:
+  mechanism: The thief cannot accept the clarity; the truth is resisted fiercely
+  tension_axis: Truth against deception—the Ace insists on clarity; the thief resists revelation
+  7_of_swords_position: Fighting against the truth; attempting to twist the clarity
+  ace_of_swords_position: Unable to be turned aside; the truth is absolute
+  key_terms: The resisted truth, defended deception, twisted clarity, the fought revelation
+
+dynamic_inhibition:
+  mechanism: The truth is present but is disputed; reality becomes a battlefield
+  consequence: Clarity exists but is contested; the truth is present but is denied
+  spatial_logic: The sword of truth standing but the thief circling it, attempting to dull its edge
+
+dynamic_devolution:
+  mechanism: The conflict gradually corrupts both truth and deception
+  corruption: The Ace of Swords becomes a weapon of cruelty; the thief becomes desperate
+  loss: Both clarity and deception are destroyed in the conflict
+  key_terms: The weaponized truth, desperate theft, destroyed clarity, mutual destruction
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept the truth; the Ace of Swords must offer clarity with compassion
+  integration: The thief accepts the revealed truth; the judgment is compassionate; redemption becomes possible
+  paradox: The most profound truths are those that include compassion for the deceiver
+  outcome: The truth is accepted; clarity is integrated; redemption is found
+  key_terms: The accepted truth, integrated clarity, found redemption, the healed deceiver
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, 2 of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Binding Stalemate, The Mutual Paralysis, The Indecision Enforced, The Blindfolded Standoff
+numerical_relation: 7 + 2 = 9 (Completion; the thief and the paralyzed meeting in stillness)
+elemental_bridge: Air's theft and Air's paralysis meeting in stillness
+threshold_type: The Thief Encountering Paralysis—deception meeting immobility
+
+dynamic_genesis:
+  mechanism: The thief attempts to steal from the 2 of Swords but the paralysis provides unexpected protection
+  process: The thief cannot steal because the 2 of Swords is frozen; there is no movement to exploit
+  outcome: The thief becomes fascinated by the stalemate; a strange understanding emerges
+  key_terms: The protected stillness, respected paralysis, the understood stalemate, the acknowledged impasse
+
+dynamic_antagonism:
+  mechanism: The thief's attempts to steal disrupt the stalemate; the paralyzed one resists change
+  tension_axis: Movement against stillness—the thief moves; the 2 of Swords refuses to choose
+  7_of_swords_position: Unable to steal from one so completely frozen
+  2_of_swords_position: Unable to move despite the thief's attempts to force movement
+  key_terms: The unmoving target, frustrated theft, defended paralysis, the maintained stalemate
+
+dynamic_inhibition:
+  mechanism: The thief and the paralyzed one are locked in stasis; neither can move
+  consequence: A complete standoff where neither can advance; the thief cannot steal and the stalemate cannot be broken
+  spatial_logic: The thief circling the frozen figure; both trapped in stillness
+
+dynamic_devolution:
+  mechanism: The stalemate gradually includes the thief; all three are frozen
+  corruption: Movement is completely lost; even the thief becomes paralyzed
+  loss: All capacity for action is destroyed
+  key_terms: The extended paralysis, the frozen thief, complete stasis, the dead stillness
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept the 2's paralysis as unbreakable; the 2 of Swords must eventually choose to move
+  integration: The thief leaves; the paralyzed one gradually finds the will to choose
+  paradox: Sometimes the greatest victory is accepting that some things cannot be stolen or changed
+  outcome: The thief departs; the stalemate is eventually broken through the paralyzed one's choice
+  key_terms: The accepted impasse, the departing thief, the eventual choice, movement restored
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, 3 of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Heartbreak, The Sorrow, The Three Wounding Truths, The Grief Exposed
+numerical_relation: 7 + 3 = 10 (Completion; the thief stealing from grief)
+elemental_bridge: Air's theft from Air's sorrow; deception exploiting emotional wound
+threshold_type: The Thief Preying on Grief—cunning exploiting heartbreak
+
+dynamic_genesis:
+  mechanism: The thief exploits the 3 of Swords' grief; the heartbreak is so complete that theft goes unnoticed
+  process: The thief steals while the griever is absorbed in sorrow
+  outcome: The theft succeeds; the griever is further harmed
+  key_terms: The exploited grief, easy theft, the stolen sorrow, compounded pain
+
+dynamic_antagonism:
+  mechanism: The griever discovers the theft; the grief is deepened by betrayal
+  tension_axis: Theft against suffering—the thief steals from one already destroyed
+  7_of_swords_position: Unable to accept their own cruelty toward the grieving
+  3_of_swords_position: Unable to care about theft because grief is already total
+  key_terms: The guilty thief, unaware victim, unseen theft, compounded despair
+
+dynamic_inhibition:
+  mechanism: The theft happens but both are destroyed by it
+  consequence: A dynamic of mutual destruction; the thief is haunted and the griever is devastated
+  spatial_logic: The thief stealing while the griever sits in sorrow, both in darkness
+
+dynamic_devolution:
+  mechanism: Both descend into complete despair; the theft and the grief merge
+  corruption: The 3 of Swords becomes completely lost to sorrow and betrayal
+  loss: Both are destroyed; nothing remains but darkness
+  key_terms: The destroyed thief, total grief, mutual despair, the void
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must make restitution; the 3 of Swords must find healing
+  integration: The thief restores what was stolen; the griever finds compassion even for the thief
+  paradox: The deepest compassion often comes from those who have known total loss
+  outcome: The thief makes restitution; the griever finds healing; both are transformed
+  key_terms: The restitution offered, accepted compassion, the healed griever, mutual redemption
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, 4 of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Peace of Stillness, The Recovery Pause, The Truce Held, The Rest Between Battles
+numerical_relation: 7 + 4 = 11 (The Hanged One; the thief unable to steal peace)
+elemental_bridge: Air's theft and Air's peace in opposition
+threshold_type: The Thief Unable to Steal Peace—deception encountering genuine rest
+
+dynamic_genesis:
+  mechanism: The thief attempts to steal from the 4 of Swords' peace but discovers it cannot be stolen
+  process: Peace that comes from genuine rest cannot be claimed falsely
+  outcome: The thief learns that some things cannot be stolen; the 4's peace is untouched
+  key_terms: The protected peace, unstealing rest, the honored 4, the taught thief
+
+dynamic_antagonism:
+  mechanism: The thief's attempts to steal from the resting one disrupt the peace
+  tension_axis: Theft against peace—the thief attempts to steal; the peace remains undisturbed
+  7_of_swords_position: Unable to steal from one at genuine peace
+  4_of_swords_position: The peace is so complete that the thief's attempts are irrelevant
+  key_terms: The unstealing target, frustrated theft, protected peace, the irrelevant thief
+
+dynamic_inhibition:
+  mechanism: The thief remains in the vicinity but the peace is undisturbed
+  consequence: A dynamic where theft is attempted but has no effect
+  spatial_logic: The thief attempting theft while the peaceful one sleeps unmoved
+
+dynamic_devolution:
+  mechanism: The thief becomes infected by the peace; the drive to steal is gradually lost
+  corruption: The 4 of Swords' peace corrupts the thief into stillness
+  loss: The thief's ability to steal is lost; the thief becomes peaceful
+  key_terms: The infected thief, lost stealing urge, the peaceful transformation, the stillness
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept that the peace cannot be stolen; the 4 of Swords' peace gradually affects the thief
+  integration: The thief gradually accepts the peace; the stealing is released; rest is found
+  paradox: The deepest peace is sometimes found by those who have known desperation
+  outcome: The thief accepts peace; both rest; the transformation is complete
+  key_terms: The accepted peace, released stealing, the transformed thief, mutual rest
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, 5 of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
+numerical_relation: 7 + 5 = 12 (The Hanged One; the thief and the bitter victor meeting)
+elemental_bridge: Air meeting Air in mutual understanding of cunning
+threshold_type: The Thief Meeting the Victor—two survivors recognizing each other's cunning
+
+dynamic_genesis:
+  mechanism: The thief and the 5 of Swords recognize each other as strategic survivors
+  process: Both have learned to navigate by cunning; mutual respect emerges
+  outcome: A strange alliance of cunning minds; both survive together
+  key_terms: The recognized kinship, honored cunning, mutual survival, strategic alliance
+
+dynamic_antagonism:
+  mechanism: The thief and the victor compete for dominance; both use cunning
+  tension_axis: Competing cunning—the thief steals; the victor fights
+  7_of_swords_position: Unable to overcome the victor's direct cunning
+  5_of_swords_position: Unable to catch the thief's subtle cunning
+  key_terms: The uncaught thief, undefeated victor, competing cunning, the stalemate
+
+dynamic_inhibition:
+  mechanism: Both remain but are unable to fully dominate each other
+  consequence: A dynamic where cunning is present but neither achieves final victory
+  spatial_logic: The thief and victor circling each other, both cautious, neither winning
+
+dynamic_devolution:
+  mechanism: The mutual cunning gradually becomes destructive
+  corruption: Both are corrupted by the endless strategic game
+  loss: Both are destroyed by the competition for dominance
+  key_terms: The corrupted cunning, destroyed survivors, the mutual loss, empty victory
+
+dynamic_dependency:
+  mechanism: The 7 of Swords and 5 of Swords must accept each other's survival methods
+  integration: A truce is reached; both acknowledge the other's cunning as valid
+  paradox: Sometimes the greatest respect is between two survivors who have learned to coexist
+  outcome: A truce is honored; both survive in acknowledgment of each other's skills
+  key_terms: The honored truce, acknowledged cunning, the mutual respect, survived together
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, 6 of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+numerical_relation: 7 + 6 = 13 (Death/Transformation; two fugitives parting ways)
+elemental_bridge: Air's theft and Air's journey; deception and escape meeting
+threshold_type: The Thief and the Traveler—two fugitives on different paths
+
+dynamic_genesis:
+  mechanism: The thief and the 6 of Swords recognize each other as fugitives
+  process: Both are leaving something behind; brief companionship emerges
+  outcome: They move together briefly before parting
+  key_terms: The shared departure, brief kinship, the parting, the diverging paths
+
+dynamic_antagonism:
+  mechanism: The thief's theft threatens the traveler's journey; the traveler cannot accept dishonesty
+  tension_axis: Theft against seeking—the thief steals; the traveler seeks authenticity
+  7_of_swords_position: Unable to resist stealing despite the shared departure
+  6_of_swords_position: Unable to accept theft from one briefly trusted
+  key_terms: The broken trust, betrayed traveler, theft during journey, the conflict
+
+dynamic_inhibition:
+  mechanism: Both travel together but with growing distrust
+  consequence: A journey that is shared but spiritually divided
+  spatial_logic: The thief and traveler in the same boat but increasingly separated
+
+dynamic_devolution:
+  mechanism: The partnership dissolves into conflict
+  corruption: Both are damaged by the brief companionship
+  loss: Both journeys are compromised
+  key_terms: The dissolved partnership, damaged seekers, the separate paths, the failed companionship
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept the traveler's departure; the 6 of Swords must find trustworthy companions
+  integration: They part peacefully; both continue their journeys
+  paradox: Sometimes the best journeys require solitude or honest companions
+  outcome: The thief departs; the traveler continues with greater discernment
+  key_terms: The honored parting, the discerning traveler, the departed thief, the separate journeys
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, 7 of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+numerical_relation: 7 + 7 = 14 (Moderation; two thieves meeting, deception meeting deception)
+elemental_bridge: Air meeting Air in mutual cunning
+threshold_type: The Two Thieves—deception meeting deception, cunning against cunning
+
+dynamic_genesis:
+  mechanism: Two thieves recognize each other; mutual respect for cunning emerges
+  process: Both use strategy to survive; together they become more effective
+  outcome: A partnership of cunning; both thrive through mutual theft and deception
+  key_terms: The recognized kinship, honored cunning, the effective partnership, double deception
+
+dynamic_antagonism:
+  mechanism: The two thieves compete for the same targets
+  tension_axis: Competing theft—both thieves steal from the same sources
+  7_of_swords_position_first: Unable to accept sharing the stolen goods
+  7_of_swords_position_second: Unable to accept the other thief as equal
+  key_terms: The competing thieves, disputed stolen goods, the conflict, the rivalry
+
+dynamic_inhibition:
+  mechanism: Both thieves remain but their competition prevents effective theft
+  consequence: A partnership where both are present but neither trusts the other
+  spatial_logic: Two thieves circling each other, both watching for betrayal
+
+dynamic_devolution:
+  mechanism: The mutual distrust gradually becomes hatred
+  corruption: The partnership becomes a war between thieves
+  loss: Both are destroyed by the inability to trust; the thievery collapses
+  key_terms: The destroyed partnership, mutual hatred, collapsed theft, the warring thieves
+
+dynamic_dependency:
+  mechanism: The 7 of Swords pair must accept each other's methods or separate
+  integration: A truce is reached; they divide territory; each operates without interference
+  paradox: Sometimes thieves are most effective when they respect each other's boundaries
+  outcome: A truce divides the territory; both thrive in their own areas; both survive
+  key_terms: The honored boundaries, the divided territory, the respected truce, both surviving
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, 8 of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Trapped Mind, The Mental Prison, The Bonds of Thought, The Captivity of Understanding
+numerical_relation: 7 + 8 = 15 (The Devil reversed; liberation through theft or captivity)
+elemental_bridge: Air's freedom and Air's imprisonment meeting
+threshold_type: The Thief Encountering Captivity—deception against mental imprisonment
+
+dynamic_genesis:
+  mechanism: The thief recognizes the 8 of Swords' mental captivity and offers false freedom
+  process: The thief claims to offer escape while actually deepening the captivity
+  outcome: The prisoner is further imprisoned while believing they are being freed
+  key_terms: The false freedom, deepened captivity, the false liberator, the imprisoned freedom
+
+dynamic_antagonism:
+  mechanism: The prisoner gradually realizes the false freedom is another form of captivity
+  tension_axis: Deception against captivity—the thief deceives; the prisoner seeks truth
+  7_of_swords_position: Unable to maintain the false promise of freedom
+  8_of_swords_position: Unable to accept that the offered freedom was false
+  key_terms: The exposed false liberator, realized deception, the true imprisonment, the betrayed
+
+dynamic_inhibition:
+  mechanism: The prisoner remains in captivity believing in false freedom
+  consequence: A mental prison that is deepened by the false promise
+  spatial_logic: The prisoner in the invisible bonds but believing they are free
+
+dynamic_devolution:
+  mechanism: The false freedom poisons the real captivity; complete despair
+  corruption: The 8 of Swords becomes hopelessly imprisoned
+  loss: All capacity for real freedom is destroyed
+  key_terms: The hopeless prisoner, destroyed freedom, the eternal captivity, the void
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must offer genuine help or depart; the 8 of Swords must find real liberators
+  integration: The thief is exposed; genuine help is found; real liberation begins
+  paradox: The deepest liberation is often from those who understand captivity
+  outcome: The false liberator is exposed; genuine freedom is achieved; the prisoner is free
+  key_terms: The exposed deceiver, genuine liberation, the freed prisoner, real freedom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, 9 of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Nightmare, The Despair Deepening, The Thoughts That Wound, The Mental Anguish
+numerical_relation: 7 + 9 = 16 (The Tower; deception corrupting nightmare into madness)
+elemental_bridge: Air's theft and Air's torment; deception deepening mental anguish
+threshold_type: The Thief Stealing Sanity—deception destroying mental stability
+
+dynamic_genesis:
+  mechanism: The thief exploits the 9 of Swords' nightmares; false comfort is offered
+  process: The false comfort deepens the nightmares; sanity is gradually stolen
+  outcome: The tormented one descends further into madness through false solutions
+  key_terms: The exploited torment, false comfort, stolen sanity, the deepened nightmare
+
+dynamic_antagonism:
+  mechanism: The nightmare is realized; the false comfort is exposed as deception
+  tension_axis: Deception against torment—the thief offers false comfort to the tormented
+  7_of_swords_position: Unable to maintain the false comfort as the torment grows
+  9_of_swords_position: Unable to accept that the comfort was false, unable to trust further
+  key_terms: The exposed false comfort, revealed deception, the deeper torment, the betrayed
+
+dynamic_inhibition:
+  mechanism: The false comfort persists but is known to be false; the torment continues
+  consequence: A dynamic where deception is present but is ineffective; the torment deepens
+  spatial_logic: The thief offering false comfort while the tormented sinks deeper
+
+dynamic_devolution:
+  mechanism: Both the thief and the tormented descend into complete madness
+  corruption: The 9 of Swords is destroyed; sanity is lost
+  loss: Both are lost to madness; there is no recovery
+  key_terms: The destroyed sanity, mutual madness, the lost recovery, the void
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must offer genuine help or depart; the 9 of Swords must find real healing
+  integration: The false comfort is removed; genuine help is found; sanity begins to return
+  paradox: The deepest healing often comes from those who have emerged from their own madness
+  outcome: The thief departs or is reformed; genuine healing is found; sanity is recovered
+  key_terms: The departed false helper, found genuine help, the recovered sanity, the healed mind
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, 10 of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Final Betrayal, The Utter Defeat, The Ending, The Death That Leads to Rebirth
+numerical_relation: 7 + 10 = 17 (The Star; the final betrayal as gateway to transformation)
+elemental_bridge: Air's theft delivering the final blow
+threshold_type: The Thief Delivering the Final Wound—deception as the ultimate betrayal
+
+dynamic_genesis:
+  mechanism: The thief delivers the final blow to the 10 of Swords; complete defeat comes through betrayal
+  process: The utterly defeated one is shown that even the thief contributed to the collapse
+  outcome: The defeat is complete; there is nothing left to steal
+  key_terms: The final blow, complete defeat, the empty theft, the finished destruction
+
+dynamic_antagonism:
+  mechanism: The utterly defeated discovers the thief was the final architect of collapse
+  tension_axis: Betrayal against defeat—the thief steals the last hope
+  7_of_swords_position: Unable to escape the utterly defeated one's knowledge
+  10_of_swords_position: Unable to accept that the final blow came from theft
+  key_terms: The revealed architect, known betrayal, the complete collapse, the final wound
+
+dynamic_inhibition:
+  mechanism: Both exist in the moment of utter defeat; transformation becomes possible
+  consequence: A moment where death is so complete that rebirth can begin
+  spatial_logic: The utterly defeated lying; the thief standing over them; both at the threshold
+
+dynamic_devolution:
+  mechanism: The thief is consumed by the collapse; the utterly defeated does not recover
+  corruption: Both are destroyed; there is no rebirth
+  loss: All is lost; nothing remains
+  key_terms: The consumed thief, the uncreated rebirth, complete void, the empty ending
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept responsibility; the 10 of Swords must find resurrection
+  integration: The thief makes restitution; the utterly defeated rises transformed
+  paradox: The deepest transformations often come from the moment of utter defeat
+  outcome: The thief offers final restitution; the utterly defeated rises transformed; rebirth is complete
+  key_terms: The final restitution, the transformation, the reborn, the completed cycle
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, Page of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Curious Seeker, The Young Intellect, The Questions Emerging, The Wonder Unfolding
+numerical_relation: 7 + Page = The thief and the young seeker; cunning and innocent questioning
+elemental_bridge: Air's theft and Air's curiosity meeting
+threshold_type: The Thief Corrupting the Student—deception teaching false knowledge
+
+dynamic_genesis:
+  mechanism: The thief teaches the Page of Swords false knowledge while appearing to mentor
+  process: The youth is gradually corrupted by false teachings presented as truth
+  outcome: The Page learns to deceive without realizing it
+  key_terms: The corrupted student, false knowledge, the learned deceiver, innocence lost
+
+dynamic_antagonism:
+  mechanism: The Page eventually discovers the false teachings; innocence is revealed as a lie
+  tension_axis: Deception against curiosity—the thief deceives the seeker of knowledge
+  7_of_swords_position: Unable to maintain the false teachings once questioned
+  page_of_swords_position: Unable to accept that the learning was false, unable to forgive the corruption
+  key_terms: The exposed false teacher, revealed false knowledge, damaged seeker, innocence lost
+
+dynamic_inhibition:
+  mechanism: The Page continues with the false knowledge but is aware of the corruption
+  consequence: A learning that is hollow; knowledge that is known to be false but is still held
+  spatial_logic: The Page holding false knowledge, unable to unlearn what was taught
+
+dynamic_devolution:
+  mechanism: The false knowledge gradually destroys the Page's capacity for genuine seeking
+  corruption: The Page becomes a spreader of false knowledge; the corruption spreads
+  loss: The genuine capacity for inquiry is destroyed
+  key_terms: The corrupted seeker, false knowledge spread, destroyed curiosity, the dying wonder
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must be prevented from causing harm; the Page must find genuine teachers
+  integration: The false teacher is exposed; genuine knowledge is found; the Page's questioning is restored
+  paradox: The most genuine seeking often comes from those who have survived false teaching
+  outcome: The false teacher is exposed; genuine knowledge is found; the Page's curiosity is restored
+  key_terms: The exposed false teacher, genuine knowledge, restored curiosity, the honored seeker
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, Knight of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Truth Seeker, The Relentless Inquirer, The Challenger, The One Who Pursues Clarity
+numerical_relation: 7 + Knight = 9 (Completion; the quest for truth defeating deception)
+elemental_bridge: Air's deception and Air's truth-seeking in direct conflict
+threshold_type: The Thief Hunted by the Truth Seeker—deception pursued by relentless clarity
+
+dynamic_genesis:
+  mechanism: The Knight of Swords pursues the thief relentlessly; truth becomes a weapon against deception
+  process: The thief cannot hide from the Knight's inquiry; every falsehood is exposed
+  outcome: The thief is hunted; the truth is pursued relentlessly
+  key_terms: The hunted thief, relentless pursuit, exposed deception, the sought truth
+
+dynamic_antagonism:
+  mechanism: The thief attempts to outrun or outsmart the Knight
+  tension_axis: Deception against truth-seeking—the thief flees; the Knight pursues
+  7_of_swords_position: Unable to escape the Knight's relentless pursuit
+  knight_of_swords_position: Unable to stop until the truth is found and the thief is exposed
+  key_terms: The uncaught thief, the relentless knight, the unending pursuit, the sought truth
+
+dynamic_inhibition:
+  mechanism: The chase continues indefinitely; the Knight pursues and the thief flees
+  consequence: A pursuit that never ends; both are trapped in the chase
+  spatial_logic: The Knight following the thief; the thief always ahead but never far enough
+
+dynamic_devolution:
+  mechanism: The endless pursuit gradually destroys both
+  corruption: The Knight becomes obsessed with the chase; the thief becomes desperate
+  loss: Both are destroyed by the pursuit; the truth is never fully revealed
+  key_terms: The destroyed pursuit, the obsessed knight, the desperate thief, mutual loss
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must stop fleeing and accept judgment; the Knight must finally capture the thief
+  integration: The thief is caught; the truth is revealed; judgment is accepted
+  paradox: The deepest truths often come from those who finally stop running
+  outcome: The thief is caught; the truth is revealed; both are transformed by the revelation
+  key_terms: The caught thief, the revealed truth, the satisfied seeker, the completed quest
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, Queen of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Intellectual Authority, The Discerning Mind, The Wise Judge, The Sovereign of Clarity
+numerical_relation: 7 + Queen = 12 (The Hanged One; the Queen penetrating the thief's deception)
+elemental_bridge: Air's deception and Air's wisdom meeting
+threshold_type: The Thief Before the Wise Judge—deception exposed by penetrating clarity
+
+dynamic_genesis:
+  mechanism: The Queen of Swords sees through the thief's deception immediately; cunning is useless
+  process: The thief's every attempt at deception is recognized and countered
+  outcome: The thief is stripped bare before the Queen's clarity
+  key_terms: The seen-through deception, exposed thief, the penetrating wisdom, the revealed truth
+
+dynamic_antagonism:
+  mechanism: The thief attempts to deceive the Queen; the deception is instantly rejected
+  tension_axis: Deception against wisdom—the thief deceives; the Queen's clarity is absolute
+  7_of_swords_position: Unable to deceive one whose clarity is absolute
+  queen_of_swords_position: Unable to offer mercy to one bent on deception
+  key_terms: The exposed thief, rejected deception, undeceived queen, the clear judgment
+
+dynamic_inhibition:
+  mechanism: The thief remains but is completely transparent; all attempts at cunning fail
+  consequence: A dynamic where deception is useless; the thief is impotent
+  spatial_logic: The thief before the Queen; every word is seen as false; no deception holds
+
+dynamic_devolution:
+  mechanism: The thief is gradually destroyed by the Queen's unwavering clarity
+  corruption: The thief becomes desperate; the Queen becomes harsh
+  loss: Both are destroyed by the conflict between wisdom and cunning
+  key_terms: The destroyed thief, harsh wisdom, the failed deception, mutual loss
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept judgment; the Queen must offer justice with compassion
+  integration: The thief is judged fairly; the wisdom is shown to include mercy
+  paradox: The most powerful judgment is often that which combines clarity with compassion
+  outcome: The thief is judged; justice is served with mercy; redemption becomes possible
+  key_terms: The fair judgment, offered mercy, the reformed thief, the honored wisdom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS
+
+---
+
+card_pair: 7 of Swords, King of Swords
+archetype_swords: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+archetype_swords: The Sovereign of Intellect, The Master of Clarity, The Ruler of Thought, The Authority Absolute
+numerical_relation: 7 + King = 13 (Death/Transformation; the thief challenging the King's rule)
+elemental_bridge: Air's cunning and Air's authority meeting
+threshold_type: The Thief Challenging the King—deception against absolute clarity
+
+dynamic_genesis:
+  mechanism: The thief attempts to infiltrate the King of Swords' authority; cunning meets its match
+  process: The King's clarity defeats every attempt at deception
+  outcome: The thief is defeated before they can act; the plot is revealed
+  key_terms: The revealed plot, defeated thief, the absolute clarity, the exposed scheme
+
+dynamic_antagonism:
+  mechanism: The thief's deception is discovered by the King's absolute clarity
+  tension_axis: Cunning against authority—the thief schemes; the King's rule is absolute
+  7_of_swords_position: Unable to deceive one whose authority is based on absolute clarity
+  king_of_swords_position: Unwilling to tolerate deception in the kingdom
+  key_terms: The exposed thief, challenged authority, the rejected scheme, the revealed plot
+
+dynamic_inhibition:
+  mechanism: The thief is caught but is not immediately executed; a judgment is to be rendered
+  consequence: The thief awaits judgment; the King rules but must decide the thief's fate
+  spatial_logic: The thief before the King's throne; awaiting the sovereign's judgment
+
+dynamic_devolution:
+  mechanism: The King's judgment is harsh; the thief is destroyed; the kingdom trembles
+  corruption: The rule becomes tyrannical due to the threat
+  loss: Both the thief and the kingdom are damaged by the conflict
+  key_terms: The tyrannical judgment, destroyed thief, the damaged kingdom, mutual loss
+
+dynamic_dependency:
+  mechanism: The 7 of Swords must accept punishment; the King must render justice with wisdom
+  integration: The thief accepts judgment; the King's authority is upheld with mercy
+  paradox: The strongest authority is often that which can be merciful without being weak
+  outcome: The thief is judged fairly; the kingdom is protected; the authority is honored
+  key_terms: The fair judgment, protected kingdom, the honored authority, the merciful king
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with swords graduation
+  encoding: UTF-8
+  elemental_primary: Air + Air
+  numerical_axis: 7 of Swords (deception, theft) to 14 Swords cards (thought, clarity, conflict)
+  uid: SIOS

@@ -1,0 +1,647 @@
+card_pair: Knight of Wands, Ace of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: Knight-1 (Passionate action manifesting opportunity; brave pursuit grounding material beginning)
+elemental_bridge: Fire passionate momentum crystallizing into earth concrete manifestation; adventure becoming tangible result
+threshold_type: The adventurous opportunity; material beginning pursued with passionate action
+
+dynamic_genesis:
+  mechanism: Passionate pursuit attracts material manifestation; brave action catalyzes grounding
+  process: Adventure energy manifests material opportunity; passion crystallizes into concrete form
+  outcome: Opportunity gains momentum from passionate pursuit; manifestation emerges with brave certainty
+  key_terms: passionate manifestation, brave opportunity, action-driven potential, adventure-fueled foundation
+
+dynamic_antagonism:
+  mechanism: Passionate action demands rapid engagement; manifestation requires patient grounding
+  tension_axis: Rapid passionate pursuit versus patient establishment; adventure urgency versus methodical building
+  wands_position: Pursues passionately and rapidly; wants immediate adventure action
+  pentacles_position: Builds foundation methodically; requires careful grounding
+  key_terms: rapid versus patient, action versus building, adventure versus method, passionate versus careful
+
+dynamic_inhibition:
+  mechanism: Impatient passionate pursuit prevents patient grounding; action disrupts foundation establishment
+  blockade_nature: The rapid chase prevents proper settling; passion prevents careful foundation work
+  wands_state: Passion becomes destructive rushing; adventure transforms into reckless momentum
+  consequence: Manifestation cannot stabilize; opportunity dissolves from hasty pursuit
+  key_terms: chaotic manifestation, destructive rushing, dissolved opportunity, prevented grounding
+
+dynamic_devolution:
+  mechanism: Passion transforms manifestation into reckless conquest; action corrupts into destructive force
+  mode: Adventure becomes reckless appropriation; pursuit becomes aggressive claiming
+  loss: Authentic manifestation replaced by reckless destruction; genuine opportunity becomes hostile conquest
+  key_terms: reckless conquest, destructive force, hostile appropriation, corrupted pursuit
+
+dynamic_dependency:
+  mechanism: Action without grounding becomes ephemeral momentum; manifestation without adventure becomes dull
+  function: Pentacles provide grounding that stabilizes passionate momentum; wands provide action that energizes manifestation
+  integration_outcome: Passionate pursuit becomes grounded in material form; action enables lasting opportunity
+  key_terms: grounded passion, lasting opportunity, energized manifestation, integrated pursuit
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, 2 of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Exchange, flow, balance, reciprocity, cyclical adaptation
+numerical_relation: Knight-2 (Passionate action accelerating circulation; brave pursuit enabling rapid exchange)
+elemental_bridge: Fire passionate momentum powering earth fluid circulation; adventure enabling dynamic flow
+threshold_type: The adventurous marketplace; rapid circulation energized by brave enterprise
+
+dynamic_genesis:
+  mechanism: Passionate pursuit accelerates circulation; brave action catalyzes rapid exchange
+  process: Adventure energy drives dynamic trading; passion enables quick market movement
+  outcome: Circulation gains momentum from passionate enterprise; flow benefits from brave action
+  key_terms: passionate circulation, adventurous exchange, action-driven flow, brave momentum
+
+dynamic_antagonism:
+  mechanism: Passionate pursuit demands direct rapid action; circulation requires responsive adaptability
+  tension_axis: Direct pursuit versus adaptive response; passionate momentum versus flexible circulation
+  wands_position: Pursues directly and rapidly; resists changing course
+  pentacles_position: Adapts fluidly to change; requires responsive adjustment
+  key_terms: direct versus adaptive, rapid versus responsive, pursuit versus adjustment, momentum versus flow
+
+dynamic_inhibition:
+  mechanism: Rigid pursuit prevents adaptive circulation; passionate action disrupts flow patterns
+  blockade_nature: The direct momentum prevents necessary adaptation; pursuit blocks circulation flexibility
+  wands_state: Passion becomes bull-charging momentum; adventure transforms into unstoppable force
+  consequence: Circulation becomes disrupted by rigid pursuit; flow cannot adapt
+  key_terms: disrupted circulation, blocked adaptation, rigid momentum, prevented flow
+
+dynamic_devolution:
+  mechanism: Passion transforms circulation into aggressive conquest; action corrupts into predatory force
+  mode: Exchange becomes aggressive appropriation; circulation becomes dominance-seeking
+  loss: Authentic circulation replaced by aggressive conquest; genuine flow becomes predatory force
+  key_terms: aggressive conquest, predatory force, dominance-seeking exchange, corrupted circulation
+
+dynamic_dependency:
+  mechanism: Action without circulation becomes directionless momentum; circulation without adventure becomes stagnant
+  function: Pentacles provide circular rhythm that channels passionate momentum adaptively; wands provide action that energizes flow
+  integration_outcome: Passionate pursuit becomes channeled through circulation; flow gains adventurous momentum
+  key_terms: channeled passion, momentous flow, adventurous circulation, integrated exchange
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, 3 of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Craftsmanship, collaboration, skill, mastery, tangible creation
+numerical_relation: Knight-3 (Passionate action energizing collaboration; brave enterprise enabling joint creation)
+elemental_bridge: Fire passionate momentum animating earth collaborative work; adventure enabling shared enterprise
+threshold_type: The enterprising collaborator; passionate pursuit joined with shared creation
+
+dynamic_genesis:
+  mechanism: Passionate pursuit energizes collaborative effort; brave action animates shared mastery
+  process: Adventure energy catalyzes team momentum; passion deepens collaborative enterprise
+  outcome: Collaboration gains momentum from passionate action; creation benefits from brave enterprise
+  key_terms: passionate collaboration, adventurous mastery, action-driven teamwork, enterprise-fueled creation
+
+dynamic_antagonism:
+  mechanism: Passionate pursuit demands solo rapid action; collaboration requires coordinated shared effort
+  tension_axis: Solo rapid pursuit versus coordinated teamwork; individual action versus shared responsibility
+  wands_position: Pursues individually and rapidly; resists slow collaborative pace
+  pentacles_position: Emphasizes coordinated collaboration; requires shared decision-making
+  key_terms: individual versus shared, rapid versus coordinated, solo versus teamwork, action versus collaboration
+
+dynamic_inhibition:
+  mechanism: Solo pursuit prevents collaborative coordination; impatient action disrupts team unity
+  blockade_nature: The rapid individual pursuit prevents team synchronization; action prevents unified effort
+  wands_state: Passion becomes aggressive solo action; adventure transforms into self-serving momentum
+  consequence: Collaboration stagnates from disrupted coordination; teamwork cannot proceed
+  key_terms: disrupted coordination, aggressive solo action, scattered teamwork, prevented collaboration
+
+dynamic_devolution:
+  mechanism: Passion transforms collaboration into competitive dominance; action corrupts into self-serving conquest
+  mode: Teamwork becomes arena for individual glory-seeking; collaboration becomes tool for personal advancement
+  loss: Authentic collaboration replaced by aggressive competition; genuine teamwork becomes selfish dominance
+  key_terms: aggressive competition, selfish dominance, individual conquest, corrupted collaboration
+
+dynamic_dependency:
+  mechanism: Action without collaboration becomes reckless solo pushing; collaboration without action becomes stagnant
+  function: Pentacles provide collaborative structure that channels passionate action productively; wands provide momentum that energizes teamwork
+  integration_outcome: Passionate pursuit becomes channeled through collaboration; teamwork gains adventurous momentum
+  key_terms: channeled passion, energized collaboration, adventurous mastery, integrated enterprise
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, 4 of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Conservation, security, control, stability, fortress
+numerical_relation: Knight-4 (Passionate pursuit challenging fortress; brave action testing defensive walls)
+elemental_bridge: Fire passionate momentum assailing earth defensive structure; adventure challenging security
+threshold_type: The adventurer at the fortress; passionate energy encountering protective boundaries
+
+dynamic_genesis:
+  mechanism: Passionate pursuit tests fortress strength; brave action validates security through pressure
+  process: Adventure energy probes defensive limits; action reveals fortress reliability
+  outcome: Security gains confidence through tested pursuit; fortress proves strength
+  key_terms: tested fortress, validated security, pursued boundaries, strength-proven defense
+
+dynamic_antagonism:
+  mechanism: Passionate pursuit demands entry and freedom; fortress requires closure and control
+  tension_axis: Pursuit penetration versus protective closure; adventure boldness versus defensive walls
+  wands_position: Pursues passionately through barriers; resists fortress constraints
+  pentacles_position: Maintains protective boundaries; controls through conservation
+  key_terms: pursuit versus walls, boldness versus defense, freedom versus control, penetration versus closure
+
+dynamic_inhibition:
+  mechanism: Fortress walls prevent passionate pursuit; protective closure blocks adventure
+  blockade_nature: The walls stop forward momentum; closure blocks necessary passage
+  wands_state: Passion becomes frustrated force; adventure transforms into angry charge
+  consequence: Pursuit becomes blocked; adventure cannot advance
+  key_terms: blocked pursuit, frustrated passion, stopped momentum, prevented adventure
+
+dynamic_devolution:
+  mechanism: Passion transforms fortress siege into aggressive assault; action corrupts into destructive attack
+  mode: Adventure becomes battering assault; pursuit becomes hostile force
+  loss: Authentic adventure replaced by hostile assault; genuine pursuit becomes destructive force
+  key_terms: hostile assault, destructive attack, aggressive force, corrupted adventure
+
+dynamic_dependency:
+  mechanism: Action without structure becomes chaotic wildness; fortress without tested resilience becomes brittle
+  function: Pentacles provide structure that channels passionate energy safely; wands provide action that tests fortress strength
+  integration_outcome: Passionate pursuit becomes channeled within boundaries; fortress gains tested reliability
+  key_terms: channeled passion, tested fortress, secure adventure, integrated boundaries
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, 5 of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Deprivation, loss, hardship, exclusion, material scarcity
+numerical_relation: Knight-5 (Passionate action amid hardship; brave pursuit through deprivation)
+elemental_bridge: Fire passionate energy encountering earth material scarcity; adventure tested by hardship
+threshold_type: The adventurous survivor; passionate action amid deprivation
+
+dynamic_genesis:
+  mechanism: Passionate action drives survival effort; brave pursuit navigates hardship
+  process: Adventure energy mobilizes through deprivation; passion navigates material crisis
+  outcome: Survival becomes powered by passionate momentum; hardship becomes navigable through brave action
+  key_terms: passionate survival, adventurous navigation, action-driven endurance, brave persistence
+
+dynamic_antagonism:
+  mechanism: Passionate aggressive action wastes scarce resources; deprivation requires careful conservation
+  tension_axis: Aggressive action versus conservation; passion spending versus careful husbanding
+  wands_position: Acts aggressively through hardship; burns resources pursuing solutions
+  pentacles_position: Conserves carefully; requires restraint and economy
+  key_terms: aggressive versus careful, action versus conservation, spending versus husbanding, momentum versus restraint
+
+dynamic_inhibition:
+  mechanism: Aggressive action prevents conservation; passionate momentum wastes critical resources
+  blockade_nature: The rapid action prevents conservation; aggressive pursuit wastes needed reserves
+  wands_state: Passion becomes destructive recklessness; adventure transforms into wasteful spending
+  consequence: Hardship worsens from wasted resources; survival becomes harder
+  key_terms: wasteful spending, destructive recklessness, worsened hardship, prevented conservation
+
+dynamic_devolution:
+  mechanism: Passion transforms survival into aggressive predation; action corrupts into ruthless extraction
+  mode: Desperate pursuit becomes predatory force; adventure becomes ruthless exploitation
+  loss: Authentic survival replaced by ruthless predation; genuine adventure becomes exploitative force
+  key_terms: ruthless predation, predatory force, exploitative adventure, corrupted survival
+
+dynamic_dependency:
+  mechanism: Action without resource awareness becomes destructive chaos; deprivation without agency becomes despair
+  function: Pentacles ground action in resource reality; wands provide passion that prevents despair
+  integration_outcome: Passionate action becomes resourceful survival; adventure navigates hardship
+  key_terms: resourceful action, navigated hardship, passionate survival, integrated persistence
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, 6 of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Generosity, reciprocal exchange, sharing, equity, mutual support
+numerical_relation: Knight-6 (Passionate pursuit enabling generosity; brave action distributing reciprocal sharing)
+elemental_bridge: Fire passionate momentum materializing as earth generous exchange; adventure enabling broad giving
+threshold_type: The generous adventurer; passionate pursuit expressed through reciprocal distribution
+
+dynamic_genesis:
+  mechanism: Passionate pursuit generates generous momentum; brave action catalyzes reciprocal exchange
+  process: Adventure energy drives rapid distribution; passion enables open sharing
+  outcome: Generosity benefits from passionate momentum; reciprocity becomes energized through brave action
+  key_terms: passionate generosity, adventurous exchange, action-driven sharing, enterprise-fueled reciprocity
+
+dynamic_antagonism:
+  mechanism: Passionate action gives impulsively and rapidly; generosity requires thoughtful equitable distribution
+  tension_axis: Rapid impulsive action versus careful equity; passionate momentum versus measured fairness
+  wands_position: Distributes rapidly and broadly; resists careful measurement
+  pentacles_position: Distributes carefully and fairly; requires equity consideration
+  key_terms: rapid versus careful, impulsive versus measured, momentum versus equity, action versus fairness
+
+dynamic_inhibition:
+  mechanism: Rapid distribution prevents fair assessment; passionate action disrupts equitable exchange
+  blockade_nature: The rush to give prevents equity-checking; action prevents fair consideration
+  wands_state: Passion becomes chaotic giving; adventure transforms into scattered distribution
+  consequence: Fairness deteriorates from rapid action; equity cannot be maintained
+  key_terms: chaotic distribution, rapid inequity, scattered giving, prevented fairness
+
+dynamic_devolution:
+  mechanism: Passion transforms generosity into chaotic scattering; action corrupts into reckless waste
+  mode: Rapid distribution becomes wasteful excess; giving becomes thoughtless scattering
+  loss: Authentic generosity replaced by chaotic scattering; genuine exchange becomes wasteful chaos
+  key_terms: wasteful chaos, reckless scattering, chaotic generosity, corrupted exchange
+
+dynamic_dependency:
+  mechanism: Action without fair structure becomes chaotic scattering; generosity without momentum becomes dull
+  function: Pentacles provide fair framework that channels passionate action into equitable sharing; wands provide momentum that energizes generosity
+  integration_outcome: Passionate action becomes channeled through equitable sharing; giving gains adventurous momentum
+  key_terms: channeled passion, fair action, adventurous generosity, integrated exchange
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, 7 of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Assessment, investment evaluation, patient cultivation, growth monitoring
+numerical_relation: Knight-7 (Passionate action interrupted by assessment; brave pursuit paused for evaluation)
+elemental_bridge: Fire passionate momentum halted by earth reflective examination; adventure momentarily suspended
+threshold_type: The assessed adventure; passionate pursuit examined for genuine value
+
+dynamic_genesis:
+  mechanism: Assessment validates passionate action authenticity; evaluation proves pursuit genuine
+  process: Passionate momentum examined and found authentic; assessment confirms adventure worth
+  outcome: Action gains confidence through validated assessment; pursuit becomes authenticated
+  key_terms: validated action, proven pursuit, authenticated adventure, confident momentum
+
+dynamic_antagonism:
+  mechanism: Passionate action demands immediate pursuit; assessment requires reflective pause
+  tension_axis: Direct action versus reflective examination; momentum push versus evaluative distance
+  wands_position: Wants to continue pursuing; resists evaluative pause
+  pentacles_position: Requires pause for honest assessment; demands evaluation before advancement
+  key_terms: action versus reflection, momentum versus pause, pursuit versus evaluation, immediate versus examination
+
+dynamic_inhibition:
+  mechanism: Assessment pause disrupts action momentum; evaluation becomes endless questioning
+  blockade_nature: The pause paralyzes adventure momentum; evaluation prevents action resumption
+  wands_state: Passion becomes stalled pursuit; adventure transforms into stuck questioning
+  consequence: Action stagnates from evaluation delay; momentum cannot resume
+  key_terms: stalled adventure, stuck questioning, prevented action, blocked momentum
+
+dynamic_devolution:
+  mechanism: Assessment becomes harsh judgment of pursuit; evaluation corrupts into cruel criticism
+  mode: Evaluation becomes weapon against action; scrutiny becomes contemptuous dismissal
+  loss: Authentic action replaced by harsh judgment; genuine pursuit becomes self-contempt
+  key_terms: harsh judgment, self-contempt, cruel criticism, corrupted assessment
+
+dynamic_dependency:
+  mechanism: Action without assessment becomes blind rushing; assessment without action becomes sterile observation
+  function: Pentacles provide evaluation that validates or redirects action; wands provide momentum that animates assessment
+  integration_outcome: Passionate action becomes validated through assessment; pursuit proves itself genuine
+  key_terms: validated action, genuine pursuit, confirmed adventure, integrated assessment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, 8 of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Mastery, skill development, focused practice, refinement, expertise
+numerical_relation: Knight-8 (Passionate action accelerating skill development; brave enterprise enabling rapid expertise)
+elemental_bridge: Fire passionate momentum intensifying earth practiced focus; adventure enabling quick mastery
+threshold_type: The enterprising learner; passionate pursuit in intensive skill development
+
+dynamic_genesis:
+  mechanism: Passionate pursuit accelerates learning pace; brave action catalyzes rapid skill acquisition
+  process: Adventure energy intensifies practice focus; passion enables quick progression
+  outcome: Learning benefits from passionate momentum; mastery develops rapidly through brave enterprise
+  key_terms: accelerated mastery, passionate learning, rapid skill-development, sparked progress
+
+dynamic_antagonism:
+  mechanism: Passionate pursuit seeks action and variety; mastery requires narrow focused dedication
+  tension_axis: Adventure action-seeking versus specialized focus; rapid movement versus deep expertise
+  wands_position: Pursues many directions; resists narrow specialization
+  pentacles_position: Requires focused dedication; needs undivided concentration
+  key_terms: action versus focus, variety versus specialization, rapid versus deep, adventure versus dedication
+
+dynamic_inhibition:
+  mechanism: Action-seeking prevents focused skill development; passionate momentum prevents specialization discipline
+  blockade_nature: The need for adventure prevents dedicated focus; momentum disrupts practice consistency
+  wands_state: Passion becomes scattered learning; adventure transforms into chaotic skill-hopping
+  consequence: Mastery stagnates from unfocused effort; expertise cannot develop
+  key_terms: scattered learning, chaotic mastery, unfocused expertise, prevented specialization
+
+dynamic_devolution:
+  mechanism: Passion transforms learning into chaotic skill-chasing; action corrupts into compulsive movement
+  mode: Mastery becomes addiction to new pursuits; practice becomes adventure-dependent
+  loss: Authentic learning replaced by chaotic chasing; genuine mastery becomes scattered dabbling
+  key_terms: chaotic chasing, scattered dabbling, adventure addiction, corrupted learning
+
+dynamic_dependency:
+  mechanism: Action without focused practice becomes ephemeral momentum-chasing; mastery without passion becomes dull
+  function: Pentacles provide focused discipline that channels passionate action into mastery; wands provide momentum that energizes practice
+  integration_outcome: Passionate pursuit becomes channeled into focused mastery; practice gains adventurous momentum
+  key_terms: focused passion, energized practice, sparked mastery, integrated learning
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, 9 of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Abundance, luxury, independence, sovereignty, material security
+numerical_relation: Knight-9 (Passionate action achieving abundance; brave enterprise building independence)
+elemental_bridge: Fire passionate momentum manifesting into earth material security; adventure building wealth
+threshold_type: The successful adventurer; abundance achieved through passionate enterprise
+
+dynamic_genesis:
+  mechanism: Passionate pursuit attracts and builds material abundance; brave action manifests wealth
+  process: Adventure energy generates productive momentum; passion drives material success
+  outcome: Abundance emerges from passionate enterprise; independence achieves through brave action
+  key_terms: abundant action, successful pursuit, wealth-building passion, sparked prosperity
+
+dynamic_antagonism:
+  mechanism: Passionate pursuit seeks continuous new challenges; abundance seeks peaceful secure enjoyment
+  tension_axis: Adventure momentum-seeking versus peaceful rest; pursuit continuity versus secure possession
+  wands_position: Seeks new challenges and adventures; wants to keep pursuing
+  pentacles_position: Wants to enjoy quiet independence; resists continuous challenge-seeking
+  key_terms: continuous versus rest, pursuit versus enjoyment, momentum versus peace, adventure versus security
+
+dynamic_inhibition:
+  mechanism: Pursuit obsession prevents peaceful enjoyment; continuous momentum disrupts luxury appreciation
+  blockade_nature: The drive for new adventure prevents settling into abundance; momentum prevents rest
+  wands_state: Passion becomes compulsive pursuit; adventure transforms into restless hunger
+  consequence: Abundance cannot be enjoyed; independence feels threatened by need for more
+  key_terms: threatened abundance, restless hunger, prevented enjoyment, compulsive pursuit
+
+dynamic_devolution:
+  mechanism: Passion transforms abundance into obsessive acquisition; action corrupts into greedy conquest
+  mode: Wealth becomes tool for continuous conquest; independence becomes slavery to advancement
+  loss: Authentic abundance replaced by compulsive hunger; genuine independence becomes obsessive striving
+  key_terms: obsessive acquisition, greedy conquest, compulsive advancement, corrupted abundance
+
+dynamic_dependency:
+  mechanism: Action without material grounding becomes ephemeral excitement; abundance without passionate energy becomes stagnant
+  function: Pentacles provide material foundation that channels passionate action into lasting wealth; wands provide momentum that energizes abundance
+  integration_outcome: Passionate pursuit becomes grounded in material success; action builds lasting independence
+  key_terms: grounded passion, lasting abundance, energized independence, integrated prosperity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, 10 of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Legacy, inheritance, dynasty, generational wealth, ancestral foundation
+numerical_relation: Knight-10 (Passionate action becoming legacy; brave enterprise establishing dynasty)
+elemental_bridge: Fire passionate momentum crystallizing into earth dynastic endurance; adventure becoming ancestral foundation
+threshold_type: The enterprising heir; passionate action building generational legacy
+
+dynamic_genesis:
+  mechanism: Passionate pursuit becomes generational legacy; brave action establishes ancestral enterprise
+  process: Adventure energy crystallizes into dynasty; passion becomes founding momentum
+  outcome: Legacy emerges from passionate enterprise; dynasty establishes through brave action
+  key_terms: legacy-building passion, dynasty-establishing action, ancestral enterprise, generational momentum
+
+dynamic_antagonism:
+  mechanism: Passionate pursuit demands constant new adventure; legacy requires respecting ancestral continuity
+  tension_axis: Adventure pursuit versus tradition-keeping; passionate innovation versus heritage preservation
+  wands_position: Wants to change and innovate inherited structure; seeks new directions
+  pentacles_position: Maintains ancestral tradition; requires preserving inherited ways
+  key_terms: innovation versus tradition, change versus preservation, adventure versus heritage, passion versus respect
+
+dynamic_inhibition:
+  mechanism: Innovation impulse disrupts ancestral transmission; passionate action prevents traditional consolidation
+  blockade_nature: The drive for adventure disrupts tradition maintenance; action disrupts legacy preservation
+  wands_state: Passion becomes destructive rebellion against tradition; adventure transforms into generational rupture
+  consequence: Legacy fragments from unwanted change; dynasty fractures from action-driven disruption
+  key_terms: destructive rebellion, generational rupture, fractured legacy, prevented tradition
+
+dynamic_devolution:
+  mechanism: Passion transforms legacy into chaotic rejection; action corrupts into ancestral destruction
+  mode: Inherited foundation becomes tool for destructive change; adventure becomes rebellion weapon
+  loss: Authentic inheritance replaced by chaotic rejection; genuine legacy becomes destroyed heritage
+  key_terms: chaotic rejection, destroyed heritage, ancestral destruction, corrupted innovation
+
+dynamic_dependency:
+  mechanism: Action without ancestral grounding becomes ephemeral momentum; legacy without passionate energy becomes ossified
+  function: Pentacles provide ancestral foundation that channels passionate action creatively; wands provide momentum that prevents legacy ossification
+  integration_outcome: Passionate action becomes creative expression of inherited legacy; enterprise revitalizes ancestral foundation
+  key_terms: creative inheritance, revitalized legacy, sparked tradition, integrated dynasty
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, Page of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Learning, curiosity, potential, fresh study, material apprenticeship
+numerical_relation: Knight-Page (Passionate pursuit of knowledge; brave enterprise in learning)
+elemental_bridge: Fire passionate momentum powering earth scholarly growth; adventure enabling rapid learning
+threshold_type: The adventurous student; passionate pursuit of knowledge and skill
+
+dynamic_genesis:
+  mechanism: Passionate pursuit catalyzes learning progression; brave action enables rapid education
+  process: Adventure energy drives focused study; passion accelerates skill acquisition
+  outcome: Learning benefits from passionate momentum; education progresses rapidly through brave enterprise
+  key_terms: passionate learning, adventurous study, action-driven progression, sparked education
+
+dynamic_antagonism:
+  mechanism: Passionate pursuit seeks action and novelty; learning requires patient focused dedication
+  tension_axis: Adventure action-seeking versus study focus; rapid momentum versus patient learning
+  wands_position: Seeks action in learning; wants practical application immediately
+  pentacles_position: Emphasizes focused study and patient development; requires dedicated concentration
+  key_terms: action versus focus, novelty versus dedication, practical versus theoretical, momentum versus patience
+
+dynamic_inhibition:
+  mechanism: Action-seeking prevents focused study; passionate momentum disrupts learning consistency
+  blockade_nature: The need for action prevents dedicated focus; momentum disrupts practice rhythm
+  wands_state: Passion becomes scattered learning; adventure transforms into chaotic study-hopping
+  consequence: Learning stagnates from unfocused effort; knowledge cannot deepen
+  key_terms: scattered learning, chaotic study, unfocused progression, prevented deepening
+
+dynamic_devolution:
+  mechanism: Passion transforms learning into chaotic novelty-chasing; action corrupts into compulsive experimentation
+  mode: Study becomes addiction to new material; learning becomes adventure-dependent
+  loss: Authentic learning replaced by chaotic chasing; genuine education becomes scattered dabbling
+  key_terms: chaotic chasing, scattered dabbling, novelty addiction, corrupted learning
+
+dynamic_dependency:
+  mechanism: Action without focused learning becomes ephemistic momentum-chasing; study without passion becomes dull
+  function: Pentacles provide focused discipline that channels passionate action into learning; wands provide momentum that energizes education
+  integration_outcome: Passionate pursuit becomes channeled into focused study; learning gains adventurous momentum
+  key_terms: focused passion, energized learning, sparked education, integrated progression
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, Queen of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Nurturing mastery, generous abundance, grounded care, domestic sovereignty
+numerical_relation: Knight-Queen (Passionate action supporting nurturing; brave enterprise enabling care)
+elemental_bridge: Fire passionate momentum channeled through earth nurturing care; adventure enabling generous service
+threshold_type: The passionate caregiver; brave action supporting nurturing generosity
+
+dynamic_genesis:
+  mechanism: Passionate action energizes nurturing effort; brave enterprise catalyzes generous care
+  process: Adventure energy mobilizes caretaking; passion enables generous provision
+  outcome: Care benefits from passionate momentum; nurturing gains adventurous strength
+  key_terms: passionate care, adventurous nurturing, action-driven generosity, sparked provision
+
+dynamic_antagonism:
+  mechanism: Passionate action seeks novelty and change; nurturing requires consistent patient presence
+  tension_axis: Adventure change-seeking versus steady presence; passionate momentum versus patient care
+  wands_position: Seeks action and change; gets restless with care routine
+  pentacles_position: Maintains steady presence; requires consistent dedication to care
+  key_terms: novelty versus presence, change versus consistency, momentum versus steadiness, action versus patience
+
+dynamic_inhibition:
+  mechanism: Change-seeking disrupts consistent care; passionate momentum prevents sustained presence
+  blockade_nature: The need for adventure prevents steady dedication; momentum disrupts care focus
+  wands_state: Passion becomes restless care; adventure transforms into flighty nurturing
+  consequence: Care becomes inconsistent from disrupted presence; relationship becomes unstable
+  key_terms: inconsistent care, flighty nurturing, disrupted presence, prevented stability
+
+dynamic_devolution:
+  mechanism: Passion transforms care into chaotic disruption; action corrupts into irresponsible abandonment
+  mode: Nurturing becomes interrupted by adventure-seeking; care becomes abandoned for excitement
+  loss: Authentic care replaced by chaotic disruption; genuine nurturing becomes flighty irresponsibility
+  key_terms: chaotic disruption, flighty irresponsibility, abandoned care, corrupted nurturing
+
+dynamic_dependency:
+  mechanism: Action without nurturing grounding becomes ephemeral momentum; care without passionate energy becomes dull
+  function: Pentacles provide nurturing context that channels passionate action into caring; wands provide momentum that energizes generosity
+  integration_outcome: Passionate action becomes channeled into patient care; nurturing gains adventurous strength
+  key_terms: channeled passion, energized care, sparked nurturing, integrated generosity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW
+
+---
+
+card_pair: Knight of Wands, King of Pentacles
+archetype_wands: Action, passion, movement, adventure, brave pursuit, passionate enterprise
+archetype_pentacles: Mastery authority, material sovereignty, grounded leadership, established dominion
+numerical_relation: Knight-King (Passionate action supporting leadership; brave enterprise enabling governance)
+elemental_bridge: Fire passionate momentum channeled through earth sovereign leadership; adventure enabling authoritative rule
+threshold_type: The passionate sovereign; brave action supporting established authority
+
+dynamic_genesis:
+  mechanism: Passionate action energizes leadership; brave enterprise catalyzes authoritative rule
+  process: Adventure energy mobilizes governance; passion enables dynamic leadership
+  outcome: Authority benefits from passionate momentum; leadership gains adventurous strength
+  key_terms: passionate authority, adventurous leadership, action-driven rule, sparked dominion
+
+dynamic_antagonism:
+  mechanism: Passionate action seeks to challenge and innovate; sovereignty requires maintaining established order
+  tension_axis: Adventure innovation-seeking versus order maintenance; passionate change versus stable rule
+  wands_position: Seeks to challenge and change established ways; wants innovation
+  pentacles_position: Maintains established order; requires respecting authority continuity
+  key_terms: innovation versus order, change versus stability, adventure versus tradition, passion versus governance
+
+dynamic_inhibition:
+  mechanism: Change-seeking impulse disrupts stable governance; passionate innovation prevents order maintenance
+  blockade_nature: The drive for adventure disrupts authority stability; momentum disrupts established rule
+  wands_state: Passion becomes destabilizing force; adventure transforms into authority-threatening energy
+  consequence: Authority becomes unstable from challenged order; governance becomes inconsistent
+  key_terms: unstable authority, challenged order, disrupted governance, prevented stability
+
+dynamic_devolution:
+  mechanism: Passion transforms authority into chaotic rebellion; action corrupts into destructive defiance
+  mode: Leadership becomes disruption tool; governance becomes tool for exciting change-making
+  loss: Authentic authority replaced by chaotic rebellion; genuine leadership becomes destructive defiance
+  key_terms: chaotic rebellion, destructive defiance, authority disruption, corrupted leadership
+
+dynamic_dependency:
+  mechanism: Action without authority grounding becomes ephemeral momentum; authority without passionate energy becomes ossified
+  function: Pentacles provide stable authority that channels passionate action creatively; wands provide momentum that prevents leadership calcification
+  integration_outcome: Passionate action becomes integrated into leadership; governance gains adventurous momentum
+  key_terms: integrated passion, energized authority, sparked leadership, vital governance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Knight-1 through Knight-14
+  uid: NOW

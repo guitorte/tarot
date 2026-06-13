@@ -1,0 +1,697 @@
+card_pair: King of Swords, Ace of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: 14 + 1 = 15 (XV The Devil; principled judgment applied to a raw material opportunity)
+elemental_bridge: Air's verdict meets Earth's first offering; the ruling mind weighs a venture not yet begun
+threshold_type: The opportunity brought before the judge; raw potential asked to prove its terms
+
+dynamic_genesis:
+  mechanism: Clear judgment tests the new opportunity against principle; the structuring mind turns raw potential into a workable plan
+  process: The King examines the seed's terms, names the risks, sets the conditions under which it should be taken
+  outcome: A material beginning founded on sound judgment; potential committed to deliberately, not impulsively
+  key_terms: vetted opportunity, principled foundation, conditions set, deliberate commitment
+
+dynamic_antagonism:
+  mechanism: The King wants the plan proven before the ground is broken; the Ace wants the ground broken now
+  tension_axis: judgment-before-action versus seize-the-opening
+  king_of_swords_position: Withholds approval until the terms are sound; will not back an unexamined venture
+  ace_of_pentacles_position: The opening is now; deliberation lets the gift pass
+  key_terms: approval withheld, opening narrowing, analysis versus timing, the unbacked venture
+
+dynamic_inhibition:
+  mechanism: Endless vetting; the King keeps demanding a cleaner case the opportunity cannot supply before it starts
+  blockade_nature: the material beginning held hostage to a standard of proof it can never meet in advance
+  swords_state: a judge who mistakes refusal for rigor; authority frozen into permanent review
+  consequence: the opportunity expires unexamined into existence; nothing is built
+  key_terms: permanent review, unmeetable standard, expired opening, refusal as rigor
+
+dynamic_devolution:
+  mechanism: Judgment hardens into ownership; the King claims the venture's terms as instruments of control
+  mode: structure weaponized into domination; the plan becomes a leash
+  loss: the opportunity's generative freedom; what could grow is bound to the ruler's conditions
+  key_terms: control disguised as planning, the venture leashed, generativity lost, dominion over the gift
+
+dynamic_dependency:
+  mechanism: The Ace needs the King's judgment to not squander itself; the King needs the Ace's substance to have something real to rule
+  function: Swords-King supplies the discernment that protects the venture; Pentacles-Ace supplies the material reality the judgment would otherwise lack
+  integration_outcome: an opportunity taken with clear eyes; sound judgment grounded in something that actually grows
+  key_terms: protected venture, grounded judgment, clear-eyed commitment, principle made material
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, 2 of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Balance, juggling, flexibility, adaptive exchange, equilibrium
+numerical_relation: 14 + 2 = 16 (XVI The Tower; rigid judgment meets fluid balancing)
+elemental_bridge: Air's fixed ruling meets Earth's constant adjustment; the verdict confronts the moving target
+threshold_type: The juggling act brought before the bench; flux asked to hold still for a ruling
+
+dynamic_genesis:
+  mechanism: Judgment prioritizes the competing demands; clear authority names what must be kept in motion and what may fall
+  process: The King ranks the obligations the juggler holds, sets the rules of the exchange
+  outcome: balancing guided by principle rather than mere reflex; equilibrium with a hierarchy
+  key_terms: prioritized demands, ruled exchange, principled balance, hierarchy of obligations
+
+dynamic_antagonism:
+  mechanism: The King wants a fixed ruling; the 2 needs to keep adjusting
+  tension_axis: fixed decision versus continuous adaptation
+  king_of_swords_position: Demands the matter be settled once and for all
+  two_of_pentacles_position: The situation shifts; no single ruling survives contact with it
+  key_terms: settle-it-now versus keep-adjusting, ruling versus flux, rigidity meets flexibility
+
+dynamic_inhibition:
+  mechanism: The King's insistence on a final decision freezes the juggler mid-motion
+  blockade_nature: adaptation forbidden by a ruling the changing situation has already outdated
+  swords_state: a lawgiver legislating a moving target; authority whose verdict is obsolete on arrival
+  consequence: the balance collapses because it was forbidden to adjust
+  key_terms: outdated verdict, forbidden adjustment, frozen juggler, collapse by decree
+
+dynamic_devolution:
+  mechanism: Judgment turns the flux into a fault; the King condemns the 2's flexibility as inconstancy
+  mode: principle curdled into contempt for adaptiveness
+  loss: the legitimate skill of adaptive response, recast as weakness
+  key_terms: flexibility condemned, adaptiveness shamed, contempt for flux, skill miscalled fault
+
+dynamic_dependency:
+  mechanism: The 2 needs the King's priorities so the juggling has a point; the King needs the 2's adaptiveness so his rulings survive a changing world
+  function: Swords-King supplies the hierarchy that tells the juggler what matters most; Pentacles-2 supplies the responsiveness that keeps principle alive in practice
+  integration_outcome: adaptive balance with a clear order of priorities; principle that flexes without breaking
+  key_terms: prioritized juggling, living principle, flexible order, responsive rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, 3 of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+numerical_relation: 14 + 3 = 17 (XVII The Star; authority directing collaborative craft)
+elemental_bridge: Air's specification meets Earth's skilled hands; the architect's decree meets the workshop
+threshold_type: The craft brought before the architect; the bench's standard meets the maker's knowledge
+
+dynamic_genesis:
+  mechanism: The King's plan gives the craftsmen a blueprint; clear specification turns shared effort into coordinated work
+  process: The King defines the standard, assigns the roles, judges the work against the spec
+  outcome: collaboration with a clear standard; mastery aimed at a defined result
+  key_terms: defined standard, assigned roles, coordinated craft, spec-driven work
+
+dynamic_antagonism:
+  mechanism: The King rules from above; the craftsmen know the work from inside
+  tension_axis: the architect's decree versus the maker's hands-on knowledge
+  king_of_swords_position: Dictates the specification; expects it executed
+  three_of_pentacles_position: The bench teaches what the drawing cannot; the spec is wrong in places
+  key_terms: decree versus craft-knowledge, drawing versus bench, authority overruling skill
+
+dynamic_inhibition:
+  mechanism: The King overrides the makers' corrections; work stops where spec and material disagree
+  blockade_nature: craft knowledge barred from amending the plan
+  swords_state: an architect who will not be corrected; authority deaf to the workshop
+  consequence: the work halts at the flaw the makers foresaw and were forbidden to fix
+  key_terms: correction barred, deaf authority, foreseen flaw, halted bench
+
+dynamic_devolution:
+  mechanism: Judgment claims the craftsmen's mastery as the ruler's achievement
+  mode: authority appropriating skilled labor; the spec credited, the hands erased
+  loss: the makers' authorship; collaboration reduced to obedience
+  key_terms: appropriated mastery, erased hands, obedience not collaboration, credit misassigned
+
+dynamic_dependency:
+  mechanism: The craft needs the King's coordinating standard; the King needs the makers' hands to realize anything
+  function: Swords-King supplies the unifying specification; Pentacles-3 supplies the executed mastery and the corrections only the bench can see
+  integration_outcome: coordinated craft where the standard is set by judgment and amended by skill
+  key_terms: standard plus correction, coordinated authorship, judgment amended by craft, realized spec
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, 4 of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+numerical_relation: 14 + 4 = 18 (XVIII The Moon; judgment meets the hoarder's grip)
+elemental_bridge: Air's reasoned allocation meets Earth's clenched fist; the rule to release meets the refusal to let go
+threshold_type: The hoard brought before the judge; the grip asked to justify itself
+
+dynamic_genesis:
+  mechanism: The King's principle examines what is held and rules on what is worth keeping
+  process: The King audits the hoard, separates prudent reserve from fearful clutching, sets a rule for holding
+  outcome: security governed by principle; guarding with a reasoned limit
+  key_terms: audited reserve, principled holding, reasoned limit, prudent guard
+
+dynamic_antagonism:
+  mechanism: The King's rule says release what is not needed; the 4 refuses to open its hands
+  tension_axis: principled allocation versus the refusal to let go
+  king_of_swords_position: Rules that hoarded surplus serves no one and must move
+  four_of_pentacles_position: What is held is safety; no ruling pries the grip loose
+  key_terms: release-by-decree versus refusal, allocation versus clutching, rule meets grip
+
+dynamic_inhibition:
+  mechanism: The King argues; the 4 grips tighter against every rational case for opening
+  blockade_nature: the hoard sealed against reason; logic cannot reach a fear-driven grip
+  swords_state: a magistrate ruling over a vault that will not open; authority without enforcement
+  consequence: stalemate; the verdict to release is ignored and the resources stay frozen
+  key_terms: sealed vault, unenforced verdict, fear beyond reason, frozen resources
+
+dynamic_devolution:
+  mechanism: Judgment fuses with the grip; the King's authority becomes the rationale for hoarding
+  mode: principle conscripted to justify control; law in service of possession
+  loss: the public good the surplus could serve; rule reduced to a guard's excuse
+  key_terms: hoarding rationalized, law as excuse, surplus withheld, control dressed as principle
+
+dynamic_dependency:
+  mechanism: The 4 needs the King's principle to tell prudent reserve from miserly fear; the King needs the 4's instinct for security so his rulings are not recklessly generous
+  function: Swords-King supplies the standard for what to keep and what to release; Pentacles-4 supplies the prudent caution that resists squandering
+  integration_outcome: security held to a principled measure; resources guarded enough and released enough
+  key_terms: measured security, prudent release, principled reserve, caution under rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, 5 of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+numerical_relation: 14 + 5 = 19 (XIX The Sun; judgment confronts destitution)
+elemental_bridge: Air's prescription meets Earth's cold and want; the verdict from the bench meets the snow outside
+threshold_type: The destitute brought before the judge; ruin asked to hear its diagnosis
+
+dynamic_genesis:
+  mechanism: The King's clarity diagnoses the cause of the ruin and names the way out
+  process: The King distinguishes misfortune from mismanagement, sets the steps back to solvency
+  outcome: hardship met with a plan rather than despair; deprivation given an exit
+  key_terms: diagnosed ruin, named exit, plan over despair, steps to solvency
+
+dynamic_antagonism:
+  mechanism: The King prescribes from outside; the destitute live the cold the prescription ignores
+  tension_axis: the verdict from the bench versus the reality on the snow
+  king_of_swords_position: Issues the correct course of action; expects it followed
+  five_of_pentacles_position: Right advice is useless to those too cold to act on it
+  key_terms: correct-but-useless, bench versus snow, prescription meets incapacity
+
+dynamic_inhibition:
+  mechanism: The King keeps issuing judgments where what is needed is material relief
+  blockade_nature: a verdict offered where bread is required; analysis substituted for aid
+  swords_state: a judge ruling on a hunger he will not feed; authority that explains instead of helps
+  consequence: the destitute remain in the cold, now also told whose fault it is
+  key_terms: verdict instead of bread, blame added to cold, help withheld, explanation as evasion
+
+dynamic_devolution:
+  mechanism: Judgment turns the poverty into a verdict of guilt; the King rules the suffering deserved
+  mode: principle hardened into the doctrine that the ruined earned their ruin
+  loss: mercy; the possibility of aid foreclosed by a moralized sentence
+  key_terms: poverty moralized, deserved-ruin doctrine, mercy foreclosed, blame as verdict
+
+dynamic_dependency:
+  mechanism: The destitute need the King's clear plan to climb out; the King needs the 5's reality to keep his judgments answerable to actual suffering
+  function: Swords-King supplies the route out of ruin; Pentacles-5 supplies the human fact that a route is not the same as a rescue
+  integration_outcome: a plan paired with relief; judgment that both directs and assists
+  key_terms: plan plus relief, directed aid, answerable judgment, route made walkable
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, 6 of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+numerical_relation: 14 + 6 = 20 (XX Judgement; the judge sets the terms of fair giving)
+elemental_bridge: Air's measure meets Earth's open hand; the imposed scale meets the donor's discretion
+threshold_type: The act of giving brought before the judge; generosity asked to follow a rule
+
+dynamic_genesis:
+  mechanism: The King's sense of justice fixes the measure of fair exchange
+  process: The King weighs need against surplus, sets who gives, who receives, and how much
+  outcome: generosity governed by justice; distribution with a defensible rule
+  key_terms: measured giving, weighed need, just distribution, defensible rule
+
+dynamic_antagonism:
+  mechanism: The King's fixed scale meets the giver's discretion over the gift
+  tension_axis: the imposed measure versus the donor's own judgment of mercy
+  king_of_swords_position: Rules the exact ratio the exchange must follow
+  six_of_pentacles_position: The scale cannot read the particular case; mercy exceeds measure
+  key_terms: ratio versus discretion, scale versus mercy, rule meets the particular
+
+dynamic_inhibition:
+  mechanism: The King's insistence on exact measure stalls the giving until every claim is adjudicated
+  blockade_nature: generosity frozen pending a perfect accounting that never closes
+  swords_state: an auditor who will not release aid until the ledger balances
+  consequence: the needy wait while the King perfects the scale; the gift never moves
+  key_terms: frozen ledger, perfect accounting, withheld gift, adjudication without end
+
+dynamic_devolution:
+  mechanism: Judgment converts giving into a tool of rank; the King meters generosity to bind recipients
+  mode: justice perverted into patronage; the scale weighted to create dependence
+  loss: the freedom in the gift; charity turned into a chain of obligation
+  key_terms: patronage not charity, weighted scale, manufactured dependence, gift as leash
+
+dynamic_dependency:
+  mechanism: The 6 needs the King's justice so giving is fair rather than arbitrary; the King needs the 6's generosity so his justice has something to distribute
+  function: Swords-King supplies the principle of fair measure; Pentacles-6 supplies the impulse to give that the measure shapes
+  integration_outcome: generosity that is both fair and free; distribution principled without being cold
+  key_terms: fair-and-free giving, principled distribution, just generosity, measure with warmth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, 7 of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+numerical_relation: 14 + 7 = 21 (XXI The World; judgment evaluates the long investment)
+elemental_bridge: Air's demand for a verdict meets Earth's slow ripening; the ruling meets the unfinished crop
+threshold_type: The long investment brought before the judge; patience asked for a verdict before its time
+
+dynamic_genesis:
+  mechanism: The King's evaluation tells the grower whether the crop is worth the wait
+  process: The King reads the yield against the cost, rules on whether to hold or harvest
+  outcome: patience validated by judgment; the wait given a verdict instead of mere hope
+  key_terms: validated patience, hold-or-harvest verdict, yield assessed, reasoned waiting
+
+dynamic_antagonism:
+  mechanism: The King wants a decision; the 7 wants to keep waiting on the process
+  tension_axis: the timely ruling versus the grower's trust in slow ripening
+  king_of_swords_position: Demands a verdict now on whether the investment pays
+  seven_of_pentacles_position: The crop is not ready to be judged; the season is not done
+  key_terms: verdict-now versus not-yet, ruling versus ripening, impatience meets process
+
+dynamic_inhibition:
+  mechanism: The King's premature ruling cuts off an investment that needed more time
+  blockade_nature: judgment applied before the evidence the investment requires exists
+  swords_state: a judge ruling on an unfinished case; verdict ahead of the facts
+  consequence: a sound long bet abandoned because it was judged too early
+  key_terms: premature ruling, unfinished case, abandoned bet, verdict ahead of evidence
+
+dynamic_devolution:
+  mechanism: Judgment recasts patience as procrastination; the King condemns the wait as evasion
+  mode: principle hardened into intolerance of any process it cannot rush
+  loss: the long yield that only patience produces; depth sacrificed to the demand for a verdict
+  key_terms: patience miscalled stalling, rushed process, lost long yield, intolerance of slowness
+
+dynamic_dependency:
+  mechanism: The 7 needs the King's judgment to tell ripening from stalling; the King needs the 7's patience so his rulings respect what takes time
+  function: Swords-King supplies the decisive read on whether to continue; Pentacles-7 supplies the discipline to let value mature before judging it
+  integration_outcome: a long investment judged at the right moment; patience that knows when the verdict is finally due
+  key_terms: timely verdict, matured judgment, ripening respected, decisive patience
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, 8 of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Mastery, skill-development, apprenticeship, dedication, refined craft
+numerical_relation: 14 + 8 = 22 -> 2+2 = 4 (IV The Emperor; authority over disciplined practice)
+elemental_bridge: Air's standard meets Earth's patient repetition; the master's verdict meets the apprentice at the bench
+threshold_type: The practice brought before the master; skill-in-formation asked to meet a finished standard
+
+dynamic_genesis:
+  mechanism: The King's standard gives the apprentice a target worth the repetition
+  process: The King defines mastery, judges each iteration, names what to correct
+  outcome: practice with a clear standard; skill refined toward a defined excellence
+  key_terms: defined mastery, judged iterations, targeted correction, standard-driven practice
+
+dynamic_antagonism:
+  mechanism: The King judges by the finished standard; the apprentice is still mid-formation
+  tension_axis: the verdict of the master versus the patience formation requires
+  king_of_swords_position: Holds the work to the full standard at once
+  eight_of_pentacles_position: Skill forms by degrees; judged whole too soon, it breaks
+  key_terms: full-standard-now versus by-degrees, verdict versus formation, judged too soon
+
+dynamic_inhibition:
+  mechanism: The King's constant judgment interrupts the immersion practice needs
+  blockade_nature: the flow state that deepens skill broken by perpetual evaluation
+  swords_state: an examiner who cannot stop grading long enough for learning to occur
+  consequence: the apprentice never sinks deep enough to improve; assessment crowds out practice
+  key_terms: broken immersion, perpetual grading, shallow practice, assessment over learning
+
+dynamic_devolution:
+  mechanism: Judgment replaces the apprentice's forming self-assessment with permanent external verdict
+  mode: authority made indispensable; the maker taught to need the master's ruling for every move
+  loss: the self-correction that is itself part of mastery; independence foreclosed
+  key_terms: dependence engineered, self-correction lost, indispensable master, independence foreclosed
+
+dynamic_dependency:
+  mechanism: The apprentice needs the King's standard to aim at; the King needs the apprentice's practice to make the standard real in a person
+  function: Swords-King supplies the criterion of excellence; Pentacles-8 supplies the disciplined repetition that meets it and the self-judgment that should outgrow the master
+  integration_outcome: skill that meets a clear standard and learns to judge itself; mastery that no longer needs the examiner
+  key_terms: standard internalized, self-judging skill, examiner outgrown, disciplined excellence
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, 9 of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+numerical_relation: 14 + 9 = 23 -> 2+3 = 5 (V The Pope; judgment before earned self-sufficiency)
+elemental_bridge: Air's habit of assessment meets Earth's completed abundance; the verdict meets a thing that needs none
+threshold_type: The self-sufficient estate brought before the judge; completeness asked to submit to review
+
+dynamic_genesis:
+  mechanism: The King's judgment confirms that the abundance was genuinely earned
+  process: The King traces the prosperity to its discipline, ratifies the independence as legitimate
+  outcome: self-sufficiency confirmed by principle; earned abundance dignified by a clear verdict
+  key_terms: earned-abundance confirmed, ratified independence, legitimate prosperity, dignified verdict
+
+dynamic_antagonism:
+  mechanism: The King wants to assess; the 9 needs no assessment of a completed thing
+  tension_axis: the habit of judgment versus a sufficiency that asks for none
+  king_of_swords_position: Moves to evaluate the estate and its terms
+  nine_of_pentacles_position: The garden is complete on its own terms; it requests no ruling
+  key_terms: evaluation versus completeness, judgment unasked, self-sufficiency before the bench
+
+dynamic_inhibition:
+  mechanism: The King applies scrutiny where nothing requires it; the encounter freezes into needless audit
+  blockade_nature: a finished independence held up for a review it does not need
+  swords_state: a judge convened over a case that is already closed
+  consequence: the self-sufficient is detained by an audit that produces nothing
+  key_terms: needless audit, closed case reopened, detention without cause, review of the complete
+
+dynamic_devolution:
+  mechanism: Judgment, threatened by an independence it did not grant, rules it suspect
+  mode: authority's envy disguised as scrutiny; self-sufficiency treated as something to be explained away
+  loss: the dignity of the earned; independence put on trial by a power that resents it
+  key_terms: independence on trial, envy as scrutiny, dignity attacked, resentment disguised
+
+dynamic_dependency:
+  mechanism: The 9 gains from the King's clear confirmation; the King gains a real instance of what principled discipline produces
+  function: Swords-King supplies the verdict that an independence is legitimately earned; Pentacles-9 supplies the proof that discipline yields self-sufficiency
+  integration_outcome: earned abundance recognized by judgment rather than examined by it; sufficiency honored
+  key_terms: recognized sufficiency, honored independence, confirming verdict, discipline proven
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, 10 of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+numerical_relation: 14 + 10 = 24 -> 2+4 = 6 (VI The Lover(s); judgment governs the inheritance)
+elemental_bridge: Air's law of succession meets Earth's living dynasty; the statute meets the family bond
+threshold_type: The inheritance brought before the judge; a living legacy asked to pass by rule
+
+dynamic_genesis:
+  mechanism: The King's law structures the succession; principle decides how the legacy passes
+  process: The King codifies the inheritance, names heirs and duties, secures continuity by rule
+  outcome: a legacy governed by clear law; generational wealth with an ordered succession
+  key_terms: codified succession, ordered inheritance, ruled continuity, legacy by law
+
+dynamic_antagonism:
+  mechanism: The King's law meets the family's living bonds, which law cannot fully capture
+  tension_axis: the legal verdict versus the kin-tie that exceeds it
+  king_of_swords_position: Rules the inheritance by principle and precedent
+  ten_of_pentacles_position: A family is not a statute; the bonds resist the ledger
+  key_terms: statute versus kinship, precedent versus bond, ledger meets blood
+
+dynamic_inhibition:
+  mechanism: The King's legalism freezes the estate in disputes no ruling resolves
+  blockade_nature: the living legacy locked in litigation over its terms
+  swords_state: a magistrate adjudicating a family into paralysis
+  consequence: the inheritance stalls; continuity halts in the contest over how it should pass
+  key_terms: estate in litigation, paralyzed legacy, halted continuity, family adjudicated
+
+dynamic_devolution:
+  mechanism: Judgment claims the legacy as the ruler's to assign; the King governs the inheritance to bind the heirs
+  mode: law turned into dynastic control; succession used as leverage
+  loss: the family's self-determination; legacy converted from gift to instrument of rule
+  key_terms: dynastic control, succession as leverage, bound heirs, gift made instrument
+
+dynamic_dependency:
+  mechanism: The 10 needs the King's law so the legacy passes without chaos; the King needs the 10's living continuity so his law serves something that endures
+  function: Swords-King supplies the ordered succession; Pentacles-10 supplies the enduring family the order exists to protect
+  integration_outcome: a legacy that passes both lawfully and lovingly; continuity secured without being seized
+  key_terms: lawful succession, protected continuity, order serving the family, secured legacy
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, Page of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+numerical_relation: 14 + 11 = 25 -> 2+5 = 7 (VII The Chariot; authority directs the eager student)
+elemental_bridge: Air's curriculum meets Earth's eager beginner; the imposed syllabus meets the learner's appetite
+threshold_type: The student brought before the master; raw curiosity asked to follow a discipline
+
+dynamic_genesis:
+  mechanism: The King's judgment gives the student's curiosity a direction and a standard
+  process: The King names what is worth learning, orders the steps, judges the progress
+  outcome: practical learning aimed by principle; curiosity disciplined into study
+  key_terms: directed curiosity, ordered study, judged progress, disciplined learning
+
+dynamic_antagonism:
+  mechanism: The King prescribes the curriculum; the Page wants to follow its own interest
+  tension_axis: the imposed syllabus versus the learner's appetite
+  king_of_swords_position: Decrees what shall be studied and in what order
+  page_of_pentacles_position: Curiosity dies on a syllabus it did not choose
+  key_terms: syllabus versus appetite, decree versus interest, imposed order
+
+dynamic_inhibition:
+  mechanism: The King's demand for rigor too early kills the student's nerve
+  blockade_nature: exploratory curiosity barred by a standard meant for the finished
+  swords_state: a magistrate grading a beginner as though they were a master
+  consequence: the Page stops exploring rather than be judged against an impossible bar
+  key_terms: nerve killed, premature rigor, beginner over-judged, exploration halted
+
+dynamic_devolution:
+  mechanism: Judgment recasts the student's questions as ignorance to be corrected, not curiosity to be fed
+  mode: authority belittling inquiry; the learner taught that asking is a fault
+  loss: the appetite for learning; curiosity shamed into silence
+  key_terms: questions belittled, curiosity shamed, inquiry as fault, appetite lost
+
+dynamic_dependency:
+  mechanism: The Page needs the King's direction so curiosity becomes competence; the King needs the Page's appetite so his standards are met by someone who wants to learn
+  function: Swords-King supplies the order and the criterion; Pentacles-Page supplies the living curiosity that powers the climb
+  integration_outcome: curiosity guided into real skill; a standard met by a willing learner
+  key_terms: guided curiosity, willing learner, appetite plus order, competence grown
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, Knight of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+numerical_relation: 14 + 12 = 26 -> 2+6 = 8 (VIII Justice; judgment aims the steady laborer)
+elemental_bridge: Air's changing verdict meets Earth's fixed method; the new ruling meets the long, committed course
+threshold_type: The steady worker brought before the judge; diligence asked to follow a shifting decree
+
+dynamic_genesis:
+  mechanism: The King's judgment gives the steady worker the right objective
+  process: The King sets the goal, the Knight supplies the reliable method; judgment aims the diligence
+  outcome: methodical effort pointed at the correct end; diligence with direction
+  key_terms: aimed diligence, correct objective, reliable method, directed steadiness
+
+dynamic_antagonism:
+  mechanism: The King changes the ruling; the Knight has already committed to the long method
+  tension_axis: the revised verdict versus the plodder's fixed course
+  king_of_swords_position: Issues a new judgment as conditions change
+  knight_of_pentacles_position: The method is underway; reversals waste the work done
+  key_terms: revision versus commitment, new verdict meets fixed course, wasted plod
+
+dynamic_inhibition:
+  mechanism: The King's repeated re-rulings strand the worker between abandoned methods
+  blockade_nature: steady progress impossible because the goalposts keep being adjudicated
+  swords_state: a judge whose changing verdicts paralyze the very diligence he commands
+  consequence: the Knight stalls, unable to commit to a method that keeps being overruled
+  key_terms: shifting goalposts, stranded diligence, overruled method, stalled labor
+
+dynamic_devolution:
+  mechanism: Judgment exploits the Knight's reliability, ruling ever more labor onto the willing
+  mode: authority loading the dutiful because they will not refuse
+  loss: the worker's limit; steady service drained into servitude by decree
+  key_terms: reliability exploited, the willing overloaded, service into servitude, no refusal
+
+dynamic_dependency:
+  mechanism: The Knight needs the King's judgment to point the diligence rightly; the King needs the Knight's steadiness to make any ruling real over time
+  function: Swords-King supplies the correct end and the decision to stay the course; Pentacles-Knight supplies the method and endurance to reach it
+  integration_outcome: a right objective pursued by reliable method; judgment carried through by diligence
+  key_terms: right end reliably reached, decision plus endurance, carried-through verdict, aimed steadiness
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, Queen of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+numerical_relation: 14 + 13 = 27 -> 2+7 = 9 (IX The Hermit; judgment meets nurturing authority)
+elemental_bridge: Air's general law meets Earth's particular care; the uniform verdict meets the tended need
+threshold_type: Two sovereigns at one table; the rule of principle meets the rule of nourishment
+
+dynamic_genesis:
+  mechanism: The King's principle and the Queen's care combine: rule sets the frame, nurture fills it
+  process: The King decides the structure of provision; the Queen administers it with practical warmth
+  outcome: governance that is both principled and caring; authority that rules and nourishes
+  key_terms: principle plus care, structured provision, warm administration, governance complete
+
+dynamic_antagonism:
+  mechanism: The King rules by the general law; the Queen tends the particular need
+  tension_axis: the abstract verdict versus the concrete care
+  king_of_swords_position: Applies the principle uniformly, regardless of the case
+  queen_of_pentacles_position: This person needs what the rule does not allow for
+  key_terms: uniform law versus particular need, abstraction meets the concrete, rule over care
+
+dynamic_inhibition:
+  mechanism: The King's rule forbids the exception the Queen's care requires
+  blockade_nature: practical nurture blocked by a principle that admits no particular
+  swords_state: a lawgiver whose consistency starves the very people it governs
+  consequence: care withheld by rule; the household runs correct and cold
+  key_terms: forbidden exception, starving consistency, correct and cold, care blocked
+
+dynamic_devolution:
+  mechanism: Judgment dismisses the Queen's care as soft indulgence beneath principle
+  mode: authority disdaining nurture; warmth ruled a weakness
+  loss: the human dimension of governance; rule stripped of the care that makes it bearable
+  key_terms: care disdained, warmth ruled weak, governance dehumanized, indulgence charge
+
+dynamic_dependency:
+  mechanism: The King needs the Queen's care so his rule serves people, not just order; the Queen needs the King's principle so her care is fair, not favoritism
+  function: Swords-King supplies the impartial frame; Pentacles-Queen supplies the nourishing administration and the eye for the particular
+  integration_outcome: authority that is just in principle and kind in practice; the complete sovereign pair
+  key_terms: just-and-kind, impartial care, principled nurture, complete governance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP
+
+---
+
+card_pair: King of Swords, King of Pentacles
+archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+numerical_relation: 14 + 14 = 28 -> 2+8 = 10 (X The Wheel of Fortune; intellectual law meets material dominion)
+elemental_bridge: Air's principle meets Earth's wealth; the authority of the idea meets the authority of property
+threshold_type: Two kings, two thrones; law and treasury asked which governs the realm
+
+dynamic_genesis:
+  mechanism: The Swords King's law and the Pentacles King's wealth align: principle directs the empire's resources
+  process: Swords sets the policy; Pentacles commands the means; the two rule one domain from two thrones
+  outcome: a realm governed by sound law and backed by real wealth; principle with the power to enact it
+  key_terms: law plus means, enacted principle, twin-throned rule, policy with resources
+
+dynamic_antagonism:
+  mechanism: The Swords King rules by idea; the Pentacles King rules by holdings; each claims primacy
+  tension_axis: the authority of principle versus the authority of property
+  king_of_swords_position: Law must govern wealth, or wealth corrupts
+  king_of_pentacles_position: Wealth sustains the realm; principle without means is a lecture
+  key_terms: principle versus property, idea versus holdings, who governs whom
+
+dynamic_inhibition:
+  mechanism: Each king vetoes the other; policy without funding, funding without policy
+  blockade_nature: governance deadlocked between law that cannot pay and wealth that will not be ruled
+  swords_state: a lawgiver issuing decrees no treasury will fund
+  consequence: the realm stalls; principle and wealth cancel each other
+  key_terms: deadlocked thrones, unfunded decree, ungoverned wealth, canceled rule
+
+dynamic_devolution:
+  mechanism: Judgment bends to wealth or wealth buys judgment; law becomes the servant of holdings
+  mode: principle for sale; authority converted into the instrument of the richest
+  loss: the independence of law; justice priced and purchased
+  key_terms: law for sale, bought justice, principle as instrument, independence lost
+
+dynamic_dependency:
+  mechanism: The Swords King needs the Pentacles King's means to enact principle; the Pentacles King needs the Swords King's law to keep wealth legitimate
+  function: Swords-King supplies the governing principle; Pentacles-King supplies the material power that makes principle effective
+  integration_outcome: a realm where law commands and wealth enables; legitimate, funded, principled rule
+  key_terms: funded principle, legitimate wealth, law that can act, complete sovereignty
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 14-1 through 14-14
+  uid: KOSP

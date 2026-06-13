@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: The traveler possesses the gift but cannot use it; the blessing travels but does not manifest in material form; the journey is shadowed by the consciousness of what cannot be built
   swords_state: The traveler in the boat carrying the golden seed, unable to plant it because movement is constant
   consequence: the opportunity is held but cannot be planted
-  key_terms: traveler possesses the gift, traveler in the boat carrying, opportunity is held but cannot, traveler moves but carries
+  key_terms: gift that cannot be planted, opportunity carried not rooted, constant movement, blessing in transit
 
 dynamic_devolution:
   mechanism: The gift gradually decays during the journey; the Ace's potential spoils from the constant movement; the opportunity is lost to the necessity of departure
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: A crossing that is extremely slow and precarious; the 2 of Pentacles' juggling becomes the traveler's burden; the journey is nearly impossible because the balance cannot be abandoned
   swords_state: The traveler moving across the water extremely slowly, juggling the two pentacles while rowing, unable to move at speed because balance must be maintained
   consequence: the journey is impeded by the need to preserve equilibrium
-  key_terms: crossing that is extremely slow, traveler moving across the water, journey is impeded, traveler moves but slowly
+  key_terms: balance-burdened crossing, equilibrium that cannot be abandoned, oars slowed by juggling, precarious passage
 
 dynamic_devolution:
   mechanism: The balance gradually falls apart; the journey is too demanding; the precarious equilibrium becomes impossible to maintain; the traveler is gradually forced to abandon one or both pentacles
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: A departure that is not truly a departure; the traveler carries the team's unfinished work; the journey is shadowed by guilt and obligation
   swords_state: The traveler in the boat but ropes still tying them to the shore where the team stands
   consequence: the traveler remains tethered to the collaborative work even as they journey
-  key_terms: departure that is not truly, traveler in the boat, traveler remains tethered, traveler is held
+  key_terms: departure that never departs, ropes still tied to shore, obligation to unfinished work, journey shadowed by guilt
 
 dynamic_devolution:
   mechanism: The guilt gradually poisons both the journey and the work left behind; the team gradually fragments without the traveler; the 3 of Pentacles collapses
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: A state of paralysis where the traveler knows they must leave but cannot release what they hold; the clutching becomes more intense with each moment of awareness
   swords_state: The traveler at the shore, clutching to what has been hoarded, unable to step into the boat
   consequence: the traveler becomes increasingly desperate
-  key_terms: state of paralysis, traveler at the shore, traveler becomes increasingly desperate, traveler is held in place
+  key_terms: paralysis at the shore, clutching what cannot be released, mounting desperation, hoard that prevents boarding
 
 dynamic_devolution:
   mechanism: The grasping gradually becomes destructive; the more the 4 of Pentacles clutches, the more the traveler is trapped; the fear metastasizes into rage at the inability to depart
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: A departure that is incomplete; the traveler moves but carries the weight of those left behind; the guilt is as heavy as the struggle was
   swords_state: The traveler in the boat but looking back at the struggling one on the shore, the oars moving slowly because of the weight of guilt
   consequence: the journey is shadowed by the knowledge of those left in hardship
-  key_terms: departure that is incomplete, traveler in the boat, journey is shadowed, traveler is held back
+  key_terms: incomplete departure, weight of those left behind, oars slowed by guilt, the backward look at hardship
 
 dynamic_devolution:
   mechanism: The traveler eventually returns to the hardship they tried to escape; the departure becomes a failure; the 5 of Pentacles' struggle becomes even deeper because hope was briefly offered and then withdrawn
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The traveler remains bound by gratitude; the crossing is prevented by the sense that departure would be ingratitude; the sharing becomes a form of control
   swords_state: The traveler held in place by the generosity, unable to depart without rejecting the gift
   consequence: the generosity prevents the journey
-  key_terms: traveler remains bound by gratitude, traveler held in place, generosity prevents the journey, traveler hesitates to leave because
+  key_terms: bound by gratitude, generosity as binding, departure read as ingratitude, gift that imprisons
 
 dynamic_devolution:
   mechanism: The generosity gradually becomes resentment; the 6 of Pentacles gives with the expectation that the traveler will remain; the sharing becomes conditional
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: A departure that is extremely slow; the traveler cannot leave while the work remains unfinished; the journey may take longer than the work itself
   swords_state: The traveler in the boat but still tending the field, unable to fully leave because the work is incomplete
   consequence: the crossing is impeded by the weight of responsibility
-  key_terms: departure that is extremely slow, traveler in the boat, crossing is impeded, traveler is held
+  key_terms: crossing impeded by unfinished work, journey longer than the labor, obligation to see it through, field tended from the boat
 
 dynamic_devolution:
   mechanism: The work gradually fails without the traveler's attention; the 7 of Pentacles' patient investment gradually dies; the harvest never comes
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: A skill learned but not fully expressed; the 8 of Pentacles is completed technically but the traveler carries the sense that the journey was prevented
   swords_state: The apprentice at the workbench, mastering the craft but looking toward the horizon, unable to fully focus
   consequence: the mastery is achieved but feels like a prison
-  key_terms: skill learned but not fully, apprentice at the workbench, mastery is achieved but feels, traveler remains at the apprenticeship
+  key_terms: mastery that feels like prison, craft learned not freely practiced, restless apprentice, eyes on the horizon
 
 dynamic_devolution:
   mechanism: The skill gradually atrophies because it is not used; the 8 of Pentacles' mastery becomes theoretical; the craft dies without expression
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: A life of quiet desperation; the traveler remains outwardly prosperous but is internally consumed with the need to journey; the abundance becomes a cage
   swords_state: The traveler in the perfect garden, surrounded by plenty, looking toward the horizon, unable to leave what is perfect
   consequence: the security feels like imprisonment
-  key_terms: life of quiet desperation, traveler in the perfect garden, security feels like imprisonment, traveler remains in the 9
+  key_terms: abundance as cage, quiet desperation, security mistaken for imprisonment, prosperity that grows heavier
 
 dynamic_devolution:
   mechanism: The prosperity gradually becomes destructive; the comfort metastasizes into complacency; the 9 of Pentacles' solitary abundance becomes increasingly lonely; the traveler is destroyed by the refusal to leave
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: An inheritance that is technically received but spiritually rejected; the legacy continues but is poisoned by the heir's resentment
   swords_state: The heir at the family table, physically present but emotionally absent, bound by obligation to a heritage they did not choose
   consequence: the heir's restlessness haunts the inheritance
-  key_terms: inheritance that is technically received, heir at the family table, heir's restlessness haunts the inheritance, heir remains with the family
+  key_terms: inheritance spiritually rejected, heir present but departed, legacy poisoned by resentment, restlessness haunting the table
 
 dynamic_devolution:
   mechanism: The heir's internal departure becomes external; the legacy is abandoned; the family is shattered by the actual departure; the 10 of Pentacles crumbles
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: The traveler remains longer than the heart desires, teaching but with the resentment of one whose journey is being delayed
   swords_state: The traveler teaching the Page but constantly looking toward the horizon, the presence divided between student and journey
   consequence: the journey is impeded by responsibility
-  key_terms: traveler remains longer, traveler teaching the page, journey is impeded by responsibility, traveler hesitates to leave because
+  key_terms: journey delayed by teaching, presence divided between student and horizon, resentful mentorship, departure deferred
 
 dynamic_devolution:
   mechanism: The traveler finally leaves and the Page is left without guidance; the apprenticeship is abandoned; the Page gradually loses the motivation to learn
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is painfully slow for the traveler and guiltily fast for the Knight; both are uncomfortable; neither is truly themselves
   swords_state: The traveler and the Knight traveling together but the traveler constantly looking ahead while the Knight constantly looks back with concern
   consequence: the speed that could be traveled is constrained
-  key_terms: journey that is painfully slow, traveler and the knight traveling, speed that could be traveled, traveler waits for the knight
+  key_terms: pace neither can match, painfully slow crossing, traveler ahead Knight behind, constrained speed
 
 dynamic_devolution:
   mechanism: The traveler eventually leaves the Knight behind; the Knight is abandoned; both become increasingly resentful; the journey becomes a statement about their incompatibility
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: A life of comfort that is increasingly experienced as captivity; the traveler remains surrounded by abundance but is starved for freedom
   swords_state: The traveler at the Queen's table, surrounded by plenty and care, looking toward the horizon but unable to leave without wounding the one who cares
   consequence: the crossing is prevented by the weight of gratitude and obligation
-  key_terms: life of comfort, traveler at the queen's table, crossing is prevented, traveler remains but increasingly resentfully
+  key_terms: comfort as captivity, care received as prison, starved for freedom amid plenty, gratitude that binds
 
 dynamic_devolution:
   mechanism: The traveler finally leaves and the Queen is devastated; the care that was given becomes a source of pain; the nurtured one is revealed as ungrateful
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: A kingdom that is technically intact but is missing the genuine presence of the traveler; the King's rule is preserved but at the cost of genuine loyalty
   swords_state: The traveler serving the King but always looking toward the horizon, their presence divided between duty and desire
   consequence: the traveler serves the King but with resentment and internal absence
-  key_terms: kingdom that is technically intact, traveler serving the king, traveler serves the king, traveler remains bound
+  key_terms: kingdom missing its traveler, service without genuine presence, loyalty hollowed by resentment, duty against desire
 
 dynamic_devolution:
   mechanism: The traveler openly rebels; the departure becomes a breaking of the kingdom's bonds; the King's authority is challenged and defeated

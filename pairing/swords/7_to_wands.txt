@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: Inspiration that is held but cannot be manifested; the fire burns but produces nothing
   swords_state: The thief holding the spark but unable to ignite genuine creation
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: inspiration that is held, thief holding the spark, neither figure can move toward, thief possesses the stolen spark
+  key_terms: stolen spark that won't ignite, inspiration held not manifested, fire producing nothing, the meeting that stalls
 
 dynamic_devolution:
   mechanism: The stolen inspiration gradually loses its power; the fire dies in hands that did not earn it
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: Strategy that is technically viable but is no longer secret; the advantage is gone
   swords_state: The planner executing a strategy that is known to competitors
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: strategy that is technically viable, planner executing a strategy, neither figure can move toward, plan continues but is shadowed
+  key_terms: strategy no longer secret, advantage lost to theft, plan known to rivals, exposure
 
 dynamic_devolution:
   mechanism: The plan gradually fails because it is known; the vision is corrupted by the theft
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: Growth that is technically proceeding but is shadowed by awareness of potential theft
   swords_state: The empire expanding but checking every trader, the routes defended
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: growth that is technically proceeding, empire expanding but checking every, neither figure can move toward, expansion continues but with greater
+  key_terms: growth under suspicion, expansion checking every trader, defended routes, caution-slowed proceeding
 
 dynamic_devolution:
   mechanism: The empire gradually becomes isolated due to suspicion of infiltrators
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: A gathering where the thief is present but is ostracized; the celebration is compromised
   swords_state: The thief at the celebration but isolated; the community celebrating around them but avoiding them
   consequence: the celebration is technically continuing but is poisoned
-  key_terms: gathering where the thief, thief at the celebration, celebration is technically continuing, thief remains but is known
+  key_terms: thief present but ostracized, poisoned celebration, gathering that avoids its guest, compromised festivity
 
 dynamic_devolution:
   mechanism: The community gradually dissolves due to the breach of trust
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: A standoff where the competitors focus on the thief but cannot capture them
   swords_state: The thief surrounded by the five wands, unable to escape or continue stealing
   consequence: unable to escape or continue theft
-  key_terms: standoff where the competitors focus, thief surrounded by the five, unable to escape or continue, thief is trapped
+  key_terms: thief trapped by the conflict, surrounded yet uncaptured, neither escape nor theft, the standoff
 
 dynamic_devolution:
   mechanism: The internal conflict and the chase for the thief merge into complete chaos
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic where the thief receives acclaim that is known to be false
   swords_state: The thief receiving applause while the true victor stands unrecognized
   consequence: the true victor is overshadowed
-  key_terms: dynamic where the thief receives, thief receiving applause, true victor is overshadowed, false acclaim is known
+  key_terms: false acclaim enjoyed, true victor overshadowed, undeserved applause, recognition stolen
 
 dynamic_devolution:
   mechanism: The false acclaim gradually destroys the thief; the true victor is completely overshadowed
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: A cold war of cunning where both survive but neither advances
   swords_state: The thief attempting theft; the defender thwarting attempts; the cycle continuing
   consequence: neither can fully win
-  key_terms: cold war of cunning, thief attempting theft, neither can fully win, thief and defender are locked
+  key_terms: cold war of cunning, both survive neither advances, endless thrust and parry, locked strategy
 
 dynamic_devolution:
   mechanism: The constant strategic engagement gradually exhausts both
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: A pursuit that never ends; the thief always trailing the swift messenger
   swords_state: The thief pursuing; the swift one flying ahead; the gap never closing or widening
   consequence: neither can overcome the other
-  key_terms: pursuit that never ends, thief pursuing, neither can overcome the other, chase continues indefinitely
+  key_terms: pursuit that never ends, the gap that never closes, chase without resolution, neither overtaking
 
 dynamic_devolution:
   mechanism: The chase becomes obsessive; both are destroyed by the endless pursuit
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The exhaustion becomes total; the defender cannot recover from the theft at this moment
   swords_state: The defender standing but broken; the thief taking the last reserves
   consequence: the theft is complete but incomplete
-  key_terms: exhaustion becomes total, defender standing but broken, theft is complete but incomplete, defender remains but the final
+  key_terms: final stand broken, total exhaustion, last reserves taken, theft complete yet incomplete
 
 dynamic_devolution:
   mechanism: The defender collapses completely; the final stand becomes a complete failure
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: A burden that appears lighter but is morally heavier; the theft adds shame to the weight
   swords_state: The burdened one carrying weight that is lighter physically but heavier spiritually
   consequence: the weight feels even heavier
-  key_terms: burden that appears lighter, burdened one carrying weight, weight feels even heavier, burden continues
+  key_terms: burden lighter but heavier, shame added to weight, stolen load, moral weight
 
 dynamic_devolution:
   mechanism: The stolen burden gradually destroys the one who carried it
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: An enthusiasm that is guarded; the young one's fire is present but is cautious
   swords_state: The Page maintaining spark but watching for thieves
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: enthusiasm that is guarded, page maintaining spark but watching, neither figure can move toward, page remains enthusiastic despite
+  key_terms: guarded enthusiasm, fire kept cautious, watching for thieves, the meeting that stalls
 
 dynamic_devolution:
   mechanism: The Page's enthusiasm is completely destroyed by repeated thefts
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: An adventure that is hollow; the knight moves but is empty inside
   swords_state: The knight journeying on the false path, knowing it is false but unable to turn back
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: adventure that is hollow, knight journeying on the false, neither figure can move toward, knight continues on the false
+  key_terms: hollow adventure, the false path knowingly taken, empty motion, unable to turn back
 
 dynamic_devolution:
   mechanism: The false adventure gradually destroys the knight's capacity for genuine adventure
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: A false authority that is technically in place but is not believed
   swords_state: The thief claiming the Queen's throne but followers remaining loyal to the true Queen
   consequence: the followers gradually recognize the fraud
-  key_terms: false authority that is technically, thief claiming the queen's throne, followers gradually recognize the fraud, thief's claimed magnetism is false
+  key_terms: false authority disbelieved, fraud gradually recognized, claimed throne empty, loyalty to the true Queen
 
 dynamic_devolution:
   mechanism: The false authority gradually crumbles; the followers see through the deception
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: The King rules but must remain vigilant; the thief remains at court but is watched
   swords_state: The King on the throne but aware of the threat; the thief present but powerless
   consequence: a cold war develops
-  key_terms: king rules but must remain, king on the throne, cold war develops, thief is discovered
+  key_terms: thief discovered yet remaining, cold war at court, powerless presence, rule under vigilance
 
 dynamic_devolution:
   mechanism: The cold war gradually poisons the kingdom

@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: The traveler arrives with the spark alive but unmanifested; the journey is complete but the creation is not
   swords_state: The traveler in the boat with the fire burning internally but unable to create while journeying
   consequence: the creative fire is present but not expressed
-  key_terms: traveler arrives with the spark, traveler in the boat, creative fire is present, traveler carries the ace
+  key_terms: spark carried not expressed, fire burning internally, creation deferred to arrival, inspiration in transit
 
 dynamic_devolution:
   mechanism: The creative fire gradually dies as the traveler refuses to create during the journey; the Ace's potential is lost
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: The crossing is uncertain because the vision was not fully realized before departure; the journey is complicated by the lack of complete strategic preparation
   swords_state: The traveler journeying with plans that are still being formulated, the vision incomplete
   consequence: the journey is shadowed by the awareness of what planning remains undone
-  key_terms: crossing is uncertain because, traveler journeying with plans, journey is shadowed, traveler departs but with incomplete
+  key_terms: departure before planning done, crossing on incomplete strategy, vision still forming, journey shadowed by what's undone
 
 dynamic_devolution:
   mechanism: The incomplete planning gradually destroys the journey; obstacles arise because they were not anticipated; the crossing becomes increasingly difficult
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: A crossing that is instrumental rather than authentic; the traveler is part of the expansion but is not free
   swords_state: The traveler in the boat following the empire's routes, compelled to serve the network
   consequence: the crossing is made but as service to the empire rather than personal journey
-  key_terms: crossing that is instrumental rather, traveler in the boat following, crossing is made, traveler remains within the 3
+  key_terms: crossing as service not journey, instrumental passage, bound to the empire's routes, expansion without freedom
 
 dynamic_devolution:
   mechanism: The traveler breaks from the network and the empire's expansion is threatened; the 3 of Wands' horizons begin to collapse
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: A celebration that is bittersweet; the community feels the traveler's internal absence; the stability is shadowed by impending departure
   swords_state: The traveler at the celebration but looking toward the horizon, unable to fully participate
   consequence: the joy is present but cannot be fully experienced knowing departure awaits
-  key_terms: celebration that is bittersweet, traveler at the celebration, joy is present but cannot, traveler remains at the celebration
+  key_terms: bittersweet celebration, joy under the shadow of departure, community feeling the absence, stability already leaving
 
 dynamic_devolution:
   mechanism: The traveler's continued presence becomes increasingly tense; finally departing in a way that shatters the celebration; the 4 of Wands' stability is broken
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is not truly peaceful because the conflict remains internal; the escape is incomplete
   swords_state: The traveler journeying but the voices of conflict following, unable to leave the struggle fully behind
   consequence: the 5 of Wands' struggle echoes in the traveler's heart during the crossing
-  key_terms: journey that is not truly, traveler journeying but the voices, 5 of wands' struggle echoes, traveler departs but the conflict
+  key_terms: conflict that travels along, struggle echoing in the heart, escape that is incomplete, no true peace
 
 dynamic_devolution:
   mechanism: The conflict gradually destroys the journey; the traveler becomes consumed by the voices; the crossing is poisoned by internal struggle
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: A victory that is present but not fully savored because the traveler's attention is elsewhere
   swords_state: The traveler receiving acclaim but looking toward the horizon, the victory incomplete
   consequence: the victory is recognized but the recognition feels insufficient
-  key_terms: victory that is present, traveler receiving acclaim but looking, victory is recognized, traveler remains for the acclimation
+  key_terms: victory not savored, acclaim that feels insufficient, attention elsewhere, recognition incomplete
 
 dynamic_devolution:
   mechanism: The traveler finally departs and the acclimation is understood as hollow; the victory is revealed as insufficient for lasting satisfaction
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: A defense that is technically stronger but spiritually weakened by the traveler's resentment; the crossing is prevented but the traveler suffers
   swords_state: The traveler standing with the defender but looking toward the boat, the defense incomplete
   consequence: the defense is partially supported but the traveler is incomplete
-  key_terms: defense that is technically stronger, traveler standing with the defender, defense is partially supported, traveler remains to help defend
+  key_terms: defense weakened by resentment, staying against the will to go, stronger yet spiritually drained, the divided defender
 
 dynamic_devolution:
   mechanism: The traveler finally leaves and the defense collapses; the 7 of Wands is overwhelmed; the ground is lost; the departure is experienced as catastrophic betrayal
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is partially rapid; the 8 of Wands' speed is present but not fully expressed; the crossing is faster than normal but not as fast as desired
   swords_state: The swift messages trying to match the boat's pace, frustrated by the constraint
   consequence: both are partially present
-  key_terms: journey that is partially rapid, swift messages trying to match, both are partially present, 8 of wands slows
+  key_terms: speed constrained to the boat's pace, frustrated swiftness, both only partially present, momentum reined in
 
 dynamic_devolution:
   mechanism: The 8 of Wands abandons the boat and speeds ahead; the crossing is left behind; the rapid movement is separated from the crossing
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is partial recovery; the 9 of Wands' exhaustion is somewhat relieved by the crossing but not fully resolved
   swords_state: The weary traveler in the boat, slowly recovering but not yet restored
   consequence: the rest is incomplete
-  key_terms: journey that is partial recovery, weary traveler in the boat, rest is incomplete, exhausted one begins the journey
+  key_terms: partial recovery, rest interrupted by movement, exhaustion only half-relieved, the weary still unrestored
 
 dynamic_devolution:
   mechanism: The exhaustion is so complete that even the crossing cannot restore; the 9 of Wands is destroyed by the refusal to rest; the journey is made impossible
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is not truly free because the burden travels with the traveler; the crossing is made but the traveler is not liberated
   swords_state: The traveler in the boat still weighted down by the burden, unable to move at speed
   consequence: the crossing is impossibly slow
-  key_terms: journey that is not truly, traveler in the boat, crossing is impossibly slow, burdened one attempts to journey
+  key_terms: burden that travels along, boat weighed down, crossing without liberation, impossibly slow passage
 
 dynamic_devolution:
   mechanism: The burden is so heavy that the crossing is abandoned; the burdened one returns to the place of duty; the journey is never made
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: An awakening that is partial; the Page's enthusiasm is present but is shadowed by the traveler's need to depart
   swords_state: The traveler and the Page together but the traveler's attention divided, the fire burning dimly
   consequence: the young one's fire is present but cannot fully express because something is withheld
-  key_terms: awakening that is partial, traveler and the page together, young one's fire is present, traveler remains for the page's
+  key_terms: fire burning dimly, awakening left partial, enthusiasm shadowed by departure, attention divided
 
 dynamic_devolution:
   mechanism: The traveler departs and the Page's fire is extinguished; the young one's enthusiasm becomes bitterness; what should have been awakening becomes hardening
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is shared but internally divided; both adventurers are diminished by the partnership
   swords_state: The traveler and the Knight in the same boat but facing different horizons
   consequence: the crossing is complicated by the Knight's need for adventure
-  key_terms: journey that is shared, traveler and the knight, crossing is complicated, two move together but at
+  key_terms: shared boat different temperatures, passion constrained by steadiness, two horizons, adventure complicated
 
 dynamic_devolution:
   mechanism: The partnership falls apart; the Knight charges ahead in passionate adventure; the traveler continues at steady pace; they become separated
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is divided; the traveler moves away but is tethered to the Queen's presence
   swords_state: The traveler in the boat but the cord of magnetism stretching back, preventing full departure
   consequence: the crossing is incomplete because something pulls back
-  key_terms: journey that is divided, traveler in the boat, crossing is incomplete because something, traveler departs but remains magnetized
+  key_terms: cord of magnetism stretched back, departure with a tether, pulled back mid-crossing, journey divided
 
 dynamic_devolution:
   mechanism: The magnetic pull gradually destroys the departure; the traveler is pulled back; the Queen becomes increasingly demanding of the traveler's presence
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: A service that is given under duress; the traveler is present but not genuinely serving because they resent the obligation
   swords_state: The traveler and the King together but the traveler's internal absence, the crossing prevented
   consequence: both are incomplete
-  key_terms: service that is given under, traveler and the king together, both are incomplete, traveler remains under the king's
+  key_terms: service under duress, present but not genuinely serving, crossing prevented by obligation, resentful subjection
 
 dynamic_devolution:
   mechanism: The traveler openly rebels against the King; the departure becomes a breaking of the kingdom's bonds; the King's passionate rule is challenged

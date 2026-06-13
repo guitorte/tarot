@@ -1,0 +1,197 @@
+card_pair: Ace of Swords, Ace of Wands
+archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: Ace-1 (Truth igniting creative fire; clarity fueling enterprise)
+elemental_bridge: Air intellectual vision channeling fire creative spark; truth empowering action
+threshold_type: The inspired breakthrough; truth catalyzing creative action
+
+dynamic_genesis:
+  mechanism: Intellectual clarity amplifies creative vision; truth catalyzes passionate enterprise
+  process: Breakthrough understanding fuels creative fire; discrimination reveals powerful directions
+  outcome: Creativity gains vision from intellectual truth; enterprise becomes fueled by clarity
+  key_terms: truthful vision, clarified creativity, inspired enterprise, empowered action
+
+dynamic_antagonism:
+  mechanism: Truth demands examination before action; creativity wants immediate expression
+  tension_axis: Intellectual deliberation versus creative urgency; truth-verification versus fire-speed
+  swords_position: Questions before acting; wants to verify truth of direction
+  wands_position: Acts immediately on vision; resists intellectual analysis delaying action
+  key_terms: deliberation versus urgency, verification versus action, truth versus speed, intellect versus fire
+
+dynamic_inhibition:
+  mechanism: Analytical delay prevents creative momentum; truth-questioning paralyzes visionary action
+  blockade_nature: The need for verification prevents creation flow; truth-examination blocks passion
+  swords_state: Clarity becomes action-blocking analysis; truth transforms into creation-preventing scrutiny
+  consequence: Creativity stagnates from over-analysis; enterprise cannot proceed from excessive truth-checking
+  key_terms: blocked creativity, prevented action, over-analysis, stagnant vision
+
+dynamic_devolution:
+  mechanism: Truth becomes attack on creative faith; clarity corrupts into contemptuous judgment
+  mode: Intellectual power becomes creativity-destroying weapon; truth-telling becomes assault on vision
+  loss: Authentic creativity replaced by judgmental analysis; genuine vision becomes intellectually disdained
+  key_terms: contemptuous judgment, creativity-weapon, disdained vision, corrupted truth
+
+dynamic_dependency:
+  mechanism: Truth without creative context becomes abstract philosophy; creativity without clarity becomes chaotic
+  function: Wands provide creative momentum that gives truth direction; swords provide clarity that ensures wise vision
+  integration_outcome: Truth becomes creative fuel; clarity enables powerful enterprise
+  key_terms: creative truth, fueled vision, clarified power, integrated action
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: Ace-1 through Ace-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, 2 of Wands
+archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: Ace-2 (Truth revealing personal power; clarity enabling wise dominion)
+elemental_bridge: Air intellectual clarity channeling fire personal authority; truth empowering choice
+threshold_type: The truthful authority; power grounded in clear understanding
+
+dynamic_genesis:
+  mechanism: Intellectual clarity strengthens personal authority; truth catalyzes empowered choice
+  process: Clear understanding reveals true power-potential; discrimination guides wise dominion
+  outcome: Personal power gains wisdom from truthful clarity; choice becomes grounded in understanding
+  key_terms: truthful power, clarified authority, wise choice, empowered dominion
+
+dynamic_antagonism:
+  mechanism: Truth challenges confident personal authority; clarity reveals uncomfortable limitations
+  tension_axis: Intellectual honesty versus authoritative certainty; truth exposure versus power-confidence
+  swords_position: Cuts through authority illusions; exposes limitations and weaknesses in power
+  wands_position: Asserts confident authority; resists intellectual disruption of power-certainty
+  key_terms: exposure versus confidence, truth versus authority, clarity versus certainty, honesty versus power
+
+dynamic_inhibition:
+  mechanism: Harsh truth undermines authority confidence; clarity paralyzes through revealing inadequacy
+  blockade_nature: The brutal truth destabilizes personal power; intellectual exposure removes authority-foundation
+  swords_state: Truth becomes authority-undermining force; clarity transforms into power-wounding revelation
+  consequence: Personal authority becomes questioned from truth-exposure; power cannot be asserted confidently
+  key_terms: questioned authority, undermined power, prevented confidence, blocked dominion
+
+dynamic_devolution:
+  mechanism: Truth becomes attack on authority; clarity corrupts into contemptuous judgment
+  mode: Intellectual power becomes authority-destroying weapon; truth-telling becomes assault on dominion
+  loss: Authentic authority replaced by judgmental truth; genuine power becomes intellectually disdained
+  key_terms: contemptuous judgment, authority-weapon, disdained power, corrupted clarity
+
+dynamic_dependency:
+  mechanism: Truth without power-context becomes powerless philosophy; authority without clarity becomes tyrannical
+  function: Wands provide authoritative momentum that contextualizes truth; swords provide clarity that ensures wise power
+  integration_outcome: Truth becomes integrated into personal authority; clarity enables conscious dominion
+  key_terms: conscious power, integrated truth, wise authority, clarified choice
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: Ace-1 through Ace-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, 3 of Wands
+archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: Ace-3 (Truth illuminating foresight; clarity enabling collaborative vision)
+elemental_bridge: Air intellectual vision enhancing fire foresight; clarity enabling enterprise
+threshold_type: The truthful vision; foresight grounded in clear understanding
+
+dynamic_genesis:
+  mechanism: Intellectual clarity enhances visionary foresight; truth catalyzes enterprise collaboration
+  process: Clear understanding reveals true growth-directions; discrimination guides collaborative vision
+  outcome: Foresight gains wisdom from truthful clarity; vision becomes grounded in understanding
+  key_terms: truthful vision, clarified foresight, wise enterprise, integrated collaboration
+
+dynamic_antagonism:
+  mechanism: Truth questions visionary optimism; clarity reveals uncomfortable realities in plans
+  tension_axis: Intellectual honesty versus optimistic vision; truth exposure versus visionary confidence
+  swords_position: Cuts through visionary illusions; exposes unrealistic elements in plans
+  wands_position: Maintains confident vision; resists intellectual disruption of enterprise optimism
+  key_terms: exposure versus confidence, truth versus vision, clarity versus optimism, honesty versus faith
+
+dynamic_inhibition:
+  mechanism: Harsh truth paralyzes visionary momentum; clarity prevents the optimism enterprise requires
+  blockade_nature: The brutal truth undermines foresight confidence; intellectual exposure removes vision-foundation
+  swords_state: Truth becomes vision-destroying force; clarity transforms into foresight-wounding revelation
+  consequence: Enterprise stagnates from truth-damage; collaboration cannot proceed from revealed problems
+  key_terms: stagnant vision, damaged foresight, prevented collaboration, blocked momentum
+
+dynamic_devolution:
+  mechanism: Truth becomes attack on visionary hope; clarity corrupts into contemptuous judgment
+  mode: Intellectual power becomes vision-destroying weapon; truth-telling becomes assault on enterprise
+  loss: Authentic vision replaced by judgmental truth; genuine foresight becomes intellectually disdained
+  key_terms: contemptuous judgment, vision-weapon, disdained foresight, corrupted clarity
+
+dynamic_dependency:
+  mechanism: Truth without visionary context becomes destructive criticism; vision without clarity becomes delusional
+  function: Wands provide visionary momentum that contextualizes truth; swords provide clarity that ensures wise foresight
+  integration_outcome: Truth becomes integrated into authentic vision; clarity enables grounded enterprise
+  key_terms: grounded vision, integrated truth, wise foresight, clarified collaboration
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: Ace-1 through Ace-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, 4 of Wands
+archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: Ace-4 (Truth grounding celebration; clarity establishing harmony)
+elemental_bridge: Air intellectual clarity strengthening fire celebration; truth enabling authentic joy
+threshold_type: The truthful celebration; harmony grounded in clear understanding
+
+dynamic_genesis:
+  mechanism: Intellectual clarity authenticates celebration; truth enables genuine harmony
+  process: Clear understanding reveals authentic joy; discrimination clarifies genuine connection
+  outcome: Celebration gains authenticity from truthful clarity; harmony becomes grounded in understanding
+  key_terms: truthful celebration, clarified harmony, authentic joy, integrated community
+
+dynamic_antagonism:
+  mechanism: Truth cuts through celebratory comfort; clarity disrupts the carefree joy celebration requires
+  tension_axis: Intellectual exposure versus festive ease; truth-telling versus celebratory comfort
+  swords_position: Cuts through celebratory illusions; exposes uncomfortable truths amid festivity
+  wands_position: Seeks festive joy and communal ease; resists intellectual disruption of celebration
+  key_terms: exposure versus ease, truth versus festivity, clarity versus joy, intellect versus celebration
+
+dynamic_inhibition:
+  mechanism: Harsh truth ruins celebration; clarity destroys the emotional ease joy requires
+  blockade_nature: The brutal truth ends festivity; intellectual exposure prevents communal ease
+  swords_state: Truth becomes celebration-destroying force; clarity transforms into joy-wounding revelation
+  consequence: Celebration collapses from truth-exposure; community becomes fractured from revealed issues
+  key_terms: collapsed celebration, fractured community, destroyed joy, prevented ease
+
+dynamic_devolution:
+  mechanism: Truth becomes attack on celebrants; clarity corrupts into contemptuous judgment
+  mode: Intellectual power becomes joy-destroying weapon; truth-telling becomes assault on happiness
+  loss: Authentic celebration replaced by cruel truth; genuine joy becomes intellectually disdained
+  key_terms: cruel truth, contemptuous judgment, joy-destroying, disdained celebration
+
+dynamic_dependency:
+  mechanism: Truth without celebratory context becomes destructive; celebration without truth becomes delusional
+  function: Wands provide celebratory context that humanizes truth; swords provide clarity that enables authentic joy
+  integration_outcome: Truth becomes woven into festive authenticity; clarity enables genuine harmony
+  key_terms: authentic celebration, integrated truth, genuine joy, clarified community
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: Ace-1 through Ace-14
+  uid: AOSW

@@ -1,0 +1,599 @@
+card_pair: Knight of Swords, Ace of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Fire Gift Offered, The Creative Spark, The Inspiration Arriving, Passion Ignited
+numerical_relation: 12 + 1 = 13; the seeker and the spark ignite together; pursuit meets the first fire
+elemental_bridge: Air (the urgency of truth) meets Fire (the spark of creative passion); two energetic forces in the same breath
+threshold_type: The moment when the charging seeker meets the arriving fire
+
+dynamic_genesis:
+  mechanism: The knight of swords charges; the ace of wands ignites; both are forces of energy and initiation; together they accelerate toward what neither alone could reach
+  process: The knight becomes aware that the creative spark and the intellectual pursuit amplify each other; that the fire of inspiration gives the quest new fuel
+  outcome: Understanding that the truth-seeker energized by creative fire becomes more than either alone; that intellectual urgency lit by inspiration creates unstoppable momentum
+  key_terms: Spark meeting speed, fire fueling pursuit, urgency ignited, creative truth accelerated
+
+dynamic_antagonism:
+  mechanism: The knight of swords already charges; the ace of wands adds fire to the charge; the combined energy may exceed what the seeker can direct
+  tension_axis: Between the already-urgent pursuit and the additional fire that may overwhelm direction
+  knight_of_swords_position: "I ride; I seek; the fire only adds to my power"
+  ace_of_wands_position: "I burn; together we may burn beyond control"
+  key_terms: Combined energy, urgency meeting fire, speed meeting spark, pursuit accelerated beyond direction
+
+dynamic_inhibition:
+  blockade: The combined force of the pursuit and the fire exceeds what can be directed; both burn in all directions
+  consequence: The figure is energized but scattered; the speed of the pursuit and the fire of the spark move without a clear target
+
+dynamic_devolution:
+  corruption: The knight of swords uses the creative fire purely as fuel for the urgency, without honoring what inspiration is for
+  loss: The figure loses the generative quality of the fire because the pursuit has consumed it as mere energy
+
+dynamic_dependency:
+  integration: The pursuit and the spark teach each other about direction; the knight learns that the creative fire is most powerful when it lights a specific path; the figure learns that the seeker's direction gives the spark purposeful shape; the pursuit becomes creation
+  outcome: The knight absorbs the spark into the pursuit; the urgency gains creative fire while the fire gains directed purpose; together they become the creative quest, the seeking that builds as it charges forward
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, 2 of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Master of Worlds, The Vision Held, The Dual Passion, Fire Directed
+numerical_relation: 12 + 2 = 14; the seeker meets the visionary; two forms of directed energy encounter each other
+elemental_bridge: Air (urgent pursuit) meets Fire (held vision); the charging seeker and the holding visionary in dialogue
+threshold_type: The moment when the urgency of the quest encounters the deliberate vision
+
+dynamic_genesis:
+  mechanism: The knight of swords arrives where the visionary stands with the world in hand; the two of wands holds its gaze on the horizon; the seeker discovers that directed vision is a cousin of the urgent quest
+  process: The knight becomes aware that the visionary and the seeker are both oriented toward what is not yet here; that held fire and urgent motion are expressions of the same forward impulse
+  outcome: Understanding that the vision that holds steady and the pursuit that charges forward are complementary modes of approaching truth; that each needs something the other carries
+  key_terms: Vision meeting urgency, held direction encountering motion, two forms of forward, seeker and visionary
+
+dynamic_antagonism:
+  mechanism: The knight of swords moves; the two of wands holds; each may see the other as misguided
+  tension_axis: Between the urgency of the charging pursuit and the deliberate stillness of the held vision
+  knight_of_swords_position: "Why do you hold still; the truth is forward; ride"
+  two_of_wands_position: "Why do you charge blindly; the vision requires holding before moving"
+  key_terms: Motion confronting stillness, urgency challenging holding, two strategies in tension, seeker and visionary
+
+dynamic_inhibition:
+  blockade: The knight's charging energy disturbs the visionary's contemplation before the vision is fully formed
+  consequence: The figure acts on an incomplete vision because the urgency of the pursuit demanded premature movement
+
+dynamic_devolution:
+  corruption: The knight of swords drags the visionary into premature action before the vision has matured
+  loss: The figure loses the power of the vision because the pursuit could not tolerate the time that holding requires
+
+dynamic_dependency:
+  integration: The pursuit and the vision teach each other about direction; the knight learns that knowing where to charge requires the visionary's deliberate looking first; the figure learns that the seeker's urgency can activate the vision when the time for holding has ended; the pursuit becomes directed
+  outcome: The knight waits while the vision matures; when the visionary releases the hold, the knight provides the urgency of execution; together they create directed action that has both purpose and speed
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, 3 of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Trader, The Exploration Begun, The Distant Vision, Horizons Expanding
+numerical_relation: 12 + 3 = 15; the seeker rides toward the distant horizon; two explorers in different modes
+elemental_bridge: Air (the intellectual quest) meets Fire (the visionary expansion); the rider and the horizon-watcher recognize each other
+threshold_type: The moment when the charging seeker and the watching explorer find they are heading to the same place
+
+dynamic_genesis:
+  mechanism: The knight of swords charges toward the horizon; the three of wands watches for what comes from afar; both are oriented outward toward discovery; the meeting is recognition
+  process: The knight becomes aware that the visionary who watches the horizon and the seeker who charges toward it serve the same expansion; that curiosity and urgency both move outward
+  outcome: Understanding that the explorer who waits for what comes and the seeker who charges toward it are collaborators in the discovery of what lies beyond known borders
+  key_terms: Horizons shared, expansion recognized, urgency meeting watching, two modes of discovery
+
+dynamic_antagonism:
+  mechanism: The knight of swords charges past before the horizon has been read; the three of wands watches carefully before moving
+  tension_axis: Between the urgency that leaps before looking and the watching that sees before moving
+  knight_of_swords_position: "I ride toward the horizon; there is no time to watch"
+  three_of_wands_position: "I watch what approaches; I do not charge before I see what comes"
+  key_terms: Urgency versus watching, charging versus reading, horizon approached differently, two modes in tension
+
+dynamic_inhibition:
+  blockade: The knight's charge disturbs the careful watching the trader needs to read the horizon accurately
+  consequence: The figure misses what was visible from the watching position; the urgency of the charge has moved past what needed to be seen
+
+dynamic_devolution:
+  corruption: The knight of swords dismisses the horizon-watcher's patience as passivity and forces premature action
+  loss: The figure loses the clarity of what the watching would have revealed; the urgency has replaced discernment
+
+dynamic_dependency:
+  integration: The pursuit and the distant vision teach each other about discovery; the knight learns that reading the horizon before charging toward it reveals what to seek; the figure learns that the seeker's urgency can provide the momentum that the watching cannot; the pursuit becomes discovery
+  outcome: The knight pauses to read the horizon with the trader's careful eye; then charges with the urgency the watcher lacks; together they discover the distant land with both wisdom and speed
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, 4 of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Celebration, The Harmony of Fires, The Victory Shared, Passion Crowned
+numerical_relation: 12 + 4 = 16; the seeker arrives where victory is celebrated; the urgent pursuit enters the completed joy
+elemental_bridge: Air (urgency of the still-seeking) meets Fire (the joy of the already-achieved); the rider arrives where the battle is won
+threshold_type: The moment when the seeker arrives at a victory he did not fight for
+
+dynamic_genesis:
+  mechanism: The knight of swords arrives at the celebration of a victory won; the four of wands blazes in communal joy; the seeker discovers that the fire of completed achievement is itself a form of truth
+  process: The knight becomes aware that arriving at another's victory can teach the seeker what his own success might feel like
+  outcome: Understanding that witnessing celebration is a form of orientation; that the seeker who tastes victory through another's fire is energized toward his own
+  key_terms: Victory encountered, celebration inspiring, seeker glimpsing destination, urgency meeting completion
+
+dynamic_antagonism:
+  mechanism: The knight of swords wants to continue the quest; the four of wands insists on celebration; the urgency resists the pause
+  tension_axis: Between the seeker's restlessness and the completion's invitation to pause and celebrate
+  knight_of_swords_position: "I cannot stop; my quest is not yet complete"
+  four_of_wands_position: "Your urgency will not serve you if you cannot celebrate what has been won"
+  key_terms: Urgency resisting celebration, pursuit unable to pause, seeker denying joy, completion not received
+
+dynamic_inhibition:
+  blockade: The knight's urgency prevents him from receiving the renewal that celebration offers
+  consequence: The figure continues the quest depleted because he could not stop to receive the energy that victory's joy provides
+
+dynamic_devolution:
+  corruption: The knight of swords disrupts the celebration with the urgency of quests not yet completed
+  loss: The figure loses the gift of the completed moment by refusing to let others rest in what they have achieved
+
+dynamic_dependency:
+  integration: The pursuit and the celebration teach each other about renewal; the knight learns that briefly receiving the fire of another's victory fuels the urgency of the next quest; the figure learns that the seeker's arrival at the celebration honors the achievement; the pursuit becomes renewed
+  outcome: The knight pauses in the celebration long enough to be renewed by the fire of victory; the quest continues with greater energy; together they demonstrate that urgency and celebration serve the same forward movement
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, 5 of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Struggle, The Clashing Fires, The Conflict Witnessed, Passion Opposed
+numerical_relation: 12 + 5 = 17; the seeker arrives at conflict; the urgent pursuit rides into the fray
+elemental_bridge: Air (the sharpened pursuit) meets Fire (the clashing passions); the rider arrives where fires are already in collision
+threshold_type: The moment when the seeker must decide whether to join or end the conflict
+
+dynamic_genesis:
+  mechanism: The knight of swords arrives where fires clash; the five of wands burns in productive struggle; the seeker discovers that some conflict serves the quest
+  process: The knight becomes aware that the clash of competing fires is sometimes the crucible in which truth is forged; that productive conflict has its place
+  outcome: Understanding that the seeker's clarity can help determine whether the conflict is a crucible or a waste; that the sword of discernment serves the struggle
+  key_terms: Conflict discerned, struggle assessed, seeker evaluating, urgency meeting clash
+
+dynamic_antagonism:
+  mechanism: The knight of swords wades into the conflict; the five of wands burns around him; the urgency may escalate or resolve the clash
+  tension_axis: Between the seeker's entry into conflict and the conflict's own internal dynamic
+  knight_of_swords_position: "I arrive with clarity; let me determine what this conflict is for"
+  five_of_wands_position: "We clash; the truth of this struggle is in the burning itself"
+  key_terms: Urgency entering conflict, clarity meeting struggle, seeker intervening, pursuit testing the fire
+
+dynamic_inhibition:
+  blockade: The knight's entry into the conflict adds another combatant rather than a resolution
+  consequence: The figure joins the fray and the conflict deepens; clarity has become another sword, not a resolution
+
+dynamic_devolution:
+  corruption: The knight of swords picks the side he agrees with and intensifies the conflict rather than illuminating it
+  loss: The figure loses the impartiality required to serve truth in the midst of conflict by becoming a partisan
+
+dynamic_dependency:
+  integration: The pursuit and the struggle teach each other about discernment; the knight learns that sometimes the clearest contribution is naming what the conflict is truly about; the figure learns that the seeker who can name the struggle serves it better than the seeker who joins it; the pursuit becomes arbitration
+  outcome: The knight names the conflict without joining it; the fires begin to understand what they are clashing over; together they create the possibility that the struggle resolves into clarity rather than exhaustion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, 6 of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Victory, The Recognized Fire, The Triumph Witnessed, Passion Crowned
+numerical_relation: 12 + 6 = 18; the seeker meets the victorious one; the pursuit encounters recognized achievement
+elemental_bridge: Air (the ongoing quest) meets Fire (the achieved victory); the still-seeking rider passes the one who has prevailed
+threshold_type: The moment when the seeker encounters the one who has already won
+
+dynamic_genesis:
+  mechanism: The knight of swords rides past the six of wands in triumph; each recognizes the other's worth; the seeker discovers that achievement and pursuit are stages of the same journey
+  process: The knight becomes aware that the triumphant one was once the urgent seeker; that the victory before him illuminates where the quest leads
+  outcome: Understanding that seeing recognized achievement tells the seeker what the quest is ultimately for; that the victor's fire lights the path the seeker is still riding
+  key_terms: Victory glimpsed, triumph recognized, seeker oriented by achievement, urgency seeing destination
+
+dynamic_antagonism:
+  mechanism: The knight of swords still charges; the six of wands has already won; the seeking and the achieved are in different phases
+  tension_axis: Between the urgency of still seeking and the completeness of achieved recognition
+  knight_of_swords_position: "I ride still; my victory is not yet claimed"
+  six_of_wands_position: "I have already prevailed; my fire stands crowned"
+  key_terms: Seeking meeting achievement, urgency encountering completion, phases in contrast, pursuit seeing victory
+
+dynamic_inhibition:
+  blockade: The seeker's urgency causes him to bypass the lesson the victor offers
+  consequence: The figure charges past without extracting from the victor's achievement what could orient the remaining quest
+
+dynamic_devolution:
+  corruption: The knight of swords resents the victor's achievement as something that should have been his own
+  loss: The figure loses the inspiration the victor's fire offers because the pursuit has become competitive rather than aspirational
+
+dynamic_dependency:
+  integration: The pursuit and the victory teach each other about stages; the knight learns that the victor's path is the map for the seeker's future; the figure learns that the seeker's urgency honors the difficulty of the path the victor has already walked; the pursuit becomes aspiration
+  outcome: The knight receives the victor's nod as both recognition and orientation; the urgency is renewed by seeing where the quest leads; together they demonstrate the full arc from urgent seeking to recognized achievement
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, 7 of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Defense, The Fire Held Against Opposition, The Stand Maintained, Passion Persisting
+numerical_relation: 12 + 7 = 19; the seeker arrives at the stand; the pursuit meets steadfast resistance
+elemental_bridge: Air (the charging force) meets Fire (the defending stand); the rider encounters one who holds against all comers
+threshold_type: The moment when the seeker must determine whether to test or support the stand
+
+dynamic_genesis:
+  mechanism: The knight of swords arrives where the seven of wands holds; the defender maintains the position; the seeker must decide if this stand represents truth worth defending or obstacle worth testing
+  process: The knight becomes aware that the stand and the pursuit are each serving a truth; that the defender's fire and the seeker's urgency may serve the same ultimate purpose
+  outcome: Understanding that sometimes the seeker's role is to test the defender's conviction and thereby strengthen it; that challenge can clarify what is truly worth holding
+  key_terms: Stand tested, conviction clarified, urgency meeting defense, seeker serving resistance
+
+dynamic_antagonism:
+  mechanism: The knight of swords charges; the seven of wands defends; the encounter may become combat or recognition
+  tension_axis: Between the urgency that challenges all resistance and the fire that holds all challenges
+  knight_of_swords_position: "I test what you hold; prove to me it is worth the stand"
+  seven_of_wands_position: "I stand; my fire is equal to your charge"
+  key_terms: Challenge meeting resistance, urgency testing conviction, pursuit confronting stand, seeker and defender
+
+dynamic_inhibition:
+  blockade: The knight's challenge forces the defender into exhausting combat rather than principled stand
+  consequence: The figure is worn down by the seeker's persistent urgency until the stand falters not from failure but from fatigue
+
+dynamic_devolution:
+  corruption: The knight of swords attacks what is genuinely worth defending because the pursuit dismisses all resistance as obstacle
+  loss: The figure loses what was worth holding because the seeker's urgency could not distinguish defense from obstruction
+
+dynamic_dependency:
+  integration: The pursuit and the stand teach each other about conviction; the knight learns that some resistance is not obstacle but truth; the figure learns that the seeker's challenge can reveal the depth of what is worth holding; the pursuit becomes acknowledgment
+  outcome: The knight tests and then honors what survives the test; the stand is proven worthy; together they demonstrate that the seeker who can recognize genuine conviction becomes more truthful for it
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, 8 of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Swiftness, The Accelerated Fire, The Rapid Movement, Momentum Unleashed
+numerical_relation: 12 + 8 = 20; the seeker meets maximum velocity; two forces of speed in the same element
+elemental_bridge: Air (swift motion of the pursuit) meets Fire (swift motion of released momentum); speed meeting speed
+threshold_type: The moment when the urgent seeker is surpassed by something moving faster
+
+dynamic_genesis:
+  mechanism: The knight of swords charges; the eight of wands flies past; the urgency of the pursuit discovers there is a speed beyond its own
+  process: The knight becomes aware that the arrows of momentum move at a pace beyond even the swiftest rider; that urgency and velocity are not always the same
+  outcome: Understanding that the seeker who can align with a force moving faster than himself gains range beyond what the individual quest can cover alone
+  key_terms: Velocity encountered, speed exceeded, urgency meeting momentum, seeker aligning with swifter force
+
+dynamic_antagonism:
+  mechanism: The knight of swords rides urgently; the eight of wands flies past without need of rider or road
+  tension_axis: Between the directed urgency of the pursuer and the undirected velocity of released momentum
+  knight_of_swords_position: "I ride as fast as any; nothing moves faster than my quest"
+  eight_of_wands_position: "I fly without rider or road; your gallop is my stillness"
+  key_terms: Speed competing, urgency humbled, rider outpaced, pursuit discovering limits of its velocity
+
+dynamic_inhibition:
+  blockade: The knight's urgency cannot match the momentum of the arrows and cannot redirect them
+  consequence: The figure is left behind by the velocity he cannot match; the pursuit is outpaced by its own momentum
+
+dynamic_devolution:
+  corruption: The knight of swords tries to control or direct the swiftness of the arrows and loses both direction and momentum
+  loss: The figure loses both his own urgency and the power of the arrows by interfering with what moves freely
+
+dynamic_dependency:
+  integration: The pursuit and the swiftness teach each other about freedom; the knight learns that some momentum serves best when not ridden but aimed; the figure learns that the seeker's direction gives the arrows a target while the arrows give the seeker wings; the pursuit becomes flight
+  outcome: The knight aims the arrows with the direction of the quest and releases them; the momentum carries the pursuit farther than the rider alone could reach; together they create directed velocity that is both fast and purposeful
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, 9 of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Resilience, The Tested Fire, The Endurance Proven, Strength Through Trial
+numerical_relation: 12 + 9 = 21; the seeker arrives at the weary guardian; the urgent pursuit meets proven endurance
+elemental_bridge: Air (fresh urgency) meets Fire (battle-worn resilience); the still-unscathed rider meets the many-times-tested one
+threshold_type: The moment when urgency meets experience hardened by trial
+
+dynamic_genesis:
+  mechanism: The knight of swords arrives fresh; the nine of wands stands wounded but unbroken; the seeker discovers that proven resilience is a form of truth urgency has not yet encountered
+  process: The knight becomes aware that the scars of repeated testing carry a knowledge that the unchallenged urgency lacks
+  outcome: Understanding that the seeker who acknowledges tested endurance is choosing wisdom over speed; that recognizing earned resilience deepens the quality of the pursuit
+  key_terms: Endurance honored, scars acknowledged, urgency meeting experience, seeker recognizing tested truth
+
+dynamic_antagonism:
+  mechanism: The knight of swords charges onward; the nine of wands stands weary but watchful; the fresh urgency may fail to see the value in what has already survived
+  tension_axis: Between the energy of the untested and the wisdom of the repeatedly proven
+  knight_of_swords_position: "I ride with full energy; your caution slows what needs to move"
+  nine_of_wands_position: "I have learned caution from wounds you have not yet received"
+  key_terms: Urgency dismissing caution, fresh energy meeting battle wisdom, seeker not yet knowing, guardian not yet trusted
+
+dynamic_inhibition:
+  blockade: The knight ignores the resilient guardian's warning and charges into the same mistake the guardian has already survived
+  consequence: The figure receives the wound the guardian could have predicted; the urgency has rejected the lesson of tested fire
+
+dynamic_devolution:
+  corruption: The knight of swords mocks the guardian's caution as fear and thereby shames what is genuine wisdom
+  loss: The figure loses the protection that experience offers by dismissing it as weakness
+
+dynamic_dependency:
+  integration: The pursuit and the resilience teach each other about wisdom; the knight learns that the urgency of the quest is sharpened rather than slowed by experience; the figure learns that the fresh seeker's urgency can remind the weary guardian what the fire is for; the pursuit becomes learned
+  outcome: The knight pauses and receives the guardian's warning; the quest continues with both urgency and experience; together they demonstrate that fresh seeking and tested endurance make a far wiser combination than either alone
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, 10 of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Burden, The Oppressed Fire, The Weight Carried, Passion Burdened
+numerical_relation: 12 + 10 = 22; the seeker arrives where another carries too much; the urgent pursuit finds what cannot continue
+elemental_bridge: Air (unencumbered speed) meets Fire (passion crushed under its own weight); the free rider meets the burdened bearer
+threshold_type: The moment when the urgency of the quest meets the exhaustion of one who has carried too long
+
+dynamic_genesis:
+  mechanism: The knight of swords arrives where the burdened one staggers; the ten of wands carries far too much; the seeker discovers that some fires need a lighter load before they can burn
+  process: The knight becomes aware that the urgency of the quest sometimes means stopping to help someone release what is crushing them
+  outcome: Understanding that the seeker's freedom from encumbrance makes him capable of seeing what the burdened one cannot; that the swift rider can sometimes carry what the other must put down
+  key_terms: Burden witnessed, weight seen, urgency offering lightness, seeker serving the crushed fire
+
+dynamic_antagonism:
+  mechanism: The knight of swords rides free; the ten of wands staggers; the contrast may shame or inspire
+  tension_axis: Between the unencumbered urgency of the seeker and the crushing burden of the one who cannot move freely
+  knight_of_swords_position: "Why do you carry so much; drop some and ride free"
+  ten_of_wands_position: "These are not mine to drop; they must all be delivered"
+  key_terms: Freedom meeting burden, urgency meeting necessity, seeker simplifying what cannot be simplified, weight refusing lightness
+
+dynamic_inhibition:
+  blockade: The knight's advice to simply drop the burden fails to account for the obligations the bearer has accepted
+  consequence: The figure either keeps all the weight or drops what was genuinely needed; the urgency has oversimplified what requires discernment
+
+dynamic_devolution:
+  corruption: The knight of swords rides past the burdened one, relieved to be free of such encumbrance
+  loss: The figure loses an opportunity to serve and the wisdom that serving would have offered
+
+dynamic_dependency:
+  integration: The pursuit and the burden teach each other about discernment; the knight learns that freedom from burden is a gift that creates the responsibility to help others find the same; the figure learns that the burdened one might release what is not truly theirs to carry with the seeker's help; the pursuit becomes service
+  outcome: The knight takes some of the burden and helps the burdened one discern what can be put down; the fire can move again; together they demonstrate that the free seeker's swiftness is best used in the service of those whose fire is being crushed
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, Page of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Adventurer Child, The Fire's Beginner, The Curious Spark, Passion Beginning
+numerical_relation: 12 + 11 = 23; the seeker and the fire's novice meet; urgency and beginning encounter each other
+elemental_bridge: Air (experienced urgency) meets Fire (first sparks); the seasoned seeker meets the young fire
+threshold_type: The moment when the experienced urgency meets the fresh first passion
+
+dynamic_genesis:
+  mechanism: The knight of swords arrives where the page of wands has just discovered the fire; the young one looks up in admiration; the seeker discovers that the beginner's spark can remind him why the quest began
+  process: The knight becomes aware that the freshness of the beginning fire is something the urgency of long pursuit risks losing; that the novice's wonder is worth preserving
+  outcome: Understanding that the seasoned seeker and the fresh beginner each have something the other needs; that urgency and wonder serve the same original impulse
+  key_terms: Beginning honored, first spark met, urgency encountering wonder, seeker remembering origin
+
+dynamic_antagonism:
+  mechanism: The knight of swords moves too fast for the page to follow; the young fire struggles to keep up with the urgent seeker
+  tension_axis: Between the experienced urgency of the quest and the tentative beginnings of the first fire
+  knight_of_swords_position: "Follow if you can; the quest does not slow for beginners"
+  page_of_wands_position: "My fire is just beginning; I cannot yet match your speed"
+  key_terms: Experience outpacing beginning, urgency leaving behind, seeker not remembering first steps, novice struggling
+
+dynamic_inhibition:
+  blockade: The knight's speed discourages the page from pursuing the fire any further
+  consequence: The beginning fire is extinguished by the impossible pace of the experienced seeker's urgency
+
+dynamic_devolution:
+  corruption: The knight of swords takes the page's beginning fire and absorbs it into the quest without allowing the young one to develop their own
+  loss: The figure loses the potential of the new fire by consuming it rather than allowing it to grow
+
+dynamic_dependency:
+  integration: The pursuit and the beginning teach each other about transmission; the knight learns that slowing for the novice fire is how the quest perpetuates itself; the figure learns that the seeker's direction and urgency are the greatest gift to a beginning fire; the pursuit becomes mentorship
+  outcome: The knight slows and rides alongside the page for a time; the young fire grows stronger with direction and urgency; together they demonstrate that the quest perpetuates itself through what it passes on
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, Knight of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Adventurer, The Wild Fire, The Quest Unbounded, Passion Unleashed
+numerical_relation: 12 + 12 = 24; two knights in fire and air meet; the truth seeker and the adventurer at full gallop
+elemental_bridge: Air (the pursuit of truth) meets Fire (the adventure of passion); two knights in elemental brotherhood
+threshold_type: The moment when the seeker of truth and the seeker of adventure recognize the kinship of their quests
+
+dynamic_genesis:
+  mechanism: The knight of swords charges; the knight of wands gallops alongside; both are seekers in full flight; the recognition between them is immediate and electric
+  process: The knights become aware that the passion for adventure and the urgency of truth-seeking are expressions of the same fundamental drive forward
+  outcome: Understanding that truth and adventure both demand the same willingness to charge beyond comfort toward what has not yet been found; that the two knights are brothers in the quest
+  key_terms: Two quests in flight, truth and adventure allied, urgency meeting passion, riders recognizing kinship
+
+dynamic_antagonism:
+  mechanism: The knight of swords seeks a specific truth; the knight of wands adventures without a fixed destination; the directions of their quests may diverge
+  tension_axis: Between the directed urgency of the truth-seeker and the undirected adventurousness of the fire rider
+  knight_of_swords_position: "I ride toward a specific truth; stay with me or fall behind"
+  knight_of_wands_position: "I ride for the joy of riding; the adventure is the destination"
+  key_terms: Direction versus adventure, specific seeking versus open exploration, two modes of quest, riders at different orientations
+
+dynamic_inhibition:
+  blockade: The knight of swords' specific direction and the knight of wands' adventurous wandering cannot be reconciled in the same pace
+  consequence: The riders separate, each missing what the other carried; truth without adventure becomes narrow and adventure without truth becomes shallow
+
+dynamic_devolution:
+  corruption: The knight of swords convinces the adventurer to abandon the joy of exploration for the rigidity of the specific quest
+  loss: The figure loses the open adventurousness that makes the quest alive by subordinating it entirely to a predetermined direction
+
+dynamic_dependency:
+  integration: The two quests teach each other about freedom and direction; the knight learns that truth pursued adventurously is found more fully than truth pursued rigidly; the knight of wands learns that adventure oriented toward truth becomes more than entertainment; the meeting becomes alliance
+  outcome: The two riders gallop together, the truth-seeker made more adventurous and the adventurer made more purposeful; together they create the quest that is both directed and free, seeking truth with the joy of those who love the riding itself
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, Queen of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The Queen, The Radiant Fire, The Creative Authority, Passion Crowned
+numerical_relation: 12 + 13 = 25; the seeker arrives at the throne of creative sovereignty; urgency meets radiant authority
+elemental_bridge: Air (the urgent pursuit) meets Fire (the sovereign passion); the rider encounters the authority that burns from center rather than movement
+threshold_type: The moment when the charging seeker encounters the one who burns without moving
+
+dynamic_genesis:
+  mechanism: The knight of swords arrives before the queen of wands; she radiates without needing to charge; the seeker discovers that sovereign fire commands attention without pursuing it
+  process: The knight becomes aware that the queen's creative authority is a form of truth that does not need to chase because it draws toward itself
+  outcome: Understanding that the urgency of pursuit and the magnetism of sovereign fire are complementary powers; that the seeker's charge brings him into the orbit of what he could not have found by standing still
+  key_terms: Creative authority encountered, radiance recognized, urgency meeting sovereignty, pursuit drawn to center
+
+dynamic_antagonism:
+  mechanism: The knight of swords charges; the queen of wands sits in radiant authority; the urgency cannot simply pass through what radiates
+  tension_axis: Between the momentum of the charging seeker and the gravitational pull of the creative sovereign
+  knight_of_swords_position: "I ride through; my quest does not pause even before a queen"
+  queen_of_wands_position: "You may not pass without acknowledging what burns here"
+  key_terms: Urgency meeting gravity, seeker stopped by radiance, pursuit acknowledging sovereignty, charge meeting stillness
+
+dynamic_inhibition:
+  blockade: The knight refuses to stop for the queen's sovereignty and misses the creative truth she embodies
+  consequence: The figure charges past a source of creative wisdom that could have deepened the entire purpose of the quest
+
+dynamic_devolution:
+  corruption: The knight of swords is captured by the queen's radiance and becomes her herald rather than an independent seeker
+  loss: The figure loses the freedom of the independent quest by becoming subordinated to the queen's creative authority
+
+dynamic_dependency:
+  integration: The pursuit and the creative sovereignty teach each other about power; the knight learns that the queen's radiance is a form of truth that the urgency of the quest can be ignited by; the figure learns that the seeker's charge brings new energy into the queen's creative domain; the pursuit becomes fueled
+  outcome: The knight receives the queen's fire and the quest is transformed by creative vision; the sovereignty is enlivened by the urgency; together they create directed creative pursuit that is both radiant and moving
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS
+
+---
+
+card_pair: Knight of Swords, King of Wands
+archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_wands: The King, The Enthroned Fire, The Visionary Authority, Passion Sovereign
+numerical_relation: 12 + 14 = 26; the seeker stands before the throne of fire and vision; the urgency of pursuit meets sovereign passion
+elemental_bridge: Air (the urgency of the quest) meets Fire (the sovereignty of vision); the rider approaches the king of all that burns with purpose
+threshold_type: The moment when the relentless seeker must kneel before the greater fire
+
+dynamic_genesis:
+  mechanism: The knight of swords arrives before the king of wands; the sovereign fire receives the urgent seeker with the gravity of one whose vision encompasses the seeker's entire quest; the rider discovers that his urgency has been serving a vision larger than he knew
+  process: The knight becomes aware that the king's visionary fire is the larger truth toward which the individual pursuit has been oriented all along
+  outcome: Understanding that the seeker's urgency serves the king's vision even when the seeker does not know it; that the charging pursuit is itself an expression of sovereign purpose
+  key_terms: Vision encompassing, urgency serving, seeker discovering purpose, pursuit within sovereignty
+
+dynamic_antagonism:
+  mechanism: The knight of swords brings his urgent truth; the king of wands holds his larger vision; the two may be aligned or in creative tension
+  tension_axis: Between the seeker's specific truth and the sovereign's broader vision
+  knight_of_swords_position: "I bring you truth from the field; this is what I have found"
+  king_of_wands_position: "Your truth is one piece of what I have already seen; let me show you the whole"
+  key_terms: Truth offered, vision expanding, urgency meeting breadth, seeker learning scope
+
+dynamic_inhibition:
+  blockade: The knight's urgency cannot hear the king's broader vision because the specific quest fills his entire horizon
+  consequence: The figure cannot absorb the sovereign fire's scope because the urgency of the particular pursuit has filled the entire field of attention
+
+dynamic_devolution:
+  corruption: The knight of swords refuses to subordinate his urgent truth to the king's larger vision, insisting his specific finding is the whole
+  loss: The figure loses the perspective of the sovereign fire by privileging the urgency of the part over the breadth of the whole
+
+dynamic_dependency:
+  integration: The pursuit and the sovereign vision teach each other about scope; the knight learns that the urgency of the specific quest gains meaning from the larger vision it serves; the figure learns that the seeker's truth from the field gives the visionary king the living material of his broader understanding; the pursuit becomes service to vision
+  outcome: The knight presents his truth and the king places it within the larger vision; the pursuit gains meaning and the vision gains living substance; together they demonstrate that urgent specific seeking and broad sovereign vision are partners in the same truth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: KOWS

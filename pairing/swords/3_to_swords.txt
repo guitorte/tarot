@@ -1,7 +1,107 @@
+card_pair: 3 of Swords, Ace of Swords
+archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 3 + 1 = 4 (IV The Emperor; sorrow meets the clarity that names it)
+elemental_bridge: Air's wound meets Air's breakthrough; the felt loss meets the truth that names it
+threshold_type: The clarity offered to the fresh wound; the loss given an exact name
+
+dynamic_genesis:
+  mechanism: The Ace's clarity cuts to what was actually lost; insight gives the sorrow a true object
+  process: The breakthrough separates the real wound from the story around it; the grief gains an exact name
+  outcome: heartbreak becomes nameable and therefore survivable; raw pain turns into known loss
+  key_terms: named loss, clarified grief, exact wound, survivable sorrow
+
+dynamic_antagonism:
+  mechanism: The Ace demands the truth of the loss be seen; the 3 is still inside the wound
+  tension_axis: the breakthrough that names versus the grief not yet ready to be named
+  three_of_swords_position: Insists the pain be felt before it is dissected
+  ace_of_swords_position: Cuts to the truth at once; will not wait for feeling to finish
+  key_terms: premature naming, raw wound, insistent clarity, feeling versus truth
+
+dynamic_inhibition:
+  mechanism: The Ace's clarity arrives at a wound too fresh to receive it; insight strikes grief that cannot yet think
+  blockade_nature: a truth seen but unbearable; clarity that wounds rather than heals because it comes too soon
+  swords_state: a blade entering an open wound; sight that deepens the cut
+  consequence: the grief hardens against the very clarity that could free it; truth refused as cruelty
+  key_terms: untimely truth, refused clarity, deepened wound, sight as cruelty
+
+dynamic_devolution:
+  mechanism: The Ace's truth becomes an accusation; clarity used to indict the grieving
+  mode: "you should have seen it coming" — insight weaponized into blame for the loss
+  loss: the innocence of the grief; sorrow turned to self-reproach by misused clarity
+  key_terms: weaponized insight, blamed grief, self-reproach, indicting truth
+
+dynamic_dependency:
+  mechanism: The 3 needs the Ace's clarity to know the loss truly; the Ace needs the 3's feeling to keep its truth humane
+  function: Swords-Ace supplies the precise name of what was lost; Swords-3 supplies the grief that makes the truth matter
+  integration_outcome: a loss both clearly seen and fully felt; clarity that comforts because it is true
+  key_terms: felt clarity, humane truth, named loss, comforting sight
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OSS
+
+---
+
+card_pair: 3 of Swords, 2 of Swords
+archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 3 + 2 = 5 (V The Pope; sorrow meets the refusal to choose)
+elemental_bridge: Air's wound meets Air's blindfold; the loss that must be felt meets the eyes that will not look
+threshold_type: The grief brought to the stalemate; the loss the indecision refuses to face
+
+dynamic_genesis:
+  mechanism: Grief forces the stalemate to break; sorrow makes the avoided choice unavoidable
+  process: The pain names what the indecision protected against; the binding agreement breaks under real loss
+  outcome: the choice gets made because the grief will not let it be deferred; decision born of necessary pain
+  key_terms: forced choice, broken stalemate, grief-driven decision, ended avoidance
+
+dynamic_antagonism:
+  mechanism: The 3 demands the loss be faced; the 2 keeps the blindfold to avoid the pain
+  tension_axis: sorrow that must be felt versus the suspension that refuses to feel
+  three_of_swords_position: Insists the heartbreak be acknowledged, not deferred
+  two_of_swords_position: Holds the blindfold precisely to not feel the loss
+  key_terms: refused grief, protective blindfold, demanded acknowledgment, deferred pain
+
+dynamic_inhibition:
+  mechanism: The stalemate freezes the grief-work; the unmade choice keeps the loss unprocessed
+  blockade_nature: sorrow suspended by indecision; the wound neither closed nor mourned
+  swords_state: grief held in stasis; the heart neither breaking nor healing
+  consequence: the pain cannot move toward healing; loss frozen by the refusal to choose to feel
+  key_terms: frozen grief, suspended loss, unprocessed wound, stasis
+
+dynamic_devolution:
+  mechanism: The stalemate corrupts the grief into chronic numbness; avoidance becomes permanent non-feeling
+  mode: the blindfold made permanent; sorrow sealed off rather than mourned
+  loss: the capacity to grieve at all; feeling traded for a frozen safety
+  key_terms: chronic numbness, sealed sorrow, permanent blindfold, lost grief
+
+dynamic_dependency:
+  mechanism: The 3 needs the 2's pause to not be flooded by raw loss; the 2 needs the 3's grief to break a paralysis it cannot otherwise leave
+  function: Swords-2 supplies the breathing-space that keeps grief from flooding; Swords-3 supplies the loss that finally forces the choice
+  integration_outcome: grief felt at a bearable pace; the choice made when the sorrow is ready to be borne
+  key_terms: paced grief, bearable loss, readied choice, breathing-space
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OSS
+
+---
+
 card_pair: 3 of Swords, 3 of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
-numerical_relation: 3-3 (Grief meeting grief; heartbreak doubling heartbreak)
+numerical_relation: 3 + 3 = 6 (VI The Lovers; Grief meeting grief; heartbreak doubling heartbreak)
 elemental_bridge: Air pain meeting air sorrow; emotional truth intensifying emotional devastation
 threshold_type: The doubled wound; grief witnessing grief
 
@@ -39,19 +139,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, 4 of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Rest, truce, peace, mental stillness, respite
-numerical_relation: 3-4 (Sorrow demanding rest; heartbreak seeking peace)
+numerical_relation: 3 + 4 = 7 (VII The Chariot; Sorrow demanding rest; heartbreak seeking peace)
 elemental_bridge: Air pain meeting air stillness; emotional urgency encountering mental respite
 threshold_type: The restless sorrow; grief seeking peace
 
@@ -64,8 +164,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief demands expression; rest demands cessation of emotional work
   tension_axis: Active grieving versus needed rest; emotional processing versus mental peace
-  swords_position_1: Demands attention and processing; grief needs movement
-  swords_position_2: Offers protected stillness; provides respite from emotional intensity
+  three_of_swords_position: Demands attention and processing; grief needs movement
+  four_of_swords_position: Offers protected stillness; provides respite from emotional intensity
   key_terms: competing needs, necessary conflict, motion versus stillness, demanded attention
 
 dynamic_inhibition:
@@ -89,19 +189,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, 5 of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
-numerical_relation: 3-5 (Sorrow meeting conflict; heartbreak deepening defeat)
+numerical_relation: 3 + 5 = 8 (VIII Justice; Sorrow meeting conflict; heartbreak deepening defeat)
 elemental_bridge: Air pain meeting air struggle; emotional devastation encountering inevitable defeat
 threshold_type: The wounded combatant; grief deepening loss
 
@@ -114,8 +214,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief demands cessation of fighting; conflict demands continued engagement
   tension_axis: Emotional devastation versus necessary struggle; pain-exhaustion versus forced fighting
-  swords_position_1: Overwhelmed by pain; needs to stop struggling
-  swords_position_2: Insists on fighting; prevents cessation from exhaustion
+  three_of_swords_position: Overwhelmed by pain; needs to stop struggling
+  five_of_swords_position: Insists on fighting; prevents cessation from exhaustion
   key_terms: demanded fighting, resisted struggle, exhausted grief, incompatible conflict
 
 dynamic_inhibition:
@@ -139,19 +239,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, 6 of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Travel, transition, movement toward solution, passage, departure
-numerical_relation: 3-6 (Sorrow demanding departure; heartbreak forcing passage)
+numerical_relation: 3 + 6 = 9 (IX The Hermit; Sorrow demanding departure; heartbreak forcing passage)
 elemental_bridge: Air pain meeting air movement; emotional devastation enabling transition
 threshold_type: The forced exodus; grief demanding movement
 
@@ -164,8 +264,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief demands staying; transition demands leaving
   tension_axis: Emotional attachment versus forced departure; pain-anchoring versus healing-movement
-  swords_position_1: Grieves the loss of place; resists departure
-  swords_position_2: Insists on passage; forces leaving
+  three_of_swords_position: Grieves the loss of place; resists departure
+  six_of_swords_position: Insists on passage; forces leaving
   key_terms: demanded departure, resisted leaving, clinging grief, incompatible transition
 
 dynamic_inhibition:
@@ -189,19 +289,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, 7 of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Deception, theft, cunning, strategic secrecy, hidden strategy
-numerical_relation: 3-7 (Sorrow hidden from others; heartbreak enabling deceptive coping)
+numerical_relation: 3 + 7 = 10 (X The Wheel of Fortune; Sorrow hidden from others; heartbreak enabling deceptive coping)
 elemental_bridge: Air pain meeting air concealment; emotional truth hidden by strategic secrecy
 threshold_type: The hidden sorrow; grief enabling deception
 
@@ -214,8 +314,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief demands expression; deception demands hiding
   tension_axis: Emotional truth versus strategic concealment; visible sorrow versus hidden strategy
-  swords_position_1: Demands that grief be honored; truth needs acknowledgment
-  swords_position_2: Hides pain through strategic deception; protects through concealment
+  three_of_swords_position: Demands that grief be honored; truth needs acknowledgment
+  seven_of_swords_position: Hides pain through strategic deception; protects through concealment
   key_terms: demanded truth, hidden grief, visible strategy, incompatible authenticity
 
 dynamic_inhibition:
@@ -239,19 +339,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, 8 of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Imprisonment, constraint, mental bondage, restriction, entrapment
-numerical_relation: 3-8 (Sorrow imprisoning the mind; heartbreak creating mental cage)
+numerical_relation: 3 + 8 = 11 (XI Strength; Sorrow imprisoning the mind; heartbreak creating mental cage)
 elemental_bridge: Air pain meeting air bondage; emotional devastation creating mental prison
 threshold_type: The imprisoned griever; heartbreak trapping in cage
 
@@ -264,8 +364,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief demands freedom; bondage demands remaining trapped
   tension_axis: Emotional devastation seeking escape; mental prison preventing liberation
-  swords_position_1: Demands breaking free; pain makes imprisonment unbearable
-  swords_position_2: Traps and restrains; prevents escape
+  three_of_swords_position: Demands breaking free; pain makes imprisonment unbearable
+  eight_of_swords_position: Traps and restrains; prevents escape
   key_terms: demanded freedom, prevented escape, restraining grief, imprisoned pain
 
 dynamic_inhibition:
@@ -289,19 +389,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, 9 of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
-numerical_relation: 3-9 (Sorrow feeding anxiety; heartbreak generating nightmares)
+numerical_relation: 3 + 9 = 12 (XII The Hanged Man; Sorrow feeding anxiety; heartbreak generating nightmares)
 elemental_bridge: Air pain meeting air torment; emotional devastation intensifying mental anguish
 threshold_type: The tormented griever; sorrow breeding anxiety
 
@@ -314,8 +414,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief feeds anxiety; heartbreak generates tormenting thoughts
   tension_axis: Emotional pain versus mental torment; direct sorrow versus obsessive spiraling
-  swords_position_1: Grieves openly; pain is direct
-  swords_position_2: Creates mental loops; multiplies grief through obsessive thought
+  three_of_swords_position: Grieves openly; pain is direct
+  nine_of_swords_position: Creates mental loops; multiplies grief through obsessive thought
   key_terms: obsessive amplification, thought-spiraling, fed anxiety, multiplied pain
 
 dynamic_inhibition:
@@ -339,19 +439,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, 10 of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Destruction, ending, inevitable pain, completion through ruin, death-knife
-numerical_relation: 3-10 (Sorrow meeting ultimate devastation; heartbreak completing destruction)
+numerical_relation: 3 + 10 = 13 (XIII Death; Sorrow meeting ultimate devastation; heartbreak completing destruction)
 elemental_bridge: Air pain meeting air annihilation; emotional loss meeting final ending
 threshold_type: The annihilated griever; sorrow completing destruction
 
@@ -364,8 +464,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief seeks to process; destruction seeks to end
   tension_axis: Emotional pain wanting acknowledgment; final destruction wanting completion
-  swords_position_1: Grieves what is dying; pain needs witness
-  swords_position_2: Completes the ending; permits no appeal
+  three_of_swords_position: Grieves what is dying; pain needs witness
+  ten_of_swords_position: Completes the ending; permits no appeal
   key_terms: demanded witness, completing ending, acknowledged pain, inevitable destruction
 
 dynamic_inhibition:
@@ -389,19 +489,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, Page of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
-numerical_relation: 3-Page (Sorrow silencing youthful inquiry; heartbreak preventing learning)
+numerical_relation: 3 + 11 = 14 (XIV Temperance; Sorrow silencing youthful inquiry; heartbreak preventing learning)
 elemental_bridge: Air pain meeting air curiosity; emotional devastation preventing intellectual growth
 threshold_type: The wounded student; grief blocking learning
 
@@ -414,8 +514,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief demands acknowledgment; curiosity demands exploration
   tension_axis: Emotional truth overwhelming mind; pain preventing focused inquiry
-  swords_position_1: Grieves deeply; pain needs attention
-  swords_position_2: Seeks to learn; questions demand answers
+  three_of_swords_position: Grieves deeply; pain needs attention
+  page_of_swords_position: Seeks to learn; questions demand answers
   key_terms: demanded learning, acknowledged pain, competing attention, divided focus
 
 dynamic_inhibition:
@@ -439,19 +539,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, Knight of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
-numerical_relation: 3-Knight (Sorrow preventing action; heartbreak blocking aggressive pursuit)
+numerical_relation: 3 + 12 = 15 (XV The Devil; Sorrow preventing action; heartbreak blocking aggressive pursuit)
 elemental_bridge: Air pain meeting air momentum; emotional devastation preventing direct engagement
 threshold_type: The paralyzed fighter; grief preventing action
 
@@ -464,8 +564,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief demands processing; action demands forward movement
   tension_axis: Emotional devastation versus required action; pain seeking stillness versus momentum demanding movement
-  swords_position_1: Grieves intensely; pain needs expression
-  swords_position_2: Acts aggressively; momentum demands forward drive
+  three_of_swords_position: Grieves intensely; pain needs expression
+  knight_of_swords_position: Acts aggressively; momentum demands forward drive
   key_terms: competing needs, demanded action, necessary grief, incompatible timing
 
 dynamic_inhibition:
@@ -489,19 +589,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, Queen of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
-numerical_relation: 3-Queen (Sorrow enabling wisdom; heartbreak deepening mastery)
+numerical_relation: 3 + 13 = 16 (XVI The Tower; Sorrow enabling wisdom; heartbreak deepening mastery)
 elemental_bridge: Air pain meeting air mastery; emotional loss enabling intellectual authority
 threshold_type: The wounded master; grief enabling wisdom
 
@@ -514,8 +614,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief demands emotional truth; mastery demands intellectual distance
   tension_axis: Emotional devastation versus intellectual authority; pain demanding feeling versus wisdom demanding clarity
-  swords_position_1: Grieves from emotional depth; requires acknowledgment
-  swords_position_2: Masters through intellectual clarity; maintains distance
+  three_of_swords_position: Grieves from emotional depth; requires acknowledgment
+  queen_of_swords_position: Masters through intellectual clarity; maintains distance
   key_terms: competing perspectives, demanded authenticity, maintained distance, incompatible depths
 
 dynamic_inhibition:
@@ -539,19 +639,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS
 
 ---
 
 card_pair: 3 of Swords, King of Swords
 archetype_swords_1: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_swords_2: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
-numerical_relation: 3-King (Sorrow challenging authority; heartbreak undermining absolute truth)
+numerical_relation: 3 + 14 = 17 (XVII The Star; Sorrow challenging authority; heartbreak undermining absolute truth)
 elemental_bridge: Air pain meeting air dominion; emotional devastation threatening intellectual rule
 threshold_type: The wounded sovereign; grief threatening dominion
 
@@ -564,8 +664,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief demands acknowledgment; authority demands control
   tension_axis: Emotional truth challenging certainty; pain threatening absolute judgment
-  swords_position_1: Grieves deeply; questions absolute authority
-  swords_position_2: Rules absolutely; permits no challenge to judgment
+  three_of_swords_position: Grieves deeply; questions absolute authority
+  king_of_swords_position: Rules absolutely; permits no challenge to judgment
   key_terms: challenged authority, demanded acknowledgment, threatened certainty, absolute conflict
 
 dynamic_inhibition:
@@ -589,9 +689,9 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 3-1 through 3-14
-  uid: TOSS
+  uid: 3OSS

@@ -1,0 +1,647 @@
+card_pair: King of Wands, Ace of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: King-1 (Visionary leadership manifesting opportunity; enterprise establishing foundation)
+elemental_bridge: Fire passionate momentum crystallizing into earth concrete form; vision becoming tangible result
+threshold_type: The visionary opportunity; material beginning guided by authoritative enterprise
+
+dynamic_genesis:
+  mechanism: Visionary leadership attracts material manifestation; enterprise catalyzes grounding
+  process: Dynamic authority manifests opportunity; vision crystallizes into concrete foundation
+  outcome: Opportunity gains momentum from visionary guidance; manifestation emerges through enterprise
+  key_terms: visionary manifestation, authoritative opportunity, enterprise-driven foundation, leadership-guided beginning
+
+dynamic_antagonism:
+  mechanism: Visionary authority demands rapid transformation; manifestation requires patient grounding
+  tension_axis: Rapid visionary momentum versus patient establishment; enterprise urgency versus methodical building
+  wands_position: Pursues vision rapidly; wants immediate material realization
+  pentacles_position: Builds foundation methodically; requires careful grounding
+  key_terms: rapid versus patient, vision versus building, authority versus method, leadership versus grounding
+
+dynamic_inhibition:
+  mechanism: Impatient leadership prevents patient grounding; authoritative demands disrupt foundation establishment
+  blockade_nature: The visionary push prevents proper settling; authority prevents careful foundation work
+  wands_state: Vision becomes impatient force; leadership transforms into aggressive momentum
+  consequence: Manifestation cannot stabilize; opportunity dissolves from hasty authority
+  key_terms: chaotic manifestation, aggressive authority, dissolved opportunity, prevented grounding
+
+dynamic_devolution:
+  mechanism: Vision transforms manifestation into authoritarian domination; enterprise corrupts into destructive force
+  mode: Leadership becomes authoritarian appropriation; vision becomes aggressive claiming
+  loss: Authentic manifestation replaced by authoritarian destruction; genuine opportunity becomes hostile conquest
+  key_terms: authoritarian conquest, destructive force, hostile appropriation, corrupted leadership
+
+dynamic_dependency:
+  mechanism: Vision without grounding becomes ephemeral momentum; manifestation without authority becomes invisible
+  function: Pentacles provide grounding that stabilizes visionary momentum; wands provide leadership that energizes manifestation
+  integration_outcome: Visionary guidance becomes grounded in material form; leadership enables lasting opportunity
+  key_terms: grounded vision, lasting opportunity, energized manifestation, integrated enterprise
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, 2 of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Exchange, flow, balance, reciprocity, cyclical adaptation
+numerical_relation: King-2 (Authoritative momentum accelerating circulation; enterprise enabling rapid exchange)
+elemental_bridge: Fire passionate momentum powering earth fluid circulation; leadership enabling dynamic flow
+threshold_type: The authoritative marketplace; circulation guided by visionary enterprise
+
+dynamic_genesis:
+  mechanism: Visionary leadership accelerates circulation; enterprise catalyzes rapid exchange
+  process: Authoritative guidance drives dynamic trading; vision enables quick market movement
+  outcome: Circulation gains momentum from enterprise; flow benefits from visionary authority
+  key_terms: visionary circulation, authoritative exchange, enterprise-driven flow, leadership-guided momentum
+
+dynamic_antagonism:
+  mechanism: Authoritative leadership demands direct authority path; circulation requires responsive adaptability
+  tension_axis: Directional authority versus adaptive response; visionary control versus flexible circulation
+  wands_position: Directs authoritatively; resists changing course
+  pentacles_position: Adapts fluidly to change; requires responsive adjustment
+  key_terms: authoritarian versus adaptive, rigid versus responsive, vision versus adjustment, control versus flow
+
+dynamic_inhibition:
+  mechanism: Rigid authority prevents adaptive circulation; authoritative control disrupts flow patterns
+  blockade_nature: The authoritarian direction prevents necessary adaptation; control blocks circulation flexibility
+  wands_state: Leadership becomes domineering momentum; authority transforms into controlling force
+  consequence: Circulation becomes disrupted by rigid control; flow cannot adapt
+  key_terms: disrupted circulation, blocked adaptation, domineering control, prevented flow
+
+dynamic_devolution:
+  mechanism: Authority transforms circulation into aggressive conquest; leadership corrupts into tyrannical force
+  mode: Exchange becomes aggressive appropriation; circulation becomes dominance-seeking
+  loss: Authentic circulation replaced by aggressive conquest; genuine flow becomes tyrannical force
+  key_terms: aggressive conquest, tyrannical force, dominance-seeking exchange, corrupted circulation
+
+dynamic_dependency:
+  mechanism: Vision without circulation becomes directionless momentum; circulation without authority becomes chaotic
+  function: Pentacles provide circular rhythm that channels visionary momentum adaptively; wands provide leadership that energizes flow
+  integration_outcome: Visionary guidance becomes channeled through circulation; flow gains authoritative momentum
+  key_terms: channeled vision, momentous flow, authoritative circulation, integrated exchange
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, 3 of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Craftsmanship, collaboration, skill, mastery, tangible creation
+numerical_relation: King-3 (Visionary leadership energizing collaboration; enterprise enabling joint creation)
+elemental_bridge: Fire authoritative momentum animating earth collaborative work; vision enabling shared enterprise
+threshold_type: The authoritative collaborator; collaboration guided by visionary leadership
+
+dynamic_genesis:
+  mechanism: Visionary leadership energizes collaborative effort; enterprise animates shared mastery
+  process: Authoritative guidance catalyzes team momentum; vision deepens collaborative enterprise
+  outcome: Collaboration gains momentum from visionary leadership; creation benefits from enterprise
+  key_terms: visionary collaboration, authoritative mastery, leadership-driven teamwork, enterprise-fueled creation
+
+dynamic_antagonism:
+  mechanism: Authoritative leadership demands hierarchical control; collaboration requires coordinated shared effort
+  tension_axis: Authoritarian direction versus coordinated equality; leadership hierarchy versus shared responsibility
+  wands_position: Leads with authority; demands hierarchical respect
+  pentacles_position: Emphasizes coordinated collaboration; requires shared decision-making
+  key_terms: hierarchy versus equality, authority versus sharing, leadership versus collaboration, control versus partnership
+
+dynamic_inhibition:
+  mechanism: Authoritarian control prevents collaborative coordination; leadership dominance disrupts team unity
+  blockade_nature: The hierarchical demands prevent equal participation; authority prevents unified effort
+  wands_state: Leadership becomes domineering control; authority transforms into hierarchy-enforcing power
+  consequence: Collaboration stagnates from control pressure; teamwork cannot proceed freely
+  key_terms: disrupted collaboration, enforced hierarchy, constrained teamwork, prevented partnership
+
+dynamic_devolution:
+  mechanism: Leadership transforms collaboration into oppressive hierarchy; authority corrupts into tyrannical dominance
+  mode: Teamwork becomes arena for authoritarian control; collaboration becomes tool for dominance
+  loss: Authentic collaboration replaced by oppressive hierarchy; genuine teamwork becomes tyrannical control
+  key_terms: oppressive hierarchy, tyrannical control, authoritarian dominance, corrupted collaboration
+
+dynamic_dependency:
+  mechanism: Vision without collaboration becomes autocratic ruling; collaboration without leadership becomes chaotic
+  function: Pentacles provide collaborative structure that channels visionary authority productively; wands provide leadership that energizes teamwork
+  integration_outcome: Visionary leadership becomes channeled through collaboration; teamwork gains authoritative momentum
+  key_terms: channeled leadership, energized collaboration, visionary mastery, integrated enterprise
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, 4 of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Conservation, security, control, stability, fortress
+numerical_relation: King-4 (Authoritative vision commanding fortress; leadership controlling security)
+elemental_bridge: Fire passionate momentum asserting earth defensive structure; authority controlling stability
+threshold_type: The commanding fortress; security controlled by authoritative leadership
+
+dynamic_genesis:
+  mechanism: Authoritative leadership reinforces fortress walls; enterprise validates security through direction
+  process: Visionary authority strengthens defensive capability; leadership establishes secure control
+  outcome: Security gains confidence through authoritative command; fortress becomes reinforced through leadership
+  key_terms: commanded fortress, authoritative security, leadership-reinforced control, enterprise-strengthened defense
+
+dynamic_antagonism:
+  mechanism: Passionate authority demands action and change; fortress requires closure and conservation
+  tension_axis: Active authoritative momentum versus protective stillness; enterprise push versus secure stasis
+  wands_position: Commands change and development; resists stagnant preservation
+  pentacles_position: Maintains protective closure; requires conservative control
+  key_terms: action versus conservation, change versus stability, momentum versus closure, enterprise versus preservation
+
+dynamic_inhibition:
+  mechanism: Authoritative pushing disrupts fortress security; visionary change prevents stable maintenance
+  blockade_nature: The aggressive momentum disrupts protective patterns; enterprise prevents conservation
+  wands_state: Leadership becomes destabilizing pressure; authority transforms into assaulting force
+  consequence: Security becomes unstable from authoritative pressure; fortress cannot maintain
+  key_terms: unstable security, prevented conservation, destabilizing authority, assaulting leadership
+
+dynamic_devolution:
+  mechanism: Leadership transforms fortress into oppressive containment; authority corrupts into tyrannical control
+  mode: Security becomes oppressive tool; fortress becomes prison of authoritarian dominance
+  loss: Authentic security replaced by oppressive control; genuine stability becomes tyrannical imprisonment
+  key_terms: oppressive containment, tyrannical control, imprisoned stability, corrupted authority
+
+dynamic_dependency:
+  mechanism: Vision without fortress becomes chaotic momentum; fortress without visionary guidance becomes stagnant
+  function: Pentacles provide structure that channels visionary authority sustainably; wands provide momentum that prevents fortress calcification
+  integration_outcome: Visionary authority becomes channeled through fortress control; security gains dynamic leadership
+  key_terms: channeled authority, dynamic security, commanded stability, integrated leadership
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, 5 of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Deprivation, loss, hardship, exclusion, material scarcity
+numerical_relation: King-5 (Authoritative action amid hardship; leadership navigating deprivation)
+elemental_bridge: Fire passionate authority encountering earth material scarcity; enterprise tested by crisis
+threshold_type: The commanding survivor; leadership amid desperate conditions
+
+dynamic_genesis:
+  mechanism: Authoritative vision mobilizes survival response; enterprise navigates hardship strategically
+  process: Decisive leadership activates crisis response; vision channels hardship into productive action
+  outcome: Survival becomes empowered by authoritative direction; hardship becomes navigable through leadership
+  key_terms: authoritative survival, strategic navigation, leadership-guided endurance, visionary action
+
+dynamic_antagonism:
+  mechanism: Aggressive authoritative action wastes scarce resources; leadership requires careful conservation
+  tension_axis: Aggressive action versus conservation; command momentum versus careful husbanding
+  wands_position: Commands aggressive action through crisis; burns resources pursuing solutions
+  pentacles_position: Requires careful conservation; demands restrained economy
+  key_terms: aggressive versus careful, authority versus conservation, command versus economy, momentum versus restraint
+
+dynamic_inhibition:
+  mechanism: Aggressive leadership prevents conservation; authoritative momentum wastes critical resources
+  blockade_nature: The aggressive authority prevents conservation; command prevents necessary restraint
+  wands_state: Leadership becomes destructive force; authority transforms into wasteful dominance
+  consequence: Hardship worsens from wasted resources; survival becomes harder from authoritarian choices
+  key_terms: wasteful dominance, destructive authority, worsened hardship, prevented conservation
+
+dynamic_devolution:
+  mechanism: Leadership transforms survival into cruel dominance; authority corrupts into ruthless appropriation
+  mode: Crisis response becomes tool for power-consolidation; vision becomes ruthless exploitation
+  loss: Authentic leadership replaced by ruthless dominance; genuine vision becomes cruel appropriation
+  key_terms: ruthless dominance, cruel appropriation, exploitative authority, corrupted vision
+
+dynamic_dependency:
+  mechanism: Aggressive action without resource awareness becomes destructive chaos; hardship without guidance becomes despair
+  function: Pentacles ground leadership in resource reality; wands provide visionary direction that prevents despair
+  integration_outcome: Authoritative action becomes resourceful survival; leadership navigates hardship wisely
+  key_terms: resourceful authority, navigated hardship, visionary survival, integrated leadership
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, 6 of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Generosity, reciprocal exchange, sharing, equity, mutual support
+numerical_relation: King-6 (Authoritative generosity; leadership distributing reciprocal exchange)
+elemental_bridge: Fire authoritative momentum materializing as earth generous exchange; leadership enabling broad giving
+threshold_type: The generous sovereign; leadership expressed through reciprocal distribution
+
+dynamic_genesis:
+  mechanism: Authoritative vision generates generous momentum; enterprise catalyzes reciprocal exchange
+  process: Visionary leadership drives equitable distribution; authority enables open sharing
+  outcome: Generosity benefits from authoritative momentum; reciprocity becomes organized through leadership
+  key_terms: authoritative generosity, visionary exchange, leadership-driven sharing, enterprise-fueled reciprocity
+
+dynamic_antagonism:
+  mechanism: Authoritative leadership demands hierarchical control; generosity requires thoughtful equitable distribution
+  tension_axis: Authoritarian distribution versus equitable sharing; hierarchical control versus mutual support
+  wands_position: Distributes as authority deems fit; wants hierarchical gratitude
+  pentacles_position: Distributes carefully for equity; requires democratic participation
+  key_terms: authoritarian versus equitable, hierarchy versus equality, control versus mutual, gratitude versus partnership
+
+dynamic_inhibition:
+  mechanism: Authoritarian distribution prevents true reciprocity; hierarchical control disrupts equitable exchange
+  blockade_nature: The hierarchical demands prevent equal participation; authority prevents genuine sharing
+  wands_state: Leadership becomes controlling distribution; authority transforms into patronizing dominance
+  consequence: Generosity becomes oppressive; equity cannot exist under authoritarian control
+  key_terms: oppressive distribution, patronizing control, prevented equality, blocked reciprocity
+
+dynamic_devolution:
+  mechanism: Leadership transforms generosity into manipulative control; authority corrupts into exploitative dominance
+  mode: Distribution becomes tool for hierarchical power; generosity becomes leverage for obedience
+  loss: Authentic generosity replaced by manipulative control; genuine sharing becomes exploitative dominance
+  key_terms: manipulative control, exploitative leverage, oppressive distribution, corrupted generosity
+
+dynamic_dependency:
+  mechanism: Authority without equitable structure becomes autocratic dominance; generosity without leadership becomes chaotic
+  function: Pentacles provide equitable framework that channels authoritative momentum into fair sharing; wands provide direction that organizes reciprocity
+  integration_outcome: Authoritative leadership becomes channeled through equitable sharing; generosity gains visionary direction
+  key_terms: channeled authority, equitable leadership, organized generosity, integrated sharing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, 7 of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Assessment, investment evaluation, patient cultivation, growth monitoring
+numerical_relation: King-7 (Authoritative action interrupted by assessment; vision paused for evaluation)
+elemental_bridge: Fire authoritative momentum halted by earth reflective examination; leadership momentarily suspended
+threshold_type: The assessed authority; leadership examined for genuine wisdom
+
+dynamic_genesis:
+  mechanism: Assessment validates authoritative vision authenticity; evaluation proves leadership genuine
+  process: Authoritative momentum examined and found wise; assessment confirms visionary worth
+  outcome: Authority gains confidence through validated assessment; leadership becomes authenticated
+  key_terms: validated authority, proven leadership, authenticated vision, confident direction
+
+dynamic_antagonism:
+  mechanism: Authoritative momentum demands immediate action; assessment requires reflective pause
+  tension_axis: Direct action versus reflective examination; visionary push versus evaluative distance
+  wands_position: Wants to continue commanding action; resists evaluative pause
+  pentacles_position: Requires pause for honest assessment; demands evaluation before advancement
+  key_terms: action versus reflection, momentum versus pause, vision versus evaluation, immediate versus examination
+
+dynamic_inhibition:
+  mechanism: Assessment pause disrupts authoritative momentum; evaluation becomes endless questioning of authority
+  blockade_nature: The pause paralyzes leadership momentum; evaluation prevents decision implementation
+  wands_state: Leadership becomes questioned authority; vision transforms into doubted direction
+  consequence: Action stagnates from evaluation delay; authority becomes undermined
+  key_terms: undermined authority, stalled action, questioned vision, blocked momentum
+
+dynamic_devolution:
+  mechanism: Assessment becomes harsh judgment of authority; evaluation corrupts into cruel authority-challenge
+  mode: Evaluation becomes weapon against leadership; scrutiny becomes contemptuous dismissal
+  loss: Authentic authority replaced by harsh judgment; genuine vision becomes self-doubt
+  key_terms: harsh judgment, self-doubt, contemptuous challenge, corrupted assessment
+
+dynamic_dependency:
+  mechanism: Action without assessment becomes blind authoritarianism; assessment without authority becomes sterile observation
+  function: Pentacles provide evaluation that validates or redirects authority; wands provide vision that animates assessment
+  integration_outcome: Authoritative leadership becomes validated through assessment; vision proves itself wise
+  key_terms: validated authority, wise vision, confirmed leadership, integrated assessment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, 8 of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Mastery, skill development, focused practice, refinement, expertise
+numerical_relation: King-8 (Authoritative action accelerating skill development; enterprise enabling rapid expertise)
+elemental_bridge: Fire authoritative momentum intensifying earth practiced focus; leadership enabling quick mastery
+threshold_type: The masterful leader; expertise achieved through visionary enterprise
+
+dynamic_genesis:
+  mechanism: Authoritative momentum accelerates learning pace; enterprise catalyzes rapid skill acquisition
+  process: Visionary leadership intensifies practice focus; authority enables quick progression
+  outcome: Expertise benefits from authoritative momentum; mastery develops rapidly through directed enterprise
+  key_terms: accelerated mastery, authoritative expertise, leadership-driven skill-development, visionary progress
+
+dynamic_antagonism:
+  mechanism: Authoritative action demands rapid results; mastery requires narrow focused dedication
+  tension_axis: Rapid action pressure versus focused specialization; leadership urgency versus patient refinement
+  wands_position: Commands rapid advancement; wants quick results
+  pentacles_position: Specializes in slow meticulous skill; requires patient dedication
+  key_terms: rapid versus patient, pressure versus focus, command versus dedication, action versus refinement
+
+dynamic_inhibition:
+  mechanism: Authoritarian pressure prevents focused practice; leadership demands disrupt mastery development
+  blockade_nature: The command pressure prevents dedicated focus; authority prevents specialization
+  wands_state: Leadership becomes coercive pushing; authority transforms into pressuring dominance
+  consequence: Mastery stagnates from interrupted practice; expertise cannot develop under pressure
+  key_terms: pressured practice, interrupted mastery, prevented specialization, blocked expertise
+
+dynamic_devolution:
+  mechanism: Leadership transforms practice into coercive demonstration; authority corrupts into tyrannical demand
+  mode: Skill development becomes tool for proving authority; mastery becomes forced performance
+  loss: Authentic expertise replaced by forced demonstration; genuine mastery becomes tyrannically demanded
+  key_terms: tyrannical demand, forced demonstration, coercive mastery, corrupted expertise
+
+dynamic_dependency:
+  mechanism: Action without focused practice becomes aimless commanding; mastery without authority becomes invisible
+  function: Pentacles provide focused discipline that channels authoritative momentum into mastery; wands provide direction that energizes practice
+  integration_outcome: Authoritative momentum becomes channeled into focused mastery; practice gains visionary direction
+  key_terms: directed momentum, focused authority, energized mastery, integrated expertise
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, 9 of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Abundance, luxury, independence, sovereignty, material security
+numerical_relation: King-9 (Authoritative action achieving abundance; enterprise building independence)
+elemental_bridge: Fire visionary momentum manifesting into earth material security; leadership building wealth
+threshold_type: The wealthy leader; abundance achieved through authoritative enterprise
+
+dynamic_genesis:
+  mechanism: Visionary leadership attracts and builds material abundance; enterprise manifests wealth
+  process: Authoritative direction generates productive momentum; vision drives material success
+  outcome: Abundance emerges from authoritative enterprise; independence achieves through visionary leadership
+  key_terms: abundant authority, successful vision, wealth-building enterprise, sparked prosperity
+
+dynamic_antagonism:
+  mechanism: Authoritative momentum seeks to expand dominion; abundance seeks peaceful secure enjoyment
+  tension_axis: Enterprise expansion-seeking versus peaceful possession; leadership drive versus secure rest
+  wands_position: Seeks to expand enterprise and power; wants to keep building dominion
+  pentacles_position: Wants to enjoy independent security; resists continued momentum demands
+  key_terms: expansion versus rest, enterprise versus peace, momentum versus security, leadership versus independence
+
+dynamic_inhibition:
+  mechanism: Expansion obsession prevents peaceful enjoyment; authoritative momentum disrupts luxury appreciation
+  blockade_nature: The drive for dominion expansion prevents settling into abundance; momentum prevents rest
+  wands_state: Leadership becomes compulsive expansion; authority transforms into restless dominance-hunger
+  consequence: Abundance cannot be peacefully enjoyed; independence feels threatened by need for more
+  key_terms: threatened security, restless hunger, prevented enjoyment, compulsive expansion
+
+dynamic_devolution:
+  mechanism: Vision transforms abundance into obsessive acquisition; authority corrupts into greedy dominance
+  mode: Wealth becomes tool for continuous power-expansion; independence becomes slavery to advancement
+  loss: Authentic abundance replaced by compulsive hunger; genuine independence becomes obsessive striving
+  key_terms: obsessive acquisition, greedy dominance, compulsive expansion, corrupted abundance
+
+dynamic_dependency:
+  mechanism: Authority without material grounding becomes ephemeral command; abundance without visionary leadership becomes complacent
+  function: Pentacles provide material foundation that channels visionary authority into lasting wealth; wands provide momentum that energizes abundance
+  integration_outcome: Visionary leadership becomes grounded in material success; authority builds lasting independence
+  key_terms: grounded authority, lasting abundance, energized independence, integrated prosperity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, 10 of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Legacy, inheritance, dynasty, generational wealth, ancestral foundation
+numerical_relation: King-10 (Visionary leadership becoming legacy; enterprise establishing dynasty)
+elemental_bridge: Fire authoritative momentum crystallizing into earth dynastic endurance; vision becoming ancestral foundation
+threshold_type: The authoritative ancestor; vision becoming generational legacy through leadership
+
+dynamic_genesis:
+  mechanism: Visionary leadership becomes generational legacy; enterprise establishes ancestral empire
+  process: Authoritative direction crystallizes into dynasty; vision becomes founding momentum
+  outcome: Legacy emerges from visionary enterprise; dynasty establishes through authoritative leadership
+  key_terms: legacy-building vision, dynasty-establishing authority, ancestral enterprise, generational momentum
+
+dynamic_antagonism:
+  mechanism: Visionary leadership demands continued innovation; legacy requires respecting ancestral continuity
+  tension_axis: Enterprise momentum versus tradition-keeping; visionary change versus heritage preservation
+  wands_position: Wants to expand and innovate inherited structure; seeks new visionary directions
+  pentacles_position: Maintains ancestral tradition; requires preserving inherited ways
+  key_terms: innovation versus tradition, change versus preservation, enterprise versus heritage, vision versus respect
+
+dynamic_inhibition:
+  mechanism: Innovation impulse disrupts ancestral transmission; authoritative change prevents traditional consolidation
+  blockade_nature: The drive for visionary change disrupts tradition maintenance; authority disrupts legacy preservation
+  wands_state: Leadership becomes destructive rebellion against tradition; authority transforms into generational rupture
+  consequence: Legacy fragments from unwanted change; dynasty fractures from authority-driven disruption
+  key_terms: destructive rebellion, generational rupture, fractured legacy, prevented tradition
+
+dynamic_devolution:
+  mechanism: Vision transforms legacy into chaotic rejection; authority corrupts into ancestral destruction
+  mode: Inherited foundation becomes tool for destructive change; enterprise becomes authoritarian dominance
+  loss: Authentic inheritance replaced by chaotic rejection; genuine legacy becomes tyrannically altered
+  key_terms: chaotic rejection, tyrannical alteration, ancestral destruction, corrupted vision
+
+dynamic_dependency:
+  mechanism: Authority without ancestral grounding becomes ephemeral dominance; legacy without visionary momentum becomes ossified
+  function: Pentacles provide ancestral foundation that channels visionary authority creatively; wands provide momentum that prevents legacy ossification
+  integration_outcome: Visionary authority becomes creative expression of inherited legacy; enterprise revitalizes ancestral foundation
+  key_terms: creative inheritance, revitalized legacy, sparked tradition, integrated dynasty
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, Page of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Learning, curiosity, potential, fresh study, material apprenticeship
+numerical_relation: King-Page (Authoritative mentorship; visionary guidance in learning)
+elemental_bridge: Fire authoritative momentum motivating earth scholarly growth; enterprise enabling rapid education
+threshold_type: The authoritative teacher; visionary guidance of apprentice learning
+
+dynamic_genesis:
+  mechanism: Authoritative vision catalyzes learning progression; enterprise enables rapid education
+  process: Visionary guidance drives focused study; authority accelerates skill acquisition
+  outcome: Learning benefits from authoritative momentum; education progresses through visionary direction
+  key_terms: authoritative learning, visionary education, leadership-driven progression, sparked education
+
+dynamic_antagonism:
+  mechanism: Authoritative leadership demands obedience in learning; education requires independent discovery
+  tension_axis: Authoritarian direction versus independent learning; commanded lessons versus self-discovery
+  wands_position: Commands learning and expects obedience to vision; wants rapid progress
+  pentacles_position: Emphasizes independent study and self-directed learning; requires autonomy
+  key_terms: command versus independence, obedience versus discovery, authority versus autonomy, direction versus self-learning
+
+dynamic_inhibition:
+  mechanism: Authoritarian pressure prevents independent learning; leadership demands disrupt study autonomy
+  blockade_nature: The command pressure prevents self-directed discovery; authority disrupts learning freedom
+  wands_state: Leadership becomes coercive teaching; authority transforms into oppressive instruction
+  consequence: Learning stagnates from authoritarian pressure; education cannot proceed freely
+  key_terms: stagnant learning, oppressive instruction, prevented autonomy, blocked discovery
+
+dynamic_devolution:
+  mechanism: Leadership transforms education into coercive indoctrination; authority corrupts into tyrannical control
+  mode: Learning becomes tool for authoritarian dominance; education becomes forced obedience
+  loss: Authentic learning replaced by coercive indoctrination; genuine education becomes tyrannically controlled
+  key_terms: coercive indoctrination, tyrannical control, forced obedience, corrupted learning
+
+dynamic_dependency:
+  mechanism: Authority without learning focus becomes aimless commanding; education without visionary guidance becomes chaotic
+  function: Pentacles provide learning structure that channels authoritative guidance productively; wands provide direction that energizes education
+  integration_outcome: Authoritative vision becomes channeled into guided learning; education gains visionary direction
+  key_terms: guided learning, visionary direction, channeled authority, integrated education
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, Queen of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Nurturing mastery, generous abundance, grounded care, domestic sovereignty
+numerical_relation: King-Queen (Authoritative support for nurturing; leadership enabling caring work)
+elemental_bridge: Fire authoritative momentum supporting earth nurturing care; vision enabling generous service
+threshold_type: The commanding caregiver; leadership supporting nurturing generosity
+
+dynamic_genesis:
+  mechanism: Visionary leadership energizes nurturing effort; enterprise catalyzes generous care
+  process: Authoritative support strengthens caregiving; vision deepens service commitment
+  outcome: Care benefits from authoritative momentum; nurturing gains enterprise-powered support
+  key_terms: authoritative care, visionary nurturing, leadership-driven generosity, sparked provision
+
+dynamic_antagonism:
+  mechanism: Authoritative leadership demands control and hierarchy; nurturing requires mutual equality and reception
+  tension_axis: Authoritarian command versus nurturing equality; leadership hierarchy versus caring receptivity
+  wands_position: Demands authority in care relationships; wants obedience and respect
+  pentacles_position: Offers care through mutual respect; requires equality and partnership
+  key_terms: command versus equality, hierarchy versus receptivity, authority versus partnership, dominance versus care
+
+dynamic_inhibition:
+  mechanism: Authoritarian demands prevent reciprocal care; leadership hierarchy disrupts nurturing presence
+  blockade_nature: The command structure prevents genuine care relationship; authority disrupts nurturing
+  wands_state: Leadership becomes controlling care; authority transforms into domineering nurture
+  consequence: Care becomes oppressive from authoritarian approach; nurturing cannot function
+  key_terms: oppressive care, controlling authority, prevented nurturing, disrupted relationship
+
+dynamic_devolution:
+  mechanism: Leadership transforms care into manipulative control; authority corrupts into coercive dominance
+  mode: Nurturing becomes tool for authoritarian power; care becomes leverage for obedience
+  loss: Authentic care replaced by manipulative control; genuine nurturing becomes tyrannically demanded
+  key_terms: manipulative control, coercive dominance, tyrannical care, corrupted nurturing
+
+dynamic_dependency:
+  mechanism: Authority without nurturing context becomes harsh dominance; care without visionary direction becomes aimless
+  function: Pentacles provide nurturing context that humanizes authority; wands provide direction that organizes generous care
+  integration_outcome: Authoritative vision becomes channeled into nurturing care; leadership enables compassionate service
+  key_terms: channeled authority, compassionate leadership, organized care, integrated nurturing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW
+
+---
+
+card_pair: King of Wands, King of Pentacles
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_pentacles: Mastery authority, material sovereignty, grounded leadership, established dominion
+numerical_relation: King-King (Double authority: visionary momentum meeting established rule)
+elemental_bridge: Fire authoritative momentum meeting earth sovereign leadership; passionate rule encountering grounded dominion
+threshold_type: The two sovereigns; dynamic authority encountering established dominion
+
+dynamic_genesis:
+  mechanism: Visionary momentum amplifies sovereign authority; enterprise strengthens grounded dominion
+  process: Authoritative direction coordinates with established rule; vision enhances leadership momentum
+  outcome: Authority gains momentum from enterprise; sovereignty becomes amplified through visionary direction
+  key_terms: amplified authority, visionary sovereignty, enterprise-enhanced rule, momentum-powered dominion
+
+dynamic_antagonism:
+  mechanism: Dynamic momentum demands change and innovation; established authority requires stability and order
+  tension_axis: Visionary change versus established order; enterprise momentum versus sovereign stability
+  wands_position: Seeks to innovate and advance authority; wants new directions
+  pentacles_position: Maintains established order; requires preserving authority structure
+  key_terms: innovation versus stability, change versus order, momentum versus structure, vision versus tradition
+
+dynamic_inhibition:
+  mechanism: Change pressure disrupts established governance; momentum prevents stable rule
+  blockade_nature: The innovation drive disrupts authority stability; momentum destabilizes order
+  wands_state: Leadership becomes destabilizing force; authority transforms into momentum-driven pressure
+  consequence: Governance becomes unstable from internal momentum conflict; authority becomes fractured
+  key_terms: unstable governance, fractured authority, prevented stability, disrupted order
+
+dynamic_devolution:
+  mechanism: Vision transforms authority into tyrannic momentum; enterprise corrupts into cruel dominance-war
+  mode: Dual authority becomes power struggle; leadership becomes combat for dominion
+  loss: Authentic authority replaced by tyrannical momentum-conflict; genuine governance becomes warfare
+  key_terms: tyrannical momentum, power struggle, governance warfare, corrupted authority
+
+dynamic_dependency:
+  mechanism: Dynamic momentum without stable grounding becomes chaotic dominance; established authority without vision becomes stagnant
+  function: Pentacles provide stable structure that channels visionary momentum sustainably; wands provide direction that prevents authority stagnation
+  integration_outcome: Dynamic momentum becomes integrated into stable authority; vision enhances grounded sovereignty
+  key_terms: integrated authority, enhanced sovereignty, visionary stability, dynamic rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: King-1 through King-14
+  uid: KOW

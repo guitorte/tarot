@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: The Ace of Cups is haunted by the knowledge of deception; the thief is haunted by the gift they cannot genuinely receive
   swords_state: Both holding the emotional gift but unable to truly accept it
   consequence: the false love cannot be sustained
-  key_terms: ace of cups is haunted, both holding the emotional gift, false love cannot be sustained, gift is received
+  key_terms: gift that is poison to both, false love unsustainable, neither can truly accept, deception haunting the offering
 
 dynamic_devolution:
   mechanism: The gift gradually destroys both the giver and the receiver; the false love poisons everything it touches
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: A partnership where love is present but is shadowed by betrayal; the 2 of Cups survives but is no longer sacred
   swords_state: The two together but unable to truly touch, the bond stretched by suspicion
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: partnership where love is present, two together but unable, neither figure can move toward, union continues technically
+  key_terms: union poisoned by deception, bond stretched by suspicion, love no longer sacred, touch withheld
 
 dynamic_devolution:
   mechanism: The union gradually dissolves; the betrayal cannot be overcome; the partnership ends
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: A gathering where celebration continues but is shadowed by the thief's presence
   swords_state: The thief dancing among the celebrants but isolated by the awareness of their falseness
   consequence: the joy is present but poisoned
-  key_terms: gathering where celebration continues, thief dancing among the celebrants, joy is present but poisoned, thief is known
+  key_terms: thief known yet present, joy poisoned by falseness, dancing in isolation, celebration shadowed
 
 dynamic_devolution:
   mechanism: The community gradually divides over the thief; the celebration is completely destroyed
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic where theft happens but has no emotional impact
   swords_state: The thief stealing while the numb one sits unmoved, unaware or uncaring
   consequence: neither can truly engage
-  key_terms: dynamic where theft happens, thief stealing while the numb, neither can truly engage, theft continues but the numb
+  key_terms: theft without emotional impact, the unmoved target, stealing that fails to register, no engagement either way
 
 dynamic_devolution:
   mechanism: The theft eventually infects the thief with numbness; both become apathetic
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic of mutual destruction; the thief is haunted and the griever is further devastated
   swords_state: The thief stealing while the griever sits unmoved by sorrow, both in darkness
   consequence: neither can fully engage with their role
-  key_terms: dynamic of mutual destruction, thief stealing while the griever, neither can fully engage, theft happens but both
+  key_terms: mutual destruction, thief haunted griever devastated, both in darkness, neither inhabiting their role
 
 dynamic_devolution:
   mechanism: The grief consumes everything; the theft becomes irrelevant; both descend into total despair
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The memory is preserved but is now poisoned by the knowledge of corruption
   swords_state: The 6 of Cups holding memories that are known to be false but still treasured
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: memory is preserved, 6 of cups holding memories, neither figure can move toward, innocence is known to be
+  key_terms: memory known false yet cherished, corrupted innocence treasured, poisoned nostalgia, the meeting that stalls
 
 dynamic_devolution:
   mechanism: The corrupted innocence gradually destroys the ability to trust any memory
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic where both are partially engaged but fully disconnected
   swords_state: The thief and the dreamer together but unable to truly interact
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: dynamic where both are partially, thief and the dreamer together, neither figure can move toward, both exist in deception
+  key_terms: both lost in deception, partial engagement total disconnection, no true interaction, mutual unreality
 
 dynamic_devolution:
   mechanism: The deceptions gradually destroy each other; neither can sustain the fantasy alone
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is technically shared but spiritually divided
   swords_state: The thief and the seeker moving in the same direction but increasingly separated
   consequence: neither fully engages with the other
-  key_terms: journey that is technically shared, thief and the seeker moving, neither fully engages, both travel together
+  key_terms: shared journey spiritually divided, growing distrust on the road, neither fully engaging, separation in company
 
 dynamic_devolution:
   mechanism: The partnership gradually dissolves into conflict
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: Satisfaction that is preserved but is now poisoned by the knowledge of theft
   swords_state: The 9 of Cups holding the stolen wish but unable to truly enjoy it
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: satisfaction that is preserved, 9 of cups holding, neither figure can move toward, wish is known to be
+  key_terms: stolen wish clung to, satisfaction poisoned by theft, contentment that cannot be enjoyed, the meeting that stalls
 
 dynamic_devolution:
   mechanism: The stolen wish gradually poisons the 9 of Cups' entire life
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: A family where love is present but is shadowed by betrayal
   swords_state: The family gathered around the table but unable to truly trust
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: family where love is present, family gathered around the table, neither figure can move toward, family remains together
+  key_terms: family bonds poisoned, love shadowed by betrayal, trust impossible, the table that cannot rest
 
 dynamic_devolution:
   mechanism: The family gradually dissolves; the betrayal cannot be overcome
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: An innocence that is known to be at risk but continues to open anyway
   swords_state: The Page offering emotion while the thief watches to exploit it
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: innocence that is known, page offering emotion, neither figure can move toward, page remains emotionally open despite
+  key_terms: innocence opening into danger, vulnerability watched for exploitation, openness despite betrayal, the meeting that stalls
 
 dynamic_devolution:
   mechanism: The Page's innocence is completely destroyed by repeated deceptions
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: A quest that is now shadowed by doubt; the Knight seeks but with caution
   swords_state: The Knight on the quest but looking over their shoulder for betrayal
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: quest that is now shadowed, knight on the quest, neither figure can move toward, knight continues to seek true
+  key_terms: quest shadowed by doubt, seeking with the backward glance, love sought under suspicion, the meeting that stalls
 
 dynamic_devolution:
   mechanism: The Knight's capacity for romantic seeking is completely destroyed
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic where the Queen's compassion enables theft; genuine help is impossible
   swords_state: The Queen offering compassion; the thief secretly stealing while receiving the Queen's care
   consequence: both are engaged but the relationship is false
-  key_terms: dynamic where the queen's compassion, queen offering compassion, both are engaged, queen offers compassion
+  key_terms: compassion enabling theft, genuine care false taking, help made impossible, relationship built on deceit
 
 dynamic_devolution:
   mechanism: The Queen's compassion is gradually destroyed by the continued exploitation
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: A stalemate where the thief cannot steal and the King must remain vigilant
   swords_state: The thief attempting theft; the King maintaining mastery; neither winning
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: stalemate where the thief cannot, thief attempting theft, neither figure can move toward, thief remains but the theft
+  key_terms: theft thwarted by mastery, the vigilant stalemate, thief unable to steal, neither winning
 
 dynamic_devolution:
   mechanism: The thief becomes increasingly desperate and destructive

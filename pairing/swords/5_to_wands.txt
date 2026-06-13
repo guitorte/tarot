@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: A fire that burns internally without spreading; the creative potential is locked within the victor, producing an internal burning that has no outlet
   swords_state: The flame existing in the victor's chest but their hands remain clenched, unable to grasp the spark or share it with the world
   consequence: the victor receives the inspiration but cannot manifest it, cannot trust it enough to build something with it
-  key_terms: fire that burns internally without, flame existing in the victor's, victor receives the inspiration, creative fire is allowed
+  key_terms: caged inspiration, fire without outlet, clenched hands, untrusted spark
 
 dynamic_devolution:
   mechanism: The refused inspiration metastasizes into bitterness toward creativity itself; the Ace of Wands is gradually extinguished by the victor's refusal; what could have been transformative becomes destructive
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: A plan that exists but cannot be executed because every possible scenario is hedged with contingencies; the vision becomes so complicated by safety measures that it becomes unworkable
   swords_state: The strategist holding the orbs of future power but unable to move forward because the victor is insisting on fortifying every possible approach
   consequence: the strategy becomes paralyzed by overcaution
-  key_terms: plan that exists but cannot, strategist holding the orbs, strategy becomes paralyzed by overcaution, planning is incomplete
+  key_terms: plan smothered by contingencies, overcautious strategy, unworkable vision, paralysis by hedging
 
 dynamic_devolution:
   mechanism: The vision is gradually corrupted by the victor's cynicism; the strategic planning becomes obsessed with defense rather than opportunity; the 2 of Wands becomes a map of all possible catastrophes
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: An empire suspended in the moment of reaching; the growth is stunted by excessive caution; the horizons remain distant, beautiful but unreachable
   swords_state: The figure standing before three wands, arms extended toward the horizon but unable to step forward because the victor is securing the ground beneath their feet
   consequence: the 3 of Wands gazes at the distant horizons but cannot fully embrace them because the victor insists on first securing the foundations
-  key_terms: empire suspended in the moment, figure standing before three wands, 3 of wands gazes at, expansion is allowed
+  key_terms: suspended expansion, unreachable horizon, foundations endlessly secured, stunted growth
 
 dynamic_devolution:
   mechanism: The expansion stagnates completely; the 3 of Wands' vision dies under the weight of defensive measures; the empire becomes a fortress, beautiful from inside but closed to the world
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: A false celebration where joy is performed while the victor stands guard; the 4 of Wands becomes a stage set rather than a genuine gathering
   swords_state: The community gathered around a central fire while the victor circles the perimeter, unable to join the circle
   consequence: the community gathers around the harvest but the victor remains outside, watching
-  key_terms: false celebration where joy, community gathered around a central, community gathers around the harvest, celebration becomes a performance
+  key_terms: performed celebration, the watcher outside the circle, hollow gathering, joy under guard
 
 dynamic_devolution:
   mechanism: The celebration curdles; the victor's isolation becomes contagious; the 4 of Wands transforms from a gathering of joy into a gathering of obligation; the harvest becomes heavy rather than light
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: A mutual paralysis where neither the victor nor the strugglers can move forward; the external victory is shadowed by the knowledge that internal conflicts persist; the internal struggles are shadowed by the knowledge that they may be mere weakness
   swords_state: Five wands clashing at a central point while the victor stands at the periphery, unable to step into the struggle or move beyond it
   consequence: the internal strife frustrates the victor's attempts to create external order
-  key_terms: mutual paralysis where neither, five wands clashing at, internal strife frustrates the victor's, both forms of struggle
+  key_terms: mutual paralysis, struggle that cannot resolve, victor at the periphery, frustrated order
 
 dynamic_devolution:
   mechanism: The victor's external victory is gradually consumed by the realization that no external victory can resolve internal conflict; the 5 of Wands' struggle is gradually poisoned by the victor's judgment
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: A public figure who is admired but who cannot believe in their own admiration; the 6 of Wands' celebration becomes a performance in which the victor does not believe
   swords_state: The victor standing on a pedestal of recognition while internally collapsed with the knowledge of the cost
   consequence: the public narrative of achievement conflicts with the private knowledge of loss
-  key_terms: public figure who is admired, victor standing on a pedestal, public narrative of achievement conflicts, victor is frozen
+  key_terms: disbelieved acclaim, the pedestal as performance, public triumph private cost, frozen recognition
 
 dynamic_devolution:
   mechanism: The rejection of recognition metastasizes into contempt for those who grant it; the victor's bitterness poisons the very acclimation that might have redeemed it; the 6 of Wands is corrupted into mockery
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: A defense that is weakened by doubt; the 7 of Wands still holds the position but without conviction; the struggle continues but the spirit is fractured
   swords_state: The figure holding ground but looking back at the victor, seeking reassurance that the defense is worthwhile
   consequence: the resistance is undermined by the knowledge that even victory may be hollow
-  key_terms: defense that is weakened, figure holding ground but looking, resistance is undermined, defender is weakened
+  key_terms: defense without conviction, doubt-weakened resistance, the backward glance, fractured spirit
 
 dynamic_devolution:
   mechanism: The defense gradually collapses under the weight of the victim's insistence on hopelessness; the 7 of Wands' courage is gradually poisoned by the victor's bitterness
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: Rapid progress shadowed by fear; the movement continues but is not pure; the 8 of Wands is haunted by the victor's certainty that collision is coming
   swords_state: Swift arrows flying forward while the victor's shadow falls across them, darkening their path
   consequence: the momentum is not slowed but the joy of swift movement is poisoned
-  key_terms: rapid progress shadowed by fear, swift arrows flying forward, momentum is not slowed, speed is maintained
+  key_terms: poisoned momentum, speed shadowed by dread, anxious flight, the darkened path
 
 dynamic_devolution:
   mechanism: The speed is gradually consumed by the victor's insistence on danger; the momentum is destroyed by excessive caution; the 8 of Wands becomes paralyzed by the fear of collision
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: A final stand that becomes eternal; the 9 of Wands suspended in the moment of holding on, unable to move forward into recovery
   swords_state: The weary figure standing with raised wands, unable to lower them, unable to continue, suspended in the moment of ultimate exhaustion
   consequence: the stance becomes one of pure endurance without any purpose beyond itself
-  key_terms: final stand that becomes eternal, weary figure standing with raised, stance becomes one of pure, defender holds the position
+  key_terms: eternal last stand, frozen exhaustion, purposeless endurance, wands that cannot lower
 
 dynamic_devolution:
   mechanism: The exhaustion becomes a wound; the 9 of Wands gradually collapses under the weight of unrelenting vigilance; the final stand becomes a slow defeat by attrition
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The burden becomes a slow poison; the one carrying it is not freed but enslaved by the very victory they fought for; the 10 of Wands is crushed under the weight
   swords_state: The figure staggering under the burden of ten wands, barely able to move forward, forced to continue because stopping is not an option
   consequence: the 10 of Wands moves forward but grudgingly, understanding that the weight is necessary but unable to accept it gracefully
-  key_terms: burden becomes a slow poison, figure staggering under the burden, 10 of wands moves forward, burden is carried
+  key_terms: burden as slow poison, resentful carrying, enslaved by one's own victory, weight without grace
 
 dynamic_devolution:
   mechanism: The resentment of the burden metastasizes into rebellion; the victor who fought so hard to win now seeks to abandon the prize and all its responsibilities
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: The passion burns internally without outlet; the 8 of Wands is frustrated and slowly consumed by the unexpressed fire
   swords_state: The young enthusiast standing before the victor, internal flames visible but unable to leap outward
   consequence: the young one is frozen by contradiction
-  key_terms: passion burns internally without outlet, young enthusiast standing before, young one is frozen, page's enthusiasm is arrested
+  key_terms: arrested enthusiasm, unexpressed fire, the young one frozen, contradiction without exit
 
 dynamic_devolution:
   mechanism: The unexpressed enthusiasm gradually metastasizes into bitterness; the Page of Wands is gradually corrupted into becoming like the victor; the fire dims and hardens
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: The knight departs but with the victor's voice echoing in their ears; the adventure is shadowed by fear; the journey is taken but the joy of it is poisoned
   swords_state: The knight at the threshold of departure, looking back at the victor, unable to move forward without carrying the weight of the warning
   consequence: the adventure is compromised by the knowledge of what might go wrong
-  key_terms: knight departs, knight at the threshold, adventure is compromised, knight is held back
+  key_terms: departure delayed by doubt, the warning that follows, compromised adventure, poisoned journey
 
 dynamic_devolution:
   mechanism: The warning becomes a curse; the knight's journey is increasingly shadowed by anxiety; the adventure becomes a flight from the victor's prophecy
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: The partnership is incomplete; the Queen leads but the victor's skepticism prevents full commitment; the vision is present but the army behind it is uncertain
   swords_state: The Queen radiating magnetism while the victor stands to the side, drawn but unable to fully enter the circle of influence
   consequence: the charisma is present but its effect is limited by the victor's obvious doubt
-  key_terms: partnership is incomplete, queen radiating magnetism, charisma is present, queen's magnetism is dampened
+  key_terms: dampened magnetism, the half-entered circle, skepticism that limits influence, incomplete partnership
 
 dynamic_devolution:
   mechanism: The conflict between the Queen's optimism and the victor's bitterness becomes a wound; the partnership dissolves into accusation
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: A strange paralysis where both sovereigns are diminished by the presence of the other; the realm is caught between inspiration and caution
   swords_state: Two thrones, two flags, two armies—the kingdom divided not by open war but by the tension between two different visions of rulership
   consequence: the victor's clarity is questioned by the King's confidence
-  key_terms: strange paralysis where both sovereigns, two thrones, victor's clarity is questioned, neither sovereign can fully exercise
+  key_terms: two diminished sovereigns, realm split inspiration-versus-caution, divided rulership, mutual cancellation
 
 dynamic_devolution:
   mechanism: The tension becomes actual conflict; the two sovereigns war for control; the victor's clarity is weaponized; the King's passion is inflamed

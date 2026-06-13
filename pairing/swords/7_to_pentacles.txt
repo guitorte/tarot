@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: The Ace of Pentacles is held but not fully experienced; the material blessing is present but is haunted
   swords_state: The thief holding the coin but unable to fully claim it, aware that it is stolen
   consequence: the knowledge of the theft prevents full possession
-  key_terms: ace of pentacles is held, thief holding the coin, knowledge of the theft prevents, thief possesses the stolen gift
+  key_terms: stolen gift unenjoyed, possession without full claim, blessing haunted by theft, coin that cannot be owned
 
 dynamic_devolution:
   mechanism: The theft gradually destroys the gift; the stolen opportunity becomes a curse; the material blessing transforms into a weight
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: The 2 of Pentacles is frozen in the moment of discovering the theft; the balance cannot be recovered
   swords_state: The juggler staring at the empty hand, the stolen resources gone, the balance impossible to maintain
   consequence: the juggler cannot restore the balance because too much has been stolen
-  key_terms: 2 of pentacles is frozen, juggler staring at the empty, juggler cannot restore the balance, theft is discovered
+  key_terms: balance unrecoverable, theft discovered too late, the empty hand, equilibrium broken
 
 dynamic_devolution:
   mechanism: The theft gradually destroys the juggler's ability to balance; the resources are so depleted that equilibrium becomes impossible
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: The 3 of Pentacles continues to function technically but the genuine collaboration is dead
   swords_state: The team still working together but each member isolated by suspicion
   consequence: no one trusts
-  key_terms: 3 of pentacles continues, team still working together, no one trusts, team remains together
+  key_terms: collaboration poisoned, function without trust, team isolated by suspicion, dead cooperation
 
 dynamic_devolution:
   mechanism: The team gradually dissolves as trust cannot be restored; the collaborative work fails
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: A standoff where neither can win; the thief cannot steal and the hoarder cannot rest
   swords_state: The thief circling the hoarder, attempting theft from every angle but unable to penetrate the defense
   consequence: the hoarder remains vigilant, exhausted by constant fear
-  key_terms: standoff where neither can win, thief circling the hoarder, hoarder remains vigilant, thief remains in the vicinity
+  key_terms: theft-and-vigilance standoff, neither steals nor rests, exhausting watchfulness, the circling thief
 
 dynamic_devolution:
   mechanism: The hoarder's vigilance eventually becomes paranoia; the thief becomes obsessed with penetrating the defense
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: A wound that prevents both from moving forward; the thief is enslaved by guilt and the struggling one is destroyed by despair
   swords_state: The thief carrying the stolen goods but unable to enjoy them; the struggling one lying in deeper desperation
   consequence: the struggling one descends into complete hopelessness
-  key_terms: wound that prevents both from, thief carrying the stolen goods, struggling one descends into complete, theft is complete
+  key_terms: theft completed both ruined, thief enslaved by guilt, descent into hopelessness, wound that halts both
 
 dynamic_devolution:
   mechanism: The guilt gradually destroys the thief; the despair gradually destroys the struggling one; both are consumed by the theft
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The 6 of Pentacles gives but the authentic generosity is compromised by awareness of potential theft
   swords_state: The generous one distributing gifts but checking for thieves, the openness guarded
   consequence: the giving is present but the joy is poisoned
-  key_terms: 6 of pentacles gives, generous one distributing gifts, giving is present, generous one continues to give
+  key_terms: generosity guarded, giving with the joy poisoned, openness on watch, charity checking for thieves
 
 dynamic_devolution:
   mechanism: The generous one stops giving; the generosity is completely destroyed by the betrayal
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: An endless cycle where the worker labors and the thief steals; neither can break the pattern
   swords_state: The worker tending the garden; the thief harvesting at night; the cycle continuing indefinitely
   consequence: both are trapped in the repetition
-  key_terms: endless cycle where the worker, worker tending the garden, both are trapped, worker continues to labor
+  key_terms: endless labor-and-theft cycle, worker by day thief by night, pattern that cannot break, mutual entrapment
 
 dynamic_devolution:
   mechanism: The worker's patience is gradually destroyed by the theft; the thief becomes dependent on stolen goods
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: An apprenticeship that is technically happening but spiritually false; the skill is learned but the integrity is missing
   swords_state: The thief learning the craft while secretly stealing materials and knowledge
   consequence: the progress is compromised by the dishonesty
-  key_terms: apprenticeship that is technically happening, thief learning the craft, progress is compromised, thief attempts apprenticeship but steals
+  key_terms: apprenticeship spiritually false, skill learned integrity missing, stealing while learning, compromised progress
 
 dynamic_devolution:
   mechanism: The thief's theft is discovered; the apprenticeship is ended; the thief is expelled from the craft
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The independence is preserved but is now shadowed by wariness; the solitude is no longer peaceful
   swords_state: The self-made one alone in their garden but constantly checking for the thief
   consequence: the thief cannot steal again but remains a presence
-  key_terms: independence is preserved, self-made one alone, thief cannot steal again, self-made one increases their vigilance
+  key_terms: independence shadowed by wariness, peace lost to vigilance, solitude no longer safe, the thief who remains a presence
 
 dynamic_devolution:
   mechanism: The repeated theft attempts gradually destroy the self-made one's ability to remain independent
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The legacy is technically preserved but is shadowed by the violation of trust
   swords_state: The family gathered around the inheritance but unable to truly receive it peacefully
   consequence: neither figure can move toward the other; the meeting stalls
-  key_terms: legacy is technically preserved, family gathered around the inheritance, neither figure can move toward, family remains intact
+  key_terms: legacy shadowed by violated trust, inheritance unreceivable in peace, the family that cannot rest, stalled passing
 
 dynamic_devolution:
   mechanism: The theft gradually destroys the family unity; the generations become divided by suspicion
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: A learning that is hollow; the Page absorbs lessons of dishonesty alongside genuine craft knowledge
   swords_state: The young seeker learning with the thief but increasingly suspicious and withdrawn
   consequence: the apprenticeship is technically continuing but is morally compromised
-  key_terms: learning that is hollow, young seeker learning, apprenticeship is technically continuing, page remains with the thief
+  key_terms: hollow learning, dishonesty taught with craft, suspicious withdrawn student, morally compromised apprenticeship
 
 dynamic_devolution:
   mechanism: The Page's innocence is completely destroyed by the deception; the young seeker becomes a thief themselves
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: A standoff where neither can win; the thief cannot steal and the guardian cannot rest
   swords_state: The thief circling the Knight; the Knight constantly checking for theft; both tired
   consequence: the Knight remains vigilant, exhausted
-  key_terms: standoff where neither can win, thief circling the knight, knight remains vigilant, thief remains in the vicinity
+  key_terms: theft-and-vigilance standoff, guardian exhausted by watch, the circling thief, neither winning
 
 dynamic_devolution:
   mechanism: The Knight's caution gradually becomes paranoia; the thief becomes obsessed with penetrating the defense
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: A dynamic where the Queen's abundance feeds the thief's greed; the compassion is genuine but enables theft
   swords_state: The Queen providing abundance; the thief secretly stealing more while receiving the Queen's gifts
   consequence: both are engaged but the relationship is false
-  key_terms: dynamic where the queen's abundance, queen providing abundance, both are engaged, queen gives compassionately
+  key_terms: abundance feeding greed, compassion enabling theft, genuine giving false taking, relationship built on deceit
 
 dynamic_devolution:
   mechanism: The Queen's compassion is gradually destroyed by the continued theft; the Queen becomes bitter
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: A cold war where neither can fully defeat the other; the King rules but with awareness of vulnerability
   swords_state: The King on his throne but constantly watching for the thief; the thief free but unable to enjoy the stolen goods
   consequence: the King remains in power but is constantly threatened
-  key_terms: cold war where neither can, king on his throne, king remains in power, thief remains free but cannot
+  key_terms: cold war of attrition, rule under constant threat, stolen goods unusable, vigilance without victory
 
 dynamic_devolution:
   mechanism: The King becomes increasingly tyrannical in his pursuit of the thief; the thief becomes increasingly desperate

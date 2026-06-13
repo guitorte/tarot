@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: An emotional gift that travels with the traveler but remains unreceived; the love is present but cannot penetrate the closed heart needed for the journey
   swords_state: The traveler carrying the cup of love but drinking from it only in small sips during the crossing
   consequence: the Ace's gift is carried but cannot be fully received until the journey is complete
-  key_terms: emotional gift that travels, traveler carrying the cup, ace's gift is carried, traveler moves but cannot truly
+  key_terms: love carried not received, heart closed for the crossing, sipped not drunk, gift awaiting arrival
 
 dynamic_devolution:
   mechanism: The gift decays during the journey; the love gradually loses its potency as the traveler cannot open to receive it; the Ace's blessing is lost
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: A crossing that is emotionally agonizing; the traveler is present in the boat but absent from the journey; the beloved is present in the heart but absent from the hand
   swords_state: The traveler in the boat but the cord of love stretching back toward the beloved on the shore, making progress difficult
   consequence: the journey and the love are in constant tension
-  key_terms: crossing that is emotionally agonizing, traveler in the boat, journey and the love, traveler departs but the bond
+  key_terms: cord of love stretched back, present in boat absent from journey, agonized crossing, bond that slows progress
 
 dynamic_devolution:
   mechanism: The bond gradually breaks under the strain of distance; the 2 of Cups' union is corrupted by separation; the connection becomes poisoned
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: A gathering that is bittersweet; the celebration is present but its completion is prevented by the knowledge of departure
   swords_state: The travelers among the celebration but always knowing the boat awaits, unable to fully join the dancing
   consequence: the celebration shadows the impending departure
-  key_terms: gathering that is bittersweet, travelers among the celebration, celebration shadows the impending departure, traveler remains at the celebration
+  key_terms: bittersweet gathering, celebration shadowed by departure, dancing half-joined, joy under the boat's call
 
 dynamic_devolution:
   mechanism: The celebration gradually curdled by the knowledge of imminent departure; the joy is poisoned; the 3 of Cups transforms into sorrow
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: A crossing that is physically complete but emotionally incomplete; the traveler arrives numb; the journey has not healed what withdrawal built
   swords_state: The traveler in the boat but the protective shell remains, the crossing cannot penetrate the emotional numbness
   consequence: the journey is made but the feeling remains distant
-  key_terms: crossing that is physically complete, traveler in the boat, journey is made, traveler begins the crossing
+  key_terms: crossing complete feeling incomplete, numbness the boat cannot pierce, arrival without thaw, protective shell intact
 
 dynamic_devolution:
   mechanism: The numbness gradually solidifies during the journey; the 4 of Cups' protection becomes a prison that cannot be escaped even through movement
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is emotionally agonizing; the crossing is slow because of the weight of grief; the grief is incomplete because of the need to move
   swords_state: The traveler in the boat weeping, unable to both cross and mourn fully
   consequence: the pain is carried incompletely
-  key_terms: journey that is emotionally agonizing, traveler in the boat weeping, pain is carried incompletely, traveler grieves while crossing
+  key_terms: grief and crossing both half-done, weeping at the oars, pain carried incompletely, neither mourned nor moved
 
 dynamic_devolution:
   mechanism: The grief metastasizes into rage at being forced to leave; the journey becomes another wound; the loss is compounded by the sense of betrayal at having to depart
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: A crossing where the future is pulled by the past; the traveler makes progress but cannot fully commit to the journey because of the pull toward memory
   swords_state: The traveler in the boat but constantly looking back at the shore of memory, unable to fully face forward
   consequence: the journey is slowed by nostalgia
-  key_terms: crossing where the future, traveler in the boat, journey is slowed by nostalgia, traveler moves but looks constantly
+  key_terms: future pulled by the past, the constant backward look, nostalgia-slowed crossing, unable to face forward
 
 dynamic_devolution:
   mechanism: The nostalgia gradually becomes obsessive; the traveler attempts to return; the 6 of Cups' memory becomes a trap that prevents progress
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: A crossing complicated by disillusionment; the traveler must release the illusions during the journey; the fantasy dies slowly
   swords_state: The traveler in the boat surrounded by the cups of fantasy, gradually releasing them into the water as reality asserts itself
   consequence: the journey is complicated by the fantasy that the traveler expected versus the reality they encounter
-  key_terms: crossing complicated by disillusionment, traveler in the boat surrounded, journey is complicated, traveler carries the illusions
+  key_terms: illusions carried into the crossing, fantasy dying slowly, disillusionment mid-journey, cups released into the water
 
 dynamic_devolution:
   mechanism: The traveler becomes obsessed with one illusion and the crossing is prevented; the fantasy becomes more real than the reality of the journey
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is shared but uncomfortable; both travelers are diminished by the partnership because they are pulling in different directions
   swords_state: The two in the same boat but facing different directions, the oars pulling against each other
   consequence: neither fully commits to the other's approach
-  key_terms: journey that is shared, two in the same boat, neither fully commits, two travelers move together
+  key_terms: shared boat pulling apart, oars against each other, destination-versus-journey tension, partnership that diminishes both
 
 dynamic_devolution:
   mechanism: The partnership falls apart; the travelers separate in resentment; the 6 of Swords' destination-seeking is criticized by the 8 of Cups as limited; the searching is criticized as aimless
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: A state of frustrated satisfaction; the 9 of Cups is achieved but cannot be fully enjoyed because movement calls
   swords_state: The traveler in the place of satisfied wishes but looking toward the horizon, unable to fully settle
   consequence: the departure is delayed
-  key_terms: state of frustrated satisfaction, traveler in the place, departure is delayed, traveler remains in the satisfied
+  key_terms: frustrated satisfaction, wish achieved not enjoyed, restlessness amid plenty, departure delayed
 
 dynamic_devolution:
   mechanism: The satisfaction becomes a prison; the 9 of Cups' achievement transforms into a cage; the traveler is trapped by fulfillment
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: A family circle that is technically intact but spiritually fragmented; the love remains but is shadowed by the traveler's internal absence
   swords_state: The traveler at the family table but looking toward the horizon, the presence divided
   consequence: the family is incomplete
-  key_terms: family circle that is technically, traveler at the family table, family is incomplete, traveler remains with the family
+  key_terms: family intact but fragmented, love present traveler absent, presence divided, the inward departure
 
 dynamic_devolution:
   mechanism: The traveler finally departs and the family is shattered; the circle breaks; the 10 of Cups' happiness is destroyed by the loss
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: An emotional opening that is shadowed by the traveler's internal absence; the Page's feeling never fully blooms because something is withheld
   swords_state: The traveler and the Page together but the traveler's attention divided, the boat always in the distance
   consequence: the Page feels the incompleteness
-  key_terms: emotional opening that is shadowed, traveler and the page together, page feels the incompleteness, traveler remains for the page's
+  key_terms: feeling that never fully blooms, opening shadowed by withholding, divided attention, the boat always in view
 
 dynamic_devolution:
   mechanism: The traveler departs and the Page's emotional opening is arrested; the tender heart is wounded by the departure; the feeling dies
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: A journey that is divided; both seekers are weakened by the partnership because they pull in different directions emotionally
   swords_state: The traveler and the Knight in the same boat but facing different emotional horizons
   consequence: they journey together but incompletely
-  key_terms: journey that is divided, traveler and the knight, they journey together but incompletely, two move together but at
+  key_terms: divided journey, two emotional horizons, practicality against the heart's pace, partnership that weakens both
 
 dynamic_devolution:
   mechanism: The partnership falls apart; the traveler leaves the Knight to continue the quest alone; the Knight is left embittered, believing the traveler did not believe in the quest
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: A stalemate of love; the compassion becomes a cage; the care becomes imprisonment
   swords_state: The traveler and the Queen locked in an embrace that neither can break, the boat visible but unreachable
   consequence: both are trapped in an impossible situation
-  key_terms: stalemate of love, traveler and the queen locked, both are trapped
+  key_terms: compassion as cage, embrace neither can break, care become imprisonment, boat visible unreachable
 
 dynamic_devolution:
   mechanism: The traveler finally breaks free but with violence; the Queen is wounded by the departure; the compassionate relationship becomes bitter
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: A kingdom where the traveler serves but does not freely follow; the mastery is technical but hollow; the authority is preserved but not honored
   swords_state: The traveler and the King together but the traveler bound in invisible chains, the freedom visible but unattainable
   consequence: both are diminished
-  key_terms: kingdom where the traveler serves, traveler and the king together, both are diminished, traveler remains bound
+  key_terms: mastery through control not wisdom, service without free following, invisible chains, freedom in sight unattainable
 
 dynamic_devolution:
   mechanism: The traveler openly rebels against the King; the emotional authority is challenged and overthrown; the kingdom is shattered

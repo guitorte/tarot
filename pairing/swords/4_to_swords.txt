@@ -1,0 +1,547 @@
+card_pair: 4 of Swords, 4 of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Rest, truce, peace, mental stillness, respite
+numerical_relation: 4-4 (Rest meeting rest; peace enabling mutual recovery)
+elemental_bridge: Air stillness encountering air stillness; mental rest enabling shared peace
+threshold_type: The mutual respite; shared recovery
+
+dynamic_genesis:
+  mechanism: Mutual rest enables recovery; shared peace permits renewal
+  process: Both withdrawing permits integrated restoration; dual stillness enables shared healing
+  outcome: Recovery flows from mutual respite; renewal emerges from shared peace
+  key_terms: mutual recovery, shared peace, integrated rest, joint renewal
+
+dynamic_antagonism:
+  mechanism: Both rest; neither engages with the other
+  tension_axis: Both withdrawn; both still; potential for disconnection
+  swords_position_1: Seeks personal rest; withdraws for self-care
+  swords_position_2: Also seeks rest; permits the other's withdrawal
+  key_terms: mutual withdrawal, compatible rest, accepted stillness, shared distance
+
+dynamic_inhibition:
+  mechanism: Mutual rest prevents engagement; shared stillness prevents connection
+  blockade_nature: Both withdraw simultaneously; neither initiates reconnection
+  swords_state: Rest becomes connection-preventing force; peace prevents relational engagement
+  consequence: Disconnection deepens from mutual withdrawal; bonding cannot be maintained
+  key_terms: deepened disconnection, prevented bonding, mutual withdrawal, lost connection
+
+dynamic_devolution:
+  mechanism: Mutual rest corrupts into shared dissociation; peace becomes numbness-enabling
+  mode: Dual withdrawal becomes isolation-intensifying; rest enables affective death
+  loss: Genuine recovery replaced by dissociative numbness; authentic peace becomes impossible
+  key_terms: shared dissociation, numbness-enabling, isolation-intensifying, impossible peace
+
+dynamic_dependency:
+  mechanism: Rest without reconnection-capacity becomes stagnant; peace without engagement becomes deadening
+  function: Each Swords-4 can permit the other's healing; or both enable mutual withdrawal
+  integration_outcome: Rest becomes integrated into maintaining connection; peace enables relational renewal
+  key_terms: relational renewal, integrated rest, maintained connection, peaceful bonding
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS
+
+---
+
+card_pair: 4 of Swords, 5 of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 4-5 (Rest before conflict; peace preceding inevitable struggle)
+elemental_bridge: Air stillness meeting air struggle; mental peace before necessary fighting
+threshold_type: The rested combatant; peace enabling clear conflict
+
+dynamic_genesis:
+  mechanism: Rest enables clear conflict-engagement; peace allows wise fighting
+  process: Mental respite permits renewed fighting-capacity; stillness grounds productive struggle
+  outcome: Conflict resolves from rested clarity; wisdom emerges through peaceful engagement
+  key_terms: rested fighting, centered conflict, peaceful struggle, wise engagement
+
+dynamic_antagonism:
+  mechanism: Conflict demands immediate action; rest demands deferral
+  tension_axis: Conflict-urgency versus needed recovery; demanded fighting versus restorative peace
+  swords_position_1: Seeks rest before fighting; wants preparation
+  swords_position_2: Demands immediate combat; refuses delayed engagement
+  key_terms: demanded fighting, delayed engagement, preparation-seeking, incompatible timing
+
+dynamic_inhibition:
+  mechanism: Rest prevents timely conflict-engagement; peace delays necessary fighting
+  blockade_nature: The extended rest prevents entering struggle; peace delays unavoidable confrontation
+  swords_state: Rest becomes conflict-delaying force; peace prevents fighting-engagement
+  consequence: Conflict accumulates; struggle becomes more difficult from delayed engagement
+  key_terms: accumulated conflict, delayed fighting, prevented engagement, worsened struggle
+
+dynamic_devolution:
+  mechanism: Rest corrupts into cowardly avoidance; peace becomes fighting-refusing
+  mode: Peace-seeking becomes conflict-avoiding; rest enables self-destructive postponement
+  loss: Authentic rest replaced by cowardly evasion; genuine peace becomes impossible
+  key_terms: cowardly avoidance, conflict-evasion, self-destructive postponement, impossible peace
+
+dynamic_dependency:
+  mechanism: Rest without conflict-awareness becomes denial; conflict without rest-preparation becomes destructive
+  function: Swords-5 provides struggle that requires rested readiness; Swords-4 provides renewal that enables wise fighting
+  integration_outcome: Rest becomes integrated into conflict-preparation; peace enables clear fighting
+  key_terms: prepared conflict, clear fighting, integrated rest, peaceful struggle
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS
+
+---
+
+card_pair: 4 of Swords, 6 of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Travel, transition, movement toward solution, passage, departure
+numerical_relation: 4-6 (Rest before transition; peace enabling conscious passage)
+elemental_bridge: Air stillness meeting air movement; mental pause enabling clear passage
+threshold_type: The prepared traveler; rest enabling conscious transition
+
+dynamic_genesis:
+  mechanism: Rest enables conscious transition-choice; peace allows grounded passage
+  process: Mental respite permits clear transition-decision; stillness grounds movement-readiness
+  outcome: Transition flows from rested clarity; passage emerges from centered peace
+  key_terms: rested transition, centered passage, peaceful movement, conscious choosing
+
+dynamic_antagonism:
+  mechanism: Transition demands decision; rest demands deferral
+  tension_axis: Passage-urgency versus needed preparation; movement-timing versus restorative pause
+  swords_position_1: Seeks rest before departing; wants preparation-time
+  swords_position_2: Calls for immediate passage; demands leaving
+  key_terms: demanded passage, delayed departure, preparation-seeking, incompatible timing
+
+dynamic_inhibition:
+  mechanism: Rest prevents timely transition; peace delays necessary passage
+  blockade_nature: The extended rest prevents entering transition; peace delays unavoidable departure
+  swords_state: Rest becomes passage-preventing force; peace prevents movement-action
+  consequence: Transition becomes overdue; timing becomes missed from delayed engagement
+  key_terms: missed timing, delayed passage, prevented transition, overdue departure
+
+dynamic_devolution:
+  mechanism: Rest corrupts into stagnant avoidance; peace becomes passage-refusing
+  mode: Peace-seeking becomes transition-avoiding; rest enables self-trapping
+  loss: Authentic rest replaced by escapist delay; genuine peace becomes impossible
+  key_terms: escapist delay, transition-avoidance, self-trapping, impossible peace
+
+dynamic_dependency:
+  mechanism: Rest without passage-timing becomes stagnant; transition without rest-preparation becomes trauma
+  function: Swords-6 provides passage-timing that requires rested readiness; Swords-4 provides renewal that enables conscious transition
+  integration_outcome: Rest becomes integrated into transition-preparation; peace enables grounded passage
+  key_terms: grounded passage, prepared transition, integrated rest, conscious movement
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS
+
+---
+
+card_pair: 4 of Swords, 7 of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Deception, theft, cunning, strategic secrecy, hidden strategy
+numerical_relation: 4-7 (Rest enabling concealment; peace permitting hidden strategy)
+elemental_bridge: Air stillness meeting air concealment; mental peace enabling strategic hiding
+threshold_type: The peaceful deceiver; rest enabling secrets
+
+dynamic_genesis:
+  mechanism: Rest permits strategic clarity; peace allows conscious deception
+  process: Mental respite enables clear strategy-planning; stillness grounds hidden action
+  outcome: Strategy flows from rested consideration; deception emerges from centered peace
+  key_terms: strategic rest, centered deception, peaceful planning, conscious hiding
+
+dynamic_antagonism:
+  mechanism: Deception demands secrecy; rest demands transparency
+  tension_axis: Hidden strategy versus restful openness; secretive action versus peaceful honesty
+  swords_position_1: Seeks rest and transparency; wants honesty
+  swords_position_2: Demands secrecy and strategy; requires concealment
+  key_terms: demanded secrecy, sought transparency, incompatible honesty, strategic hiding
+
+dynamic_inhibition:
+  mechanism: Deception prevents peaceful rest; secrecy blocks genuine peace
+  blockade_nature: The hidden strategy requires vigilant secrecy; deception prevents authentic peace
+  swords_state: Deception becomes peace-preventing force; strategy prevents genuine rest
+  consequence: Peace becomes impossible; rest becomes vigilant watching rather than true respite
+  key_terms: prevented peace, watchful vigilance, impossible rest, strategic tension
+
+dynamic_devolution:
+  mechanism: Rest corrupts into paranoid secrecy; peace becomes isolated hiding
+  mode: Peace-seeking becomes deception-driven; rest enables self-sabotaging concealment
+  loss: Authentic rest replaced by paranoid vigilance; genuine peace becomes impossible
+  key_terms: paranoid vigilance, deception-driven, self-sabotaging concealment, impossible peace
+
+dynamic_dependency:
+  mechanism: Rest without honesty becomes toxic secrecy; deception without rest-space becomes unsustainable
+  function: Swords-7 provides strategic necessity that rest enables; Swords-4 provides peace-space where strategy can be held
+  integration_outcome: Rest becomes integrated into sustainable strategy; peace enables conscious concealment
+  key_terms: sustainable strategy, conscious concealment, integrated rest, peaceful secrecy
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS
+
+---
+
+card_pair: 4 of Swords, 8 of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Imprisonment, constraint, mental bondage, restriction, entrapment
+numerical_relation: 4-8 (Rest enabling escape-planning; peace allowing bondage-healing)
+elemental_bridge: Air stillness meeting air bondage; mental rest enabling liberation-consciousness
+threshold_type: The recovering prisoner; peace enabling freedom-vision
+
+dynamic_genesis:
+  mechanism: Rest enables escape-planning; peace allows bondage-healing consciousness
+  process: Mental respite permits freedom-visioning; stillness grounds liberation-readiness
+  outcome: Freedom emerges from rested clarity; escape-readiness flows from centered peace
+  key_terms: rested freedom, centered liberation, peaceful escape-planning, healing rest
+
+dynamic_antagonism:
+  mechanism: Imprisonment demands escape-action; bondage requires immediate freedom-seeking
+  tension_axis: Escape-urgency versus restorative pause; liberation-demand versus healing-rest
+  swords_position_1: Seeks rest and recovery before escaping; wants preparation
+  swords_position_2: Demands immediate escape; refuses rest-delay
+  key_terms: demanded escape, delayed freedom-seeking, preparation-seeking, incompatible urgency
+
+dynamic_inhibition:
+  mechanism: Rest prolongs imprisonment; peace prevents active escape-attempt
+  blockade_nature: The recovery-focused rest can become comfortable captivity; peace prevents breaking-free
+  swords_state: Rest becomes escape-preventing force; peace prevents freedom-action
+  consequence: Captivity becomes normalized; escape becomes postponed indefinitely
+  key_terms: normalized captivity, prevented escape, indefinite postponement, impossible freedom
+
+dynamic_devolution:
+  mechanism: Rest corrupts into imprisonment-acceptance; peace becomes bondage-acceptance
+  mode: Peace-seeking becomes captivity-accepting; rest enables self-imposed imprisonment
+  loss: Authentic rest replaced by resigned captivity; genuine freedom becomes impossible
+  key_terms: resigned captivity, bondage-acceptance, self-imposed imprisonment, impossible freedom
+
+dynamic_dependency:
+  mechanism: Rest without liberation-awareness becomes comfortable captivity; bondage without rest-space becomes maddening
+  function: Swords-8 provides bondage-reality that rest must address; Swords-4 provides healing-space where liberation can be envisioned
+  integration_outcome: Rest becomes integrated into escape-preparation; peace enables freedom-consciousness
+  key_terms: freedom-consciousness, escape-preparation, integrated rest, healing bondage
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS
+
+---
+
+card_pair: 4 of Swords, 9 of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
+numerical_relation: 4-9 (Rest interrupted by anxiety; peace disturbed by obsession)
+elemental_bridge: Air stillness meeting air torment; mental rest invaded by anxious thought
+threshold_type: The restless mind; peace broken by torment
+
+dynamic_genesis:
+  mechanism: Rest permits anxiety-processing; peace allows torment-acknowledgment
+  process: Mental respite enables observing anxious thoughts; stillness grounds anxiety-release
+  outcome: Healing flows from processed anxiety; peace emerges through honored torment
+  key_terms: processed anxiety, honored torment, healing peace, integrated disturbance
+
+dynamic_antagonism:
+  mechanism: Rest seeks peace; anxiety demands attention
+  tension_axis: Peaceful stillness versus anxious intrusion; wanted silence versus tormenting thought
+  swords_position_1: Seeks quiet peace; wants rest from thought
+  swords_position_2: Invades silence with obsession; demands attention-giving
+  key_terms: demanded attention, sought silence, invaded peace, incompatible rest
+
+dynamic_inhibition:
+  mechanism: Anxiety prevents restful peace; torment blocks true silence
+  blockade_nature: The anxious mind cannot truly rest; peace remains invaded by thought-loops
+  swords_state: Anxiety becomes peace-preventing force; torment prevents genuine stillness
+  consequence: Rest becomes impossible; true peace eludes from continuous mental invasion
+  key_terms: prevented peace, impossible rest, continuous invasion, broken silence
+
+dynamic_devolution:
+  mechanism: Rest corrupts into dissociative escape; peace becomes anxious numbness
+  mode: Peace-seeking becomes anxiety-enabling; rest enables obsessive spinning
+  loss: Authentic rest replaced by anxious dissociation; genuine peace becomes impossible
+  key_terms: anxious dissociation, obsessive spinning, anxiety-enabling, impossible peace
+
+dynamic_dependency:
+  mechanism: Rest without anxiety-processing becomes denial; anxiety without rest-space becomes maddening
+  function: Swords-9 provides mental material that rest must process; Swords-4 provides space where anxiety can be held
+  integration_outcome: Rest becomes integrated into anxiety-processing; peace enables grounded torment-acknowledgment
+  key_terms: grounded acknowledgment, anxiety-processing, integrated rest, peaceful torment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS
+
+---
+
+card_pair: 4 of Swords, 10 of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Destruction, ending, inevitable pain, completion through ruin, death-knife
+numerical_relation: 4-10 (Rest before final ending; peace enabling accepted completion)
+elemental_bridge: Air stillness meeting air devastation; mental rest enabling acceptance of death
+threshold_type: The final rest; peace enabling completion
+
+dynamic_genesis:
+  mechanism: Rest enables accepted ending; peace allows honored death
+  process: Mental respite permits facing completion; stillness grounds final acceptance
+  outcome: Completion flows from rested surrender; peace emerges through honored ending
+  key_terms: rested surrender, honored completion, peaceful ending, integrated death
+
+dynamic_antagonism:
+  mechanism: Death demands acceptance; rest enables denial
+  tension_axis: Final reality versus peaceful escape; inevitable ending versus wanted continuation
+  swords_position_1: Seeks rest from reality; wants continued peace
+  swords_position_2: Brings inescapable ending; demands facing completion
+  key_terms: demanded acceptance, sought escape, inevitable reality, incompatible peace
+
+dynamic_inhibition:
+  mechanism: Rest prevents final acceptance; peace enables death-denial
+  blockade_nature: The restorative rest can enable denial of ending; peace prevents facing death
+  swords_state: Rest becomes acceptance-preventing force; peace prevents facing completion
+  consequence: Acceptance becomes impossible; ending approaches unacknowledged
+  key_terms: prevented acceptance, denied ending, impossible completion, unacknowledged death
+
+dynamic_devolution:
+  mechanism: Rest corrupts into death-denial; peace becomes dissociative escape
+  mode: Peace-seeking becomes reality-denying; rest enables dissociative death-approach
+  loss: Authentic rest replaced by escapist denial; genuine peace becomes impossible
+  key_terms: dissociative denial, reality-escaping, death-denying, impossible peace
+
+dynamic_dependency:
+  mechanism: Rest without acceptance-purpose becomes delusional; death without rest-preparation becomes traumatic
+  function: Swords-10 provides ending that rest must accept; Swords-4 provides peace-space where death can be honored
+  integration_outcome: Rest becomes integrated into final acceptance; peace enables honored completion
+  key_terms: honored completion, final acceptance, integrated rest, peaceful ending
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS
+
+---
+
+card_pair: 4 of Swords, Page of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
+numerical_relation: 4-Page (Rest enabling focused inquiry; peace allowing clear learning)
+elemental_bridge: Air stillness meeting air curiosity; mental rest enabling centered exploration
+threshold_type: The rested learner; peace enabling discovery
+
+dynamic_genesis:
+  mechanism: Rest enables focused investigation; peace allows clear learning
+  process: Mental respite permits renewed intellectual engagement; stillness grounds discovery
+  outcome: Learning flows from rested clarity; inquiry emerges from centered peace
+  key_terms: rested inquiry, centered learning, peaceful discovery, focused investigation
+
+dynamic_antagonism:
+  mechanism: Curiosity demands active exploration; rest demands withdrawal from seeking
+  tension_axis: Learning-urgency versus restorative pause; investigation-demand versus restful reflection
+  swords_position_1: Seeks rest and reflection before inquiry; wants contemplative pause
+  swords_position_2: Demands immediate investigation; refuses rest-delay
+  key_terms: demanded exploration, sought rest, incompatible timing, needed reflection
+
+dynamic_inhibition:
+  mechanism: Rest prevents active inquiry; peace blocks investigation-engagement
+  blockade_nature: The recovery-focused rest can become intellectual stagnation; peace prevents exploration
+  swords_state: Rest becomes inquiry-preventing force; peace prevents learning-action
+  consequence: Learning becomes delayed; investigation stalls from extended rest
+  key_terms: prevented inquiry, stalled learning, blocked investigation, indefinite rest
+
+dynamic_devolution:
+  mechanism: Rest corrupts into intellectual deadness; peace becomes curiosity-killing
+  mode: Peace-seeking becomes learning-refusing; rest enables anti-intellectual stagnation
+  loss: Authentic rest replaced by deadened ignorance; genuine peace becomes impossible
+  key_terms: intellectual deadness, curiosity-killing, anti-intellectual, impossible peace
+
+dynamic_dependency:
+  mechanism: Rest without learning-purpose becomes stagnant; inquiry without rest becomes scattered
+  function: Swords-Page provides curiosity-drive that rest must engage; Swords-4 provides space where investigation can be grounded
+  integration_outcome: Rest becomes integrated into sustained inquiry; peace enables focused learning
+  key_terms: focused learning, sustained inquiry, integrated rest, grounded exploration
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS
+
+---
+
+card_pair: 4 of Swords, Knight of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
+numerical_relation: 4-Knight (Rest before action; peace enabling powerful engagement)
+elemental_bridge: Air stillness meeting air momentum; mental rest enabling courageous action
+threshold_type: The rested warrior; peace enabling engagement
+
+dynamic_genesis:
+  mechanism: Rest enables powerful action-readiness; peace allows courageous engagement
+  process: Mental respite permits renewed strength; stillness grounds aggressive pursuit
+  outcome: Action flows from rested readiness; momentum emerges from centered peace
+  key_terms: rested action, centered engagement, peaceful momentum, ready strength
+
+dynamic_antagonism:
+  mechanism: Action demands immediate movement; rest demands continued stillness
+  tension_axis: Movement-urgency versus restorative pause; aggressive pursuit versus reflective peace
+  swords_position_1: Seeks rest before aggressive action; wants preparation-time
+  swords_position_2: Demands immediate action; refuses rest-delay
+  key_terms: demanded action, delayed movement, incompatible timing, needed rest
+
+dynamic_inhibition:
+  mechanism: Rest prevents timely action; peace blocks aggressive engagement
+  blockade_nature: The extended rest prevents entering action; peace delays necessary movement
+  swords_state: Rest becomes action-preventing force; peace prevents momentum-building
+  consequence: Action becomes delayed; momentum cannot build from prolonged rest
+  key_terms: delayed action, prevented momentum, blocked engagement, indefinite rest
+
+dynamic_devolution:
+  mechanism: Rest corrupts into paralyzed inaction; peace becomes action-refusing
+  mode: Peace-seeking becomes engagement-avoiding; rest enables cowardly stagnation
+  loss: Authentic rest replaced by paralyzing deadness; genuine peace becomes impossible
+  key_terms: paralyzed inaction, engagement-avoidance, cowardly stagnation, impossible peace
+
+dynamic_dependency:
+  mechanism: Rest without action-purpose becomes stagnant; action without rest-grounding becomes reckless
+  function: Swords-Knight provides action-urgency that rest must address; Swords-4 provides preparation-space where action can be grounded
+  integration_outcome: Rest becomes integrated into prepared action; peace enables grounded momentum
+  key_terms: grounded momentum, prepared action, integrated rest, peaceful engagement
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS
+
+---
+
+card_pair: 4 of Swords, Queen of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
+numerical_relation: 4-Queen (Rest enabling mastership; peace allowing wisdom-integration)
+elemental_bridge: Air stillness meeting air mastery; mental rest enabling discernment-sharpening
+threshold_type: The wise rest; peace enabling mastery
+
+dynamic_genesis:
+  mechanism: Rest enables wisdom-integration; peace allows mastery-refinement
+  process: Mental respite permits clarity-access; stillness grounds discernment-development
+  outcome: Mastery flows from rested understanding; wisdom emerges from centered peace
+  key_terms: rested wisdom, centered mastery, peaceful discernment, integrated understanding
+
+dynamic_antagonism:
+  mechanism: Mastery demands constant refinement; rest demands withdrawal from practice
+  tension_axis: Continued development versus restorative pause; mastery-demand versus reflective peace
+  swords_position_1: Seeks rest from constant refinement; wants reflection-time
+  swords_position_2: Demands continued mastery-development; refuses rest-delay
+  key_terms: demanded development, sought rest, incompatible timing, needed reflection
+
+dynamic_inhibition:
+  mechanism: Rest prevents mastery-development; peace blocks discernment-sharpening
+  blockade_nature: The extended rest prevents continued refinement; peace stalls mastery-growth
+  swords_state: Rest becomes development-preventing force; peace prevents mastery-advancement
+  consequence: Mastery stalls; wisdom remains unrealized from extended rest
+  key_terms: prevented development, stalled mastery, blocked discernment, unrealized wisdom
+
+dynamic_devolution:
+  mechanism: Rest corrupts into intellectual deadness; peace becomes wisdom-losing
+  mode: Peace-seeking becomes learning-refusing; rest enables intellectual stagnation
+  loss: Authentic mastery replaced by stagnant deadness; genuine wisdom becomes impossible
+  key_terms: intellectual deadness, learning-refusal, stagnant wisdom, impossible mastery
+
+dynamic_dependency:
+  mechanism: Rest without mastery-context becomes stagnant; mastery without rest becomes obsessive
+  function: Swords-Queen provides mastery-demand that rest must integrate; Swords-4 provides space where wisdom can be deepened
+  integration_outcome: Rest becomes integrated into sustained mastery-development; peace enables grounded wisdom
+  key_terms: grounded wisdom, sustained mastery, integrated rest, peaceful development
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS
+
+---
+
+card_pair: 4 of Swords, King of Swords
+archetype_swords_1: Rest, truce, peace, mental stillness, respite
+archetype_swords_2: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
+numerical_relation: 4-King (Rest enabling authoritative presence; peace allowing wise dominion)
+elemental_bridge: Air stillness meeting air authority; mental rest enabling commanding wisdom
+threshold_type: The wise sovereign; peace enabling just rule
+
+dynamic_genesis:
+  mechanism: Rest enables authoritative presence; peace allows wise judgment
+  process: Mental respite permits clarity-access; stillness grounds authority-renewal
+  outcome: Authority flows from rested wisdom; dominion emerges from centered peace
+  key_terms: rested authority, centered judgment, peaceful dominion, commanding wisdom
+
+dynamic_antagonism:
+  mechanism: Authority demands constant command; rest demands withdrawal from rule
+  tension_axis: Continuous commanding versus restorative pause; authority-demand versus reflective peace
+  swords_position_1: Seeks rest from constant command; wants reflection-time
+  swords_position_2: Demands continuous authority-exercise; refuses rest-delay
+  key_terms: demanded authority, sought rest, incompatible timing, needed reflection
+
+dynamic_inhibition:
+  mechanism: Rest weakens authority-presence; peace prevents commanding action
+  blockade_nature: The extended rest erodes authority; peace delays rule-exercise
+  swords_state: Rest becomes authority-weakening force; peace prevents commanding action
+  consequence: Authority falters; dominion becomes interrupted from extended rest
+  key_terms: weakened authority, interrupted rule, prevented command, faltered dominion
+
+dynamic_devolution:
+  mechanism: Rest corrupts into authority-loss; peace becomes rule-refusing
+  mode: Peace-seeking becomes authority-abandoning; rest enables tyrannical collapse
+  loss: Genuine authority replaced by collapsed abdication; authentic dominion becomes impossible
+  key_terms: authority-collapse, rule-refusal, tyrannical abdication, impossible dominion
+
+dynamic_dependency:
+  mechanism: Rest without authority-purpose becomes negligent; authority without rest becomes tyranny
+  function: Swords-King provides authority-demand that rest must sustain; Swords-4 provides renewal-space where wisdom can deepen
+  integration_outcome: Rest becomes integrated into sustained authority; peace enables wise dominion
+  key_terms: wise dominion, sustained authority, integrated rest, just rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 4-1 through 4-14
+  uid: FOSS

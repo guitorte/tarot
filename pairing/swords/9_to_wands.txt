@@ -1,0 +1,599 @@
+card_pair: 9 of Swords, Ace of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Spark Ignited, The Creative Fire, The Inspiration Struck, Passion Emerging
+numerical_relation: 9 + 1 = 10; the torment meets the arrival of creative fire
+elemental_bridge: Air (nightmares extinguishing passion) meets Fire (ignited creativity); the anxious mind resists the spark
+threshold_type: The moment when inspiration arrives to the tormented mind
+
+dynamic_genesis:
+  mechanism: The tormented figure receives the spark of inspiration and immediately the nightmares whisper that the creativity will fail, that the work will be rejected, that the fire will be extinguished
+  process: The nine of swords becomes aware that anxiety often kills inspiration at its moment of arrival
+  outcome: Understanding that torment can extinguish the creative spark before it takes flame; that the nightmares sabotage the kindling
+  key_terms: Extinguished spark, creativity feared, inspiration poisoned, fire killed
+
+dynamic_antagonism:
+  mechanism: The ace of wands ignites freely; the tormented mind extinguishes it through fear; the spark arrives but is rejected
+  tension_axis: Between the arrival of inspiration and the anxiety that kills it
+  nine_of_swords_position: "I am tormented and cannot trust my creativity"
+  ace_of_wands_position: "I am the spark of inspiration; accept me and ignite"
+  key_terms: Rejected spark, creativity doubted, inspiration feared, fire denied
+
+dynamic_inhibition:
+  blockade: The figure cannot kindle the creative fire; the nightmares prevent the confidence creation requires
+  consequence: The figure's creativity dies before it can be born; inspiration is stillborn
+
+dynamic_devolution:
+  corruption: The ace of wands becomes evidence of impossible creativity; the figure imagines creating but knows it will fail; the spark becomes torture because the figure believes they are creatively incapable
+  loss: The figure loses faith in their creative capacity; they internalize the torment as evidence of fundamental creative sterility
+
+dynamic_dependency:
+  integration: The torment teaches that creativity can survive anxiety; the figure learns through the attempt to create that some nightmares about failure are imagined; when enough of the anxiety quiets, the spark can finally take flame; the anguish becomes the teacher of what genuine creativity requires
+  outcome: The ace of wands can finally ignite the figure whose anxiety has quieted enough to accept the spark; the creativity becomes possible; the passion is kindled; the inspiration is received; the torment becomes the teacher of what true creative fire requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, 2 of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Planner, The Vision Held, The World Contemplated, Possibility Visible
+numerical_relation: 9 + 2 = 11; the torment meets the envisioning of possibility
+elemental_bridge: Air (anxious catastrophizing) meets Fire (vision of possibility); the nightmare mind poisons the vision
+threshold_type: The moment when the tormented cannot believe in positive possibility
+
+dynamic_genesis:
+  mechanism: The tormented figure receives a vision of possibility and immediately the nightmares reinterpret it as doom; what could be good becomes evidence of future catastrophe
+  process: The nine of swords becomes aware that the tormented mind cannot hold positive vision; it becomes twisted into fear
+  outcome: Understanding that anxiety poisons positive vision; that the nightmare mind reframes hope as danger
+  key_terms: Poisoned vision, hope corrupted, possibility feared, doom anticipated
+
+dynamic_antagonism:
+  mechanism: The two of wands holds vision of what could be; the tormented mind insists it will all go wrong; the vision arrives but is immediately contaminated
+  tension_axis: Between the positive vision and the anxiety that reinterprets it as danger
+  nine_of_swords_position: "I am tormented and all possibility leads to disaster"
+  two_of_wands_position: "I hold vision of what could be; the world is full of potential"
+  key_terms: Poisoned possibility, hope feared, doom certain, vision corrupted
+
+dynamic_inhibition:
+  blockade: The figure cannot hold positive vision; the nightmares reinterpret it immediately
+  consequence: The figure becomes unable to plan; they cannot sustain belief in positive futures; vision collapses under anxiety
+
+dynamic_devolution:
+  corruption: The two of wands becomes evidence of false hope; the figure imagines positive futures but knows they will turn to dust; vision becomes torture because it is born from denial
+  loss: The figure loses the capacity to envision anything but catastrophe; they internalize the torment as evidence that only doom is real
+
+dynamic_dependency:
+  integration: The torment teaches that some positive vision is grounded in reality; the figure learns through the nightmares that not all fears are prophetic; when enough anxiety quiets, positive vision can be held; the anguish becomes the teacher of what genuine possibility requires
+  outcome: The two of wands can finally be held by the figure whose anxiety has quieted; the vision becomes possible; the future is visible without catastrophe; the possibility is real; the torment becomes the teacher of what true vision requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, 3 of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Traveler, The Distant Vision, The Exploration Begun, Horizon Sought
+numerical_relation: 9 + 3 = 12; the torment meets the call to exploration
+elemental_bridge: Air (anxious restriction) meets Fire (calling to adventure); the nightmare mind resists the call
+threshold_type: The moment when the tormented doubt they can answer the call to adventure
+
+dynamic_genesis:
+  mechanism: The tormented figure hears the call of the three of wands and immediately the nightmares whisper that they cannot answer it, that they are too damaged, that the journey will destroy them
+  process: The nine of swords becomes aware that anxiety prevents response to the call of adventure
+  outcome: Understanding that the tormented often turn away from adventure because they believe they are incapable of the journey
+  key_terms: Call rejected, adventure feared, capability doubted, journey impossible
+
+dynamic_antagonism:
+  mechanism: The three of wands calls to distant horizons; the tormented are convinced they cannot answer; the adventure requires the confidence anxiety forbids
+  tension_axis: Between the call to adventure and the nightmares that prevent response
+  nine_of_swords_position: "I am tormented and cannot answer the call to adventure"
+  three_of_wands_position: "I travel toward distant horizons; I answer the call"
+  key_terms: Rejected call, adventure feared, incapability assumed, journey denied
+
+dynamic_inhibition:
+  blockade: The figure cannot answer the call; the nightmares convince them of their own incapacity
+  consequence: The figure remains in place; the call passes unanswered; the adventure is missed
+
+dynamic_devolution:
+  corruption: The three of wands becomes evidence of impossible adventure; the figure imagines traveling but knows they would fail; the call becomes torture because it is heard but rejected
+  loss: The figure loses the capacity to believe they could answer any call; they internalize the torment as evidence of fundamental incapacity for adventure
+
+dynamic_dependency:
+  integration: The torment teaches that adventure is possible despite anxiety; the figure learns through the nightmares that some doubts are imagined; when enough anxiety quiets, the call can be answered; the anguish becomes the teacher of what genuine adventure requires
+  outcome: The three of wands can finally receive the figure whose anxiety has quieted enough to respond; the adventure becomes possible; the call is answered; the journey begins; the torment becomes the teacher of what true courage requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, 4 of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Celebration, The Foundation Secured, The Homecoming Achieved, Stability Joyful
+numerical_relation: 9 + 4 = 13; the torment meets the joy of arrival
+elemental_bridge: Air (anxious displacement) meets Fire (rooted festivity); the nightmare mind cannot enjoy homecoming
+threshold_type: The moment when anxiety prevents the figure from celebrating arrival
+
+dynamic_genesis:
+  mechanism: The tormented figure arrives at celebration and immediately the nightmares whisper that it is false, that the stability is temporary, that the joy will be disrupted
+  process: The nine of swords becomes aware that anxiety prevents the ability to celebrate arrival
+  outcome: Understanding that the tormented often cannot rest into stability; that the nightmares insist on continued vigilance
+  key_terms: False celebration, stability distrusted, joy temporary, disruption pending
+
+dynamic_antagonism:
+  mechanism: The four of wands celebrates arrival and stability; the tormented expect the disruption to come; the celebration requires the peace anxiety forbids
+  tension_axis: Between the festive arrival and the anxiety that insists disruption is coming
+  nine_of_swords_position: "I am tormented and cannot celebrate; I expect disaster"
+  four_of_wands_position: "I celebrate my arrival; I rest secure in stability"
+  key_terms: Disruption expected, joy impossible, celebration prevented, stability distrusted
+
+dynamic_inhibition:
+  blockade: The figure cannot celebrate even when they have arrived; the nightmares prevent the rest stability requires
+  consequence: The figure remains vigilant; they cannot enjoy what they have reached; the celebration is impossible
+
+dynamic_devolution:
+  corruption: The four of wands becomes evidence of false safety; the figure imagines celebrating but knows the disaster approaches; the homecoming becomes torture because the moment is poisoned by anticipation
+  loss: The figure loses the capacity to believe in lasting stability; they internalize the torment as evidence that disaster is inevitable
+
+dynamic_dependency:
+  integration: The torment teaches that some arrivals do provide genuine stability; the figure learns through the nightmares that not all warnings are prophetic; when enough anxiety quiets, the celebration can be genuine; the anguish becomes the teacher of what true arrival requires
+  outcome: The four of wands can finally be celebrated by the figure whose anxiety has quieted; the arrival becomes real; the stability is possible; the joy is genuine; the torment becomes the teacher of what true homecoming requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, 5 of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Conflict, The Competing Desires, The Passionate Struggle, Challenge Faced
+numerical_relation: 9 + 5 = 14; the torment meets the conflict of wills
+elemental_bridge: Air (nightmares of opposition) meets Fire (passionate struggle); the anxious mind exaggerates conflicts
+threshold_type: The moment when anxiety amplifies conflict beyond its actual scale
+
+dynamic_genesis:
+  mechanism: The tormented figure encounters minor conflict and the nightmares immediately amplify it; a disagreement becomes a threat; a challenge becomes evidence of impending destruction
+  process: The nine of swords becomes aware that anxiety amplifies conflicts; the nightmare mind cannot hold conflicts at their actual scale
+  outcome: Understanding that the tormented often escalate conflicts through catastrophic interpretation; that anxiety poisons the possibility of genuine struggle
+  key_terms: Amplified conflict, struggle exaggerated, challenge catastrophized, opposition insurmountable
+
+dynamic_antagonism:
+  mechanism: The five of wands struggle at their genuine scale; the tormented interpret struggle as catastrophe; the conflict requires the calm anxiety forbids
+  tension_axis: Between the actual challenge and the anxiety that exaggerates it
+  nine_of_swords_position: "I am tormented and all conflict is catastrophic"
+  five_of_wands_position: "We struggle; our conflict is genuine but manageable"
+  key_terms: Catastrophized struggle, exaggerated opposition, genuine conflict impossible, anxiety amplifying
+
+dynamic_inhibition:
+  blockade: The figure cannot engage genuinely in conflict; the anxiety prevents the presence genuine struggle requires
+  consequence: The figure either avoids all conflict or becomes paralyzed by exaggerated threats; genuine struggle is impossible
+
+dynamic_devolution:
+  corruption: The five of wands becomes evidence of insurmountable opposition; the figure imagines struggling but knows they will be destroyed; conflict becomes torture because every challenge is magnified
+  loss: The figure loses the capacity to face any challenge; they internalize the torment as evidence that all opposition is destructive
+
+dynamic_dependency:
+  integration: The torment teaches that conflicts have genuine scale; the figure learns through the nightmares that not all opposition is catastrophic; when enough anxiety quiets, genuine struggle can be engaged; the anguish becomes the teacher of what authentic conflict requires
+  outcome: The five of wands can finally be faced by the figure whose anxiety has quieted; the conflict becomes manageable; the struggle is genuine; the challenge is met; the torment becomes the teacher of what true strength requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, 6 of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Victor, The Acclaim Achieved, The Recognition Won, Victory Celebrated
+numerical_relation: 9 + 6 = 15; the torment meets the fullness of triumph
+elemental_bridge: Air (nightmares of failure) meets Fire (victory and success); the anxious mind cannot accept success
+threshold_type: The moment when the tormented sabotage their own success through anxiety
+
+dynamic_genesis:
+  mechanism: The tormented figure achieves success and immediately the nightmares whisper that it is temporary, that they will be exposed as fraudulent, that the victory is undeserved
+  process: The nine of swords becomes aware that anxiety often prevents the celebration of genuine achievement
+  outcome: Understanding that the tormented often experience success as anxiety-inducing rather than celebratory; that the nightmares poison victory
+  key_terms: Poisoned success, victory distrusted, achievement doubted, fraudulence feared
+
+dynamic_antagonism:
+  mechanism: The six of wands celebrates genuine achievement; the tormented doubt their own success; the victory is real but the anxiety insists it is false
+  tension_axis: Between the genuine achievement and the anxiety that denies it
+  nine_of_swords_position: "I am tormented and cannot trust my own success"
+  six_of_wands_position: "I stand in victory; my achievement is real"
+  key_terms: Doubted success, poisoned victory, fraudulence feared, achievement denied
+
+dynamic_inhibition:
+  blockade: The figure cannot celebrate genuine success; the anxiety prevents the acceptance of achievement
+  consequence: The figure achieves but does not enjoy; the success is tainted; the victory is hollow
+
+dynamic_devolution:
+  corruption: The six of wands becomes evidence of delusional success; the figure imagines being victorious but knows they are fraudulent; success becomes torture because it will eventually be exposed
+  loss: The figure loses the capacity to believe in their own achievements; they internalize the torment as evidence of fundamental incapacity for genuine success
+
+dynamic_dependency:
+  integration: The torment teaches that some achievements are genuinely earned; the figure learns through the nightmares that not all success is fraudulent; when enough anxiety quiets, genuine success can be acknowledged; the anguish becomes the teacher of what authentic victory requires
+  outcome: The six of wands can finally be celebrated by the figure whose anxiety has quieted; the success becomes real; the achievement is acknowledged; the victory is genuine; the torment becomes the teacher of what true triumph requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, 7 of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Defender, The Boundary Maintained, The Passion Protected, Ground Held
+numerical_relation: 9 + 7 = 16; the torment meets the defense of what matters
+elemental_bridge: Air (nightmares of invasion) meets Fire (active defense); the anxious mind cannot trust its own boundaries
+threshold_type: The moment when anxiety prevents the confident defense necessary to maintain ground
+
+dynamic_genesis:
+  mechanism: The tormented figure attempts to defend what matters and immediately the nightmares whisper that the defense will fail, that the boundaries will be breached, that everything will be lost
+  process: The nine of swords becomes aware that anxiety undermines the confidence defense requires
+  outcome: Understanding that the tormented often cannot hold their own boundaries; that the nightmares convince them defense is futile
+  key_terms: Defense undermined, boundaries breached, protection failing, confidence lost
+
+dynamic_antagonism:
+  mechanism: The seven of wands stands firm in defense; the tormented doubt their own ability to hold ground; the defense requires the confidence anxiety forbids
+  tension_axis: Between the capacity to defend and the anxiety that undermines it
+  nine_of_swords_position: "I am tormented and cannot defend what matters"
+  seven_of_wands_position: "I stand firm; my boundaries are clear"
+  key_terms: Failed defense, doubted boundaries, confidence lost, ground surrendered
+
+dynamic_inhibition:
+  blockade: The figure cannot hold their own boundaries; the anxiety undermines the confidence defense requires
+  consequence: The figure's boundaries collapse; they lose what they were trying to protect; others violate what should have been defended
+
+dynamic_devolution:
+  corruption: The seven of wands becomes evidence of impossible defense; the figure imagines holding ground but knows they will fail; the defense becomes torture because the failure becomes inevitable
+  loss: The figure loses the capacity to believe they could defend anything; they internalize the torment as evidence of fundamental inability to protect what matters
+
+dynamic_dependency:
+  integration: The torment teaches that defense is possible despite anxiety; the figure learns through the nightmares that some doubts are imagined; when enough anxiety quiets, boundaries can be held; the anguish becomes the teacher of what true protection requires
+  outcome: The seven of wands can finally be held by the figure whose anxiety has quieted; the defense becomes possible; the boundaries are firm; the protection is real; the torment becomes the teacher of what genuine strength requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, 8 of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Rapid Movement, The Momentum Unleashed, The Passionate Flight, Speed Embodied
+numerical_relation: 9 + 8 = 16; the torment meets the velocity of passion
+elemental_bridge: Air (anxious overthinking) meets Fire (spontaneous action); the nightmare mind cannot move fast
+threshold_type: The moment when anxiety prevents the spontaneous action passion demands
+
+dynamic_genesis:
+  mechanism: The tormented figure faces the opportunity for rapid movement and immediately the nightmares demand analysis, rumination, catastrophic consideration of every possibility
+  process: The nine of swords becomes aware that anxiety prevents spontaneous action; the mind must consider every danger before the moment passes
+  outcome: Understanding that the tormented often miss the window of opportunity because the nightmares demand deliberation
+  key_terms: Analyzed away, overthinking preventing action, spontaneity impossible, moment missed
+
+dynamic_antagonism:
+  mechanism: The eight of wands moves with passionate momentum; the tormented are paralyzed by analysis; action requires the spontaneity anxiety forbids
+  tension_axis: Between the spontaneous action and the anxious analysis that prevents it
+  nine_of_swords_position: "I am tormented and must analyze before I can act"
+  eight_of_wands_position: "I move with passion; my momentum is unstoppable"
+  key_terms: Paralyzed analysis, spontaneity prevented, momentum lost, moment missed
+
+dynamic_inhibition:
+  blockade: The figure cannot move with spontaneous passion; the anxiety demands consideration before every action
+  consequence: The figure misses the windows of opportunity; the moments pass while the mind deliberates; the passionate action never happens
+
+dynamic_devolution:
+  corruption: The eight of wands becomes evidence of lost opportunity; the figure imagines moving swiftly but knows overthinking will prevent it; the momentum becomes torture because it passes unreachable
+  loss: The figure loses the capacity to act spontaneously; they internalize the torment as evidence of fundamental inability to move with passion
+
+dynamic_dependency:
+  integration: The torment teaches that some actions require quick decision-making; the figure learns through the missed opportunities that not all analysis is necessary; when enough anxiety quiets, spontaneous action becomes possible; the anguish becomes the teacher of what genuine momentum requires
+  outcome: The eight of wands can finally carry the figure whose anxiety has quieted; the movement becomes possible; the momentum is real; the passion is expressed; the torment becomes the teacher of what true action requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, 9 of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Resilient Warrior, The Strength Tested, The Persistence Proven, Endurance Embodied
+numerical_relation: 9 + 9 = 18; the torment meets the culmination of tested strength
+elemental_bridge: Air (weakening anxiety) meets Fire (hardened resilience); the nightmares test but also strengthen
+threshold_type: The moment when torment becomes the crucible of resilience
+
+dynamic_genesis:
+  mechanism: The tormented figure faces the nine of wands and recognizes a paradox; the nightmares are grueling but the figure is still standing
+  process: The nine of swords becomes aware that sustained anxiety can eventually build a strange resilience; the figure who endures the nightmares becomes tough
+  outcome: Understanding that the tormented often develop genuine strength through surviving the mental siege
+  key_terms: Built resilience, earned strength, tested character, hardened will
+
+dynamic_antagonism:
+  mechanism: The nine of wands stands strong from having been tested; the tormented are tested by nightmares; both are shaped by ordeal
+  tension_axis: Between the wounding of anxiety and the strength it paradoxically builds
+  nine_of_swords_position: "I am tormented and somehow still standing"
+  nine_of_wands_position: "I have been tested and my strength is proven"
+  key_terms: Paradoxical strength, hardened by torment, resilience earned, character forged
+
+dynamic_inhibition:
+  blockade: The figure cannot recognize the strength they have built; the nightmares insist they are still broken
+  consequence: The figure's actual resilience is invisible to them; the hardening goes unacknowledged
+
+dynamic_devolution:
+  corruption: The nine of wands becomes a reminder of ongoing weakness; the figure imagines being strong but the nightmares insist on fragility; the endurance becomes torture because it is unrecognized
+  loss: The figure loses awareness of their own strength; they internalize only the suffering, not the resilience
+
+dynamic_dependency:
+  integration: The torment teaches what true strength means; the figure learns through the nightmares that surviving them is evidence of real power; when they recognize the resilience they have built, the figure can embody the nine of wands with full consciousness; the anguish becomes the forge of genuine strength
+  outcome: The nine of wands recognizes the figure who has been tempered by torment; the strength becomes visible; the resilience is acknowledged; the warrior within emerges; the torment becomes the crucible that creates true courage
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, 10 of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Burdened Traveler, The Weight Carried, The Mission Overwhelming, Responsibility Heavy
+numerical_relation: 9 + 10 = 19; the torment meets the fullness of burden
+elemental_bridge: Air (nightmares of overwhelm) meets Fire (carrying heavy responsibility); the anxious mind exaggerates burden
+threshold_type: The moment when anxiety amplifies the weight of responsibility
+
+dynamic_genesis:
+  mechanism: The tormented figure carries genuine responsibility and the nightmares immediately amplify it; the weight becomes unbearable in the mind even if it is actually manageable
+  process: The nine of swords becomes aware that anxiety amplifies burdens; the nightmare mind cannot hold responsibility at its actual weight
+  outcome: Understanding that the tormented often believe their burdens are heavier than they actually are; that anxiety poisons the capacity to carry
+  key_terms: Amplified burden, exaggerated weight, overwhelm catastrophized, carrying impossible
+
+dynamic_antagonism:
+  mechanism: The ten of wands carries responsibility with determination; the tormented feel their burdens as unbearable; the mission requires the strength anxiety forbids
+  tension_axis: Between the actual weight and the anxiety that amplifies it
+  nine_of_swords_position: "I am tormented and the burden is unbearable"
+  ten_of_wands_position: "I carry my burden; my mission drives me forward"
+  key_terms: Exaggerated burden, overwhelm catastrophized, strength doubted, carrying impossible
+
+dynamic_inhibition:
+  blockade: The figure cannot carry genuine responsibility; the anxiety makes it feel unbearable
+  consequence: The figure drops their burdens; they abandon responsibility; the mission is surrendered
+
+dynamic_devolution:
+  corruption: The ten of wands becomes evidence of impossible weight; the figure imagines carrying but knows they will be crushed; the burden becomes torture because carrying it appears futile
+  loss: The figure loses the capacity to believe they could carry anything; they internalize the torment as evidence of fundamental weakness
+
+dynamic_dependency:
+  integration: The torment teaches that some burdens are genuinely manageable; the figure learns through the nightmares that not all weight is unbearable; when enough anxiety quiets, responsibility can be carried; the anguish becomes the teacher of what true strength requires
+  outcome: The ten of wands can finally be carried by the figure whose anxiety has quieted; the responsibility becomes possible; the mission is resumed; the burden is borne; the torment becomes the teacher of what genuine endurance requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, Page of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Messenger, The News Brought, The Enthusiastic Call, Excitement Arriving
+numerical_relation: 9 + 11 = 20; the torment meets the arrival of exciting news
+elemental_bridge: Air (nightmares of disaster) meets Fire (passionate excitement); the nightmare mind poisons good news
+threshold_type: The moment when the tormented cannot trust exciting news
+
+dynamic_genesis:
+  mechanism: The tormented figure receives exciting news and immediately the nightmares whisper that it is false, that the disaster is hidden in the good news, that joy will be followed by destruction
+  process: The nine of swords becomes aware that anxiety prevents the reception of good news; the nightmares reinterpret it as danger
+  outcome: Understanding that the tormented often cannot celebrate good news because the nightmares insist on hidden threats
+  key_terms: Good news poisoned, excitement feared, hidden disaster, joy impossible
+
+dynamic_antagonism:
+  mechanism: The page of wands brings exciting news; the tormented mind immediately reinterprets it as danger; the excitement arrives but is rejected
+  tension_axis: Between the good news and the anxiety that reinterprets it
+  nine_of_swords_position: "I am tormented and good news means danger"
+  page_of_wands_position: "I bring excitement; I announce possibility"
+  key_terms: Poisoned news, excitement feared, danger assumed, good reinterpreted
+
+dynamic_inhibition:
+  blockade: The figure cannot receive the good news; the anxiety prevents the openness reception requires
+  consequence: The good news is rejected or reinterpreted; the excitement is poisoned before it can land
+
+dynamic_devolution:
+  corruption: The page of wands becomes evidence of hidden threats; the figure imagines the good news but knows disaster is hidden within it; the excitement becomes torture because of the assumed catastrophe
+  loss: The figure loses the capacity to trust good news; they internalize the torment as evidence that all excitement hides danger
+
+dynamic_dependency:
+  integration: The torment teaches that not all good news hides danger; the figure learns through the nightmares that some excitement is genuine; when enough anxiety quiets, good news can be received; the anguish becomes the teacher of what genuine joy requires
+  outcome: The page of wands can finally reach the figure whose anxiety has quieted; the news is received; the excitement is felt; the possibility is embraced; the torment becomes the teacher of what true celebration requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, Knight of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Explorer, The Adventurous Spirit, The Quest Embodied, Passion in Motion
+numerical_relation: 9 + 12 = 21; the torment meets the embodiment of passionate exploration
+elemental_bridge: Air (nightmares of incompetence) meets Fire (confident adventure); the anxious mind doubts it can quest
+threshold_type: The moment when anxiety prevents the confidence necessary to explore
+
+dynamic_genesis:
+  mechanism: The tormented figure sees the explorer and despairs; the nightmares whisper that they cannot adventure, that they are too damaged, that the quest will fail
+  process: The nine of swords becomes aware that anxiety prevents response to the call of adventure; the nightmares convince of incapacity
+  outcome: Understanding that the tormented often do not try because they believe they cannot; that anxiety preempts the quest
+  key_terms: Quest prevented, adventure feared, incapacity assumed, exploration impossible
+
+dynamic_antagonism:
+  mechanism: The knight of wands burns with adventurous passion; the tormented doubt their capacity to respond; the adventure requires the confidence anxiety forbids
+  tension_axis: Between the call to quest and the anxiety that prevents response
+  nine_of_swords_position: "I am tormented and cannot adventure"
+  knight_of_wands_position: "I burn with the desire to explore; I follow my passion"
+  key_terms: Incapacity assumed, adventure feared, passion doubted, quest impossible
+
+dynamic_inhibition:
+  blockade: The figure cannot respond to the call of adventure; the anxiety prevents the confidence the quest requires
+  consequence: The figure remains paralyzed; the call passes unanswered; the adventure is never attempted
+
+dynamic_devolution:
+  corruption: The knight of wands becomes evidence of impossible adventure; the figure imagines questing but knows they would fail; the call becomes torture because it is heard but rejected
+  loss: The figure loses the capacity to believe they could answer any call; they internalize the torment as evidence of fundamental incapacity for adventure
+
+dynamic_dependency:
+  integration: The torment teaches that adventure is possible despite anxiety; the figure learns through the nightmares that some doubts are imagined; when enough anxiety quiets, the call can be answered; the anguish becomes the teacher of what genuine quest-spirit requires
+  outcome: The knight of wands can finally move with the figure whose anxiety has quieted; the adventure becomes possible; the call is answered; the quest is begun; the torment becomes the teacher of what true exploration requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, Queen of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Charismatic Creator, The Inspiring Presence, The Passionate Magnetism, Presence Radiant
+numerical_relation: 9 + 13 = 22; the torment meets the fullness of creative magnetism
+elemental_bridge: Air (nightmares dimming radiance) meets Fire (radiant creativity); the anxious mind hides its light
+threshold_type: The moment when anxiety prevents the figure from radiating their creative presence
+
+dynamic_genesis:
+  mechanism: The tormented figure has creative magnetism but the nightmares convince them to hide it; the presence is dimmed by anxiety; the light is hidden from fear of exposure
+  process: The nine of swords becomes aware that anxiety often drives the hiding of creative presence; the nightmares convince of unworthiness to radiate
+  outcome: Understanding that the tormented often suppress their own magnetism through fear; that anxiety prevents the presence that would inspire others
+  key_terms: Suppressed magnetism, presence dimmed, light hidden, radiance prevented
+
+dynamic_antagonism:
+  mechanism: The queen of wands radiates with creative presence; the tormented hide their light; the magnetism requires the confidence anxiety forbids
+  tension_axis: Between the creative magnetism and the anxiety that suppresses it
+  nine_of_swords_position: "I am tormented and must hide my light"
+  queen_of_wands_position: "I radiate with creative presence; all are drawn to my light"
+  key_terms: Hidden radiance, presence suppressed, magnetism prevented, light concealed
+
+dynamic_inhibition:
+  blockade: The figure cannot radiate their creative presence; the anxiety prevents the openness magnetism requires
+  consequence: The figure's creative presence remains invisible; they lose the opportunity to inspire others; their light is wasted
+
+dynamic_devolution:
+  corruption: The queen of wands becomes evidence of unworthiness to radiate; the figure imagines having presence but knows they should hide; the magnetism becomes torture because it is felt but suppressed
+  loss: The figure loses the capacity to believe they could inspire anyone; they internalize the torment as evidence of fundamental inability to radiate
+
+dynamic_dependency:
+  integration: The torment teaches that the creative magnetism is worth revealing; the figure learns through the nightmares that some fears of exposure are imagined; when enough anxiety quiets, the presence can radiate; the anguish becomes the teacher of what genuine creative magnetism requires
+  outcome: The queen of wands can finally shine with the figure whose anxiety has quieted; the presence becomes visible; the light is revealed; the magnetism is felt; the torment becomes the teacher of what true creative radiance requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW
+
+---
+
+card_pair: 9 of Swords, King of Wands
+archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_wands: The Master of Fire, The Visionary Leader, The Passionate Authority, Rule Through Inspiration
+numerical_relation: 9 + 14 = 23; the torment meets the culmination of inspired leadership
+elemental_bridge: Air (nightmares of unfitness) meets Fire (visionary authority); the anxious mind doubts its right to lead
+threshold_type: The moment when anxiety prevents the figure from stepping into their own authority
+
+dynamic_genesis:
+  mechanism: The tormented figure has the capacity for leadership and the nightmares convince them they are unfit; the authority remains unclaimed because anxiety insists on unworthiness
+  process: The nine of swords becomes aware that anxiety often prevents the claiming of genuine authority; the nightmares convince of fundamental unfitness
+  outcome: Understanding that the tormented often have the capacity for leadership but are prevented by doubt; that the throne remains empty because anxiety convinces them they don't belong there
+  key_terms: Unclaimed authority, unfitness assumed, leadership prevented, throne empty
+
+dynamic_antagonism:
+  mechanism: The king of wands rules with inspired authority; the tormented doubt their right to rule; the leadership requires the confidence anxiety forbids
+  tension_axis: Between the capacity for authority and the anxiety that prevents its claim
+  nine_of_swords_position: "I am tormented and unfit to lead"
+  king_of_wands_position: "I rule with inspired passion; my vision leads others"
+  key_terms: Doubted authority, unfitness feared, leadership prevented, throne unclaimed
+
+dynamic_inhibition:
+  blockade: The figure cannot claim their own authority; the anxiety prevents the confidence rule requires
+  consequence: The figure remains subordinate; they lead but from a position of doubt; the authority is never fully embraced
+
+dynamic_devolution:
+  corruption: The king of wands becomes evidence of impossible leadership; the figure imagines ruling but knows they are unfit; the authority becomes torture because it is felt but rejected
+  loss: The figure loses the capacity to believe they could lead; they internalize the torment as evidence of fundamental incapacity for authority
+
+dynamic_dependency:
+  integration: The torment teaches that leadership capacity is not dependent on anxiety approval; the figure learns through the nightmares that some doubts are imagined; when enough anxiety quiets, the authority can be claimed; the anguish becomes the teacher of what genuine leadership requires
+  outcome: The king of wands' throne is filled by the figure whose anxiety has quieted; the leadership becomes possible; the authority is claimed; the vision is shared; the torment becomes the teacher of what true inspired rule requires
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air-fire
+  numerical_axis: 1-14
+  uid: EOSW

@@ -47,6 +47,24 @@ SUIT_ELEMENT = {"pentacles": "earth", "cups": "water", "wands": "fire", "swords"
 SEQUENCE = ["Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10",
             "Page", "Knight", "Queen", "King"]
 
+# Canonical primary archetype_swords line per card (§6). Keyed by filename token.
+ARCH_SWORDS = {
+    "ace": "The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited",
+    "2": "Stalemate, choice, decision avoidance, binding agreement, blocked clarity",
+    "3": "Heartbreak, separation, sorrow, painful truth, unavoidable pain",
+    "4": "Rest, truce, peace, mental stillness, respite",
+    "5": "Conflict, defeat, hollow victory, defeat-at-cost, contested truth",
+    "6": "The Traveler, The Departure, The Crossing, The Healer Through Distance",
+    "7": "The Thief, The Cunning Escape, The Duplicity, The Strategic Theft",
+    "8": "The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness",
+    "9": "The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish",
+    "10": "The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation",
+    "page": "The Messenger, The Youthful Truth, The New Thought, Idea Arriving",
+    "knight": "The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion",
+    "queen": "The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won",
+    "king": "The King, The Enthroned Mind, The Visionary Authority, Thought That Commands",
+}
+
 # Required fields per dynamic section (§2). Position fields handled separately.
 DYNAMIC_FIELDS = {
     "dynamic_genesis": ["mechanism", "process", "outcome", "key_terms"],
@@ -213,6 +231,10 @@ def validate_file(path, quiet=False):
                 errors.append((i, f"{tag}: missing header field '{k}'"))
 
         prim_arch.add(top.get(arch_keys[0], ""))
+        canon = ARCH_SWORDS.get(primary_tok)
+        if canon and top.get(arch_keys[0], "") not in ("", canon):
+            errors.append((i, f"{tag}: {arch_keys[0]} not canonical (§6); "
+                              f"expected '{canon}'"))
 
         # --- card_pair / value extraction ---
         v1 = v2 = None

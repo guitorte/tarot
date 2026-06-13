@@ -375,6 +375,7 @@ python3 pairing/validate.py --quiet          # errors only (drop the ✓ lines)
 ```
 
 It verifies, per the rules above: 14 blocks in Ace→King order; required header fields;
+`archetype_swords` matches the §6 canonical line for the primary card;
 `numerical_relation` arithmetic, digit-reduction for sums >21, and the Marseille trump
 (§4.1); the five dynamics with field counts **4/5/5/4/4**; antagonism position labels
 (named `<card>_of_<suit>_position` for differing cards, `swords_position_1/_2` for a

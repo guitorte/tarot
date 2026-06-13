@@ -1,0 +1,697 @@
+card_pair: 2 of Swords, Ace of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 2-1 (Stalemate blocking creative spark; paralysis preventing enterprise ignition)
+elemental_bridge: Air indecision meeting fire inspiration; choice-avoidance preventing creative momentum
+threshold_type: The unlit spark; stalemate preventing creative launch
+
+dynamic_genesis:
+  mechanism: Breaking stalemate ignites creative inspiration; choice enables enterprise momentum
+  process: Deciding to create permits vision-manifestation; choosing action enables creative fire
+  outcome: Inspiration flows from courageous choice; enterprise emerges from decided action
+  key_terms: inspired choice, decided action, creative spark, burning enterprise
+
+dynamic_antagonism:
+  mechanism: Creative spark demands action; enterprise requires chosen commitment
+  tension_axis: Protective stalemate versus creative momentum; binding non-choice versus inspired action
+  swords_position: Maintains protective paralysis; resists the vulnerability of creative commitment
+  wands_position: Burns with inspiration; demands immediate action
+  key_terms: demanded action, resisted creation, protective paralysis, blocked inspiration
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents creative ignition; paralysis extinguishes creative spark
+  blockade_nature: The binding agreement prevents committed creation; non-choice freezes before action
+  swords_state: Stalemate becomes inspiration-blocking force; paralysis prevents creative momentum
+  consequence: Creativity cannot proceed; inspiration cannot ignite from paralyzing indecision
+  key_terms: unlit spark, blocked creation, prevented momentum, impossible enterprise
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts inspiration into bitter frustration; indecision becomes creative self-destruction
+  mode: Choice-avoidance becomes inspiration-sabotage; binding paralysis becomes talent-waste
+  loss: Genuine creative potential replaced by bitter stagnation; authentic enterprise becomes impossible
+  key_terms: bitter frustration, inspiration-sabotage, talent-waste, impossible creation
+
+dynamic_dependency:
+  mechanism: Stalemate without inspiration-purpose becomes meaningless paralysis; creativity without stalemate becomes reckless action
+  function: Wands-Ace provides the fire that makes choice vital; Swords-2 provides reflection that prevents reckless creation
+  integration_outcome: Stalemate becomes deliberate pause before creation; choice manifests from grounded inspiration
+  key_terms: grounded inspiration, deliberate pause, wise creation, integrated fire
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, 2 of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 2-2 (Stalemate meeting power-choice; paralysis blocking personal dominion)
+elemental_bridge: Air indecision meeting fire power; choice-avoidance preventing authoritative action
+threshold_type: The weak visionary; stalemate blocking power-choice
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables power-choice; decision allows personal dominion
+  process: Choosing to act permits power-manifestation; deciding direction enables expansion
+  outcome: Power flows from courageous choice; dominion emerges from decided vision
+  key_terms: chosen power, courageous dominion, decided vision, burning choice
+
+dynamic_antagonism:
+  mechanism: Personal power demands choice; dominion requires committed vision
+  tension_axis: Protective stalemate versus power-assertion; binding non-choice versus authoritative action
+  swords_position: Maintains protective paralysis; resists the vulnerability of power-assertion
+  wands_position: Asserts confident power; demands immediate action on vision
+  key_terms: demanded assertion, resisted power, protective paralysis, blocked vision
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents power-assertion; paralysis blocks personal dominion
+  blockade_nature: The binding agreement prevents choosing power; non-choice freezes before action
+  swords_state: Stalemate becomes power-blocking force; paralysis prevents authoritative action
+  consequence: Power cannot be asserted; dominion becomes impossible from paralyzing indecision
+  key_terms: blocked power, prevented dominion, powerless choice, impossible assertion
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts power into bitter impotence; indecision becomes self-sabotaging
+  mode: Choice-avoidance becomes power-denial; binding paralysis becomes self-destruction
+  loss: Genuine power replaced by bitter weakness; authentic dominion becomes impossible
+  key_terms: bitter impotence, self-sabotage, power-denial, impossible dominion
+
+dynamic_dependency:
+  mechanism: Stalemate without power-purpose becomes meaningless paralysis; power without stalemate becomes tyrannical assertion
+  function: Wands-2 provides the vision that makes choice vital; Swords-2 provides reflection that prevents tyrannical abuse
+  integration_outcome: Stalemate becomes deliberate pause before power-choice; vision manifests from grounded authority
+  key_terms: grounded authority, deliberate pause, wise power, integrated vision
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, 3 of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 2-3 (Stalemate blocking foresight; paralysis preventing forward momentum)
+elemental_bridge: Air indecision meeting fire vision; choice-avoidance preventing collaborative growth
+threshold_type: The stuck dreamer; stalemate blocking progress
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables visionary action; choice allows collaborative enterprise
+  process: Choosing direction permits growth-movement; deciding commitment enables collaborative momentum
+  outcome: Vision flows from courageous choice; enterprise emerges from decided collaboration
+  key_terms: courageous vision, decided growth, collaborative choice, burning momentum
+
+dynamic_antagonism:
+  mechanism: Foresight demands forward movement; growth requires chosen commitment
+  tension_axis: Protective stalemate versus progressive action; binding non-choice versus enterprise momentum
+  swords_position: Maintains protective stillness; resists the demand of forward movement
+  wands_position: Moves forward with enthusiasm; demands immediate action on vision
+  key_terms: demanded momentum, resisted growth, protective stillness, blocked progress
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents forward movement; paralysis blocks collaborative enterprise
+  blockade_nature: The binding agreement prevents progressive action; non-choice freezes momentum
+  swords_state: Stalemate becomes progress-blocking force; paralysis prevents collaborative growth
+  consequence: Growth cannot proceed; momentum cannot develop from paralyzing indecision
+  key_terms: blocked growth, frozen momentum, prevented progress, impossible collaboration
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts vision into bitter resentment of progress; indecision becomes sabotaging
+  mode: Choice-avoidance becomes growth-sabotage; binding paralysis becomes momentum-destruction
+  loss: Genuine vision replaced by bitter stagnation; authentic enterprise becomes impossible
+  key_terms: bitter resentment, growth-sabotage, momentum-destruction, impossible vision
+
+dynamic_dependency:
+  mechanism: Stalemate without vision-purpose becomes meaningless paralysis; growth without stalemate becomes reckless expansion
+  function: Wands-3 provides the collaborative vision that makes choice vital; Swords-2 provides reflection that prevents overcommitment
+  integration_outcome: Stalemate becomes deliberate pause before forward movement; vision manifests from grounded growth
+  key_terms: grounded growth, deliberate pause, wise vision, integrated momentum
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, 4 of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 2-4 (Stalemate preventing celebration; paralysis blocking communal joy)
+elemental_bridge: Air indecision meeting fire celebration; choice-avoidance preventing festive establishment
+threshold_type: The joyless gathering; stalemate blocking festivity
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables celebratory participation; choice allows joyful establishment
+  process: Choosing to celebrate permits community-joining; deciding commitment enables festive harmony
+  outcome: Celebration flows from courageous choice; joy emerges from decided participation
+  key_terms: courageous celebration, decided joy, community choice, festive participation
+
+dynamic_antagonism:
+  mechanism: Celebration demands participatory choice; joy requires committed engagement
+  tension_axis: Protective stalemate versus communal celebration; binding non-choice versus festive action
+  swords_position: Maintains aloof distance; resists the vulnerability of festive participation
+  wands_position: Burns with celebration; demands joyful engagement
+  key_terms: demanded engagement, resisted celebration, aloof distance, blocked joy
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents celebratory participation; paralysis blocks communal joy
+  blockade_nature: The binding agreement prevents joining celebration; non-choice prevents festive engagement
+  swords_state: Stalemate becomes joy-blocking force; paralysis prevents celebration-participation
+  consequence: Celebration cannot be enjoyed; joy becomes impossible from paralyzing isolation
+  key_terms: isolated participant, blocked celebration, prevented joy, impossible festivity
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts celebration into bitter resentment; indecision becomes joy-sabotaging
+  mode: Choice-avoidance becomes celebration-sabotage; binding paralysis becomes festivity-destruction
+  loss: Genuine celebration replaced by bitter isolation; authentic joy becomes impossible
+  key_terms: bitter resentment, celebration-sabotage, festivity-destruction, impossible joy
+
+dynamic_dependency:
+  mechanism: Stalemate without celebration-purpose becomes meaningless paralysis; celebration without stalemate becomes chaotic excess
+  function: Wands-4 provides the festive joy that makes participation vital; Swords-2 provides reflection that prevents manic excess
+  integration_outcome: Stalemate becomes deliberate pause before joining; celebration manifests from grounded joy
+  key_terms: grounded joy, deliberate pause, wise celebration, integrated festivity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, 5 of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Conflict, competition, competition, struggle, contested victory
+numerical_relation: 2-5 (Stalemate enabling conflict-avoidance; paralysis preventing necessary confrontation)
+elemental_bridge: Air indecision meeting fire conflict; choice-avoidance preventing engaged struggle
+threshold_type: The avoided conflict; stalemate preventing necessary confrontation
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables necessary confrontation; choice allows engaged conflict
+  process: Choosing to engage permits resolution through struggle; deciding commitment enables growth through contest
+  outcome: Resolution flows from courageous engagement; clarity emerges from decided conflict
+  key_terms: courageous confrontation, decided conflict, engaged struggle, clearing resolution
+
+dynamic_antagonism:
+  mechanism: Conflict demands engaged choice; struggle requires committed action
+  tension_axis: Protective stalemate versus direct confrontation; binding non-choice versus engaged combat
+  swords_position: Maintains protective distance from conflict; resists the heat of direct engagement
+  wands_position: Burns with competitive fire; demands immediate confrontation
+  key_terms: demanded confrontation, resisted engagement, protective distance, avoided conflict
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents necessary confrontation; paralysis enables conflict-avoidance
+  blockade_nature: The binding agreement prevents engaged struggle; non-choice freezes conflict before resolution
+  swords_state: Stalemate becomes confrontation-blocking force; paralysis prevents struggle-through
+  consequence: Conflict remains unresolved; tension cannot clear from avoided engagement
+  key_terms: unresolved conflict, avoided confrontation, frozen tension, impossible resolution
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts conflict-avoidance into festering resentment; indecision becomes sabotaging revenge
+  mode: Choice-avoidance becomes passive aggression; binding paralysis becomes explosive retaliation
+  loss: Protective avoidance replaced by destructive sabotage; authentic conflict-resolution becomes impossible
+  key_terms: festering resentment, passive aggression, sabotaging revenge, impossible resolution
+
+dynamic_dependency:
+  mechanism: Stalemate without conflict-awareness becomes meaningless paralysis; conflict without stalemate becomes destructive rage
+  function: Wands-5 provides the fire that makes confrontation necessary; Swords-2 provides pause that allows wise confrontation
+  integration_outcome: Stalemate becomes reflection before engagement; conflict manifests as clearing struggle
+  key_terms: clearing struggle, thoughtful confrontation, wise conflict, integrated resolution
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, 6 of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 2-6 (Stalemate preventing achievement; paralysis blocking victory)
+elemental_bridge: Air indecision meeting fire success; choice-avoidance preventing achievement-claiming
+threshold_type: The unrecognized victor; stalemate blocking success-claim
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables achievement-claiming; choice allows success-manifestation
+  process: Choosing to succeed permits recognition-pursuit; deciding action enables public victory
+  outcome: Victory flows from courageous choice; recognition emerges from decided action
+  key_terms: courageous victory, claimed success, recognized achievement, burning honor
+
+dynamic_antagonism:
+  mechanism: Victory demands achievement-claiming; recognition requires chosen assertion
+  tension_axis: Protective stalemate versus public success; binding non-choice versus achievement-affirmation
+  swords_position: Maintains humble distance from recognition; resists the vulnerability of claiming success
+  wands_position: Burns with achievement-fire; demands public recognition
+  key_terms: demanded recognition, resisted success, protective humility, blocked achievement
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents achievement-claiming; paralysis blocks public recognition
+  blockade_nature: The binding agreement prevents asserting success; non-choice freezes before recognition
+  swords_state: Stalemate becomes recognition-blocking force; paralysis prevents success-claiming
+  consequence: Achievement remains unrecognized; success cannot be claimed from paralyzing modesty
+  key_terms: unclaimed victory, blocked recognition, prevented achievement, impossible success
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts achievement into bitter resentment of overlooked success; indecision becomes sabotaging
+  mode: Choice-avoidance becomes self-sabotage of success; binding paralysis becomes achievement-destruction
+  loss: Genuine achievement replaced by bitter invisibility; authentic success becomes impossible
+  key_terms: bitter resentment, self-sabotage, overlooked victory, impossible recognition
+
+dynamic_dependency:
+  mechanism: Stalemate without achievement-purpose becomes meaningless paralysis; success without stalemate becomes arrogant boasting
+  function: Wands-6 provides the success that makes claiming vital; Swords-2 provides humility that prevents arrogant boasting
+  integration_outcome: Stalemate becomes reflection before claiming; achievement manifests from grounded recognition
+  key_terms: grounded recognition, thoughtful claiming, wise success, integrated honor
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, 7 of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 2-7 (Stalemate preventing resilient defense; paralysis blocking necessary standing-ground)
+elemental_bridge: Air indecision meeting fire resilience; choice-avoidance preventing defensive action
+threshold_type: The indefensible position; stalemate preventing necessary defense
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables resilient defense; choice allows standing-ground
+  process: Choosing to defend permits stance-maintenance; deciding commitment enables challenge-facing
+  outcome: Resilience flows from courageous choice; defense emerges from decided standing
+  key_terms: courageous defense, decided resilience, maintained position, defending choice
+
+dynamic_antagonism:
+  mechanism: Resilience demands decisive defense; standing-ground requires committed action
+  tension_axis: Protective stalemate versus defensive struggle; binding non-choice versus active resistance
+  swords_position: Maintains passive paralysis; resists the heat of active defense
+  wands_position: Burns with defensive fire; demands immediate resistance
+  key_terms: demanded defense, resisted struggle, passive paralysis, blocked resilience
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents defensive action; paralysis blocks resilient standing
+  blockade_nature: The binding agreement prevents taking defensive stance; non-choice prevents standing-ground
+  swords_state: Stalemate becomes defense-blocking force; paralysis prevents resilience-action
+  consequence: Defense cannot be mounted; position becomes indefensible from paralyzing passivity
+  key_terms: indefensible position, blocked defense, prevented standing, impossible resilience
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts defense into cowardly surrender; indecision becomes sabotaging capitulation
+  mode: Choice-avoidance becomes defensive betrayal; binding paralysis becomes position-abandonment
+  loss: Genuine resilience replaced by cowardly collapse; authentic defense becomes impossible
+  key_terms: cowardly surrender, defensive betrayal, position-abandonment, impossible resilience
+
+dynamic_dependency:
+  mechanism: Stalemate without defense-purpose becomes meaningless paralysis; resilience without stalemate becomes aggressive overreach
+  function: Wands-7 provides the challenge that makes defense vital; Swords-2 provides wisdom that prevents overextension
+  integration_outcome: Stalemate becomes reflection before defending; resilience manifests from grounded standing
+  key_terms: grounded standing, thoughtful defense, wise resilience, integrated strength
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, 8 of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 2-8 (Stalemate blocking momentum; paralysis preventing rapid progress)
+elemental_bridge: Air indecision meeting fire speed; choice-avoidance preventing accelerated action
+threshold_type: The frozen momentum; stalemate blocking speed
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables rapid progress; choice allows momentum-acceleration
+  process: Choosing to move permits swift action; deciding speed enables rapid advancement
+  outcome: Momentum flows from courageous choice; speed emerges from decided action
+  key_terms: courageous momentum, decided speed, rapid choice, accelerated action
+
+dynamic_antagonism:
+  mechanism: Speed demands immediate choice; momentum requires rapid decision
+  tension_axis: Protective stalemate versus swift action; binding non-choice versus accelerated movement
+  swords_position: Maintains protective slowness; resists the demand of rapid action
+  wands_position: Burns with swift fire; demands immediate movement
+  key_terms: demanded speed, resisted movement, protective slowness, blocked momentum
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents rapid progress; paralysis blocks momentum-acceleration
+  blockade_nature: The binding agreement prevents swift action; non-choice freezes momentum
+  swords_state: Stalemate becomes momentum-blocking force; paralysis prevents rapid movement
+  consequence: Progress cannot accelerate; speed becomes impossible from paralyzing indecision
+  key_terms: frozen movement, blocked momentum, prevented acceleration, impossible speed
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts momentum into erratic stalling; indecision becomes sabotaging slowdown
+  mode: Choice-avoidance becomes movement-sabotage; binding paralysis becomes progress-destruction
+  loss: Genuine momentum replaced by frustrating stall; authentic speed becomes impossible
+  key_terms: erratic stalling, movement-sabotage, progress-destruction, impossible momentum
+
+dynamic_dependency:
+  mechanism: Stalemate without momentum-purpose becomes meaningless paralysis; speed without stalemate becomes reckless haste
+  function: Wands-8 provides the momentum that makes choice vital; Swords-2 provides wisdom that prevents reckless haste
+  integration_outcome: Stalemate becomes reflection before acceleration; momentum manifests from grounded speed
+  key_terms: grounded speed, thoughtful acceleration, wise momentum, integrated movement
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, 9 of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 2-9 (Stalemate preventing perseverance; paralysis blocking sustained strength)
+elemental_bridge: Air indecision meeting fire endurance; choice-avoidance preventing sustained action
+threshold_type: The weakened warrior; stalemate blocking strength
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables perseverance; choice allows sustained strength
+  process: Choosing to persist permits endurance-building; deciding commitment enables tested resilience
+  outcome: Strength flows from courageous choice; endurance emerges from decided persistence
+  key_terms: courageous strength, decided persistence, sustained choice, burning endurance
+
+dynamic_antagonism:
+  mechanism: Strength demands sustained choice; endurance requires committed perseverance
+  tension_axis: Protective stalemate versus sustained effort; binding non-choice versus tested strength
+  swords_position: Maintains protective rest; resists the demand of sustained effort
+  wands_position: Burns with enduring fire; demands continued commitment
+  key_terms: demanded persistence, resisted effort, protective rest, blocked strength
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents sustained effort; paralysis blocks perseverance
+  blockade_nature: The binding agreement prevents enduring action; non-choice prevents sustained strength
+  swords_state: Stalemate becomes perseverance-blocking force; paralysis prevents sustained power
+  consequence: Effort cannot be sustained; strength cannot develop from paralyzing indecision
+  key_terms: blocked effort, impossible persistence, prevented strength, underdeveloped power
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts strength into exhausted collapse; indecision becomes sabotaging surrender
+  mode: Choice-avoidance becomes effort-sabotage; binding paralysis becomes strength-destruction
+  loss: Genuine strength replaced by premature collapse; authentic perseverance becomes impossible
+  key_terms: exhausted collapse, effort-sabotage, strength-destruction, impossible perseverance
+
+dynamic_dependency:
+  mechanism: Stalemate without strength-purpose becomes meaningless paralysis; strength without stalemate becomes obsessive overwork
+  function: Wands-9 provides the endurance that makes choice vital; Swords-2 provides wisdom that prevents burnout
+  integration_outcome: Stalemate becomes reflection before persisting; strength manifests from grounded endurance
+  key_terms: grounded endurance, thoughtful persistence, wise strength, integrated power
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, 10 of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 2-10 (Stalemate avoiding burden; paralysis preventing responsibility-taking)
+elemental_bridge: Air indecision meeting fire burden; choice-avoidance preventing burden-acceptance
+threshold_type: The avoided responsibility; stalemate preventing mature action
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables responsibility-acceptance; choice allows burden-carrying
+  process: Choosing to act permits weight-bearing; deciding maturity enables committed responsibility
+  outcome: Responsibility flows from courageous choice; mature action emerges from decided acceptance
+  key_terms: courageous responsibility, decided burden, accepted weight, mature choice
+
+dynamic_antagonism:
+  mechanism: Responsibility demands committed choice; burden-bearing requires decisive action
+  tension_axis: Protective stalemate versus responsibility-weight; binding non-choice versus burden-acceptance
+  swords_position: Maintains protective avoidance; resists the weight of adult responsibility
+  wands_position: Burns with responsibility-fire; demands immediate action
+  key_terms: demanded responsibility, resisted burden, protective avoidance, avoided weight
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents responsibility-acceptance; paralysis blocks burden-carrying
+  blockade_nature: The binding agreement prevents taking responsibility; non-choice avoids mature action
+  swords_state: Stalemate becomes responsibility-blocking force; paralysis prevents burden-acceptance
+  consequence: Responsibility cannot be taken; maturity becomes impossible from paralyzing avoidance
+  key_terms: avoided responsibility, blocked maturity, prevented burden, impossible growth
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts avoidance into parasitic dependence; indecision becomes sabotaging irresponsibility
+  mode: Choice-avoidance becomes willful immaturity; binding paralysis becomes destructive negligence
+  loss: Protective avoidance replaced by destructive negligence; authentic responsibility becomes impossible
+  key_terms: destructive negligence, parasitic dependence, willful immaturity, impossible responsibility
+
+dynamic_dependency:
+  mechanism: Stalemate without responsibility-purpose becomes meaningless avoidance; burden without stalemate becomes crushing exhaustion
+  function: Wands-10 provides the weight that makes choice vital; Swords-2 provides wisdom that prevents crushing overload
+  integration_outcome: Stalemate becomes reflection before accepting; responsibility manifests from grounded maturity
+  key_terms: grounded maturity, thoughtful responsibility, wise burden, integrated strength
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, Page of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 2-Page (Stalemate preventing enthusiastic engagement; paralysis blocking youthful energy)
+elemental_bridge: Air indecision meeting fire enthusiasm; choice-avoidance preventing energetic growth
+threshold_type: The dampened spark; stalemate blocking enthusiasm
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables enthusiastic engagement; choice allows youthful energy-flow
+  process: Choosing to engage permits spark-manifestation; deciding commitment enables creative enthusiasm
+  outcome: Enthusiasm flows from courageous choice; energy emerges from decided engagement
+  key_terms: courageous enthusiasm, decided engagement, energetic choice, burning spark
+
+dynamic_antagonism:
+  mechanism: Enthusiasm demands engaged choice; energy requires committed action
+  tension_axis: Protective stalemate versus enthusiastic engagement; binding non-choice versus energetic movement
+  swords_position: Maintains cool distance; resists the warmth of enthusiastic engagement
+  wands_position: Burns with youthful fire; demands immediate participation
+  key_terms: demanded engagement, resisted enthusiasm, cool distance, blocked energy
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents enthusiastic engagement; paralysis blocks youthful energy
+  blockade_nature: The binding agreement prevents engaging with inspiration; non-choice dampens the spark
+  swords_state: Stalemate becomes enthusiasm-blocking force; paralysis prevents energy-flow
+  consequence: Enthusiasm cannot develop; spark remains unlit from paralyzing indecision
+  key_terms: unlit spark, blocked enthusiasm, dampened energy, impossible engagement
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts enthusiasm into bitter cynicism; indecision becomes spark-destroying
+  mode: Choice-avoidance becomes enthusiasm-killing; binding paralysis becomes cynical dampening
+  loss: Genuine enthusiasm replaced by bitter coldness; authentic spark becomes impossible
+  key_terms: bitter cynicism, spark-killing, enthusiasm-death, impossible energy
+
+dynamic_dependency:
+  mechanism: Stalemate without enthusiasm-purpose becomes meaningless paralysis; enthusiasm without stalemate becomes reckless chaos
+  function: Wands-Page provides the spark that makes engagement valuable; Swords-2 provides wisdom that prevents chaotic excess
+  integration_outcome: Stalemate becomes reflection before engaging; enthusiasm manifests from grounded energy
+  key_terms: grounded energy, thoughtful engagement, wise enthusiasm, integrated spark
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, Knight of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 2-Knight (Stalemate preventing action; paralysis blocking passionate pursuit)
+elemental_bridge: Air indecision meeting fire action; choice-avoidance preventing bold engagement
+threshold_type: The frozen adventurer; stalemate blocking action
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables passionate action; choice allows bold engagement
+  process: Choosing to act permits adventure-pursuit; deciding commitment enables burning movement
+  outcome: Action flows from courageous choice; adventure emerges from decided engagement
+  key_terms: courageous action, decided adventure, passionate choice, burning movement
+
+dynamic_antagonism:
+  mechanism: Action demands immediate choice; adventure requires committed engagement
+  tension_axis: Protective stalemate versus bold action; binding non-choice versus passionate pursuit
+  swords_position: Maintains protective stillness; resists the heat of passionate action
+  wands_position: Burns with action-fire; demands immediate engagement
+  key_terms: demanded action, resisted engagement, protective stillness, blocked adventure
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents passionate action; paralysis blocks bold engagement
+  blockade_nature: The binding agreement prevents bold action; non-choice freezes before adventure
+  swords_state: Stalemate becomes action-blocking force; paralysis prevents movement
+  consequence: Action cannot be taken; adventure becomes impossible from paralyzing indecision
+  key_terms: frozen action, blocked adventure, prevented engagement, impossible movement
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts adventure into bitter resentment of lost opportunity; indecision becomes sabotaging
+  mode: Choice-avoidance becomes action-sabotage; binding paralysis becomes opportunity-destruction
+  loss: Genuine adventure replaced by bitter stagnation; authentic action becomes impossible
+  key_terms: bitter resentment, action-sabotage, opportunity-destruction, impossible adventure
+
+dynamic_dependency:
+  mechanism: Stalemate without action-purpose becomes meaningless paralysis; action without stalemate becomes reckless haste
+  function: Wands-Knight provides the movement that makes choice vital; Swords-2 provides wisdom that prevents reckless action
+  integration_outcome: Stalemate becomes reflection before moving; action manifests from grounded adventure
+  key_terms: grounded adventure, thoughtful action, wise engagement, integrated movement
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, Queen of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 2-Queen (Stalemate preventing leadership; paralysis blocking charismatic authority)
+elemental_bridge: Air indecision meeting fire mastery; choice-avoidance preventing authoritative action
+threshold_type: The powerless leader; stalemate blocking authority
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables leadership-assumption; choice allows charismatic authority
+  process: Choosing to lead permits mastery-manifestation; deciding commitment enables inspired authority
+  outcome: Leadership flows from courageous choice; authority emerges from decided engagement
+  key_terms: courageous leadership, decided authority, charismatic choice, inspired mastery
+
+dynamic_antagonism:
+  mechanism: Leadership demands authoritative choice; charisma requires committed engagement
+  tension_axis: Protective stalemate versus assertive authority; binding non-choice versus passionate leadership
+  swords_position: Maintains protective distance; resists the weight of leadership responsibility
+  wands_position: Burns with leadership-fire; demands immediate authority-assertion
+  key_terms: demanded leadership, resisted authority, protective distance, blocked mastery
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents leadership-assumption; paralysis blocks charismatic authority
+  blockade_nature: The binding agreement prevents authoritative action; non-choice prevents leadership
+  swords_state: Stalemate becomes leadership-blocking force; paralysis prevents authority
+  consequence: Leadership cannot be exercised; authority becomes impossible from paralyzing indecision
+  key_terms: blocked leadership, prevented authority, impossible mastery, powerless rule
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts authority into tyrannical weakness; indecision becomes destructive power-abdication
+  mode: Choice-avoidance becomes leadership-sabotage; binding paralysis becomes authority-destruction
+  loss: Genuine authority replaced by weak abdication; authentic leadership becomes impossible
+  key_terms: leadership-sabotage, authority-destruction, tyrannical weakness, impossible mastery
+
+dynamic_dependency:
+  mechanism: Stalemate without leadership-purpose becomes meaningless paralysis; leadership without stalemate becomes tyrannical dominance
+  function: Wands-Queen provides the authority that makes choice vital; Swords-2 provides wisdom that prevents tyranny
+  integration_outcome: Stalemate becomes reflection before leading; authority manifests from grounded mastery
+  key_terms: grounded mastery, thoughtful leadership, wise authority, integrated power
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW
+
+---
+
+card_pair: 2 of Swords, King of Wands
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 2-King (Stalemate preventing dominion; paralysis blocking powerful rule)
+elemental_bridge: Air indecision meeting fire dominion; choice-avoidance preventing authoritative action
+threshold_type: The paralyzed sovereign; stalemate blocking dominion
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables dominant rule; choice allows powerful authority
+  process: Choosing to rule permits dominion-manifestation; deciding vision enables commanding leadership
+  outcome: Dominion flows from courageous choice; authority emerges from decided vision
+  key_terms: courageous dominion, decided authority, visionary choice, burning rule
+
+dynamic_antagonism:
+  mechanism: Dominion demands authoritative choice; rule requires commanding vision
+  tension_axis: Protective stalemate versus dominant authority; binding non-choice versus commanding presence
+  swords_position: Maintains protective paralysis; resists the weight of supreme authority
+  wands_position: Burns with dominant fire; demands immediate rule-assertion
+  key_terms: demanded dominion, resisted authority, protective paralysis, blocked rule
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents dominant rule; paralysis blocks authoritative dominion
+  blockade_nature: The binding agreement prevents authoritative dominion; non-choice prevents rule
+  swords_state: Stalemate becomes dominion-blocking force; paralysis prevents authority
+  consequence: Dominion cannot be established; authority becomes impossible from paralyzing indecision
+  key_terms: blocked dominion, prevented authority, impossible rule, powerless throne
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts dominion into abusive weakness; indecision becomes tyrannical abdication
+  mode: Choice-avoidance becomes dominion-sabotage; binding paralysis becomes throne-destruction
+  loss: Genuine authority replaced by destructive abdication; authentic dominion becomes impossible
+  key_terms: dominion-sabotage, throne-destruction, tyrannical abdication, impossible rule
+
+dynamic_dependency:
+  mechanism: Stalemate without dominion-purpose becomes meaningless paralysis; dominion without stalemate becomes tyrannical aggression
+  function: Wands-King provides the vision that makes choice vital; Swords-2 provides wisdom that prevents tyrannical abuse
+  integration_outcome: Stalemate becomes reflection before ruling; dominion manifests from grounded authority
+  key_terms: grounded authority, thoughtful dominion, wise rule, integrated power
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSW

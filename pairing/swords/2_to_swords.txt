@@ -1,0 +1,647 @@
+card_pair: 2 of Swords, 2 of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 2-2 (Stalemate meeting stalemate; paralysis reinforcing paralysis)
+elemental_bridge: Air indecision encountering air indecision; choice-avoidance meeting choice-avoidance
+threshold_type: The mutual bind; dual paralysis
+
+dynamic_genesis:
+  mechanism: Breaking one stalemate enables breaking the other; mutual choice overcomes mutual paralysis
+  process: One person's decision permits both to see; shared willingness to choose enables mutual liberation
+  outcome: Stalemate dissolves from mutual commitment; paralysis ends through simultaneous breaking
+  key_terms: mutual choice, simultaneous breakthrough, shared liberation, broken bind
+
+dynamic_antagonism:
+  mechanism: Both stalemates resist mutual resolution; each paralysis enables the other's continuation
+  tension_axis: Both maintaining protective blindness; neither willing to break the bind
+  swords_position_1: Maintains protective neutrality; depends on the other's paralysis to justify its own
+  swords_position_2: Sustains the mutual bind; uses the other's non-choice to excuse its own
+  key_terms: mutual reinforcement, justified paralysis, interdependent stalemate, enabled avoidance
+
+dynamic_inhibition:
+  mechanism: Paralysis doubles: each stalemate prevents the other from breaking free
+  blockade_nature: Neither can move without risking the loss of the binding agreement; both frozen together
+  swords_state: Stalemate becomes self-perpetuating; paralysis fed by mutual non-choice
+  consequence: Neither can break free alone; mutual paralysis becomes inescapable
+  key_terms: inescapable bind, self-perpetuating stalemate, doubled paralysis, impossible liberation
+
+dynamic_devolution:
+  mechanism: Mutual stalemate corrupts into entrenched bitterness; paralysis becomes resentful imprisonment
+  mode: Choice-avoidance becomes mutual blame; binding agreement becomes hostile co-imprisonment
+  loss: Protective stalemate replaced by bitter entrapment; authentic negotiation becomes impossible
+  key_terms: bitter entrapment, hostile co-imprisonment, resentful stalemate, impossible negotiation
+
+dynamic_dependency:
+  mechanism: Neither stalemate can persist without the other; mutual paralysis depends on mutual non-choice
+  function: Each 2 of Swords provides the mirror that forces recognition; neither can sustain blindness alone
+  integration_outcome: Stalemate becomes transparent through doubling; choice emerges when both acknowledge
+  key_terms: transparent bind, acknowledged paralysis, mutual recognition, integrated choice
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, 3 of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 2-3 (Stalemate preventing grief; paralysis blocking necessary sorrow)
+elemental_bridge: Air paralysis meeting air sorrow; choice-avoidance preventing painful acknowledgment
+threshold_type: The ungrieved loss; stalemate blocking pain-processing
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables grief-work; choice allows necessary sorrow
+  process: Choosing to feel permits pain-acknowledgment; deciding vulnerability enables emotional release
+  outcome: Grief flows from courageous choice; healing emerges from decided sorrow-facing
+  key_terms: courageous grieving, decided sorrow, acknowledged loss, healing choice
+
+dynamic_antagonism:
+  mechanism: Grief demands acknowledged pain; sorrow requires choosing to feel
+  tension_axis: Protective stalemate versus painful truth; binding non-choice versus emotional reality
+  swords_position_1: Maintains protective numbness; resists the vulnerability of grief
+  swords_position_2: Demands emotional acknowledgment; insists pain must be felt
+  key_terms: demanded feeling, resisted grief, protective numbness, forced acknowledgment
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents grief-work; paralysis blocks pain-processing
+  blockade_nature: The binding agreement prevents feeling the pain; non-choice freezes grief
+  swords_state: Stalemate becomes grief-blocking force; paralysis prevents emotional release
+  consequence: Pain remains unprocessed; grief cannot transform into healing
+  key_terms: unprocessed pain, frozen grief, prevented healing, trapped sorrow
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts grief-avoidance into toxic resentment; paralysis becomes self-destructive
+  mode: Choice-avoidance becomes self-harming numbness; binding paralysis becomes suicidal despair
+  loss: Protective non-feeling replaced by soul-killing numbness; authentic grief becomes impossible
+  key_terms: self-harming numbness, soul-killing stagnation, suicidal despair, impossible grief
+
+dynamic_dependency:
+  mechanism: Stalemate without sorrow-reality becomes meaningless paralysis; sorrow without pause becomes unbearable
+  function: Swords-3 provides the emotional truth that makes choice necessary; Swords-2 provides space for compassionate grieving
+  integration_outcome: Stalemate becomes reflection before feeling; choice manifests from grounded sorrow
+  key_terms: grounded sorrow, thoughtful grieving, wise pain, integrated healing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, 4 of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Rest, truce, peace, mental stillness, respite
+numerical_relation: 2-4 (Stalemate reinforced by rest-seeming; paralysis disguised as peaceful pause)
+elemental_bridge: Air indecision meeting air stillness; choice-avoidance appearing as restorative rest
+threshold_type: The confused pause; stalemate mistaken for peace
+
+dynamic_genesis:
+  mechanism: Breaking protective stalemate allows genuine rest to follow; choice enables true peace
+  process: Choosing to move permits real recovery; deciding action enables genuine respite after change
+  outcome: Peace flows from committed action and earned rest; respite becomes real after chosen change
+  key_terms: earned rest, chosen peace, real respite, genuine stillness
+
+dynamic_antagonism:
+  mechanism: Rest-appearance threatens to disguise continuing stalemate; peace-seeming prevents necessary choice
+  tension_axis: False peace versus necessary action; comfortable stalemate versus true recovery
+  swords_position_1: Uses rest-language to justify continued non-choice; claims peace of stalemate
+  swords_position_2: Offers mental quietude that enables continued paralysis
+  key_terms: disguised paralysis, false peace, enabled stalemate, confused stillness
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents movement while claiming rest; paralysis paralyzes through peace-appearance
+  blockade_nature: The false peace becomes more binding than honest stalemate; illusion of recovery prevents real change
+  swords_state: Stalemate becomes deceptively restful; paralysis hides within peaceful-seeming
+  consequence: Action cannot emerge; true rest becomes impossible while living false peace
+  key_terms: false peace, deceptive rest, hidden stalemate, impossible change
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts rest into sleep-like numbness; false peace becomes depressive dissociation
+  mode: Choice-avoidance becomes escapist unconsciousness; binding paralysis becomes soul-death
+  loss: Genuine rest replaced by numb dissociation; authentic peace becomes impossible
+  key_terms: escapist dissociation, soul-death, numb stagnation, impossible recovery
+
+dynamic_dependency:
+  mechanism: Stalemate without rest-appearance becomes obviously paralyzing; rest without stalemate becomes genuine respite
+  function: Swords-4 provides the stillness that can either enable or block stalemate; Swords-2 forces choice to distinguish
+  integration_outcome: Stalemate becomes honest rest only after moving; peace becomes earned through commitment
+  key_terms: earned peace, honest rest, committed stillness, integrated recovery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, 5 of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 2-5 (Stalemate preventing confrontation; paralysis blocking necessary struggle)
+elemental_bridge: Air paralysis meeting air conflict; choice-avoidance preventing engaged battle
+threshold_type: The avoided combat; stalemate blocking necessary fighting
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables necessary confrontation; choice allows engaged struggle
+  process: Choosing to fight permits truth-emergence; deciding to engage enables resolution-through-conflict
+  outcome: Clarity flows from courageous confrontation; resolution emerges from decided engagement
+  key_terms: courageous confrontation, decided conflict, engaged struggle, clearing resolution
+
+dynamic_antagonism:
+  mechanism: Conflict demands engaged choice; combat requires breaking the protective bind
+  tension_axis: Protective stalemate versus direct conflict; binding non-choice versus honest fighting
+  swords_position_1: Maintains protective avoidance of confrontation; uses stalemate to prevent fighting
+  swords_position_2: Demands direct engagement; insists on fighting rather than binding
+  key_terms: demanded fighting, avoided confrontation, protected distance, forced engagement
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents necessary confrontation; paralysis blocks resolution-through-conflict
+  blockade_nature: The binding agreement prevents direct combat; non-choice freezes conflict before resolution
+  swords_state: Stalemate becomes conflict-preventing force; paralysis prevents necessary fighting
+  consequence: Conflict remains unresolved; resentment builds from avoided confrontation
+  key_terms: unresolved conflict, avoided confrontation, building resentment, prevented clarity
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts into festering resentment of blocked fighting; paralysis becomes destructive sabotage
+  mode: Choice-avoidance becomes passive-aggressive wounding; binding paralysis becomes explosive betrayal
+  loss: Protective stalemate replaced by toxic sabotage; authentic confrontation becomes impossible
+  key_terms: festering resentment, passive-aggressive wounding, explosive betrayal, impossible confrontation
+
+dynamic_dependency:
+  mechanism: Stalemate without conflict-reality becomes meaningless paralysis; conflict without stalemate becomes destructive rage
+  function: Swords-5 provides the necessary struggle that makes choice vital; Swords-2 provides pause that prevents destructive fighting
+  integration_outcome: Stalemate becomes reflection before engaging; conflict manifests as clearing struggle
+  key_terms: clearing struggle, thoughtful confrontation, wise fighting, integrated resolution
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, 6 of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Travel, transition, movement toward solution, passage, departure
+numerical_relation: 2-6 (Stalemate preventing necessary passage; paralysis blocking healing departure)
+elemental_bridge: Air indecision meeting air movement; choice-avoidance preventing transitions
+threshold_type: The stuck traveler; stalemate blocking passage
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables necessary passage; choice allows healing departure
+  process: Choosing to leave permits transition; deciding to move enables journey-toward-resolution
+  outcome: Transition flows from courageous choice; healing emerges from decided movement
+  key_terms: courageous departure, decided movement, healing transition, chosen passage
+
+dynamic_antagonism:
+  mechanism: Transition demands chosen departure; passage requires deciding to move
+  tension_axis: Protective stalemate versus necessary leaving; binding non-choice versus healing movement
+  swords_position_1: Maintains protective immobility; uses stalemate to prevent leaving
+  swords_position_2: Demands forward movement; insists on transition away from stalemate
+  key_terms: demanded movement, resisted departure, protective immobility, blocked transition
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents departure; paralysis blocks necessary transition
+  blockade_nature: The binding agreement prevents leaving; non-choice traps in place
+  swords_state: Stalemate becomes departure-preventing force; paralysis blocks movement
+  consequence: Transition cannot occur; healing journey becomes impossible from refusing to move
+  key_terms: prevented departure, blocked movement, impossible transition, trapped stalemate
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts departure-need into desperate escape-fantasy; paralysis becomes self-abandonment
+  mode: Choice-avoidance becomes sudden explosive leaving; binding paralysis becomes traumatic flight
+  loss: Conscious transition replaced by reactive escape; authentic healing becomes impossible
+  key_terms: desperate fantasy, traumatic flight, self-abandonment, impossible healing
+
+dynamic_dependency:
+  mechanism: Stalemate without transition-purpose becomes meaningless paralysis; movement without stalemate becomes reckless running
+  function: Swords-6 provides the journey that makes choice vital; Swords-2 provides reflection that prevents reckless flight
+  integration_outcome: Stalemate becomes reflection before departing; passage manifests from grounded transition
+  key_terms: grounded transition, thoughtful departure, wise passage, integrated healing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, 7 of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Deception, theft, cunning, strategic secrecy, hidden strategy
+numerical_relation: 2-7 (Stalemate enabling deception; paralysis allowing hidden strategy)
+elemental_bridge: Air indecision meeting air concealment; choice-avoidance enabling strategic hiding
+threshold_type: The deceived deceiver; stalemate enabling mutual deception
+
+dynamic_genesis:
+  mechanism: Breaking stalemate reveals hidden strategy; choice enables transparent truth
+  process: Choosing to see permits honest disclosure; deciding clarity enables authentic dealing
+  outcome: Truth flows from courageous choice; authenticity emerges from decided transparency
+  key_terms: courageous truth, decided transparency, revealed strategy, honest choice
+
+dynamic_antagonism:
+  mechanism: Deception depends on stalemate-concealment; strategy enables continued paralysis
+  tension_axis: Protective deception versus honest truth; hidden strategy versus revealed clarity
+  swords_position_1: Uses stalemate to conceal deception; maintains paralysis to hide strategy
+  swords_position_2: Enables strategic concealment through mutual confusion
+  key_terms: enabled deception, concealed strategy, mutual confusion, hidden paralysis
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents revealing deception; paralysis hides cunning strategy
+  blockade_nature: Both parties blind to each other's hidden moves; mutual deception perpetuates mutual paralysis
+  swords_state: Stalemate becomes deception-enabling force; paralysis hides strategy
+  consequence: Truth cannot emerge; clarity becomes impossible from mutual concealment
+  key_terms: mutual deception, concealed truth, impossible clarity, perpetuated paralysis
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts into toxic mutual betrayal; paralysis becomes weaponized deception
+  mode: Choice-avoidance becomes deliberate lying; binding paralysis becomes active sabotage
+  loss: Protective stalemate replaced by destructive betrayal; authentic connection becomes impossible
+  key_terms: toxic betrayal, weaponized deception, active sabotage, impossible authenticity
+
+dynamic_dependency:
+  mechanism: Stalemate without strategy-reality becomes meaningless paralysis; deception without stalemate becomes exposed
+  function: Swords-7 provides the concealment that enables stalemate; Swords-2 forces choice between transparency or continued hiding
+  integration_outcome: Stalemate becomes honest pause before revealing; truth manifests from transparent choice
+  key_terms: transparent choice, honest pause, wise truth, integrated authenticity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, 8 of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Imprisonment, constraint, mental bondage, restriction, entrapment
+numerical_relation: 2-8 (Stalemate creating bondage; paralysis deepening mental imprisonment)
+elemental_bridge: Air indecision meeting air constraint; choice-avoidance deepening mental chains
+threshold_type: The doubled imprisonment; stalemate trapping in cage
+
+dynamic_genesis:
+  mechanism: Breaking stalemate releases imprisonment; choice enables escape from mental bondage
+  process: Choosing to move permits prison-breaking; deciding freedom enables liberation
+  outcome: Freedom flows from courageous choice; liberation emerges from decided action
+  key_terms: courageous liberation, decided freedom, broken chains, chosen escape
+
+dynamic_antagonism:
+  mechanism: Imprisonment depends on stalemate-paralysis; bondage reinforces protective non-choice
+  tension_axis: Familiar imprisonment versus threatening freedom; mental chains versus overwhelming liberty
+  swords_position_1: Uses stalemate to justify remaining imprisoned; paralysis becomes familiar
+  swords_position_2: Represents the mental cage that stalemate creates
+  key_terms: familiar imprisonment, justified paralysis, mental cage, defended bondage
+
+dynamic_inhibition:
+  mechanism: Stalemate deepens imprisonment; paralysis reinforces mental chains
+  blockade_nature: Both forces bind: stalemate through non-choice, imprisonment through mental constraint
+  swords_state: Stalemate becomes imprisonment-deepening force; paralysis tightens mental bonds
+  consequence: Escape becomes impossible; bondage deepens from paralyzing non-choice
+  key_terms: deepening bondage, tightened chains, impossible escape, reinforced imprisonment
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts mental prison into psychological breakdown; paralysis becomes dissociative
+  mode: Choice-avoidance becomes psychotic break; binding paralysis becomes ego-death
+  loss: Mental bondage replaced by psychological dissolution; authentic consciousness becomes impossible
+  key_terms: psychological dissolution, psychotic break, ego-death, impossible consciousness
+
+dynamic_dependency:
+  mechanism: Stalemate without imprisonment-reality becomes meaningless paralysis; imprisonment without stalemate becomes urgent crisis
+  function: Swords-8 provides the mental constraint that stalemate enables; Swords-2 forces choice to escape or accept
+  integration_outcome: Stalemate becomes reflection before escape; freedom manifests from grounded liberation
+  key_terms: grounded liberation, thoughtful escape, wise freedom, integrated consciousness
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, 9 of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
+numerical_relation: 2-9 (Stalemate generating anxiety; paralysis feeding obsessive thought)
+elemental_bridge: Air indecision meeting air torment; choice-avoidance intensifying mental obsession
+threshold_type: The paralyzed sufferer; stalemate feeding anxiety
+
+dynamic_genesis:
+  mechanism: Breaking stalemate stops feeding anxiety; choice enables mental freedom
+  process: Choosing to act permits anxiety-resolution; deciding commitment enables peace
+  outcome: Peace flows from courageous choice; mental freedom emerges from decided action
+  key_terms: courageous action, decided peace, stopped anxiety, mental freedom
+
+dynamic_antagonism:
+  mechanism: Anxiety feeds on paralysis; stalemate feeds obsessive thinking
+  tension_axis: Paralysis-generated anxiety versus anxiety-demanding action; mutual reinforcement
+  swords_position_1: Uses non-choice to justify anxiety; stalemate generates mental torment
+  swords_position_2: Intensifies the paralysis through anxious obsession
+  key_terms: fed anxiety, generated torment, reinforced obsession, justified paralysis
+
+dynamic_inhibition:
+  mechanism: Stalemate generates anxiety; anxiety deepens paralysis in vicious cycle
+  blockade_nature: Neither can be broken without the other; anxiety justifies non-choice, non-choice intensifies anxiety
+  swords_state: Stalemate becomes anxiety-generating force; paralysis feeds obsessive thought
+  consequence: Escape becomes impossible; anxiety spirals from paralyzing non-choice
+  key_terms: spiraling anxiety, vicious cycle, deepened torment, impossible peace
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts anxiety into maddening obsession; paralysis becomes suicidal
+  mode: Choice-avoidance becomes self-torturing obsession; binding paralysis becomes death-wish
+  loss: Protective paralysis replaced by self-destruction; mental health becomes impossible
+  key_terms: self-torturing obsession, death-wish, psychological suicide, impossible recovery
+
+dynamic_dependency:
+  mechanism: Stalemate without anxiety-trigger becomes meaningless paralysis; anxiety without stalemate becomes urgent crisis
+  function: Swords-9 provides the mental suffering that stalemate generates; Swords-2 forces choice between continued suffering or action
+  integration_outcome: Stalemate becomes reflection before acting; peace manifests from grounded choice
+  key_terms: grounded choice, thoughtful action, wise peace, integrated freedom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, 10 of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Destruction, ending, inevitable pain, completion through ruin, death-knife
+numerical_relation: 2-10 (Stalemate postponing inevitable; paralysis delaying necessary ending)
+elemental_bridge: Air indecision meeting air devastation; choice-avoidance preventing necessary conclusion
+threshold_type: The delayed ending; stalemate blocking completion
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables necessary ending; choice allows completion
+  process: Choosing to end permits transformation through destruction; deciding finality enables renewal
+  outcome: Completion flows from courageous choice; renewal emerges from decided ending
+  key_terms: courageous ending, decided completion, transformative destruction, chosen finality
+
+dynamic_antagonism:
+  mechanism: Ending demands chosen acceptance; finality requires deciding to let go
+  tension_axis: Protective stalemate versus inevitable ending; binding non-choice versus necessary destruction
+  swords_position_1: Maintains stalemate to delay inevitable; paralyzes to postpone ending
+  swords_position_2: Brings the ending that stalemate tries to prevent
+  key_terms: delayed ending, prevented completion, resisted finality, avoided destruction
+
+dynamic_inhibition:
+  mechanism: Stalemate delays ending without preventing it; paralysis prolongs suffering without changing outcome
+  blockade_nature: The ending cannot be avoided, only postponed; stalemate extends pain without preventing completion
+  swords_state: Stalemate becomes ending-delaying force; paralysis extends suffering
+  consequence: Completion becomes delayed agony; ending arrives after prolonged pain
+  key_terms: delayed agony, extended suffering, inevitable completion, prolonged pain
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts into death-in-life; paralysis becomes walking death
+  mode: Choice-avoidance becomes living death; binding paralysis becomes spiritual dissolution
+  loss: Protective paralysis replaced by living death; authentic completion becomes impossible
+  key_terms: living death, spiritual dissolution, walking corpse, impossible renewal
+
+dynamic_dependency:
+  mechanism: Stalemate without ending-reality becomes meaningless postponement; ending without pause becomes sudden trauma
+  function: Swords-10 provides the inevitable that stalemate tries to delay; Swords-2 provides space for accepting completion
+  integration_outcome: Stalemate becomes reflection before accepting; ending manifests as honored completion
+  key_terms: honored completion, thoughtful ending, wise acceptance, integrated renewal
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, Page of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
+numerical_relation: 2-Page (Stalemate blocking youthful inquiry; paralysis preventing intellectual growth)
+elemental_bridge: Air indecision meeting air curiosity; choice-avoidance preventing learning
+threshold_type: The blocked explorer; stalemate preventing discovery
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables curious exploration; choice allows intellectual growth
+  process: Choosing to explore permits discovery; deciding openness enables learning
+  outcome: Learning flows from courageous choice; discovery emerges from decided inquiry
+  key_terms: courageous exploration, decided learning, curious discovery, intellectual growth
+
+dynamic_antagonism:
+  mechanism: Curiosity demands exploration; inquiry requires willing investigation
+  tension_axis: Protective stalemate versus intellectual exploration; binding non-choice versus eager learning
+  swords_position_1: Maintains protective distance from inquiry; resists vulnerable learning
+  swords_position_2: Drives toward discovery; insists on questioning and exploration
+  key_terms: demanded inquiry, resisted learning, protected distance, blocked discovery
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents inquiry; paralysis blocks intellectual growth
+  blockade_nature: The binding agreement prevents curious exploration; non-choice prevents learning
+  swords_state: Stalemate becomes inquiry-blocking force; paralysis prevents discovery
+  consequence: Learning cannot proceed; intellectual potential remains unrealized
+  key_terms: prevented learning, blocked inquiry, unrealized potential, impossible discovery
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts curiosity into contemptuous cynicism; paralysis becomes intellectual death
+  mode: Choice-avoidance becomes learning-refusal; binding paralysis becomes intellectual stagnation
+  loss: Genuine curiosity replaced by cynical rejection; authentic learning becomes impossible
+  key_terms: contemptuous cynicism, learning-refusal, intellectual death, impossible growth
+
+dynamic_dependency:
+  mechanism: Stalemate without curiosity-drive becomes meaningless paralysis; curiosity without stalemate becomes scattered chaos
+  function: Swords-Page provides the inquiry that challenges stalemate; Swords-2 provides focus that channels curiosity
+  integration_outcome: Stalemate becomes reflection before exploring; curiosity manifests from grounded inquiry
+  key_terms: grounded inquiry, thoughtful exploration, wise learning, integrated discovery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, Knight of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
+numerical_relation: 2-Knight (Stalemate blocking action; paralysis preventing aggressive pursuit)
+elemental_bridge: Air indecision meeting air momentum; choice-avoidance preventing direct action
+threshold_type: The frozen warrior; stalemate preventing combat
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables direct action; choice allows aggressive pursuit
+  process: Choosing to act permits combat-engagement; deciding momentum enables aggressive confrontation
+  outcome: Action flows from courageous choice; momentum emerges from decided engagement
+  key_terms: courageous action, decided pursuit, engaged combat, cutting momentum
+
+dynamic_antagonism:
+  mechanism: Action demands immediate choice; combat requires direct engagement
+  tension_axis: Protective stalemate versus direct action; binding non-choice versus aggressive pursuit
+  swords_position_1: Maintains protective stillness; resists the aggression of direct combat
+  swords_position_2: Burns to engage; demands immediate confrontation
+  key_terms: demanded action, resisted combat, protective stillness, blocked momentum
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents action; paralysis blocks aggressive pursuit
+  blockade_nature: The binding agreement prevents engagement; non-choice freezes before combat
+  swords_state: Stalemate becomes action-blocking force; paralysis prevents momentum
+  consequence: Action cannot be taken; pursuit becomes impossible from paralyzing indecision
+  key_terms: prevented action, blocked pursuit, impossible combat, frozen momentum
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts action-drive into destructive sabotage; paralysis becomes self-sabotaging
+  mode: Choice-avoidance becomes action-wounding; binding paralysis becomes self-destruction
+  loss: Genuine action replaced by sabotaging self-harm; authentic combat becomes impossible
+  key_terms: self-sabotaging, action-wounding, self-destruction, impossible combat
+
+dynamic_dependency:
+  mechanism: Stalemate without action-purpose becomes meaningless paralysis; action without stalemate becomes reckless aggression
+  function: Swords-Knight provides the momentum that stalemate blocks; Swords-2 provides restraint that prevents reckless action
+  integration_outcome: Stalemate becomes reflection before engaging; action manifests from grounded momentum
+  key_terms: grounded momentum, thoughtful action, wise combat, integrated strength
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, Queen of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
+numerical_relation: 2-Queen (Stalemate preventing mastery; paralysis blocking independent thought)
+elemental_bridge: Air indecision meeting air wisdom; choice-avoidance preventing intellectual authority
+threshold_type: The unmastered mind; stalemate preventing wisdom
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables intellectual development; choice allows mastery
+  process: Choosing to think permits independent clarity; deciding wisdom enables discernment
+  outcome: Mastery flows from courageous choice; wisdom emerges from decided thinking
+  key_terms: courageous mastery, decided wisdom, independent thought, sharp discernment
+
+dynamic_antagonism:
+  mechanism: Mastery demands independent choice; wisdom requires autonomous thought
+  tension_axis: Protective stalemate versus independent mastery; binding non-choice versus intellectual authority
+  swords_position_1: Maintains protective paralysis; resists the weight of independent thought
+  swords_position_2: Demands intellectual autonomy; insists on wisdom-development
+  key_terms: demanded mastery, resisted wisdom, protective paralysis, blocked thought
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents intellectual development; paralysis blocks mastery-path
+  blockade_nature: The binding agreement prevents independent thinking; non-choice prevents wisdom-growth
+  swords_state: Stalemate becomes mastery-blocking force; paralysis prevents intellectual authority
+  consequence: Mastery cannot develop; wisdom remains unrealized from paralyzing dependence
+  key_terms: prevented mastery, blocked wisdom, impossible development, unrealized authority
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts intellectual potential into bitter stagnation; paralysis becomes intellectual death
+  mode: Choice-avoidance becomes learning-refusal; binding paralysis becomes mental calcification
+  loss: Genuine mastery replaced by bitter resentment; authentic wisdom becomes impossible
+  key_terms: bitter resentment, learning-refusal, mental calcification, impossible mastery
+
+dynamic_dependency:
+  mechanism: Stalemate without wisdom-potential becomes meaningless paralysis; wisdom without stalemate becomes contemptuous arrogance
+  function: Swords-Queen provides the mastery that stalemate prevents; Swords-2 provides humility that prevents arrogance
+  integration_outcome: Stalemate becomes reflection before learning; mastery manifests from grounded wisdom
+  key_terms: grounded wisdom, thoughtful learning, wise mastery, integrated authority
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS
+
+---
+
+card_pair: 2 of Swords, King of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
+numerical_relation: 2-King (Stalemate preventing authority; paralysis blocking absolute clarity)
+elemental_bridge: Air indecision meeting air dominion; choice-avoidance preventing authoritative command
+threshold_type: The powerless sovereign; stalemate preventing rule
+
+dynamic_genesis:
+  mechanism: Breaking stalemate enables authoritative clarity; choice allows supreme judgment
+  process: Choosing to command permits authority-assumption; deciding clarity enables dominion
+  outcome: Authority flows from courageous choice; dominion emerges from decided judgment
+  key_terms: courageous authority, decided judgment, commanding clarity, absolute choice
+
+dynamic_antagonism:
+  mechanism: Authority demands commanding clarity; rule requires decisive judgment
+  tension_axis: Protective stalemate versus intellectual dominion; binding non-choice versus authoritative power
+  swords_position_1: Maintains protective paralysis; resists the weight of authority
+  swords_position_2: Demands supreme judgment; insists on commanding clarity
+  key_terms: demanded authority, resisted rule, protective paralysis, blocked judgment
+
+dynamic_inhibition:
+  mechanism: Stalemate prevents authoritative judgment; paralysis blocks intellectual dominion
+  blockade_nature: The binding agreement prevents commanding; non-choice prevents supreme clarity
+  swords_state: Stalemate becomes authority-blocking force; paralysis prevents dominion
+  consequence: Authority cannot be exercised; judgment remains absent from paralyzing indecision
+  key_terms: prevented authority, blocked judgment, impossible dominion, powerless rule
+
+dynamic_devolution:
+  mechanism: Stalemate corrupts judgment into tyrannical weakness; paralysis becomes abusive power-abdication
+  mode: Choice-avoidance becomes authority-sabotage; binding paralysis becomes corrupted rule
+  loss: Genuine authority replaced by corrupt abdication; authentic dominion becomes impossible
+  key_terms: corrupted authority, sabotaged rule, abusive abdication, impossible dominion
+
+dynamic_dependency:
+  mechanism: Stalemate without authority-purpose becomes meaningless paralysis; authority without stalemate becomes tyrannical aggression
+  function: Swords-King provides the dominion that stalemate blocks; Swords-2 provides restraint that prevents tyranny
+  integration_outcome: Stalemate becomes reflection before ruling; authority manifests from grounded clarity
+  key_terms: grounded authority, thoughtful rule, wise judgment, integrated dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: TOSS

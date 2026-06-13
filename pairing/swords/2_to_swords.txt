@@ -1,7 +1,57 @@
+card_pair: 2 of Swords, Ace of Swords
+archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 2 + 1 = 3 (III The Empress; blocked clarity meets the clarity that has arrived)
+elemental_bridge: Air's refusal to see meets Air's breakthrough; the lowered blindfold meets the lifted one
+threshold_type: The insight offered to the stalemate; the decision the breakthrough would force
+
+dynamic_genesis:
+  mechanism: The Ace's arrived clarity dissolves the binding agreement; insight gives the deadlock the seeing it lacked
+  process: The breakthrough names what the stalemate would not look at; the false balance is broken by a true sight
+  outcome: Choice becomes possible; the suspended decision resolves under clear vision
+  key_terms: dissolved deadlock, arrived clarity, enabled choice, broken blindfold
+
+dynamic_antagonism:
+  mechanism: The 2 protects its suspension; the Ace insists the truth be seen now
+  tension_axis: protective non-seeing versus the breakthrough that demands sight
+  two_of_swords_position: Keeps the blindfold; refuses the clarity that would force a decision
+  ace_of_swords_position: Cuts through; insists the deadlock cannot survive an honest look
+  key_terms: refused sight, demanded clarity, protected suspension, forced look
+
+dynamic_inhibition:
+  mechanism: The stalemate will not receive the insight; clarity arrives but finds no place to land
+  blockade_nature: a breakthrough held at arm's length; the truth seen and immediately set aside
+  swords_state: clarity rendered inert; the sword arrives but the eyes stay covered
+  consequence: nothing resolves; the insight is wasted against a chosen blindness
+  key_terms: inert clarity, refused breakthrough, wasted insight, chosen blindness
+
+dynamic_devolution:
+  mechanism: The 2 weaponizes doubt against the Ace; clarity is dismissed as naive simplicity
+  mode: "it is not that simple" used to bury a true sight; breakthrough drowned in manufactured complication
+  loss: the truth that could have freed the deadlock; clarity buried under defensive complexity
+  key_terms: dismissed insight, manufactured complication, buried truth, weaponized doubt
+
+dynamic_dependency:
+  mechanism: The Ace needs the 2's caution to not act rashly on a first sight; the 2 needs the Ace's clarity to break its paralysis
+  function: Swords-Ace supplies the seeing that ends the deadlock; Swords-2 supplies the pause that tests the insight before acting
+  integration_outcome: a decision both clear-eyed and considered; breakthrough received, then weighed, then chosen
+  key_terms: tested insight, considered choice, clear-eyed decision, ended deadlock
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OSS
+
+---
+
 card_pair: 2 of Swords, 2 of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
-numerical_relation: 2-2 (Stalemate meeting stalemate; paralysis reinforcing paralysis)
+numerical_relation: 2 + 2 = 4 (IV The Emperor; Stalemate meeting stalemate; paralysis reinforcing paralysis)
 elemental_bridge: Air indecision encountering air indecision; choice-avoidance meeting choice-avoidance
 threshold_type: The mutual bind; dual paralysis
 
@@ -39,19 +89,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, 3 of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
-numerical_relation: 2-3 (Stalemate preventing grief; paralysis blocking necessary sorrow)
+numerical_relation: 2 + 3 = 5 (V The Pope; Stalemate preventing grief; paralysis blocking necessary sorrow)
 elemental_bridge: Air paralysis meeting air sorrow; choice-avoidance preventing painful acknowledgment
 threshold_type: The ungrieved loss; stalemate blocking pain-processing
 
@@ -64,8 +114,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Grief demands acknowledged pain; sorrow requires choosing to feel
   tension_axis: Protective stalemate versus painful truth; binding non-choice versus emotional reality
-  swords_position_1: Maintains protective numbness; resists the vulnerability of grief
-  swords_position_2: Demands emotional acknowledgment; insists pain must be felt
+  two_of_swords_position: Maintains protective numbness; resists the vulnerability of grief
+  three_of_swords_position: Demands emotional acknowledgment; insists pain must be felt
   key_terms: demanded feeling, resisted grief, protective numbness, forced acknowledgment
 
 dynamic_inhibition:
@@ -89,19 +139,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, 4 of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Rest, truce, peace, mental stillness, respite
-numerical_relation: 2-4 (Stalemate reinforced by rest-seeming; paralysis disguised as peaceful pause)
+numerical_relation: 2 + 4 = 6 (VI The Lovers; Stalemate reinforced by rest-seeming; paralysis disguised as peaceful pause)
 elemental_bridge: Air indecision meeting air stillness; choice-avoidance appearing as restorative rest
 threshold_type: The confused pause; stalemate mistaken for peace
 
@@ -114,8 +164,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Rest-appearance threatens to disguise continuing stalemate; peace-seeming prevents necessary choice
   tension_axis: False peace versus necessary action; comfortable stalemate versus true recovery
-  swords_position_1: Uses rest-language to justify continued non-choice; claims peace of stalemate
-  swords_position_2: Offers mental quietude that enables continued paralysis
+  two_of_swords_position: Uses rest-language to justify continued non-choice; claims peace of stalemate
+  four_of_swords_position: Offers mental quietude that enables continued paralysis
   key_terms: disguised paralysis, false peace, enabled stalemate, confused stillness
 
 dynamic_inhibition:
@@ -139,19 +189,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, 5 of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
-numerical_relation: 2-5 (Stalemate preventing confrontation; paralysis blocking necessary struggle)
+numerical_relation: 2 + 5 = 7 (VII The Chariot; Stalemate preventing confrontation; paralysis blocking necessary struggle)
 elemental_bridge: Air paralysis meeting air conflict; choice-avoidance preventing engaged battle
 threshold_type: The avoided combat; stalemate blocking necessary fighting
 
@@ -164,8 +214,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Conflict demands engaged choice; combat requires breaking the protective bind
   tension_axis: Protective stalemate versus direct conflict; binding non-choice versus honest fighting
-  swords_position_1: Maintains protective avoidance of confrontation; uses stalemate to prevent fighting
-  swords_position_2: Demands direct engagement; insists on fighting rather than binding
+  two_of_swords_position: Maintains protective avoidance of confrontation; uses stalemate to prevent fighting
+  five_of_swords_position: Demands direct engagement; insists on fighting rather than binding
   key_terms: demanded fighting, avoided confrontation, protected distance, forced engagement
 
 dynamic_inhibition:
@@ -189,19 +239,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, 6 of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Travel, transition, movement toward solution, passage, departure
-numerical_relation: 2-6 (Stalemate preventing necessary passage; paralysis blocking healing departure)
+numerical_relation: 2 + 6 = 8 (VIII Justice; Stalemate preventing necessary passage; paralysis blocking healing departure)
 elemental_bridge: Air indecision meeting air movement; choice-avoidance preventing transitions
 threshold_type: The stuck traveler; stalemate blocking passage
 
@@ -214,8 +264,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Transition demands chosen departure; passage requires deciding to move
   tension_axis: Protective stalemate versus necessary leaving; binding non-choice versus healing movement
-  swords_position_1: Maintains protective immobility; uses stalemate to prevent leaving
-  swords_position_2: Demands forward movement; insists on transition away from stalemate
+  two_of_swords_position: Maintains protective immobility; uses stalemate to prevent leaving
+  six_of_swords_position: Demands forward movement; insists on transition away from stalemate
   key_terms: demanded movement, resisted departure, protective immobility, blocked transition
 
 dynamic_inhibition:
@@ -239,19 +289,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, 7 of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Deception, theft, cunning, strategic secrecy, hidden strategy
-numerical_relation: 2-7 (Stalemate enabling deception; paralysis allowing hidden strategy)
+numerical_relation: 2 + 7 = 9 (IX The Hermit; Stalemate enabling deception; paralysis allowing hidden strategy)
 elemental_bridge: Air indecision meeting air concealment; choice-avoidance enabling strategic hiding
 threshold_type: The deceived deceiver; stalemate enabling mutual deception
 
@@ -264,8 +314,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Deception depends on stalemate-concealment; strategy enables continued paralysis
   tension_axis: Protective deception versus honest truth; hidden strategy versus revealed clarity
-  swords_position_1: Uses stalemate to conceal deception; maintains paralysis to hide strategy
-  swords_position_2: Enables strategic concealment through mutual confusion
+  two_of_swords_position: Uses stalemate to conceal deception; maintains paralysis to hide strategy
+  seven_of_swords_position: Enables strategic concealment through mutual confusion
   key_terms: enabled deception, concealed strategy, mutual confusion, hidden paralysis
 
 dynamic_inhibition:
@@ -289,19 +339,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, 8 of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Imprisonment, constraint, mental bondage, restriction, entrapment
-numerical_relation: 2-8 (Stalemate creating bondage; paralysis deepening mental imprisonment)
+numerical_relation: 2 + 8 = 10 (X The Wheel of Fortune; Stalemate creating bondage; paralysis deepening mental imprisonment)
 elemental_bridge: Air indecision meeting air constraint; choice-avoidance deepening mental chains
 threshold_type: The doubled imprisonment; stalemate trapping in cage
 
@@ -314,8 +364,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Imprisonment depends on stalemate-paralysis; bondage reinforces protective non-choice
   tension_axis: Familiar imprisonment versus threatening freedom; mental chains versus overwhelming liberty
-  swords_position_1: Uses stalemate to justify remaining imprisoned; paralysis becomes familiar
-  swords_position_2: Represents the mental cage that stalemate creates
+  two_of_swords_position: Uses stalemate to justify remaining imprisoned; paralysis becomes familiar
+  eight_of_swords_position: Represents the mental cage that stalemate creates
   key_terms: familiar imprisonment, justified paralysis, mental cage, defended bondage
 
 dynamic_inhibition:
@@ -339,19 +389,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, 9 of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
-numerical_relation: 2-9 (Stalemate generating anxiety; paralysis feeding obsessive thought)
+numerical_relation: 2 + 9 = 11 (XI Strength; Stalemate generating anxiety; paralysis feeding obsessive thought)
 elemental_bridge: Air indecision meeting air torment; choice-avoidance intensifying mental obsession
 threshold_type: The paralyzed sufferer; stalemate feeding anxiety
 
@@ -364,8 +414,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Anxiety feeds on paralysis; stalemate feeds obsessive thinking
   tension_axis: Paralysis-generated anxiety versus anxiety-demanding action; mutual reinforcement
-  swords_position_1: Uses non-choice to justify anxiety; stalemate generates mental torment
-  swords_position_2: Intensifies the paralysis through anxious obsession
+  two_of_swords_position: Uses non-choice to justify anxiety; stalemate generates mental torment
+  nine_of_swords_position: Intensifies the paralysis through anxious obsession
   key_terms: fed anxiety, generated torment, reinforced obsession, justified paralysis
 
 dynamic_inhibition:
@@ -389,19 +439,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, 10 of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Destruction, ending, inevitable pain, completion through ruin, death-knife
-numerical_relation: 2-10 (Stalemate postponing inevitable; paralysis delaying necessary ending)
+numerical_relation: 2 + 10 = 12 (XII The Hanged Man; Stalemate postponing inevitable; paralysis delaying necessary ending)
 elemental_bridge: Air indecision meeting air devastation; choice-avoidance preventing necessary conclusion
 threshold_type: The delayed ending; stalemate blocking completion
 
@@ -414,8 +464,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Ending demands chosen acceptance; finality requires deciding to let go
   tension_axis: Protective stalemate versus inevitable ending; binding non-choice versus necessary destruction
-  swords_position_1: Maintains stalemate to delay inevitable; paralyzes to postpone ending
-  swords_position_2: Brings the ending that stalemate tries to prevent
+  two_of_swords_position: Maintains stalemate to delay inevitable; paralyzes to postpone ending
+  ten_of_swords_position: Brings the ending that stalemate tries to prevent
   key_terms: delayed ending, prevented completion, resisted finality, avoided destruction
 
 dynamic_inhibition:
@@ -439,19 +489,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, Page of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
-numerical_relation: 2-Page (Stalemate blocking youthful inquiry; paralysis preventing intellectual growth)
+numerical_relation: 2 + 11 = 13 (XIII Death; Stalemate blocking youthful inquiry; paralysis preventing intellectual growth)
 elemental_bridge: Air indecision meeting air curiosity; choice-avoidance preventing learning
 threshold_type: The blocked explorer; stalemate preventing discovery
 
@@ -464,8 +514,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Curiosity demands exploration; inquiry requires willing investigation
   tension_axis: Protective stalemate versus intellectual exploration; binding non-choice versus eager learning
-  swords_position_1: Maintains protective distance from inquiry; resists vulnerable learning
-  swords_position_2: Drives toward discovery; insists on questioning and exploration
+  two_of_swords_position: Maintains protective distance from inquiry; resists vulnerable learning
+  page_of_swords_position: Drives toward discovery; insists on questioning and exploration
   key_terms: demanded inquiry, resisted learning, protected distance, blocked discovery
 
 dynamic_inhibition:
@@ -489,19 +539,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, Knight of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
-numerical_relation: 2-Knight (Stalemate blocking action; paralysis preventing aggressive pursuit)
+numerical_relation: 2 + 12 = 14 (XIV Temperance; Stalemate blocking action; paralysis preventing aggressive pursuit)
 elemental_bridge: Air indecision meeting air momentum; choice-avoidance preventing direct action
 threshold_type: The frozen warrior; stalemate preventing combat
 
@@ -514,8 +564,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Action demands immediate choice; combat requires direct engagement
   tension_axis: Protective stalemate versus direct action; binding non-choice versus aggressive pursuit
-  swords_position_1: Maintains protective stillness; resists the aggression of direct combat
-  swords_position_2: Burns to engage; demands immediate confrontation
+  two_of_swords_position: Maintains protective stillness; resists the aggression of direct combat
+  knight_of_swords_position: Burns to engage; demands immediate confrontation
   key_terms: demanded action, resisted combat, protective stillness, blocked momentum
 
 dynamic_inhibition:
@@ -539,19 +589,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, Queen of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
-numerical_relation: 2-Queen (Stalemate preventing mastery; paralysis blocking independent thought)
+numerical_relation: 2 + 13 = 15 (XV The Devil; Stalemate preventing mastery; paralysis blocking independent thought)
 elemental_bridge: Air indecision meeting air wisdom; choice-avoidance preventing intellectual authority
 threshold_type: The unmastered mind; stalemate preventing wisdom
 
@@ -564,8 +614,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Mastery demands independent choice; wisdom requires autonomous thought
   tension_axis: Protective stalemate versus independent mastery; binding non-choice versus intellectual authority
-  swords_position_1: Maintains protective paralysis; resists the weight of independent thought
-  swords_position_2: Demands intellectual autonomy; insists on wisdom-development
+  two_of_swords_position: Maintains protective paralysis; resists the weight of independent thought
+  queen_of_swords_position: Demands intellectual autonomy; insists on wisdom-development
   key_terms: demanded mastery, resisted wisdom, protective paralysis, blocked thought
 
 dynamic_inhibition:
@@ -589,19 +639,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS
 
 ---
 
 card_pair: 2 of Swords, King of Swords
 archetype_swords_1: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 archetype_swords_2: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
-numerical_relation: 2-King (Stalemate preventing authority; paralysis blocking absolute clarity)
+numerical_relation: 2 + 14 = 16 (XVI The Tower; Stalemate preventing authority; paralysis blocking absolute clarity)
 elemental_bridge: Air indecision meeting air dominion; choice-avoidance preventing authoritative command
 threshold_type: The powerless sovereign; stalemate preventing rule
 
@@ -614,8 +664,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Authority demands commanding clarity; rule requires decisive judgment
   tension_axis: Protective stalemate versus intellectual dominion; binding non-choice versus authoritative power
-  swords_position_1: Maintains protective paralysis; resists the weight of authority
-  swords_position_2: Demands supreme judgment; insists on commanding clarity
+  two_of_swords_position: Maintains protective paralysis; resists the weight of authority
+  king_of_swords_position: Demands supreme judgment; insists on commanding clarity
   key_terms: demanded authority, resisted rule, protective paralysis, blocked judgment
 
 dynamic_inhibition:
@@ -639,9 +689,9 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to air (swords)
   numerical_axis: 2-1 through 2-14
-  uid: TOSS
+  uid: 2OSS

@@ -1,7 +1,7 @@
 card_pair: 3 of Swords, Ace of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
-numerical_relation: 3-1 (Sorrow extinguishing creative spark; heartbreak blocking inspiration)
+numerical_relation: 3 + 1 = 4 (IV The Emperor; Sorrow extinguishing creative spark; heartbreak blocking inspiration)
 elemental_bridge: Air pain meeting fire inspiration; emotional suffering preventing creative ignition
 threshold_type: The extinguished spark; grief blocking creative fire
 
@@ -39,19 +39,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, 2 of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
-numerical_relation: 3-2 (Sorrow weakening personal power; heartbreak blocking dominion)
+numerical_relation: 3 + 2 = 5 (V The Pope; Sorrow weakening personal power; heartbreak blocking dominion)
 elemental_bridge: Air pain meeting fire power; emotional loss preventing authoritative action
 threshold_type: The weakened visionary; grief preventing power-assertion
 
@@ -89,19 +89,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, 3 of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
-numerical_relation: 3-3 (Sorrow preventing forward movement; heartbreak blocking collaborative vision)
+numerical_relation: 3 + 3 = 6 (VI The Lovers; Sorrow preventing forward movement; heartbreak blocking collaborative vision)
 elemental_bridge: Air pain meeting fire growth; emotional loss preventing enterprise momentum
 threshold_type: The stuck visionary; grief preventing progress
 
@@ -139,19 +139,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, 4 of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Celebration, harmony, community, home, joy, establishment
-numerical_relation: 3-4 (Sorrow preventing celebration; heartbreak blocking community joy)
+numerical_relation: 3 + 4 = 7 (VII The Chariot; Sorrow preventing celebration; heartbreak blocking community joy)
 elemental_bridge: Air pain meeting fire celebration; emotional loss preventing festive gathering
 threshold_type: The joyless gathering; grief blocking festivity
 
@@ -189,19 +189,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, 5 of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Conflict, competition, competition, struggle, contested victory
-numerical_relation: 3-5 (Sorrow preventing necessary conflict; heartbreak blocking productive struggle)
+numerical_relation: 3 + 5 = 8 (VIII Justice; Sorrow preventing necessary conflict; heartbreak blocking productive struggle)
 elemental_bridge: Air pain meeting fire conflict; emotional loss preventing engaged fight
 threshold_type: The unable combatant; grief preventing confrontation
 
@@ -239,19 +239,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, 6 of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Victory, recognition, success, honor, public achievement
-numerical_relation: 3-6 (Sorrow preventing achievement-claiming; heartbreak blocking recognition)
+numerical_relation: 3 + 6 = 9 (IX The Hermit; Sorrow preventing achievement-claiming; heartbreak blocking recognition)
 elemental_bridge: Air pain meeting fire success; emotional loss preventing achievement-celebration
 threshold_type: The unrecognized griever; grief preventing success-claim
 
@@ -289,19 +289,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, 7 of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
-numerical_relation: 3-7 (Sorrow weakening defense; heartbreak undermining resilience)
+numerical_relation: 3 + 7 = 10 (X The Wheel of Fortune; Sorrow weakening defense; heartbreak undermining resilience)
 elemental_bridge: Air pain meeting fire resilience; emotional loss preventing sustained defense
 threshold_type: The collapsing defender; grief weakening stance
 
@@ -339,19 +339,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, 8 of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
-numerical_relation: 3-8 (Sorrow blocking momentum; heartbreak preventing rapid progress)
+numerical_relation: 3 + 8 = 11 (XI Strength; Sorrow blocking momentum; heartbreak preventing rapid progress)
 elemental_bridge: Air pain meeting fire speed; emotional loss preventing acceleration
 threshold_type: The stalled journey; grief preventing speed
 
@@ -389,19 +389,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, 9 of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
-numerical_relation: 3-9 (Sorrow weakening endurance; heartbreak undermining strength)
+numerical_relation: 3 + 9 = 12 (XII The Hanged Man; Sorrow weakening endurance; heartbreak undermining strength)
 elemental_bridge: Air pain meeting fire strength; emotional loss preventing perseverance
 threshold_type: The weary warrior; grief preventing endurance
 
@@ -439,19 +439,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, 10 of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
-numerical_relation: 3-10 (Sorrow adding to burden; heartbreak crushing under weight)
+numerical_relation: 3 + 10 = 13 (XIII Death; Sorrow adding to burden; heartbreak crushing under weight)
 elemental_bridge: Air pain meeting fire burden; emotional loss deepening overwhelm
 threshold_type: The crushed bearer; grief compounding burden
 
@@ -489,19 +489,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, Page of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
-numerical_relation: 3-Page (Sorrow dampening enthusiasm; heartbreak preventing spark)
+numerical_relation: 3 + 11 = 14 (XIV Temperance; Sorrow dampening enthusiasm; heartbreak preventing spark)
 elemental_bridge: Air pain meeting fire enthusiasm; emotional loss cooling youthful fire
 threshold_type: The dampened spark; grief cooling enthusiasm
 
@@ -539,19 +539,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, Knight of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
-numerical_relation: 3-Knight (Sorrow preventing action; heartbreak blocking passionate pursuit)
+numerical_relation: 3 + 12 = 15 (XV The Devil; Sorrow preventing action; heartbreak blocking passionate pursuit)
 elemental_bridge: Air pain meeting fire action; emotional loss preventing bold engagement
 threshold_type: The immobilized adventurer; grief blocking action
 
@@ -589,19 +589,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, Queen of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
-numerical_relation: 3-Queen (Sorrow preventing charismatic leadership; heartbreak blocking magnetism)
+numerical_relation: 3 + 13 = 16 (XVI The Tower; Sorrow preventing charismatic leadership; heartbreak blocking magnetism)
 elemental_bridge: Air pain meeting fire mastery; emotional loss preventing authoritative presence
 threshold_type: The wounded queen; grief preventing leadership
 
@@ -639,19 +639,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW
 
 ---
 
 card_pair: 3 of Swords, King of Wands
 archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
-numerical_relation: 3-King (Sorrow threatening dominion; heartbreak undermining rule)
+numerical_relation: 3 + 14 = 17 (XVII The Star; Sorrow threatening dominion; heartbreak undermining rule)
 elemental_bridge: Air pain meeting fire dominion; emotional loss threatening authoritative command
 threshold_type: The wounded sovereign; grief threatening dominion
 
@@ -689,9 +689,9 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
   numerical_axis: 3-1 through 3-14
-  uid: TOSW
+  uid: 3OSW

@@ -1,7 +1,7 @@
 card_pair: 4 of Swords, Ace of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Emotional opening, love, receptivity, new feeling, overflowing heart
-numerical_relation: 4-1 (Rest before emotional opening; peace enabling receptive heart)
+numerical_relation: 4 + 1 = 5 (V The Pope; Rest before emotional opening; peace enabling receptive heart)
 elemental_bridge: Air stillness meeting water receptivity; mental pause enabling emotional opening
 threshold_type: The rested heart; peace before love
 
@@ -39,19 +39,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, 2 of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Partnership, duality, emotional connection, mutual feeling, balanced union
-numerical_relation: 4-2 (Rest sustaining partnership; peace enabling mutual feeling)
+numerical_relation: 4 + 2 = 6 (VI The Lovers; Rest sustaining partnership; peace enabling mutual feeling)
 elemental_bridge: Air stillness meeting water bonding; mental peace enabling emotional connection
 threshold_type: The restful bond; peace in partnership
 
@@ -89,19 +89,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, 3 of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Celebration, joy, emotional communion, friendship, festive togetherness
-numerical_relation: 4-3 (Rest in celebration; peace enabling joyful gathering)
+numerical_relation: 4 + 3 = 7 (VII The Chariot; Rest in celebration; peace enabling joyful gathering)
 elemental_bridge: Air stillness meeting water celebration; mental peace enabling festive joy
 threshold_type: The restful celebration; peace in community
 
@@ -139,19 +139,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, 4 of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Apathy, emotional stagnation, dissatisfaction, withdrawn feeling, boredom
-numerical_relation: 4-4 (Rest reinforcing apathy; peace enabling withdrawal)
+numerical_relation: 4 + 4 = 8 (VIII Justice; Rest reinforcing apathy; peace enabling withdrawal)
 elemental_bridge: Air stillness meeting water stagnation; mental rest enabling emotional numbing
 threshold_type: The numbingly restful; peace deepening disconnection
 
@@ -164,8 +164,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Rest mirrors apathy; both withdraw from engagement
   tension_axis: Both internal; both static; mutual reinforcement of withdrawal
-  swords_position_1: Seeks rest; values stillness
-  swords_position_2: Experiences apathy; embodies emotional withdrawal
+  four_of_swords_position: Seeks rest; values stillness
+  four_of_cups_position: Experiences apathy; embodies emotional withdrawal
   key_terms: mutual withdrawal, mirrored stagnation, reinforced apathy, static peace
 
 dynamic_inhibition:
@@ -189,19 +189,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, 5 of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Loss, grief, heartbreak, mourning, emotional devastation
-numerical_relation: 4-5 (Rest allowing grief-processing; peace enabling mourning)
+numerical_relation: 4 + 5 = 9 (IX The Hermit; Rest allowing grief-processing; peace enabling mourning)
 elemental_bridge: Air stillness meeting water sorrow; mental rest enabling emotional grief-work
 threshold_type: The mourning rest; peace in grief
 
@@ -239,19 +239,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, 6 of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Nostalgia, innocence, reunion, past tenderness, childhood wonder
-numerical_relation: 4-6 (Rest in memory; peace enabling nostalgic return)
+numerical_relation: 4 + 6 = 10 (X The Wheel of Fortune; Rest in memory; peace enabling nostalgic return)
 elemental_bridge: Air stillness meeting water memory; mental peace enabling tender remembrance
 threshold_type: The peaceful memory; rest in past tenderness
 
@@ -289,19 +289,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, 7 of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Illusion, temptation, fantasy, confusion, delusional desire
-numerical_relation: 4-7 (Rest enabling illusion-escape; peace allowing fantasy-immersion)
+numerical_relation: 4 + 7 = 11 (XI Strength; Rest enabling illusion-escape; peace allowing fantasy-immersion)
 elemental_bridge: Air stillness meeting water illusion; mental rest enabling delusional comfort
 threshold_type: The restful fantasy; peace in delusion
 
@@ -339,19 +339,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, 8 of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Abandonment, departure, walking away, chosen leaving, emotional departure
-numerical_relation: 4-8 (Rest before departure; peace enabling conscious leaving)
+numerical_relation: 4 + 8 = 12 (XII The Hanged Man; Rest before departure; peace enabling conscious leaving)
 elemental_bridge: Air stillness meeting water leaving; mental rest enabling clear transition
 threshold_type: The conscious departure; peace before leaving
 
@@ -389,19 +389,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, 9 of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Wish fulfillment, contentment, emotional satisfaction, satisfied desire, achieved happiness
-numerical_relation: 4-9 (Rest in achievement; peace in satisfaction)
+numerical_relation: 4 + 9 = 13 (XIII Death; Rest in achievement; peace in satisfaction)
 elemental_bridge: Air stillness meeting water contentment; mental rest enabling appreciated fulfillment
 threshold_type: The satisfied rest; peace in achievement
 
@@ -439,19 +439,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, 10 of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Family harmony, happiness, love's fulfillment, emotional completeness, belonging
-numerical_relation: 4-10 (Rest within family security; peace enabling family stability)
+numerical_relation: 4 + 10 = 14 (XIV Temperance; Rest within family security; peace enabling family stability)
 elemental_bridge: Air stillness meeting water family; mental peace enabling secure belonging
 threshold_type: The restful family; peace in belonging
 
@@ -489,19 +489,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, Page of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Curiosity, emotional exploration, feeling-learning, youthful receptivity, openness
-numerical_relation: 4-Page (Rest enabling emotional readiness; peace allowing vulnerable learning)
+numerical_relation: 4 + 11 = 15 (XV The Devil; Rest enabling emotional readiness; peace allowing vulnerable learning)
 elemental_bridge: Air stillness meeting water curiosity; mental rest enabling safe emotional exploration
 threshold_type: The safe explorer; peace enabling vulnerability
 
@@ -539,19 +539,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, Knight of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Romance, emotional action, passionate pursuit, love-driven action, heart's quest
-numerical_relation: 4-Knight (Rest before romance; peace enabling passionate choice)
+numerical_relation: 4 + 12 = 16 (XVI The Tower; Rest before romance; peace enabling passionate choice)
 elemental_bridge: Air stillness meeting water passion; mental rest enabling romantic engagement
 threshold_type: The rested lover; peace before pursuit
 
@@ -589,19 +589,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, Queen of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Emotional mastery, nurturing wisdom, intuitive understanding, emotional authority, compassion
-numerical_relation: 4-Queen (Rest enabling nurturing presence; peace allowing wisdom-flow)
+numerical_relation: 4 + 13 = 17 (XVII The Star; Rest enabling nurturing presence; peace allowing wisdom-flow)
 elemental_bridge: Air stillness meeting water wisdom; mental rest enabling compassionate authority
 threshold_type: The wise rest; peace in nurturing
 
@@ -639,19 +639,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC
 
 ---
 
 card_pair: 4 of Swords, King of Cups
 archetype_swords: Rest, truce, peace, mental stillness, respite
 archetype_cups: Emotional authority, heart's dominion, compassionate power, mastered feeling, authoritative love
-numerical_relation: 4-King (Rest enabling emotional authority; peace allowing heart-dominion)
+numerical_relation: 4 + 14 = 18 (XVIII The Moon; Rest enabling emotional authority; peace allowing heart-dominion)
 elemental_bridge: Air stillness meeting water dominion; mental rest enabling compassionate rule
 threshold_type: The wise sovereign; peace in heart-dominion
 
@@ -689,9 +689,9 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with pentacles graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
   numerical_axis: 4-1 through 4-14
-  uid: FOSC
+  uid: 4OSC

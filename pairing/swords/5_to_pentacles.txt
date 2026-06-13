@@ -1,0 +1,697 @@
+card_pair: 5 of Swords, Ace of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: 5-1 (Conflict preventing opportunity; defeat blocking manifestation)
+elemental_bridge: Air struggle meeting earth opportunity; contested truth preventing material grounding
+threshold_type: The undermined beginning; conflict destroying opportunity
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables manifestation; victory prepares for prosperity
+  process: Winning through struggle permits practical grounding; cleared conflict enables material beginning
+  outcome: Opportunity manifests after fought-for clarity; prosperity flows from resolved struggle
+  key_terms: fought-for clarity, resolved conflict, earned opportunity, grounded victory
+
+dynamic_antagonism:
+  mechanism: Conflict demands attention and energy; opportunity demands focus and resources
+  tension_axis: Ongoing struggle versus material focus; victory-preoccupation versus practical action
+  swords_position: Remains absorbed in conflict; cannot shift focus to practical work
+  pentacles_position: Demands material engagement; requires leaving conflict-focus
+  key_terms: demanded focus-shift, continued struggle-absorption, incompatible timing, unfinished battle
+
+dynamic_inhibition:
+  mechanism: Conflict consumes resources needed for manifestation; struggle prevents material grounding
+  blockade_nature: The contested victory prevents moving forward; conflict-exhaustion blocks practical action
+  swords_state: Struggle becomes opportunity-destroying force; conflict prevents material beginning
+  consequence: Opportunity passes while conflict continues; prosperity becomes impossible from exhausted conflict
+  key_terms: consumed resources, exhausted struggle, missed opportunity, impossible beginning
+
+dynamic_devolution:
+  mechanism: Conflict corrupts victory into pyrrhic devastation; defeat becomes material destruction
+  mode: Struggle becomes self-destructive; combat prevents all material gain
+  loss: Potential prosperity replaced by material devastation; genuine opportunity becomes impossible
+  key_terms: material devastation, pyrrhic loss, self-destructive struggle, impossible prosperity
+
+dynamic_dependency:
+  mechanism: Conflict without material-purpose becomes pointless struggle; opportunity without conflict-resolution becomes naively grasped
+  function: Pentacles-Ace provides opportunity that conflict threatens; Swords-5 provides truth-testing that prevents false prosperity
+  integration_outcome: Conflict becomes resolved before manifestation; victory enables grounded opportunity
+  key_terms: resolved conflict, grounded opportunity, earned manifestation, integrated victory
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, 2 of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Balance, juggling, flexibility, adaptive exchange, equilibrium
+numerical_relation: 5-2 (Conflict destroying balance; defeat disrupting equilibrium)
+elemental_bridge: Air struggle meeting earth flexibility; contested victory preventing adaptive flow
+threshold_type: The unbalanced victor; conflict disrupting equilibrium
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables balanced movement; victory prepares for sustainable equilibrium
+  process: Winning struggle permits return to balance; cleared conflict enables flexible adaptation
+  outcome: Balance emerges from resolved struggle; equilibrium flows from integrated victory
+  key_terms: resolved conflict, restored balance, sustainable victory, integrated flexibility
+
+dynamic_antagonism:
+  mechanism: Conflict requires total focus; balance requires distributed attention
+  tension_axis: Struggle-absorption versus flexible equilibrium; victory-fixation versus adaptive flow
+  swords_position: Remains absorbed in conflict; cannot distribute attention to balance
+  pentacles_position: Demands continued adaptation; requires mental flexibility
+  key_terms: demanded flexibility, continued struggle-focus, incompatible demands, disrupted rhythm
+
+dynamic_inhibition:
+  mechanism: Conflict disrupts balance-rhythm; struggle prevents adaptive flow
+  blockade_nature: The ongoing conflict prevents returning to equilibrium; victory-preoccupation blocks flexibility
+  swords_state: Struggle becomes balance-disrupting force; conflict prevents adaptive action
+  consequence: Balance cannot be restored; rhythm falters from continued struggle-focus
+  key_terms: disrupted balance, faltered rhythm, prevented adaptation, broken equilibrium
+
+dynamic_devolution:
+  mechanism: Conflict corrupts balance into chaotic instability; defeat becomes rhythm-destroying
+  mode: Struggle destroys adaptive capacity; combat prevents all equilibrium
+  loss: Balanced flexibility replaced by chaotic instability; genuine equilibrium becomes impossible
+  key_terms: chaotic instability, destroyed flexibility, rhythm-loss, impossible balance
+
+dynamic_dependency:
+  mechanism: Conflict without balance-awareness becomes destructive; balance without conflict-resolution becomes avoidant
+  function: Pentacles-2 provides rhythm that conflict threatens; Swords-5 provides truth-testing that prevents false balance
+  integration_outcome: Conflict becomes resolved before restoring balance; victory enables sustainable equilibrium
+  key_terms: sustainable equilibrium, resolved conflict, restored rhythm, integrated victory
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, 3 of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+numerical_relation: 5-3 (Conflict preventing collaboration; defeat blocking shared craft)
+elemental_bridge: Air struggle meeting earth cooperation; contested victory preventing partnership
+threshold_type: The isolated crafter; conflict blocking cooperation
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables genuine collaboration; victory permits shared craft
+  process: Winning struggle permits partnership-return; cleared conflict enables mutual effort
+  outcome: Collaboration emerges from resolved struggle; craft flows from integrated victory
+  key_terms: resolved conflict, restored partnership, shared craft, cooperative victory
+
+dynamic_antagonism:
+  mechanism: Conflict requires aggressive assertion; collaboration requires cooperative openness
+  tension_axis: Struggle-aggression versus mutual cooperation; victory-assertion versus collaborative humility
+  swords_position: Remains in combative stance; cannot shift to cooperative engagement
+  pentacles_position: Demands mutual effort; requires surrendered partnership
+  key_terms: demanded cooperation, continued combat-stance, incompatible approaches, isolated victory
+
+dynamic_inhibition:
+  mechanism: Conflict prevents collaborative engagement; struggle blocks partnership-return
+  blockade_nature: The ongoing conflict prevents cooperating with others; victory-stance prevents mutual work
+  swords_state: Struggle becomes partnership-preventing force; conflict prevents collaborative craft
+  consequence: Partnership cannot be restored; craft becomes impossible from isolated struggle
+  key_terms: broken partnership, prevented collaboration, isolated craft, impossible cooperation
+
+dynamic_devolution:
+  mechanism: Conflict corrupts collaboration into mutual sabotage; defeat becomes partnership-destroying
+  mode: Struggle prevents all mutual effort; combat destroys shared purpose
+  loss: Genuine collaboration replaced by mutual sabotage; authentic craft becomes impossible
+  key_terms: mutual sabotage, partnership-destruction, crafted isolation, impossible collaboration
+
+dynamic_dependency:
+  mechanism: Conflict without collaborative-purpose becomes destructive; collaboration without conflict-resolution becomes superficial
+  function: Pentacles-3 provides shared purpose that conflict threatens; Swords-5 provides truth-testing that prevents false partnership
+  integration_outcome: Conflict becomes resolved before collaboration; victory enables genuine partnership
+  key_terms: genuine partnership, resolved conflict, shared craft, integrated victory
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, 4 of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+numerical_relation: 5-4 (Conflict threatening security; defeat destroying holdings)
+elemental_bridge: Air struggle meeting earth security; contested victory threatening possession
+threshold_type: The threatened hoarder; conflict destroying security
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables secure holding; victory permits confident possession
+  process: Winning struggle permits return to security; cleared conflict enables renewed control
+  outcome: Security emerges from resolved struggle; possession becomes stable through integrated victory
+  key_terms: resolved conflict, secured holding, confident possession, protected victory
+
+dynamic_antagonism:
+  mechanism: Conflict threatens security; struggle puts possessions at risk
+  tension_axis: Ongoing conflict versus defensive protection; contested victory versus secure holding
+  swords_position: Continues risky struggle; threatens what is being guarded
+  pentacles_position: Seeks defensive protection; resists ongoing conflict
+  key_terms: threatened security, demanded protection, risky struggle, defensive position
+
+dynamic_inhibition:
+  mechanism: Conflict destroys security-foundation; struggle prevents confident holding
+  blockade_nature: The ongoing conflict erodes security; victory-preoccupation prevents protective focus
+  swords_state: Struggle becomes security-threatening force; conflict prevents confident possession
+  consequence: Security becomes vulnerable; holdings cannot be protected from continued struggle
+  key_terms: vulnerable security, threatened holdings, prevented protection, impossible control
+
+dynamic_devolution:
+  mechanism: Conflict corrupts possession into desperate hoarding; defeat destroys all security
+  mode: Struggle destroys protective capacity; combat prevents all holding
+  loss: Secure possession replaced by desperate hoarding; genuine security becomes impossible
+  key_terms: desperate hoarding, destroyed security, possession-loss, impossible holding
+
+dynamic_dependency:
+  mechanism: Conflict without security-awareness becomes reckless; security without conflict-resolution becomes vulnerable
+  function: Pentacles-4 provides holdings that conflict threatens; Swords-5 provides truth-testing that prevents false security
+  integration_outcome: Conflict becomes resolved before defending possessions; victory enables secure holding
+  key_terms: secure holding, resolved conflict, protected possessions, integrated victory
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, 5 of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+numerical_relation: 5-5 (Conflict intensifying hardship; defeat deepening poverty)
+elemental_bridge: Air struggle meeting earth deprivation; contested victory worsening material loss
+threshold_type: The impoverished fighter; conflict destroying material foundation
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables recovery from hardship; victory permits material rebuilding
+  process: Winning struggle frees resources for recovery; cleared conflict enables material restoration
+  outcome: Recovery emerges from resolved struggle; prosperity flows from integrated victory
+  key_terms: resolved conflict, material recovery, freed resources, restored prosperity
+
+dynamic_antagonism:
+  mechanism: Conflict consumes resources needed for survival; struggle deepens deprivation
+  tension_axis: Ongoing struggle versus urgent survival-needs; victory-focus versus material crisis
+  swords_position: Continues costly struggle; depletes survival-resources
+  pentacles_position: Demands immediate material response; requires resource-conservation
+  key_terms: demanded conservation, continuing depletion, incompatible needs, crisis-deepening
+
+dynamic_inhibition:
+  mechanism: Conflict prevents material recovery; struggle blocks survival-action
+  blockade_nature: The ongoing struggle consumes resources; conflict-preoccupation prevents crisis-response
+  swords_state: Struggle becomes survival-threatening force; conflict prevents recovery-action
+  consequence: Hardship deepens; poverty worsens from conflict-consuming resources
+  key_terms: deepened hardship, worsened poverty, prevented recovery, depleted survival
+
+dynamic_devolution:
+  mechanism: Conflict corrupts survival-struggle into self-destruction; defeat destroys all stability
+  mode: Ongoing combat prevents all recovery; struggle leads to complete destitution
+  loss: Potential recovery replaced by destruction; genuine survival becomes impossible
+  key_terms: self-destruction, complete destitution, destroyed recovery, impossible survival
+
+dynamic_dependency:
+  mechanism: Conflict without survival-awareness becomes suicidal; hardship without conflict-resolution becomes inescapable
+  function: Pentacles-5 provides crisis-reality that conflict ignores; Swords-5 provides truth-testing that forces prioritization
+  integration_outcome: Conflict becomes resolved to enable survival; victory frees resources for recovery
+  key_terms: freed resources, survival-prioritized, resolved conflict, material recovery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, 6 of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+numerical_relation: 5-6 (Conflict preventing sharing; defeat blocking generosity)
+elemental_bridge: Air struggle meeting earth giving; contested victory preventing reciprocal exchange
+threshold_type: The isolated victor; conflict preventing community
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables generous engagement; victory permits authentic sharing
+  process: Winning struggle permits return to community; cleared conflict enables mutual giving
+  outcome: Sharing emerges from resolved struggle; generosity flows from integrated victory
+  key_terms: resolved conflict, restored community, shared victory, integrated generosity
+
+dynamic_antagonism:
+  mechanism: Conflict separates from community; struggle prevents mutual exchange
+  tension_axis: Ongoing combat versus communal sharing; victory-isolation versus reciprocal giving
+  swords_position: Remains in isolated combat; cannot engage communally
+  pentacles_position: Seeks mutual exchange; requires community-participation
+  key_terms: demanded sharing, continued isolation, incompatible engagement, separated victory
+
+dynamic_inhibition:
+  mechanism: Conflict prevents community-engagement; struggle blocks generous exchange
+  blockade_nature: The ongoing struggle isolates from community; conflict-preoccupation prevents giving
+  swords_state: Struggle becomes sharing-preventing force; conflict prevents reciprocal exchange
+  consequence: Community becomes lost; sharing becomes impossible from conflicted isolation
+  key_terms: lost community, prevented sharing, isolated victory, impossible exchange
+
+dynamic_devolution:
+  mechanism: Conflict corrupts sharing into vengeful withholding; defeat becomes community-destroying
+  mode: Ongoing combat prevents all giving; struggle destroys communal bonds
+  loss: Genuine community replaced by isolated bitterness; authentic sharing becomes impossible
+  key_terms: isolated bitterness, vengeful withholding, community-destruction, impossible sharing
+
+dynamic_dependency:
+  mechanism: Conflict without community-purpose becomes destructive isolation; sharing without conflict-resolution becomes superficial
+  function: Pentacles-6 provides community that conflict threatens; Swords-5 provides truth-testing that prevents false reconciliation
+  integration_outcome: Conflict becomes resolved before returning to community; victory enables genuine sharing
+  key_terms: genuine sharing, resolved conflict, restored community, integrated victory
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, 7 of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+numerical_relation: 5-7 (Conflict destroying long-term vision; defeat destroying investment trust)
+elemental_bridge: Air struggle meeting earth patience; contested victory preventing trusting process
+threshold_type: The desperate farmer; conflict destroying patience
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables patient assessment; victory permits renewed investment-trust
+  process: Winning struggle permits return to long-term vision; cleared conflict enables patient growth
+  outcome: Faith emerges from resolved struggle; long-term vision flows from integrated victory
+  key_terms: resolved conflict, renewed faith, patient vision, trusted growth
+
+dynamic_antagonism:
+  mechanism: Conflict demands immediate results; patience requires trusting process
+  tension_axis: Urgent struggle versus patient waiting; victory-focus versus long-term trust
+  swords_position: Demands immediate combat; cannot trust long-term process
+  pentacles_position: Seeks patient investment; requires faith in slow growth
+  key_terms: demanded urgency, unwanted patience, incompatible timeframes, broken trust
+
+dynamic_inhibition:
+  mechanism: Conflict destroys investment-faith; struggle prevents patient waiting
+  blockade_nature: The ongoing conflict undermines patience; victory-preoccupation destroys long-term trust
+  swords_state: Struggle becomes patience-destroying force; conflict prevents trusting process
+  consequence: Long-term vision becomes impossible; patience falters from conflict-urgency
+  key_terms: destroyed faith, prevented patience, broken vision, impossible growth
+
+dynamic_devolution:
+  mechanism: Conflict corrupts investment into reckless desperation; defeat destroys all long-term hope
+  mode: Ongoing combat prevents all patience; struggle destroys long-term thinking
+  loss: Patient investment replaced by desperate grabbing; genuine growth becomes impossible
+  key_terms: desperate grabbing, destroyed patience, hope-loss, impossible growth
+
+dynamic_dependency:
+  mechanism: Conflict without long-term-awareness becomes short-sighted destruction; patience without conflict-resolution becomes naively trusting
+  function: Pentacles-7 provides long-term vision that conflict threatens; Swords-5 provides truth-testing that prevents delusional patience
+  integration_outcome: Conflict becomes resolved before trusting process; victory enables patient vision
+  key_terms: patient vision, resolved conflict, renewed faith, integrated growth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, 8 of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Mastery, skill-development, apprenticeship, dedication, refined craft
+numerical_relation: 5-8 (Conflict preventing mastery; defeat destroying craft-dedication)
+elemental_bridge: Air struggle meeting earth craft; contested victory preventing dedicated practice
+threshold_type: The unskilled fighter; conflict blocking mastery
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables dedicated practice; victory permits skill-development
+  process: Winning struggle permits return to craft; cleared conflict enables mastery-path
+  outcome: Mastery emerges from resolved struggle; skill flows from integrated victory
+  key_terms: resolved conflict, resumed practice, dedicated mastery, crafted victory
+
+dynamic_antagonism:
+  mechanism: Conflict consumes practice-time; struggle prevents dedicated focus
+  tension_axis: Ongoing combat versus dedicated craft; victory-focus versus skill-development
+  swords_position: Continues absorbing struggle; cannot dedicate to craft
+  pentacles_position: Demands continuous practice; requires craft-commitment
+  key_terms: demanded dedication, continued combat, incompatible focus, prevented practice
+
+dynamic_inhibition:
+  mechanism: Conflict prevents craft-engagement; struggle blocks skill-development
+  blockade_nature: The ongoing conflict consumes energy needed for craft; combat prevents mastery-path
+  swords_state: Struggle becomes craft-preventing force; conflict prevents dedicated practice
+  consequence: Mastery cannot develop; skill becomes impossible from conflict-consumed energy
+  key_terms: prevented mastery, consumed energy, blocked skill, impossible craft
+
+dynamic_devolution:
+  mechanism: Conflict corrupts skill into destructive weapon; defeat destroys craft-foundation
+  mode: Ongoing combat weaponizes craft; struggle destroys mastery-potential
+  loss: Genuine skill replaced by destructive application; authentic mastery becomes impossible
+  key_terms: destructive weaponization, craft-destruction, mastery-loss, impossible skill
+
+dynamic_dependency:
+  mechanism: Conflict without craft-purpose becomes meaningless destruction; craft without conflict-resolution becomes conflict-serving
+  function: Pentacles-8 provides craft-dedication that conflict prevents; Swords-5 provides truth-testing that prevents destructive mastery
+  integration_outcome: Conflict becomes resolved before returning to craft; victory enables renewed mastery-path
+  key_terms: renewed mastery-path, resolved conflict, dedicated practice, integrated skill
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, 9 of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+numerical_relation: 5-9 (Conflict destroying autonomy; defeat destroying earned independence)
+elemental_bridge: Air struggle meeting earth independence; contested victory preventing self-sufficiency
+threshold_type: The dependent fighter; conflict preventing autonomy
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables autonomous living; victory permits self-sufficient comfort
+  process: Winning struggle permits independence-return; cleared conflict enables prosperous solitude
+  outcome: Independence emerges from resolved struggle; prosperity flows from integrated victory
+  key_terms: resolved conflict, regained autonomy, prosperous solitude, earned independence
+
+dynamic_antagonism:
+  mechanism: Conflict consumes resources needed for independence; struggle prevents autonomous living
+  tension_axis: Ongoing combat versus earned comfort; victory-focus versus independent living
+  swords_position: Continues costly struggle; cannot achieve autonomy
+  pentacles_position: Celebrates independence; requires conflict-resolution to maintain
+  key_terms: demanded autonomy, continued dependence, incompatible pursuit, prevented freedom
+
+dynamic_inhibition:
+  mechanism: Conflict prevents independence-achievement; struggle blocks autonomous living
+  blockade_nature: The ongoing conflict prevents gathering independence-resources; combat prevents solitude-comfort
+  swords_state: Struggle becomes autonomy-preventing force; conflict prevents independent achievement
+  consequence: Independence becomes impossible; prosperity cannot be earned from ongoing struggle
+  key_terms: prevented independence, impossible autonomy, lost prosperity, dependent struggle
+
+dynamic_devolution:
+  mechanism: Conflict corrupts independence into lonely isolation; defeat destroys earned comfort
+  mode: Ongoing combat isolates from community; struggle destroys independence-foundation
+  loss: Prosperous independence replaced by destitute isolation; genuine autonomy becomes impossible
+  key_terms: destitute isolation, destroyed comfort, independence-loss, impossible autonomy
+
+dynamic_dependency:
+  mechanism: Conflict without autonomy-purpose becomes enslaving struggle; independence without conflict-resolution becomes vulnerable
+  function: Pentacles-9 provides independence that conflict threatens; Swords-5 provides truth-testing that prevents false autonomy
+  integration_outcome: Conflict becomes resolved to enable independence; victory enables earned prosperity
+  key_terms: earned prosperity, resolved conflict, regained autonomy, integrated independence
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, 10 of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+numerical_relation: 5-10 (Conflict destroying family; defeat threatening legacy)
+elemental_bridge: Air struggle meeting earth legacy; contested victory threatening generational foundation
+threshold_type: The family fighter; conflict destroying inheritance
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables family-healing; victory permits legacy-restoration
+  process: Winning struggle permits family-return; cleared conflict enables generational continuity
+  outcome: Family emerges from resolved struggle; legacy flows from integrated victory
+  key_terms: resolved conflict, healed family, restored legacy, integrated victory
+
+dynamic_antagonism:
+  mechanism: Conflict tears family apart; struggle prevents generational continuity
+  tension_axis: Ongoing combat versus family unity; victory-focus versus family-caring
+  swords_position: Continues family-destructive struggle; cannot prioritize legacy
+  pentacles_position: Seeks family protection; demands conflict-ending for inheritance
+  key_terms: demanded family-focus, continued destruction, incompatible priorities, threatened legacy
+
+dynamic_inhibition:
+  mechanism: Conflict destroys family-bonds; struggle prevents generational transmission
+  blockade_nature: The ongoing conflict tears family apart; combat prevents legacy-continuity
+  swords_state: Struggle becomes family-destroying force; conflict prevents legacy-transmission
+  consequence: Family becomes broken; legacy cannot be transmitted from ongoing warfare
+  key_terms: broken family, prevented legacy, destroyed inheritance, severed continuity
+
+dynamic_devolution:
+  mechanism: Conflict corrupts family into ancestral curse; defeat destroys all legacy
+  mode: Ongoing combat destroys family-bonds; struggle prevents all generational healing
+  loss: Established family replaced by broken curse; genuine legacy becomes impossible
+  key_terms: ancestral curse, family-destruction, legacy-loss, impossible inheritance
+
+dynamic_dependency:
+  mechanism: Conflict without family-purpose becomes genocidal struggle; family without conflict-resolution becomes fractured
+  function: Pentacles-10 provides family that conflict threatens; Swords-5 provides truth-testing that prevents false reconciliation
+  integration_outcome: Conflict becomes resolved to heal family; victory enables legacy-continuation
+  key_terms: healed family, resolved conflict, continued legacy, integrated inheritance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, Page of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+numerical_relation: 5-Page (Conflict blocking learning; defeat preventing material growth)
+elemental_bridge: Air struggle meeting earth learning; contested victory preventing skill-development
+threshold_type: The war-interrupted student; conflict blocking education
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables learning-engagement; victory permits material growth
+  process: Winning struggle permits return to learning; cleared conflict enables practical education
+  outcome: Learning emerges from resolved struggle; growth flows from integrated victory
+  key_terms: resolved conflict, resumed learning, material growth, integrated education
+
+dynamic_antagonism:
+  mechanism: Conflict consumes learning-time; struggle prevents educational focus
+  tension_axis: Ongoing combat versus practical learning; victory-focus versus skill-gathering
+  swords_position: Continues absorbing struggle; cannot engage with learning
+  pentacles_position: Seeks continuous learning; demands educational commitment
+  key_terms: demanded learning, continued conflict, incompatible focus, prevented education
+
+dynamic_inhibition:
+  mechanism: Conflict prevents learning-engagement; struggle blocks material growth
+  blockade_nature: The ongoing conflict prevents entering education; combat prevents practical skill-gathering
+  swords_state: Struggle becomes learning-preventing force; conflict prevents material exploration
+  consequence: Learning becomes impossible; growth cannot occur from conflict-consumed energy
+  key_terms: prevented learning, consumed energy, blocked growth, impossible education
+
+dynamic_devolution:
+  mechanism: Conflict corrupts learning into destructive knowledge; defeat prevents all education
+  mode: Ongoing combat weaponizes knowledge; struggle destroys learning-potential
+  loss: Genuine learning replaced by destructive application; authentic growth becomes impossible
+  key_terms: destructive knowledge, learning-destruction, potential-loss, impossible education
+
+dynamic_dependency:
+  mechanism: Conflict without learning-purpose becomes meaningless destruction; learning without conflict-resolution becomes fragile
+  function: Pentacles-Page provides learning-drive that conflict prevents; Swords-5 provides truth-testing that prevents false education
+  integration_outcome: Conflict becomes resolved before resuming education; victory enables material growth
+  key_terms: material growth, resolved conflict, resumed learning, integrated education
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, Knight of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+numerical_relation: 5-Knight (Conflict preventing service; defeat destroying dedication)
+elemental_bridge: Air struggle meeting earth duty; contested victory preventing steady work
+threshold_type: The unreliable servant; conflict destroying commitment
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables dedicated service; victory permits reliable work
+  process: Winning struggle permits return to duty; cleared conflict enables steady commitment
+  outcome: Service emerges from resolved struggle; dedication flows from integrated victory
+  key_terms: resolved conflict, resumed service, steady dedication, integrated reliability
+
+dynamic_antagonism:
+  mechanism: Conflict consumes work-energy; struggle prevents dedicated effort
+  tension_axis: Ongoing combat versus steady work; victory-focus versus methodical action
+  swords_position: Continues absorbing struggle; cannot maintain service-dedication
+  pentacles_position: Seeks reliable work; demands steady commitment
+  key_terms: demanded reliability, continued conflict, incompatible work, prevented service
+
+dynamic_inhibition:
+  mechanism: Conflict prevents work-engagement; struggle blocks reliable service
+  blockade_nature: The ongoing conflict prevents maintaining work-commitment; combat prevents steady action
+  swords_state: Struggle becomes service-preventing force; conflict prevents dedicated effort
+  consequence: Service becomes unreliable; dedication falters from ongoing struggle
+  key_terms: unreliable service, prevented dedication, faltered work, impossible commitment
+
+dynamic_devolution:
+  mechanism: Conflict corrupts service into sabotage; defeat destroys all reliability
+  mode: Ongoing combat prevents all work; struggle destroys work-foundation
+  loss: Genuine dedication replaced by destructive negligence; authentic service becomes impossible
+  key_terms: destructive negligence, service-sabotage, reliability-loss, impossible dedication
+
+dynamic_dependency:
+  mechanism: Conflict without service-purpose becomes pointless struggle; service without conflict-resolution becomes fragile
+  function: Pentacles-Knight provides work-commitment that conflict prevents; Swords-5 provides truth-testing that prevents false reliability
+  integration_outcome: Conflict becomes resolved before returning to service; victory enables steady work
+  key_terms: steady work, resolved conflict, resumed service, integrated dedication
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, Queen of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+numerical_relation: 5-Queen (Conflict preventing nurturing; defeat destroying care)
+elemental_bridge: Air struggle meeting earth nurturing; contested victory preventing generous leadership
+threshold_type: The battle-weary caregiver; conflict destroying compassion
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables nurturing presence; victory permits compassionate care
+  process: Winning struggle permits return to caring; cleared conflict enables generous management
+  outcome: Nurturing emerges from resolved struggle; care flows from integrated victory
+  key_terms: resolved conflict, resumed care, compassionate nurturing, integrated generosity
+
+dynamic_antagonism:
+  mechanism: Conflict consumes caring-energy; struggle prevents nurturing presence
+  tension_axis: Ongoing combat versus generous care; victory-focus versus nurturing commitment
+  swords_position: Continues absorbing struggle; cannot maintain caring presence
+  pentacles_position: Demands continuous care; requires nurturing commitment
+  key_terms: demanded care, continued conflict, incompatible warmth, prevented nurturing
+
+dynamic_inhibition:
+  mechanism: Conflict prevents nurturing-engagement; struggle blocks compassionate care
+  blockade_nature: The ongoing conflict prevents nurturing work; combat prevents generous presence
+  swords_state: Struggle becomes care-preventing force; conflict prevents nurturing action
+  consequence: Care becomes impossible; nurturing cannot be offered from ongoing struggle
+  key_terms: prevented care, impossible nurturing, faltered compassion, blocked generosity
+
+dynamic_devolution:
+  mechanism: Conflict corrupts nurturing into cruel abandonment; defeat destroys all compassion
+  mode: Ongoing combat prevents all care; struggle destroys nurturing-foundation
+  loss: Genuine care replaced by cruel withdrawal; authentic nurturing becomes impossible
+  key_terms: cruel abandonment, care-destruction, compassion-loss, impossible nurturing
+
+dynamic_dependency:
+  mechanism: Conflict without nurturing-purpose becomes pointless destruction; nurturing without conflict-resolution becomes fragile
+  function: Pentacles-Queen provides care that conflict destroys; Swords-5 provides truth-testing that prevents false compassion
+  integration_outcome: Conflict becomes resolved before returning to care; victory enables nurturing presence
+  key_terms: nurturing presence, resolved conflict, resumed care, integrated compassion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP
+
+---
+
+card_pair: 5 of Swords, King of Pentacles
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+numerical_relation: 5-King (Conflict undermining authority; defeat destroying dominion)
+elemental_bridge: Air struggle meeting earth authority; contested victory threatening rule
+threshold_type: The threatened ruler; conflict undermining dominion
+
+dynamic_genesis:
+  mechanism: Resolving conflict enables authoritative presence; victory permits powerful rule
+  process: Winning struggle permits authority-restoration; cleared conflict enables wise dominion
+  outcome: Authority emerges from resolved struggle; dominion flows from integrated victory
+  key_terms: resolved conflict, restored authority, powerful rule, integrated dominion
+
+dynamic_antagonism:
+  mechanism: Conflict threatens authority's foundation; struggle undermines rule-confidence
+  tension_axis: Ongoing combat versus authoritative presence; victory-focus versus stable dominion
+  swords_position: Continues struggle; threatens authority-foundation
+  pentacles_position: Demands stable rule; requires conflict-resolution for dominion
+  key_terms: demanded stability, threatening conflict, incompatible authority, undermined rule
+
+dynamic_inhibition:
+  mechanism: Conflict prevents authoritative presence; struggle blocks powerful dominion
+  blockade_nature: The ongoing conflict undermines authority; combat prevents stable rule
+  swords_state: Struggle becomes authority-threatening force; conflict prevents powerful action
+  consequence: Authority falters; dominion becomes compromised from ongoing struggle
+  key_terms: compromised authority, faltered rule, prevented dominion, weakened power
+
+dynamic_devolution:
+  mechanism: Conflict corrupts authority into tyrannical desperation; defeat destroys all rule
+  mode: Ongoing combat prevents all stable governance; struggle destroys authority-foundation
+  loss: Genuine authority replaced by tyrannical chaos; authentic dominion becomes impossible
+  key_terms: tyrannical chaos, authority-destruction, rule-loss, impossible dominion
+
+dynamic_dependency:
+  mechanism: Conflict without authority-purpose becomes pointless destruction; authority without conflict-resolution becomes vulnerable
+  function: Pentacles-King provides dominion that conflict threatens; Swords-5 provides truth-testing that prevents false authority
+  integration_outcome: Conflict becomes resolved before restoring dominion; victory enables stable rule
+  key_terms: stable rule, resolved conflict, restored dominion, integrated authority
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOSP

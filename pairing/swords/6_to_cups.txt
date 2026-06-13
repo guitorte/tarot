@@ -1,0 +1,683 @@
+card_pair: 6 of Swords, Ace of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Pure Emotion, The Love Descending, The Heart Opening, The Emotional Gift
+numerical_relation: 6 + Ace = 7 (The Chariot; the crossing toward emotional opening)
+elemental_bridge: Air carrying Water's healing; the journey toward emotional blessing
+threshold_type: The Emotional Blessing at Journey's End—the departure leading toward love's arrival
+
+dynamic_genesis:
+  mechanism: The traveler crosses from emotional turmoil and discovers that the Ace of Cups appears at the destination; the journey itself becomes the pathway to emotional healing
+  process: The departure from emotional wounding allows the space for genuine love to arrive; the crossing creates the internal space where the Ace's gift can be received
+  outcome: A profound emotional opening that was only possible because of the departure; the love arrives precisely because the traveler had to leave the place of pain
+  key_terms: The earned opening, love arriving after crossing, emotional blessing, healing journey
+
+dynamic_antagonism:
+  mechanism: The traveler's need to depart clashes with the Ace's invitation to open emotionally where they are; remaining to receive the love seems wiser than leaving
+  tension_axis: Movement against vulnerability—the traveler must cross to heal; the Ace insists on opening now
+  6_of_swords_position: Unable to remain in the place of emotional wounding, even if love appears, unable to open while still in danger
+  ace_of_cups_position: Offering the gift with the assumption that the traveler will receive it where they are, unable to understand why they must leave
+  key_terms: The rejected offering, love questioned, emotional opening delayed, departure insisted upon
+
+dynamic_inhibition:
+  mechanism: The traveler moves but cannot truly open emotionally during the crossing; the Ace's gift is carried but cannot be fully received until the journey is complete
+  consequence: An emotional gift that travels with the traveler but remains unreceived; the love is present but cannot penetrate the closed heart needed for the journey
+  spatial_logic: The traveler carrying the cup of love but drinking from it only in small sips during the crossing
+
+dynamic_devolution:
+  mechanism: The gift decays during the journey; the love gradually loses its potency as the traveler cannot open to receive it; the Ace's blessing is lost
+  corruption: The emotional opening is prevented by the journey's demands; the love spoils from non-use; the Ace's gift becomes a weight rather than a blessing
+  loss: The emotional healing is sacrificed to the physical crossing; the traveler arrives at the new shore emotionally closed
+  key_terms: The decayed love, unopen heart, emotional blessing lost, arrival closed
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must eventually arrive at the destination and allow the opening; the Ace of Cups must remain pure and waiting at the journey's end
+  integration: The traveler arrives and finally opens; the Ace's gift is fully received; the emotional blessing is complete
+  paradox: The deepest emotional openings often come after departure; the Ace of Cups is most potent when given to those who have journeyed toward it
+  outcome: The traveler arrives and the heart opens; the Ace of Cups floods in; the journey is revealed as the necessary pathway to emotional healing
+  key_terms: The opened heart, received love, healing complete, emotional blessing arrived
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, 2 of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Sacred Bond, The Emotional Union, The Heart's Recognition, The Mutual Devotion
+numerical_relation: 6 + 2 = 8 (Strength; the bond that can survive separation and distance)
+elemental_bridge: Air carrying Water's union; the relationship that endures across the crossing
+threshold_type: The Separation That Strengthens Bond—the departure testing and deepening connection
+
+dynamic_genesis:
+  mechanism: The traveler and their beloved recognize that the journey strengthens rather than breaks the bond; the separation becomes proof of the connection's reality; from this emerges a deeper union
+  process: The 2 of Cups blesses the crossing; the traveler carries the beloved's presence across the water; the separation becomes intimate through the dedication to reunion
+  outcome: A bond that is deepened by distance; the 2 of Cups is honored through the traveler's commitment to returning; the union is sealed by the willingness to journey
+  key_terms: The strengthened bond, distance honored, the sacred separation, deepened connection
+
+dynamic_antagonism:
+  mechanism: The traveler's departure tears at the 2 of Cups' union; the bond cannot survive the separation; the distance seems to break what closeness builds
+  tension_axis: Journey against union—the traveler must depart; the 2 of Cups demands that love means staying
+  6_of_swords_position: Unable to remain bound, needing to depart despite the cost to the union
+  2_of_cups_position: Unable to accept the departure, unable to understand how love includes leaving
+  key_terms: The threatened bond, union questioned, love tested, separation painful
+
+dynamic_inhibition:
+  mechanism: The traveler departs but the bond holds them back; the crossing is slowed by the emotional pull toward the beloved; the journey and the love are in constant tension
+  consequence: A crossing that is emotionally agonizing; the traveler is present in the boat but absent from the journey; the beloved is present in the heart but absent from the hand
+  spatial_logic: The traveler in the boat but the cord of love stretching back toward the beloved on the shore, making progress difficult
+
+dynamic_devolution:
+  mechanism: The bond gradually breaks under the strain of distance; the 2 of Cups' union is corrupted by separation; the connection becomes poisoned
+  corruption: The love turns bitter; the separation is experienced as betrayal; the bond that was sacred becomes a weapon in mutual accusation
+  loss: Both the crossing and the union are destroyed; the traveler is trapped between the journey and the beloved; neither is completed
+  key_terms: The broken bond, love corrupted, union destroyed, bitter separation
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must honor the 2 of Cups' bond even in departure; the 2 of Cups must understand that true union includes the freedom to journey
+  integration: The traveler crosses with the beloved's blessing; the bond survives and is honored through the crossing; the reunion is anticipated and sacred
+  paradox: The deepest bonds are often those that can survive separation; the 2 of Cups is most truly united when strong enough to support distance
+  outcome: The traveler crosses blessed; the beloved waits knowing the return is certain; the union is deepened by the separation; the reunion is sacred
+  key_terms: The honored separation, sacred distance, blessed crossing, reunited union
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, 3 of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Celebration, The Genuine Togetherness, The Community of Hearts, The Abundance Shared
+numerical_relation: 6 + 3 = 9 (Completion; departure from the community of celebration)
+elemental_bridge: Air dispersing Water's gathering; the traveler leaving the celebration
+threshold_type: The Traveler Leaving Celebration—the departure from community gathering
+
+dynamic_genesis:
+  mechanism: The traveler recognizes that the 3 of Cups' celebration has prepared them for the crossing; the joy is internalized and becomes strength for the journey
+  process: The traveler departs from the celebration with the warmth of community still in their heart; the 3 of Cups' joy is carried forward and becomes sustenance for the crossing
+  outcome: A departure that honors the celebration; the traveler leaves with gratitude and with the knowledge that community was real and has shaped them
+  key_terms: The honored celebration, carried joy, community internalized, blessed departure
+
+dynamic_antagonism:
+  mechanism: The traveler's departure tears at the 3 of Cups' gathering; the celebration cannot continue at full joy with someone missing; the community feels incomplete
+  tension_axis: Journey against gathering—the traveler must leave; the community wants the celebration to remain unbroken
+  6_of_swords_position: Unable to remain in the celebration, compelled to cross
+  3_of_cups_position: Unable to release the celebration, unable to accept the departure
+  key_terms: The torn celebration, incomplete community, joy interrupted, gathering disrupted
+
+dynamic_inhibition:
+  mechanism: The traveler remains at the celebration but with growing restlessness; the joy is present but cannot be fully experienced; the celebration shadows the impending departure
+  consequence: A gathering that is bittersweet; the celebration is present but its completion is prevented by the knowledge of departure
+  spatial_logic: The travelers among the celebration but always knowing the boat awaits, unable to fully join the dancing
+
+dynamic_devolution:
+  mechanism: The celebration gradually curdled by the knowledge of imminent departure; the joy is poisoned; the 3 of Cups transforms into sorrow
+  corruption: The celebration becomes a wake; the joy is corrupted by the awareness of loss; what was shared becomes bitter
+  loss: Both the crossing and the celebration are destroyed; the traveler is consumed with guilt and the community is consumed with sorrow
+  key_terms: The poisoned celebration, corrupted joy, celebration destroyed, mutual pain
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must honor the 3 of Cups' celebration even in departure; the 3 of Cups must release the traveler with blessing
+  integration: The celebration continues with the knowledge that joy is meant to be carried into the world; the traveler departs as an ambassador of the community's love
+  paradox: The strongest celebrations are those that can release members; the 3 of Cups is most genuine when willing to release those called to journey
+  outcome: The traveler departs blessed by celebration; the community continues in the knowledge that their joy travels with the departed one; the connection remains
+  key_terms: The blessed release, carried celebration, the traveling ambassador, joy transmitted
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, 4 of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Emotional Apathy, The Withdrawal from Feeling, The Numb Sanctuary, The Weariness of the Heart
+numerical_relation: 6 + 4 = 10 (Completion; the journey away from emotional numbness)
+elemental_bridge: Air's movement disrupting Water's withdrawal; the departure from apathy
+threshold_type: The Traveler Leaving Numbness—the crossing toward emotional reawakening
+
+dynamic_genesis:
+  mechanism: The traveler recognizes that the 4 of Cups' numbness must be left behind; the journey becomes the pathway to reawakening; the crossing is the beginning of emotional resurrection
+  process: The traveler leaves the place of withdrawal; the movement itself begins to crack the shell of apathy; feeling begins to return with each stroke across the water
+  outcome: An emotional reawakening that is possible only because the traveler left the place of numbness; the 4 of Cups' protective withdrawal is transcended through movement
+  key_terms: The reawakening journey, transcended numbness, emotional resurrection, the crossing heals
+
+dynamic_antagonism:
+  mechanism: The traveler's departure is prevented by the 4 of Cups' numbness; the apathy prevents even the motivation to cross; the traveler is trapped in the protective shell
+  tension_axis: Movement against withdrawal—the traveler needs to depart; the 4 of Cups insists on remaining numb
+  6_of_swords_position: Unable to break through the numbness that prevents departure
+  4_of_cups_position: Unable to allow the journey that would break the protective shell
+  key_terms: The trapped numbness, prevented departure, apathy blocking, emotional stasis
+
+dynamic_inhibition:
+  mechanism: The traveler begins the crossing but the 4 of Cups' numbness remains in their heart; the emotional awakening is slowed; the journey is made but the feeling remains distant
+  consequence: A crossing that is physically complete but emotionally incomplete; the traveler arrives numb; the journey has not healed what withdrawal built
+  spatial_logic: The traveler in the boat but the protective shell remains, the crossing cannot penetrate the emotional numbness
+
+dynamic_devolution:
+  mechanism: The numbness gradually solidifies during the journey; the 4 of Cups' protection becomes a prison that cannot be escaped even through movement
+  corruption: The emotional withdrawal is deepened by the isolation of the crossing; the journey becomes another form of numbness
+  loss: Both the emotional awakening and the crossing are destroyed; the traveler arrives still numb, perhaps more so
+  key_terms: The deepened numbness, isolated crossing, apathy strengthened, emotional death
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must eventually reach a place where feeling is safe; the 4 of Cups must gradually release the protective numbness
+  integration: The crossing brings the traveler to a place where emotional reawakening is possible; the 4 of Cups' withdrawal is transcended in the new territory
+  paradox: The deepest healing often comes through the movement away from what was protective; the 4 of Cups' numbness is transcended only through the willingness to journey
+  outcome: The traveler arrives in new territory; the heart begins to reawaken; the numbness gradually dissolves; feeling returns
+  key_terms: The reawakened heart, transcended protection, feeling returns, emotional resurrection
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, 5 of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Heartbroken, The Loss and Grief, The Mourning Witness, The Regret Doubled
+numerical_relation: 6 + 5 = 11 (The Hanged One; perspective shift—the departure from grief)
+elemental_bridge: Air carrying Water's sorrow; the journey away from heartbreak
+threshold_type: The Traveler Leaving Grief—the crossing as the pathway to emotional healing
+
+dynamic_genesis:
+  mechanism: The traveler recognizes that the 5 of Cups' grief must be left behind to heal; the crossing becomes the pilgrimage of mourning; the journey honors the loss while moving beyond it
+  process: The traveler grieves while moving; the tears flow with the crossing; the loss is acknowledged and released with each stroke of the oars
+  outcome: A healing that comes from the willingness to leave the place of grief; the loss is honored through the journey; the traveler arrives transformed but not unchanged
+  key_terms: The honored grief, healing through journey, loss transcended, mourning mobile
+
+dynamic_antagonism:
+  mechanism: The traveler's departure is experienced as betrayal by the 5 of Cups; leaving the grief seems like betraying those who are mourned
+  tension_axis: Departure against mourning—the traveler must leave; the grief insists on remaining at the place of loss
+  6_of_swords_position: Unable to remain in the grief, compelled to move despite the feeling of betrayal
+  5_of_cups_position: Unable to release the mourning, unable to accept that the traveler must journey
+  key_terms: The felt betrayal, mourning bound, grief questioned, departure as disloyalty
+
+dynamic_inhibition:
+  mechanism: The traveler grieves while crossing, unable to complete either the grief or the crossing; both are half-done; the pain is carried incompletely
+  consequence: A journey that is emotionally agonizing; the crossing is slow because of the weight of grief; the grief is incomplete because of the need to move
+  spatial_logic: The traveler in the boat weeping, unable to both cross and mourn fully
+
+dynamic_devolution:
+  mechanism: The grief metastasizes into rage at being forced to leave; the journey becomes another wound; the loss is compounded by the sense of betrayal at having to depart
+  corruption: The heartbreak is poisoned by the forced movement; the grief becomes hatred; the traveler is destroyed by the conflict between mourning and moving
+  loss: Both the journey and the grief are destroyed; the traveler arrives angry and still heartbroken
+  key_terms: The poisoned grief, forced movement, compounded loss, the embittered traveler
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must allow the grieving to occur alongside the crossing; the 5 of Cups must understand that the departure is the beginning of healing
+  integration: The traveler grieves in motion; the tears are released; the loss is honored and transcended; the crossing is a pilgrimage of mourning
+  paradox: The deepest healing often comes from moving through grief rather than remaining in it; the 5 of Cups is most healed when the traveler journeys while mourning
+  outcome: The traveler crosses with the grief held open; the loss is honored; the mourning transforms into acceptance; the traveler arrives healed but remembering
+  key_terms: The mourning pilgrimage, honored loss, grief transformed, healing arrived
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, 6 of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Innocence Reclaimed, The Nostalgia Safe, The Childhood's Return, The Simplicity of Past Joy
+numerical_relation: 6 + 6 = 12 (The Hanged One; perspective required—innocence and memory are transcended through crossing)
+elemental_bridge: Air dispersing Water's memory; the journey away from nostalgic yearning
+threshold_type: The Traveler Leaving Memory—the crossing from the past toward the future
+
+dynamic_genesis:
+  mechanism: The traveler recognizes that the 6 of Cups' nostalgia must be released to move forward; the memories are honored and released; the crossing becomes the act of growing up
+  process: The traveler carries the memories but does not remain bound by them; the innocence is internalized as wisdom rather than as a call to return
+  outcome: A maturation that honors the past; the 6 of Cups is transcended through understanding that moving forward is also honoring what has been
+  key_terms: The honored memory, released innocence, maturation journey, the past transcended
+
+dynamic_antagonism:
+  mechanism: The traveler's departure is a breaking of the 6 of Cups' hold; the memories seem to demand that the traveler remain in the past; the crossing feels like betrayal
+  tension_axis: Future against past—the traveler must move forward; the 6 of Cups pulls toward memory
+  6_of_swords_position: Unable to remain bound to memory, compelled to journey
+  6_of_cups_position: Unable to release the traveler, unable to accept that the past must be left behind
+  key_terms: The broken hold, memory released, past demanding, future compelling
+
+dynamic_inhibition:
+  mechanism: The traveler moves but looks constantly backward; the memories are carried and complicate the crossing; the journey is slowed by nostalgia
+  consequence: A crossing where the future is pulled by the past; the traveler makes progress but cannot fully commit to the journey because of the pull toward memory
+  spatial_logic: The traveler in the boat but constantly looking back at the shore of memory, unable to fully face forward
+
+dynamic_devolution:
+  mechanism: The nostalgia gradually becomes obsessive; the traveler attempts to return; the 6 of Cups' memory becomes a trap that prevents progress
+  corruption: The journey is abandoned; the traveler returns to the past; the maturation is prevented; the growth is forsaken for the safety of memory
+  loss: The crossing is not completed; the traveler remains bound to the past
+  key_terms: The abandoned journey, returned wanderer, memory's trap, growth prevented
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must release the 6 of Cups' memory; the 6 of Cups must understand that the traveler is honoring the past by moving forward
+  integration: The memories are honored and released; the traveler moves forward carrying innocence as wisdom; the past is transcended in the act of moving away
+  paradox: The deepest respect for the past is often the willingness to move forward; the 6 of Cups is most truly honored when the traveler carries the memory into new territory
+  outcome: The traveler crosses with the 6 of Cups' memory held sacred but released; the innocence becomes wisdom; the journey is completed; the future is embraced
+  key_terms: The honored release, transcended memory, carried innocence, the matured traveler
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, 7 of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Illusions, The Wishful Thinking, The Dreams Ungrounded, The Fantasy Escape
+numerical_relation: 6 + 7 = 13 (Death/Transformation; the illusions released through departure)
+elemental_bridge: Air's clarity carrying Water's illusions; the dreams transcended through the journey
+threshold_type: The Traveler Leaving Dreams—the crossing from fantasy toward reality
+
+dynamic_genesis:
+  mechanism: The traveler recognizes that the 7 of Cups' illusions must be released to truly journey; the crossing becomes the journey from fantasy into reality
+  process: The traveler leaves the cups behind; the dreams are acknowledged but not pursued; the journey becomes the reality that the dreams could not provide
+  outcome: A journey grounded in reality; the fantasy is released and the traveler arrives in genuine territory; the crossing is redemptive
+  key_terms: The released illusions, grounded journey, reality achieved, fantasy transcended
+
+dynamic_antagonism:
+  mechanism: The traveler is pulled back by the 7 of Cups' fantasy; the illusions are tempting and seem easier than the real crossing
+  tension_axis: Reality against fantasy—the traveler commits to the real journey; the 7 of Cups offers escape into dream
+  6_of_swords_position: Unable to be distracted by illusions, committed to the real crossing
+  7_of_cups_position: Unable to release the fantasy, offering it as comfort to the departing traveler
+  key_terms: The tempting illusions, resisted fantasy, reality chosen, dream offered
+
+dynamic_inhibition:
+  mechanism: The traveler carries the illusions into the crossing; the journey is complicated by the fantasy that the traveler expected versus the reality they encounter
+  consequence: A crossing complicated by disillusionment; the traveler must release the illusions during the journey; the fantasy dies slowly
+  spatial_logic: The traveler in the boat surrounded by the cups of fantasy, gradually releasing them into the water as reality asserts itself
+
+dynamic_devolution:
+  mechanism: The traveler becomes obsessed with one illusion and the crossing is prevented; the fantasy becomes more real than the reality of the journey
+  corruption: The traveler abandons the crossing to pursue the fantasy; the real journey is sacrificed for the dream
+  loss: The crossing is not completed; the traveler remains trapped in illusion
+  key_terms: The trapped fantasy, abandoned crossing, illusion chosen, reality refused
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must help the traveler release the 7 of Cups' illusions; the 7 of Cups must gradually lose power as reality proves itself
+  integration: The traveler releases the illusions during the crossing; the fantasy loses appeal as the real journey becomes meaningful
+  paradox: The deepest reality is often more meaningful than fantasy; the 7 of Cups' illusions are transcended when the traveler discovers that the real journey is richer than any dream
+  outcome: The traveler releases the cups; the crossing is completed in reality; the illusions lose power; the traveler arrives grounded
+  key_terms: The released fantasy, grounded reality, the completed journey, illusions transcended
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, 8 of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Walking Away, The Abandonment of False Comfort, The Search Beyond, The Seeker's Departure
+numerical_relation: 6 + 8 = 14 (Moderation; two travelers recognizing each other, both moving in the same direction)
+elemental_bridge: Air and Water moving together; two forms of seeking aligned
+threshold_type: The Two Travelers—the crosser and the seeker moving together
+
+dynamic_genesis:
+  mechanism: The traveler of the 6 of Swords meets the seeker of the 8 of Cups and recognizes a kinship; both are moving away from something toward something unknown; together they find strength
+  process: The two travelers acknowledge each other's journey; the crossing and the searching are revealed as parts of the same impulse; together they move with greater clarity
+  outcome: A companionship forged in mutual departure; both travelers strengthen each other; the journey is shared and therefore deeper
+  key_terms: The fellow travelers, shared departure, mutual seeking, companionship in motion
+
+dynamic_antagonism:
+  mechanism: The traveler and the seeker move at different paces and in slightly different directions; the 6 of Swords wants to reach a destination; the 8 of Cups wants to continue searching
+  tension_axis: Destination against journey—the traveler seeks arrival; the seeker seeks the journey itself
+  6_of_swords_position: Unable to slow down for the seeker, committed to reaching the far shore
+  8_of_cups_position: Unable to accept that the journey has an end, afraid that arrival means stopping the search
+  key_terms: The conflicting goals, different destinations, misaligned travelers, the parting path
+
+dynamic_inhibition:
+  mechanism: The two travelers move together but at odds; the crossing is slowed by the tension between destination and journey; neither fully commits to the other's approach
+  consequence: A journey that is shared but uncomfortable; both travelers are diminished by the partnership because they are pulling in different directions
+  spatial_logic: The two in the same boat but facing different directions, the oars pulling against each other
+
+dynamic_devolution:
+  mechanism: The partnership falls apart; the travelers separate in resentment; the 6 of Swords' destination-seeking is criticized by the 8 of Cups as limited; the searching is criticized as aimless
+  corruption: What could have been mutual support becomes mutual judgment; both travelers are hurt by the separation
+  loss: Both the crossing and the searching are diminished by the loss of companionship
+  key_terms: The separated travelers, mutual judgment, lost companionship, diminished journeys
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must honor the 8 of Cups' searching as valid; the 8 of Cups must honor the 6's commitment to destination as valid
+  integration: The two travelers move together with mutual respect; the destination and the journey are both honored; the crossing supports the search and vice versa
+  paradox: The deepest journeys often involve both destination and seeking; the 6 of Swords and the 8 of Cups are most complete together
+  outcome: The travelers cross together; the destination is reached and the search continues in new territory; both journeys are honored and deepened by companionship
+  key_terms: The united travelers, honored goals, mutual respect, deepened journeys
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, 9 of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Wish Fulfilled, The Satisfaction Achieved, The Abundance Realized, The Heart's Desire Met
+numerical_relation: 6 + 9 = 15 (The Devil reversed; liberation from the satisfied self)
+elemental_bridge: Air's movement disrupting Water's satisfaction; the departure from fulfillment
+threshold_type: The Traveler Leaving Satisfaction—the crossing away from the achieved wish
+
+dynamic_genesis:
+  mechanism: The traveler recognizes that the 9 of Cups' satisfaction, though real, has become limiting; the crossing becomes the pathway to deeper fulfillment
+  process: The traveler leaves the place of satisfaction and discovers that true fulfillment includes movement; the static wish-fulfillment is transcended for dynamic seeking
+  outcome: A journey that honors the satisfaction but moves beyond it; the 9 of Cups' achievement is the foundation for the crossing, not its destination
+  key_terms: The transcended satisfaction, honored achievement, liberation through departure, the continuing journey
+
+dynamic_antagonism:
+  mechanism: The traveler's departure is experienced as ingratitude by the 9 of Cups; who would leave satisfaction? The wish-fulfillment seems to demand gratitude through remaining
+  tension_axis: Movement against satisfaction—the traveler must depart despite fulfillment
+  6_of_swords_position: Unable to remain satisfied, compelled to journey despite having achieved what was wished for
+  9_of_cups_position: Unable to understand why anyone would leave fulfilled wishes, unable to accept the departure
+  key_terms: The questioned gratitude, satisfaction insufficient, achievement transcended, restlessness
+
+dynamic_inhibition:
+  mechanism: The traveler remains in the satisfied state but with growing restlessness; the wish-fulfillment is present but feels incomplete; the departure is delayed
+  consequence: A state of frustrated satisfaction; the 9 of Cups is achieved but cannot be fully enjoyed because movement calls
+  spatial_logic: The traveler in the place of satisfied wishes but looking toward the horizon, unable to fully settle
+
+dynamic_devolution:
+  mechanism: The satisfaction becomes a prison; the 9 of Cups' achievement transforms into a cage; the traveler is trapped by fulfillment
+  corruption: The achieved wishes become weights; what was meant to bring happiness becomes an anchor; the satisfaction is corrupted
+  loss: Both the journey and the satisfaction are destroyed; the traveler remains trapped in unfulfilled fulfillment
+  key_terms: The trapped satisfaction, imprisoned achievement, corrupted wish, the enslaved fulfillment
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must honor the 9 of Cups' achievement even while departing; the 9 of Cups must understand that true satisfaction includes the freedom to seek more
+  integration: The traveler departs with gratitude for the achievement; the 9 of Cups releases understanding that fulfillment is dynamic not static
+  paradox: The deepest satisfaction is often that which includes the freedom to move beyond itself; the 9 of Cups is most truly fulfilled when willing to support the journey
+  outcome: The traveler departs blessed by the 9 of Cups' achievement; the satisfaction becomes a foundation for the crossing; the journey is entered with the strength of fulfilled wishes
+  key_terms: The honored achievement, blessed departure, liberated satisfaction, the continuing fulfillment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, 10 of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Harmonious Family, The Lasting Happiness, The Circle Complete, The Love Established
+numerical_relation: 6 + 10 = 16 (The Tower; the family circle disrupted by departure)
+elemental_bridge: Air's movement disrupting Water's family circle; the traveler and the home in tension
+threshold_type: The Family Member Who Must Depart—the crossing away from the family circle
+
+dynamic_genesis:
+  mechanism: The traveler recognizes that the family can continue without them; the circle remains intact even as one member departs; from this emerges the freedom to journey
+  process: The family understands that love includes the freedom for members to travel; the departure is blessed because the family's happiness is secure
+  outcome: A departure that honors the family; the circle remains whole; the traveler departs knowing that the love will travel with them
+  key_terms: The honored family, secure circle, blessed departure, love carries
+
+dynamic_antagonism:
+  mechanism: The traveler's departure threatens the 10 of Cups' family circle; the family feels broken by the departure; the happiness is shadowed
+  tension_axis: Individual journey against family obligation—the traveler must depart; the family needs the member to remain
+  6_of_swords_position: Unable to remain bound to the family, compelled to journey
+  10_of_cups_position: Unable to release the member, afraid that the circle is broken by departure
+  key_terms: The threatened circle, family broken, obligation resented, departure demanded
+
+dynamic_inhibition:
+  mechanism: The traveler remains with the family but is inwardly departed; the love is present but the traveler is absent; the family is incomplete
+  consequence: A family circle that is technically intact but spiritually fragmented; the love remains but is shadowed by the traveler's internal absence
+  spatial_logic: The traveler at the family table but looking toward the horizon, the presence divided
+
+dynamic_devolution:
+  mechanism: The traveler finally departs and the family is shattered; the circle breaks; the 10 of Cups' happiness is destroyed by the loss
+  corruption: The family never recovers from the departure; the love is poisoned by abandonment; the circle is permanently broken
+  loss: Both the traveler's journey and the family's happiness are destroyed by the bitterness of separation
+  key_terms: The shattered circle, broken family, poisoned love, destroyed happiness
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must honor the 10 of Cups' family even in departure; the 10 of Cups must understand that love includes the freedom to release members
+  integration: The traveler departs with the family's blessing; the circle remains intact because it is built on love strong enough to support distance
+  paradox: The strongest families are often those that can release members; the 10 of Cups is most truly whole when willing to support the crossing
+  outcome: The traveler departs blessed; the family remains intact; the love travels with the departing member; the circle is strengthened by the act of release
+  key_terms: The released blessing, honored family, intact circle, love across distance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, Page of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Emotional Messenger, The Innocent Seeker, The Wonder of Heart, The First Stirring of Feeling
+numerical_relation: 6 + Page = The traveler and the young emotional seeker moving in different rhythms
+elemental_bridge: Air's swift movement and Water's tender opening; the traveler and the young heart
+threshold_type: The Traveler Leaving the Young Heart—the departure from innocent seeking
+
+dynamic_genesis:
+  mechanism: The traveler recognizes that the Page of Cups' emotional seeking needs freedom to unfold; the departure becomes a blessing that allows the Page's emotional journey to begin
+  process: The traveler leaves room for the Page to discover their own emotional path; the crossing is an act of releasing the young heart
+  outcome: A departure that honors the Page's innocence; the young heart is freed to follow its own seeking; the traveler departs knowing that the Page will journey their own path
+  key_terms: The honored innocence, freed heart, the traveler's release, the page's freedom
+
+dynamic_antagonism:
+  mechanism: The traveler's departure threatens the Page of Cups' tender emotional opening; the young heart cannot unfold if the traveler leaves
+  tension_axis: Departure against unfolding—the traveler must leave; the Page's feeling is not yet fully formed
+  6_of_swords_position: Unable to remain for the Page's unfolding, compelled to journey
+  page_of_cups_position: Unable to accept the departure, unable to open emotionally without the traveler's presence
+  key_terms: The interrupted opening, abandoned seeker, feeling incomplete, departure unwanted
+
+dynamic_inhibition:
+  mechanism: The traveler remains for the Page's emotional unfolding but with hidden restlessness; the presence is given but not fully; the Page feels the incompleteness
+  consequence: An emotional opening that is shadowed by the traveler's internal absence; the Page's feeling never fully blooms because something is withheld
+  spatial_logic: The traveler and the Page together but the traveler's attention divided, the boat always in the distance
+
+dynamic_devolution:
+  mechanism: The traveler departs and the Page's emotional opening is arrested; the tender heart is wounded by the departure; the feeling dies
+  corruption: The Page's innocence is destroyed by the experience of abandonment; what should have been emotional opening becomes emotional closing
+  loss: Both the traveler's journey and the Page's emotional development are damaged by the separation
+  key_terms: The wounded innocence, arrested opening, corrupted feeling, the embittered page
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must honor the Page of Cups' emotional seeking even while departing; the Page must understand that the traveler's departure is a gift of freedom
+  integration: The traveler departs knowing that the Page will continue their emotional unfolding; the departure is a blessing that gives the Page room to grow
+  paradox: The deepest emotional development is often that which emerges when given freedom; the Page of Cups is most fully opened when allowed to journey their own seeking
+  outcome: The traveler departs with the Page's blessing; the Page begins their own emotional journey; the departure is revealed as essential to the unfolding
+  key_terms: The blessed release, freed feeling, honored seeking, the page's own journey
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, Knight of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Emotional Idealist, The Romantic Seeker, The Noble Heart, The Quest for True Love
+numerical_relation: 6 + Knight = 9 (Completion; the romantic quest and the journey aligned)
+elemental_bridge: Air carrying Water's quest; the traveler and the romantic moving in similar directions
+threshold_type: The Two Questers—the traveler and the romantic idealist moving toward similar goals
+
+dynamic_genesis:
+  mechanism: The traveler meets the Knight of Cups and recognizes that both are on quests, though different ones; from this recognition emerges a strange kinship and mutual support
+  process: The traveler and the Knight acknowledge each other's seeking; the crossing supports the romantic quest; the quest enriches the crossing
+  outcome: A companionship forged in mutual seeking; both travelers are strengthened; the journey and the quest are deepened by their alignment
+  key_terms: The kinship of seekers, mutual support, the enriched journey, quest strengthened
+
+dynamic_antagonism:
+  mechanism: The traveler's practical crossing clashes with the Knight's romantic idealism; the traveler cannot accept the Knight's faith in true love; the Knight cannot accept the traveler's pragmatism
+  tension_axis: Pragmatism against idealism—the traveler seeks safety; the Knight seeks love
+  6_of_swords_position: Unable to trust the Knight's romantic seeking, skeptical of the quest
+  knight_of_cups_position: Unable to accept the traveler's practicality, interpreting it as cynicism
+  key_terms: The skeptical traveler, idealist questioned, pragmatism vs romance, quest doubted
+
+dynamic_inhibition:
+  mechanism: The two move together but at odds; the traveler's pace is practical while the Knight's pace is determined by the heart; they journey together but incompletely
+  consequence: A journey that is divided; both seekers are weakened by the partnership because they pull in different directions emotionally
+  spatial_logic: The traveler and the Knight in the same boat but facing different emotional horizons
+
+dynamic_devolution:
+  mechanism: The partnership falls apart; the traveler leaves the Knight to continue the quest alone; the Knight is left embittered, believing the traveler did not believe in the quest
+  corruption: The romantic quest is poisoned by the loss of the practical companion; the journey is shadowed by abandonment
+  loss: Both the crossing and the quest are diminished by the separation; both seekers are alone
+  key_terms: The separated seekers, poisoned quest, lost companionship, diminished journeys
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must honor the Knight of Cups' romantic quest as valid; the Knight must honor the traveler's practical crossing as necessary
+  integration: The two move together with mutual respect; the practical support strengthens the quest and the romantic idealism enriches the practical crossing
+  paradox: The deepest quests often require both practical support and romantic idealism; the 6 of Swords and the Knight of Cups are most complete together
+  outcome: The travelers move together; the crossing supports the quest; the quest enriches the crossing; both arrive transformed by the partnership
+  key_terms: The united seekers, honored quest, supported journey, deepened seeking
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, Queen of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Mature Compassion, The Emotional Wisdom, The Nurturer's Heart, The Profound Empathy
+numerical_relation: 6 + Queen = 12 (The Hanged One; perspective required—how to balance compassion and necessary departure)
+elemental_bridge: Air's movement and Water's compassion seeking balance; the traveler and the healer
+threshold_type: The Compassionate Queen Releasing the Traveler—love learning to let go
+
+dynamic_genesis:
+  mechanism: The Queen of Cups blesses the traveler's departure with compassion; the understanding that healing sometimes requires the traveler to journey becomes wisdom
+  process: The Queen releases the traveler with a full heart; the compassion is expressed through the act of release; the traveler is sent with love
+  outcome: A departure that is honored by the one who cares most; the traveler's journey is blessed by profound compassion; the crossing is made with the Queen's love
+  key_terms: The compassionate release, honored journey, the traveler blessed, love expressed through freedom
+
+dynamic_antagonism:
+  mechanism: The Queen's compassion prevents the traveler's departure; the care is so profound that leaving feels like betrayal; the traveler cannot leave someone who loves so deeply
+  tension_axis: Care against freedom—the Queen wants to nurture; the traveler needs to journey
+  6_of_swords_position: Unable to leave despite the journey's call, held by the Queen's profound care
+  queen_of_cups_position: Unable to release despite understanding the traveler's need, unable to let go of the nurturing role
+  key_terms: The binding compassion, care preventing departure, freedom denied, held by love
+
+dynamic_inhibition:
+  mechanism: The traveler remains but with the knowledge that they should depart; the Queen holds with the knowledge that she should release; both are trapped in an impossible situation
+  consequence: A stalemate of love; the compassion becomes a cage; the care becomes imprisonment
+  spatial_logic: The traveler and the Queen locked in an embrace that neither can break, the boat visible but unreachable
+
+dynamic_devolution:
+  mechanism: The traveler finally breaks free but with violence; the Queen is wounded by the departure; the compassionate relationship becomes bitter
+  corruption: The Queen's compassion is poisoned by the sense of rejection; the traveler's compassion for the Queen prevents freedom
+  loss: Both the Queen's compassionate presence and the traveler's journey are destroyed by the trauma of separation
+  key_terms: The wounded compassion, rejected care, violent departure, poisoned love
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must honor the Queen of Cups' compassion even while departing; the Queen must understand that true compassion includes the freedom to release
+  integration: The Queen releases the traveler with the wisdom that compassion is expressed through freedom; the traveler honors the Queen through accepting the release
+  paradox: The deepest compassion is often that which lets go; the Queen of Cups is most truly nurturing when willing to support the traveler's departure
+  outcome: The Queen releases the traveler with her full compassion; the traveler accepts the release with gratitude; the compassion is honored through the journey
+  key_terms: The wise release, honored compassion, the traveler blessed, love released
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC
+
+---
+
+card_pair: 6 of Swords, King of Cups
+archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_cups: The Emotional Mastery, The Controlled Power, The Sovereign of Heart, The Wise Ruler of Feeling
+numerical_relation: 6 + King = 13 (Death/Transformation; the emotional authority and the traveler meeting as equals)
+elemental_bridge: Air and Water meeting in emotional sovereignty; the traveler and the emotional king
+threshold_type: The Emotional Sovereign Releasing the Traveler—authority learning wisdom
+
+dynamic_genesis:
+  mechanism: The King of Cups recognizes in the traveler a sovereignty equal to his own; the crossing is honored as a valid expression of the king's emotional wisdom
+  process: The King understands that true mastery includes the freedom for others to journey; the traveler is released as an act of the king's power
+  outcome: A departure that is blessed by emotional sovereignty; the traveler journeys with the King's full support; the crossing is made with royal authority behind it
+  key_terms: The royal blessing, honored sovereignty, the traveler released, mastery expressed through freedom
+
+dynamic_antagonism:
+  mechanism: The King's emotional authority prevents the traveler's departure; the rule cannot accept that any would leave; the traveler is bound by the king's control
+  tension_axis: Authority against freedom—the King seeks to rule; the traveler seeks autonomy
+  6_of_swords_position: Unable to depart while ruled by the King, constrained by authority
+  king_of_cups_position: Unable to release the traveler, unable to accept that sovereignty must include the freedom for others to choose
+  key_terms: The constraining authority, freedom denied, rule resisted, sovereignty questioned
+
+dynamic_inhibition:
+  mechanism: The traveler remains bound to the King but resentfully; the emotional mastery is maintained through control rather than wisdom; both are diminished
+  consequence: A kingdom where the traveler serves but does not freely follow; the mastery is technical but hollow; the authority is preserved but not honored
+  spatial_logic: The traveler and the King together but the traveler bound in invisible chains, the freedom visible but unattainable
+
+dynamic_devolution:
+  mechanism: The traveler openly rebels against the King; the emotional authority is challenged and overthrown; the kingdom is shattered
+  corruption: The mastery is revealed as control; the authority is destroyed by the refusal to release
+  loss: Both the King's rule and the traveler's freedom are destroyed in the conflict
+  key_terms: The shattered kingdom, destroyed authority, violent rebellion, mutual loss
+
+dynamic_dependency:
+  mechanism: The 6 of Swords must honor the King of Cups' mastery even while departing; the King must understand that true emotional authority includes the freedom to release
+  integration: The King releases the traveler with the wisdom that mastery is expressed through wisdom, not control; the traveler honors the King by accepting the release graciously
+  paradox: The deepest mastery is often that which can afford to release; the King of Cups is most truly sovereign when willing to support the traveler's departure
+  outcome: The King blesses the traveler's departure; the traveler honors the King through accepting the release; both are strengthened by the act of wisdom
+  key_terms: The wise release, honored mastery, the sovereign's strength, authority validated
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: Air + Water
+  numerical_axis: 6 of Swords (crossing, departure) to 14 Cups cards (emotional states and unions)
+  uid: SIOC

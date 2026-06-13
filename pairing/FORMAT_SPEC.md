@@ -87,7 +87,7 @@ structural_metadata:
 ```
 
 Field counts to memorize: genesis 4, antagonism 5, inhibition 5, devolution 4,
-dependency 5. If any dynamic section has only 2 fields, the block is in the old reduced
+dependency 4. If any dynamic section has only 2 fields, the block is in the old reduced
 format and is **wrong** (see §9).
 
 ---
@@ -140,7 +140,7 @@ II  The High Priestess      X    The Wheel of Fortune
 III The Empress             XI   Strength (La Force)
 IV  The Emperor             XII  The Hanged Man
 V   The Pope (Hierophant)   XIII (Death, unnamed arcanum)
-VI  The Lover(s)            XIV  Temperance
+VI  The Lovers              XIV  Temperance
 VII The Chariot             XV   The Devil
                             XVI  The Tower
                             XVII The Star
@@ -334,7 +334,7 @@ Per block:
 - [ ] All six header fields present; `card_pair` matches the two cards.
 - [ ] `archetype_swords` is verbatim from §6.
 - [ ] `numerical_relation`: addition is correct; Trump matches §4.1 (Marseille); gloss is concrete.
-- [ ] Five dynamics present with full field counts (4/5/5/4/5); each has `key_terms`.
+- [ ] Five dynamics present with full field counts (4/5/5/4/4); each has `key_terms`.
 - [ ] Antagonism uses the two cards' names as position labels (same-suit rule, §9).
 - [ ] No "becomes / is revealed as / teach each other" filler (§8).
 - [ ] `structural_metadata`: `format_version: 1.3`, `elemental_primary` per §5,
@@ -359,4 +359,29 @@ bump `format_version` to 1.3, commit per file or per card with a clear message.
 **Definition of done for the Swords suit:** all 13 numbered+court primary cards (2–King)
 × 4 target files = 52 files, every block spec-compliant (1.3), §11 passing.
 (The Ace of Swords primary is out of current scope unless requested.)
+```
+
+---
+
+## 13. The validator (`pairing/validate.py`)
+
+Most of §11 is mechanical. `validate.py` checks the parts a script can check, so the
+self-check by hand can focus on prose quality (§8), which it cannot.
+
+```
+python3 pairing/validate.py                 # all swords/*.txt
+python3 pairing/validate.py <file> ...       # specific files
+python3 pairing/validate.py --quiet          # errors only (drop the ✓ lines)
+```
+
+It verifies, per the rules above: 14 blocks in Ace→King order; required header fields;
+`numerical_relation` arithmetic, digit-reduction for sums >21, and the Marseille trump
+(§4.1); the five dynamics with field counts **4/5/5/4/4**; antagonism position labels
+(named `<card>_of_<suit>_position` for differing cards, `swords_position_1/_2` for a
+self-pairing, §9); and `structural_metadata` values (`format_version 1.3`,
+`elemental_primary` §5, `uid` §7). It does **not** judge prose — that stays human.
+
+Exit 0 = all checked files conformant; exit 1 = issues (printed per file/block). Run it
+before every commit, and use it as the normalization worklist: issue count per file maps
+to the §9 drift tiers (full-field files ~40; reduced-format files 250+).
 ```

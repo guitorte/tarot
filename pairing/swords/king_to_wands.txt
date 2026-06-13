@@ -351,7 +351,7 @@ structural_metadata:
 card_pair: King of Swords, 8 of Wands
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
-numerical_relation: 14 + 8 = 22 -> 2+2 = 4 (IV The Emperor; judgment governs velocity)
+numerical_relation: 14 + 8 = 22 → 2+2=4 (IV The Emperor; judgment governs velocity)
 elemental_bridge: Air's pause to deliberate meets Fire's momentum; the call to halt meets the arrows already loosed
 threshold_type: The rushing momentum brought before the judge; speed asked to confirm its target before flight
 
@@ -401,7 +401,7 @@ structural_metadata:
 card_pair: King of Swords, 9 of Wands
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
-numerical_relation: 14 + 9 = 23 -> 2+3 = 5 (V The Pope; judgment reads the battle-worn guardian)
+numerical_relation: 14 + 9 = 23 → 2+3=5 (V The Pope; judgment reads the battle-worn guardian)
 elemental_bridge: Air's fresh decree meets Fire's spent reserves; the order to hold again meets the exhausted guardian
 threshold_type: The weary guardian brought before the judge; tested endurance asked for one more stand
 
@@ -451,7 +451,7 @@ structural_metadata:
 card_pair: King of Swords, 10 of Wands
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
-numerical_relation: 14 + 10 = 24 -> 2+4 = 6 (VI The Lover(s); judgment sorts the burden)
+numerical_relation: 14 + 10 = 24 → 2+4=6 (VI The Lovers; judgment sorts the burden)
 elemental_bridge: Air's audit of the load meets Fire's crushing weight; the verdict to release meets the compulsion to carry
 threshold_type: The overloaded bearer brought before the judge; the burden asked what may be set down
 
@@ -501,7 +501,7 @@ structural_metadata:
 card_pair: King of Swords, Page of Wands
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
-numerical_relation: 14 + 11 = 25 -> 2+5 = 7 (VII The Chariot; judgment directs the eager spark)
+numerical_relation: 14 + 11 = 25 → 2+5=7 (VII The Chariot; judgment directs the eager spark)
 elemental_bridge: Air's imposed discipline meets Fire's untrained eagerness; the standard meets the spark that wants to chase everything
 threshold_type: The eager beginner brought before the master; raw fire asked to accept discipline
 
@@ -551,7 +551,7 @@ structural_metadata:
 card_pair: King of Swords, Knight of Wands
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
-numerical_relation: 14 + 12 = 26 -> 2+6 = 8 (VIII Justice; judgment reins the wild rider)
+numerical_relation: 14 + 12 = 26 → 2+6=8 (VIII Justice; judgment reins the wild rider)
 elemental_bridge: Air's vetting pause meets Fire's gallop; the demand to justify meets the rider already charging
 threshold_type: The bold adventure brought before the judge; daring asked to be vetted before the ride
 
@@ -601,7 +601,7 @@ structural_metadata:
 card_pair: King of Swords, Queen of Wands
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
-numerical_relation: 14 + 13 = 27 -> 2+7 = 9 (IX The Hermit; judgment meets magnetism)
+numerical_relation: 14 + 13 = 27 → 2+7=9 (IX The Hermit; judgment meets magnetism)
 elemental_bridge: Air's reasoned rule meets Fire's magnetism; the authority of principle meets the authority that draws a following
 threshold_type: Two authorities before the realm; the rule of reason meets the rule of charisma
 
@@ -651,7 +651,7 @@ structural_metadata:
 card_pair: King of Swords, King of Wands
 archetype_swords: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
 archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
-numerical_relation: 14 + 14 = 28 -> 2+8 = 10 (X The Wheel of Fortune; law meets visionary command)
+numerical_relation: 14 + 14 = 28 → 2+8=10 (X The Wheel of Fortune; law meets visionary command)
 elemental_bridge: Air's principle meets Fire's visionary drive; the rule of what is right meets the rule of what is possible
 threshold_type: Two kings, two thrones; principle and vision asked which leads the realm
 

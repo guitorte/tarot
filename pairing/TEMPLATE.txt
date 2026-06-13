@@ -1,7 +1,7 @@
 # SCAFFOLD — copy one block per pairing, replace every <...>, delete these comment lines.
 # Authoritative rules live in pairing/FORMAT_SPEC.md. Read it before using this.
 # 14 blocks per file, separated by a line containing only ---  (Ace -> King of target suit).
-# Field counts: genesis 4, antagonism 5, inhibition 5, devolution 4, dependency 5.
+# Field counts: genesis 4, antagonism 5, inhibition 5, devolution 4, dependency 4.
 # For *_to_swords.txt: use archetype_swords_2 for the second card; same-suit position
 # labels are swords_position_1 / swords_position_2 when a card meets itself.
 

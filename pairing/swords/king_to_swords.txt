@@ -14,8 +14,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King claims authority over the new clarity; the Ace asserts itself as independent
   tension_axis: Established judgment versus emergent truth; authority versus freshness
-  swords_position_1: Demands the new truth conform to established understanding
-  swords_position_2: Refuses to be made subordinate; insists its own authority
+  king_of_swords_position: Demands the new truth conform to established understanding
+  ace_of_swords_position: Refuses to be made subordinate; insists its own authority
   key_terms: authority tested, independence asserted, demanded conformity, resisted subordination
 
 dynamic_inhibition:
@@ -64,8 +64,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King demands decision; the 2 refuses the verdict
   tension_axis: Authority commanding movement versus protective paralysis
-  swords_position_1: Insists the paralysis cannot be maintained; demands chosen action
-  swords_position_2: Resists judgment; protects the binding agreement
+  king_of_swords_position: Insists the paralysis cannot be maintained; demands chosen action
+  two_of_swords_position: Resists judgment; protects the binding agreement
   key_terms: demanded decision, protected paralysis, resisted judgment, enforced choice
 
 dynamic_inhibition:
@@ -114,8 +114,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King would rationalize the sorrow; the 3 insists on feeling the wound
   tension_axis: Judgment seeking meaning versus raw pain; rationalization versus felt truth
-  swords_position_1: Tries to find understanding in the loss; intellectualizes the grief
-  swords_position_2: Demands that pain be felt, not explained
+  king_of_swords_position: Tries to find understanding in the loss; intellectualizes the grief
+  three_of_swords_position: Demands that pain be felt, not explained
   key_terms: demanded feeling, resisted explanation, raw grief, refused rationalization
 
 dynamic_inhibition:
@@ -164,8 +164,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King demands continued judgment; the 4 insists on cessation
   tension_axis: Authority requiring action versus stillness requiring absence
-  swords_position_1: Expects the 4 to rejoin engagement; views rest as evasion
-  swords_position_2: Refuses judgment's demands; requires complete disengagement
+  king_of_swords_position: Expects the 4 to rejoin engagement; views rest as evasion
+  four_of_swords_position: Refuses judgment's demands; requires complete disengagement
   key_terms: resisted rest, demanded engagement, enforced action, protected withdrawal
 
 dynamic_inhibition:
@@ -214,8 +214,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King claims the victory as just; the 5 insists it is hollow
   tension_axis: Authority validating the win versus truth of the cost; judgment versus lived experience
-  swords_position_1: Defends the victory as deserved; rationalizes the cost
-  swords_position_2: Refuses the King's interpretation; asserts the wound
+  king_of_swords_position: Defends the victory as deserved; rationalizes the cost
+  five_of_swords_position: Refuses the King's interpretation; asserts the wound
   key_terms: defended victory, asserted loss, refused rationalization, persistent wound
 
 dynamic_inhibition:
@@ -264,8 +264,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King would keep the 6 in counsel; the 6 must depart
   tension_axis: Authority desiring counsel versus the Traveler needing distance; staying versus going
-  swords_position_1: Seeks to keep the 6's wisdom in the kingdom; resists the departure
-  swords_position_2: Needs distance; refuses to remain subordinate
+  king_of_swords_position: Seeks to keep the 6's wisdom in the kingdom; resists the departure
+  six_of_swords_position: Needs distance; refuses to remain subordinate
   key_terms: resisted departure, desired counsel, refused subordination, necessary distance
 
 dynamic_inhibition:
@@ -314,8 +314,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King demands disclosure; the 7 insists on secrecy
   tension_axis: Authority seeking truth versus stealth protecting escape; transparency versus hidden strategy
-  swords_position_1: Pursues the full truth; demands the 7 explain itself
-  swords_position_2: Refuses full disclosure; protects the strategy
+  king_of_swords_position: Pursues the full truth; demands the 7 explain itself
+  seven_of_swords_position: Refuses full disclosure; protects the strategy
   key_terms: pursued truth, protected secret, demanded disclosure, guarded strategy
 
 dynamic_inhibition:
@@ -364,8 +364,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King offers freedom; the 8 clings to the familiar bonds
   tension_axis: Authority commanding liberation versus fear of the unknown
-  swords_position_1: Demands the 8 break free; impatient with the terror of releasing bonds
-  swords_position_2: Terrified of freedom; defends the chains as safety
+  king_of_swords_position: Demands the 8 break free; impatient with the terror of releasing bonds
+  eight_of_swords_position: Terrified of freedom; defends the chains as safety
   key_terms: demanded freedom, defended chains, impatient authority, protective bondage
 
 dynamic_inhibition:
@@ -414,8 +414,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King tries to logic away the 9's despair; the 9 insists the anguish is real
   tension_axis: Rational authority versus felt infinity; logic versus lived torment
-  swords_position_1: Offers rational solutions; insists the nightmare is solvable
-  swords_position_2: Refuses rationality; demands the anguish be felt as infinite
+  king_of_swords_position: Offers rational solutions; insists the nightmare is solvable
+  nine_of_swords_position: Refuses rationality; demands the anguish be felt as infinite
   key_terms: offered solutions, refused logic, insisted infinity, unresolved torment
 
 dynamic_inhibition:
@@ -464,8 +464,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King tries to reverse the 10's ruin; the 10 insists the end is absolute
   tension_axis: Authority seeking recovery versus the finality of defeat
-  swords_position_1: Refuses to accept the ending; seeks to undo the devastation
-  swords_position_2: Asserts the absoluteness of the ruin; will not be salvaged
+  king_of_swords_position: Refuses to accept the ending; seeks to undo the devastation
+  ten_of_swords_position: Asserts the absoluteness of the ruin; will not be salvaged
   key_terms: refused ending, asserted finality, rejected recovery, absolute devastation
 
 dynamic_inhibition:
@@ -514,8 +514,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King doubts the Page's message; the Page insists on its validity
   tension_axis: Authority questioning the announcement versus the Messenger asserting truth
-  swords_position_1: Cross-examines the Page's word; demands verification
-  swords_position_2: Refuses to be interrogated; insists the message speaks itself
+  king_of_swords_position: Cross-examines the Page's word; demands verification
+  page_of_swords_position: Refuses to be interrogated; insists the message speaks itself
   key_terms: cross-examined message, asserted truth, demanded verification, refused interrogation
 
 dynamic_inhibition:
@@ -564,8 +564,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King would contain the Knight's pursuit; the Knight refuses constraint
   tension_axis: Authority seeking to direct the quest versus the Seeker's need for freedom
-  swords_position_1: Tries to bound the Knight to the Crown's vision; demands the pursuit serve the throne
-  swords_position_2: Refuses to be contained; insists on independent pursuit
+  king_of_swords_position: Tries to bound the Knight to the Crown's vision; demands the pursuit serve the throne
+  knight_of_swords_position: Refuses to be contained; insists on independent pursuit
   key_terms: demanded service, refused constraint, enforced direction, independent quest
 
 dynamic_inhibition:
@@ -614,8 +614,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The King asserts supremacy; the Queen refuses subordination
   tension_axis: One throne refusing another's equal standing; authority versus equal authority
-  swords_position_1: Claims primacy; expects the Queen to yield to the Crown
-  swords_position_2: Asserts equality; refuses to be made secondary
+  king_of_swords_position: Claims primacy; expects the Queen to yield to the Crown
+  queen_of_swords_position: Asserts equality; refuses to be made secondary
   key_terms: claimed primacy, asserted equality, refused subordination, contested supremacy
 
 dynamic_inhibition:

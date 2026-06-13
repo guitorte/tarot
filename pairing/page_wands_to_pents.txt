@@ -1,0 +1,647 @@
+card_pair: Page of Wands, Ace of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: Page-1 (Young enthusiasm manifesting material opportunity; youthful spark grounding potential)
+elemental_bridge: Fire youthful energy materializing into earth practical form; enthusiasm becoming tangible result
+threshold_type: The excited novice; material beginning encountered with youthful enthusiasm
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm attracts material opportunity; spark catalyzes manifestation
+  process: Excited discovery of practical potential; enthusiasm grounds nascent opportunity
+  outcome: Opportunity gains energetic momentum from youthful spark; manifestation emerges with excitement
+  key_terms: enthused manifestation, excited opportunity, youthful potential, sparking beginning
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm demands immediate action; manifestation requires patient grounding
+  tension_axis: Quick excited action versus patient establishment; spark-intensity versus steady building
+  wands_position: Acts excitedly on potential; wants immediate results
+  pentacles_position: Builds foundation methodically; requires patience
+  key_terms: excited action versus patience, quick versus steady, intensity versus deliberation, immediate versus gradual
+
+dynamic_inhibition:
+  mechanism: Impatient enthusiasm prevents patient grounding; excitement prevents stable emergence
+  blockade_nature: The rush to act prevents proper settling; enthusiasm prevents foundation establishment
+  wands_state: Enthusiasm becomes destructive rushing; spark transforms into chaotic energy
+  consequence: Manifestation cannot stabilize; opportunity dissolves from hasty action
+  key_terms: chaotic manifestation, hasty emergence, dissolved opportunity, prevented grounding
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms manifestation into destructive haste; spark corrupts into reckless action
+  mode: Excited potential becomes reckless groundedness-breaking; youthful energy becomes destructive chaos
+  loss: Authentic manifestation replaced by reckless haste; genuine opportunity becomes chaotic failure
+  key_terms: reckless haste, chaotic failure, destructive energy, corrupted enthusiasm
+
+dynamic_dependency:
+  mechanism: Enthusiasm without grounding becomes ephemeral spark; manifestation without excitement becomes dull
+  function: Pentacles provide grounding that channels youthful energy productively; wands provide spark that prevents manifestation dullness
+  integration_outcome: Enthusiasm becomes grounded in material form; spark enables excited emergence
+  key_terms: grounded enthusiasm, excited manifestation, energized foundation, integrated potential
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, 2 of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Exchange, flow, balance, reciprocity, cyclical adaptation
+numerical_relation: Page-2 (Youthful energy accelerating circulation; enthusiasm enabling adaptive flow)
+elemental_bridge: Fire youthful momentum powering earth fluid circulation; excitement enabling dynamic exchange
+threshold_type: The excited marketplace; youthful enthusiasm meeting mercantile flow
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm accelerates exchange; spark catalyzes circulation flow
+  process: Excited communication facilitates rapid trading; enthusiasm enables dynamic exchange
+  outcome: Circulation gains momentum from youthful spark; flow benefits from excited energy
+  key_terms: excited circulation, enthusiastic exchange, youthful momentum, sparking flow
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm demands constant novelty; circulation requires stable cyclical rhythm
+  tension_axis: Excitement of constant newness versus reliable circulation patterns; novelty-seeking versus cyclical consistency
+  wands_position: Seeks novelty and change; gets bored with repetition
+  pentacles_position: Maintains cyclical rhythm; requires consistent patterns
+  key_terms: novelty versus consistency, change versus rhythm, excitement versus pattern, boredom resistance
+
+dynamic_inhibition:
+  mechanism: Constant novelty-seeking prevents stable circulation; enthusiasm disrupts cyclical patterns
+  blockade_nature: The need for novelty prevents settling into rhythm; excitement prevents pattern establishment
+  wands_state: Enthusiasm becomes scattered excitement; spark transforms into chaotic energy-hopping
+  consequence: Circulation becomes unstable from constant disruption; flow cannot establish rhythm
+  key_terms: chaotic circulation, disrupted rhythm, scattered flow, prevented patterns
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms circulation into chaotic novelty-chasing; flow corrupts into addiction
+  mode: Exchange becomes novelty-addiction; circulation becomes excitement-dependence
+  loss: Authentic circulation replaced by chaotic novelty-seeking; genuine flow becomes addiction
+  key_terms: novelty addiction, chaotic exchange, excitement dependence, corrupted circulation
+
+dynamic_dependency:
+  mechanism: Enthusiasm without circulation becomes ephemeral spark; circulation without excitement becomes stagnant
+  function: Pentacles provide circulation rhythm that channels youthful energy sustainably; wands provide spark that prevents flow stagnation
+  integration_outcome: Enthusiasm becomes channeled through circulation; flow gains youthful momentum
+  key_terms: channeled enthusiasm, momentous flow, excited circulation, integrated exchange
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, 3 of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Craftsmanship, collaboration, skill, mastery, tangible creation
+numerical_relation: Page-3 (Youthful enthusiasm energizing collaboration; spark animating collective creation)
+elemental_bridge: Fire youthful energy animating earth collaborative work; excitement enabling shared creation
+threshold_type: The eager apprentice; youthful enthusiasm joining collaborative mastery
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm energizes collaborative effort; spark animates shared mastery
+  process: Excited participation catalyzes team energy; enthusiasm deepens collaborative bonds
+  outcome: Collaboration gains momentum from youthful spark; creation benefits from excited participation
+  key_terms: energized collaboration, enthusiastic mastery, youthful participation, sparking teamwork
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm demands immediate full participation; craftsmanship requires patient skill development
+  tension_axis: Eager immediate participation versus patient learning; enthusiasm rush versus methodical development
+  wands_position: Wants immediate full participation and visibility; gets impatient with learning pace
+  pentacles_position: Emphasizes patient skill development; requires dedicated learning time
+  key_terms: eagerness versus patience, immediate versus learning, participation versus development, visible versus focused
+
+dynamic_inhibition:
+  mechanism: Impatient enthusiasm prevents patient skill development; eager participation prevents focused learning
+  blockade_nature: The rush to participate prevents dedicated practice; excitement prevents mastery progression
+  wands_state: Enthusiasm becomes destructive rushing; spark transforms into scattered energy
+  consequence: Craftsmanship stagnates from impatient participation; mastery cannot develop
+  key_terms: scattered participation, prevented mastery, impatient learning, blocked development
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms collaboration into chaotic disruption; spark corrupts into destructive energy
+  mode: Participation becomes chaotic interference; teamwork becomes excitement-driven disruption
+  loss: Authentic collaboration replaced by chaotic energy; genuine mastery becomes disrupted chaos
+  key_terms: chaotic disruption, destructive energy, interference participation, corrupted collaboration
+
+dynamic_dependency:
+  mechanism: Enthusiasm without collaborative grounding becomes ephemeral spark; collaboration without enthusiasm becomes dull
+  function: Pentacles provide collaborative structure that channels youthful energy productively; wands provide spark that energizes teamwork
+  integration_outcome: Enthusiasm becomes channeled through collaboration; teamwork gains youthful momentum
+  key_terms: channeled enthusiasm, energized collaboration, excited mastery, integrated teamwork
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, 4 of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Conservation, security, control, stability, fortress
+numerical_relation: Page-4 (Youthful energy testing fortress; excitement challenging conservative control)
+elemental_bridge: Fire youthful exuberance pressing against earth defensive walls; enthusiasm testing security
+threshold_type: The impatient novice; youthful energy encountering protective constraint
+
+dynamic_genesis:
+  mechanism: Youthful energy tests fortress strength; spark validates security through pressure
+  process: Enthusiastic exploration tests defensive boundaries; energy reveals fortress reliability
+  outcome: Security gains confidence through tested youthful challenge; fortress proves strength
+  key_terms: tested security, tested enthusiasm, validated fortress, strength-proven defense
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm demands freedom and exploration; fortress requires constraint and control
+  tension_axis: Free exploration versus protective closure; excitement openness versus defensive walls
+  wands_position: Wants to explore and break free; resists constraint
+  pentacles_position: Maintains protective boundaries; controls through conservation
+  key_terms: exploration versus constraint, freedom versus walls, openness versus control, expansion versus conservation
+
+dynamic_inhibition:
+  mechanism: Protective walls prevent youthful exploration; fortress confinement stifles energy
+  blockade_nature: The walls prevent necessary exploration; constraints suffocate enthusiasm
+  wands_state: Enthusiasm becomes frustrated energy; spark transforms into restless captivity
+  consequence: Youthful potential stagnates from confinement; energy cannot develop
+  key_terms: frustrated energy, captive enthusiasm, stagnant potential, prevented exploration
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms fortress into oppressive confinement; spark corrupts into destructive rebellion
+  mode: Security becomes prison; energy becomes destructive escape attempt
+  loss: Authentic enthusiasm replaced by rebellious destruction; genuine security becomes oppressive cage
+  key_terms: destructive rebellion, oppressive confinement, defiant energy, corrupted security
+
+dynamic_dependency:
+  mechanism: Enthusiasm without structure becomes chaotic wildness; fortress without energizing spark becomes stagnant
+  function: Pentacles provide structure that channels youthful energy safely; wands provide spark that prevents fortress calcification
+  integration_outcome: Enthusiasm becomes channeled within secure boundaries; fortress gains vital energy
+  key_terms: channeled enthusiasm, vital security, energized boundaries, integrated structure
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, 5 of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Deprivation, loss, hardship, exclusion, material scarcity
+numerical_relation: Page-5 (Youthful hope amid hardship; enthusiasm persisting through deprivation)
+elemental_bridge: Fire youthful optimism encountering earth material scarcity; enthusiasm tested by hardship
+threshold_type: The hopeful youth; youthful spirit amid material difficulty
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm sustains hope through hardship; spark provides light amid darkness
+  process: Excited potential maintains survival hope; enthusiasm resists despair
+  outcome: Hardship becomes survivable through youthful hope; deprivation cannot extinguish spark
+  key_terms: hopeful enthusiasm, sustaining spark, resilient youth, persistent potential
+
+dynamic_antagonism:
+  mechanism: Youthful optimism denies hardship reality; deprivation demands accepting material limitation
+  tension_axis: Denial optimism versus realistic acceptance; enthusiasm fantasy versus practical limitation
+  wands_position: Maintains optimism and enthusiasm; denies hardship severity
+  pentacles_position: Accepts limitation reality; acknowledges material constraint
+  key_terms: denial versus acceptance, optimism versus realism, enthusiasm versus limitation, hope versus reality
+
+dynamic_inhibition:
+  mechanism: Denial of hardship prevents pragmatic adaptation; enthusiasm prevents necessary reality-facing
+  blockade_nature: The optimism prevents adaptation action; enthusiasm denies necessary response
+  wands_state: Enthusiasm becomes unhelpful fantasy; spark transforms into escapist denial
+  consequence: Hardship worsens from denied reality; deprivation becomes unchallenged
+  key_terms: unhelpful fantasy, escapist denial, worsened hardship, prevented adaptation
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms deprivation into cruel mockery; spark corrupts into callous denial
+  mode: Youthful optimism becomes cruel to the suffering; enthusiasm becomes insensitive indifference
+  loss: Authentic hope replaced by callous denial; genuine optimism becomes cruel indifference
+  key_terms: callous denial, cruel mockery, insensitive indifference, corrupted enthusiasm
+
+dynamic_dependency:
+  mechanism: Enthusiasm without material grounding becomes empty denial; deprivation without hope becomes despair
+  function: Pentacles ground enthusiasm in material reality; wands provide hope that prevents despair
+  integration_outcome: Enthusiasm becomes realistic hope; spark sustains through hardship
+  key_terms: realistic hope, sustaining enthusiasm, grounded optimism, integrated resilience
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, 6 of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Generosity, reciprocal exchange, sharing, equity, mutual support
+numerical_relation: Page-6 (Youthful generosity; enthusiasm enabling reciprocal sharing)
+elemental_bridge: Fire youthful energy materializing as earth generous giving; enthusiasm enabling reciprocal exchange
+threshold_type: The generous youth; enthusiasm expressed through shared generosity
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm generates generous impulse; spark catalyzes reciprocal sharing
+  process: Excited discovery prompts spontaneous giving; enthusiasm enables open exchange
+  outcome: Generosity benefits from youthful spark; reciprocity becomes energized through excited participation
+  key_terms: generous enthusiasm, excited sharing, youthful reciprocity, sparking exchange
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm gives impulsively; generosity requires thoughtful equitable distribution
+  tension_axis: Impulsive giving versus careful equity; spontaneous enthusiasm versus measured fairness
+  wands_position: Gives enthusiastically and impulsively; wants immediate giving gratification
+  pentacles_position: Distributes carefully and equitably; requires measured approach
+  key_terms: impulsive versus measured, immediate versus careful, enthusiasm versus equity, spontaneous versus planned
+
+dynamic_inhibition:
+  mechanism: Impulsive giving prevents fair distribution; enthusiastic impulse creates inequitable exchange
+  blockade_nature: The rush to give prevents fair consideration; enthusiasm prevents equity-checking
+  wands_state: Enthusiasm becomes indiscriminate giving; spark transforms into scattered distribution
+  consequence: Fairness deteriorates from impulsive action; equity cannot be maintained
+  key_terms: indiscriminate giving, scattered distribution, lost equity, prevented fairness
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms generosity into chaotic scattering; spark corrupts into wasteful excess
+  mode: Impulsive giving becomes reckless waste; enthusiasm becomes thoughtless distribution
+  loss: Authentic generosity replaced by chaotic scattering; genuine sharing becomes wasteful excess
+  key_terms: chaotic scattering, wasteful excess, reckless giving, corrupted generosity
+
+dynamic_dependency:
+  mechanism: Enthusiasm without fair structure becomes chaotic scattering; generosity without enthusiasm becomes dull
+  function: Pentacles provide fair framework that channels youthful energy into equitable sharing; wands provide spark that energizes generosity
+  integration_outcome: Enthusiasm becomes channeled through equitable sharing; generosity gains youthful momentum
+  key_terms: channeled enthusiasm, fair sharing, energized generosity, integrated exchange
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, 7 of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Assessment, investment evaluation, patient cultivation, growth monitoring
+numerical_relation: Page-7 (Youthful enthusiasm suspended for assessment; excitement interrupted for evaluation)
+elemental_bridge: Fire youthful energy paused by earth reflective examination; enthusiasm momentarily halted
+threshold_type: The assessed potential; youthful spark examined for genuine value
+
+dynamic_genesis:
+  mechanism: Assessment validates youthful enthusiasm authenticity; evaluation proves spark genuine
+  process: Excited potential examined and found authentic; assessment confirms enthusiasm worth
+  outcome: Enthusiasm gains confidence through validated assessment; spark becomes authenticated
+  key_terms: validated enthusiasm, proven spark, authenticated potential, confident energy
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm demands immediate action; assessment requires reflective pause
+  tension_axis: Eager action versus reflective examination; excitement push versus evaluative distance
+  wands_position: Wants to act immediately; resists evaluative pause
+  pentacles_position: Requires pause for honest assessment; demands evaluation before advancement
+  key_terms: action versus reflection, immediate versus pause, enthusiasm versus evaluation, momentum versus examination
+
+dynamic_inhibition:
+  mechanism: Assessment pause disrupts enthusiasm momentum; evaluation becomes endless self-doubt
+  blockade_nature: The pause paralyzes energy momentum; evaluation prevents action resumption
+  wands_state: Enthusiasm becomes stalled potential; spark transforms into stuck questioning
+  consequence: Action stagnates from evaluation delay; energy cannot resume momentum
+  key_terms: stalled potential, stuck questioning, prevented action, blocked momentum
+
+dynamic_devolution:
+  mechanism: Assessment becomes harsh judgment of potential; evaluation corrupts into cruel criticism
+  mode: Evaluation becomes weapon against youthful enthusiasm; scrutiny becomes contemptuous dismissal
+  loss: Authentic enthusiasm replaced by harsh judgment; genuine spark becomes self-contempt
+  key_terms: harsh judgment, self-contempt, cruel criticism, corrupted assessment
+
+dynamic_dependency:
+  mechanism: Enthusiasm without assessment becomes blind rushing; assessment without enthusiasm becomes sterile observation
+  function: Pentacles provide evaluation that validates or directs enthusiasm; wands provide spark that animates assessment
+  integration_outcome: Enthusiasm becomes validated through assessment; spark proves itself genuine through examination
+  key_terms: validated enthusiasm, genuine spark, confirmed potential, integrated assessment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, 8 of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Mastery, skill development, focused practice, refinement, expertise
+numerical_relation: Page-8 (Youthful enthusiasm accelerating skill development; excitement enabling rapid learning)
+elemental_bridge: Fire youthful energy intensifying earth practiced focus; enthusiasm enabling quick mastery
+threshold_type: The eager learner; youthful enthusiasm in intensive skill development
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm accelerates learning pace; spark catalyzes rapid skill acquisition
+  process: Excited energy intensifies practice focus; enthusiasm enables quick progression
+  outcome: Learning benefits from youthful momentum; mastery develops rapidly through excited participation
+  key_terms: accelerated mastery, enthusiastic learning, rapid skill-development, sparked progress
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm seeks novelty and variety; mastery requires narrow focused dedication
+  tension_axis: Excitement variety-seeking versus specialized focus; broad enthusiasm versus deep expertise
+  wands_position: Gets excited by novelty; resists narrow specialization
+  pentacles_position: Requires focused dedication to single skill; needs undivided concentration
+  key_terms: novelty versus focus, variety versus specialization, broad versus deep, excitement versus dedication
+
+dynamic_inhibition:
+  mechanism: Novelty-seeking prevents focused skill development; excitement prevents specialization discipline
+  blockade_nature: The need for variety prevents dedicated focus; enthusiasm disrupts practice consistency
+  wands_state: Enthusiasm becomes scattered learning; spark transforms into chaotic skill-hopping
+  consequence: Mastery stagnates from unfocused effort; expertise cannot develop
+  key_terms: scattered learning, chaotic mastery, unfocused expertise, prevented specialization
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms learning into chaotic novelty-chasing; spark corrupts into compulsive skill-collection
+  mode: Mastery becomes addiction to learning novelty; practice becomes excitement-dependent
+  loss: Authentic learning replaced by chaotic collection; genuine mastery becomes scattered dabbling
+  key_terms: chaotic collection, scattered dabbling, novelty addiction, corrupted learning
+
+dynamic_dependency:
+  mechanism: Enthusiasm without focused practice becomes ephemeral spark-hopping; mastery without enthusiasm becomes dull
+  function: Pentacles provide focused discipline that channels youthful energy into mastery; wands provide spark that energizes practice
+  integration_outcome: Enthusiasm becomes channeled into focused mastery; practice gains youthful momentum
+  key_terms: focused enthusiasm, energized practice, sparked mastery, integrated learning
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, 9 of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Abundance, luxury, independence, sovereignty, material security
+numerical_relation: Page-9 (Youthful energy achieving abundance; enthusiasm building independence)
+elemental_bridge: Fire youthful momentum manifesting into earth material security; excitement building wealth
+threshold_type: The prosperous youth; youthful achievement accumulating into material independence
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm attracts and builds material abundance; spark catalyzes wealth accumulation
+  process: Excited energy generates productive momentum; enthusiasm drives material success
+  outcome: Abundance emerges from youthful momentum; independence achieves through excited effort
+  key_terms: abundant enthusiasm, successful youth, wealth-building energy, sparked prosperity
+
+dynamic_antagonism:
+  mechanism: Youthful excitement seeks continuous growth and challenge; abundance seeks peaceful enjoyment
+  tension_axis: Excitement momentum-seeking versus peaceful rest; continuous striving versus secure possession
+  wands_position: Seeks continuous growth and advancement; wants to keep achieving
+  pentacles_position: Wants to enjoy quiet independence; resists continuous drive
+  key_terms: continuous versus rest, achievement versus enjoyment, momentum versus peace, striving versus possession
+
+dynamic_inhibition:
+  mechanism: Achievement obsession prevents peaceful enjoyment; continuous momentum disrupts luxury appreciation
+  blockade_nature: The drive for more prevents settling into abundance; enthusiasm prevents rest
+  wands_state: Enthusiasm becomes compulsive achievement; spark transforms into restless hunger
+  consequence: Abundance cannot be enjoyed; independence feels threatened by need for more
+  key_terms: threatened abundance, restless hunger, prevented enjoyment, compulsive achievement
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms abundance into obsessive accumulation; spark corrupts into greedy hunger
+  mode: Wealth becomes tool for continuous achievement-seeking; independence becomes slavery to advancement
+  loss: Authentic abundance replaced by compulsive hunger; genuine independence becomes obsessive striving
+  key_terms: obsessive accumulation, greedy hunger, compulsive advancement, corrupted abundance
+
+dynamic_dependency:
+  mechanism: Enthusiasm without material grounding becomes ephemeral excitement; abundance without youthful energy becomes stagnant
+  function: Pentacles provide material foundation that channels youthful energy into lasting wealth; wands provide spark that energizes abundance
+  integration_outcome: Enthusiasm becomes grounded in material success; spark builds lasting independence
+  key_terms: grounded enthusiasm, lasting abundance, energized independence, integrated prosperity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, 10 of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Legacy, inheritance, dynasty, generational wealth, ancestral foundation
+numerical_relation: Page-10 (Youthful enthusiasm inheriting dynasty; spark receiving ancestral foundation)
+elemental_bridge: Fire youthful energy receiving earth ancestral wealth; enthusiasm inheriting legacy
+threshold_type: The enthusiastic heir; youthful spirit receiving generational responsibility
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm activates inherited legacy; spark energizes ancestral foundation
+  process: Excited youth inherits and energizes dynasty; enthusiasm brings new life to inheritance
+  outcome: Legacy gains youthful momentum through inherited spark; dynasty receives new vitality
+  key_terms: energized legacy, youthful dynasty, sparked inheritance, vital ancestry
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm demands change and innovation; legacy requires respecting ancestral continuity
+  tension_axis: Excited change-seeking versus ancestral tradition; innovation enthusiasm versus heritage preservation
+  wands_position: Wants to change and innovate inherited structure; seeks new directions
+  pentacles_position: Maintains ancestral tradition; requires preserving inherited ways
+  key_terms: innovation versus tradition, change versus preservation, new versus ancestral, enthusiasm versus respect
+
+dynamic_inhibition:
+  mechanism: Innovation impulse disrupts ancestral transmission; enthusiasm prevents traditional consolidation
+  blockade_nature: The drive to change prevents tradition maintenance; enthusiasm disrupts legacy preservation
+  wands_state: Enthusiasm becomes destructive rebellion against tradition; spark transforms into generational rupture
+  consequence: Legacy fragments from unwanted change; dynasty fractures from enthusiasm-driven disruption
+  key_terms: destructive innovation, generational rupture, fractured legacy, prevented tradition
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms legacy into chaotic rejection; spark corrupts into ancestral destruction
+  mode: Inherited foundation becomes tool for destructive change; enthusiasm becomes rebellion weapon
+  loss: Authentic inheritance replaced by chaotic rejection; genuine legacy becomes destroyed heritage
+  key_terms: chaotic rejection, destroyed heritage, ancestral destruction, corrupted innovation
+
+dynamic_dependency:
+  mechanism: Enthusiasm without ancestral grounding becomes ephemeral spark; legacy without youthful energy becomes ossified
+  function: Pentacles provide ancestral foundation that channels youthful energy creatively; wands provide spark that prevents legacy ossification
+  integration_outcome: Enthusiasm becomes creative expression of inherited legacy; spark revitalizes ancestral foundation
+  key_terms: creative inheritance, revitalized legacy, sparked tradition, integrated dynasty
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, Knight of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Diligence, reliability, cautious service, methodical dedication, trustworthy action
+numerical_relation: Page-Knight (Youthful enthusiasm supporting dedicated service; excitement enabling reliable work)
+elemental_bridge: Fire youthful energy motivating earth steady service; enthusiasm enabling faithful work
+threshold_type: The enthusiastic apprentice; youthful spark empowering methodical service
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm energizes service commitment; spark catalyzes dedicated work
+  process: Excited participation strengthens reliable effort; enthusiasm deepens devotion
+  outcome: Service benefits from youthful momentum; dedication receives energized support
+  key_terms: energized service, enthusiastic dedication, sparked commitment, vital reliability
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm seeks variety and novelty; service requires steady methodical repetition
+  tension_axis: Excitement novelty-seeking versus steady routine; enthusiasm variety versus service consistency
+  wands_position: Gets bored with repetition; wants variety and change
+  pentacles_position: Maintains steady routine; requires consistent dedication
+  key_terms: novelty versus routine, variety versus consistency, excitement versus steadiness, change versus repetition
+
+dynamic_inhibition:
+  mechanism: Boredom with routine prevents committed service; enthusiasm-need for novelty disrupts dedication
+  blockade_nature: The need for variety prevents routine maintenance; excitement disrupts methodical focus
+  wands_state: Enthusiasm becomes restless dissatisfaction; spark transforms into flighty energy
+  consequence: Service stagnates from disrupted focus; dedication becomes inconsistent
+  key_terms: inconsistent service, restless dissatisfaction, disrupted focus, prevented dedication
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms service into chaotic disruption; spark corrupts into irresponsible abandonment
+  mode: Service becomes interrupted by novelty-seeking; dedication becomes abandoned for excitement
+  loss: Authentic service replaced by chaotic disruption; genuine reliability becomes flighty abandonment
+  key_terms: chaotic disruption, flighty abandonment, irresponsible energy, corrupted service
+
+dynamic_dependency:
+  mechanism: Enthusiasm without service grounding becomes ephemeral spark; service without enthusiasm becomes dull
+  function: Pentacles provide service structure that channels youthful energy into reliable work; wands provide spark that energizes dedication
+  integration_outcome: Enthusiasm becomes channeled into steadfast service; spark energizes faithful work
+  key_terms: channeled enthusiasm, energized service, sparked dedication, integrated reliability
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, Queen of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Nurturing mastery, generous abundance, grounded care, domestic sovereignty
+numerical_relation: Page-Queen (Youthful enthusiasm supporting nurturing care; excitement enabling generous provision)
+elemental_bridge: Fire youthful energy motivating earth nurturing care; enthusiasm enabling generous work
+threshold_type: The enthusiastic caregiver; youthful spark empowering nurturing generosity
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm energizes nurturing effort; spark catalyzes generous care
+  process: Excited participation strengthens caring commitment; enthusiasm deepens compassion
+  outcome: Care benefits from youthful momentum; nurturing receives energized support
+  key_terms: energized care, enthusiastic nurturing, sparked generosity, vital compassion
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm seeks novelty and change; nurturing requires consistent patient presence
+  tension_axis: Excitement variety-seeking versus steady presence; enthusiasm novelty versus patient care
+  wands_position: Gets restless with care routine; seeks excitement and change
+  pentacles_position: Maintains steady presence; requires consistent dedication
+  key_terms: novelty versus presence, variety versus consistency, excitement versus steadiness, change versus commitment
+
+dynamic_inhibition:
+  mechanism: Boredom with care routine prevents consistent nurturing; enthusiasm-need for novelty disrupts presence
+  blockade_nature: The need for variety prevents sustained presence; excitement disrupts nurturing focus
+  wands_state: Enthusiasm becomes restless dissatisfaction; spark transforms into flighty caregiving
+  consequence: Care becomes inconsistent from disrupted presence; nurturing stagnates
+  key_terms: inconsistent care, restless caregiving, disrupted presence, prevented nurturing
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms care into chaotic disruption; spark corrupts into irresponsible abandonment
+  mode: Nurturing becomes interrupted by novelty-seeking; care becomes abandoned for excitement
+  loss: Authentic care replaced by chaotic disruption; genuine nurturing becomes flighty abandonment
+  key_terms: chaotic disruption, flighty abandonment, irresponsible energy, corrupted care
+
+dynamic_dependency:
+  mechanism: Enthusiasm without nurturing grounding becomes ephemeral spark; care without enthusiasm becomes dull
+  function: Pentacles provide nurturing context that channels youthful energy into caring work; wands provide spark that energizes generosity
+  integration_outcome: Enthusiasm becomes channeled into patient care; spark energizes generous nurturing
+  key_terms: channeled enthusiasm, energized care, sparked nurturing, integrated generosity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW
+
+---
+
+card_pair: Page of Wands, King of Pentacles
+archetype_wands: Enthusiasm, potential, energy, adventure, spark, youthful excitement
+archetype_pentacles: Mastery authority, material sovereignty, grounded leadership, established dominion
+numerical_relation: Page-King (Youthful enthusiasm supporting sovereign authority; spark enabling leadership)
+elemental_bridge: Fire youthful energy motivating earth sovereign leadership; enthusiasm enabling authoritative work
+threshold_type: The ambitious youth; youthful spark encountering established authority
+
+dynamic_genesis:
+  mechanism: Youthful enthusiasm energizes leadership capacity; spark catalyzes emerging authority
+  process: Excited participation strengthens leadership presence; enthusiasm deepens authority confidence
+  outcome: Leadership gains momentum from youthful spark; authority receives energized support
+  key_terms: energized authority, enthusiastic leadership, sparked dominion, vital confidence
+
+dynamic_antagonism:
+  mechanism: Youthful enthusiasm seeks to challenge and change authority; sovereignty requires maintaining established order
+  tension_axis: Excited change-pushing versus order maintenance; enthusiasm challenge-seeking versus stable rule
+  wands_position: Challenges existing authority; wants to change established ways
+  pentacles_position: Maintains established order; requires respecting authority continuity
+  key_terms: challenge versus order, change versus stability, enthusiasm versus tradition, innovation versus rule
+
+dynamic_inhibition:
+  mechanism: Challenge impulse disrupts stable governance; enthusiasm-driven change prevents order maintenance
+  blockade_nature: The drive to challenge prevents authority stability; excitement disrupts established governance
+  wands_state: Enthusiasm becomes destabilizing challenge; spark transforms into authority-threatening energy
+  consequence: Authority becomes unstable from challenged order; governance fractures
+  key_terms: unstable authority, threatened order, disrupted governance, prevented stability
+
+dynamic_devolution:
+  mechanism: Enthusiasm transforms authority into chaotic rebellion; spark corrupts into destructive defiance
+  mode: Leadership becomes disruption weapon; authority becomes tool for exciting change-making
+  loss: Authentic authority replaced by chaotic rebellion; genuine leadership becomes destructive defiance
+  key_terms: chaotic rebellion, destructive defiance, authority disruption, corrupted leadership
+
+dynamic_dependency:
+  mechanism: Enthusiasm without authority grounding becomes ephemeral spark; authority without youthful energy becomes ossified
+  function: Pentacles provide stable authority that channels youthful energy creatively; wands provide spark that prevents leadership ossification
+  integration_outcome: Enthusiasm becomes integrated into leadership; spark revitalizes established authority
+  key_terms: integrated enthusiasm, revitalized authority, sparked leadership, vital governance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: Page-1 through Page-14
+  uid: POW

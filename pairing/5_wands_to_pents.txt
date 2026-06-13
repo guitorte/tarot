@@ -1,0 +1,697 @@
+card_pair: 5 of Wands, Ace of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: 5-1 (Conflict overshadowing new beginning; discord undermining material foundation)
+elemental_bridge: Fire destructive tension meeting earth nascent potential; conflict obscuring manifestation
+threshold_type: The disputed opportunity; material beginning contested by competing interests
+
+dynamic_genesis:
+  mechanism: Conflict galvanizes material pursuit; competition catalyzes manifestation through rival pressure
+  process: Competitive tension drives toward concrete achievement; discord creates urgency for material foundation
+  outcome: Material opportunity gains prominence through contested value; manifestation emerges from competitive stakes
+  key_terms: competitive materialization, contested value, urgent foundation, rivalry-driven manifestation
+
+dynamic_antagonism:
+  mechanism: Conflict prevents unified pursuit of material goal; competition fragments focus on foundation
+  tension_axis: Divided effort versus unified manifestation; competitive self-interest versus shared prosperity
+  wands_position: Pursues material advantage competitively; wants sole claim to opportunity
+  pentacles_position: Requires collaborative focus for stable foundation; needs unified effort
+  key_terms: divided pursuit, competitive self-interest, fragmented focus, unity versus division
+
+dynamic_inhibition:
+  mechanism: Endless conflict paralyzes material manifestation; perpetual competition prevents foundation-building
+  blockade_nature: The struggle prevents commitment to single direction; competitors block each other's progress
+  wands_state: Conflict becomes fixation; struggle consumes energy needed for material work
+  consequence: Material foundation stagnates amid perpetual dispute; opportunity dissolves in competitive stalemate
+  key_terms: perpetual stalemate, contested paralysis, blocked opportunity, struggle fixation
+
+dynamic_devolution:
+  mechanism: Conflict transforms into destructive competition; discord corrupts material pursuit
+  mode: Competitors sabotage each other's foundation-building; pursuit becomes zero-sum destruction
+  loss: Opportunity deteriorates through mutual destruction; manifestation becomes impossibility through contested ruin
+  key_terms: mutual sabotage, destructive competition, zero-sum ruin, corrupted pursuit
+
+dynamic_dependency:
+  mechanism: Conflict without material stakes becomes abstract; manifestation without competitive pressure becomes complacent
+  function: Pentacles ground conflict in material reality and create stakes; wands provide the pressure that drives manifestation forward
+  integration_outcome: Conflict becomes catalyst for rapid manifestation; competition strengthens material foundation through motivated pursuit
+  key_terms: motivated competition, catalyzed manifestation, competitive stakes, integrated pursuit
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, 2 of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Exchange, flow, balance, reciprocity, cyclical adaptation
+numerical_relation: 5-2 (Conflict disrupting cyclical exchange; discord breaking reciprocal flow)
+elemental_bridge: Fire destructive tension disrupting earth fluid movement; conflict congesting circulation
+threshold_type: The broken marketplace; commerce disrupted by competing claims
+
+dynamic_genesis:
+  mechanism: Conflict drives rapid exchange; competition accelerates circulation to advantage
+  process: Struggling parties transact urgently to gain advantage; discord creates trading intensity
+  outcome: Exchange gains momentum from competitive pressure; circulation intensifies through contested stakes
+  key_terms: competitive circulation, urgent exchange, intense trading, rivalry-driven flow
+
+dynamic_antagonism:
+  mechanism: Conflict demands exclusive advantage; exchange requires fair reciprocity
+  tension_axis: Competitive gain-taking versus balanced reciprocity; one's advantage versus mutual benefit
+  wands_position: Exploits exchange for competitive advantage; wants unequal terms
+  pentacles_position: Maintains fair balance in circulation; requires equitable exchange
+  key_terms: exploitation versus equity, advantage-taking versus reciprocity, fair terms versus exploitation
+
+dynamic_inhibition:
+  mechanism: Conflict prevents sustained exchange; competitive disruption breaks circulation flow
+  blockade_nature: The marketplace becomes contested territory; competitors prevent smooth transaction
+  wands_state: Conflict becomes transaction obsession; struggle consumes energy for circulation
+  consequence: Exchange stagnates amid competitive disruption; flow fragments into contested interactions
+  key_terms: fragmented exchange, contested marketplace, interrupted flow, transaction obsession
+
+dynamic_devolution:
+  mechanism: Conflict transforms into exploitative exchange; competition corrupts reciprocal flow
+  mode: Circulation becomes warfare by commerce; exchange becomes tool for competitive domination
+  loss: Fair exchange deteriorates through competitive sabotage; reciprocity becomes zero-sum extraction
+  key_terms: exploitative commerce, competitive sabotage, extraction warfare, corrupted exchange
+
+dynamic_dependency:
+  mechanism: Conflict without circulation becomes static; exchange without tension becomes stagnant
+  function: Pentacles provide circulation pathway that channels conflict productively; wands drive exchange intensity that prevents complacency
+  integration_outcome: Conflict catalyzes rapid but balanced exchange; competition energizes sustainable circulation
+  key_terms: energized circulation, competitive exchange, dynamic balance, integrated trading
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, 3 of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Craftsmanship, collaboration, skill, mastery, tangible creation
+numerical_relation: 5-3 (Conflict disrupting collaboration; discord fragmenting creative partnership)
+elemental_bridge: Fire destructive tension breaking earth collaborative bonds; conflict shattering unified creation
+threshold_type: The divided workshop; creative collaboration rent by internal conflict
+
+dynamic_genesis:
+  mechanism: Conflict sharpens individual skills; competition refines mastery through rivaling excellence
+  process: Competing masters push each other to excellence; struggle intensifies craft refinement
+  outcome: Craftsmanship gains excellence through competitive pressure; collaboration strengthens through tested partnership
+  key_terms: competitive mastery, tested collaboration, rivalry-sharpened skill, excellence through tension
+
+dynamic_antagonism:
+  mechanism: Conflict prevents unified creation; competition fragments collaborative effort
+  tension_axis: Individual skill assertion versus collaborative harmony; self-promotion versus shared mastery
+  wands_position: Asserts individual excellence; wants recognition for personal contribution
+  pentacles_position: Emphasizes collective creation; needs unified effort and shared credit
+  key_terms: individual versus collective, credit competition, unified versus divided, assertion versus harmony
+
+dynamic_inhibition:
+  mechanism: Conflict paralyzed collaborative work; competition prevents unified project completion
+  blockade_nature: The workshop becomes battleground; competitors cannot coordinate efforts
+  wands_state: Conflict becomes creative obsession; struggle consumes energy for craftsmanship
+  consequence: Creation stagnates amid internal dispute; collaborative project fractures incompletely
+  key_terms: fractured creation, blocked collaboration, workshop conflict, incomplete projects
+
+dynamic_devolution:
+  mechanism: Conflict transforms collaborative work into sabotage; competition corrupts shared mastery
+  mode: Workshop becomes arena for mutual destruction; creation becomes tool for competitive harm
+  loss: Collaborative mastery deteriorates through sabotage; shared creation becomes impossible through discord
+  key_terms: creative sabotage, mutual destruction, corrupted collaboration, workshop warfare
+
+dynamic_dependency:
+  mechanism: Conflict without craft becomes pointless; collaboration without competitive testing becomes complacent
+  function: Pentacles provide collaborative framework that channels conflict constructively; wands pressure collaboration toward excellence
+  integration_outcome: Conflict refines collaborative mastery; competition strengthens rather than breaks partnership
+  key_terms: strengthened collaboration, competitive excellence, tested partnership, integrated creation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, 4 of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Conservation, security, control, stability, fortress
+numerical_relation: 5-4 (Conflict assailing the fortress; discord challenging defended stability)
+elemental_bridge: Fire assault upon earth defenses; conflict overwhelming secured boundaries
+threshold_type: The siege; defensive structure under attack
+
+dynamic_genesis:
+  mechanism: Conflict tests defensive strength; competition validates fortress security through pressure
+  process: Struggle reveals foundation security; discord demonstrates fortification adequacy
+  outcome: Defense gains proven reliability through tested challenge; security gains confidence through conflict endurance
+  key_terms: tested defense, proven security, conflict-validated stability, strengthened fortress
+
+dynamic_antagonism:
+  mechanism: Conflict demands openness; security requires closure and defense
+  tension_axis: Aggressive engagement versus defensive withdrawal; confrontational exposure versus protected retreat
+  wands_position: Engages in open conflict; demands confrontational interaction
+  pentacles_position: Withdraws behind defenses; protects through boundaries and control
+  key_terms: engagement versus retreat, openness versus closure, confrontation versus protection
+
+dynamic_inhibition:
+  mechanism: Defensive closure prevents conflict resolution; fortified stance perpetuates unresolved struggle
+  blockade_nature: The fortress becomes prison; security measures prevent necessary confrontation
+  wands_state: Conflict hardens into resentment; struggle freezes against closed barriers
+  consequence: Discord persists unresolved behind walls; conflict stagnates in perpetual stalemate
+  key_terms: perpetual stalemate, hardened resentment, prison fortress, unresolved conflict
+
+dynamic_devolution:
+  mechanism: Conflict transforms security into paranoid fortification; control corrupts into defensive cruelty
+  mode: Fortress becomes prison for both defender and assailant; security degenerates into hostile isolation
+  loss: Authentic security replaced by paranoid defense; genuine stability becomes aggressive fortress against world
+  key_terms: paranoid fortification, hostile isolation, cruel defense, corrupted security
+
+dynamic_dependency:
+  mechanism: Conflict without fortress becomes destructive chaos; security without challenge becomes stagnant complacency
+  function: Pentacles provide the containment that prevents conflict from becoming total destruction; wands pressure security against calcification
+  integration_outcome: Conflict tests and strengthens security; fortress proves its value through challenge
+  key_terms: tested fortress, challenged security, strengthened defense, integrated stability
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, 5 of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Deprivation, loss, hardship, exclusion, material scarcity
+numerical_relation: 5-5 (Conflict intensifying deprivation; struggle compounding material hardship)
+elemental_bridge: Fire violence amplifying earth deprivation; conflict multiplying scarcity
+threshold_type: The desperate struggle; conflict amid deprivation
+
+dynamic_genesis:
+  mechanism: Struggle against hardship creates resilience; conflict teaches survival skills through necessity
+  process: Deprivation-driven competition sharpens survival instinct; hardship forges determined effort
+  outcome: Resilience emerges through tested struggle; survival skills gained through competitive hardship
+  key_terms: survival resilience, necessity-driven strength, hardship-forged determination, competitive survival
+
+dynamic_antagonism:
+  mechanism: Struggle for scarce resources intensifies competition; conflict multiplies material pressure
+  tension_axis: Collaborative survival versus competitive resource-hoarding; shared hardship versus individual desperation
+  wands_position: Competes aggressively for scarce resources; prioritizes individual survival
+  pentacles_position: Recognizes scarcity requires shared approach; seeks collective survival strategy
+  key_terms: resource competition, individual versus collective, desperation versus cooperation, survival tactics
+
+dynamic_inhibition:
+  mechanism: Conflict prevents collaborative survival response; competition wastes precious resources on internal struggle
+  blockade_nature: The community fragments over dwindling resources; internal conflict drains strength needed for external survival
+  wands_state: Struggle becomes self-defeating; conflict consumes resources needed for survival
+  consequence: Deprivation worsens through internal conflict; community weakens through divided response
+  key_terms: self-defeating struggle, wasted resources, weakened community, internal division
+
+dynamic_devolution:
+  mechanism: Conflict transforms survival struggle into cruel competition; hardship corrupts into ruthless extraction
+  mode: Scarce resources become weapons; community dissolves into predatory competition
+  loss: Collective survival abandoned for individual advantage; shared hardship becomes mutual destruction
+  key_terms: ruthless competition, predatory extraction, mutual destruction, survival corruption
+
+dynamic_dependency:
+  mechanism: Conflict without material stakes becomes abstract; deprivation without struggle becomes passive despair
+  function: Pentacles ground conflict in survival necessity and create stakes; wands provide the fighting spirit that enables survival resistance
+  integration_outcome: Struggle becomes effective survival response; conflict catalyzes resilient community adaptation
+  key_terms: survival resilience, adaptive struggle, community strength, integrated perseverance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, 6 of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Generosity, reciprocal exchange, sharing, equity, mutual support
+numerical_relation: 5-6 (Conflict disrupting generous reciprocity; discord fracturing mutual support)
+elemental_bridge: Fire destructive tension undermining earth generous flow; conflict poisoning reciprocal bonds
+threshold_type: The contested gift; generous sharing disrupted by competitive claiming
+
+dynamic_genesis:
+  mechanism: Conflict clarifies generosity boundaries; competition tests authenticity of mutual support
+  process: Struggle reveals genuine allies from fair-weather supporters; discord separates authentic giving from conditional exchange
+  outcome: Generosity gains authenticity through tested relationships; reciprocity deepens through conflict-tested bonds
+  key_terms: tested generosity, authentic reciprocity, conflict-validated friendship, deepened bonds
+
+dynamic_antagonism:
+  mechanism: Conflict demands unequal advantage; generosity requires fair and equal distribution
+  tension_axis: Competitive gain-taking versus equitable sharing; self-serving extraction versus mutual support
+  wands_position: Uses conflict to gain unequal advantage; exploits generosity for personal benefit
+  pentacles_position: Maintains equitable distribution; protects reciprocal fairness against competitive advantage
+  key_terms: exploitation versus fairness, advantage-taking versus sharing, competitive extraction versus reciprocity
+
+dynamic_inhibition:
+  mechanism: Conflict poisons reciprocal trust; competition prevents genuine exchange
+  blockade_nature: The generous impulse becomes dangerous; reciprocal bonds fracture under conflict stress
+  wands_state: Conflict becomes suspicion obsession; struggle prevents trusting enough to receive
+  consequence: Generosity stagnates through broken trust; reciprocal exchange cannot establish
+  key_terms: broken trust, poisoned generosity, fractured reciprocity, suspicious paralysis
+
+dynamic_devolution:
+  mechanism: Conflict transforms generosity into strategic manipulation; reciprocity corrupts into transactional warfare
+  mode: Gifts become weapons; sharing becomes tool for competitive advantage-seeking
+  loss: Authentic generosity replaced by manipulative exchange; mutual support becomes competitive extraction
+  key_terms: manipulative exchange, strategic gifts, competitive extraction, corrupted generosity
+
+dynamic_dependency:
+  mechanism: Conflict without generosity becomes destructive warfare; generosity without tested bonds becomes naive
+  function: Pentacles provide the fair exchange framework that prevents conflict from becoming predatory; wands test generosity authenticity
+  integration_outcome: Conflict strengthens genuine mutual support; tested reciprocity becomes more reliable
+  key_terms: tested generosity, strengthened reciprocity, authentic exchange, integrated support
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, 7 of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Assessment, investment evaluation, patient cultivation, growth monitoring
+numerical_relation: 5-7 (Conflict interrupting growth assessment; discord disrupting investment evaluation)
+elemental_bridge: Fire destructive tension burning growth progress; conflict consuming cultivation patience
+threshold_type: The contested harvest; growth assessment interrupted by struggle
+
+dynamic_genesis:
+  mechanism: Conflict forces honest evaluation; struggle reveals true growth through pressure testing
+  process: Competition drives rapid assessment; discord demands clarity about investment return
+  outcome: Evaluation gains clarity through conflict pressure; growth assessment becomes realistic through challenged results
+  key_terms: pressure-driven assessment, realistic evaluation, conflict-tested growth, forced clarity
+
+dynamic_antagonism:
+  mechanism: Conflict demands immediate judgment; patient cultivation requires extended observation
+  tension_axis: Rushed conclusion versus patient assessment; pressure for verdict versus need for time
+  wands_position: Demands immediate results assessment; wants quick judgment and decisive action
+  pentacles_position: Requires continued observation; needs patience for authentic growth evaluation
+  key_terms: rushed judgment versus patience, pressure versus observation, verdict versus cultivation
+
+dynamic_inhibition:
+  mechanism: Conflict paralyzes objective assessment; struggle consumes attention from growth evaluation
+  blockade_nature: The pressure prevents clear seeing; conflict obscures cultivation progress
+  wands_state: Conflict becomes panic; struggle converts assessment into anxious self-doubt
+  consequence: Growth evaluation stagnates; assessment cannot proceed amid conflict pressure
+  key_terms: panic-driven paralysis, obscured progress, anxious self-doubt, blocked evaluation
+
+dynamic_devolution:
+  mechanism: Conflict transforms assessment into harsh judgment; evaluation corrupts into cruel criticism
+  mode: Growth evaluation becomes weapon; assessment turns into blame and fault-finding
+  loss: Honest evaluation replaced by cruel judgment; patient cultivation becomes contemptuous dismissal
+  key_terms: harsh judgment, cruel criticism, contemptuous dismissal, corrupted assessment
+
+dynamic_dependency:
+  mechanism: Conflict without evaluation becomes blind struggle; assessment without challenge becomes complacent
+  function: Pentacles provide honest evaluation that prevents conflict from becoming pointless; wands pressure against self-satisfied stagnation
+  integration_outcome: Conflict catalyzes honest assessment; evaluation becomes clearer through pressure-tested growth
+  key_terms: honest pressure, tested growth, clear evaluation, integrated assessment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, 8 of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Mastery, skill development, focused practice, refinement, expertise
+numerical_relation: 5-8 (Conflict interrupting practice focus; discord disrupting skill refinement)
+elemental_bridge: Fire aggressive tension disrupting earth disciplined focus; conflict fragmenting dedicated practice
+threshold_type: The contested workshop; mastery pursuit interrupted by competition
+
+dynamic_genesis:
+  mechanism: Conflict sharpens competitive skills; struggle accelerates refinement through pressure
+  process: Competition drives intensive practice; discord catalyzes skill development through tested pressure
+  outcome: Mastery gains competitive edge through conflict pressure; expertise develops through challenged excellence
+  key_terms: competitive mastery, pressure-refined skill, contested excellence, struggle-sharpened expertise
+
+dynamic_antagonism:
+  mechanism: Conflict demands engagement; mastery requires uninterrupted focus
+  tension_axis: External conflict engagement versus internal practice focus; competitive energy versus disciplined devotion
+  wands_position: Engages in competitive struggle; wants external conflict interaction
+  pentacles_position: Maintains focused practice discipline; needs uninterrupted refinement time
+  key_terms: engagement versus focus, external versus internal, competition versus practice, interruption pressure
+
+dynamic_inhibition:
+  mechanism: Conflict prevents sustained practice focus; struggle drains attention from skill refinement
+  blockade_nature: The external competition prevents internal focus; discord fragments discipline
+  wands_state: Conflict becomes distraction obsession; struggle pulls attention from practice
+  consequence: Skill development stagnates from interrupted focus; mastery cannot progress amid conflict
+  key_terms: distracted practice, interrupted focus, stagnated mastery, fragmented discipline
+
+dynamic_devolution:
+  mechanism: Conflict transforms practice into competitive performance; mastery corrupts into brittle expertise
+  mode: Skill development becomes competitive weapon; refinement pursued only for advantage-gaining
+  loss: Authentic mastery replaced by competitive display; genuine expertise becomes brittle performance
+  key_terms: brittle expertise, competitive display, corrupted mastery, weapon-skill
+
+dynamic_dependency:
+  mechanism: Conflict without mastery becomes aimless fighting; expertise without tested pressure becomes complacent
+  function: Pentacles provide disciplined focus that channels conflict productively; wands pressure expertise against stagnation
+  integration_outcome: Conflict catalyzes rapid skill development; tested expertise becomes stronger
+  key_terms: tested mastery, rapid skill development, competitive refinement, integrated expertise
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, 9 of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Abundance, luxury, independence, sovereignty, material security
+numerical_relation: 5-9 (Conflict threatening achieved abundance; discord challenging independence)
+elemental_bridge: Fire destructive tension assailing earth secure abundance; conflict challenging sovereign security
+threshold_type: The threatened refuge; abundance assailed by external conflict
+
+dynamic_genesis:
+  mechanism: Conflict tests abundance security; struggle validates independence sustainability
+  process: External pressure reveals foundation strength; discord demonstrates security resilience
+  outcome: Abundance gains confidence through tested security; independence proves itself through challenge
+  key_terms: tested abundance, proven independence, conflict-validated security, strengthened sovereignty
+
+dynamic_antagonism:
+  mechanism: Conflict demands engagement and defense; abundance seeks quiet enjoyment
+  tension_axis: Forced confrontation versus peaceful enjoyment; defensive externality versus sovereign leisure
+  wands_position: Demands confrontation and external engagement; challenges comfortable withdrawal
+  pentacles_position: Defends peaceful enjoyment; resists external conflict disturbance
+  key_terms: engagement versus peace, confrontation versus leisure, external versus internal, disturbance demand
+
+dynamic_inhibition:
+  mechanism: Conflict prevents secure enjoyment; struggle makes abundance feel precarious
+  blockade_nature: External threat poisons peaceful retreat; security becomes unreliable under challenge
+  wands_state: Conflict becomes paranoia; struggle creates anxiety about abundance sustainability
+  consequence: Enjoyment becomes anxious; abundance feels threatened and temporary
+  key_terms: anxious abundance, threatened security, paranoid independence, fragile peace
+
+dynamic_devolution:
+  mechanism: Conflict transforms abundance into defensive siege; independence corrupts into paranoid isolation
+  mode: Luxurious security becomes fortress against world; sovereignty becomes hostile isolation
+  loss: Authentic abundance replaced by fearful defensiveness; genuine independence becomes paranoid withdrawal
+  key_terms: paranoid isolation, defensive siege, fearful abundance, corrupted independence
+
+dynamic_dependency:
+  mechanism: Conflict without abundance becomes destructive chaos; abundance without tested security becomes naive
+  function: Pentacles provide secure foundation that enables handling of conflict; wands test whether abundance is truly independent
+  integration_outcome: Conflict tests and strengthens genuine independence; abundance proves resilient
+  key_terms: resilient independence, tested abundance, strengthened security, integrated sovereignty
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, 10 of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Legacy, inheritance, dynasty, generational wealth, ancestral foundation
+numerical_relation: 5-10 (Conflict threatening legacy continuity; discord disrupting generational bonds)
+elemental_bridge: Fire destructive tension endangering earth enduring legacy; conflict fragmenting ancestral stability
+threshold_type: The fractured dynasty; generational heritage threatened by internal conflict
+
+dynamic_genesis:
+  mechanism: Conflict clarifies ancestral values worth defending; struggle reveals which family bonds are genuine
+  process: Discord tests generational commitment; competition reveals authentic inheritance stewardship
+  outcome: Legacy gains clarity through tested bonds; dynasty strengthens through conflict-validated commitment
+  key_terms: tested legacy, clarified values, conflict-validated commitment, strengthened dynasty
+
+dynamic_antagonism:
+  mechanism: Conflict demands individual assertion; legacy requires generational conformity
+  tension_axis: Personal autonomy versus inherited obligation; current autonomy versus ancestral continuity
+  wands_position: Asserts individual choice; challenges inherited expectations and family conformity
+  pentacles_position: Maintains continuity; prioritizes generational obligation and ancestral preservation
+  key_terms: autonomy versus obligation, individual versus ancestor, change versus continuity, generational tension
+
+dynamic_inhibition:
+  mechanism: Conflict paralyzes inheritance transmission; struggle fragments family bonds across generations
+  blockade_nature: Internal discord breaks generational communication; conflict prevents legacy transmission
+  wands_state: Conflict becomes family rupture obsession; struggle separates family members
+  consequence: Legacy transmission stagnates; generational bonds fracture incompletely
+  key_terms: family rupture, broken transmission, fractured bonds, blocked continuity
+
+dynamic_devolution:
+  mechanism: Conflict transforms legacy into bitter inheritance; discord corrupts ancestral bonds
+  mode: Dynasty becomes source of resentment; inheritance becomes weapon in family warfare
+  loss: Authentic legacy replaced by bitter obligation; genuine continuity becomes inheritance curse
+  key_terms: inheritance curse, bitter obligation, family warfare, corrupted legacy
+
+dynamic_dependency:
+  mechanism: Conflict without legacy becomes rootless fighting; legacy without tested bonds becomes hollow formality
+  function: Pentacles provide ancestral foundation that prevents conflict from becoming total family rupture; wands test authenticity of inheritance bonds
+  integration_outcome: Conflict clarifies worth-defending values; family bonds strengthen through tested commitment
+  key_terms: tested commitment, clarified legacy, strengthened family, integrated inheritance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, Page of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Learning, curiosity, potential, fresh study, material apprenticeship
+numerical_relation: 5-Page (Conflict disrupting learning focus; struggle fragmenting educational attention)
+elemental_bridge: Fire aggressive tension interrupting earth patient study; conflict breaking learning concentration
+threshold_type: The contested classroom; education interrupted by competitive conflict
+
+dynamic_genesis:
+  mechanism: Conflict challenges student capabilities; struggle accelerates learning through pressure
+  process: Competition drives rapid skill acquisition; discord catalyzes focused study motivation
+  outcome: Learning gains intensity through competitive pressure; education strengthens through challenged mastery
+  key_terms: pressure-driven learning, competitive study, conflict-catalyzed mastery, intensified education
+
+dynamic_antagonism:
+  mechanism: Conflict demands engagement; learning requires focused withdrawal
+  tension_axis: Social conflict engagement versus solitary study focus; competitive interaction versus concentrated practice
+  wands_position: Engages in competitive social interaction; demands confrontation and engagement
+  pentacles_position: Studies in focused isolation; needs uninterrupted concentration
+  key_terms: social engagement versus isolation, interaction versus focus, confrontation versus study
+
+dynamic_inhibition:
+  mechanism: Conflict prevents sustained study focus; struggle drains attention from learning
+  blockade_nature: External conflict intrudes on study space; discord fragments concentration
+  wands_state: Conflict becomes distraction fixation; struggle consumes energy needed for study
+  consequence: Learning stagnates from interrupted focus; education cannot advance amid conflict
+  key_terms: interrupted study, broken concentration, fractured learning, distraction fixation
+
+dynamic_devolution:
+  mechanism: Conflict transforms learning into competitive performance; study corrupts into weaponized knowledge
+  mode: Education pursued only for competitive advantage; knowledge becomes tool for social dominance
+  loss: Authentic learning replaced by competitive display; genuine education becomes stratified domination
+  key_terms: weaponized knowledge, competitive display, corrupted learning, stratified education
+
+dynamic_dependency:
+  mechanism: Conflict without learning becomes aimless fighting; education without challenge becomes passive
+  function: Pentacles provide focused study discipline that channels conflict productively; wands pressure learning against complacency
+  integration_outcome: Conflict catalyzes focused study; competitive pressure drives learning intensity
+  key_terms: focused competition, intensified learning, conflict-catalyzed study, integrated education
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, Knight of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Diligence, reliability, cautious service, methodical dedication, trustworthy action
+numerical_relation: 5-Knight (Conflict straining reliable service; discord disrupting methodical dedication)
+elemental_bridge: Fire aggressive tension disrupting earth steady support; conflict fragmenting devoted reliability
+threshold_type: The contested servant; reliable service interrupted by competing demands
+
+dynamic_genesis:
+  mechanism: Conflict tests servant reliability; struggle proves dedication authenticity through pressure
+  process: Discord reveals true commitment through challenge; competition validates service worth
+  outcome: Service gains proven reliability through tested conflict; dedication strengthens through pressure-validated commitment
+  key_terms: tested reliability, proven dedication, conflict-validated service, strengthened commitment
+
+dynamic_antagonism:
+  mechanism: Conflict demands personal defense; service requires putting others first
+  tension_axis: Self-protective conflict versus self-sacrificial service; personal defense versus devoted support
+  wands_position: Engages in self-protective conflict; asserts personal needs and boundaries
+  pentacles_position: Maintains devoted service; prioritizes others' needs and stable support
+  key_terms: self-defense versus service, personal needs versus others, boundary assertion versus devotion
+
+dynamic_inhibition:
+  mechanism: Conflict prevents consistent service delivery; struggle fragments methodical dedication
+  blockade_nature: Conflict demands disrupt service routine; discord breaks methodical process
+  wands_state: Conflict becomes resentment obsession; struggle conflicts with service duty
+  consequence: Service reliability stagnates from conflict demands; dedication becomes inconsistent
+  key_terms: inconsistent service, resentful duty, broken reliability, fragmented dedication
+
+dynamic_devolution:
+  mechanism: Conflict transforms service into resentful bondage; dedication corrupts into martyr complex
+  mode: Service becomes tool for martyrdom display; commitment degenerates into suffering performance
+  loss: Authentic service replaced by resentful obligation; genuine dedication becomes self-sacrificial bitterness
+  key_terms: resentful bondage, martyr complex, self-sacrificial bitterness, corrupted service
+
+dynamic_dependency:
+  mechanism: Conflict without service becomes destructive chaos; service without tested pressure becomes complacent
+  function: Pentacles provide service structure that channels conflict constructively; wands test service authenticity through pressure
+  integration_outcome: Conflict tests and strengthens genuine dedication; service proves itself through challenge
+  key_terms: tested dedication, strengthened service, pressure-validated commitment, integrated reliability
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, Queen of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Nurturing mastery, generous abundance, grounded care, domestic sovereignty
+numerical_relation: 5-Queen (Conflict straining nurturing care; discord disrupting generous provision)
+elemental_bridge: Fire aggressive tension disrupting earth generous care; conflict fragmenting nurturing bonds
+threshold_type: The contested mother; nurturing abundance threatened by hostile conflict
+
+dynamic_genesis:
+  mechanism: Conflict tests nurturing strength; struggle reveals care authenticity through pressure
+  process: Discord challenges generous provision; competition validates nurturing commitment
+  outcome: Care gains tested strength through conflict pressure; nurturing proves itself through challenged abundance
+  key_terms: tested nurturing, proven care, conflict-validated strength, strengthened generosity
+
+dynamic_antagonism:
+  mechanism: Conflict demands hostile engagement; nurturing requires safe protective space
+  tension_axis: Aggressive conflict versus safe care environment; hostility versus nurturing sanctuary
+  wands_position: Engages in aggressive conflict; brings hostile tension into care space
+  pentacles_position: Maintains safe nurturing environment; protects vulnerable recipients
+  key_terms: hostility versus safety, aggression versus care, conflict versus sanctuary, threat to nurture
+
+dynamic_inhibition:
+  mechanism: Conflict prevents nurturing provision; struggle disrupts generous care-giving
+  blockade_nature: Hostile environment poisons care relationship; discord prevents safe nurturing
+  wands_state: Conflict becomes resentment obsession; struggle against having to care
+  consequence: Nurturing stagnates from hostile environment; care cannot function amid conflict
+  key_terms: poisoned care, hostile environment, resentful nurturing, blocked provision
+
+dynamic_devolution:
+  mechanism: Conflict transforms nurture into controlling dominance; care corrupts into conditional provision
+  mode: Generous provision becomes leveraged control tool; nurturing becomes transactional demand
+  loss: Authentic care replaced by controlling dominance; genuine nurture becomes conditional obligation
+  key_terms: controlling care, conditional provision, manipulative nurture, corrupted generosity
+
+dynamic_dependency:
+  mechanism: Conflict without nurturing becomes destructive chaos; care without tested pressure becomes enabling
+  function: Pentacles provide nurturing structure that prevents conflict from destroying care bonds; wands test care authenticity through challenge
+  integration_outcome: Conflict tests and strengthens genuine nurturing commitment; care proves its resilience
+  key_terms: tested nurturing, resilient care, strengthened commitment, integrated generosity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW
+
+---
+
+card_pair: 5 of Wands, King of Pentacles
+archetype_wands: Conflict, competition, struggle, tension, discord
+archetype_pentacles: Mastery authority, material sovereignty, grounded leadership, established dominion
+numerical_relation: 5-King (Conflict challenging sovereign authority; discord testing established dominion)
+elemental_bridge: Fire aggressive tension assailing earth sovereign leadership; conflict challenging established rule
+threshold_type: The contested throne; leadership authority challenged by conflict
+
+dynamic_genesis:
+  mechanism: Conflict tests leadership strength; struggle validates sovereign authority through pressure
+  process: Discord challenges established dominion; competition proves leadership capability
+  outcome: Authority gains tested legitimacy through conflict pressure; leadership proves itself through challenged dominion
+  key_terms: tested authority, proven leadership, conflict-validated dominion, strengthened sovereignty
+
+dynamic_antagonism:
+  mechanism: Conflict demands open challenge; sovereignty requires established hierarchy maintenance
+  tension_axis: Challenging conflict versus established authority; upstart assertion versus sovereign dominance
+  wands_position: Challenges established authority; asserts alternative leadership and power claims
+  pentacles_position: Maintains established hierarchy; protects sovereigns authority and dominion
+  key_terms: hierarchy challenge, authority assertion, dominion maintenance, leadership rivalry
+
+dynamic_inhibition:
+  mechanism: Conflict prevents effective leadership; struggle disrupts sovereign decision-making
+  blockade_nature: Challenge threatens authority legitimacy; conflict prevents stable rule
+  wands_state: Conflict becomes power obsession; struggle consumes leadership energy
+  consequence: Sovereignty stagnates from internal challenge; dominion becomes uncertain
+  key_terms: challenged legitimacy, uncertain rule, power obsession, fractured dominion
+
+dynamic_devolution:
+  mechanism: Conflict transforms authority into tyrannical control; sovereignty corrupts into cruel domination
+  mode: Leadership pursues conflict victory at any cost; dominion becomes tool for domination
+  loss: Authentic authority replaced by tyrannical control; genuine sovereignty becomes oppressive rule
+  key_terms: tyrannical control, oppressive dominion, cruel rule, corrupted authority
+
+dynamic_dependency:
+  mechanism: Conflict without sovereign structure becomes anarchic chaos; authority without tested pressure becomes complacent tyranny
+  function: Pentacles provide structural authority that channels conflict productively; wands test leadership against complacency
+  integration_outcome: Conflict tests and strengthens genuine leadership; sovereignty proves itself through challenge
+  key_terms: tested leadership, proven sovereignty, challenged authority, integrated dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.2
+  ontology: jodorowskian numerological psychology with pentacles graduation
+  encoding: UTF-8
+  elemental_primary: fire (wands) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: FOW

@@ -1,7 +1,7 @@
 card_pair: Page of Swords, Ace of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The First Offering, The Emotional Gift, The Heart's Awakening, Love Emerging
-numerical_relation: 11 + 1 = 12; the messenger speaks of love; news of emotional gift arrives
+numerical_relation: 11 + 1 = 12 (XII The Hanged Man; the messenger speaks of love; news of emotional gift arrives)
 elemental_bridge: Air (communication about emotion) meets Water (emotional offering); the messenger articulates what the heart knows
 threshold_type: The moment when the messenger brings words to the emergence of love
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Love understood, message received, communication honoring, emotion validated
 
 dynamic_inhibition:
-  blockade: The message about love may be too intellectual for the pure emotional offering
+  mechanism: The message about love may be too intellectual for the pure emotional offering
+  blockade_nature: The message about love may be too intellectual for the pure emotional offering
+  swords_state: The figure understands the concept but may miss the immediate experience
   consequence: The figure understands the concept but may miss the immediate experience
+  key_terms: message about love may be, figure understands the concept, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words about love become analysis that distances from feeling
+  mechanism: The page of swords' words about love become analysis that distances from feeling
+  mode: The page of swords' words about love become analysis that distances from feeling
   loss: The figure loses immediacy through overthinking what the heart offers
+  key_terms: page of swords' words about, figure loses immediacy through overthinking, held tension
 
 dynamic_dependency:
-  integration: The message and the love teach each other about articulation and experience; the page learns that the best words come from genuine feeling; the heart learns that language can deepen understanding; the message becomes wisdom when it honors both feeling and thinking; the communication becomes teaching when it serves the opening
-  outcome: The page's message honors the ace of cups; the words validate the feeling; the understanding and the emotion become synchronized; the communication becomes part of the heart's opening
+  mechanism: The message and the love teach each other about articulation and experience
+  function: the page learns that the best words come from genuine feeling; the heart learns that language can deepen understanding; the message becomes wisdom when it honors both feeling and thinking; the communication becomes teaching when it serves the opening
+  integration_outcome: The page's message honors the ace of cups; the words validate the feeling; the understanding and the emotion become synchronized; the communication becomes part of the heart's opening
+  key_terms: page learns that the best, page's message honors the ace, message and the love teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, 2 of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Lovers, The Beloved Union, The Mutual Pledge, Partnership Sealed
-numerical_relation: 11 + 2 = 13; the messenger brings news of love; knowledge of partnership arrives
+numerical_relation: 11 + 2 = 13 (XIII Death; the messenger brings news of love; knowledge of partnership arrives)
 elemental_bridge: Air (communication of partnership) meets Water (emotional union); the messenger articulates the bond
 threshold_type: The moment when the messenger brings words to the lovers' union
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Partnership understood, message received, communication validating, union witnessed
 
 dynamic_inhibition:
-  blockade: The message about partnership may create expectation rather than allowing the love to be
+  mechanism: The message about partnership may create expectation rather than allowing the love to be
+  blockade_nature: The message about partnership may create expectation rather than allowing the love to be
+  swords_state: The figures hear the articulation but must still deepen the actual connection
   consequence: The figures hear the articulation but must still deepen the actual connection
+  key_terms: message about partnership may create, figures hear the articulation, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words about partnership become judgment about how the lovers should relate
+  mechanism: The page of swords' words about partnership become judgment about how the lovers should relate
+  mode: The page of swords' words about partnership become judgment about how the lovers should relate
   loss: The figure loses the natural flow of love by listening to external ideas
+  key_terms: page of swords' words about, figure loses the natural flow, held tension
 
 dynamic_dependency:
-  integration: The message and the love teach that articulation and feeling are partners; the page learns that the best words validate rather than judge; the lovers learn that sharing language deepens understanding; the message becomes wisdom when it serves the union; the communication becomes teaching when it honors the bond
-  outcome: The page's message honors the two of cups; the words validate the partnership; the understanding and the love become synchronized; the communication becomes part of the union's deepening
+  mechanism: The message and the love teach that articulation and feeling are partners
+  function: the page learns that the best words validate rather than judge; the lovers learn that sharing language deepens understanding; the message becomes wisdom when it serves the union; the communication becomes teaching when it honors the bond
+  integration_outcome: The page's message honors the two of cups; the words validate the partnership; the understanding and the love become synchronized; the communication becomes part of the union's deepening
+  key_terms: page learns that the best, page's message honors the two, message and the love teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, 3 of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Celebration, The Joyful Gathering, The Community Heart, Fellowship Expressed
-numerical_relation: 11 + 3 = 14; the messenger brings celebration; knowledge of community joy arrives
+numerical_relation: 11 + 3 = 14 (XIV Temperance; the messenger brings celebration; knowledge of community joy arrives)
 elemental_bridge: Air (communication connecting) meets Water (emotional community); the messenger facilitates gathering
 threshold_type: The moment when the messenger brings people together through shared words
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Joy shared, message received, communication facilitating, celebration witnessed
 
 dynamic_inhibition:
-  blockade: The message about community may become talking rather than genuine gathering
+  mechanism: The message about community may become talking rather than genuine gathering
+  blockade_nature: The message about community may become talking rather than genuine gathering
+  swords_state: The communication facilitates but the real joy comes from presence
   consequence: The communication facilitates but the real joy comes from presence
+  key_terms: message about community may, communication facilitates but the real, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words about community become social pressure rather than invitation
+  mechanism: The page of swords' words about community become social pressure rather than invitation
+  mode: The page of swords' words about community become social pressure rather than invitation
   loss: The figure loses the authentic gathering by focusing on the words about it
+  key_terms: page of swords' words about, figure loses the authentic gathering, held tension
 
 dynamic_dependency:
-  integration: The message and the celebration teach that communication serves community; the page learns that the best words emerge from genuine gathering; the community learns that language can deepen understanding; the message becomes wisdom when it serves the gathering; the communication becomes teaching when it honors the joy
-  outcome: The page's message facilitates the three of cups; the words help people gather; the communication and the celebration become synchronized; the message becomes part of the community's joy
+  mechanism: The message and the celebration teach that communication serves community
+  function: the page learns that the best words emerge from genuine gathering; the community learns that language can deepen understanding; the message becomes wisdom when it serves the gathering; the communication becomes teaching when it honors the joy
+  integration_outcome: The page's message facilitates the three of cups; the words help people gather; the communication and the celebration become synchronized; the message becomes part of the community's joy
+  key_terms: page learns that the best, page's message facilitates the three, message and the celebration teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, 4 of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Apathetic, The Emotionally Withdrawn, The Love Refused, Numbness Chosen
-numerical_relation: 11 + 4 = 15; the messenger speaks to the withdrawn; message reaches those who cannot hear
+numerical_relation: 11 + 4 = 15 (XV The Devil; the messenger speaks to the withdrawn; message reaches those who cannot hear)
 elemental_bridge: Air (communication not reaching) meets Water (emotional closure); the messenger struggles to penetrate numbness
 threshold_type: The moment when the messenger's words fail to reach the emotionally closed
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Rejection of message, communication blocked, words unheard, numbness maintained
 
 dynamic_inhibition:
-  blockade: The figure cannot reach those who have chosen numbness; the message is blocked by emotional wall
-  consequence: The communication fails; the messenger is frustrated
+  mechanism: The figure cannot reach those who have chosen numbness
+  blockade_nature: the message is blocked by emotional wall
+  swords_state: The communication fails
+  consequence: the messenger is frustrated
+  key_terms: figure cannot reach those, message is blocked by emotional, communication fails, messenger is frustrated
 
 dynamic_devolution:
-  corruption: The page of swords' words become accusation toward the withdrawn one
+  mechanism: The page of swords' words become accusation toward the withdrawn one
+  mode: The page of swords' words become accusation toward the withdrawn one
   loss: The figure loses compassion when the message is rejected; they blame the listener rather than understanding the numbness
+  key_terms: page of swords' words, figure loses compassion when, held tension
 
 dynamic_dependency:
-  integration: The message and the numbness teach about the limits of communication; the page learns that some understanding must be reached before words can land; the withdrawn learn that choice also has limits; the message becomes wisdom when it respects the recipient's state; the communication becomes teaching when it waits for readiness
-  outcome: The page's message eventually reaches the four of cups when they are ready; the words wait with patience; the communication and the emotional opening become synchronized; the message becomes the bridge when the time is right
+  mechanism: The message and the numbness teach about the limits of communication
+  function: the page learns that some understanding must be reached before words can land; the withdrawn learn that choice also has limits; the message becomes wisdom when it respects the recipient's state; the communication becomes teaching when it waits for readiness
+  integration_outcome: The page's message eventually reaches the four of cups when they are ready; the words wait with patience; the communication and the emotional opening become synchronized; the message becomes the bridge when the time is right
+  key_terms: page learns that some understanding, page's message eventually reaches, message and the numbness teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, 5 of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Mourner, The Grieving One, The Loss Witnessed, Sorrow Expressed
-numerical_relation: 11 + 5 = 16; the messenger witnesses grief; knowledge of sorrow is shared
+numerical_relation: 11 + 5 = 16 (XVI The Tower; the messenger witnesses grief; knowledge of sorrow is shared)
 elemental_bridge: Air (communication witnessing) meets Water (expressed grief); the messenger becomes witness
 threshold_type: The moment when the messenger bears witness to sorrow
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Grief witnessed, message honoring, communication validating, sorrow acknowledged
 
 dynamic_inhibition:
-  blockade: The message about grief may seem inadequate to the depth of loss
+  mechanism: The message about grief may seem inadequate to the depth of loss
+  blockade_nature: The message about grief may seem inadequate to the depth of loss
+  swords_state: The figure is acknowledged but the pain continues its own course
   consequence: The figure is acknowledged but the pain continues its own course
+  key_terms: message about grief may seem, figure is acknowledged, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words about sorrow become interpretation or judgment
+  mechanism: The page of swords' words about sorrow become interpretation or judgment
+  mode: The page of swords' words about sorrow become interpretation or judgment
   loss: The figure loses the sacredness of grief by having it analyzed
+  key_terms: page of swords' words about, figure loses the sacredness, held tension
 
 dynamic_dependency:
-  integration: The message and the grief teach that witnessing is sacred; the page learns that the best response is presence; the griever learns that being seen honors the loss; the message becomes wisdom when it simply acknowledges; the communication becomes teaching when it validates without trying to fix
-  outcome: The page's message honors the five of cups; the words witness the sorrow; the acknowledgment and the grief become synchronized; the communication becomes part of the sacred mourning process
+  mechanism: The message and the grief teach that witnessing is sacred
+  function: the page learns that the best response is presence; the griever learns that being seen honors the loss; the message becomes wisdom when it simply acknowledges; the communication becomes teaching when it validates without trying to fix
+  integration_outcome: The page's message honors the five of cups; the words witness the sorrow; the acknowledgment and the grief become synchronized; the communication becomes part of the sacred mourning process
+  key_terms: page learns that the best, page's message honors the five, message and the grief teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, 6 of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Innocent Gift, The Childhood Memory, The Pure Exchange, Innocence Remembered
-numerical_relation: 11 + 6 = 17; the messenger tells the old story; knowledge of innocence is shared
+numerical_relation: 11 + 6 = 17 (XVII The Star; the messenger tells the old story; knowledge of innocence is shared)
 elemental_bridge: Air (communication of memory) meets Water (innocent feeling); the messenger awakens remembrance
 threshold_type: The moment when the messenger brings words that reconnect to innocence
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Memory received, innocence remembered, message awakening, communication restoring
 
 dynamic_inhibition:
-  blockade: The message about innocence may bring sadness rather than joy by reminding of what was lost
+  mechanism: The message about innocence may bring sadness rather than joy by reminding of what was lost
+  blockade_nature: The message about innocence may bring sadness rather than joy by reminding of what was lost
+  swords_state: The figure remembers but grieves what is no longer
   consequence: The figure remembers but grieves what is no longer
+  key_terms: message about innocence may bring, figure remembers but grieves what, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words about innocence become judgment that childhood was better
+  mechanism: The page of swords' words about innocence become judgment that childhood was better
+  mode: The page of swords' words about innocence become judgment that childhood was better
   loss: The figure loses presence by comparing present to an idealized past
+  key_terms: page of swords' words about, figure loses presence by comparing, held tension
 
 dynamic_dependency:
-  integration: The message and the innocence teach about presence and memory; the page learns that the best stories honor both past and present; the innocent one learns that memory can deepen without losing presence; the message becomes wisdom when it honors the journey; the communication becomes teaching when it serves integration
-  outcome: The page's message reconnects to the six of cups; the memory is shared; the past and present become integrated; the communication becomes the bridge between what was and what is
+  mechanism: The message and the innocence teach about presence and memory
+  function: the page learns that the best stories honor both past and present; the innocent one learns that memory can deepen without losing presence; the message becomes wisdom when it honors the journey; the communication becomes teaching when it serves integration
+  integration_outcome: The page's message reconnects to the six of cups; the memory is shared; the past and present become integrated; the communication becomes the bridge between what was and what is
+  key_terms: page learns that the best, page's message reconnects, message and the innocence teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, 7 of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Dreamer, The Illusions Offered, The Fantasy Multiplied, Desire Ungrounded
-numerical_relation: 11 + 7 = 18; the messenger speaks of dreams; knowledge of illusion is shared
+numerical_relation: 11 + 7 = 18 (XVIII The Moon; the messenger speaks of dreams; knowledge of illusion is shared)
 elemental_bridge: Air (communication about desire) meets Water (emotional fantasy); the messenger questions the dreams
 threshold_type: The moment when the messenger brings words that challenge the illusions
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Illusion questioned, dreams challenged, message awakening, communication clarifying
 
 dynamic_inhibition:
-  blockade: The message about illusion may be rejected by the dreamer who prefers the fantasy
+  mechanism: The message about illusion may be rejected by the dreamer who prefers the fantasy
+  blockade_nature: The message about illusion may be rejected by the dreamer who prefers the fantasy
+  swords_state: The figure hears the words but chooses the dream
   consequence: The figure hears the words but chooses the dream
+  key_terms: message about illusion may be, figure hears the words, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words become judgment about the dreamer's weakness
+  mechanism: The page of swords' words become judgment about the dreamer's weakness
+  mode: The page of swords' words become judgment about the dreamer's weakness
   loss: The figure loses compassion for the need to dream
+  key_terms: page of swords' words, figure loses compassion for, held tension
 
 dynamic_dependency:
-  integration: The message and the dreams teach about reality and desire; the page learns that waking from illusion requires compassion; the dreamer learns that some reality is worth seeing; the message becomes wisdom when it respects the dreamer's journey; the communication becomes teaching when it serves both grounding and imagination
-  outcome: The page's message eventually awakens the dreamer; the clarity comes with compassion; the illusion and reality become integrated; the communication becomes the path toward both grounding and healthy dreaming
+  mechanism: The message and the dreams teach about reality and desire
+  function: the page learns that waking from illusion requires compassion; the dreamer learns that some reality is worth seeing; the message becomes wisdom when it respects the dreamer's journey; the communication becomes teaching when it serves both grounding and imagination
+  integration_outcome: The page's message eventually awakens the dreamer; the clarity comes with compassion; the illusion and reality become integrated; the communication becomes the path toward both grounding and healthy dreaming
+  key_terms: page learns that waking from, page's message eventually awakens, message and the dreams teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, 8 of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Abandoner, The Walker-Away, The Chosen Departure, Emotional Rejection
-numerical_relation: 11 + 8 = 19; the messenger speaks to the departing; knowledge of why they leave arrives
+numerical_relation: 11 + 8 = 19 (XIX The Sun; the messenger speaks to the departing; knowledge of why they leave arrives)
 elemental_bridge: Air (communication about leaving) meets Water (emotional departure); the messenger understands the exit
 threshold_type: The moment when the messenger brings words about why leaving becomes necessary
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Departure validated, leaving understood, message honoring, communication accepting
 
 dynamic_inhibition:
-  blockade: The message cannot ease the emotional difficulty of departure
+  mechanism: The message cannot ease the emotional difficulty of departure
+  blockade_nature: The message cannot ease the emotional difficulty of departure
+  swords_state: The figure leaves but carries the emotional weight despite intellectual validation
   consequence: The figure leaves but carries the emotional weight despite intellectual validation
+  key_terms: message cannot ease the emotional, figure leaves but carries, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words about leaving become judgment of what is being abandoned
+  mechanism: The page of swords' words about leaving become judgment of what is being abandoned
+  mode: The page of swords' words about leaving become judgment of what is being abandoned
   loss: The figure loses the ability to grieve what is left
+  key_terms: page of swords' words about, figure loses the ability, held tension
 
 dynamic_dependency:
-  integration: The message and the departure teach about understanding and loss; the page learns that validating a choice does not remove its pain; the departing one learns that being understood eases the burden even if it doesn't remove it; the message becomes wisdom when it honors both the necessity and the cost; the communication becomes teaching when it allows space for both understanding and grief
-  outcome: The page's message honors the eight of cups; the departure is understood as necessary; both the walking and the grieving are validated; the communication becomes part of the journey of leaving
+  mechanism: The message and the departure teach about understanding and loss
+  function: the page learns that validating a choice does not remove its pain; the departing one learns that being understood eases the burden even if it doesn't remove it; the message becomes wisdom when it honors both the necessity and the cost; the communication becomes teaching when it allows space for both understanding and grief
+  integration_outcome: The page's message honors the eight of cups; the departure is understood as necessary; both the walking and the grieving are validated; the communication becomes part of the journey of leaving
+  key_terms: page learns that validating, page's message honors the eight, message and the departure teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, 9 of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Fulfilled Wish, The Contentment Achieved, The Heart's Desire Met, Satisfaction Complete
-numerical_relation: 11 + 9 = 20; the messenger announces fulfillment; knowledge of satisfaction is shared
+numerical_relation: 11 + 9 = 20 (XX Judgement; the messenger announces fulfillment; knowledge of satisfaction is shared)
 elemental_bridge: Air (communication of completion) meets Water (emotional satisfaction); the messenger validates the fulfillment
 threshold_type: The moment when the messenger brings words about the achievement of desire
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Fulfillment understood, satisfaction acknowledged, message validating, contentment witnessed
 
 dynamic_inhibition:
-  blockade: The message about fulfillment may create pressure to maintain the satisfaction
+  mechanism: The message about fulfillment may create pressure to maintain the satisfaction
+  blockade_nature: The message about fulfillment may create pressure to maintain the satisfaction
+  swords_state: The figure experiences the contentment but may lose its ease by thinking about it
   consequence: The figure experiences the contentment but may lose its ease by thinking about it
+  key_terms: message about fulfillment may create, figure experiences the contentment, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words about fulfillment become comparison with others
+  mechanism: The page of swords' words about fulfillment become comparison with others
+  mode: The page of swords' words about fulfillment become comparison with others
   loss: The figure loses the pure joy of achievement by measuring it against others
+  key_terms: page of swords' words about, figure loses the pure joy, held tension
 
 dynamic_dependency:
-  integration: The message and the fulfillment teach about achievement and presence; the page learns that the best validation comes from genuine observation; the fulfilled one learns that language can deepen integration without demanding maintenance; the message becomes wisdom when it honors the experience; the communication becomes teaching when it anchors the achievement
-  outcome: The page's message honors the nine of cups; the fulfillment is understood and integrated; the achievement becomes real through being witnessed; the communication becomes part of the contentment
+  mechanism: The message and the fulfillment teach about achievement and presence
+  function: the page learns that the best validation comes from genuine observation; the fulfilled one learns that language can deepen integration without demanding maintenance; the message becomes wisdom when it honors the experience; the communication becomes teaching when it anchors the achievement
+  integration_outcome: The page's message honors the nine of cups; the fulfillment is understood and integrated; the achievement becomes real through being witnessed; the communication becomes part of the contentment
+  key_terms: page learns that the best, page's message honors the nine, message and the fulfillment teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, 10 of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Family Blessed, The Emotional Lineage, The Loving Community Secure, Belonging Complete
-numerical_relation: 11 + 10 = 21; the messenger speaks of belonging; knowledge of family is shared
+numerical_relation: 11 + 10 = 21 (XXI The World; the messenger speaks of belonging; knowledge of family is shared)
 elemental_bridge: Air (communication linking generations) meets Water (family emotional bonds); the messenger articulates what family means
 threshold_type: The moment when the messenger brings words about what holds the family together
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Family understood, belonging acknowledged, message validating, connection witnessed
 
 dynamic_inhibition:
-  blockade: The message about family may become expectation rather than honor of what is
+  mechanism: The message about family may become expectation rather than honor of what is
+  blockade_nature: The message about family may become expectation rather than honor of what is
+  swords_state: The family hears the words but must still live the reality
   consequence: The family hears the words but must still live the reality
+  key_terms: message about family may, family hears the words, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words about family become judgment about how family should be
+  mechanism: The page of swords' words about family become judgment about how family should be
+  mode: The page of swords' words about family become judgment about how family should be
   loss: The figure loses the natural flow of belonging by listening to external ideas
+  key_terms: page of swords' words about, figure loses the natural flow, held tension
 
 dynamic_dependency:
-  integration: The message and the family teach each other about articulation and being; the page learns that the best words honor the natural bonds; the family learns that language can deepen understanding; the message becomes wisdom when it honors the connection; the communication becomes teaching when it strengthens rather than judges
-  outcome: The page's message honors the ten of cups; the family bonds are understood and articulated; the belonging is witnessed and deepened; the communication becomes part of the family's continuity
+  mechanism: The message and the family teach each other about articulation and being
+  function: the page learns that the best words honor the natural bonds; the family learns that language can deepen understanding; the message becomes wisdom when it honors the connection; the communication becomes teaching when it strengthens rather than judges
+  integration_outcome: The page's message honors the ten of cups; the family bonds are understood and articulated; the belonging is witnessed and deepened; the communication becomes part of the family's continuity
+  key_terms: page learns that the best, page's message honors the ten, message and the family teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, Page of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Messenger, The Emotional Invitation, The Heart's Offer, Feeling Approaching
-numerical_relation: 11 + 11 = 22; two messengers meet; idea meets feeling; intellect meets heart
+numerical_relation: 11 + 11 = 22 → 2+2=4 (IV The Emperor; two messengers meet; idea meets feeling; intellect meets heart)
 elemental_bridge: Air (intellectual messenger) meets Water (emotional messenger); two forms of communication
 threshold_type: The moment when thinking and feeling messengers meet
 
@@ -449,34 +519,39 @@ dynamic_antagonism:
   key_terms: Different languages, mutual recognition, integration possible, wholeness achieved
 
 dynamic_inhibition:
-  blockade: The two messengers may speak past each other; thinking and feeling may not align
+  mechanism: The two messengers may speak past each other
+  blockade_nature: thinking and feeling may not align
+  swords_state: The messages arrive but may not be fully integrated
   consequence: The messages arrive but may not be fully integrated
+  key_terms: two messengers may speak past, thinking and feeling may, messages arrive but may
 
 dynamic_devolution:
-  corruption: The page of swords dismisses the page of cups as irrational; the page of cups dismisses the page of swords as cold
+  mechanism: The page of swords dismisses the page of cups as irrational
+  mode: the page of cups dismisses the page of swords as cold
   loss: The figures lose the possibility of complete communication
+  key_terms: page of cups dismisses, figures lose the possibility, page of swords dismisses
 
 dynamic_dependency:
-  integration: The message and the feeling teach each other about complete expression; the page of swords learns that thought without feeling is incomplete; the page of cups learns that feeling without thought can confuse; together they discover that wholeness requires both; the message becomes wisdom when it includes both head and heart
-  outcome: The two pages unite in complete communication; intellect and emotion speak together; the message becomes profound because it includes both understanding and feeling; the messengers become partners in expressing truth fully
+  mechanism: The message and the feeling teach each other about complete expression
+  function: the page of swords learns that thought without feeling is incomplete; the page of cups learns that feeling without thought can confuse; together they discover that wholeness requires both; the message becomes wisdom when it includes both head and heart
+  integration_outcome: The two pages unite in complete communication; intellect and emotion speak together; the message becomes profound because it includes both understanding and feeling; the messengers become partners in expressing truth fully
+  key_terms: page of swords learns, two pages unite in complete, message and the feeling teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
-
-[Continuing with remaining 5 Cups court cards in same pattern...]
 
 card_pair: Page of Swords, Knight of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Devoted Lover, The Romantic Quest, The Emotional Warrior, Passion Embodied
-numerical_relation: 11 + 12 = 23; the messenger speaks to the lover; knowledge of devotion is shared
+numerical_relation: 11 + 12 = 23 → 2+3=5 (V The Pope; the messenger speaks to the lover; knowledge of devotion is shared)
 elemental_bridge: Air (communication about love) meets Water (passionate devotion); the messenger understands the quest
 threshold_type: The moment when the messenger brings words about romantic devotion
 
@@ -494,32 +569,39 @@ dynamic_antagonism:
   key_terms: Love understood, devotion validated, message honoring, quest witnessed
 
 dynamic_inhibition:
-  blockade: The message may be too intellectual for pure emotional pursuit
+  mechanism: The message may be too intellectual for pure emotional pursuit
+  blockade_nature: The message may be too intellectual for pure emotional pursuit
+  swords_state: The figure understands but continues from a deeper source
   consequence: The figure understands but continues from a deeper source
+  key_terms: message may be too intellectual, figure understands but continues from, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words about love become criticism of the quest
+  mechanism: The page of swords' words about love become criticism of the quest
+  mode: The page of swords' words about love become criticism of the quest
   loss: The figure loses confidence in the pursuit by listening to analysis
+  key_terms: page of swords' words about, figure loses confidence, held tension
 
 dynamic_dependency:
-  integration: The message and the quest teach about articulation and passion; the page learns that love's best validation comes from genuine witnessing; the lover learns that language can deepen understanding without replacing feeling; the message becomes wisdom when it honors the journey; the communication becomes teaching when it supports the quest
-  outcome: The page's message honors the knight; the devotion is understood and supported; the communication becomes part of the quest
+  mechanism: The message and the quest teach about articulation and passion
+  function: the page learns that love's best validation comes from genuine witnessing; the lover learns that language can deepen understanding without replacing feeling; the message becomes wisdom when it honors the journey; the communication becomes teaching when it supports the quest
+  integration_outcome: The page's message honors the knight; the devotion is understood and supported; the communication becomes part of the quest
+  key_terms: page learns that love's best, page's message honors the knight, message and the quest teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, Queen of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Loving Mother, The Emotional Sustenance, The Heart's Comfort, Care Unconditional
-numerical_relation: 11 + 13 = 24; the messenger speaks to the nurturer; knowledge of caring is shared
+numerical_relation: 11 + 13 = 24 → 2+4=6 (VI The Lovers; the messenger speaks to the nurturer; knowledge of caring is shared)
 elemental_bridge: Air (communication about care) meets Water (manifested nurturing); the messenger articulates what the queen knows
 threshold_type: The moment when the messenger brings words about what care means
 
@@ -537,32 +619,39 @@ dynamic_antagonism:
   key_terms: Care understood, nurturing honored, message validating, care witnessed
 
 dynamic_inhibition:
-  blockade: The message may become sentimental rather than practical
+  mechanism: The message may become sentimental rather than practical
+  blockade_nature: The message may become sentimental rather than practical
+  swords_state: The words are kind but the care continues from a deeper source
   consequence: The words are kind but the care continues from a deeper source
+  key_terms: message may become sentimental rather, words are kind, held tension
 
 dynamic_devolution:
-  corruption: The page of swords' words about care become expectation of how the queen should nurture
+  mechanism: The page of swords' words about care become expectation of how the queen should nurture
+  mode: The page of swords' words about care become expectation of how the queen should nurture
   loss: The figure loses the natural flow of caring by listening to external ideas
+  key_terms: page of swords' words about, figure loses the natural flow, held tension
 
 dynamic_dependency:
-  integration: The message and the care teach about articulation and practice; the page learns that the best words honor intuitive knowing; the queen learns that language can deepen understanding; the message becomes wisdom when it honors the practice; the communication becomes teaching when it serves the caring
-  outcome: The page's message honors the queen; the care is understood and appreciated; the communication becomes part of the nurturing work
+  mechanism: The message and the care teach about articulation and practice
+  function: the page learns that the best words honor intuitive knowing; the queen learns that language can deepen understanding; the message becomes wisdom when it honors the practice; the communication becomes teaching when it serves the caring
+  integration_outcome: The page's message honors the queen; the care is understood and appreciated; the communication becomes part of the nurturing work
+  key_terms: page learns that the best, page's message honors the queen, message and the care teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC
 
 ---
 
 card_pair: Page of Swords, King of Cups
 archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_cups: The Emotional Master, The Heart Balanced, The Compassionate Authority, Feeling Mastered
-numerical_relation: 11 + 14 = 25; the messenger addresses the emotional authority; knowledge arrives for the master
+numerical_relation: 11 + 14 = 25 → 2+5=7 (VII The Chariot; the messenger addresses the emotional authority; knowledge arrives for the master)
 elemental_bridge: Air (communication to power) meets Water (emotional mastery); the messenger brings wisdom to the ruler
 threshold_type: The moment when the messenger brings counsel to the emotional king
 
@@ -580,22 +669,29 @@ dynamic_antagonism:
   key_terms: New perspective offered, authority listening, message received, wisdom refreshed
 
 dynamic_inhibition:
-  blockade: The message may be ignored or resisted by established authority
+  mechanism: The message may be ignored or resisted by established authority
+  blockade_nature: The message may be ignored or resisted by established authority
+  swords_state: The page speaks but the king continues from experience
   consequence: The page speaks but the king continues from experience
+  key_terms: message may be ignored or, page speaks but the king, held tension
 
 dynamic_devolution:
-  corruption: The page of swords presumes greater wisdom than the king
+  mechanism: The page of swords presumes greater wisdom than the king
+  mode: The page of swords presumes greater wisdom than the king
   loss: The figure loses respect by overestimating their knowledge
+  key_terms: page of swords presumes greater, figure loses respect by overestimating, held tension
 
 dynamic_dependency:
-  integration: The message and the authority teach about wisdom and renewal; the page learns that real wisdom respects experience; the king learns that fresh perspective can deepen understanding; the message becomes counsel when offered humbly; the communication becomes wisdom when it serves the kingdom's good
-  outcome: The page's message is received by the king; the new perspective enriches the established wisdom; the youth and experience become synchronized; the communication becomes part of the kingdom's renewal
+  mechanism: The message and the authority teach about wisdom and renewal
+  function: the page learns that real wisdom respects experience; the king learns that fresh perspective can deepen understanding; the message becomes counsel when offered humbly; the communication becomes wisdom when it serves the kingdom's good
+  integration_outcome: The page's message is received by the king; the new perspective enriches the established wisdom; the youth and experience become synchronized; the communication becomes part of the kingdom's renewal
+  key_terms: page learns that real wisdom, page's message is received, message and the authority teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: POCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: page-1 through page-14
+  uid: POSC

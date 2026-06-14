@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: The knight's momentum prevents him from stopping to receive the gift that waits
   swords_state: The figure rides past the abundance he seeks
   consequence: the gift was there but the speed of pursuit carried him beyond it
-  key_terms: knight's momentum prevents him from, figure rides past the abundance, gift was there
+  key_terms: momentum past the waiting gift, riding past abundance, speed overshooting reception, the gift left behind
 
 dynamic_devolution:
   mechanism: The knight of swords' pursuit becomes obsession with acquiring material gifts by force
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: The knight's speed prevents him from seeing the delicate balance he disrupts
   swords_state: The figure charges through unaware that the exchange collapses in his wake
   consequence: The figure charges through unaware that the exchange collapses in his wake
-  key_terms: knight's speed prevents him from, figure charges through unaware, held tension
+  key_terms: speed disrupting delicate balance, charging through the exchange, the collapsed juggle, blind to what he topples
 
 dynamic_devolution:
   mechanism: The knight of swords deliberately destroys balance he cannot maintain himself
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: The knight's insistence on speed prevents the craftspeople from working at the pace their art requires
   swords_state: The figure gets a quickly built structure that fails because the craft was compromised by urgency
   consequence: The figure gets a quickly built structure that fails because the craft was compromised by urgency
-  key_terms: knight's insistence on speed prevents, figure gets a quickly built, held tension
+  key_terms: urgency rushing the craft, compromised work, the fast-built structure that fails, pace against artistry
 
 dynamic_devolution:
   mechanism: The knight of swords demands the craftspeople sacrifice quality for the sake of the quest
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: force deepens defense
   swords_state: The figure holds more firmly when attacked
   consequence: the knight's charge has made release impossible
-  key_terms: knight's aggressive demand causes, force deepens defense, figure holds more firmly when, knight's charge has made release
+  key_terms: force deepening the miser's grip, charge making release impossible, defense hardened by attack, the tightened hold
 
 dynamic_devolution:
   mechanism: The knight of swords justifies seizing by force what is refused in sharing
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: The knight's focus on the distant goal renders those in immediate need invisible
   swords_state: The figure achieves the quest but loses his humanity in the urgency that blinded him to suffering
   consequence: The figure achieves the quest but loses his humanity in the urgency that blinded him to suffering
-  key_terms: knight's focus on the distant, figure achieves the quest, held tension
+  key_terms: distant goal blinding to immediate need, the invisible suffering, humanity lost to urgency, quest over compassion
 
 dynamic_devolution:
   mechanism: The knight of swords exploits those in need to advance his pursuit
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The knight's demand for speed bypasses the careful measurement that makes exchange just
   swords_state: The figure receives or distributes without proper measure
   consequence: the exchange creates obligation rather than freedom
-  key_terms: knight's demand for speed bypasses, figure receives or distributes without, exchange creates obligation rather
+  key_terms: speed bypassing just measure, exchange without proper weight, obligation not freedom, the unmeasured giving
 
 dynamic_devolution:
   mechanism: The knight of swords manipulates the exchange in his favor by demanding more than is fair
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: the urgency destroys the potential of what was growing
   swords_state: The figure gets an early and unripe result
   consequence: the quest is satisfied in appearance but not substance
-  key_terms: knight harvests before the fruit, urgency destroys the potential, figure gets an early, quest is satisfied in appearance
+  key_terms: harvesting before ripeness, the unripe result, potential destroyed by urgency, appearance not substance
 
 dynamic_devolution:
   mechanism: The knight of swords destroys the gardener's long investment in a moment of urgent demand
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: The knight's restlessness prevents the deep practice that refines understanding
   swords_state: The figure grasps ideas quickly but never develops the depth that comes from sustained engagement
   consequence: The figure grasps ideas quickly but never develops the depth that comes from sustained engagement
-  key_terms: knight's restlessness prevents the deep, figure grasps ideas quickly, held tension
+  key_terms: restlessness preventing deep practice, quick grasp without depth, no sustained engagement, the unrefined understanding
 
 dynamic_devolution:
   mechanism: The knight of swords dismisses the apprentice's work as too slow and therefore beneath the quest
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The knight's restlessness seems purposeless in the presence of one who is already whole
   swords_state: The figure cannot contribute to what needs nothing and so passes by empty-handed
   consequence: The figure cannot contribute to what needs nothing and so passes by empty-handed
-  key_terms: knight's restlessness seems purposeless, figure cannot contribute to what, held tension
+  key_terms: restlessness purposeless before wholeness, nothing to contribute to what needs nothing, passing empty-handed, the superfluous charge
 
 dynamic_devolution:
   mechanism: The knight of swords disturbs or tries to take from the sovereign garden's abundance
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The knight's focus on individual achievement prevents him from honoring or building upon the collective wealth
   swords_state: The figure achieves through the individual quest but contributes nothing to the legacy
   consequence: The figure achieves through the individual quest but contributes nothing to the legacy
-  key_terms: knight's focus on individual achievement, figure achieves through the individual, held tension
+  key_terms: individual quest over collective wealth, nothing built on the legacy, the uncontributing achiever, solitary over inheritance
 
 dynamic_devolution:
   mechanism: The knight of swords exploits the ancestral wealth to fuel a quest that serves only himself
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: The knight's speed discourages the student from even attempting the pursuit
   swords_state: The beginner abandons the path because the seeker made it look impossibly fast and difficult
   consequence: The beginner abandons the path because the seeker made it look impossibly fast and difficult
-  key_terms: knight's speed discourages the student, beginner abandons the path because, held tension
+  key_terms: speed discouraging the beginner, the abandoned path, made to look impossibly fast, the deterred student
 
 dynamic_devolution:
   mechanism: The knight of swords dismisses the student's practical curiosity as too slow and earthly for the true quest
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: the meeting becomes a standoff rather than a learning
   swords_state: The figure remains isolated in his own speed
   consequence: unable to benefit from the lesson the other rider carries
-  key_terms: neither knight can adapt, meeting becomes a standoff rather, figure remains isolated in his, unable to benefit from
+  key_terms: two rhythms that cannot adapt, the standoff not learning, isolated in his own speed, lesson unexchanged
 
 dynamic_devolution:
   mechanism: The knight of swords mocks the steady rider's pace and rides past without learning
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: The knight's restlessness prevents him from receiving the embodied wisdom the queen offers
   swords_state: The figure rides away before the queen's counsel has been absorbed
   consequence: the lesson is offered but not received
-  key_terms: knight's restlessness prevents him from, figure rides away before, lesson is offered
+  key_terms: restlessness refusing embodied wisdom, riding off before counsel lands, the unabsorbed lesson, urgency over grounding
 
 dynamic_devolution:
   mechanism: The knight of swords appropriates the queen's resources for the quest without honoring the domain that provided them
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: who withholds what the quest needs
   swords_state: The figure departs without what was needed because the manner of asking dishonored the king
   consequence: The figure departs without what was needed because the manner of asking dishonored the king
-  key_terms: knight's urgency reads as disrespect, who withholds what the quest, figure departs without what
+  key_terms: urgency read as disrespect, the king withholding, dishonored asking, departing without what was needed
 
 dynamic_devolution:
   mechanism: The knight of swords attempts to bypass or steal from the earthly king's authority

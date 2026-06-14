@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: The knight's forward momentum carries him past the opening heart before love can register
   swords_state: The figure seeks truth far away while the gift of love waited right before him
   consequence: The figure seeks truth far away while the gift of love waited right before him
-  key_terms: knight's forward momentum carries him, figure seeks truth far away, held tension
+  key_terms: momentum past the opening heart, love unregistered, seeking far what waited near, the overshot gift
 
 dynamic_devolution:
   mechanism: The knight of swords tries to seize love as a resource for the quest rather than receiving it as a gift
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: The knight cannot enter what has already been mutually determined without disrupting it
   swords_state: The figure remains outside the bond
   consequence: never understanding what mutual recognition truly offers
-  key_terms: knight cannot enter what has, figure remains outside the bond, never understanding what mutual recognition
+  key_terms: cannot enter the settled bond, remaining outside, mutual recognition not understood, the excluded charger
 
 dynamic_devolution:
   mechanism: The knight of swords inserts himself into the bond
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: The knight refuses the celebration and misses the communal truth it embodies
   swords_state: The figure pursues alone what the community already celebrates together
   consequence: the solitary seeker passes by the answer
-  key_terms: knight refuses the celebration, figure pursues alone what, solitary seeker passes
+  key_terms: refusing the celebration, missing the communal truth, the solitary seeker passing the answer, pursuit over gathering
 
 dynamic_devolution:
   mechanism: The knight of swords disrupts the celebration by insisting the quest take precedence over communal joy
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the call goes unheard
   swords_state: The figure remains in withdrawal
   consequence: the seeker rides on alone without the one he sought
-  key_terms: knight's urgency is simply unable, call goes unheard, figure remains in withdrawal, seeker rides on alone without
+  key_terms: urgency unable to penetrate withdrawal, the unheard call, riding on without the one sought, the absorbed who won't be roused
 
 dynamic_devolution:
   mechanism: The knight of swords forces the contemplator outward before the inner work is complete
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: the mourner cannot integrate loss at the seeker's pace
   swords_state: The figure suppresses grief to satisfy the urgency of the pursuit and the loss festers without resolution
   consequence: The figure suppresses grief to satisfy the urgency of the pursuit and the loss festers without resolution
-  key_terms: knight's urgency rushes the grief, mourner cannot integrate loss at, figure suppresses grief to satisfy
+  key_terms: rushing the grief, mourning at the wrong pace, suppressed loss festering, urgency against sorrow
 
 dynamic_devolution:
   mechanism: The knight of swords dismisses the grief as self-indulgent distraction from the quest
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The knight's forward momentum prevents him from receiving what the memory offers
   swords_state: The figure loses connection with why the quest began
   consequence: the urgency becomes hollow without the innocence that sparked it
-  key_terms: knight's forward momentum prevents him, figure loses connection with why, urgency becomes hollow without
+  key_terms: momentum past what memory offers, lost connection to why the quest began, hollow urgency, the forgotten spark
 
 dynamic_devolution:
   mechanism: The knight of swords gets lost in nostalgia and never returns to the present quest
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: The knight becomes distracted by the multiplicity of visions and loses the thread of the original quest
   swords_state: The figure becomes lost among beautiful illusions
   consequence: the original purpose forgotten in the proliferation of seductive alternatives
-  key_terms: knight becomes distracted, figure becomes lost among beautiful, original purpose forgotten
+  key_terms: distracted by many visions, the lost thread, lost among illusions, original purpose forgotten
 
 dynamic_devolution:
   mechanism: The knight of swords becomes the enforcer of one vision and destroys all the others
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: The knight's noise disturbs the quiet departure that requires stillness to honor what is being left
   swords_state: The figure cannot complete the quiet departure because the urgency of the rider has broken the contemplative silence
   consequence: The figure cannot complete the quiet departure because the urgency of the rider has broken the contemplative silence
-  key_terms: knight's noise disturbs the quiet, figure cannot complete the quiet, held tension
+  key_terms: noise disturbing the quiet departure, broken contemplative silence, the unhonored leaving, urgency against stillness
 
 dynamic_devolution:
   mechanism: The knight of swords convinces the one departing to abandon the quiet leaving for a faster
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The knight cannot receive the lesson of satisfaction because the urgency of pursuit prevents stillness
   swords_state: The figure rides past the satisfied one
   consequence: unable to absorb what completion looks like, unable to rest
-  key_terms: knight cannot receive the lesson, figure rides past the satisfied, unable to absorb what completion
+  key_terms: pursuit preventing the stillness of satisfaction, riding past contentment, unable to rest, completion unabsorbed
 
 dynamic_devolution:
   mechanism: The knight of swords dismisses the satisfied one's completeness as complacency rather than arrival
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The knight cannot stay because the urgency of the quest refuses to be laid down
   swords_state: The figure arrives at home but cannot remain
   consequence: the sword and the pursuit prevent the fullness of belonging
-  key_terms: knight cannot stay because, figure arrives at home, sword and the pursuit prevent
+  key_terms: quest that won't be laid down, arriving home but unable to stay, belonging foreclosed, pursuit over fullness
 
 dynamic_devolution:
   mechanism: The knight of swords brings his urgency into the home
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: The knight's urgency prevents him from receiving what the dreamer's slow vision offers
   swords_state: The figure charges past imaginative truth that would have deepened the intellectual pursuit
   consequence: The figure charges past imaginative truth that would have deepened the intellectual pursuit
-  key_terms: knight's urgency prevents him from, figure charges past imaginative truth, held tension
+  key_terms: urgency refusing the dreamer's slow vision, charging past imaginative truth, depth foregone, head outrunning the dream
 
 dynamic_devolution:
   mechanism: The knight of swords dismisses the dreamer's emotional truth as irrelevant to the quest
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: the meeting becomes rivalry rather than enrichment
   swords_state: The figure returns to his own pursuit diminished by the encounter
   consequence: the potential of the meeting is lost
-  key_terms: each knight refuses to learn, meeting becomes rivalry rather, figure returns to his own, potential of the meeting
+  key_terms: each refusing the other's quest, rivalry not enrichment, diminished by the encounter, lost potential
 
 dynamic_devolution:
   mechanism: The knight of swords defeats the knight of cups in argument
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: The knight refuses the queen's deeper seeing and insists on the surface quest he has named
   swords_state: The figure rides away toward what he thought he sought
   consequence: missing what the queen's intuition revealed was the real need
-  key_terms: knight refuses the queen's deeper, figure rides away toward what, missing what the queen's intuition
+  key_terms: refusing the queen's deeper seeing, insisting on the named quest, missing the real need, surface over intuition
 
 dynamic_devolution:
   mechanism: The knight of swords dismisses the queen's empathic knowing as mere feeling rather than genuine wisdom
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: the mastered emotion cannot be taken quickly
   swords_state: The figure receives surface courtesy but not the deep wisdom the king holds
   consequence: the urgency has denied the depth
-  key_terms: knight's urgency prevents him from, mastered emotion cannot be taken, figure receives surface courtesy, urgency has denied the depth
+  key_terms: urgency refusing the king's depth, mastered emotion not taken quickly, surface courtesy not wisdom, depth denied by speed
 
 dynamic_devolution:
   mechanism: The knight of swords challenges the king's emotional authority as weakness beneath the intellectual quest

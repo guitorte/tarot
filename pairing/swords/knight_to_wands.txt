@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: both burn in all directions
   swords_state: The figure is energized but scattered
   consequence: the speed of the pursuit and the fire of the spark move without a clear target
-  key_terms: combined force of the pursuit, both burn in all directions, figure is energized but scattered, speed of the pursuit
+  key_terms: combined force exceeding direction, both burning every way, energized but scattered, speed and spark without target
 
 dynamic_devolution:
   mechanism: The knight of swords uses the creative fire purely as fuel for the urgency
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: The knight's charging energy disturbs the visionary's contemplation before the vision is fully formed
   swords_state: The figure acts on an incomplete vision because the urgency of the pursuit demanded premature movement
   consequence: The figure acts on an incomplete vision because the urgency of the pursuit demanded premature movement
-  key_terms: knight's charging energy disturbs, figure acts on an incomplete, held tension
+  key_terms: charge disturbing the unformed vision, premature movement, acting on the incomplete, urgency before the vision sets
 
 dynamic_devolution:
   mechanism: The knight of swords drags the visionary into premature action before the vision has matured
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: The knight's charge disturbs the careful watching the trader needs to read the horizon accurately
   swords_state: The figure misses what was visible from the watching position
   consequence: the urgency of the charge has moved past what needed to be seen
-  key_terms: knight's charge disturbs the careful, figure misses what was visible, urgency of the charge has
+  key_terms: charge disrupting careful watching, missing what the horizon showed, the unread signs, urgency past observation
 
 dynamic_devolution:
   mechanism: The knight of swords dismisses the horizon-watcher's patience as passivity and forces premature action
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: The knight's urgency prevents him from receiving the renewal that celebration offers
   swords_state: The figure continues the quest depleted because he could not stop to receive the energy that victory's joy provides
   consequence: The figure continues the quest depleted because he could not stop to receive the energy that victory's joy provides
-  key_terms: knight's urgency prevents him from, figure continues the quest depleted, held tension
+  key_terms: urgency refusing celebration's renewal, the depleted continuance, joy's energy unreceived, no stop to refuel
 
 dynamic_devolution:
   mechanism: The knight of swords disrupts the celebration with the urgency of quests not yet completed
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: The knight's entry into the conflict adds another combatant rather than a resolution
   swords_state: The figure joins the fray and the conflict deepens
   consequence: clarity has become another sword, not a resolution
-  key_terms: knight's entry into the conflict, figure joins the fray, clarity has become another sword
+  key_terms: another combatant not a resolution, the deepened fray, clarity become another sword, joining the conflict
 
 dynamic_devolution:
   mechanism: The knight of swords picks the side he agrees with and intensifies the conflict rather than illuminating it
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The seeker's urgency causes him to bypass the lesson the victor offers
   swords_state: The figure charges past without extracting from the victor's achievement what could orient the remaining quest
   consequence: The figure charges past without extracting from the victor's achievement what could orient the remaining quest
-  key_terms: seeker's urgency causes him, figure charges past without extracting, held tension
+  key_terms: bypassing the victor's lesson, charging past orientation, achievement unmined, urgency over learning
 
 dynamic_devolution:
   mechanism: The knight of swords resents the victor's achievement as something that should have been his own
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: The knight's challenge forces the defender into exhausting combat rather than principled stand
   swords_state: The figure is worn down by the seeker's persistent urgency until the stand falters not from failure but from fatigue
   consequence: The figure is worn down by the seeker's persistent urgency until the stand falters not from failure but from fatigue
-  key_terms: knight's challenge forces the defender, figure is worn down, held tension
+  key_terms: forcing the defender into exhausting combat, the stand faltering from fatigue, worn down by persistence, principle lost to grinding
 
 dynamic_devolution:
   mechanism: The knight of swords attacks what is genuinely worth defending because the pursuit dismisses all resistance as obstacle
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: The knight's urgency cannot match the momentum of the arrows and cannot redirect them
   swords_state: The figure is left behind by the velocity he cannot match
   consequence: the pursuit is outpaced by its own momentum
-  key_terms: knight's urgency cannot match, figure is left behind, pursuit is outpaced
+  key_terms: urgency outpaced by the arrows, left behind by velocity, unable to redirect momentum, outrun by speed itself
 
 dynamic_devolution:
   mechanism: The knight of swords tries to control or direct the swiftness of the arrows and loses both direction and momentum
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The knight ignores the resilient guardian's warning and charges into the same mistake the guardian has already survived
   swords_state: The figure receives the wound the guardian could have predicted
   consequence: the urgency has rejected the lesson of tested fire
-  key_terms: knight ignores the resilient guardian's, figure receives the wound, urgency has rejected the lesson
+  key_terms: ignoring the guardian's warning, charging into the survived mistake, the predictable wound, tested fire rejected
 
 dynamic_devolution:
   mechanism: The knight of swords mocks the guardian's caution as fear and thereby shames what is genuine wisdom
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The knight's advice to simply drop the burden fails to account for the obligations the bearer has accepted
   swords_state: The figure either keeps all the weight or drops what was genuinely needed
   consequence: the urgency has oversimplified what requires discernment
-  key_terms: knight's advice to simply drop, figure either keeps all, urgency has oversimplified what requires
+  key_terms: just-drop-it ignoring real obligation, oversimplified burden, keeping all or dropping the needed, discernment foregone
 
 dynamic_devolution:
   mechanism: The knight of swords rides past the burdened one
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: The knight's speed discourages the page from pursuing the fire any further
   swords_state: The beginning fire is extinguished by the impossible pace of the experienced seeker's urgency
   consequence: The beginning fire is extinguished by the impossible pace of the experienced seeker's urgency
-  key_terms: knight's speed discourages the page, beginning fire is extinguished, held tension
+  key_terms: speed discouraging the page's fire, the extinguished beginning, the impossible pace, the deterred spark
 
 dynamic_devolution:
   mechanism: The knight of swords takes the page's beginning fire and absorbs it into the quest without allowing the young one to develop their own
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: The knight of swords' specific direction and the knight of wands' adventurous wandering cannot be reconciled in the same pace
   swords_state: The riders separate, each missing what the other carried
   consequence: truth without adventure becomes narrow and adventure without truth becomes shallow
-  key_terms: knight of swords' specific direction, riders separate, truth without adventure becomes narrow
+  key_terms: direction versus wandering irreconcilable, the riders separate, narrow truth and shallow adventure, two paces that won't meet
 
 dynamic_devolution:
   mechanism: The knight of swords convinces the adventurer to abandon the joy of exploration for the rigidity of the specific quest
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: The knight refuses to stop for the queen's sovereignty and misses the creative truth she embodies
   swords_state: The figure charges past a source of creative wisdom that could have deepened the entire purpose of the quest
   consequence: The figure charges past a source of creative wisdom that could have deepened the entire purpose of the quest
-  key_terms: knight refuses to stop for, figure charges past a source, held tension
+  key_terms: refusing the queen's sovereignty, charging past creative truth, source of wisdom missed, purpose left shallow
 
 dynamic_devolution:
   mechanism: The knight of swords is captured by the queen's radiance and becomes her herald rather than an independent seeker
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: The knight's urgency cannot hear the king's broader vision because the specific quest fills his entire horizon
   swords_state: The figure cannot absorb the sovereign fire's scope because the urgency of the particular pursuit has filled the entire field of attention
   consequence: The figure cannot absorb the sovereign fire's scope because the urgency of the particular pursuit has filled the entire field of attention
-  key_terms: knight's urgency cannot hear, figure cannot absorb the sovereign, held tension
+  key_terms: urgency deaf to the broader vision, the quest filling the horizon, the sovereign scope unabsorbed, particular over panoramic
 
 dynamic_devolution:
   mechanism: The knight of swords refuses to subordinate his urgent truth to the king's larger vision

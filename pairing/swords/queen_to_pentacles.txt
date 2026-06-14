@@ -1,7 +1,7 @@
 card_pair: Queen of Swords, Ace of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Gift Offered, The Seed Manifest, The Threshold of Plenty, Material Arrival
-numerical_relation: 13 + 1 = 14; the discerning mind meets the first material gift; clarity encounters abundance at its seed
+numerical_relation: 13 + 1 = 14 (XIV Temperance; the discerning mind meets the first material gift; clarity encounters abundance at its seed)
 elemental_bridge: Air (sovereign discernment) meets Earth (first manifestation); the judge of truth encounters the gift before it has been evaluated
 threshold_type: The moment when the clear authority determines whether the material gift is what it appears to be
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Scrutiny delaying, gift waiting, discernment complicating, clarity preceding reception
 
 dynamic_inhibition:
-  blockade: The queen's examination is so thorough that the moment of reception passes
-  consequence: The figure understands the gift perfectly but never fully receives it; clarity has replaced the joy of abundance
+  mechanism: The queen's examination is so thorough that the moment of reception passes
+  blockade_nature: The queen's examination is so thorough that the moment of reception passes
+  swords_state: The figure understands the gift perfectly but never fully receives it
+  consequence: clarity has replaced the joy of abundance
+  key_terms: queen's examination is so thorough, figure understands the gift perfectly, clarity has replaced the joy
 
 dynamic_devolution:
-  corruption: The queen of swords finds fault with the gift and rejects what was genuinely offered
+  mechanism: The queen of swords finds fault with the gift and rejects what was genuinely offered
+  mode: The queen of swords finds fault with the gift and rejects what was genuinely offered
   loss: The figure loses material abundance because the discerning mind requires perfection before receiving
+  key_terms: queen of swords finds fault, figure loses material abundance because, held tension
 
 dynamic_dependency:
-  integration: The clarity and the gift teach each other about receiving; the queen learns that some abundance is best received with gratitude before analysis; the figure learns that abundance given to a discerning mind is given well; the discernment becomes appreciation
-  outcome: The queen receives the gift first and examines it after; the abundance is full because it was received completely; together they demonstrate that clarity serves abundance most when it comes after the open-handed reception
+  mechanism: The clarity and the gift teach each other about receiving
+  function: the queen learns that some abundance is best received with gratitude before analysis; the figure learns that abundance given to a discerning mind is given well; the discernment becomes appreciation
+  integration_outcome: The queen receives the gift first and examines it after; the abundance is full because it was received completely; together they demonstrate that clarity serves abundance most when it comes after the open-handed reception
+  key_terms: queen learns that some abundance, queen receives the gift first, clarity and the gift teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, 2 of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Juggler, The Balancer, The Dual Flow, Exchange Mastered
-numerical_relation: 13 + 2 = 15; the discerning mind watches the balance; clarity assesses the juggling act
+numerical_relation: 13 + 2 = 15 (XV The Devil; the discerning mind watches the balance; clarity assesses the juggling act)
 elemental_bridge: Air (sharp observation) meets Earth (the performance of balance); the sovereign intellect observes and evaluates the exchange in motion
 threshold_type: The moment when the clear authority determines whether the balance is genuine or performed
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Observation unsettling, scrutiny breaking concentration, discernment at wrong moment, clarity interrupting balance
 
 dynamic_inhibition:
-  blockade: The queen's honest assessment arrives at a moment when the juggler cannot hear it without losing the balance
+  mechanism: The queen's honest assessment arrives at a moment when the juggler cannot hear it without losing the balance
+  blockade_nature: The queen's honest assessment arrives at a moment when the juggler cannot hear it without losing the balance
+  swords_state: The figure receives accurate feedback but loses the equilibrium in the process of hearing it
   consequence: The figure receives accurate feedback but loses the equilibrium in the process of hearing it
+  key_terms: queen's honest assessment arrives at, figure receives accurate feedback, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords declares the balance insufficient before the juggler has had the chance to fully establish it
+  mechanism: The queen of swords declares the balance insufficient before the juggler has had the chance to fully establish it
+  mode: The queen of swords declares the balance insufficient before the juggler has had the chance to fully establish it
   loss: The figure abandons the balancing act prematurely because the discerning authority has declared it inadequate before it could mature
+  key_terms: queen of swords declares, figure abandons the balancing act, held tension
 
 dynamic_dependency:
-  integration: The clarity and the balance teach each other about timing; the queen learns that honest assessment is most useful when the juggler has room to respond to it; the figure learns that the discerning witness serves the balancing act by naming what the juggler cannot see while concentrating; the discernment becomes useful counsel
-  outcome: The queen waits for the right moment and delivers the honest assessment at a point the juggler can use it; the balance improves through the clarity; together they demonstrate that discernment serves performance when it arrives at the right time
+  mechanism: The clarity and the balance teach each other about timing
+  function: the queen learns that honest assessment is most useful when the juggler has room to respond to it; the figure learns that the discerning witness serves the balancing act by naming what the juggler cannot see while concentrating; the discernment becomes useful counsel
+  integration_outcome: The queen waits for the right moment and delivers the honest assessment at a point the juggler can use it; the balance improves through the clarity; together they demonstrate that discernment serves performance when it arrives at the right time
+  key_terms: queen learns that honest assessment, queen waits for the right, clarity and the balance teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, 3 of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Craftsman, The Guild Mason, The Collaborative Work, Mastery Shared
-numerical_relation: 13 + 3 = 16; the discerning mind reviews the craft; clarity assesses collaborative mastery
+numerical_relation: 13 + 3 = 16 (XVI The Tower; the discerning mind reviews the craft; clarity assesses collaborative mastery)
 elemental_bridge: Air (the critical eye) meets Earth (the work of the hands); the sovereign intellect examines what has been built
 threshold_type: The moment when the clear authority evaluates the craftspeople's work
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Scrutiny meeting collaboration, critique and craft, clarity and encouragement, discernment and making
 
 dynamic_inhibition:
-  blockade: The queen's critical assessment focuses so thoroughly on what is flawed that what is masterfully done is overlooked
+  mechanism: The queen's critical assessment focuses so thoroughly on what is flawed that what is masterfully done is overlooked
+  blockade_nature: The queen's critical assessment focuses so thoroughly on what is flawed that what is masterfully done is overlooked
+  swords_state: The craftspeople become demoralized by criticism that fails to acknowledge genuine excellence
   consequence: The craftspeople become demoralized by criticism that fails to acknowledge genuine excellence
+  key_terms: queen's critical assessment focuses, craftspeople become demoralized by criticism, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords uses her discernment to dismantle the collaborative work rather than improve it
+  mechanism: The queen of swords uses her discernment to dismantle the collaborative work rather than improve it
+  mode: The queen of swords uses her discernment to dismantle the collaborative work rather than improve it
   loss: The figure loses the benefit of the guild's combined mastery because the criticism has destroyed the collaborative spirit that made it possible
+  key_terms: queen of swords uses her, figure loses the benefit, held tension
 
 dynamic_dependency:
-  integration: The clarity and the craft teach each other about honest partnership; the queen learns that the most valuable assessment names what is excellent as clearly as what needs correction; the figure learns that the guild's work is elevated by honest review from a clear mind; the discernment becomes constructive
-  outcome: The queen names both excellence and flaw with equal clarity; the craftspeople improve while retaining the collaborative spirit; together they demonstrate that discernment and making serve each other when the authority respects the work it assesses
+  mechanism: The clarity and the craft teach each other about honest partnership
+  function: the queen learns that the most valuable assessment names what is excellent as clearly as what needs correction; the figure learns that the guild's work is elevated by honest review from a clear mind; the discernment becomes constructive
+  integration_outcome: The queen names both excellence and flaw with equal clarity; the craftspeople improve while retaining the collaborative spirit; together they demonstrate that discernment and making serve each other when the authority respects the work it assesses
+  key_terms: queen learns that the most, queen names both excellence, clarity and the craft teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, 4 of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Miser, The Held Wealth, The Defended Possession, Material Gripped
-numerical_relation: 13 + 4 = 17; the discerning mind sees through the holding; clarity names what the miser protects
+numerical_relation: 13 + 4 = 17 (XVII The Star; the discerning mind sees through the holding; clarity names what the miser protects)
 elemental_bridge: Air (penetrating clarity) meets Earth (defended material); the sovereign intellect sees through the walls of the hoarder
 threshold_type: The moment when the clear authority names what the hoarding is truly about
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Fear named, grip tightened, clarity refused, discernment rejected by the defended
 
 dynamic_inhibition:
-  blockade: The queen's naming of the fear is heard as attack rather than insight; the miser defends more fiercely when named
-  consequence: The figure becomes more defended after the discernment than before; the clarity has hardened the grip
+  mechanism: The queen's naming of the fear is heard as attack rather than insight
+  blockade_nature: the miser defends more fiercely when named
+  swords_state: The figure becomes more defended after the discernment than before
+  consequence: the clarity has hardened the grip
+  key_terms: queen's naming of the fear, miser defends more fiercely when, figure becomes more defended after, clarity has hardened the grip
 
 dynamic_devolution:
-  corruption: The queen of swords uses her clarity to shame the miser rather than illuminate the path to release
+  mechanism: The queen of swords uses her clarity to shame the miser rather than illuminate the path to release
+  mode: The queen of swords uses her clarity to shame the miser rather than illuminate the path to release
   loss: The figure loses the possibility of genuine release because the discernment arrived as judgment rather than understanding
+  key_terms: queen of swords uses her, figure loses the possibility, held tension
 
 dynamic_dependency:
-  integration: The clarity and the holding teach each other about compassionate truth; the queen learns that the most effective naming of fear comes from a place of understanding rather than authority; the figure learns that being truly seen, even in the hoarding, can begin the softening of the grip; the discernment becomes compassion
-  outcome: The queen names the fear with understanding rather than judgment; the grip begins to question itself; together they create the conditions where the hoarder can release what was never truly protection
+  mechanism: The clarity and the holding teach each other about compassionate truth
+  function: the queen learns that the most effective naming of fear comes from a place of understanding rather than authority; the figure learns that being truly seen, even in the hoarding, can begin the softening of the grip; the discernment becomes compassion
+  integration_outcome: The queen names the fear with understanding rather than judgment; the grip begins to question itself; together they create the conditions where the hoarder can release what was never truly protection
+  key_terms: queen learns that the most, queen names the fear, clarity and the holding teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, 5 of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Poverty, The Excluded Ones, The Cold and Left Out, Material Lack
-numerical_relation: 13 + 5 = 18; the discerning mind encounters destitution; clarity sees both the need and the path not seen
+numerical_relation: 13 + 5 = 18 (XVIII The Moon; the discerning mind encounters destitution; clarity sees both the need and the path not seen)
 elemental_bridge: Air (the cutting clarity) meets Earth (the suffering material); the sovereign intellect confronts those the world has failed
 threshold_type: The moment when the clear authority must speak truth to those who need more than words
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Clarity insufficient alone, words meeting cold, naming and needing, discernment and deprivation
 
 dynamic_inhibition:
-  blockade: The queen's words reach those too exhausted by suffering to receive direction
-  consequence: The figure hears the guidance but lacks the energy to act on it; the clarity arrives but cannot be converted into movement
+  mechanism: The queen's words reach those too exhausted by suffering to receive direction
+  blockade_nature: The queen's words reach those too exhausted by suffering to receive direction
+  swords_state: The figure hears the guidance but lacks the energy to act on it
+  consequence: the clarity arrives but cannot be converted into movement
+  key_terms: queen's words reach those too, figure hears the guidance, clarity arrives but cannot be
 
 dynamic_devolution:
-  corruption: The queen of swords uses clarity to analyze rather than address the poverty before her
+  mechanism: The queen of swords uses clarity to analyze rather than address the poverty before her
+  mode: The queen of swords uses clarity to analyze rather than address the poverty before her
   loss: The figure remains in the cold while the sovereign intellect produces an accurate description of why they are there
+  key_terms: queen of swords uses clarity, figure remains in the cold, held tension
 
 dynamic_dependency:
-  integration: The clarity and the poverty teach each other about service; the queen learns that the clearest contribution she can make is to name and then act; the figure learns that the discerning authority who sees the unseen door and then holds it open is giving the gift that words alone cannot provide; the discernment becomes action
-  outcome: The queen names the door and then opens it; the clarity becomes usable because it is paired with action; together they demonstrate that discernment serves suffering most when it moves from seeing to doing
+  mechanism: The clarity and the poverty teach each other about service
+  function: the queen learns that the clearest contribution she can make is to name and then act; the figure learns that the discerning authority who sees the unseen door and then holds it open is giving the gift that words alone cannot provide; the discernment becomes action
+  integration_outcome: The queen names the door and then opens it; the clarity becomes usable because it is paired with action; together they demonstrate that discernment serves suffering most when it moves from seeing to doing
+  key_terms: queen learns that the clearest, queen names the door, clarity and the poverty teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, 6 of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Benefactor, The Measured Gift, The Exchange in Balance, Material Flow
-numerical_relation: 13 + 6 = 19; the discerning mind assesses the exchange; clarity examines whether giving is truly balanced
+numerical_relation: 13 + 6 = 19 (XIX The Sun; the discerning mind assesses the exchange; clarity examines whether giving is truly balanced)
 elemental_bridge: Air (the eye that sees power dynamics) meets Earth (the performance of generosity); the sovereign intellect examines what the giving relationship truly is
 threshold_type: The moment when the clear authority determines whether measured generosity is justice or control
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Generous intent examined, power dynamic named, clarity questioning balance, discernment and exchange
 
 dynamic_inhibition:
-  blockade: The queen's examination of the giving dynamic shames the benefactor into withholding what was genuinely needed
-  consequence: The figure stops giving rather than examining the relational dynamic the queen has named; the clarity produces withdrawal rather than improved generosity
+  mechanism: The queen's examination of the giving dynamic shames the benefactor into withholding what was genuinely needed
+  blockade_nature: The queen's examination of the giving dynamic shames the benefactor into withholding what was genuinely needed
+  swords_state: The figure stops giving rather than examining the relational dynamic the queen has named
+  consequence: the clarity produces withdrawal rather than improved generosity
+  key_terms: queen's examination of the giving, figure stops giving rather, clarity produces withdrawal rather
 
 dynamic_devolution:
-  corruption: The queen of swords uses her discernment to dismantle the exchange relationship entirely rather than improve it
+  mechanism: The queen of swords uses her discernment to dismantle the exchange relationship entirely rather than improve it
+  mode: The queen of swords uses her discernment to dismantle the exchange relationship entirely rather than improve it
   loss: The figure loses both the imperfect gift and the possibility of better giving because the clarity preferred analysis over improvement
+  key_terms: queen of swords uses her, figure loses both the imperfect, held tension
 
 dynamic_dependency:
-  integration: The clarity and the exchange teach each other about power and freedom; the queen learns that the most valuable examination of generosity helps the benefactor give more freely rather than less; the figure learns that the discerning authority who names the power dynamic in giving is offering the benefactor a path to truer generosity; the discernment becomes liberation
-  outcome: The queen names what she sees and the benefactor examines the exchange with new eyes; the giving becomes more genuinely free; together they demonstrate that discernment serves generosity when it aims at making the gift truly free
+  mechanism: The clarity and the exchange teach each other about power and freedom
+  function: the queen learns that the most valuable examination of generosity helps the benefactor give more freely rather than less; the figure learns that the discerning authority who names the power dynamic in giving is offering the benefactor a path to truer generosity; the discernment becomes liberation
+  integration_outcome: The queen names what she sees and the benefactor examines the exchange with new eyes; the giving becomes more genuinely free; together they demonstrate that discernment serves generosity when it aims at making the gift truly free
+  key_terms: queen learns that the most, queen names what she sees, clarity and the exchange teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, 7 of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Gardener, The Patient Investment, The Long Harvest, Work Awaiting Fruit
-numerical_relation: 13 + 7 = 20; the discerning mind assesses the long investment; clarity evaluates whether the waiting is wise
+numerical_relation: 13 + 7 = 20 (XX Judgement; the discerning mind assesses the long investment; clarity evaluates whether the waiting is wise)
 elemental_bridge: Air (the mind that sees time clearly) meets Earth (the patience of cultivation); the sovereign intellect examines the garden in its waiting
 threshold_type: The moment when the clear authority determines whether patient waiting is wisdom or avoidance
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Assessment contested, gardener trusting own judgment, clarity questioned, discernment and cultivation
 
 dynamic_inhibition:
-  blockade: The queen's assessment that the harvest is ready arrives before the gardener's inner knowing has confirmed it
+  mechanism: The queen's assessment that the harvest is ready arrives before the gardener's inner knowing has confirmed it
+  blockade_nature: The queen's assessment that the harvest is ready arrives before the gardener's inner knowing has confirmed it
+  swords_state: The figure harvests prematurely on the queen's authority and the fruit is not fully ripe
   consequence: The figure harvests prematurely on the queen's authority and the fruit is not fully ripe
+  key_terms: queen's assessment that the harvest, figure harvests prematurely on, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords declares the entire investment wasted based on external observation that misses what only the gardener knows from within
+  mechanism: The queen of swords declares the entire investment wasted based on external observation that misses what only the gardener knows from within
+  mode: The queen of swords declares the entire investment wasted based on external observation that misses what only the gardener knows from within
   loss: The figure abandons a genuinely productive investment because the discerning authority has declared it unworthy
+  key_terms: queen of swords declares, figure abandons a genuinely productive, held tension
 
 dynamic_dependency:
-  integration: The clarity and the patience teach each other about forms of knowing; the queen learns that the gardener's intimate knowledge of the soil supplements the sovereign eye that observes from outside; the figure learns that the discerning authority can see what proximity blinds; the discernment becomes collaboration
-  outcome: The queen shares what she observes and the gardener integrates it with what the intimacy of cultivation reveals; the harvest timing is determined by both kinds of knowing; together they demonstrate that clear authority and patient cultivation see different truths that serve each other
+  mechanism: The clarity and the patience teach each other about forms of knowing
+  function: the queen learns that the gardener's intimate knowledge of the soil supplements the sovereign eye that observes from outside; the figure learns that the discerning authority can see what proximity blinds; the discernment becomes collaboration
+  integration_outcome: The queen shares what she observes and the gardener integrates it with what the intimacy of cultivation reveals; the harvest timing is determined by both kinds of knowing; together they demonstrate that clear authority and patient cultivation see different truths that serve each other
+  key_terms: queen learns that the gardener's, queen shares what she observes, clarity and the patience teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, 8 of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Apprentice, The Dedicated Practice, The Skill Refined, Mastery Earned
-numerical_relation: 13 + 8 = 21; the discerning mind observes the apprentice; clarity assesses the quality of the dedicated work
+numerical_relation: 13 + 8 = 21 (XXI The World; the discerning mind observes the apprentice; clarity assesses the quality of the dedicated work)
 elemental_bridge: Air (the critical eye of mastery) meets Earth (the repetition of developing skill); the sovereign intellect examines work in formation
 threshold_type: The moment when the clear authority evaluates whether the practice is producing genuine mastery
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Assessment and concentration, correction and practice, clarity and habit, discernment and formation
 
 dynamic_inhibition:
-  blockade: The queen's correction arrives so frequently that it breaks the flow state that allows the skill to deepen
+  mechanism: The queen's correction arrives so frequently that it breaks the flow state that allows the skill to deepen
+  blockade_nature: The queen's correction arrives so frequently that it breaks the flow state that allows the skill to deepen
+  swords_state: The figure can never get deep enough into the practice to allow the mastery to form because the interruptions prevent the necessary immersion
   consequence: The figure can never get deep enough into the practice to allow the mastery to form because the interruptions prevent the necessary immersion
+  key_terms: queen's correction arrives so frequently, figure can never get deep, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords replaces the apprentice's own growing judgment with the authority's external assessment at every step
+  mechanism: The queen of swords replaces the apprentice's own growing judgment with the authority's external assessment at every step
+  mode: The queen of swords replaces the apprentice's own growing judgment with the authority's external assessment at every step
   loss: The figure loses the capacity for self-assessment that is itself a form of mastery because the discerning authority has made external judgment permanently necessary
+  key_terms: queen of swords replaces, figure loses the capacity for, held tension
 
 dynamic_dependency:
-  integration: The clarity and the practice teach each other about teaching; the queen learns that the most valuable assessment comes at the right moment and leaves the apprentice with tools for self-assessment rather than dependence on external judgment; the figure learns that honest assessment from a discerning authority is the fuel that practice alone cannot provide; the discernment becomes transmission
-  outcome: The queen assesses at the right moments and teaches the apprentice to see what she sees; the mastery develops with both the depth of practice and the clarity of honest evaluation; together they demonstrate that skill formation requires both dedicated repetition and honest discernment
+  mechanism: The clarity and the practice teach each other about teaching
+  function: the queen learns that the most valuable assessment comes at the right moment and leaves the apprentice with tools for self-assessment rather than dependence on external judgment; the figure learns that honest assessment from a discerning authority is the fuel that practice alone cannot provide; the discernment becomes transmission
+  integration_outcome: The queen assesses at the right moments and teaches the apprentice to see what she sees; the mastery develops with both the depth of practice and the clarity of honest evaluation; together they demonstrate that skill formation requires both dedicated repetition and honest discernment
+  key_terms: queen learns that the most, queen assesses at the right, clarity and the practice teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, 9 of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Sovereign Garden, The Self-Sufficient One, The Abundance Earned, Material Mastery
-numerical_relation: 13 + 9 = 22; two sovereigns meet; the sovereign mind and the sovereign garden in mutual recognition
+numerical_relation: 13 + 9 = 22 → 2+2=4 (IV The Emperor; two sovereigns meet; the sovereign mind and the sovereign garden in mutual recognition)
 elemental_bridge: Air (sovereign discernment) meets Earth (sovereign abundance); two forms of mastery recognize each other across elemental difference
 threshold_type: The moment when the queen of thought and the queen of material meet as equals
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Clarity not needed here, assessment meeting completeness, discernment before self-sufficiency, mind before matter
 
 dynamic_inhibition:
-  blockade: The queen's habit of assessment applies itself where no assessment is needed or welcome
+  mechanism: The queen's habit of assessment applies itself where no assessment is needed or welcome
+  blockade_nature: The queen's habit of assessment applies itself where no assessment is needed or welcome
+  swords_state: The discerning authority creates distance between herself and the self-sufficient one by offering what was not asked for
   consequence: The discerning authority creates distance between herself and the self-sufficient one by offering what was not asked for
+  key_terms: queen's habit of assessment applies, discerning authority creates distance between, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords uses her discernment to find fault with the nine's abundance out of a subtle envy of material sovereignty
+  mechanism: The queen of swords uses her discernment to find fault with the nine's abundance out of a subtle envy of material sovereignty
+  mode: The queen of swords uses her discernment to find fault with the nine's abundance out of a subtle envy of material sovereignty
   loss: The figure loses the possibility of genuine peer relationship because the clarity has become competitive assessment
+  key_terms: queen of swords uses her, figure loses the possibility, held tension
 
 dynamic_dependency:
-  integration: The two sovereignties teach each other about completeness; the queen learns that material self-sufficiency is a form of intelligence she can honor rather than evaluate; the figure learns that intellectual sovereignty provides a clarity that even the most abundant garden can benefit from when offered as gift rather than judgment; the encounter becomes peer exchange
-  outcome: The queen withholds assessment and offers her company instead; the nine of pentacles receives the gift of a discerning mind without the burden of being evaluated; together they demonstrate that two forms of sovereignty most honor each other by recognition rather than examination
+  mechanism: The two sovereignties teach each other about completeness
+  function: the queen learns that material self-sufficiency is a form of intelligence she can honor rather than evaluate; the figure learns that intellectual sovereignty provides a clarity that even the most abundant garden can benefit from when offered as gift rather than judgment; the encounter becomes peer exchange
+  integration_outcome: The queen withholds assessment and offers her company instead; the nine of pentacles receives the gift of a discerning mind without the burden of being evaluated; together they demonstrate that two forms of sovereignty most honor each other by recognition rather than examination
+  key_terms: queen learns that material self-sufficiency, queen withholds assessment and offers, two sovereignties teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, 10 of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Legacy, The Ancestral Wealth, The Completion of Generations, Material Fulfilled
-numerical_relation: 13 + 10 = 23; the discerning mind examines the legacy; clarity assesses what has been built across time
+numerical_relation: 13 + 10 = 23 → 2+3=5 (V The Pope; the discerning mind examines the legacy; clarity assesses what has been built across time)
 elemental_bridge: Air (the mind that can read across time) meets Earth (the completed generational achievement); the sovereign intellect examines the ancestral inheritance
 threshold_type: The moment when the clear authority assesses what the accumulated generations have truly built
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Legacy questioned, inheritance examined, discernment disturbing comfort, clarity naming shadow
 
 dynamic_inhibition:
-  blockade: The queen's examination of the legacy naming both achievement and shadow creates conflict in the family that resists clear seeing
+  mechanism: The queen's examination of the legacy naming both achievement and shadow creates conflict in the family that resists clear seeing
+  blockade_nature: The queen's examination of the legacy naming both achievement and shadow creates conflict in the family that resists clear seeing
+  swords_state: The figure is rejected by the family for speaking what the inheritance contains that was never intended to be examined
   consequence: The figure is rejected by the family for speaking what the inheritance contains that was never intended to be examined
+  key_terms: queen's examination of the legacy, figure is rejected, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords dismantles the legacy by refusing to acknowledge genuine achievement while naming only the shadow
+  mechanism: The queen of swords dismantles the legacy by refusing to acknowledge genuine achievement while naming only the shadow
+  mode: The queen of swords dismantles the legacy by refusing to acknowledge genuine achievement while naming only the shadow
   loss: The figure loses the inheritance by allowing the discernment to become purely critical rather than honest about the whole
+  key_terms: queen of swords dismantles, figure loses the inheritance, held tension
 
 dynamic_dependency:
-  integration: The clarity and the legacy teach each other about continuity; the queen learns that the greatest service to an inheritance is honest assessment of both achievement and limitation so that what is carried forward is chosen consciously; the figure learns that the discerning authority who names the whole truth about the inheritance is serving future generations; the discernment becomes stewardship
-  outcome: The queen names both achievement and shadow with equal honesty; the legacy is received consciously and carried forward with clear eyes; together they demonstrate that genuine honor for an inheritance requires the clarity to see it whole
+  mechanism: The clarity and the legacy teach each other about continuity
+  function: the queen learns that the greatest service to an inheritance is honest assessment of both achievement and limitation so that what is carried forward is chosen consciously; the figure learns that the discerning authority who names the whole truth about the inheritance is serving future generations; the discernment becomes stewardship
+  integration_outcome: The queen names both achievement and shadow with equal honesty; the legacy is received consciously and carried forward with clear eyes; together they demonstrate that genuine honor for an inheritance requires the clarity to see it whole
+  key_terms: queen learns that the greatest, queen names both achievement, clarity and the legacy teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, Page of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Student, The Curious Learner, The Practical Novice, Material Curiosity
-numerical_relation: 13 + 11 = 24; the discerning mind meets the beginning student; authority encounters first curiosity
+numerical_relation: 13 + 11 = 24 → 2+4=6 (VI The Lovers; the discerning mind meets the beginning student; authority encounters first curiosity)
 elemental_bridge: Air (the sovereign clarity) meets Earth (the first touching of material understanding); the queen before the novice
 threshold_type: The moment when hard-won clarity encounters fresh curiosity without crushing it
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Full clarity before the beginning, novice meeting authority, truth without calibration, discernment meeting fragility
 
 dynamic_inhibition:
-  blockade: The queen's full honest assessment arrives at a moment when the student lacks the foundation to receive it productively
-  consequence: The figure is overwhelmed by clarity they cannot yet integrate; the learning is disrupted before it has begun
+  mechanism: The queen's full honest assessment arrives at a moment when the student lacks the foundation to receive it productively
+  blockade_nature: The queen's full honest assessment arrives at a moment when the student lacks the foundation to receive it productively
+  swords_state: The figure is overwhelmed by clarity they cannot yet integrate
+  consequence: the learning is disrupted before it has begun
+  key_terms: queen's full honest assessment arrives, figure is overwhelmed by clarity, learning is disrupted before it
 
 dynamic_devolution:
-  corruption: The queen of swords delivers the full honest assessment without any acknowledgment of what the student does well
+  mechanism: The queen of swords delivers the full honest assessment without any acknowledgment of what the student does well
+  mode: The queen of swords delivers the full honest assessment without any acknowledgment of what the student does well
   loss: The figure loses the curiosity that would have driven the learning because the discernment has extinguished the motivation before it could sustain itself
+  key_terms: queen of swords delivers, figure loses the curiosity, held tension
 
 dynamic_dependency:
-  integration: The clarity and the curiosity teach each other about transmission; the queen learns that the most effective use of discernment with a beginner is to lead with what is genuinely present before naming what is absent; the figure learns that honest assessment from a clear authority is the most valuable orientation possible for a student beginning; the discernment becomes mentorship
-  outcome: The queen leads with genuine acknowledgment of the student's curiosity and then names the path clearly without softening the truth of what the work requires; the student begins with both orientation and honest expectation; together they demonstrate that the greatest authority serves the beginning best by calibrating truth to what the learner can actually use
+  mechanism: The clarity and the curiosity teach each other about transmission
+  function: the queen learns that the most effective use of discernment with a beginner is to lead with what is genuinely present before naming what is absent; the figure learns that honest assessment from a clear authority is the most valuable orientation possible for a student beginning; the discernment becomes mentorship
+  integration_outcome: The queen leads with genuine acknowledgment of the student's curiosity and then names the path clearly without softening the truth of what the work requires; the student begins with both orientation and honest expectation; together they demonstrate that the greatest authority serves the beginning best by calibrating truth to what the learner can actually use
+  key_terms: queen learns that the most, queen leads with genuine acknowledgment, clarity and the curiosity teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, Knight of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Steady Rider, The Patient Mover, The Deliberate Knight, Earth Moving Slowly
-numerical_relation: 13 + 12 = 25; the discerning authority meets the deliberate mover; clarity and steady progress in dialogue
+numerical_relation: 13 + 12 = 25 → 2+5=7 (VII The Chariot; the discerning authority meets the deliberate mover; clarity and steady progress in dialogue)
 elemental_bridge: Air (the sharp sovereign eye) meets Earth (the patient forward motion); the queen assesses the one who moves with methodical care
 threshold_type: The moment when the clear authority examines the steady rider's pace and purpose
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Steadiness assessed, deliberateness defended, pace questioned, rider maintaining course
 
 dynamic_inhibition:
-  blockade: The queen's assessment that the pace needs adjusting causes the rider to second-guess the method that was actually working
+  mechanism: The queen's assessment that the pace needs adjusting causes the rider to second-guess the method that was actually working
+  blockade_nature: The queen's assessment that the pace needs adjusting causes the rider to second-guess the method that was actually working
+  swords_state: The figure loses the confidence in the steady pace before completing what the methodical approach was building
   consequence: The figure loses the confidence in the steady pace before completing what the methodical approach was building
+  key_terms: queen's assessment that the pace, figure loses the confidence, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords declares the patient rider's pace as timidity rather than deliberate wisdom
+  mechanism: The queen of swords declares the patient rider's pace as timidity rather than deliberate wisdom
+  mode: The queen of swords declares the patient rider's pace as timidity rather than deliberate wisdom
   loss: The figure abandons the methodical approach and charges forward prematurely, losing the accumulated benefit of the steady progress
+  key_terms: queen of swords declares, figure abandons the methodical approach, held tension
 
 dynamic_dependency:
-  integration: The clarity and the steady progress teach each other about forms of forward movement; the queen learns that the steady rider's deliberate pace carries a wisdom her sharp eye cannot always see at first glance; the figure learns that the discerning authority can name when the methodical approach has stopped serving what it was meant to build; the discernment becomes honest counsel
-  outcome: The queen offers the honest assessment and the rider integrates what is useful while maintaining the core of the approach; the steady progress continues with greater self-awareness; together they demonstrate that intellectual clarity and methodical action are most powerful when they counsel each other rather than override
+  mechanism: The clarity and the steady progress teach each other about forms of forward movement
+  function: the queen learns that the steady rider's deliberate pace carries a wisdom her sharp eye cannot always see at first glance; the figure learns that the discerning authority can name when the methodical approach has stopped serving what it was meant to build; the discernment becomes honest counsel
+  integration_outcome: The queen offers the honest assessment and the rider integrates what is useful while maintaining the core of the approach; the steady progress continues with greater self-awareness; together they demonstrate that intellectual clarity and methodical action are most powerful when they counsel each other rather than override
+  key_terms: queen learns that the steady, queen offers the honest assessment, clarity and the steady progress
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, Queen of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The Queen, The Nurturing Earth, The Abundant Sovereign, Material Wisdom
-numerical_relation: 13 + 13 = 26; two queens meet; the sovereign mind and the sovereign earth face each other in mutual authority
+numerical_relation: 13 + 13 = 26 → 2+6=8 (VIII Justice; two queens meet; the sovereign mind and the sovereign earth face each other in mutual authority)
 elemental_bridge: Air (sovereign intellect) meets Earth (sovereign nurturing); two forms of feminine mastery in elemental dialogue
 threshold_type: The moment when clarity and abundance meet as equals across elemental difference
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Two modes in tension, discernment versus nurturing, seeing versus holding, two queens challenging
 
 dynamic_inhibition:
-  blockade: The queen of swords' clarity creates distance that prevents the warmth of the earth queen's nourishment from reaching what needs it
-  consequence: The figure receives accurate assessment but lacks the warmth that would make the clarity workable; the truth arrives cold and therefore less useful
+  mechanism: The queen of swords' clarity creates distance that prevents the warmth of the earth queen's nourishment from reaching what needs it
+  blockade_nature: The queen of swords' clarity creates distance that prevents the warmth of the earth queen's nourishment from reaching what needs it
+  swords_state: The figure receives accurate assessment but lacks the warmth that would make the clarity workable
+  consequence: the truth arrives cold and therefore less useful
+  key_terms: queen of swords' clarity creates, figure receives accurate assessment, truth arrives cold and therefore
 
 dynamic_devolution:
-  corruption: The two queens allow their elemental difference to become rivalry rather than complementarity
+  mechanism: The two queens allow their elemental difference to become rivalry rather than complementarity
+  mode: The two queens allow their elemental difference to become rivalry rather than complementarity
   loss: The figure loses access to both the clarity and the nourishment by failing to honor the gifts of the other sovereign
+  key_terms: two queens allow their elemental, figure loses access, held tension
 
 dynamic_dependency:
-  integration: The two sovereignties teach each other about wholeness; the queen of swords learns that genuine clarity includes recognizing what requires nourishment rather than examination; the queen of pentacles learns that genuine care includes the honesty of the clear eye; the meeting becomes integration
-  outcome: The two queens find ways that each offers what the other's element cannot produce; clarity serves nourishment and nourishment softens the edges of clarity; together they demonstrate that the fullest form of sovereign authority combines discernment and nurturing
+  mechanism: The two sovereignties teach each other about wholeness
+  function: the queen of swords learns that genuine clarity includes recognizing what requires nourishment rather than examination; the queen of pentacles learns that genuine care includes the honesty of the clear eye; the meeting becomes integration
+  integration_outcome: The two queens find ways that each offers what the other's element cannot produce; clarity serves nourishment and nourishment softens the edges of clarity; together they demonstrate that the fullest form of sovereign authority combines discernment and nurturing
+  key_terms: queen of swords learns, two queens find ways, two sovereignties teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP
 
 ---
 
 card_pair: Queen of Swords, King of Pentacles
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_pentacles: The King, The Enthroned Wealth, The Sovereign Material, Earth Commanded
-numerical_relation: 13 + 14 = 27; the sovereign mind meets the sovereign earth; two forms of mastery at the peak of their respective elements
+numerical_relation: 13 + 14 = 27 → 2+7=9 (IX The Hermit; the sovereign mind meets the sovereign earth; two forms of mastery at the peak of their respective elements)
 elemental_bridge: Air (sovereign discernment) meets Earth (sovereign material command); the queen of clarity before the king of abundance
 threshold_type: The moment when intellectual sovereignty and material sovereignty must find the terms of mutual respect
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Clarity offered to material, intellectual before material, analysis meeting solidity, two sovereigns negotiating
 
 dynamic_inhibition:
-  blockade: The king's material authority does not require the queen's intellectual assessment; the clarity has nothing to examine that the king has not already mastered
+  mechanism: The king's material authority does not require the queen's intellectual assessment
+  blockade_nature: the clarity has nothing to examine that the king has not already mastered
+  swords_state: The queen's discernment is unnecessary in a domain where the mastery has already accounted for what she sees
   consequence: The queen's discernment is unnecessary in a domain where the mastery has already accounted for what she sees
+  key_terms: king's material authority does, clarity has nothing to examine, queen's discernment is unnecessary
 
 dynamic_devolution:
-  corruption: The queen of swords uses intellectual clarity to undermine the king's material authority in order to establish the primacy of the mind over matter
+  mechanism: The queen of swords uses intellectual clarity to undermine the king's material authority in order to establish the primacy of the mind over matter
+  mode: The queen of swords uses intellectual clarity to undermine the king's material authority in order to establish the primacy of the mind over matter
   loss: The figure loses the respect of the material sovereign and with it access to the embodied wisdom that only material mastery provides
+  key_terms: queen of swords uses intellectual, figure loses the respect, held tension
 
 dynamic_dependency:
-  integration: The two sovereignties teach each other about the limits of their respective domains; the queen learns that material mastery has its own intelligence she cannot replicate with the sharpest mind; the figure learns that intellectual clarity can name what even the most successful material king cannot always see about his own kingdom; the meeting becomes genuine counsel
-  outcome: The queen offers clarity where the king's intimacy with his material world blinds him to the pattern she can see from outside; the king offers embodied wisdom the discerning mind cannot access from pure air; together they demonstrate that intellectual and material sovereignty are most powerful when each offers what the other's element cannot produce
+  mechanism: The two sovereignties teach each other about the limits of their respective domains
+  function: the queen learns that material mastery has its own intelligence she cannot replicate with the sharpest mind; the figure learns that intellectual clarity can name what even the most successful material king cannot always see about his own kingdom; the meeting becomes genuine counsel
+  integration_outcome: The queen offers clarity where the king's intimacy with his material world blinds him to the pattern she can see from outside; the king offers embodied wisdom the discerning mind cannot access from pure air; together they demonstrate that intellectual and material sovereignty are most powerful when each offers what the other's element cannot produce
+  key_terms: queen learns that material mastery, queen offers clarity, two sovereignties teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: QOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSP

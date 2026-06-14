@@ -1,7 +1,7 @@
 card_pair: Queen of Swords, Ace of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Fire Gift Offered, The Creative Spark, The Inspiration Arriving, Passion Ignited
-numerical_relation: 13 + 1 = 14; the discerning mind meets the creative spark; clarity encounters inspiration at its source
+numerical_relation: 13 + 1 = 14 (XIV Temperance; the discerning mind meets the creative spark; clarity encounters inspiration at its source)
 elemental_bridge: Air (sovereign clarity) meets Fire (the first creative flame); the queen's discernment is offered the gift of inspired beginning
 threshold_type: The moment when the clear authority receives an inspiration that even clarity cannot fully prepare for
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Analysis delaying inspiration, clarity and the creative gift, discernment before the spark, the sovereign mind and the uncontrollable fire
 
 dynamic_inhibition:
-  blockade: The queen's analysis prevents the creative spark from igniting; the examination has delayed beyond the moment
+  mechanism: The queen's analysis prevents the creative spark from igniting
+  blockade_nature: the examination has delayed beyond the moment
+  swords_state: The figure understands the nature of inspiration but has let the specific creative fire pass while she examined it
   consequence: The figure understands the nature of inspiration but has let the specific creative fire pass while she examined it
+  key_terms: queen's analysis prevents the creative, examination has delayed beyond, figure understands the nature
 
 dynamic_devolution:
-  corruption: The queen of swords dismisses the inspiration as insufficiently considered to deserve her engagement
+  mechanism: The queen of swords dismisses the inspiration as insufficiently considered to deserve her engagement
+  mode: The queen of swords dismisses the inspiration as insufficiently considered to deserve her engagement
   loss: The figure loses the creative fire by requiring it to justify itself before being received
+  key_terms: queen of swords dismisses, figure loses the creative fire, held tension
 
 dynamic_dependency:
-  integration: The clarity and the creative spark teach each other about reception; the queen learns that creative fire requires the sovereign mind to receive first and discern after; the figure learns that the queen's clarity applied to what the inspiration has sparked becomes one of the most powerful forces for bringing the creative into full form; the discernment becomes creative development
-  outcome: The queen receives the spark without analysis and then applies her full clarity to its development; the inspiration gains direction and form through the discerning mind; together they demonstrate that clarity and creativity are most powerful when creativity arrives first and clarity serves second
+  mechanism: The clarity and the creative spark teach each other about reception
+  function: the queen learns that creative fire requires the sovereign mind to receive first and discern after; the figure learns that the queen's clarity applied to what the inspiration has sparked becomes one of the most powerful forces for bringing the creative into full form; the discernment becomes creative development
+  integration_outcome: The queen receives the spark without analysis and then applies her full clarity to its development; the inspiration gains direction and form through the discerning mind; together they demonstrate that clarity and creativity are most powerful when creativity arrives first and clarity serves second
+  key_terms: queen learns that creative fire, queen receives the spark without, clarity and the creative spark
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, 2 of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Master of Worlds, The Vision Held, The Dual Passion, Fire Directed
-numerical_relation: 13 + 2 = 15; the discerning mind assesses the held vision; clarity examines the directed passion
+numerical_relation: 13 + 2 = 15 (XV The Devil; the discerning mind assesses the held vision; clarity examines the directed passion)
 elemental_bridge: Air (clarity that sees what the vision holds) meets Fire (the deliberately directed passion); the queen examines the vision before it is enacted
 threshold_type: The moment when the clear authority assesses whether the held vision is as clear as the one who holds it believes
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Vision examined, concentration disturbed, clarity versus holding, discernment and directed fire
 
 dynamic_inhibition:
-  blockade: The queen's examination of the vision causes the visionary to lose the concentration required to hold it
-  consequence: The figure lets go of the vision while defending it; the scrutiny has cost what it was meant to clarify
+  mechanism: The queen's examination of the vision causes the visionary to lose the concentration required to hold it
+  blockade_nature: The queen's examination of the vision causes the visionary to lose the concentration required to hold it
+  swords_state: The figure lets go of the vision while defending it
+  consequence: the scrutiny has cost what it was meant to clarify
+  key_terms: queen's examination of the vision, figure lets go, scrutiny has cost what it
 
 dynamic_devolution:
-  corruption: The queen of swords declares the vision insufficient by the standards of pure clarity and advises abandonment
+  mechanism: The queen of swords declares the vision insufficient by the standards of pure clarity and advises abandonment
+  mode: The queen of swords declares the vision insufficient by the standards of pure clarity and advises abandonment
   loss: The figure loses a genuinely compelling vision because the discerning authority has applied inappropriate standards to what vision by its nature cannot fully satisfy until enacted
+  key_terms: queen of swords declares, figure loses a genuinely compelling, held tension
 
 dynamic_dependency:
-  integration: The clarity and the held vision teach each other about the relationship between analysis and creation; the queen learns that vision must be held before it can be examined without being disrupted; the figure learns that the discerning authority who examines what the vision holds at the right moment sharpens the direction; the discernment becomes refinement
-  outcome: The queen waits until the vision is stable and then offers what she sees within it; the direction is sharpened without the holding being disrupted; together they demonstrate that clarity serves vision best when it arrives at the moment of strength rather than the moment of formation
+  mechanism: The clarity and the held vision teach each other about the relationship between analysis and creation
+  function: the queen learns that vision must be held before it can be examined without being disrupted; the figure learns that the discerning authority who examines what the vision holds at the right moment sharpens the direction; the discernment becomes refinement
+  integration_outcome: The queen waits until the vision is stable and then offers what she sees within it; the direction is sharpened without the holding being disrupted; together they demonstrate that clarity serves vision best when it arrives at the moment of strength rather than the moment of formation
+  key_terms: queen learns that vision, queen waits until the vision, clarity and the held vision
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, 3 of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Trader, The Exploration Begun, The Distant Vision, Horizons Expanding
-numerical_relation: 13 + 3 = 16; the discerning mind examines the distant horizon; clarity assesses what is truly out there
+numerical_relation: 13 + 3 = 16 (XVI The Tower; the discerning mind examines the distant horizon; clarity assesses what is truly out there)
 elemental_bridge: Air (the mind that reads signs) meets Fire (the expansive look toward what is beyond); the queen's clarity reads the horizon the three of wands watches
 threshold_type: The moment when the clear authority interprets what the watcher has seen
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Two readings of the same horizon, clarity and intimate knowledge, discernment and the long watch, two interpretations
 
 dynamic_inhibition:
-  blockade: The queen's confident naming of the horizon displaces the three of wands' own careful reading
+  mechanism: The queen's confident naming of the horizon displaces the three of wands' own careful reading
+  blockade_nature: The queen's confident naming of the horizon displaces the three of wands' own careful reading
+  swords_state: The figure stops trusting their own long watching in favor of the queen's immediate but less intimate assessment
   consequence: The figure stops trusting their own long watching in favor of the queen's immediate but less intimate assessment
+  key_terms: queen's confident naming, figure stops trusting their own, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords declares the expansion direction mistaken and redirects toward what her clarity prefers
+  mechanism: The queen of swords declares the expansion direction mistaken and redirects toward what her clarity prefers
+  mode: The queen of swords declares the expansion direction mistaken and redirects toward what her clarity prefers
   loss: The figure abandons a genuinely promising direction of exploration because the discerning authority has imposed her vision over the explorer's own
+  key_terms: queen of swords declares, figure abandons a genuinely promising, held tension
 
 dynamic_dependency:
-  integration: The clarity and the distant vision teach each other about forms of knowing; the queen learns that the long watching of the three of wands carries an intimate knowledge that supplements her sharp-eyed reading from outside; the figure learns that the queen's clarity can interpret signs on the horizon that the watcher cannot fully read alone; the discernment becomes partnership
-  outcome: The queen offers her reading and the watcher integrates it with what the long watch has revealed; the direction of expansion is confirmed or adjusted by both kinds of seeing; together they demonstrate that clarity and patient watching see different aspects of the same horizon
+  mechanism: The clarity and the distant vision teach each other about forms of knowing
+  function: the queen learns that the long watching of the three of wands carries an intimate knowledge that supplements her sharp-eyed reading from outside; the figure learns that the queen's clarity can interpret signs on the horizon that the watcher cannot fully read alone; the discernment becomes partnership
+  integration_outcome: The queen offers her reading and the watcher integrates it with what the long watch has revealed; the direction of expansion is confirmed or adjusted by both kinds of seeing; together they demonstrate that clarity and patient watching see different aspects of the same horizon
+  key_terms: queen learns that the long, queen offers her reading, clarity and the distant vision
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, 4 of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Celebration, The Harmony of Fires, The Victory Shared, Passion Crowned
-numerical_relation: 13 + 4 = 17; the discerning mind arrives at the celebration; clarity at the threshold of communal joy
+numerical_relation: 13 + 4 = 17 (XVII The Star; the discerning mind arrives at the celebration; clarity at the threshold of communal joy)
 elemental_bridge: Air (the sovereign clarity) meets Fire (the communal joy of achieved passion); the queen whose sword has served encounters the moment of its reward
 threshold_type: The moment when the hard-won clarity arrives at the celebration that clarity has helped make possible
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Scrutiny before joy, clarity at the threshold of celebration, discernment and pure feeling, the examining before the joining
 
 dynamic_inhibition:
-  blockade: The queen's assessment delays her entry into the celebration until the moment of pure joy has passed
-  consequence: The figure arrives with her assessment complete but finds the celebration has moved on; the discernment has preserved the analysis and missed the joy
+  mechanism: The queen's assessment delays her entry into the celebration until the moment of pure joy has passed
+  blockade_nature: The queen's assessment delays her entry into the celebration until the moment of pure joy has passed
+  swords_state: The figure arrives with her assessment complete but finds the celebration has moved on
+  consequence: the discernment has preserved the analysis and missed the joy
+  key_terms: queen's assessment delays her entry, figure arrives with her assessment, discernment has preserved the analysis
 
 dynamic_devolution:
-  corruption: The queen of swords finds what is incomplete in the celebration rather than confirming what is genuinely worthy of joy
+  mechanism: The queen of swords finds what is incomplete in the celebration rather than confirming what is genuinely worthy of joy
+  mode: The queen of swords finds what is incomplete in the celebration rather than confirming what is genuinely worthy of joy
   loss: The figure loses the experience of earned celebration by requiring it to be perfect before it can be joined
+  key_terms: queen of swords finds what, figure loses the experience, held tension
 
 dynamic_dependency:
-  integration: The clarity and the celebration teach each other about receiving the reward of difficulty; the queen learns that the celebration earned through the difficult path of honest discernment is best entered first and assessed from within; the figure learns that the queen's confirmation of the celebration's genuineness deepens rather than delays the joy; the discernment becomes arrival
-  outcome: The queen crosses the threshold into the celebration and confirms its worth from within it; the joy is deepened by the presence of the one whose clarity has earned this particular entrance; together they demonstrate that the discerning mind has access to its own form of celebration
+  mechanism: The clarity and the celebration teach each other about receiving the reward of difficulty
+  function: the queen learns that the celebration earned through the difficult path of honest discernment is best entered first and assessed from within; the figure learns that the queen's confirmation of the celebration's genuineness deepens rather than delays the joy; the discernment becomes arrival
+  integration_outcome: The queen crosses the threshold into the celebration and confirms its worth from within it; the joy is deepened by the presence of the one whose clarity has earned this particular entrance; together they demonstrate that the discerning mind has access to its own form of celebration
+  key_terms: queen learns that the celebration, queen crosses the threshold, clarity and the celebration teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, 5 of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Struggle, The Clashing Fires, The Conflict Witnessed, Passion Opposed
-numerical_relation: 13 + 5 = 18; the discerning mind arrives at the conflict; clarity among the clashing fires
+numerical_relation: 13 + 5 = 18 (XVIII The Moon; the discerning mind arrives at the conflict; clarity among the clashing fires)
 elemental_bridge: Air (the clear-eyed authority) meets Fire (the competing passions); the queen whose clarity cuts through confusion enters the arena of conflict
 threshold_type: The moment when the clear authority must determine what the clashing fires are truly fighting about
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Naming questioned, conflict and clarity, the named stakes versus the felt fight, discernment in the arena
 
 dynamic_inhibition:
-  blockade: The queen's clear naming of the conflict creates a new argument about whether her analysis is correct
+  mechanism: The queen's clear naming of the conflict creates a new argument about whether her analysis is correct
+  blockade_nature: The queen's clear naming of the conflict creates a new argument about whether her analysis is correct
+  swords_state: The figure now fights about whether the queen's naming of the conflict is accurate rather than addressing what was originally at stake
   consequence: The figure now fights about whether the queen's naming of the conflict is accurate rather than addressing what was originally at stake
+  key_terms: queen's clear naming, figure now fights about whether, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords takes a side and uses her clarity to crush the other position rather than illuminate the whole conflict
+  mechanism: The queen of swords takes a side and uses her clarity to crush the other position rather than illuminate the whole conflict
+  mode: The queen of swords takes a side and uses her clarity to crush the other position rather than illuminate the whole conflict
   loss: The figure loses the impartial clarity that could have served the conflict by allowing personal judgment to replace honest analysis
+  key_terms: queen of swords takes, figure loses the impartial clarity, held tension
 
 dynamic_dependency:
-  integration: The clarity and the conflict teach each other about the service of truth in struggle; the queen learns that naming what is at stake serves most when she maintains the position of honest analyst rather than partisan; the figure learns that the clear authority who can name the conflict without joining it provides what pure passion cannot; the discernment becomes arbitration
-  outcome: The queen names with precision what the fires are truly fighting over; the conflict either clarifies into honest engagement or reveals its own futility; together they demonstrate that clear analysis in the midst of conflict serves everyone fighting when it remains honest rather than partial
+  mechanism: The clarity and the conflict teach each other about the service of truth in struggle
+  function: the queen learns that naming what is at stake serves most when she maintains the position of honest analyst rather than partisan; the figure learns that the clear authority who can name the conflict without joining it provides what pure passion cannot; the discernment becomes arbitration
+  integration_outcome: The queen names with precision what the fires are truly fighting over; the conflict either clarifies into honest engagement or reveals its own futility; together they demonstrate that clear analysis in the midst of conflict serves everyone fighting when it remains honest rather than partial
+  key_terms: queen learns that naming what, queen names with precision what, clarity and the conflict teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, 6 of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Victory, The Recognized Fire, The Triumph Witnessed, Passion Crowned
-numerical_relation: 13 + 6 = 19; the discerning mind assesses the victory; clarity before the recognition
+numerical_relation: 13 + 6 = 19 (XIX The Sun; the discerning mind assesses the victory; clarity before the recognition)
 elemental_bridge: Air (the evaluating eye) meets Fire (the recognized achievement); the queen determines whether the victory truly deserves its recognition
 threshold_type: The moment when the clear authority confirms or questions whether the recognition is genuinely earned
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Assessment after the fact, clarity and recognition, scrutiny of the already-crowned, discernment and triumph
 
 dynamic_inhibition:
-  blockade: The queen's examination of the victory after recognition has been given creates doubt where certainty had settled
+  mechanism: The queen's examination of the victory after recognition has been given creates doubt where certainty had settled
+  blockade_nature: The queen's examination of the victory after recognition has been given creates doubt where certainty had settled
+  swords_state: The figure's triumph is undermined by the late-arriving scrutiny that finds fault after the celebration has begun
   consequence: The figure's triumph is undermined by the late-arriving scrutiny that finds fault after the celebration has begun
+  key_terms: queen's examination of the victory, figure's triumph is undermined, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords declares the recognition unearned and attempts to revoke what has been publicly given
+  mechanism: The queen of swords declares the recognition unearned and attempts to revoke what has been publicly given
+  mode: The queen of swords declares the recognition unearned and attempts to revoke what has been publicly given
   loss: The figure loses the legitimate satisfaction of earned recognition because the discerning authority has imposed a standard the victory could not meet
+  key_terms: queen of swords declares, figure loses the legitimate satisfaction, held tension
 
 dynamic_dependency:
-  integration: The clarity and the victory teach each other about the timing of honest assessment; the queen learns that the most valuable confirmation of genuine achievement arrives before or at the moment of recognition rather than after; the figure learns that having the discerning authority's honest eye on the achievement before recognition gives the recognition its fullest legitimacy; the discernment becomes authentication
-  outcome: The queen's assessment confirms the victory as genuinely earned; the recognition is deepened by the most precise eye having seen it and confirmed it; together they demonstrate that clarity authenticates triumph rather than undermining it when the honest eye can truly say "yes, this was won"
+  mechanism: The clarity and the victory teach each other about the timing of honest assessment
+  function: the queen learns that the most valuable confirmation of genuine achievement arrives before or at the moment of recognition rather than after; the figure learns that having the discerning authority's honest eye on the achievement before recognition gives the recognition its fullest legitimacy; the discernment becomes authentication
+  integration_outcome: The queen's assessment confirms the victory as genuinely earned; the recognition is deepened by the most precise eye having seen it and confirmed it; together they demonstrate that clarity authenticates triumph rather than undermining it when the honest eye can truly say "yes, this was won"
+  key_terms: queen learns that the most, queen's assessment confirms the victory, clarity and the victory teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, 7 of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Defense, The Fire Held Against Opposition, The Stand Maintained, Passion Persisting
-numerical_relation: 13 + 7 = 20; the discerning mind assesses the stand; clarity determines whether the defense is worth maintaining
+numerical_relation: 13 + 7 = 20 (XX Judgement; the discerning mind assesses the stand; clarity determines whether the defense is worth maintaining)
 elemental_bridge: Air (the mind that sees both sides of the line) meets Fire (the passionate defense of the position); the queen examines the stand from outside it
 threshold_type: The moment when the clear authority tells the defender whether what is defended is truly worth the defense
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: External versus internal view, safety and the stand, clarity from outside, defense and the assessing eye
 
 dynamic_inhibition:
-  blockade: The queen's external assessment fails to account for what the defender knows from within the stand
+  mechanism: The queen's external assessment fails to account for what the defender knows from within the stand
+  blockade_nature: The queen's external assessment fails to account for what the defender knows from within the stand
+  swords_state: The figure abandons the position based on the queen's external assessment that missed what only the inside view could reveal
   consequence: The figure abandons the position based on the queen's external assessment that missed what only the inside view could reveal
+  key_terms: queen's external assessment fails, figure abandons the position based, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords declares the defense pointless and shames the defender into abandoning what genuinely needed to be held
+  mechanism: The queen of swords declares the defense pointless and shames the defender into abandoning what genuinely needed to be held
+  mode: The queen of swords declares the defense pointless and shames the defender into abandoning what genuinely needed to be held
   loss: The figure loses what was worth protecting because the discerning authority applied the wrong standards to the assessment
+  key_terms: queen of swords declares, figure loses what was worth, held tension
 
 dynamic_dependency:
-  integration: The clarity and the defense teach each other about the limits of each perspective; the queen learns that her external clarity supplements but cannot replace the defender's internal knowledge; the figure learns that the queen's view from outside the stand can see threats and options the defender cannot see while in it; the discernment becomes counsel
-  outcome: The queen offers what she sees from outside and acknowledges what the defender knows from within; the stand continues or ends based on the fullest possible information; together they demonstrate that external clarity and the interior knowledge of the defense serve each other in determining what is truly worth holding
+  mechanism: The clarity and the defense teach each other about the limits of each perspective
+  function: the queen learns that her external clarity supplements but cannot replace the defender's internal knowledge; the figure learns that the queen's view from outside the stand can see threats and options the defender cannot see while in it; the discernment becomes counsel
+  integration_outcome: The queen offers what she sees from outside and acknowledges what the defender knows from within; the stand continues or ends based on the fullest possible information; together they demonstrate that external clarity and the interior knowledge of the defense serve each other in determining what is truly worth holding
+  key_terms: queen learns that her external, queen offers what she sees, clarity and the defense teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, 8 of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Swiftness, The Accelerated Fire, The Rapid Movement, Momentum Unleashed
-numerical_relation: 13 + 8 = 21; the discerning mind assesses the velocity; clarity examines what the swift arrows carry
+numerical_relation: 13 + 8 = 21 (XXI The World; the discerning mind assesses the velocity; clarity examines what the swift arrows carry)
 elemental_bridge: Air (the mind that moves through clarity) meets Fire (the fire that moves through velocity); the queen who moves with precision encounters the arrows that move with speed
 threshold_type: The moment when the clear authority must assess what is being carried at such speed
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Assessment in flight, clarity after release, discernment of the already-moving, reading without stopping
 
 dynamic_inhibition:
-  blockade: The queen's reading of the arrows is accurate but arrives too late for any adjustment to be made
+  mechanism: The queen's reading of the arrows is accurate but arrives too late for any adjustment to be made
+  blockade_nature: The queen's reading of the arrows is accurate but arrives too late for any adjustment to be made
+  swords_state: The figure receives a clear account of what moved but cannot change the course of what has already been released
   consequence: The figure receives a clear account of what moved but cannot change the course of what has already been released
+  key_terms: queen's reading of the arrows, figure receives a clear account, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords stops the arrows in flight with her analysis, preventing the completion of a momentum that needed to arrive
+  mechanism: The queen of swords stops the arrows in flight with her analysis
+  mode: preventing the completion of a momentum that needed to arrive
   loss: The figure loses the benefit of the swiftly moving communication because the clarity has interrupted what needed to complete its arc
+  key_terms: preventing the completion, figure loses the benefit, queen of swords stops
 
 dynamic_dependency:
-  integration: The clarity and the swift momentum teach each other about timing; the queen learns that the most useful assessment of what is in flight is given before the release rather than during or after; the figure learns that the discerning authority who reads the arrows before they are loosed ensures they carry what they are meant to; the discernment becomes preparation
-  outcome: The queen reads and names before the arrows are released; the momentum is confirmed as worthy of its velocity and let fly; together they demonstrate that clarity serves swiftness best when it arrives before the release rather than chasing what is already in flight
+  mechanism: The clarity and the swift momentum teach each other about timing
+  function: the queen learns that the most useful assessment of what is in flight is given before the release rather than during or after; the figure learns that the discerning authority who reads the arrows before they are loosed ensures they carry what they are meant to; the discernment becomes preparation
+  integration_outcome: The queen reads and names before the arrows are released; the momentum is confirmed as worthy of its velocity and let fly; together they demonstrate that clarity serves swiftness best when it arrives before the release rather than chasing what is already in flight
+  key_terms: queen learns that the most, queen reads and names before, clarity and the swift momentum
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, 9 of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Resilience, The Tested Fire, The Endurance Proven, Strength Through Trial
-numerical_relation: 13 + 9 = 22; the discerning mind assesses the proven endurance; clarity looks at what many trials have made
+numerical_relation: 13 + 9 = 22 → 2+2=4 (IV The Emperor; the discerning mind assesses the proven endurance; clarity looks at what many trials have made)
 elemental_bridge: Air (the mind that reads what has been lived) meets Fire (the strength that has been tested into being); the queen who reads the evidence looks at the one whose scars are the evidence
 threshold_type: The moment when the clear authority reads the record of what trial has made
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Clarity before the weary, naming and the exhausted, discernment and the tested, reading the resistant
 
 dynamic_inhibition:
-  blockade: The queen's naming of the proven strength arrives at a moment when the weary defender can receive nothing more
+  mechanism: The queen's naming of the proven strength arrives at a moment when the weary defender can receive nothing more
+  blockade_nature: The queen's naming of the proven strength arrives at a moment when the weary defender can receive nothing more
+  swords_state: The figure cannot absorb even the most accurate and honoring recognition because the exhaustion exceeds the capacity to receive
   consequence: The figure cannot absorb even the most accurate and honoring recognition because the exhaustion exceeds the capacity to receive
+  key_terms: queen's naming of the proven, figure cannot absorb even, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords uses her reading of the resilient one's trials to demand more endurance rather than honor what has already been survived
+  mechanism: The queen of swords uses her reading of the resilient one's trials to demand more endurance rather than honor what has already been survived
+  mode: The queen of swords uses her reading of the resilient one's trials to demand more endurance rather than honor what has already been survived
   loss: The figure loses the permission to rest because the discerning authority has framed the proven strength as proof of the capacity for further trial
+  key_terms: queen of swords uses her, figure loses the permission, held tension
 
 dynamic_dependency:
-  integration: The clarity and the resilience teach each other about recognition and rest; the queen learns that the most honoring use of her discernment before the proven endurer is to name what has been built and then offer the permission to rest; the figure learns that the sovereign intellect who truly sees what the trials have made is providing a form of witness that supports the rest; the discernment becomes honor
-  outcome: The queen names what the trials have made in the resilient one and then says "you may rest now"; the naming is received as permission; together they demonstrate that the clearest authority serves tested endurance by confirming what it has produced and then releasing the one who produced it from the demand for more
+  mechanism: The clarity and the resilience teach each other about recognition and rest
+  function: the queen learns that the most honoring use of her discernment before the proven endurer is to name what has been built and then offer the permission to rest; the figure learns that the sovereign intellect who truly sees what the trials have made is providing a form of witness that supports the rest; the discernment becomes honor
+  integration_outcome: The queen names what the trials have made in the resilient one and then says "you may rest now"; the naming is received as permission; together they demonstrate that the clearest authority serves tested endurance by confirming what it has produced and then releasing the one who produced it from the demand for more
+  key_terms: queen learns that the most, queen names what the trials, clarity and the resilience teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, 10 of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Burden, The Oppressed Fire, The Weight Carried, Passion Burdened
-numerical_relation: 13 + 10 = 23; the discerning mind examines the burden; clarity assesses what is being carried and whether it must be
+numerical_relation: 13 + 10 = 23 → 2+3=5 (V The Pope; the discerning mind examines the burden; clarity assesses what is being carried and whether it must be)
 elemental_bridge: Air (the clarity that sees what is necessary and what is not) meets Fire (the passion crushed under its own weight); the queen examines what the burdened one carries
 threshold_type: The moment when the clear authority names what in the burden does not need to be carried
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Release named, obligation refusing, clarity and the sense of duty, discernment before the total burden
 
 dynamic_inhibition:
-  blockade: The queen's naming of what can be released meets the bearer's absolute conviction that nothing can be put down
-  consequence: The figure continues carrying all of it despite the accurate assessment; the clarity cannot penetrate the obligation
+  mechanism: The queen's naming of what can be released meets the bearer's absolute conviction that nothing can be put down
+  blockade_nature: The queen's naming of what can be released meets the bearer's absolute conviction that nothing can be put down
+  swords_state: The figure continues carrying all of it despite the accurate assessment
+  consequence: the clarity cannot penetrate the obligation
+  key_terms: queen's naming of what can, figure continues carrying all, clarity cannot penetrate the obligation
 
 dynamic_devolution:
-  corruption: The queen of swords declares the entire burden unnecessary and shames the bearer for carrying what they have genuinely been responsible for
+  mechanism: The queen of swords declares the entire burden unnecessary and shames the bearer for carrying what they have genuinely been responsible for
+  mode: The queen of swords declares the entire burden unnecessary and shames the bearer for carrying what they have genuinely been responsible for
   loss: The figure loses the sense of legitimate purpose in what they carry because the authority has failed to distinguish necessary from unnecessary weight
+  key_terms: queen of swords declares, figure loses the sense, held tension
 
 dynamic_dependency:
-  integration: The clarity and the burden teach each other about discernment in the domain of obligation; the queen learns that some burdens are genuinely necessary and the most she can offer is help in distinguishing those from the ones that are not; the figure learns that the discerning authority who can name precisely what is unnecessary in the burden is offering the most practical liberation possible; the discernment becomes relief
-  outcome: The queen names specifically and without judgment what can be put down; the bearer releases what her clarity has named as unnecessary; together they demonstrate that the sovereign intellect serves the burdened most by the precision that distinguishes what must be carried from what has simply never been questioned
+  mechanism: The clarity and the burden teach each other about discernment in the domain of obligation
+  function: the queen learns that some burdens are genuinely necessary and the most she can offer is help in distinguishing those from the ones that are not; the figure learns that the discerning authority who can name precisely what is unnecessary in the burden is offering the most practical liberation possible; the discernment becomes relief
+  integration_outcome: The queen names specifically and without judgment what can be put down; the bearer releases what her clarity has named as unnecessary; together they demonstrate that the sovereign intellect serves the burdened most by the precision that distinguishes what must be carried from what has simply never been questioned
+  key_terms: queen learns that some burdens, queen names specifically and without, clarity and the burden teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, Page of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Adventurer Child, The Fire's Beginner, The Curious Spark, Passion Beginning
-numerical_relation: 13 + 11 = 24; the discerning mind meets the beginning fire; clarity before the first creative adventure
+numerical_relation: 13 + 11 = 24 → 2+4=6 (VI The Lovers; the discerning mind meets the beginning fire; clarity before the first creative adventure)
 elemental_bridge: Air (the sovereign clarity) meets Fire (the first enthusiasm); the queen who has arrived encounters the one who is just beginning to burn
 threshold_type: The moment when the experienced discerning authority meets the first fire of creative adventure
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Enthusiasm meeting assessment, first fire before evaluation, clarity and beginning adventure, the young fire and the examining authority
 
 dynamic_inhibition:
-  blockade: The queen's full assessment of what the young fire lacks extinguishes the enthusiasm before it has been given time to grow into what it could become
+  mechanism: The queen's full assessment of what the young fire lacks extinguishes the enthusiasm before it has been given time to grow into what it could become
+  blockade_nature: The queen's full assessment of what the young fire lacks extinguishes the enthusiasm before it has been given time to grow into what it could become
+  swords_state: The figure abandons the adventure before discovering what the beginning fire would have developed into with time and experience
   consequence: The figure abandons the adventure before discovering what the beginning fire would have developed into with time and experience
+  key_terms: queen's full assessment of what, figure abandons the adventure before, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords declares the young fire's adventure insufficiently considered and redirects it toward something her clarity prefers
+  mechanism: The queen of swords declares the young fire's adventure insufficiently considered and redirects it toward something her clarity prefers
+  mode: The queen of swords declares the young fire's adventure insufficiently considered and redirects it toward something her clarity prefers
   loss: The figure loses their own adventure by following the queen's clarity-preferred direction rather than the path the beginning fire was actually orienting toward
+  key_terms: queen of swords declares, figure loses their own adventure, held tension
 
 dynamic_dependency:
-  integration: The clarity and the beginning fire teach each other about the right relationship between experience and enthusiasm; the queen learns that the young fire needs direction only where it would genuinely benefit, not assessment at every step; the figure learns that the discerning authority can name what the beginning fire is genuinely oriented toward with a precision the beginner themselves cannot yet articulate; the discernment becomes orientation
-  outcome: The queen names what is genuinely there in the young fire and offers only the specific direction that serves it; the adventure proceeds with the gift of honest orientation; together they demonstrate that experience serves enthusiasm most when it confirms what is real and directs only where direction is genuinely needed
+  mechanism: The clarity and the beginning fire teach each other about the right relationship between experience and enthusiasm
+  function: the queen learns that the young fire needs direction only where it would genuinely benefit, not assessment at every step; the figure learns that the discerning authority can name what the beginning fire is genuinely oriented toward with a precision the beginner themselves cannot yet articulate; the discernment becomes orientation
+  integration_outcome: The queen names what is genuinely there in the young fire and offers only the specific direction that serves it; the adventure proceeds with the gift of honest orientation; together they demonstrate that experience serves enthusiasm most when it confirms what is real and directs only where direction is genuinely needed
+  key_terms: queen learns that the young, queen names what is genuinely, clarity and the beginning fire
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, Knight of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Adventurer, The Wild Fire, The Quest Unbounded, Passion Unleashed
-numerical_relation: 13 + 12 = 25; the discerning mind assesses the wild fire; clarity before the unbounded passion
+numerical_relation: 13 + 12 = 25 → 2+5=7 (VII The Chariot; the discerning mind assesses the wild fire; clarity before the unbounded passion)
 elemental_bridge: Air (the clear authority) meets Fire (the wild adventuring passion); the queen whose clarity is complete encounters the knight whose fire burns without fixed boundary
 threshold_type: The moment when the clear authority and the wild fire encounter each other's form of sovereignty
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Clarity met with refusal, wild fire rejecting assessment, the examining and the unstoppable, queen before the rider who does not slow
 
 dynamic_inhibition:
-  blockade: The knight's wildness prevents him from ever receiving the queen's assessment; the fire burns without the clarity
+  mechanism: The knight's wildness prevents him from ever receiving the queen's assessment
+  blockade_nature: the fire burns without the clarity
+  swords_state: The figure's adventure proceeds without the honest orientation that could have made the wildness serve something beyond itself
   consequence: The figure's adventure proceeds without the honest orientation that could have made the wildness serve something beyond itself
+  key_terms: knight's wildness prevents him from, fire burns without the clarity, figure's adventure proceeds without
 
 dynamic_devolution:
-  corruption: The queen of swords attempts to tame the wild fire and in doing so extinguishes what made it genuinely generative
+  mechanism: The queen of swords attempts to tame the wild fire and in doing so extinguishes what made it genuinely generative
+  mode: The queen of swords attempts to tame the wild fire and in doing so extinguishes what made it genuinely generative
   loss: The figure loses the quality of genuine adventurousness by having the wildness that fueled it systematically removed by the discerning authority
+  key_terms: queen of swords attempts, figure loses the quality, held tension
 
 dynamic_dependency:
-  integration: The clarity and the wild fire teach each other about forms of freedom; the queen learns that some fires must be met in their own element rather than assessed from a stationary position; the figure learns that the discerning authority who can ride alongside rather than stand before the wild fire offers the clearest possible companion; the discernment becomes companionship in motion
-  outcome: The queen mounts and rides alongside the knight long enough to deliver the honest assessment at the speed the adventure requires; the wild fire receives what clarity has to offer without being stopped; together they demonstrate that the sovereign intellect serves the unbounded passion most when it matches the fire's own pace
+  mechanism: The clarity and the wild fire teach each other about forms of freedom
+  function: the queen learns that some fires must be met in their own element rather than assessed from a stationary position; the figure learns that the discerning authority who can ride alongside rather than stand before the wild fire offers the clearest possible companion; the discernment becomes companionship in motion
+  integration_outcome: The queen mounts and rides alongside the knight long enough to deliver the honest assessment at the speed the adventure requires; the wild fire receives what clarity has to offer without being stopped; together they demonstrate that the sovereign intellect serves the unbounded passion most when it matches the fire's own pace
+  key_terms: queen learns that some fires, queen mounts and rides alongside, clarity and the wild fire
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, Queen of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The Queen, The Radiant Fire, The Creative Authority, Passion Crowned
-numerical_relation: 13 + 13 = 26; two queens of different elements meet; the sovereign clarity and the sovereign fire face each other
+numerical_relation: 13 + 13 = 26 → 2+6=8 (VIII Justice; two queens of different elements meet; the sovereign clarity and the sovereign fire face each other)
 elemental_bridge: Air (sovereign discernment) meets Fire (sovereign passion); two forms of feminine authority in direct elemental encounter
 threshold_type: The moment when intellectual sovereignty and creative sovereignty recognize each other across the elemental difference
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Naming before the radiant, clarity and fire, discernment and radiance, two queens in their essential tension
 
 dynamic_inhibition:
-  blockade: The queen of swords' analytical approach cannot fully receive what the radiant fire offers because it requires the analytical mode to be set down
-  consequence: The figure receives an accurate description of the radiant fire but not the warmth itself; the clarity has kept the heat at a distance
+  mechanism: The queen of swords' analytical approach cannot fully receive what the radiant fire offers because it requires the analytical mode to be set down
+  blockade_nature: The queen of swords' analytical approach cannot fully receive what the radiant fire offers because it requires the analytical mode to be set down
+  swords_state: The figure receives an accurate description of the radiant fire but not the warmth itself
+  consequence: the clarity has kept the heat at a distance
+  key_terms: queen of swords' analytical approach, figure receives an accurate description, clarity has kept the heat
 
 dynamic_devolution:
-  corruption: The queen of swords reduces the creative fire's radiant authority to merely emotional expression that she can categorize
+  mechanism: The queen of swords reduces the creative fire's radiant authority to merely emotional expression that she can categorize
+  mode: The queen of swords reduces the creative fire's radiant authority to merely emotional expression that she can categorize
   loss: The figure loses the warmth that the queen of wands carries by insisting on naming what it is rather than receiving what it offers
+  key_terms: queen of swords reduces, figure loses the warmth, held tension
 
 dynamic_dependency:
-  integration: The two sovereignties teach each other about the completeness that each lacks without the other; the queen of swords learns that the creative fire's radiance provides what no clarity can produce: presence that warms rather than illuminates; the queen of wands learns that the discerning mind's precision can give creative authority the ability to know itself; the encounter becomes mutual enrichment
-  outcome: The two queens exchange what each carries: clarity for warmth, naming for radiance; both leave the encounter more complete; together they demonstrate that creative passion and intellectual clarity are the two wings of sovereign feminine authority
+  mechanism: The two sovereignties teach each other about the completeness that each lacks without the other
+  function: the queen of swords learns that the creative fire's radiance provides what no clarity can produce: presence that warms rather than illuminates; the queen of wands learns that the discerning mind's precision can give creative authority the ability to know itself; the encounter becomes mutual enrichment
+  integration_outcome: The two queens exchange what each carries: clarity for warmth, naming for radiance; both leave the encounter more complete; together they demonstrate that creative passion and intellectual clarity are the two wings of sovereign feminine authority
+  key_terms: queen of swords learns, two queens exchange what each, two sovereignties teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW
 
 ---
 
 card_pair: Queen of Swords, King of Wands
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_wands: The King, The Enthroned Fire, The Visionary Authority, Passion Sovereign
-numerical_relation: 13 + 14 = 27; the sovereign clarity meets the sovereign vision; two forms of mastery at the peak of their elements
+numerical_relation: 13 + 14 = 27 → 2+7=9 (IX The Hermit; the sovereign clarity meets the sovereign vision; two forms of mastery at the peak of their elements)
 elemental_bridge: Air (the highest expression of intellectual sovereignty) meets Fire (the highest expression of creative sovereignty); the queen of discernment before the king of vision
 threshold_type: The moment when intellectual mastery and creative visionary authority encounter each other as peers
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Precision versus breadth, naming and holding, clarity and vision in tension, two modes of sovereign knowing
 
 dynamic_inhibition:
-  blockade: The queen's insistence on naming what she can see clearly prevents her from receiving the king's vision that cannot yet be fully articulated
+  mechanism: The queen's insistence on naming what she can see clearly prevents her from receiving the king's vision that cannot yet be fully articulated
+  blockade_nature: The queen's insistence on naming what she can see clearly prevents her from receiving the king's vision that cannot yet be fully articulated
+  swords_state: The figure loses the generative power of the broad vision by requiring it to satisfy the standards of analytical clarity before it can be received
   consequence: The figure loses the generative power of the broad vision by requiring it to satisfy the standards of analytical clarity before it can be received
+  key_terms: queen's insistence on naming what, figure loses the generative power, held tension
 
 dynamic_devolution:
-  corruption: The queen of swords uses her analytical precision to dismantle the king's visionary authority by declaring what cannot be named as therefore not real
+  mechanism: The queen of swords uses her analytical precision to dismantle the king's visionary authority by declaring what cannot be named as therefore not real
+  mode: The queen of swords uses her analytical precision to dismantle the king's visionary authority by declaring what cannot be named as therefore not real
   loss: The figure loses the creative visionary capacity that the king holds by subordinating vision to the standards of the analytical mind
+  key_terms: queen of swords uses her, figure loses the creative visionary, held tension
 
 dynamic_dependency:
-  integration: The two masteries teach each other about the fullest form of knowing; the queen learns that the sovereign vision carries truths that precede and exceed naming; the king learns that the discerning mind's precision gives the vision the ability to communicate what it holds to those who need it named; the encounter becomes the marriage of naming and vision
-  outcome: The queen names what the king's vision contains and the king holds what the queen's clarity exceeds; together they create a form of authority that is both visionary and precise; together they demonstrate that the highest forms of intellectual and creative mastery serve each other and together approach the fullest truth
+  mechanism: The two masteries teach each other about the fullest form of knowing
+  function: the queen learns that the sovereign vision carries truths that precede and exceed naming; the king learns that the discerning mind's precision gives the vision the ability to communicate what it holds to those who need it named; the encounter becomes the marriage of naming and vision
+  integration_outcome: The queen names what the king's vision contains and the king holds what the queen's clarity exceeds; together they create a form of authority that is both visionary and precise; together they demonstrate that the highest forms of intellectual and creative mastery serve each other and together approach the fullest truth
+  key_terms: queen learns that the sovereign, queen names what the king's, two masteries teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: QOWS
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSW

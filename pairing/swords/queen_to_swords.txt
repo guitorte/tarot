@@ -1,7 +1,7 @@
 card_pair: Queen of Swords, Ace of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
-numerical_relation: 13 + 1 = 14; the sovereign clarity meets pure truth at its source; the arrived discernment before the arriving insight
+numerical_relation: 13 + 1 = 14 (XIV Temperance; the sovereign clarity meets pure truth at its source; the arrived discernment before the arriving insight)
 elemental_bridge: Air meets Air; the queen who has fully developed clarity encounters clarity in its pristine original form
 threshold_type: The moment when the discerning mind who has earned her clarity is given clarity as pure gift
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Earned and given clarity, experience before the pristine, sovereignty before the source, discernment encountering origin
 
 dynamic_inhibition:
-  blockade: The queen's hard-won clarity resists receiving what arrives as pure gift without the difficulty she knows clarity requires
-  consequence: The figure remains in the mode of earning rather than receiving; the pristine clarity passes by the one who needed no more earning
+  mechanism: The queen's hard-won clarity resists receiving what arrives as pure gift without the difficulty she knows clarity requires
+  blockade_nature: The queen's hard-won clarity resists receiving what arrives as pure gift without the difficulty she knows clarity requires
+  swords_state: The figure remains in the mode of earning rather than receiving
+  consequence: the pristine clarity passes by the one who needed no more earning
+  key_terms: clarity resisting the pure gift, the mode of earning over receiving, pristine insight passing the one who earned enough, gift refused by hard-won habit
 
 dynamic_devolution:
-  corruption: The queen of swords declares the pristine clarity naive and therefore lesser than the clarity that has been earned through difficulty
+  mechanism: The queen of swords declares the pristine clarity naive and therefore lesser than the clarity that has been earned through difficulty
+  mode: The queen of swords declares the pristine clarity naive and therefore lesser than the clarity that has been earned through difficulty
   loss: The figure loses access to the renewal that unconditioned clarity offers by insisting that only earned clarity is genuine
+  key_terms: queen of swords declares, figure loses access, held tension
 
 dynamic_dependency:
-  integration: The earned clarity and the pristine clarity teach each other about truth's many forms; the queen learns that the most advanced form of her discernment is the capacity to receive pure truth as if she had never learned to analyze; the figure learns that the pristine clarity respects the earned sovereignty by arriving as an equal gift; the discernment becomes reception
-  outcome: The queen receives the ace's clarity with open hands and finds that the pristine truth confirms and renews everything her years of discernment have built; together they demonstrate that the sovereign intellect is most complete when it has earned its clarity and can still receive clarity as pure grace
+  mechanism: The earned clarity and the pristine clarity teach each other about truth's many forms
+  function: the queen learns that the most advanced form of her discernment is the capacity to receive pure truth as if she had never learned to analyze; the figure learns that the pristine clarity respects the earned sovereignty by arriving as an equal gift; the discernment becomes reception
+  integration_outcome: The queen receives the ace's clarity with open hands and finds that the pristine truth confirms and renews everything her years of discernment have built; together they demonstrate that the sovereign intellect is most complete when it has earned its clarity and can still receive clarity as pure grace
+  key_terms: queen learns that the most, queen receives the ace's clarity, earned clarity and the pristine
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, 2 of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
-archetype_swords_2: The Duality, The Balanced Paradox, The Blindfolded Choice, Truth Suspended
-numerical_relation: 13 + 2 = 15; the discerning mind encounters the held paradox; clarity before unresolvable tension
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 13 + 2 = 15 (XV The Devil; the discerning mind encounters the held paradox; clarity before unresolvable tension)
 elemental_bridge: Air (the mind that cuts through to resolution) meets Air (the mind that holds without resolving); the queen's clarity confronts truth that refuses to be cut
 threshold_type: The moment when the sovereign intellect must acknowledge the paradox that exceeds even her discernment
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Clarity applied to paradox, sword before the unresolvable, discernment meeting its limit, queen resisted by held tension
 
 dynamic_inhibition:
-  blockade: The queen's insistence on finding the resolution forces a false clarity that misrepresents the genuine paradox
+  mechanism: The queen's insistence on finding the resolution forces a false clarity that misrepresents the genuine paradox
+  blockade_nature: The queen's insistence on finding the resolution forces a false clarity that misrepresents the genuine paradox
+  swords_state: The figure produces an artificial resolution that satisfies the analytical need but misses the genuine complexity of what cannot be fully resolved
   consequence: The figure produces an artificial resolution that satisfies the analytical need but misses the genuine complexity of what cannot be fully resolved
+  key_terms: forcing a resolution onto genuine paradox, false clarity misrepresenting it, artificial resolution, complexity flattened
 
 dynamic_devolution:
-  corruption: The queen of swords cuts through the paradox and declares one side the truth, dismissing the complexity as intellectual weakness
+  mechanism: The queen of swords cuts through the paradox and declares one side the truth
+  mode: dismissing the complexity as intellectual weakness
   loss: The figure loses the genuine wisdom held in the unresolvable tension by forcing a resolution where one is not possible
+  key_terms: dismissing the complexity as intellectual, figure loses the genuine wisdom, queen of swords cuts through
 
 dynamic_dependency:
-  integration: The clarity and the paradox teach each other about the forms of truth; the queen learns that the honest acknowledgment of what cannot be resolved is a form of clarity more sophisticated than any false resolution; the figure learns that the discerning authority who can hold the paradox without needing to cut it has achieved the highest form of her discernment; the sword becomes the capacity to hold as well as cut
-  outcome: The queen acknowledges the paradox and holds it alongside the two of swords; together they demonstrate that the sovereign intellect is most complete when it knows both when to cut and when to hold
+  mechanism: The clarity and the paradox teach each other about the forms of truth
+  function: the queen learns that the honest acknowledgment of what cannot be resolved is a form of clarity more sophisticated than any false resolution; the figure learns that the discerning authority who can hold the paradox without needing to cut it has achieved the highest form of her discernment; the sword becomes the capacity to hold as well as cut
+  integration_outcome: The queen acknowledges the paradox and holds it alongside the two of swords; together they demonstrate that the sovereign intellect is most complete when it knows both when to cut and when to hold
+  key_terms: queen learns that the honest, queen acknowledges the paradox, clarity and the paradox teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, 3 of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
-archetype_swords_2: The Sorrow, The Pain Witnessed, The Heartbreak Known, Truth That Wounds
-numerical_relation: 13 + 3 = 16; the discerning mind stands before grief; clarity before the heart that has been pierced
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 13 + 3 = 16 (XVI The Tower; the discerning mind stands before grief; clarity before the heart that has been pierced)
 elemental_bridge: Air meets Air; the sovereign clarity of the queen and the truth of loss that pierces; the mind that sees everything seeing pain from the inside
 threshold_type: The moment when the clear authority must face grief that her clarity cannot prevent
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Survivor's knowledge and the acute pain, having lived through and living through, clarity after grief and grief in progress, the known and the immediate
 
 dynamic_inhibition:
-  blockade: The queen's clarity from having survived her own grief does not fully reach the one in the midst of grief that has not yet been survived
-  consequence: The figure feels understood in form but not in the specific texture of their particular pain; the clarity about grief in general misses this grief's particularity
+  mechanism: The queen's clarity from having survived her own grief does not fully reach the one in the midst of grief that has not yet been survived
+  blockade_nature: The queen's clarity from having survived her own grief does not fully reach the one in the midst of grief that has not yet been survived
+  swords_state: The figure feels understood in form but not in the specific texture of their particular pain
+  consequence: the clarity about grief in general misses this grief's particularity
+  key_terms: general clarity missing this grief's particularity, understood in form not texture, the unmet specific pain, survived-grief not reaching unsurvived
 
 dynamic_devolution:
-  corruption: The queen of swords uses the fact of her own survival to demand a timeline for the grieving one's recovery
+  mechanism: The queen of swords uses the fact of her own survival to demand a timeline for the grieving one's recovery
+  mode: The queen of swords uses the fact of her own survival to demand a timeline for the grieving one's recovery
   loss: The figure loses the right to their own pace with grief because the authority's survival has been framed as evidence of what is required
+  key_terms: queen of swords uses, figure loses the right, held tension
 
 dynamic_dependency:
-  integration: The clarity and the grief teach each other about the limits of experiential authority; the queen learns that surviving her own grief gives her the capacity for honest compassion rather than the right to prescribe another's path; the figure learns that the queen's survival is itself the most honest evidence that this grief is survivable; the discernment becomes compassionate witness
-  outcome: The queen sits with the grief and says: I know this; I survived it; you will too; the clarity serves without prescribing; together they demonstrate that experiential knowledge of grief is the queen of swords' most humane form of discernment
+  mechanism: The clarity and the grief teach each other about the limits of experiential authority
+  function: the queen learns that surviving her own grief gives her the capacity for honest compassion rather than the right to prescribe another's path; the figure learns that the queen's survival is itself the most honest evidence that this grief is survivable; the discernment becomes compassionate witness
+  integration_outcome: The queen sits with the grief and says: I know this; I survived it; you will too; the clarity serves without prescribing; together they demonstrate that experiential knowledge of grief is the queen of swords' most humane form of discernment
+  key_terms: queen learns that surviving her, queen sits with the grief, clarity and the grief teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, 4 of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
-archetype_swords_2: The Rest, The Truce Held, The Mind At Peace, Thought Quieted
-numerical_relation: 13 + 4 = 17; the discerning mind encounters the mind at rest; clarity before the earned peace
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_2: Rest, truce, peace, mental stillness, respite
+numerical_relation: 13 + 4 = 17 (XVII The Star; the discerning mind encounters the mind at rest; clarity before the earned peace)
 elemental_bridge: Air meets Air; the sovereign activity of discernment before the sovereign rest of peace; the mind that has worked hard encountering the mind that has earned its silence
 threshold_type: The moment when the active discerning authority discovers the value of the still mind
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Sword maintained, rest resisted, analytical habit before the earned peace, clarity refusing stillness
 
 dynamic_inhibition:
-  blockade: The queen's commitment to continued discernment prevents her from receiving the renewal that the rest would offer
-  consequence: The figure continues to analyze when she most needs to be still; the clarity eventually becomes brittleness from lack of renewal
+  mechanism: The queen's commitment to continued discernment prevents her from receiving the renewal that the rest would offer
+  blockade_nature: The queen's commitment to continued discernment prevents her from receiving the renewal that the rest would offer
+  swords_state: The figure continues to analyze when she most needs to be still
+  consequence: the clarity eventually becomes brittleness from lack of renewal
+  key_terms: discernment refusing rest's renewal, analyzing when stillness is needed, clarity become brittleness, unrenewed sight
 
 dynamic_devolution:
-  corruption: The queen of swords dismisses the rest as a failure of the discerning mind rather than its restoration
+  mechanism: The queen of swords dismisses the rest as a failure of the discerning mind rather than its restoration
+  mode: The queen of swords dismisses the rest as a failure of the discerning mind rather than its restoration
   loss: The figure loses the renewal that only rest provides by labeling the cessation of analysis as incompetence
+  key_terms: queen of swords dismisses, figure loses the renewal, held tension
 
 dynamic_dependency:
-  integration: The clarity and the rest teach each other about the sustainable form of the discerning mind; the queen learns that the sword laid down and taken up renewed is sharper than the sword never rested; the figure learns that the rest that follows genuine discernment is earned rather than avoided; the discernment becomes cyclical
-  outcome: The queen lays down the sword and rests beside the four of swords; the stillness is received as the restoration the clarity required; together they demonstrate that the sovereign intellect is most powerful when it has also known the sovereign rest that follows difficult work
+  mechanism: The clarity and the rest teach each other about the sustainable form of the discerning mind
+  function: the queen learns that the sword laid down and taken up renewed is sharper than the sword never rested; the figure learns that the rest that follows genuine discernment is earned rather than avoided; the discernment becomes cyclical
+  integration_outcome: The queen lays down the sword and rests beside the four of swords; the stillness is received as the restoration the clarity required; together they demonstrate that the sovereign intellect is most powerful when it has also known the sovereign rest that follows difficult work
+  key_terms: queen learns that the sword, queen lays down the sword, clarity and the rest teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, 5 of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
-archetype_swords_2: The Defeat, The Bitter Victory, The Hollow Win, Thought Betrayed
-numerical_relation: 13 + 5 = 18; the discerning mind confronts the aftermath of truth used as weapon; clarity before the hollow victory
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 13 + 5 = 18 (XVIII The Moon; the discerning mind confronts the aftermath of truth used as weapon; clarity before the hollow victory)
 elemental_bridge: Air meets Air; the sovereign discernment of the queen and the bitter aftermath of unchecked truth; the mind that wields the sword well before the mind that wielded it carelessly
 threshold_type: The moment when the clear authority looks at what truth-seeking without compassion has produced
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Hollow victory named, cost assessed, discernment of the aftermath, queen examining what the sword can produce
 
 dynamic_inhibition:
-  blockade: The queen's naming of the hollow victory arrives when the one who won it cannot yet hear what the victory has cost
-  consequence: The figure hears the assessment of what was destroyed but cannot yet integrate it; the hollow feeling remains unnamed in their understanding
+  mechanism: The queen's naming of the hollow victory arrives when the one who won it cannot yet hear what the victory has cost
+  blockade_nature: The queen's naming of the hollow victory arrives when the one who won it cannot yet hear what the victory has cost
+  swords_state: The figure hears the assessment of what was destroyed but cannot yet integrate it
+  consequence: the hollow feeling remains unnamed in their understanding
+  key_terms: naming the hollow victory too soon to hear, the cost not yet integrable, the unnamed hollowness, assessment before readiness
 
 dynamic_devolution:
-  corruption: The queen of swords uses her clarity to judge the hollow victor rather than name the path toward integration
+  mechanism: The queen of swords uses her clarity to judge the hollow victor rather than name the path toward integration
+  mode: The queen of swords uses her clarity to judge the hollow victor rather than name the path toward integration
   loss: The figure loses the possibility of learning from the bitter victory because the assessment has arrived as condemnation rather than honest counsel
+  key_terms: queen of swords uses her, figure loses the possibility, held tension
 
 dynamic_dependency:
-  integration: The clarity and the hollow victory teach each other about the ethics of the sword; the queen learns that the most honest assessment of what truth-wielding has cost includes the possibility of what the cost was for; the figure learns that the discerning authority who can name both what was won and what was destroyed is offering the only honest path forward; the discernment becomes ethics
-  outcome: The queen names the hollow victory with honesty and without condemnation; the possibility of integrating the loss opens; together they demonstrate that the sovereign intellect serves the aftermath of careless truth-wielding by naming it clearly and then pointing toward what genuine clarity would have done differently
+  mechanism: The clarity and the hollow victory teach each other about the ethics of the sword
+  function: the queen learns that the most honest assessment of what truth-wielding has cost includes the possibility of what the cost was for; the figure learns that the discerning authority who can name both what was won and what was destroyed is offering the only honest path forward; the discernment becomes ethics
+  integration_outcome: The queen names the hollow victory with honesty and without condemnation; the possibility of integrating the loss opens; together they demonstrate that the sovereign intellect serves the aftermath of careless truth-wielding by naming it clearly and then pointing toward what genuine clarity would have done differently
+  key_terms: queen learns that the most, queen names the hollow victory, clarity and the hollow victory
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, 6 of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
-archetype_swords_2: The Journey, The Passage Traveled, The Crossing Made, Thought Moving Forward
-numerical_relation: 13 + 6 = 19; the discerning mind watches the crossing; clarity witnesses the passage from troubled to calmer water
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_2: The Traveler, The Departure, The Crossing, The Healer Through Distance
+numerical_relation: 13 + 6 = 19 (XIX The Sun; the discerning mind watches the crossing; clarity witnesses the passage from troubled to calmer water)
 elemental_bridge: Air meets Air; the sovereign stillness of the arrived queen and the forward motion of the those still crossing; clarity that has reached the far shore watching those still on the water
 threshold_type: The moment when the clear authority stands at the destination and guides those who are still crossing
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Arrival and crossing in tension, the arrived and the still-traveling, clarity from the destination, discernment of what the passage leads to
 
 dynamic_inhibition:
-  blockade: The queen's position at the far shore is too distant to provide guidance for the specific difficulties of the crossing
+  mechanism: The queen's position at the far shore is too distant to provide guidance for the specific difficulties of the crossing
+  blockade_nature: The queen's position at the far shore is too distant to provide guidance for the specific difficulties of the crossing
+  swords_state: The figure knows the destination exists but cannot receive the specific help they need for the middle of the passage
   consequence: The figure knows the destination exists but cannot receive the specific help they need for the middle of the passage
+  key_terms: the far-shore too distant for mid-crossing help, destination known help unreachable, the unguided passage, clarity out of range
 
 dynamic_devolution:
-  corruption: The queen of swords describes the far shore in such detail that those crossing become more oriented toward the destination than toward safely completing the water
+  mechanism: The queen of swords describes the far shore in such detail that those crossing become more oriented toward the destination than toward safely completing the water
+  mode: The queen of swords describes the far shore in such detail that those crossing become more oriented toward the destination than toward safely completing the water
   loss: The figure loses attention to the immediate safety of the crossing by fixing too intently on the destination the queen describes
+  key_terms: queen of swords describes, figure loses attention, held tension
 
 dynamic_dependency:
-  integration: The clarity at the destination and the crossing teach each other about the relationship between arrival and passage; the queen learns that the most useful guidance she can provide from the far shore is simple confirmation that the crossing leads where it appears to lead; the figure learns that the discerning authority standing at the destination is itself the most honest proof that the passage is real and the shore is solid; the discernment becomes beacon
-  outcome: The queen stands visible at the far shore and her presence confirms that the crossing is real; the passage continues with the certainty of the destination; together they demonstrate that clarity at the destination serves the crossing by its presence rather than its words
+  mechanism: The clarity at the destination and the crossing teach each other about the relationship between arrival and passage
+  function: the queen learns that the most useful guidance she can provide from the far shore is simple confirmation that the crossing leads where it appears to lead; the figure learns that the discerning authority standing at the destination is itself the most honest proof that the passage is real and the shore is solid; the discernment becomes beacon
+  integration_outcome: The queen stands visible at the far shore and her presence confirms that the crossing is real; the passage continues with the certainty of the destination; together they demonstrate that clarity at the destination serves the crossing by its presence rather than its words
+  key_terms: queen learns that the most, queen stands visible at, clarity at the destination
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, 7 of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
-archetype_swords_2: The Theft, The Cunning Taken, The Stealth Masked, Thought Hidden
-numerical_relation: 13 + 7 = 20; the discerning mind encounters the cunning; clarity stands before the one who hides
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_2: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+numerical_relation: 13 + 7 = 20 (XX Judgement; the discerning mind encounters the cunning; clarity stands before the one who hides)
 elemental_bridge: Air meets Air; the sovereign discernment before the hidden intelligence; the queen who sees through all things before the one who counts on not being seen through
 threshold_type: The moment when clarity finally faces the one who has been concealing from it
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Clarity piercing concealment, the seen and the hiding, sovereign discernment and cunning intelligence, queen before the thief
 
 dynamic_inhibition:
-  blockade: The cunning one refuses to acknowledge being seen and the queen's clarity cannot force the acknowledgment it has earned
-  consequence: The figure continues the deception despite being clearly seen; the exposure has not yet produced the honesty it was meant to invite
+  mechanism: The cunning one refuses to acknowledge being seen and the queen's clarity cannot force the acknowledgment it has earned
+  blockade_nature: The cunning one refuses to acknowledge being seen and the queen's clarity cannot force the acknowledgment it has earned
+  swords_state: The figure continues the deception despite being clearly seen
+  consequence: the exposure has not yet produced the honesty it was meant to invite
+  key_terms: the cunning refusing acknowledgment, clarity that cannot force honesty, deception continuing though seen, exposure without confession
 
 dynamic_devolution:
-  corruption: The queen of swords uses her clarity to shame and destroy the one she has seen rather than to invite reintegration
+  mechanism: The queen of swords uses her clarity to shame and destroy the one she has seen rather than to invite reintegration
+  mode: The queen of swords uses her clarity to shame and destroy the one she has seen rather than to invite reintegration
   loss: The figure loses the possibility of honest return because the exposure arrived with judgment that forecloses the very honesty it was meant to invite
+  key_terms: queen of swords uses her, figure loses the possibility, held tension
 
 dynamic_dependency:
-  integration: The clarity and the cunning teach each other about exposure and possibility; the queen learns that the most powerful use of her seeing is to name what she sees and then hold open the possibility of return; the figure learns that being truly seen by the sovereign intellect is the moment when concealment becomes impossibly costly and honest integration becomes possible; the discernment becomes invitation
-  outcome: The queen names what she sees and says: "what you have taken can be returned; I offer you the path"; the cunning stands at the threshold of honest integration; together they demonstrate that the clearest authority serves the hidden by creating the possibility that being seen becomes liberation rather than condemnation
+  mechanism: The clarity and the cunning teach each other about exposure and possibility
+  function: the queen learns that the most powerful use of her seeing is to name what she sees and then hold open the possibility of return; the figure learns that being truly seen by the sovereign intellect is the moment when concealment becomes impossibly costly and honest integration becomes possible; the discernment becomes invitation
+  integration_outcome: The queen names what she sees and says: "what you have taken can be returned; I offer you the path"; the cunning stands at the threshold of honest integration; together they demonstrate that the clearest authority serves the hidden by creating the possibility that being seen becomes liberation rather than condemnation
+  key_terms: queen learns that the most, queen names what she sees, clarity and the cunning teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, 8 of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
-archetype_swords_2: The Bondage, The Imprisonment Of Mind, The Bound Thought, Captivity Accepted
-numerical_relation: 13 + 8 = 21; the discerning mind before the imprisoned mind; clarity before self-created captivity
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_2: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+numerical_relation: 13 + 8 = 21 (XXI The World; the discerning mind before the imprisoned mind; clarity before self-created captivity)
 elemental_bridge: Air meets Air; the sovereign free mind of the queen before the bound mind of the eight; the same element in its liberated and captive forms
 threshold_type: The moment when the clearest mind encounters the most bound mind in the same suit
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Precision impotent before captivity, clarity and the inability to receive it, the named exit and the blindfolded prisoner, discernment before the bound
 
 dynamic_inhibition:
-  blockade: The queen's precise naming of the exit cannot reach the imprisoned mind whose blindfold prevents the very reception it needs
+  mechanism: The queen's precise naming of the exit cannot reach the imprisoned mind whose blindfold prevents the very reception it needs
+  blockade_nature: The queen's precise naming of the exit cannot reach the imprisoned mind whose blindfold prevents the very reception it needs
+  swords_state: The figure remains bound despite the clearest possible directions because the captivity itself is preventing the capacity to follow them
   consequence: The figure remains bound despite the clearest possible directions because the captivity itself is preventing the capacity to follow them
+  key_terms: precise directions the blindfold can't receive, captivity preventing reception, bound despite the clearest map, the foreclosed exit
 
 dynamic_devolution:
-  corruption: The queen of swords loses patience with the imprisoned mind's inability to act on her precise directions and withdraws
+  mechanism: The queen of swords loses patience with the imprisoned mind's inability to act on her precise directions and withdraws
+  mode: The queen of swords loses patience with the imprisoned mind's inability to act on her precise directions and withdraws
   loss: The figure loses the clearest guide available by receiving only her frustration and not her sustained presence
+  key_terms: queen of swords loses patience, figure loses the clearest guide, held tension
 
 dynamic_dependency:
-  integration: The clarity and the captivity teach each other about the nature of liberation; the queen learns that the precise directions must be paired with the patient repetition of presence; the figure learns that the sovereign clarity sustained over time eventually penetrates the blindfold that resists single encounter; the discernment becomes sustained witness
-  outcome: The queen stays and repeats the precise directions in every form available until one reaches the imprisoned mind; the captivity loosens one binding at a time; together they demonstrate that the sovereign intellect serves the bound mind most by combining precision with the patience to stay until the captivity yields
+  mechanism: The clarity and the captivity teach each other about the nature of liberation
+  function: the queen learns that the precise directions must be paired with the patient repetition of presence; the figure learns that the sovereign clarity sustained over time eventually penetrates the blindfold that resists single encounter; the discernment becomes sustained witness
+  integration_outcome: The queen stays and repeats the precise directions in every form available until one reaches the imprisoned mind; the captivity loosens one binding at a time; together they demonstrate that the sovereign intellect serves the bound mind most by combining precision with the patience to stay until the captivity yields
+  key_terms: queen learns that the precise, queen stays and repeats, clarity and the captivity teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, 9 of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
-archetype_swords_2: The Nightmare, The Mind Tortured, The Thought That Wounds, Anguish Internalized
-numerical_relation: 13 + 9 = 22; the discerning mind stands before the anguished mind; clarity before the thought that turns against itself
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_2: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+numerical_relation: 13 + 9 = 22 → 2+2=4 (IV The Emperor; the discerning mind stands before the anguished mind; clarity before the thought that turns against itself)
 elemental_bridge: Air meets Air; the sovereign mind in its clearest form before the mind in its most self-destructive form; two expressions of the same element at its most different
 threshold_type: The moment when the most clear mind must speak to the most tormented mind
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Clarity naming anguish, naming and experiencing, precision before the midnight, queen and the tortured mind
 
 dynamic_inhibition:
-  blockade: The queen's precise naming of the nightmares cannot immediately stop the anguish they produce
-  consequence: The figure hears the clear analysis but continues to suffer; the naming has been accurate but has not yet produced the relief it was meant to provide
+  mechanism: The queen's precise naming of the nightmares cannot immediately stop the anguish they produce
+  blockade_nature: The queen's precise naming of the nightmares cannot immediately stop the anguish they produce
+  swords_state: The figure hears the clear analysis but continues to suffer
+  consequence: the naming has been accurate but has not yet produced the relief it was meant to provide
+  key_terms: naming the nightmares without stopping the anguish, accurate but not yet relieving, suffering continuing past the analysis, naming without relief
 
 dynamic_devolution:
-  corruption: The queen of swords uses her clarity to dismiss the nightmares as irrational and therefore not worth the suffering they produce
+  mechanism: The queen of swords uses her clarity to dismiss the nightmares as irrational and therefore not worth the suffering they produce
+  mode: The queen of swords uses her clarity to dismiss the nightmares as irrational and therefore not worth the suffering they produce
   loss: The figure loses the one witness who might have helped by receiving instead a judgment that invalidates the reality of their anguish
+  key_terms: queen of swords uses her, figure loses the one witness, held tension
 
 dynamic_dependency:
-  integration: The clarity and the anguish teach each other about the relationship between naming and relief; the queen learns that precision about the nightmares must be paired with acknowledgment of the reality of what the anguish feels like even when the cause is not what it appears; the figure learns that the discerning authority who can both name what is happening and acknowledge that it is genuinely painful is offering the most complete response available; the discernment becomes compassionate precision
-  outcome: The queen names the nightmares with precision and acknowledges the genuine suffering without dismissing either; the midnight begins to yield to the morning of honest naming; together they demonstrate that the sovereign intellect serves the tortured mind by combining what is most needed: accuracy about the reality and acknowledgment of the pain
+  mechanism: The clarity and the anguish teach each other about the relationship between naming and relief
+  function: the queen learns that precision about the nightmares must be paired with acknowledgment of the reality of what the anguish feels like even when the cause is not what it appears; the figure learns that the discerning authority who can both name what is happening and acknowledge that it is genuinely painful is offering the most complete response available; the discernment becomes compassionate precision
+  integration_outcome: The queen names the nightmares with precision and acknowledges the genuine suffering without dismissing either; the midnight begins to yield to the morning of honest naming; together they demonstrate that the sovereign intellect serves the tortured mind by combining what is most needed: accuracy about the reality and acknowledgment of the pain
+  key_terms: queen learns that precision about, queen names the nightmares, clarity and the anguish teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, 10 of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
-archetype_swords_2: The Devastation, The Mind Destroyed, The Thought Annihilated, Ruin Complete
-numerical_relation: 13 + 10 = 23; the discerning mind stands at total devastation; clarity before the annihilated thought
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_2: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+numerical_relation: 13 + 10 = 23 → 2+3=5 (V The Pope; the discerning mind stands at total devastation; clarity before the annihilated thought)
 elemental_bridge: Air meets Air; the sovereign living clarity before the completely destroyed mind; the same element in its fullest living form before its most complete destruction
 threshold_type: The moment when the clearest mind stands at the place where all mind has ended
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Clarity at the limit, naming before the unnameable, sovereign discernment at total ruin, the queen before the end
 
 dynamic_inhibition:
-  blockade: The queen's analytical clarity has nothing to work with at the place of total annihilation; the tool has reached its absolute limit
-  consequence: The figure stands at total devastation with no analytical purchase; the clarity that has served everywhere else has nothing here to hold
+  mechanism: The queen's analytical clarity has nothing to work with at the place of total annihilation
+  blockade_nature: the tool has reached its absolute limit
+  swords_state: The figure stands at total devastation with no analytical purchase
+  consequence: the clarity that has served everywhere else has nothing here to hold
+  key_terms: clarity with nothing to work at total ruin, the tool at its limit, no analytical purchase, devastation beyond discernment
 
 dynamic_devolution:
-  corruption: The queen of swords applies her analytical habit to the devastation and produces an account of how it came to happen rather than an acknowledgment of what is
+  mechanism: The queen of swords applies her analytical habit to the devastation and produces an account of how it came to happen rather than an acknowledgment of what is
+  mode: The queen of swords applies her analytical habit to the devastation and produces an account of how it came to happen rather than an acknowledgment of what is
   loss: The figure loses the experience of being truly witnessed at the place of total ending because the clarity has been used to explain rather than witness
+  key_terms: queen of swords applies her, figure loses the experience, held tension
 
 dynamic_dependency:
-  integration: The clarity and the devastation teach each other about the limits of the discerning mind; the queen learns that the most honest use of her clarity at the place of total destruction is to set down the sword and simply be present; the figure learns that the queen's willingness to stay at the place of complete ending without the sword is the most complete form of her sovereignty; the discernment becomes presence
-  outcome: The queen sets down the sword and kneels at the place of total devastation; her presence is the clearest possible witness; together they demonstrate that the sovereign intellect is most fully itself when it knows that the greatest clarity is sometimes the willingness to simply be present at the place where all analysis ends
+  mechanism: The clarity and the devastation teach each other about the limits of the discerning mind
+  function: the queen learns that the most honest use of her clarity at the place of total destruction is to set down the sword and simply be present; the figure learns that the queen's willingness to stay at the place of complete ending without the sword is the most complete form of her sovereignty; the discernment becomes presence
+  integration_outcome: The queen sets down the sword and kneels at the place of total devastation; her presence is the clearest possible witness; together they demonstrate that the sovereign intellect is most fully itself when it knows that the greatest clarity is sometimes the willingness to simply be present at the place where all analysis ends
+  key_terms: queen learns that the most, queen sets down the sword, clarity and the devastation teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, Page of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_swords_2: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-numerical_relation: 13 + 11 = 24; the sovereign clarity receives the new truth; the arrived discernment before the arriving thought
+numerical_relation: 13 + 11 = 24 → 2+4=6 (VI The Lovers; the sovereign clarity receives the new truth; the arrived discernment before the arriving thought)
 elemental_bridge: Air meets Air; the mature sovereign clarity before the young arriving truth; the queen who has seen everything before the thought that has just arrived
 threshold_type: The moment when the clear authority is offered a truth by the one who is just beginning to discover truth
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: New truth before experience, the fresh and the known, young messenger and the sovereign mind, the arriving before the arrived
 
 dynamic_inhibition:
-  blockade: The queen's comprehensive knowledge prevents her from receiving what is genuinely new in the young messenger's truth
+  mechanism: The queen's comprehensive knowledge prevents her from receiving what is genuinely new in the young messenger's truth
+  blockade_nature: The queen's comprehensive knowledge prevents her from receiving what is genuinely new in the young messenger's truth
+  swords_state: The figure filters the fresh truth through what she already knows and thereby misses what is new in what the messenger carries
   consequence: The figure filters the fresh truth through what she already knows and thereby misses what is new in what the messenger carries
+  key_terms: comprehensive knowledge missing the genuinely new, the fresh filtered through the known, novelty lost to expertise, the unreceived new truth
 
 dynamic_devolution:
-  corruption: The queen of swords dismisses the young messenger's truth as insufficiently developed to be worth the sovereign mind's full attention
+  mechanism: The queen of swords dismisses the young messenger's truth as insufficiently developed to be worth the sovereign mind's full attention
+  mode: The queen of swords dismisses the young messenger's truth as insufficiently developed to be worth the sovereign mind's full attention
   loss: The figure loses what is genuinely new in the arriving thought by applying the standards of the arrived clarity too early
+  key_terms: queen of swords dismisses, figure loses what is genuinely, held tension
 
 dynamic_dependency:
-  integration: The sovereign clarity and the arriving truth teach each other about the relationship between experience and freshness; the queen learns that what is new requires the same open reception she would give any truth before examining it; the figure learns that the discerning authority's honest reception of the young truth is the most valuable form of validation the fresh thought can receive; the discernment becomes openness
-  outcome: The queen receives the page's message with genuine openness before assessment; what is genuinely new is recognized and received; together they demonstrate that the sovereign intellect is most complete when it can still receive what is fresh without requiring it to first satisfy the standards of the already-known
+  mechanism: The sovereign clarity and the arriving truth teach each other about the relationship between experience and freshness
+  function: the queen learns that what is new requires the same open reception she would give any truth before examining it; the figure learns that the discerning authority's honest reception of the young truth is the most valuable form of validation the fresh thought can receive; the discernment becomes openness
+  integration_outcome: The queen receives the page's message with genuine openness before assessment; what is genuinely new is recognized and received; together they demonstrate that the sovereign intellect is most complete when it can still receive what is fresh without requiring it to first satisfy the standards of the already-known
+  key_terms: queen learns that what, queen receives the page's message, sovereign clarity and the arriving
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, Knight of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_swords_2: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-numerical_relation: 13 + 12 = 25; the arrived clarity before the still-seeking; the sovereign mind and the urgent pursuit in the same element
+numerical_relation: 13 + 12 = 25 → 2+5=7 (VII The Chariot; the arrived clarity before the still-seeking; the sovereign mind and the urgent pursuit in the same element)
 elemental_bridge: Air meets Air; the queen who has arrived and the knight who has not yet; the same archetype at different stages of its development
 threshold_type: The moment when the one who has arrived receives the one who is still charging toward what she already holds
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Urgency before sovereignty, the charging and the arrived, seeker resisting reception, queen holding what is sought
 
 dynamic_inhibition:
-  blockade: The knight's urgency prevents him from receiving what the arrived queen holds; the very momentum of the pursuit overshoots the destination
-  consequence: The figure charges past the clarity that was already present; the urgency cannot stop long enough to receive what it has been seeking
+  mechanism: The knight's urgency prevents him from receiving what the arrived queen holds
+  blockade_nature: the very momentum of the pursuit overshoots the destination
+  swords_state: The figure charges past the clarity that was already present
+  consequence: the urgency cannot stop long enough to receive what it has been seeking
+  key_terms: urgency overshooting the arrived clarity, charging past what was present, the pursuit that can't stop to receive, momentum past the destination
 
 dynamic_devolution:
-  corruption: The queen of swords withholds what she holds from the urgent seeker, declaring that he must arrive in his own time without guidance
+  mechanism: The queen of swords withholds what she holds from the urgent seeker
+  mode: declaring that he must arrive in his own time without guidance
   loss: The figure loses the most direct transmission of what the pursuit is oriented toward; the queen has confused the necessity of the journey with the withholding of honest guidance
+  key_terms: declaring that he must arrive, figure loses the most direct, queen of swords withholds what
 
 dynamic_dependency:
-  integration: The sovereign clarity and the urgent pursuit teach each other about the relationship between seeking and arriving; the queen learns that the most direct service to the urgent seeker is honest transmission of what the arrival holds; the figure learns that the arrived authority who speaks to him is providing the clearest possible orientation for the remaining pursuit; the discernment becomes transmission
-  outcome: The queen names honestly what the arrival holds and what the urgency is carrying him toward; the knight receives the orientation without losing the urgency; together they demonstrate that the arrived clarity serves the still-seeking by showing rather than hoarding what has been found
+  mechanism: The sovereign clarity and the urgent pursuit teach each other about the relationship between seeking and arriving
+  function: the queen learns that the most direct service to the urgent seeker is honest transmission of what the arrival holds; the figure learns that the arrived authority who speaks to him is providing the clearest possible orientation for the remaining pursuit; the discernment becomes transmission
+  integration_outcome: The queen names honestly what the arrival holds and what the urgency is carrying him toward; the knight receives the orientation without losing the urgency; together they demonstrate that the arrived clarity serves the still-seeking by showing rather than hoarding what has been found
+  key_terms: queen learns that the most, queen names honestly what, sovereign clarity and the urgent
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, Queen of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_swords_2: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
-numerical_relation: 13 + 13 = 26; the sovereign clarity before itself; the discerning mind examining its own discernment
+numerical_relation: 13 + 13 = 26 → 2+6=8 (VIII Justice; the sovereign clarity before itself; the discerning mind examining its own discernment)
 elemental_bridge: Air meets Air; the queen before her own mirror; the sovereign intellect discovering what it cannot see about itself
 threshold_type: The moment when the clearest mind must turn its clarity on itself
 
@@ -530,37 +614,44 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The queen of swords examines herself; the mirror queen examines back; the two forms of the same authority contest which is the clearer
   tension_axis: Between the clarity that examines and the clarity that is examined; both equally sovereign, both equally rigorous
-  queen_of_swords_position: "I examine you with my clarity"
-  queen_of_swords_position_2: "And I examine you with the same; what do we find in each other"
+  swords_position_1: "I examine you with my clarity"
+  swords_position_2: "And I examine you with the same; what do we find in each other"
   key_terms: Mirror examination, two clarites contesting, sovereign before sovereign, the examining and the examined identical
 
 dynamic_inhibition:
-  blockade: The queen cannot turn the full force of her clarity on herself without the process becoming self-undermining
-  consequence: The self-examination either finds nothing because the habit protects itself from seeing, or finds too much and becomes self-destruction
+  mechanism: The queen cannot turn the full force of her clarity on herself without the process becoming self-undermining
+  blockade_nature: The queen cannot turn the full force of her clarity on herself without the process becoming self-undermining
+  swords_state: The self-examination either finds nothing because the habit protects itself from seeing
+  consequence: or finds too much and becomes self-destruction
+  key_terms: clarity that cannot turn on itself, self-examination self-undermining, finding nothing or finding too much, the protected or self-destroying habit
 
 dynamic_devolution:
-  corruption: The queen of swords uses the self-examination to produce a perfect account of her own flawlessness
+  mechanism: The queen of swords uses the self-examination to produce a perfect account of her own flawlessness
+  mode: The queen of swords uses the self-examination to produce a perfect account of her own flawlessness
   loss: The figure loses the genuine insight that honest self-examination could have produced by turning the clarity into self-validation rather than honest assessment
+  key_terms: queen of swords uses, figure loses the genuine insight, held tension
 
 dynamic_dependency:
-  integration: The two clarites teach each other about the honest use of the discerning mind on itself; the queen learns that the most honest self-examination requires the willingness to find what she would rather not find; the figure learns that the sovereignty of the discerning mind is confirmed rather than undermined by the capacity to see itself honestly; the self-examination becomes integrity
-  outcome: The queen looks at herself with the same honest clarity she applies to everything else and names what she finds, including the limits; the integrity of the sovereign intellect is confirmed by the willingness to be seen by itself; together they demonstrate that the clearest mind is the one that can turn its clarity on its own clarity and survive the examination
+  mechanism: The two clarites teach each other about the honest use of the discerning mind on itself
+  function: the queen learns that the most honest self-examination requires the willingness to find what she would rather not find; the figure learns that the sovereignty of the discerning mind is confirmed rather than undermined by the capacity to see itself honestly; the self-examination becomes integrity
+  integration_outcome: The queen looks at herself with the same honest clarity she applies to everything else and names what she finds, including the limits; the integrity of the sovereign intellect is confirmed by the willingness to be seen by itself; together they demonstrate that the clearest mind is the one that can turn its clarity on its own clarity and survive the examination
+  key_terms: queen learns that the most, queen looks at herself, two clarites teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS
 
 ---
 
 card_pair: Queen of Swords, King of Swords
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords_1: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_swords_2: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
-numerical_relation: 13 + 14 = 27; the sovereign clarity meets the sovereign command; the discerning mind before the commanding mind
+numerical_relation: 13 + 14 = 27 → 2+7=9 (IX The Hermit; the sovereign clarity meets the sovereign command; the discerning mind before the commanding mind)
 elemental_bridge: Air meets Air; the queen of discernment and the king of command; two pinnacles of the same element in their distinct expressions
 threshold_type: The moment when the highest form of intellectual discernment meets the highest form of intellectual command
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Discernment and command in tension, seeing and acting, clarity and direction, the two modes of sovereign air
 
 dynamic_inhibition:
-  blockade: The queen's continued discernment prevents the king's command from being enacted; the seeing delays what the acting requires
-  consequence: The figure analyzes while the moment for action passes; the king's command cannot be realized because the queen's examination has not completed
+  mechanism: The queen's continued discernment prevents the king's command from being enacted
+  blockade_nature: the seeing delays what the acting requires
+  swords_state: The figure analyzes while the moment for action passes
+  consequence: the king's command cannot be realized because the queen's examination has not completed
+  key_terms: discernment delaying the command's enactment, seeing delaying acting, the passed moment for action, examination that won't complete
 
 dynamic_devolution:
-  corruption: The king of swords commands without the queen's discernment and the command is blind despite its authority
+  mechanism: The king of swords commands without the queen's discernment and the command is blind despite its authority
+  mode: The king of swords commands without the queen's discernment and the command is blind despite its authority
   loss: The figure loses the clarity that would have made the command true by subordinating discernment to the impatience of command
+  key_terms: king of swords commands without, figure loses the clarity, held tension
 
 dynamic_dependency:
-  integration: The two pinnacles teach each other about the fullest expression of intellectual sovereignty; the queen learns that her discernment serves its highest purpose when it culminates in the command the king embodies; the king learns that the command is most powerful when it has been preceded by the complete discernment the queen holds; the encounter becomes the fullest expression of the suit's authority
-  outcome: The queen completes the discernment and the king commands with the full clarity the queen's examination provides; the two move together as the completest expression of what the suit of Swords is capable of; together they demonstrate that intellectual sovereignty at its highest is both the clearest seeing and the most purposeful directing, and that each needs the other to be most fully what it is
+  mechanism: The two pinnacles teach each other about the fullest expression of intellectual sovereignty
+  function: the queen learns that her discernment serves its highest purpose when it culminates in the command the king embodies; the king learns that the command is most powerful when it has been preceded by the complete discernment the queen holds; the encounter becomes the fullest expression of the suit's authority
+  integration_outcome: The queen completes the discernment and the king commands with the full clarity the queen's examination provides; the two move together as the completest expression of what the suit of Swords is capable of; together they demonstrate that intellectual sovereignty at its highest is both the clearest seeing and the most purposeful directing, and that each needs the other to be most fully what it is
+  key_terms: queen learns that her discernment, queen completes the discernment, two pinnacles teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: queen-1 through queen-14
   uid: QOSS

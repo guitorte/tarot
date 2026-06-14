@@ -1,7 +1,7 @@
 card_pair: Queen of Swords, Ace of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Gift of Love, The Heart Opened, The Overflowing Feeling, Emotion Arriving
-numerical_relation: 13 + 1 = 14; the discerning mind meets love at its source; clarity encounters the overflowing heart
+numerical_relation: 13 + 1 = 14 (XIV Temperance; the discerning mind meets love at its source; clarity encounters the overflowing heart)
 elemental_bridge: Air (sovereign clarity) meets Water (pure love arriving); the mind that has seen through everything encounters the one thing that cannot be seen through
 threshold_type: The moment when the clear authority confronts the love that disarms all analysis
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Analysis delaying reception, love preceding understanding, clarity resisting the heart, discernment before the overflow
 
 dynamic_inhibition:
-  blockade: The queen's habit of analysis prevents her from receiving the love that the cup offers
-  consequence: The figure understands love conceptually but has never fully let it arrive; the clarity has kept the overflow at a distance
+  mechanism: The queen's habit of analysis prevents her from receiving the love that the cup offers
+  blockade_nature: The queen's habit of analysis prevents her from receiving the love that the cup offers
+  swords_state: The figure understands love conceptually but has never fully let it arrive
+  consequence: the clarity has kept the overflow at a distance
+  key_terms: analysis preventing love's arrival, love understood not received, the overflow kept at distance, clarity against opening
 
 dynamic_devolution:
-  corruption: The queen of swords examines love until she has named it so precisely that it ceases to be felt
+  mechanism: The queen of swords examines love until she has named it so precisely that it ceases to be felt
+  mode: The queen of swords examines love until she has named it so precisely that it ceases to be felt
   loss: The figure loses the experience of love by replacing it with an accurate description of what love is
+  key_terms: queen of swords examines love, figure loses the experience, held tension
 
 dynamic_dependency:
-  integration: The clarity and the love teach each other about receiving; the queen learns that the clearest thing she can know is that love cannot be received through analysis; the figure learns that the discerning mind, when it opens, receives love with a depth of recognition that the unexamined heart cannot; the discernment becomes surrender
-  outcome: The queen lays down the sword and receives the overflowing cup; the love arrives in a mind that can hold it with both feeling and recognition; together they demonstrate that the sovereign intellect who can receive love is the most complete form of the archetype
+  mechanism: The clarity and the love teach each other about receiving
+  function: the queen learns that the clearest thing she can know is that love cannot be received through analysis; the figure learns that the discerning mind, when it opens, receives love with a depth of recognition that the unexamined heart cannot; the discernment becomes surrender
+  integration_outcome: The queen lays down the sword and receives the overflowing cup; the love arrives in a mind that can hold it with both feeling and recognition; together they demonstrate that the sovereign intellect who can receive love is the most complete form of the archetype
+  key_terms: queen learns that the clearest, queen lays down the sword, clarity and the love teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, 2 of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Union, The Mutual Recognition, The Bond Chosen, Love Exchanged
-numerical_relation: 13 + 2 = 15; the discerning mind witnesses mutual recognition; clarity observes the bond that is freely chosen
+numerical_relation: 13 + 2 = 15 (XV The Devil; the discerning mind witnesses mutual recognition; clarity observes the bond that is freely chosen)
 elemental_bridge: Air (the mind that observes relationship) meets Water (the relationship itself); the sovereign intellect examines what it means to be truly seen by another
 threshold_type: The moment when the clear authority either witnesses or enters mutual recognition
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Love questioned, bond submitted to scrutiny, mutual recognition awaiting clarity, the chosen before the examining
 
 dynamic_inhibition:
-  blockade: The queen's examination of the chosen bond creates doubt in what was previously certain
-  consequence: The figure examines what needed to be lived; the mutual recognition is undermined by the analysis that follows it
+  mechanism: The queen's examination of the chosen bond creates doubt in what was previously certain
+  blockade_nature: The queen's examination of the chosen bond creates doubt in what was previously certain
+  swords_state: The figure examines what needed to be lived
+  consequence: the mutual recognition is undermined by the analysis that follows it
+  key_terms: examination breeding doubt in the certain bond, analyzing what should be lived, mutual recognition undermined, scrutiny after the fact
 
 dynamic_devolution:
-  corruption: The queen of swords finds the bond insufficient by the standards of the discerning mind and advises separation
+  mechanism: The queen of swords finds the bond insufficient by the standards of the discerning mind and advises separation
+  mode: The queen of swords finds the bond insufficient by the standards of the discerning mind and advises separation
   loss: The figure loses genuine love because the sovereign intellect applied standards inappropriate to the domain of the heart
+  key_terms: queen of swords finds, figure loses genuine love because, held tension
 
 dynamic_dependency:
-  integration: The clarity and the mutual recognition teach each other about love's relationship to the mind; the queen learns that the most valuable use of her discernment in the domain of the heart is to confirm rather than question what is genuinely felt; the figure learns that the discerning authority who witnesses and confirms the bond offers a gift of crystallization to what might otherwise remain uncertain; the discernment becomes witness
-  outcome: The queen looks and says "this is genuine" or names with care what requires attention; the bond is either confirmed or gently examined where something real needed to be seen; together they demonstrate that intellectual clarity serves love best when it operates as honest witness
+  mechanism: The clarity and the mutual recognition teach each other about love's relationship to the mind
+  function: the queen learns that the most valuable use of her discernment in the domain of the heart is to confirm rather than question what is genuinely felt; the figure learns that the discerning authority who witnesses and confirms the bond offers a gift of crystallization to what might otherwise remain uncertain; the discernment becomes witness
+  integration_outcome: The queen looks and says "this is genuine" or names with care what requires attention; the bond is either confirmed or gently examined where something real needed to be seen; together they demonstrate that intellectual clarity serves love best when it operates as honest witness
+  key_terms: queen learns that the most, queen looks and says "this, clarity and the mutual recognition
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, 3 of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Celebration, The Community of Joy, The Shared Feast, Emotion Overflowing Together
-numerical_relation: 13 + 3 = 16; the discerning mind enters the celebration; clarity joins communal joy
+numerical_relation: 13 + 3 = 16 (XVI The Tower; the discerning mind enters the celebration; clarity joins communal joy)
 elemental_bridge: Air (the sovereign analytical mind) meets Water (the communal overflow of joy); the queen who sees through things encounters the joy that asks to be felt rather than understood
 threshold_type: The moment when the clear authority is invited to simply celebrate
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Observation versus participation, clarity outside the joy, analysis and celebration, discernment resisting immersion
 
 dynamic_inhibition:
-  blockade: The queen's analytical habit keeps her at the edge of the celebration rather than inside it
-  consequence: The figure experiences the celebration at one remove; the discernment has prevented the full reception of communal joy
+  mechanism: The queen's analytical habit keeps her at the edge of the celebration rather than inside it
+  blockade_nature: The queen's analytical habit keeps her at the edge of the celebration rather than inside it
+  swords_state: The figure experiences the celebration at one remove
+  consequence: the discernment has prevented the full reception of communal joy
+  key_terms: analysis keeping her at the celebration's edge, joy at one remove, communal warmth unreceived, discernment outside the circle
 
 dynamic_devolution:
-  corruption: The queen of swords analyzes the celebration while it is happening, naming what is genuine and what is performed until the joy curdles
+  mechanism: The queen of swords analyzes the celebration while it is happening
+  mode: naming what is genuine and what is performed until the joy curdles
   loss: The figure loses the experience of communal joy by treating it as a subject of study rather than a participation
+  key_terms: naming what is genuine, figure loses the experience, queen of swords analyzes
 
 dynamic_dependency:
-  integration: The clarity and the communal joy teach each other about knowing through participation; the queen learns that some things are only known by being in them; the figure learns that the discerning authority in the midst of genuine celebration adds a quality of recognition that makes the joy even more fully itself; the discernment becomes joy
-  outcome: The queen sets down the sword and raises the cup; the clarity is not lost but rests; the communal joy is deepened by the presence of the one who can recognize its genuineness; together they demonstrate that the discerning mind is most complete when it has also known the uncritical joy of pure celebration
+  mechanism: The clarity and the communal joy teach each other about knowing through participation
+  function: the queen learns that some things are only known by being in them; the figure learns that the discerning authority in the midst of genuine celebration adds a quality of recognition that makes the joy even more fully itself; the discernment becomes joy
+  integration_outcome: The queen sets down the sword and raises the cup; the clarity is not lost but rests; the communal joy is deepened by the presence of the one who can recognize its genuineness; together they demonstrate that the discerning mind is most complete when it has also known the uncritical joy of pure celebration
+  key_terms: queen learns that some things, queen sets down the sword, clarity and the communal joy
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, 4 of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Contemplation, The Turned Inward, The Gift Refused, Emotion Withdrawn
-numerical_relation: 13 + 4 = 17; the discerning mind encounters the one who looks away; clarity meets inward withdrawal
+numerical_relation: 13 + 4 = 17 (XVII The Star; the discerning mind encounters the one who looks away; clarity meets inward withdrawal)
 elemental_bridge: Air (the external clarity) meets Water (the inward turning); the sovereign intellect confronts the one who refuses to look outward
 threshold_type: The moment when the clear authority encounters one who will not receive what is offered
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Clarity meeting withdrawal, naming not received, discernment too early, inward turning resisting
 
 dynamic_inhibition:
-  blockade: The queen's clear naming of the withdrawal comes before the inward turning has completed what it needed to do
+  mechanism: The queen's clear naming of the withdrawal comes before the inward turning has completed what it needed to do
+  blockade_nature: The queen's clear naming of the withdrawal comes before the inward turning has completed what it needed to do
+  swords_state: The figure is interrupted in their contemplation without having reached the insight the inward turning was working toward
   consequence: The figure is interrupted in their contemplation without having reached the insight the inward turning was working toward
+  key_terms: naming the withdrawal before it completes, contemplation interrupted, the unreached insight, clarity cutting short the inward turn
 
 dynamic_devolution:
-  corruption: The queen of swords declares the withdrawal unhealthy and demands the figure return to external engagement
+  mechanism: The queen of swords declares the withdrawal unhealthy and demands the figure return to external engagement
+  mode: The queen of swords declares the withdrawal unhealthy and demands the figure return to external engagement
   loss: The figure loses the gift that was forming in the inward turning because the authority has named it as pathological
+  key_terms: queen of swords declares, figure loses the gift, held tension
 
 dynamic_dependency:
-  integration: The clarity and the withdrawal teach each other about timing; the queen learns that the discerning mind's most compassionate use before the inward turning is to protect the space rather than interrupt it; the figure learns that the clear authority who can name what the inward turning is completing serves as the guide for when to turn back outward; the discernment becomes guardian
-  outcome: The queen waits and watches over the contemplation; when the time has come, she names clearly what was found within; the withdrawal completes and returns with its gift intact; together they demonstrate that clarity serves inward turning best when it protects rather than interrupts
+  mechanism: The clarity and the withdrawal teach each other about timing
+  function: the queen learns that the discerning mind's most compassionate use before the inward turning is to protect the space rather than interrupt it; the figure learns that the clear authority who can name what the inward turning is completing serves as the guide for when to turn back outward; the discernment becomes guardian
+  integration_outcome: The queen waits and watches over the contemplation; when the time has come, she names clearly what was found within; the withdrawal completes and returns with its gift intact; together they demonstrate that clarity serves inward turning best when it protects rather than interrupts
+  key_terms: queen learns that the discerning, queen waits and watches over, clarity and the withdrawal teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, 5 of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Loss, The Grief Held, The Spilled Joy, Love Mourned
-numerical_relation: 13 + 5 = 18; the discerning mind meets genuine grief; clarity stands before loss
+numerical_relation: 13 + 5 = 18 (XVIII The Moon; the discerning mind meets genuine grief; clarity stands before loss)
 elemental_bridge: Air (the mind that has seen loss) meets Water (the feeling of loss); the queen who has survived her own grief encounters another's mourning
 threshold_type: The moment when the clear authority, who knows grief from the inside, must find the right way to stand beside it
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Shared grief and its limits, experience and the unreachable particular, clarity and mourning, queen beside the grieving
 
 dynamic_inhibition:
-  blockade: The queen's naming of the grief arrives before the mourner has completed the first full wave of it
+  mechanism: The queen's naming of the grief arrives before the mourner has completed the first full wave of it
+  blockade_nature: The queen's naming of the grief arrives before the mourner has completed the first full wave of it
+  swords_state: The figure cannot receive even the most experienced and compassionate clarity because grief requires its full time before being witnessed by words
   consequence: The figure cannot receive even the most experienced and compassionate clarity because grief requires its full time before being witnessed by words
+  key_terms: naming grief before its first wave passes, mourning needing its time, clarity grief can't yet receive, words too early for sorrow
 
 dynamic_devolution:
-  corruption: The queen of swords applies her survival of grief as proof that the figure should be further along in their recovery
+  mechanism: The queen of swords applies her survival of grief as proof that the figure should be further along in their recovery
+  mode: The queen of swords applies her survival of grief as proof that the figure should be further along in their recovery
   loss: The figure loses the right to their own timeline for grief because the clear authority has set a standard from her own experience
+  key_terms: queen of swords applies her, figure loses the right, held tension
 
 dynamic_dependency:
-  integration: The clarity and the grief teach each other about survivable loss; the queen learns that the most honest thing she can offer is her presence as proof that this is survivable and the quiet waiting until the grieving one asks for what the clarity can name; the figure learns that the discerning authority who has survived her own grief is the most trustworthy witness available; the discernment becomes companionship
-  outcome: The queen sits beside the grief and waits; when the mourner looks up, she names what she sees with both honesty and tenderness; together they demonstrate that clarity earned through personal loss is the most compassionate form of the discerning mind's authority
+  mechanism: The clarity and the grief teach each other about survivable loss
+  function: the queen learns that the most honest thing she can offer is her presence as proof that this is survivable and the quiet waiting until the grieving one asks for what the clarity can name; the figure learns that the discerning authority who has survived her own grief is the most trustworthy witness available; the discernment becomes companionship
+  integration_outcome: The queen sits beside the grief and waits; when the mourner looks up, she names what she sees with both honesty and tenderness; together they demonstrate that clarity earned through personal loss is the most compassionate form of the discerning mind's authority
+  key_terms: queen learns that the most, queen sits beside the grief, clarity and the grief teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, 6 of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Memory, The Innocence Revisited, The Gift of Nostalgia, Past Love Offered
-numerical_relation: 13 + 6 = 19; the discerning mind encounters the gift of the past; clarity meets the child offering flowers
+numerical_relation: 13 + 6 = 19 (XIX The Sun; the discerning mind encounters the gift of the past; clarity meets the child offering flowers)
 elemental_bridge: Air (the mind that has moved through time) meets Water (the feeling that returns from the past); the sovereign intellect faces the innocent memory
 threshold_type: The moment when the clear authority must decide how to receive what the past is offering
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Simple gift meeting analysis, innocent offering before the scrutinizing mind, memory and clarity, past waiting for reception
 
 dynamic_inhibition:
-  blockade: The queen's examination of the nostalgia prevents her from simply receiving what the child is offering
-  consequence: The figure analyzes the memory instead of experiencing it; the flowers are studied rather than smelled
+  mechanism: The queen's examination of the nostalgia prevents her from simply receiving what the child is offering
+  blockade_nature: The queen's examination of the nostalgia prevents her from simply receiving what the child is offering
+  swords_state: The figure analyzes the memory instead of experiencing it
+  consequence: the flowers are studied rather than smelled
+  key_terms: examining the nostalgia instead of receiving it, the memory analyzed not lived, flowers studied not smelled, analysis over experience
 
 dynamic_devolution:
-  corruption: The queen of swords deconstructs the innocent memory until the gift is gone
+  mechanism: The queen of swords deconstructs the innocent memory until the gift is gone
+  mode: The queen of swords deconstructs the innocent memory until the gift is gone
   loss: The figure loses access to the healing comfort of the past by subjecting it to the full force of the discerning mind
+  key_terms: queen of swords deconstructs, figure loses access, held tension
 
 dynamic_dependency:
-  integration: The clarity and the memory teach each other about receiving; the queen learns that the discerning mind's greatest gift to the innocent past is to receive it with open hands before understanding it; the figure learns that the memory offered to a discerning mind is honored in a way that the unexamined reception cannot achieve; the discernment becomes gratitude
-  outcome: The queen receives the flowers first; then her clarity allows her to understand what the gift from the past truly represents and what it is for; together they demonstrate that the sovereign intellect honors memory best when it receives before it analyzes
+  mechanism: The clarity and the memory teach each other about receiving
+  function: the queen learns that the discerning mind's greatest gift to the innocent past is to receive it with open hands before understanding it; the figure learns that the memory offered to a discerning mind is honored in a way that the unexamined reception cannot achieve; the discernment becomes gratitude
+  integration_outcome: The queen receives the flowers first; then her clarity allows her to understand what the gift from the past truly represents and what it is for; together they demonstrate that the sovereign intellect honors memory best when it receives before it analyzes
+  key_terms: queen learns that the discerning, queen receives the flowers first, clarity and the memory teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, 7 of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Illusion, The Dreaming Confusion, The Scattered Visions, Desire Multiplied
-numerical_relation: 13 + 7 = 20; the discerning mind enters the land of illusion; clarity confronts the proliferation of desire
+numerical_relation: 13 + 7 = 20 (XX Judgement; the discerning mind enters the land of illusion; clarity confronts the proliferation of desire)
 elemental_bridge: Air (the sword that cuts through) meets Water (the multiplied visions); the sovereign intellect faces its most natural work: separating true from false
 threshold_type: The moment when the clear authority is most needed and most called upon
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Clarity cutting, beauty resisting examination, discernment and imagination, reduction and proliferation
 
 dynamic_inhibition:
-  blockade: The queen cuts too thoroughly through the visions, leaving nothing beautiful when only the falsest needed removing
+  mechanism: The queen cuts too thoroughly through the visions
+  blockade_nature: leaving nothing beautiful when only the falsest needed removing
+  swords_state: The figure arrives at a dreary reality that discernment has stripped of all the imagination that gives life its color
   consequence: The figure arrives at a dreary reality that discernment has stripped of all the imagination that gives life its color
+  key_terms: cutting too thoroughly through the visions, beauty stripped with the false, dreary stripped reality, imagination lost to discernment
 
 dynamic_devolution:
-  corruption: The queen of swords declares all visions equally false and dismantles the dreaming entirely
+  mechanism: The queen of swords declares all visions equally false and dismantles the dreaming entirely
+  mode: The queen of swords declares all visions equally false and dismantles the dreaming entirely
   loss: The figure loses the creative imagination that was genuinely productive within the proliferating visions by applying undifferentiated clarity to all of it
+  key_terms: queen of swords declares all, figure loses the creative imagination, held tension
 
 dynamic_dependency:
-  integration: The clarity and the illusion teach each other about imagination's value; the queen learns that the discerning mind serves the dreaming best by preserving what is imaginatively true while naming what is merely seductive; the figure learns that imagination without any discernment proliferates into confusion; the discernment becomes curation
-  outcome: The queen names what in the seven cups is genuinely generative and what is escapist illusion; the dreaming continues but with clarity at its center; together they demonstrate that discernment serves imagination when it preserves genuine vision while removing what merely distracts
+  mechanism: The clarity and the illusion teach each other about imagination's value
+  function: the queen learns that the discerning mind serves the dreaming best by preserving what is imaginatively true while naming what is merely seductive; the figure learns that imagination without any discernment proliferates into confusion; the discernment becomes curation
+  integration_outcome: The queen names what in the seven cups is genuinely generative and what is escapist illusion; the dreaming continues but with clarity at its center; together they demonstrate that discernment serves imagination when it preserves genuine vision while removing what merely distracts
+  key_terms: queen learns that the discerning, queen names what, clarity and the illusion teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, 8 of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Departure, The Cups Left Behind, The Deeper Seeking, Feeling Transcended
-numerical_relation: 13 + 8 = 21; the discerning mind witnesses the departure; clarity observes the one who walks away from what is complete
+numerical_relation: 13 + 8 = 21 (XXI The World; the discerning mind witnesses the departure; clarity observes the one who walks away from what is complete)
 elemental_bridge: Air (the mind that has already seen beyond) meets Water (the feeling that is only now learning to go beyond); the queen who departed long ago witnesses another's departure
 threshold_type: The moment when the clear authority who has already made the departure recognizes another in the midst of it
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Confirmation before silence, clarity and quiet departure, the named and the wordless, queen witnessing
 
 dynamic_inhibition:
-  blockade: The queen's naming of the departure interrupts the concentrated inward movement of the quiet leaving
+  mechanism: The queen's naming of the departure interrupts the concentrated inward movement of the quiet leaving
+  blockade_nature: The queen's naming of the departure interrupts the concentrated inward movement of the quiet leaving
+  swords_state: The figure must engage with the queen's confirmation when the departure required uninterrupted silence
   consequence: The figure must engage with the queen's confirmation when the departure required uninterrupted silence
+  key_terms: naming the departure that needed silence, the interrupted inward leaving, engagement when stillness was required, clarity breaking the quiet
 
 dynamic_devolution:
-  corruption: The queen of swords questions whether the departure is wise rather than confirming what she can clearly see is right
+  mechanism: The queen of swords questions whether the departure is wise rather than confirming what she can clearly see is right
+  mode: The queen of swords questions whether the departure is wise rather than confirming what she can clearly see is right
   loss: The figure loses the conviction of the departure by having to defend it to the very authority that should confirm it
+  key_terms: queen of swords questions whether, figure loses the conviction, held tension
 
 dynamic_dependency:
-  integration: The clarity and the departure teach each other about witness; the queen learns that the departure in progress is best served by silent acknowledgment rather than spoken confirmation; the figure learns that the discerning authority who watches from the bank and nods is providing everything necessary without words; the discernment becomes silence
-  outcome: The queen watches in clear silence; her presence is the confirmation; the departure proceeds complete; together they demonstrate that the clearest witness to a necessary departure is the one who has already made it, standing quietly at the shore
+  mechanism: The clarity and the departure teach each other about witness
+  function: the queen learns that the departure in progress is best served by silent acknowledgment rather than spoken confirmation; the figure learns that the discerning authority who watches from the bank and nods is providing everything necessary without words; the discernment becomes silence
+  integration_outcome: The queen watches in clear silence; her presence is the confirmation; the departure proceeds complete; together they demonstrate that the clearest witness to a necessary departure is the one who has already made it, standing quietly at the shore
+  key_terms: queen learns that the departure, queen watches in clear silence, clarity and the departure teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, 9 of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Wish Fulfilled, The Satisfied Self, The Contentment Achieved, Feeling Complete
-numerical_relation: 13 + 9 = 22; the discerning mind meets genuine satisfaction; clarity before fulfillment
+numerical_relation: 13 + 9 = 22 → 2+2=4 (IV The Emperor; the discerning mind meets genuine satisfaction; clarity before fulfillment)
 elemental_bridge: Air (the searching clarity) meets Water (the arrived satisfaction); the queen who sees through encounters the one who has nothing to see through
 threshold_type: The moment when the clear authority encounters satisfaction that has nothing to dismantle
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Scrutiny applied unnecessarily, happiness before analysis, satisfaction meeting the examining eye, clarity and completion
 
 dynamic_inhibition:
-  blockade: The queen's examination of the satisfaction introduces doubt into what needed no examination
+  mechanism: The queen's examination of the satisfaction introduces doubt into what needed no examination
+  blockade_nature: The queen's examination of the satisfaction introduces doubt into what needed no examination
+  swords_state: The figure loses the purity of the satisfied state by subjecting it to analysis that finds something to question
   consequence: The figure loses the purity of the satisfied state by subjecting it to analysis that finds something to question
+  key_terms: examination introducing doubt into contentment, the satisfied state questioned, purity lost to analysis, the spoiled calm
 
 dynamic_devolution:
-  corruption: The queen of swords declares the satisfaction complacent and names what is lacking rather than confirming what is genuinely complete
+  mechanism: The queen of swords declares the satisfaction complacent and names what is lacking rather than confirming what is genuinely complete
+  mode: The queen of swords declares the satisfaction complacent and names what is lacking rather than confirming what is genuinely complete
   loss: The figure loses the experience of genuine satisfaction because the discerning authority cannot recognize or honor completion
+  key_terms: queen of swords declares, figure loses the experience, held tension
 
 dynamic_dependency:
-  integration: The clarity and the fulfillment teach each other about the right use of discernment; the queen learns that the sovereign intellect serves genuine happiness by confirming it and learning from it rather than dismantling it; the figure learns that being seen as truly satisfied by a discerning authority deepens the satisfaction further; the discernment becomes affirmation
-  outcome: The queen looks and says "this is genuine; this is real contentment" and asks what the path to it was; the satisfaction is confirmed and the queen learns something about arrival; together they demonstrate that the discerning mind is most complete when it can recognize and honor genuine fulfillment
+  mechanism: The clarity and the fulfillment teach each other about the right use of discernment
+  function: the queen learns that the sovereign intellect serves genuine happiness by confirming it and learning from it rather than dismantling it; the figure learns that being seen as truly satisfied by a discerning authority deepens the satisfaction further; the discernment becomes affirmation
+  integration_outcome: The queen looks and says "this is genuine; this is real contentment" and asks what the path to it was; the satisfaction is confirmed and the queen learns something about arrival; together they demonstrate that the discerning mind is most complete when it can recognize and honor genuine fulfillment
+  key_terms: queen learns that the sovereign, queen looks and says "this, clarity and the fulfillment teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, 10 of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Rainbow's End, The Family Complete, The Love Fulfilled, Feeling Crowned
-numerical_relation: 13 + 10 = 23; the discerning mind stands before the completed family; clarity before love's fullest achievement
+numerical_relation: 13 + 10 = 23 → 2+3=5 (V The Pope; the discerning mind stands before the completed family; clarity before love's fullest achievement)
 elemental_bridge: Air (the solitary clarity) meets Water (the communal love); the sovereign intellect stands at the edge of what community and love have achieved
 threshold_type: The moment when the clear authority encounters the love she may have sacrificed for her sovereignty
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Solitary clarity before community, witness and participant, the seen and the seer, discernment outside the joy
 
 dynamic_inhibition:
-  blockade: The queen's habit of observing prevents her from entering the love that is inviting her
-  consequence: The figure remains the witness when she could be the participant; the clarity keeps her outside what could have been received
+  mechanism: The queen's habit of observing prevents her from entering the love that is inviting her
+  blockade_nature: The queen's habit of observing prevents her from entering the love that is inviting her
+  swords_state: The figure remains the witness when she could be the participant
+  consequence: the clarity keeps her outside what could have been received
+  key_terms: observing instead of entering, the witness who could be participant, love's invitation declined, clarity keeping her outside
 
 dynamic_devolution:
-  corruption: The queen of swords names what is false or insufficient in the family's love rather than witnessing what is genuine
+  mechanism: The queen of swords names what is false or insufficient in the family's love rather than witnessing what is genuine
+  mode: The queen of swords names what is false or insufficient in the family's love rather than witnessing what is genuine
   loss: The figure loses the possibility of recognizing and receiving love's completion because the discerning habit can only see what is lacking
+  key_terms: queen of swords names what, figure loses the possibility, held tension
 
 dynamic_dependency:
-  integration: The clarity and the completed love teach each other about wholeness; the queen learns that the sovereign intellect is most complete when it can enter the rainbow's end as well as observe it; the figure learns that the discerning authority who steps across the threshold into communal love carries a quality of recognition that deepens the celebration; the discernment becomes belonging
-  outcome: The queen steps across the threshold and receives the family's love with clear eyes that can also feel; the celebration is made more whole by the presence of the discerning one who chose to join; together they demonstrate that the sovereign intellect fulfills itself when it finds that clarity and love are not adversaries
+  mechanism: The clarity and the completed love teach each other about wholeness
+  function: the queen learns that the sovereign intellect is most complete when it can enter the rainbow's end as well as observe it; the figure learns that the discerning authority who steps across the threshold into communal love carries a quality of recognition that deepens the celebration; the discernment becomes belonging
+  integration_outcome: The queen steps across the threshold and receives the family's love with clear eyes that can also feel; the celebration is made more whole by the presence of the discerning one who chose to join; together they demonstrate that the sovereign intellect fulfills itself when it finds that clarity and love are not adversaries
+  key_terms: queen learns that the sovereign, queen steps across the threshold, clarity and the completed love
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, Page of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Dreamer, The Emotional Messenger, The Creative Feeling, Emotion Beginning
-numerical_relation: 13 + 11 = 24; the discerning authority meets the emotional dreamer; clarity before the first stirring of feeling
+numerical_relation: 13 + 11 = 24 → 2+4=6 (VI The Lovers; the discerning authority meets the emotional dreamer; clarity before the first stirring of feeling)
 elemental_bridge: Air (sovereign clarity) meets Water (first emotional imagination); the queen before the one who dreams of what the queen has long since passed through
 threshold_type: The moment when the clear authority encounters the beginning of emotional life and must decide how to receive it
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Naming too early, imagination before articulation, clarity and first feeling, discernment and the dreaming child
 
 dynamic_inhibition:
-  blockade: The queen's clarity names the emotional beginning before it has formed enough to survive being seen
+  mechanism: The queen's clarity names the emotional beginning before it has formed enough to survive being seen
+  blockade_nature: The queen's clarity names the emotional beginning before it has formed enough to survive being seen
+  swords_state: The figure's first emotional imagination is crystallized prematurely and cannot develop into its natural form
   consequence: The figure's first emotional imagination is crystallized prematurely and cannot develop into its natural form
+  key_terms: naming the emotional beginning before it can survive seeing, premature crystallization, the imagination cut short, the unformed named
 
 dynamic_devolution:
-  corruption: The queen of swords declares the dreamer's emotional imagination insufficient by the standards of mature feeling
+  mechanism: The queen of swords declares the dreamer's emotional imagination insufficient by the standards of mature feeling
+  mode: The queen of swords declares the dreamer's emotional imagination insufficient by the standards of mature feeling
   loss: The figure loses the creative emotional beginning that would have developed into genuine depth because the authority has named it inadequate before it could grow
+  key_terms: queen of swords declares, figure loses the creative emotional, held tension
 
 dynamic_dependency:
-  integration: The clarity and the first imagination teach each other about development; the queen learns that her most protective use of discernment before the emotional novice is to watch carefully and name only when asked; the figure learns that the discerning authority's presence is itself a form of safety for the dreaming; the discernment becomes protection
-  outcome: The queen watches without speaking; her silent witness creates safety for the dreaming to deepen; when the page looks up, the queen confirms what formed; together they demonstrate that the sovereign intellect most serves the beginning of emotional life by providing the safety of clear-eyed presence
+  mechanism: The clarity and the first imagination teach each other about development
+  function: the queen learns that her most protective use of discernment before the emotional novice is to watch carefully and name only when asked; the figure learns that the discerning authority's presence is itself a form of safety for the dreaming; the discernment becomes protection
+  integration_outcome: The queen watches without speaking; her silent witness creates safety for the dreaming to deepen; when the page looks up, the queen confirms what formed; together they demonstrate that the sovereign intellect most serves the beginning of emotional life by providing the safety of clear-eyed presence
+  key_terms: queen learns that her most, queen watches without speaking, clarity and the first imagination
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, Knight of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Romantic, The Questing Heart, The Loving Seeker, Emotion In Motion
-numerical_relation: 13 + 12 = 25; the discerning authority meets the romantic seeker; clarity before the questing heart
+numerical_relation: 13 + 12 = 25 → 2+5=7 (VII The Chariot; the discerning authority meets the romantic seeker; clarity before the questing heart)
 elemental_bridge: Air (sovereign clarity) meets Water (the love that rides in quest); the queen who has seen through romantic illusion encounters the one who has not yet
 threshold_type: The moment when the clear authority must decide what to tell the romantic who has not yet learned what she has
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Clarity before the questing heart, seeing and feeling, discernment and romance, the experienced and the idealist
 
 dynamic_inhibition:
-  blockade: The queen's clear naming of the illusion in the romantic quest extinguishes the genuine love along with the projection
+  mechanism: The queen's clear naming of the illusion in the romantic quest extinguishes the genuine love along with the projection
+  blockade_nature: The queen's clear naming of the illusion in the romantic quest extinguishes the genuine love along with the projection
+  swords_state: The figure loses the motivation for the quest before the love has had a chance to mature through experience
   consequence: The figure loses the motivation for the quest before the love has had a chance to mature through experience
+  key_terms: naming the illusion extinguishing the real love too, motivation lost, love unmatured, projection and genuine feeling killed together
 
 dynamic_devolution:
-  corruption: The queen of swords dismantles the romantic entirely rather than serving the genuine at its core
+  mechanism: The queen of swords dismantles the romantic entirely rather than serving the genuine at its core
+  mode: The queen of swords dismantles the romantic entirely rather than serving the genuine at its core
   loss: The figure loses the questing heart by receiving only the dismantling without the affirmation of what was real
+  key_terms: queen of swords dismantles, figure loses the questing heart, held tension
 
 dynamic_dependency:
-  integration: The clarity and the romantic quest teach each other about love's development; the queen learns that the genuine in the romantic deserves acknowledgment before the illusion is named; the figure learns that the discerning authority who can tell the difference between what is genuine and what is projection is the most valuable guide the questing heart can find; the discernment becomes mentorship
-  outcome: The queen names what is genuine first and with equal clarity names what is illusion; the knight of cups is both confirmed and oriented; together they demonstrate that the sovereign intellect serves the questing heart most by making it more fully itself rather than less
+  mechanism: The clarity and the romantic quest teach each other about love's development
+  function: the queen learns that the genuine in the romantic deserves acknowledgment before the illusion is named; the figure learns that the discerning authority who can tell the difference between what is genuine and what is projection is the most valuable guide the questing heart can find; the discernment becomes mentorship
+  integration_outcome: The queen names what is genuine first and with equal clarity names what is illusion; the knight of cups is both confirmed and oriented; together they demonstrate that the sovereign intellect serves the questing heart most by making it more fully itself rather than less
+  key_terms: queen learns that the genuine, queen names what is genuine, clarity and the romantic quest
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, Queen of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The Queen, The Intuitive Authority, The Empathic Throne, Feeling Sovereign
-numerical_relation: 13 + 13 = 26; two queens of different sovereignties meet; the mind that sees through and the heart that feels through face each other
+numerical_relation: 13 + 13 = 26 → 2+6=8 (VIII Justice; two queens of different sovereignties meet; the mind that sees through and the heart that feels through face each other)
 elemental_bridge: Air (sovereign clarity) meets Water (sovereign empathy); the two forms of feminine sovereign knowing in direct encounter
 threshold_type: The moment when intellectual sovereignty and emotional sovereignty must recognize each other as equals
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Two modes of sovereign knowing, clarity and empathy in tension, two queens' mutual challenge, seeing and feeling
 
 dynamic_inhibition:
-  blockade: Each queen remains in her element and neither receives what the other carries
+  mechanism: Each queen remains in her element and neither receives what the other carries
+  blockade_nature: Each queen remains in her element and neither receives what the other carries
+  swords_state: The figure has access to only one form of sovereign knowing and therefore operates with half the tools required for full wisdom
   consequence: The figure has access to only one form of sovereign knowing and therefore operates with half the tools required for full wisdom
+  key_terms: each in her element receiving nothing, half the tools of wisdom, one form of sovereign knowing, the unexchanged mastery
 
 dynamic_devolution:
-  corruption: The queen of swords dismisses the empathic queen's feeling-knowledge as subjective and therefore inferior to objective clarity
+  mechanism: The queen of swords dismisses the empathic queen's feeling-knowledge as subjective and therefore inferior to objective clarity
+  mode: The queen of swords dismisses the empathic queen's feeling-knowledge as subjective and therefore inferior to objective clarity
   loss: The figure loses access to the emotional intelligence that is as sovereign as the intellectual clarity by declaring one mode superior
+  key_terms: queen of swords dismisses, figure loses access, held tension
 
 dynamic_dependency:
-  integration: The two sovereignties teach each other about wholeness; the queen of swords learns that feeling is a form of knowing as rigorous as analysis; the queen of cups learns that clarity is a form of caring as genuine as empathy; the encounter becomes completion
-  outcome: The two queens stand together and find ways to offer each other what the other element cannot produce; the clarity gains heart and the empathy gains precision; together they demonstrate that the fullest form of sovereign wisdom holds both the sword and the cup
+  mechanism: The two sovereignties teach each other about wholeness
+  function: the queen of swords learns that feeling is a form of knowing as rigorous as analysis; the queen of cups learns that clarity is a form of caring as genuine as empathy; the encounter becomes completion
+  integration_outcome: The two queens stand together and find ways to offer each other what the other element cannot produce; the clarity gains heart and the empathy gains precision; together they demonstrate that the fullest form of sovereign wisdom holds both the sword and the cup
+  key_terms: queen of swords learns, two queens stand together, two sovereignties teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC
 
 ---
 
 card_pair: Queen of Swords, King of Cups
 archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
 archetype_cups: The King, The Mastered Feeling, The Emotional Sovereign, Love Commanded
-numerical_relation: 13 + 14 = 27; the sovereign mind meets the sovereign feeling; two forms of mastery that have each navigated extremes
+numerical_relation: 13 + 14 = 27 → 2+7=9 (IX The Hermit; the sovereign mind meets the sovereign feeling; two forms of mastery that have each navigated extremes)
 elemental_bridge: Air (sovereignty through clarity) meets Water (sovereignty through emotional depth); the queen of thought before the king of feeling
 threshold_type: The moment when intellectual mastery and emotional mastery encounter each other as equals across elemental difference
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Two masteries in tension, seeing and containing, clarity and depth, the naming and the holding
 
 dynamic_inhibition:
-  blockade: The two sovereigns remain so defined by their respective masteries that they cannot receive what the other carries
+  mechanism: The two sovereigns remain so defined by their respective masteries that they cannot receive what the other carries
+  blockade_nature: The two sovereigns remain so defined by their respective masteries that they cannot receive what the other carries
+  swords_state: The figure has the tools of one element and is therefore incomplete before the challenges that require both
   consequence: The figure has the tools of one element and is therefore incomplete before the challenges that require both
+  key_terms: two masteries too defined to receive each other, incomplete before challenges needing both, the unshared sovereignty, element against element
 
 dynamic_devolution:
-  corruption: The queen of swords uses clarity to undermine the legitimacy of the king's emotional sovereignty
+  mechanism: The queen of swords uses clarity to undermine the legitimacy of the king's emotional sovereignty
+  mode: The queen of swords uses clarity to undermine the legitimacy of the king's emotional sovereignty
   loss: The figure loses access to the depth of emotional mastery by insisting that intellectual clarity is the only form of genuine knowing
+  key_terms: queen of swords uses clarity, figure loses access, held tension
 
 dynamic_dependency:
-  integration: The two masteries teach each other about the limits and gifts of their respective paths; the queen learns that containing the full ocean of feeling without losing oneself is a form of sovereignty as earned as any intellectual clarity; the figure learns that the naming power of the clear mind illuminates what even the deepest emotional sovereignty cannot always articulate; the encounter becomes mutual enrichment
-  outcome: The two sovereigns find that each carries what the other's path could not provide and offers it freely; the clarity gains depth and the depth gains articulation; together they demonstrate that the highest forms of intellectual and emotional sovereignty are oriented toward each other and become most powerful in genuine exchange
+  mechanism: The two masteries teach each other about the limits and gifts of their respective paths
+  function: the queen learns that containing the full ocean of feeling without losing oneself is a form of sovereignty as earned as any intellectual clarity; the figure learns that the naming power of the clear mind illuminates what even the deepest emotional sovereignty cannot always articulate; the encounter becomes mutual enrichment
+  integration_outcome: The two sovereigns find that each carries what the other's path could not provide and offers it freely; the clarity gains depth and the depth gains articulation; together they demonstrate that the highest forms of intellectual and emotional sovereignty are oriented toward each other and become most powerful in genuine exchange
+  key_terms: queen learns that containing, two sovereigns find that each, two masteries teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: QOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: queen-1 through queen-14
+  uid: QOSC

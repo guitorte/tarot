@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: too much talking before the spark is struck
   swords_state: The fire arrives but the message arrives too late
   consequence: the creative moment may pass while still being explained
-  key_terms: messenger's words may slow, too much talking before, fire arrives but the message, creative moment may pass
+  key_terms: talk slowing the creative impulse, words before the spark, the late message, the passed creative moment
 
 dynamic_devolution:
   mechanism: The page of swords' message about the creative fire becomes a set of rules or restrictions
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: inquiry without action
   swords_state: The figure becomes paralyzed by questions about purpose while the vision requiring attention sits unbuilt
   consequence: The figure becomes paralyzed by questions about purpose while the vision requiring attention sits unbuilt
-  key_terms: messenger's constant questions may distract, inquiry without action, figure becomes paralyzed by questions
+  key_terms: questions distracting from the vision, inquiry without action, paralysis by purpose-questions, the unbuilt vision
 
 dynamic_devolution:
   mechanism: The page of swords' inquiry becomes doubt cast on the visionary's chosen direction
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: reports may mislead
   swords_state: The figure prepares for what the news describes but finds reality differs from the messenger's account
   consequence: The figure prepares for what the news describes but finds reality differs from the messenger's account
-  key_terms: messenger's news may create false, reports may mislead, figure prepares for what
+  key_terms: news creating false expectations, reports that mislead, reality differing from the account, the misleading dispatch
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes gossip or rumor about distant lands
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: making it formal rather than joyful
   swords_state: The gathering hears the news but loses the organic fire of celebration in receiving it formally
   consequence: The gathering hears the news but loses the organic fire of celebration in receiving it formally
-  key_terms: messenger's announcement may diminish, making it formal rather, gathering hears the news
+  key_terms: announcement formalizing joy, spontaneity diminished, the organic fire lost, celebration made stiff
 
 dynamic_devolution:
   mechanism: The page of swords' message about victory becomes boasting about the achievement
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: analysis may prevent natural resolution
   swords_state: The struggle continues but now self-aware and self-conscious
   consequence: the raw fire becomes intellectual debate
-  key_terms: messenger's articulation of the conflict, analysis may prevent natural resolution, struggle continues but now self-aware, raw fire becomes intellectual debate
+  key_terms: conflict frozen by articulation, analysis preventing resolution, self-conscious struggle, raw fire become debate
 
 dynamic_devolution:
   mechanism: The page of swords' message takes sides in the conflict
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The messenger's proclamation may create expectation of continued excellence the victor cannot maintain
   swords_state: The figure achieves but then struggles under the weight of the proclaimed victory
   consequence: The figure achieves but then struggles under the weight of the proclaimed victory
-  key_terms: messenger's proclamation may create expectation, figure achieves but then struggles, held tension
+  key_terms: proclamation creating unmeetable expectation, victory's weight, achievement under the announced burden, the over-proclaimed win
 
 dynamic_devolution:
   mechanism: The page of swords' message makes the victor dependent on external validation
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: The messenger's articulation of the defense may invite more questions rather than settle the matter
   swords_state: The figure stands and explains but finds explanation never fully convinces those attacking
   consequence: The figure stands and explains but finds explanation never fully convinces those attacking
-  key_terms: messenger's articulation of the defense, figure stands and explains, held tension
+  key_terms: explanation inviting more questions, defense never settled by words, the unconvinced attackers, explaining without ending it
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes self-righteous justification of the stand
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: words spoken become hesitation
   swords_state: The fire slows to match the pace of explanation
   consequence: the rapid movement becomes delayed
-  key_terms: messenger's communication may slow, words spoken become hesitation, fire slows to match, rapid movement becomes delayed
+  key_terms: communication slowing momentum, words become hesitation, the fire slowed to explanation's pace, delayed movement
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes frantic chatter that accelerates anxiety rather than motion
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The messenger's encouragement may demand more from what is already exhausted
   swords_state: The figure stands longer not because renewed but because the message makes resting feel like failure
   consequence: The figure stands longer not because renewed but because the message makes resting feel like failure
-  key_terms: messenger's encouragement may demand, figure stands longer not because, held tension
+  key_terms: encouragement demanding more from the exhausted, resting made to feel like failure, standing on without renewal, the message that won't let rest
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes demands for continued sacrifice
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The messenger's questions may make the figure feel blamed for their burden rather than supported
   swords_state: The figure carries the weight alone and unheard
   consequence: the message creates shame rather than relief
-  key_terms: messenger's questions may make, figure carries the weight alone, message creates shame rather
+  key_terms: questions that feel like blame, burden carried unheard, shame instead of relief, the unsupported weight
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes judgment of the figure's inability to put down the burden
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: The messenger's attempt to document the adventure may dilute its lived experience
   swords_state: The figure arrives and has the experience
   consequence: but filtered through the messenger's interpretations rather than known directly
-  key_terms: messenger's attempt to document, figure arrives and has, but filtered through the messenger's
+  key_terms: documentation diluting lived experience, adventure filtered through interpretation, the mediated quest, experience not known directly
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes controlling instruction that demands the adventure follow a specific path
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: The messenger's words may intimidate or be dismissed by the queen's presence
   swords_state: The truth arrives but is not heard because the messenger becomes small in the presence of authority
   consequence: The truth arrives but is not heard because the messenger becomes small in the presence of authority
-  key_terms: messenger's words may intimidate or, truth arrives, held tension
+  key_terms: words intimidated by her presence, the messenger made small, truth arriving unheard, the dwarfed herald
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes flattery designed to please the queen rather than truth
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: The messenger's words may constrain the king's vision if they too rigidly define what is possible
   swords_state: The king hears the message but then must break through it to enact what only vision can access
   consequence: The king hears the message but then must break through it to enact what only vision can access
-  key_terms: messenger's words may constrain, king hears the message, held tension
+  key_terms: words too rigidly defining the possible, vision constrained by the message, the king breaking through words, definition against vision
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes manipulation designed to serve the messenger's interests while appearing to serve the king

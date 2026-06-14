@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: The messenger cannot fully communicate the value of the gift to those unready to receive
   swords_state: The message is heard but not fully integrated
   consequence: the gift is present but not fully claimed
-  key_terms: messenger cannot fully communicate, message is heard, gift is present
+  key_terms: value not conveyed to the unready, message half-integrated, the gift unclaimed, words ahead of readiness
 
 dynamic_devolution:
   mechanism: The page of swords' message about abundance becomes a source of envy for those without
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: the juggler may lose focus by listening
   swords_state: The figure understands the principle but struggles to apply it in the moment of performance
   consequence: The figure understands the principle but struggles to apply it in the moment of performance
-  key_terms: message about balance may confuse, juggler may lose focus, figure understands the principle
+  key_terms: message that confuses the juggler, lost focus by listening, principle understood not applied, theory disrupting performance
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes criticism of the juggler's technique
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: communication can create misalignment in the group
   swords_state: The figure receives the message but the guild's work continues on its own rhythm
   consequence: The figure receives the message but the guild's work continues on its own rhythm
-  key_terms: message may not be fully, communication can create misalignment, figure receives the message
+  key_terms: message half-understood, communication misaligning the group, the guild's own rhythm, words out of step
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes gossip or division within the guild
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: The message about security may reinforce defensive behavior rather than encouraging trust
   swords_state: The figure receives the message and becomes even more gripped by the need to defend
   consequence: The figure receives the message and becomes even more gripped by the need to defend
-  key_terms: message about security may reinforce, figure receives the message, held tension
+  key_terms: message reinforcing defensiveness, security-talk tightening the grip, trust foreclosed, the deepened clutch
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes justification for the hoarder's possessiveness
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: the poor may be too isolated to receive
   swords_state: The page's words fall on closed ears
   consequence: the hope is offered but not received
-  key_terms: message may not reach those, poor may be too isolated, page's words fall on closed, hope is offered
+  key_terms: message not reaching the needy, the isolated poor, words on closed ears, hope offered unreceived
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes hollow to those in real material need
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The message about generosity may become intellectual philosophy rather than lived practice
   swords_state: The figure understands the principle but may not fully embody it
   consequence: The figure understands the principle but may not fully embody it
-  key_terms: message about generosity may, figure understands the principle, held tension
+  key_terms: generosity as intellectual philosophy, principle understood not embodied, lived practice missing, the unpracticed ideal
 
 dynamic_devolution:
   mechanism: The page of swords' teaching about generosity becomes criticism of selective giving
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: The message about patience may sound like empty philosophy to the weary gardener
   swords_state: The figure hears the message but continues to doubt the process
   consequence: The figure hears the message but continues to doubt the process
-  key_terms: message about patience may sound, figure hears the message, held tension
+  key_terms: patience as empty philosophy to the weary, continued doubt of the process, words against fatigue, the unconvinced gardener
 
 dynamic_devolution:
   mechanism: The page of swords' message about patience becomes impatience with the gardener's progress
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: the apprentice may doubt their practice by listening to theory
   swords_state: The figure receives instruction but must still integrate it through practice
   consequence: The figure receives instruction but must still integrate it through practice
-  key_terms: message about craft may confuse, apprentice may doubt their practice, figure receives instruction
+  key_terms: theory confusing the apprentice, doubt cast on practice, instruction needing integration, words before the hands learn
 
 dynamic_devolution:
   mechanism: The page of swords' teaching becomes criticism of the apprentice's technique
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The message about independence may sound like theory to those still building
   swords_state: The figure receives the message but must still do the work of building
   consequence: The figure receives the message but must still do the work of building
-  key_terms: message about independence may sound, figure receives the message, held tension
+  key_terms: independence as theory to those still building, the unbuilt work remaining, words ahead of effort, message without doing
 
 dynamic_devolution:
   mechanism: The page of swords' message about independence becomes criticism of those not yet prosperous
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The message about legacy may become abstract story rather than lived continuity
   swords_state: The figure hears the family story but may struggle to embody it
   consequence: The figure hears the family story but may struggle to embody it
-  key_terms: message about legacy may, figure hears the family story, held tension
+  key_terms: legacy as abstract story, continuity unembodied, the unlived family tale, words without inheritance
 
 dynamic_devolution:
   mechanism: The page of swords' telling of the family story becomes judgment about how the legacy should continue
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: the page of pentacles may not fully grasp the intellectual content
   swords_state: The knowledge is heard but may not be fully integrated into practice
   consequence: The knowledge is heard but may not be fully integrated into practice
-  key_terms: message may be too abstract, page of pentacles may, knowledge is heard but may
+  key_terms: message too abstract for the practical learner, intellect ungrasped, knowledge unintegrated into practice, theory over craft
 
 dynamic_devolution:
   mechanism: The page of swords' ideas become distraction from the page of pentacles' learning
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: The message about dedication may sound like empty theory to the weary worker
   swords_state: The figure hears the message but continues to doubt while maintaining the work
   consequence: The figure hears the message but continues to doubt while maintaining the work
-  key_terms: message about dedication may sound, figure hears the message, held tension
+  key_terms: dedication as empty theory to the weary, continued doubt amid labor, words against fatigue, the unconvinced worker
 
 dynamic_devolution:
   mechanism: The page of swords' message about dedication becomes criticism of the worker's pace
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: The message about care may become sentimental rather than practical
   swords_state: The figure hears the words about nurturing but the actual care continues from a deeper source
   consequence: The figure hears the words about nurturing but the actual care continues from a deeper source
-  key_terms: message about care may, figure hears the words about, held tension
+  key_terms: care turned sentimental not practical, words about nurturing, the deeper source untouched, talk over tending
 
 dynamic_devolution:
   mechanism: The page of swords' words about care become expectation or judgment about how the queen should nurture
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: the king may not be open to challenge
   swords_state: The page speaks but the king continues on the established path
   consequence: The page speaks but the king continues on the established path
-  key_terms: message may be ignored, king may not be open, page speaks but the king
+  key_terms: message ignored by authority, the king closed to challenge, words against the established path, the unheeded herald
 
 dynamic_devolution:
   mechanism: The page of swords' message becomes presumption

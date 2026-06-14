@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: The message about love may be too intellectual for the pure emotional offering
   swords_state: The figure understands the concept but may miss the immediate experience
   consequence: The figure understands the concept but may miss the immediate experience
-  key_terms: message about love may be, figure understands the concept, held tension
+  key_terms: love too intellectualized, concept over experience, the immediate missed, words around feeling
 
 dynamic_devolution:
   mechanism: The page of swords' words about love become analysis that distances from feeling
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: The message about partnership may create expectation rather than allowing the love to be
   swords_state: The figures hear the articulation but must still deepen the actual connection
   consequence: The figures hear the articulation but must still deepen the actual connection
-  key_terms: message about partnership may create, figures hear the articulation, held tension
+  key_terms: partnership-talk creating expectation, articulation over connection, the undeepened bond, words ahead of intimacy
 
 dynamic_devolution:
   mechanism: The page of swords' words about partnership become judgment about how the lovers should relate
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: The message about community may become talking rather than genuine gathering
   swords_state: The communication facilitates but the real joy comes from presence
   consequence: The communication facilitates but the real joy comes from presence
-  key_terms: message about community may, communication facilitates but the real, held tension
+  key_terms: community as talking not gathering, communication over presence, joy from presence not words, the unattended gathering
 
 dynamic_devolution:
   mechanism: The page of swords' words about community become social pressure rather than invitation
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the message is blocked by emotional wall
   swords_state: The communication fails
   consequence: the messenger is frustrated
-  key_terms: figure cannot reach those, message is blocked by emotional, communication fails, messenger is frustrated
+  key_terms: message blocked by the emotional wall, the chosen numbness, failed communication, the frustrated messenger
 
 dynamic_devolution:
   mechanism: The page of swords' words become accusation toward the withdrawn one
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: The message about grief may seem inadequate to the depth of loss
   swords_state: The figure is acknowledged but the pain continues its own course
   consequence: The figure is acknowledged but the pain continues its own course
-  key_terms: message about grief may seem, figure is acknowledged, held tension
+  key_terms: words inadequate to the depth of loss, grief running its own course, acknowledgment without easing, words against sorrow
 
 dynamic_devolution:
   mechanism: The page of swords' words about sorrow become interpretation or judgment
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The message about innocence may bring sadness rather than joy by reminding of what was lost
   swords_state: The figure remembers but grieves what is no longer
   consequence: The figure remembers but grieves what is no longer
-  key_terms: message about innocence may bring, figure remembers but grieves what, held tension
+  key_terms: innocence-message bringing sadness, reminder of what was lost, grieving the no-longer, memory that wounds
 
 dynamic_devolution:
   mechanism: The page of swords' words about innocence become judgment that childhood was better
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: The message about illusion may be rejected by the dreamer who prefers the fantasy
   swords_state: The figure hears the words but chooses the dream
   consequence: The figure hears the words but chooses the dream
-  key_terms: message about illusion may be, figure hears the words, held tension
+  key_terms: illusion-truth rejected by the dreamer, the chosen dream, words heard fantasy preferred, refused waking
 
 dynamic_devolution:
   mechanism: The page of swords' words become judgment about the dreamer's weakness
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: The message cannot ease the emotional difficulty of departure
   swords_state: The figure leaves but carries the emotional weight despite intellectual validation
   consequence: The figure leaves but carries the emotional weight despite intellectual validation
-  key_terms: message cannot ease the emotional, figure leaves but carries, held tension
+  key_terms: words that cannot ease departure, the carried emotional weight, intellectual validation insufficient, leaving still heavy
 
 dynamic_devolution:
   mechanism: The page of swords' words about leaving become judgment of what is being abandoned
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The message about fulfillment may create pressure to maintain the satisfaction
   swords_state: The figure experiences the contentment but may lose its ease by thinking about it
   consequence: The figure experiences the contentment but may lose its ease by thinking about it
-  key_terms: message about fulfillment may create, figure experiences the contentment, held tension
+  key_terms: fulfillment-talk creating pressure, ease lost by thinking, contentment over-examined, the spoiled calm
 
 dynamic_devolution:
   mechanism: The page of swords' words about fulfillment become comparison with others
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The message about family may become expectation rather than honor of what is
   swords_state: The family hears the words but must still live the reality
   consequence: The family hears the words but must still live the reality
-  key_terms: message about family may, family hears the words, held tension
+  key_terms: family-message as expectation not honor, words over lived reality, the unlived ideal, talk against being
 
 dynamic_devolution:
   mechanism: The page of swords' words about family become judgment about how family should be
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: thinking and feeling may not align
   swords_state: The messages arrive but may not be fully integrated
   consequence: The messages arrive but may not be fully integrated
-  key_terms: two messengers may speak past, thinking and feeling may, messages arrive but may
+  key_terms: two messengers past each other, thinking and feeling misaligned, messages unintegrated, crossed wires
 
 dynamic_devolution:
   mechanism: The page of swords dismisses the page of cups as irrational
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: The message may be too intellectual for pure emotional pursuit
   swords_state: The figure understands but continues from a deeper source
   consequence: The figure understands but continues from a deeper source
-  key_terms: message may be too intellectual, figure understands but continues from, held tension
+  key_terms: too intellectual for emotional pursuit, understanding without the deeper source, words beside the quest, head against heart
 
 dynamic_devolution:
   mechanism: The page of swords' words about love become criticism of the quest
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: The message may become sentimental rather than practical
   swords_state: The words are kind but the care continues from a deeper source
   consequence: The words are kind but the care continues from a deeper source
-  key_terms: message may become sentimental rather, words are kind, held tension
+  key_terms: message turned sentimental, kind words over real care, the deeper source untouched, talk beside tending
 
 dynamic_devolution:
   mechanism: The page of swords' words about care become expectation of how the queen should nurture
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: The message may be ignored or resisted by established authority
   swords_state: The page speaks but the king continues from experience
   consequence: The page speaks but the king continues from experience
-  key_terms: message may be ignored or, page speaks but the king, held tension
+  key_terms: message resisted by authority, the king ruling from experience, words against mastery, the unheeded herald
 
 dynamic_devolution:
   mechanism: The page of swords presumes greater wisdom than the king

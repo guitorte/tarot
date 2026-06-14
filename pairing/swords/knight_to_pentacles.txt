@@ -1,7 +1,7 @@
 card_pair: Knight of Swords, Ace of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Gift Offered, The Seed Manifest, The Threshold of Plenty, Material Arrival
-numerical_relation: 12 + 1 = 13; the seeker charges toward the gift; the pursuit meets material promise
+numerical_relation: 12 + 1 = 13 (XIII Death; the seeker charges toward the gift; the pursuit meets material promise)
 elemental_bridge: Air (relentless pursuit) meets Earth (patient abundance); the charging mind encounters the stillness of gifts
 threshold_type: The moment when the zealous seeker discovers that the gift requires stillness to receive
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Pursuit overshooting, gift requiring stillness, seeker learning patience, speed meeting abundance
 
 dynamic_inhibition:
-  blockade: The knight's momentum prevents him from stopping to receive the gift that waits
-  consequence: The figure rides past the abundance he seeks; the gift was there but the speed of pursuit carried him beyond it
+  mechanism: The knight's momentum prevents him from stopping to receive the gift that waits
+  blockade_nature: The knight's momentum prevents him from stopping to receive the gift that waits
+  swords_state: The figure rides past the abundance he seeks
+  consequence: the gift was there but the speed of pursuit carried him beyond it
+  key_terms: knight's momentum prevents him from, figure rides past the abundance, gift was there
 
 dynamic_devolution:
-  corruption: The knight of swords' pursuit becomes obsession with acquiring material gifts by force
+  mechanism: The knight of swords' pursuit becomes obsession with acquiring material gifts by force
+  mode: The knight of swords' pursuit becomes obsession with acquiring material gifts by force
   loss: The figure loses the true value of what is offered because he takes rather than receives
+  key_terms: knight of swords' pursuit, figure loses the true value, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the gift teach each other about timing; the knight learns that pausing to receive is not weakness but wisdom; the figure learns that some material abundance requires the seeker's energy to first arrive before it can be claimed; the pursuit becomes readiness
-  outcome: The knight arrives and pauses; the gift is received in full; together they create the moment where the relentless seeker discovers what patient arrival truly means
+  mechanism: The pursuit and the gift teach each other about timing
+  function: the knight learns that pausing to receive is not weakness but wisdom; the figure learns that some material abundance requires the seeker's energy to first arrive before it can be claimed; the pursuit becomes readiness
+  integration_outcome: The knight arrives and pauses; the gift is received in full; together they create the moment where the relentless seeker discovers what patient arrival truly means
+  key_terms: knight learns that pausing, knight arrives and pauses, pursuit and the gift teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, 2 of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Juggler, The Balancer, The Dual Flow, Exchange Mastered
-numerical_relation: 12 + 2 = 14; the seeker charges into equilibrium; the pursuit disturbs the balance
+numerical_relation: 12 + 2 = 14 (XIV Temperance; the seeker charges into equilibrium; the pursuit disturbs the balance)
 elemental_bridge: Air (destabilizing force) meets Earth (the maintained balance); the rider disrupts and tests the juggler's art
 threshold_type: The moment when the pursuit tests whether the balance can hold under pressure
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Disruption met, balance maintained, pursuit absorbed, equilibrium surviving
 
 dynamic_inhibition:
-  blockade: The knight's speed prevents him from seeing the delicate balance he disrupts
+  mechanism: The knight's speed prevents him from seeing the delicate balance he disrupts
+  blockade_nature: The knight's speed prevents him from seeing the delicate balance he disrupts
+  swords_state: The figure charges through unaware that the exchange collapses in his wake
   consequence: The figure charges through unaware that the exchange collapses in his wake
+  key_terms: knight's speed prevents him from, figure charges through unaware, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords deliberately destroys balance he cannot maintain himself
+  mechanism: The knight of swords deliberately destroys balance he cannot maintain himself
+  mode: The knight of swords deliberately destroys balance he cannot maintain himself
   loss: The figure loses the ability to sustain anything because the pursuit has no patience for the work of maintenance
+  key_terms: knight of swords deliberately destroys, figure loses the ability, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the balance teach each other about movement; the knight learns that real mastery includes knowing when to slow down; the figure learns that the juggler who holds through the storm earns the seeker's respect; the pursuit becomes appreciation
-  outcome: The knight slows at the moment of balance; the juggler absorbs the disruption and continues; together they reveal that true equilibrium survives its testing
+  mechanism: The pursuit and the balance teach each other about movement
+  function: the knight learns that real mastery includes knowing when to slow down; the figure learns that the juggler who holds through the storm earns the seeker's respect; the pursuit becomes appreciation
+  integration_outcome: The knight slows at the moment of balance; the juggler absorbs the disruption and continues; together they reveal that true equilibrium survives its testing
+  key_terms: knight learns that real mastery, knight slows at the moment, pursuit and the balance teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, 3 of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Craftsman, The Guild Mason, The Collaborative Work, Mastery Shared
-numerical_relation: 12 + 3 = 15; the seeker arrives at the workshop; the pursuit encounters the craft
+numerical_relation: 12 + 3 = 15 (XV The Devil; the seeker arrives at the workshop; the pursuit encounters the craft)
 elemental_bridge: Air (intellectual urgency) meets Earth (deliberate mastery); the rider discovers that some work cannot be rushed
 threshold_type: The moment when the zealous seeker meets the patient craftsman
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Urgency meeting slowness, quest disturbing craft, speed challenging patience, pursuit encountering labor
 
 dynamic_inhibition:
-  blockade: The knight's insistence on speed prevents the craftspeople from working at the pace their art requires
+  mechanism: The knight's insistence on speed prevents the craftspeople from working at the pace their art requires
+  blockade_nature: The knight's insistence on speed prevents the craftspeople from working at the pace their art requires
+  swords_state: The figure gets a quickly built structure that fails because the craft was compromised by urgency
   consequence: The figure gets a quickly built structure that fails because the craft was compromised by urgency
+  key_terms: knight's insistence on speed prevents, figure gets a quickly built, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords demands the craftspeople sacrifice quality for the sake of the quest
+  mechanism: The knight of swords demands the craftspeople sacrifice quality for the sake of the quest
+  mode: The knight of swords demands the craftspeople sacrifice quality for the sake of the quest
   loss: The figure loses the lasting value of the work because the pursuit elevated speed above mastery
+  key_terms: knight of swords demands, figure loses the lasting value, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the craft teach each other about purpose; the knight learns that the best quests are completed with the discipline of craftsmanship; the figure learns that the seeker's urgency can inspire the craftspeople to push their limits wisely; the pursuit becomes devotion
-  outcome: The knight channels urgency into support for the craft rather than demand against it; the mastery is elevated by the quest; together they build something lasting that also serves the seeker's purpose
+  mechanism: The pursuit and the craft teach each other about purpose
+  function: the knight learns that the best quests are completed with the discipline of craftsmanship; the figure learns that the seeker's urgency can inspire the craftspeople to push their limits wisely; the pursuit becomes devotion
+  integration_outcome: The knight channels urgency into support for the craft rather than demand against it; the mastery is elevated by the quest; together they build something lasting that also serves the seeker's purpose
+  key_terms: knight learns that the best, knight channels urgency into support, pursuit and the craft teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, 4 of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Miser, The Held Wealth, The Defended Possession, Material Gripped
-numerical_relation: 12 + 4 = 16; the seeker confronts the hoarder; the pursuit charges at what refuses to move
+numerical_relation: 12 + 4 = 16 (XVI The Tower; the seeker confronts the hoarder; the pursuit charges at what refuses to move)
 elemental_bridge: Air (relentless challenge) meets Earth (immovable defense); the rider drives against the locked fortress
 threshold_type: The moment when the charging seeker meets the one who will not release
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Confrontation held, grip defended, pursuit meeting resistance, challenge rebuffed
 
 dynamic_inhibition:
-  blockade: The knight's aggressive demand causes the miser to grip even tighter; force deepens defense
-  consequence: The figure holds more firmly when attacked; the knight's charge has made release impossible
+  mechanism: The knight's aggressive demand causes the miser to grip even tighter
+  blockade_nature: force deepens defense
+  swords_state: The figure holds more firmly when attacked
+  consequence: the knight's charge has made release impossible
+  key_terms: knight's aggressive demand causes, force deepens defense, figure holds more firmly when, knight's charge has made release
 
 dynamic_devolution:
-  corruption: The knight of swords justifies seizing by force what is refused in sharing
+  mechanism: The knight of swords justifies seizing by force what is refused in sharing
+  mode: The knight of swords justifies seizing by force what is refused in sharing
   loss: The figure loses the possibility of genuine exchange because the seeker has become the thief
+  key_terms: knight of swords justifies seizing, figure loses the possibility, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the holding teach each other about value; the knight learns that what is truly valuable cannot be taken, only given; the figure learns that the seeker's challenge may show what is being protected and whether it is worth the cost of perpetual defense; the pursuit becomes question
-  outcome: The knight asks rather than demands; the miser begins to question why the grip is maintained; together they create a dialogue where hoarding can gradually become conscious choice rather than fearful reflex
+  mechanism: The pursuit and the holding teach each other about value
+  function: the knight learns that what is truly valuable cannot be taken, only given; the figure learns that the seeker's challenge may show what is being protected and whether it is worth the cost of perpetual defense; the pursuit becomes question
+  integration_outcome: The knight asks rather than demands; the miser begins to question why the grip is maintained; together they create a dialogue where hoarding can gradually become conscious choice rather than fearful reflex
+  key_terms: knight learns that what, knight asks rather than demands, pursuit and the holding teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, 5 of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Poverty, The Excluded Ones, The Cold and Left Out, Material Lack
-numerical_relation: 12 + 5 = 17; the seeker arrives where need is most acute; the pursuit finds those left behind
+numerical_relation: 12 + 5 = 17 (XVII The Star; the seeker arrives where need is most acute; the pursuit finds those left behind)
 elemental_bridge: Air (urgent motion) meets Earth (material suffering); the rider encounters those the world has passed by
 threshold_type: The moment when the charging seeker stops before those in need
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Suffering bypassed, need unseen, pursuit continuing, urgency overriding
 
 dynamic_inhibition:
-  blockade: The knight's focus on the distant goal renders those in immediate need invisible
+  mechanism: The knight's focus on the distant goal renders those in immediate need invisible
+  blockade_nature: The knight's focus on the distant goal renders those in immediate need invisible
+  swords_state: The figure achieves the quest but loses his humanity in the urgency that blinded him to suffering
   consequence: The figure achieves the quest but loses his humanity in the urgency that blinded him to suffering
+  key_terms: knight's focus on the distant, figure achieves the quest, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords exploits those in need to advance his pursuit
+  mechanism: The knight of swords exploits those in need to advance his pursuit
+  mode: The knight of swords exploits those in need to advance his pursuit
   loss: The figure loses his moral compass because the quest has become more important than the people the quest is meant to serve
+  key_terms: knight of swords exploits those, figure loses his moral compass, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the poverty teach each other about purpose; the knight learns that a quest without compassion is conquest; the figure learns that the seeker who pauses for those in need may find the truest meaning of the journey; the pursuit becomes service
-  outcome: The knight pauses and offers what he can without abandoning the quest entirely; the suffering is witnessed and addressed; together they reveal that the most urgent journeys make room for what is most human
+  mechanism: The pursuit and the poverty teach each other about purpose
+  function: the knight learns that a quest without compassion is conquest; the figure learns that the seeker who pauses for those in need may find the truest meaning of the journey; the pursuit becomes service
+  integration_outcome: The knight pauses and offers what he can without abandoning the quest entirely; the suffering is witnessed and addressed; together they reveal that the most urgent journeys make room for what is most human
+  key_terms: knight learns that a quest, knight pauses and offers what, pursuit and the poverty teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, 6 of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Benefactor, The Measured Gift, The Exchange in Balance, Material Flow
-numerical_relation: 12 + 6 = 18; the seeker encounters justice in exchange; the pursuit finds where giving and receiving meet
+numerical_relation: 12 + 6 = 18 (XVIII The Moon; the seeker encounters justice in exchange; the pursuit finds where giving and receiving meet)
 elemental_bridge: Air (urgency with purpose) meets Earth (balanced distribution); the rider encounters principled generosity
 threshold_type: The moment when the seeker learns from the balance of giving and taking
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Urgency challenging patience, balance maintaining, pursuit accepting measure, seeker learning fairness
 
 dynamic_inhibition:
-  blockade: The knight's demand for speed bypasses the careful measurement that makes exchange just
-  consequence: The figure receives or distributes without proper measure; the exchange creates obligation rather than freedom
+  mechanism: The knight's demand for speed bypasses the careful measurement that makes exchange just
+  blockade_nature: The knight's demand for speed bypasses the careful measurement that makes exchange just
+  swords_state: The figure receives or distributes without proper measure
+  consequence: the exchange creates obligation rather than freedom
+  key_terms: knight's demand for speed bypasses, figure receives or distributes without, exchange creates obligation rather
 
 dynamic_devolution:
-  corruption: The knight of swords manipulates the exchange in his favor by demanding more than is fair
+  mechanism: The knight of swords manipulates the exchange in his favor by demanding more than is fair
+  mode: The knight of swords manipulates the exchange in his favor by demanding more than is fair
   loss: The figure loses the moral clarity of the quest because the seeker has become an exploiter of those who give
+  key_terms: knight of swords manipulates, figure loses the moral clarity, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the exchange teach each other about justice; the knight learns that measured giving is a form of truth that the pursuit of truth must honor; the figure learns that the seeker's urgency can inspire generosity without distorting it; the pursuit becomes fair witness
-  outcome: The knight receives what is measured without demanding more; the exchange remains balanced; together they demonstrate that the quest for truth and the practice of just exchange serve the same ultimate purpose
+  mechanism: The pursuit and the exchange teach each other about justice
+  function: the knight learns that measured giving is a form of truth that the pursuit of truth must honor; the figure learns that the seeker's urgency can inspire generosity without distorting it; the pursuit becomes fair witness
+  integration_outcome: The knight receives what is measured without demanding more; the exchange remains balanced; together they demonstrate that the quest for truth and the practice of just exchange serve the same ultimate purpose
+  key_terms: knight learns that measured giving, knight receives what is measured, pursuit and the exchange teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, 7 of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Gardener, The Patient Investment, The Long Harvest, Work Awaiting Fruit
-numerical_relation: 12 + 7 = 19; the seeker encounters the one who waits; the pursuit finds patience it cannot sustain
+numerical_relation: 12 + 7 = 19 (XIX The Sun; the seeker encounters the one who waits; the pursuit finds patience it cannot sustain)
 elemental_bridge: Air (urgency) meets Earth (patient cultivation); the rider's speed confronts the necessity of slow growth
 threshold_type: The moment when the relentless seeker discovers that some truths grow at their own pace
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Impatience meeting patience, harvest timing, pursuit meeting season, seeker being refused urgency
 
 dynamic_inhibition:
-  blockade: The knight harvests before the fruit is ready; the urgency destroys the potential of what was growing
-  consequence: The figure gets an early and unripe result; the quest is satisfied in appearance but not substance
+  mechanism: The knight harvests before the fruit is ready
+  blockade_nature: the urgency destroys the potential of what was growing
+  swords_state: The figure gets an early and unripe result
+  consequence: the quest is satisfied in appearance but not substance
+  key_terms: knight harvests before the fruit, urgency destroys the potential, figure gets an early, quest is satisfied in appearance
 
 dynamic_devolution:
-  corruption: The knight of swords destroys the gardener's long investment in a moment of urgent demand
+  mechanism: The knight of swords destroys the gardener's long investment in a moment of urgent demand
+  mode: The knight of swords destroys the gardener's long investment in a moment of urgent demand
   loss: The figure loses the harvest of patient work because the pursuit valued speed over ripeness
+  key_terms: knight of swords destroys, figure loses the harvest, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the patience teach each other about timing; the knight learns that the best quests know when to wait; the figure learns that the gardener who understands the seeker's urgency can also learn which fruits ripen faster; the pursuit becomes wisdom
-  outcome: The knight channels urgency into other aspects of the quest while the harvest ripens; the gardener works with the seeker's perspective; together they find the intersection of speed and patience that produces the truest fruit
+  mechanism: The pursuit and the patience teach each other about timing
+  function: the knight learns that the best quests know when to wait; the figure learns that the gardener who understands the seeker's urgency can also learn which fruits ripen faster; the pursuit becomes wisdom
+  integration_outcome: The knight channels urgency into other aspects of the quest while the harvest ripens; the gardener works with the seeker's perspective; together they find the intersection of speed and patience that produces the truest fruit
+  key_terms: knight learns that the best, knight channels urgency into other, pursuit and the patience teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, 8 of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Apprentice, The Dedicated Practice, The Skill Refined, Mastery Earned
-numerical_relation: 12 + 8 = 20; the seeker meets the dedicated apprentice; the pursuit encounters the discipline of practice
+numerical_relation: 12 + 8 = 20 (XX Judgement; the seeker meets the dedicated apprentice; the pursuit encounters the discipline of practice)
 elemental_bridge: Air (intellectual urgency) meets Earth (disciplined repetition); the rider finds the one who masters through patient work
 threshold_type: The moment when the seeker discovers that truth requires the discipline of practice
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Speed confronting repetition, urgency meeting patience, pursuit encountering practice, seeker resisting stillness
 
 dynamic_inhibition:
-  blockade: The knight's restlessness prevents the deep practice that refines understanding
+  mechanism: The knight's restlessness prevents the deep practice that refines understanding
+  blockade_nature: The knight's restlessness prevents the deep practice that refines understanding
+  swords_state: The figure grasps ideas quickly but never develops the depth that comes from sustained engagement
   consequence: The figure grasps ideas quickly but never develops the depth that comes from sustained engagement
+  key_terms: knight's restlessness prevents the deep, figure grasps ideas quickly, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords dismisses the apprentice's work as too slow and therefore beneath the quest
+  mechanism: The knight of swords dismisses the apprentice's work as too slow and therefore beneath the quest
+  mode: The knight of swords dismisses the apprentice's work as too slow and therefore beneath the quest
   loss: The figure loses the possibility of mastery because the pursuit has labeled patience as weakness
+  key_terms: knight of swords dismisses, figure loses the possibility, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the practice teach each other about depth; the knight learns that the deepest truths require the discipline of return and refinement; the figure learns that the seeker's urgency can animate practice without replacing it; the pursuit becomes devotion
-  outcome: The knight sits at the workbench long enough to understand what the apprentice knows through repetition; the practice gains the fire of the quest; together they create the seeker who moves swiftly yet with the depth of one who has worked carefully
+  mechanism: The pursuit and the practice teach each other about depth
+  function: the knight learns that the deepest truths require the discipline of return and refinement; the figure learns that the seeker's urgency can animate practice without replacing it; the pursuit becomes devotion
+  integration_outcome: The knight sits at the workbench long enough to understand what the apprentice knows through repetition; the practice gains the fire of the quest; together they create the seeker who moves swiftly yet with the depth of one who has worked carefully
+  key_terms: knight learns that the deepest, knight sits at the workbench, pursuit and the practice teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, 9 of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Sovereign Garden, The Self-Sufficient One, The Abundance Earned, Material Mastery
-numerical_relation: 12 + 9 = 21; the seeker arrives where abundance is sovereign; the pursuit encounters self-sufficiency
+numerical_relation: 12 + 9 = 21 (XXI The World; the seeker arrives where abundance is sovereign; the pursuit encounters self-sufficiency)
 elemental_bridge: Air (the questing energy) meets Earth (the established abundance); the rider finds one who needs nothing from the quest
 threshold_type: The moment when the seeker discovers someone who is complete without him
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Quest meeting completion, urgency encountering sufficiency, pursuit arriving at wholeness, seeker disarmed
 
 dynamic_inhibition:
-  blockade: The knight's restlessness seems purposeless in the presence of one who is already whole
+  mechanism: The knight's restlessness seems purposeless in the presence of one who is already whole
+  blockade_nature: The knight's restlessness seems purposeless in the presence of one who is already whole
+  swords_state: The figure cannot contribute to what needs nothing and so passes by empty-handed
   consequence: The figure cannot contribute to what needs nothing and so passes by empty-handed
+  key_terms: knight's restlessness seems purposeless, figure cannot contribute to what, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords disturbs or tries to take from the sovereign garden's abundance
+  mechanism: The knight of swords disturbs or tries to take from the sovereign garden's abundance
+  mode: The knight of swords disturbs or tries to take from the sovereign garden's abundance
   loss: The figure loses the lesson of the encounter because the pursuit cannot abide completion without needing to possess it
+  key_terms: knight of swords disturbs or, figure loses the lesson, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the abundance teach each other about arrival; the knight learns that the destination of the quest is a form of sovereign self-sufficiency; the figure learns that a seeker who can recognize wholeness carries that lesson forward; the pursuit becomes vision
-  outcome: The knight pauses in the garden and understands what he is ultimately pursuing; the sovereign abundance receives the seeker as confirmation of its worth; together they illuminate the relationship between the searching and the found
+  mechanism: The pursuit and the abundance teach each other about arrival
+  function: the knight learns that the destination of the quest is a form of sovereign self-sufficiency; the figure learns that a seeker who can recognize wholeness carries that lesson forward; the pursuit becomes vision
+  integration_outcome: The knight pauses in the garden and understands what he is ultimately pursuing; the sovereign abundance receives the seeker as confirmation of its worth; together they illuminate the relationship between the searching and the found
+  key_terms: knight learns that the destination, knight pauses in the garden, pursuit and the abundance teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, 10 of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Legacy, The Ancestral Wealth, The Completion of Generations, Material Fulfilled
-numerical_relation: 12 + 10 = 22; the seeker arrives at the end of lineage; the pursuit encounters what has already been completed
+numerical_relation: 12 + 10 = 22 → 2+2=4 (IV The Emperor; the seeker arrives at the end of lineage; the pursuit encounters what has already been completed)
 elemental_bridge: Air (the individual quest) meets Earth (the collective inheritance); the rider enters the house of the ancestors
 threshold_type: The moment when the individual seeker stands within the context of generations
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Individual meeting collective, urgency encountering legacy, pursuit within lineage, seeker acknowledging inheritance
 
 dynamic_inhibition:
-  blockade: The knight's focus on individual achievement prevents him from honoring or building upon the collective wealth
+  mechanism: The knight's focus on individual achievement prevents him from honoring or building upon the collective wealth
+  blockade_nature: The knight's focus on individual achievement prevents him from honoring or building upon the collective wealth
+  swords_state: The figure achieves through the individual quest but contributes nothing to the legacy
   consequence: The figure achieves through the individual quest but contributes nothing to the legacy
+  key_terms: knight's focus on individual achievement, figure achieves through the individual, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords exploits the ancestral wealth to fuel a quest that serves only himself
+  mechanism: The knight of swords exploits the ancestral wealth to fuel a quest that serves only himself
+  mode: The knight of swords exploits the ancestral wealth to fuel a quest that serves only himself
   loss: The figure loses the possibility of adding to the legacy because the pursuit has consumed what was inherited
+  key_terms: knight of swords exploits, figure loses the possibility, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the legacy teach each other about continuity; the knight learns that the greatest quests contribute to something larger than the seeker; the figure learns that the ancestral wealth is enriched by those who pursue truth with purpose; the pursuit becomes offering
-  outcome: The knight rides forward carrying the inheritance consciously; the legacy grows through his quest; together they create the living chain where past abundance enables present seeking and present seeking builds future wholeness
+  mechanism: The pursuit and the legacy teach each other about continuity
+  function: the knight learns that the greatest quests contribute to something larger than the seeker; the figure learns that the ancestral wealth is enriched by those who pursue truth with purpose; the pursuit becomes offering
+  integration_outcome: The knight rides forward carrying the inheritance consciously; the legacy grows through his quest; together they create the living chain where past abundance enables present seeking and present seeking builds future wholeness
+  key_terms: knight learns that the greatest, knight rides forward carrying, pursuit and the legacy teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, Page of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Student, The Curious Learner, The Practical Novice, Material Curiosity
-numerical_relation: 12 + 11 = 23; the seeker and the student meet; the pursuit encounters the first steps of learning
+numerical_relation: 12 + 11 = 23 → 2+3=5 (V The Pope; the seeker and the student meet; the pursuit encounters the first steps of learning)
 elemental_bridge: Air (truth already in motion) meets Earth (truth still forming); the experienced seeker meets the beginning learner
 threshold_type: The moment when the charging seeker encounters the careful student
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Speed leaving behind, student falling behind, pursuit outpacing learning, seeker forgetting beginning
 
 dynamic_inhibition:
-  blockade: The knight's speed discourages the student from even attempting the pursuit
+  mechanism: The knight's speed discourages the student from even attempting the pursuit
+  blockade_nature: The knight's speed discourages the student from even attempting the pursuit
+  swords_state: The beginner abandons the path because the seeker made it look impossibly fast and difficult
   consequence: The beginner abandons the path because the seeker made it look impossibly fast and difficult
+  key_terms: knight's speed discourages the student, beginner abandons the path because, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords dismisses the student's practical curiosity as too slow and earthly for the true quest
+  mechanism: The knight of swords dismisses the student's practical curiosity as too slow and earthly for the true quest
+  mode: The knight of swords dismisses the student's practical curiosity as too slow and earthly for the true quest
   loss: The figure loses the capacity for grounded learning because the pursuit has labeled patience as incompetence
+  key_terms: knight of swords dismisses, figure loses the capacity for, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the student teach each other about beginning; the knight learns that the freshness of the student's gaze can renew the quest worn thin by experience; the figure learns that the seeker's direction can save the student years of wandering; the pursuit becomes transmission
-  outcome: The knight slows for a moment and speaks the essential direction; the student receives it as a gift for the journey; together they honor both the beginning and the continuing of the quest
+  mechanism: The pursuit and the student teach each other about beginning
+  function: the knight learns that the freshness of the student's gaze can renew the quest worn thin by experience; the figure learns that the seeker's direction can save the student years of wandering; the pursuit becomes transmission
+  integration_outcome: The knight slows for a moment and speaks the essential direction; the student receives it as a gift for the journey; together they honor both the beginning and the continuing of the quest
+  key_terms: knight learns that the freshness, knight slows for a moment, pursuit and the student teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, Knight of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Steady Rider, The Patient Mover, The Deliberate Knight, Earth Moving Slowly
-numerical_relation: 12 + 12 = 24; two knights meet; the wind rider and the earth mover face each other; two quests in opposite rhythms
+numerical_relation: 12 + 12 = 24 → 2+4=6 (VI The Lovers; two knights meet; the wind rider and the earth mover face each other; two quests in opposite rhythms)
 elemental_bridge: Air (swift pursuit) meets Earth (deliberate progress); two knight archetypes in elemental opposition
 threshold_type: The moment when the swift seeker and the patient mover must find a shared path
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Speed challenging slowness, patience challenging urgency, two knights questioning, quests confronting
 
 dynamic_inhibition:
-  blockade: Neither knight can adapt to the other's rhythm; the meeting becomes a standoff rather than a learning
-  consequence: The figure remains isolated in his own speed, unable to benefit from the lesson the other rider carries
+  mechanism: Neither knight can adapt to the other's rhythm
+  blockade_nature: the meeting becomes a standoff rather than a learning
+  swords_state: The figure remains isolated in his own speed
+  consequence: unable to benefit from the lesson the other rider carries
+  key_terms: neither knight can adapt, meeting becomes a standoff rather, figure remains isolated in his, unable to benefit from
 
 dynamic_devolution:
-  corruption: The knight of swords mocks the steady rider's pace and rides past without learning
+  mechanism: The knight of swords mocks the steady rider's pace and rides past without learning
+  mode: The knight of swords mocks the steady rider's pace and rides past without learning
   loss: The figure loses the wisdom of deliberate progress because the pursuit has defined speed as the only valid form of seeking
+  key_terms: knight of swords mocks, figure loses the wisdom, held tension
 
 dynamic_dependency:
-  integration: The two pursuits teach each other about completeness; the swift knight learns that what is built slowly lasts; the patient knight learns that some truths require the speed of the first arrival; the meeting becomes enrichment
-  outcome: The knights ride together briefly, each absorbing the other's rhythm; the pursuit is deepened by patience; the steadiness is enlivened by urgency; together they carry a fuller truth forward
+  mechanism: The two pursuits teach each other about completeness
+  function: the swift knight learns that what is built slowly lasts; the patient knight learns that some truths require the speed of the first arrival; the meeting becomes enrichment
+  integration_outcome: The knights ride together briefly, each absorbing the other's rhythm; the pursuit is deepened by patience; the steadiness is enlivened by urgency; together they carry a fuller truth forward
+  key_terms: swift knight learns that what, knights ride together briefly, two pursuits teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, Queen of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The Queen, The Nurturing Earth, The Abundant Sovereign, Material Wisdom
-numerical_relation: 12 + 13 = 25; the seeker arrives at the throne of earthly wisdom; the pursuit meets sovereign abundance
+numerical_relation: 12 + 13 = 25 → 2+5=7 (VII The Chariot; the seeker arrives at the throne of earthly wisdom; the pursuit meets sovereign abundance)
 elemental_bridge: Air (the urgency of truth) meets Earth (the sovereignty of nurturing); the rider encounters the authority of care
 threshold_type: The moment when the relentless seeker must slow before the throne of embodied wisdom
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Urgency meeting groundedness, seeker needing to rest, pursuit encountering care, speed meeting embodiment
 
 dynamic_inhibition:
-  blockade: The knight's restlessness prevents him from receiving the embodied wisdom the queen offers
-  consequence: The figure rides away before the queen's counsel has been absorbed; the lesson is offered but not received
+  mechanism: The knight's restlessness prevents him from receiving the embodied wisdom the queen offers
+  blockade_nature: The knight's restlessness prevents him from receiving the embodied wisdom the queen offers
+  swords_state: The figure rides away before the queen's counsel has been absorbed
+  consequence: the lesson is offered but not received
+  key_terms: knight's restlessness prevents him from, figure rides away before, lesson is offered
 
 dynamic_devolution:
-  corruption: The knight of swords appropriates the queen's resources for the quest without honoring the domain that provided them
+  mechanism: The knight of swords appropriates the queen's resources for the quest without honoring the domain that provided them
+  mode: The knight of swords appropriates the queen's resources for the quest without honoring the domain that provided them
   loss: The figure loses access to material wisdom because the pursuit has treated abundance as fuel rather than gift
+  key_terms: knight of swords appropriates, figure loses access to material, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the sovereign care teach each other about completion; the knight learns that the truest seeking includes the capacity to receive; the figure learns that the queen's grounded wisdom is a destination, not merely a rest stop; the pursuit becomes arrival
-  outcome: The knight rests in the queen's domain long enough to absorb her embodied truth; the quest continues enriched by what only stillness could provide; together they demonstrate that the seeker must periodically arrive before he can depart again
+  mechanism: The pursuit and the sovereign care teach each other about completion
+  function: the knight learns that the truest seeking includes the capacity to receive; the figure learns that the queen's grounded wisdom is a destination, not merely a rest stop; the pursuit becomes arrival
+  integration_outcome: The knight rests in the queen's domain long enough to absorb her embodied truth; the quest continues enriched by what only stillness could provide; together they demonstrate that the seeker must periodically arrive before he can depart again
+  key_terms: knight learns that the truest, knight rests in the queen's, pursuit and the sovereign care
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP
 
 ---
 
 card_pair: Knight of Swords, King of Pentacles
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_pentacles: The King, The Enthroned Wealth, The Sovereign Material, Earth Commanded
-numerical_relation: 12 + 14 = 26; the seeker stands before the earthly throne; the pursuit meets the authority of abundance
+numerical_relation: 12 + 14 = 26 → 2+6=8 (VIII Justice; the seeker stands before the earthly throne; the pursuit meets the authority of abundance)
 elemental_bridge: Air (the urgency of the quest) meets Earth (the sovereignty of material mastery); the rider approaches the king of all that endures
 threshold_type: The moment when the seeker must request what only material authority can grant
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Urgency meeting sovereignty, seeker requesting, authority responding with measure, pursuit learning protocol
 
 dynamic_inhibition:
-  blockade: The knight's urgency reads as disrespect to the king, who withholds what the quest needs
+  mechanism: The knight's urgency reads as disrespect to the king
+  blockade_nature: who withholds what the quest needs
+  swords_state: The figure departs without what was needed because the manner of asking dishonored the king
   consequence: The figure departs without what was needed because the manner of asking dishonored the king
+  key_terms: knight's urgency reads as disrespect, who withholds what the quest, figure departs without what
 
 dynamic_devolution:
-  corruption: The knight of swords attempts to bypass or steal from the earthly king's authority
+  mechanism: The knight of swords attempts to bypass or steal from the earthly king's authority
+  mode: The knight of swords attempts to bypass or steal from the earthly king's authority
   loss: The figure loses both the material resource and the relationship with the one who could have provided it
+  key_terms: knight of swords attempts, figure loses both the material, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the earthly sovereignty teach each other about power; the knight learns that durable wealth commands in ways that pure urgency cannot; the figure learns that the seeker who approaches with earned respect receives what he needs; the pursuit becomes petition
-  outcome: The knight approaches with the respect of one who recognizes the king's earned authority; the king receives the seeker and provides what the quest requires; together they honor that material mastery and intellectual pursuit serve the same ultimate civilization
+  mechanism: The pursuit and the earthly sovereignty teach each other about power
+  function: the knight learns that durable wealth commands in ways that pure urgency cannot; the figure learns that the seeker who approaches with earned respect receives what he needs; the pursuit becomes petition
+  integration_outcome: The knight approaches with the respect of one who recognizes the king's earned authority; the king receives the seeker and provides what the quest requires; together they honor that material mastery and intellectual pursuit serve the same ultimate civilization
+  key_terms: knight learns that durable wealth, knight approaches with the respect, pursuit and the earthly sovereignty
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: KOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSP

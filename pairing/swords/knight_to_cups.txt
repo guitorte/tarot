@@ -1,7 +1,7 @@
 card_pair: Knight of Swords, Ace of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Gift of Love, The Heart Opened, The Overflowing Feeling, Emotion Arriving
-numerical_relation: 12 + 1 = 13; the seeker rides into the opening heart; the pursuit meets love at its source
+numerical_relation: 12 + 1 = 13 (XIII Death; the seeker rides into the opening heart; the pursuit meets love at its source)
 elemental_bridge: Air (relentless pursuit) meets Water (love as pure gift); the charging mind encounters emotion that cannot be conquered
 threshold_type: The moment when the charging seeker discovers love does not yield to force
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Love bypassed, pursuit overlooking gift, seeker missing what does not resist, urgency passing through
 
 dynamic_inhibition:
-  blockade: The knight's forward momentum carries him past the opening heart before love can register
+  mechanism: The knight's forward momentum carries him past the opening heart before love can register
+  blockade_nature: The knight's forward momentum carries him past the opening heart before love can register
+  swords_state: The figure seeks truth far away while the gift of love waited right before him
   consequence: The figure seeks truth far away while the gift of love waited right before him
+  key_terms: knight's forward momentum carries him, figure seeks truth far away, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords tries to seize love as a resource for the quest rather than receiving it as a gift
+  mechanism: The knight of swords tries to seize love as a resource for the quest rather than receiving it as a gift
+  mode: The knight of swords tries to seize love as a resource for the quest rather than receiving it as a gift
   loss: The figure loses love by demanding it perform the functions of the pursuit rather than allowing it to be what it is
+  key_terms: knight of swords tries, figure loses love by demanding, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the love teach each other about what is most worth seeking; the knight learns that the greatest truth arrives with the same abundance as the overflowing cup; the figure learns that love is not an obstacle to the quest but its deepest motivation; the pursuit becomes devotion
-  outcome: The knight pauses before the cup and lets love arrive; the quest is deepened by what the heart reveals; together they demonstrate that truth sought without love eventually points back to love
+  mechanism: The pursuit and the love teach each other about what is most worth seeking
+  function: the knight learns that the greatest truth arrives with the same abundance as the overflowing cup; the figure learns that love is not an obstacle to the quest but its deepest motivation; the pursuit becomes devotion
+  integration_outcome: The knight pauses before the cup and lets love arrive; the quest is deepened by what the heart reveals; together they demonstrate that truth sought without love eventually points back to love
+  key_terms: knight learns that the greatest, knight pauses before the cup, pursuit and the love teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, 2 of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Union, The Mutual Recognition, The Bond Chosen, Love Exchanged
-numerical_relation: 12 + 2 = 14; the seeker encounters reciprocal love; the pursuit meets what is already met
+numerical_relation: 12 + 2 = 14 (XIV Temperance; the seeker encounters reciprocal love; the pursuit meets what is already met)
 elemental_bridge: Air (the individual quest) meets Water (the mutual bond); the rider arrives where two have already chosen each other
 threshold_type: The moment when the single-minded seeker encounters the truth of mutual recognition
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Solitude meeting union, urgency encountering completion, seeker excluded, pursuit bypassing bond
 
 dynamic_inhibition:
-  blockade: The knight cannot enter what has already been mutually determined without disrupting it
-  consequence: The figure remains outside the bond, never understanding what mutual recognition truly offers
+  mechanism: The knight cannot enter what has already been mutually determined without disrupting it
+  blockade_nature: The knight cannot enter what has already been mutually determined without disrupting it
+  swords_state: The figure remains outside the bond
+  consequence: never understanding what mutual recognition truly offers
+  key_terms: knight cannot enter what has, figure remains outside the bond, never understanding what mutual recognition
 
 dynamic_devolution:
-  corruption: The knight of swords inserts himself into the bond, demanding that the union serve the quest
+  mechanism: The knight of swords inserts himself into the bond
+  mode: demanding that the union serve the quest
   loss: The figure loses the possibility of genuine union because the pursuit has made him incapable of the mutual surrender that love requires
+  key_terms: demanding that the union serve, figure loses the possibility, knight of swords inserts himself
 
 dynamic_dependency:
-  integration: The pursuit and the union teach each other about recognition; the knight learns that being seen by another is itself a form of truth; the figure learns that the solitary seeker may eventually discover that what he pursues is best found in another; the pursuit becomes longing
-  outcome: The knight passes through, touched by what the two have; the longing planted by the encounter eventually shapes the direction of the quest; together they illuminate the relationship between the solitary path and the love that may eventually meet it
+  mechanism: The pursuit and the union teach each other about recognition
+  function: the knight learns that being seen by another is itself a form of truth; the figure learns that the solitary seeker may eventually discover that what he pursues is best found in another; the pursuit becomes longing
+  integration_outcome: The knight passes through, touched by what the two have; the longing planted by the encounter eventually shapes the direction of the quest; together they illuminate the relationship between the solitary path and the love that may eventually meet it
+  key_terms: knight learns that being seen, knight passes through, pursuit and the union teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, 3 of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Celebration, The Community of Joy, The Shared Feast, Emotion Overflowing Together
-numerical_relation: 12 + 3 = 15; the seeker rides through celebration; the pursuit passes through communal joy
+numerical_relation: 12 + 3 = 15 (XV The Devil; the seeker rides through celebration; the pursuit passes through communal joy)
 elemental_bridge: Air (the solitary quest) meets Water (collective joy); the rider arrives where all celebrate together
 threshold_type: The moment when the urgent seeker discovers the truth in communal joy
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Celebration pulling, urgency resisting, seeker tempted, quest delayed by joy
 
 dynamic_inhibition:
-  blockade: The knight refuses the celebration and misses the communal truth it embodies
-  consequence: The figure pursues alone what the community already celebrates together; the solitary seeker passes by the answer
+  mechanism: The knight refuses the celebration and misses the communal truth it embodies
+  blockade_nature: The knight refuses the celebration and misses the communal truth it embodies
+  swords_state: The figure pursues alone what the community already celebrates together
+  consequence: the solitary seeker passes by the answer
+  key_terms: knight refuses the celebration, figure pursues alone what, solitary seeker passes
 
 dynamic_devolution:
-  corruption: The knight of swords disrupts the celebration by insisting the quest take precedence over communal joy
+  mechanism: The knight of swords disrupts the celebration by insisting the quest take precedence over communal joy
+  mode: The knight of swords disrupts the celebration by insisting the quest take precedence over communal joy
   loss: The figure loses the experience of being held by community because the pursuit has made him incapable of pure celebration
+  key_terms: knight of swords disrupts, figure loses the experience, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the celebration teach each other about arrival; the knight learns that the truest quest ends in celebration shared with others; the figure learns that communal joy is not an obstacle to the quest but a glimpse of its destination; the pursuit becomes homecoming
-  outcome: The knight stays for the celebration and discovers something the solitary quest could not reveal; the joy is amplified by the seeker's arrival; together they show that the quest and communal celebration serve the same deepest longing
+  mechanism: The pursuit and the celebration teach each other about arrival
+  function: the knight learns that the truest quest ends in celebration shared with others; the figure learns that communal joy is not an obstacle to the quest but a glimpse of its destination; the pursuit becomes homecoming
+  integration_outcome: The knight stays for the celebration and discovers something the solitary quest could not reveal; the joy is amplified by the seeker's arrival; together they show that the quest and communal celebration serve the same deepest longing
+  key_terms: knight learns that the truest, knight stays for the celebration, pursuit and the celebration teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, 4 of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Contemplation, The Turned Inward, The Gift Refused, Emotion Withdrawn
-numerical_relation: 12 + 4 = 16; the seeker arrives where another is withdrawn; the pursuit encounters the one who looks away
+numerical_relation: 12 + 4 = 16 (XVI The Tower; the seeker arrives where another is withdrawn; the pursuit encounters the one who looks away)
 elemental_bridge: Air (outward urgency) meets Water (inward retreat); the charging seeker finds the one absorbed in their own feeling
 threshold_type: The moment when the seeker cannot reach the one who is turned inward
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Call unheard, withdrawal maintained, urgency impotent, seeker meeting refusal
 
 dynamic_inhibition:
-  blockade: The knight's urgency is simply unable to penetrate the inward absorption; the call goes unheard
-  consequence: The figure remains in withdrawal; the seeker rides on alone without the one he sought
+  mechanism: The knight's urgency is simply unable to penetrate the inward absorption
+  blockade_nature: the call goes unheard
+  swords_state: The figure remains in withdrawal
+  consequence: the seeker rides on alone without the one he sought
+  key_terms: knight's urgency is simply unable, call goes unheard, figure remains in withdrawal, seeker rides on alone without
 
 dynamic_devolution:
-  corruption: The knight of swords forces the contemplator outward before the inner work is complete
+  mechanism: The knight of swords forces the contemplator outward before the inner work is complete
+  mode: The knight of swords forces the contemplator outward before the inner work is complete
   loss: The figure loses the insight that was forming in withdrawal because the pursuit demanded presence before it was ready
+  key_terms: knight of swords forces, figure loses the insight, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the withdrawal teach each other about timing; the knight learns that those in genuine inward turning must be allowed to complete the inner work; the figure learns that the seeker's presence may eventually call him back outward when the withdrawal is complete; the pursuit becomes patient waiting
-  outcome: The knight waits nearby without insisting; the contemplation completes; the one who was withdrawn turns outward renewed; together they demonstrate that urgency and withdrawal are phases of the same seeking
+  mechanism: The pursuit and the withdrawal teach each other about timing
+  function: the knight learns that those in genuine inward turning must be allowed to complete the inner work; the figure learns that the seeker's presence may eventually call him back outward when the withdrawal is complete; the pursuit becomes patient waiting
+  integration_outcome: The knight waits nearby without insisting; the contemplation completes; the one who was withdrawn turns outward renewed; together they demonstrate that urgency and withdrawal are phases of the same seeking
+  key_terms: knight learns that those, knight waits nearby without insisting, pursuit and the withdrawal teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, 5 of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Loss, The Grief Held, The Spilled Joy, Love Mourned
-numerical_relation: 12 + 5 = 17; the seeker arrives at grief; the pursuit encounters loss it cannot ride past
+numerical_relation: 12 + 5 = 17 (XVII The Star; the seeker arrives at grief; the pursuit encounters loss it cannot ride past)
 elemental_bridge: Air (the urgency of living) meets Water (the stillness of grief); the rider halts before what cannot be accelerated through
 threshold_type: The moment when the seeker must stop and honor what has been lost
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Grief requiring time, urgency premature, seeker misunderstanding, loss needing honor
 
 dynamic_inhibition:
-  blockade: The knight's urgency rushes the grief; the mourner cannot integrate loss at the seeker's pace
+  mechanism: The knight's urgency rushes the grief
+  blockade_nature: the mourner cannot integrate loss at the seeker's pace
+  swords_state: The figure suppresses grief to satisfy the urgency of the pursuit and the loss festers without resolution
   consequence: The figure suppresses grief to satisfy the urgency of the pursuit and the loss festers without resolution
+  key_terms: knight's urgency rushes the grief, mourner cannot integrate loss at, figure suppresses grief to satisfy
 
 dynamic_devolution:
-  corruption: The knight of swords dismisses the grief as self-indulgent distraction from the quest
+  mechanism: The knight of swords dismisses the grief as self-indulgent distraction from the quest
+  mode: The knight of swords dismisses the grief as self-indulgent distraction from the quest
   loss: The figure loses the capacity for grief's wisdom because the pursuit has labeled mourning as weakness
+  key_terms: knight of swords dismisses, figure loses the capacity for, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the grief teach each other about depth; the knight learns that the capacity to mourn is a form of love that makes the quest more fully human; the figure learns that the seeker's presence can eventually help turn grief toward what still stands; the pursuit becomes witness
-  outcome: The knight stops and sits with the loss without rushing it; when grief has spoken, he gently points to what remains; together they create the transition from mourning toward renewed direction
+  mechanism: The pursuit and the grief teach each other about depth
+  function: the knight learns that the capacity to mourn is a form of love that makes the quest more fully human; the figure learns that the seeker's presence can eventually help turn grief toward what still stands; the pursuit becomes witness
+  integration_outcome: The knight stops and sits with the loss without rushing it; when grief has spoken, he gently points to what remains; together they create the transition from mourning toward renewed direction
+  key_terms: knight learns that the capacity, knight stops and sits, pursuit and the grief teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, 6 of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Memory, The Innocence Revisited, The Gift of Nostalgia, Past Love Offered
-numerical_relation: 12 + 6 = 18; the seeker arrives at the garden of memory; the pursuit encounters what was left behind
+numerical_relation: 12 + 6 = 18 (XVIII The Moon; the seeker arrives at the garden of memory; the pursuit encounters what was left behind)
 elemental_bridge: Air (forward motion) meets Water (backward looking); the rider arrives where the child within waits with flowers
 threshold_type: The moment when the urgency of the present quest meets the gift of the innocent past
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Forward versus backward, urgency meeting memory, pursuit resisting return, seeker tempted by past
 
 dynamic_inhibition:
-  blockade: The knight's forward momentum prevents him from receiving what the memory offers
-  consequence: The figure loses connection with why the quest began; the urgency becomes hollow without the innocence that sparked it
+  mechanism: The knight's forward momentum prevents him from receiving what the memory offers
+  blockade_nature: The knight's forward momentum prevents him from receiving what the memory offers
+  swords_state: The figure loses connection with why the quest began
+  consequence: the urgency becomes hollow without the innocence that sparked it
+  key_terms: knight's forward momentum prevents him, figure loses connection with why, urgency becomes hollow without
 
 dynamic_devolution:
-  corruption: The knight of swords gets lost in nostalgia and never returns to the present quest
+  mechanism: The knight of swords gets lost in nostalgia and never returns to the present quest
+  mode: The knight of swords gets lost in nostalgia and never returns to the present quest
   loss: The figure loses forward momentum because the memory has captured what was meant to be only a visit
+  key_terms: knight of swords gets lost, figure loses forward momentum because, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the memory teach each other about origin; the knight learns that carrying the child's wonder makes the adult seeker more fully alive; the figure learns that the past offers gifts for the journey rather than chains back to where the journey began; the pursuit becomes renewed
-  outcome: The knight receives the flowers of memory without being held by them; the child's wonder refreshes the urgency; together they create a seeker who moves forward carrying the origin of his quest alive within him
+  mechanism: The pursuit and the memory teach each other about origin
+  function: the knight learns that carrying the child's wonder makes the adult seeker more fully alive; the figure learns that the past offers gifts for the journey rather than chains back to where the journey began; the pursuit becomes renewed
+  integration_outcome: The knight receives the flowers of memory without being held by them; the child's wonder refreshes the urgency; together they create a seeker who moves forward carrying the origin of his quest alive within him
+  key_terms: knight learns that carrying, knight receives the flowers, pursuit and the memory teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, 7 of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Illusion, The Dreaming Confusion, The Scattered Visions, Desire Multiplied
-numerical_relation: 12 + 7 = 19; the seeker arrives in the land of illusion; the pursuit must choose among false visions
+numerical_relation: 12 + 7 = 19 (XIX The Sun; the seeker arrives in the land of illusion; the pursuit must choose among false visions)
 elemental_bridge: Air (clarity of purpose) meets Water (multiplied illusion); the rider's clarity is tested by seductive visions
 threshold_type: The moment when the seeker must cut through illusion without being seduced by it
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Clarity tested, seduction multiple, pursuit challenged, seeker choosing carefully
 
 dynamic_inhibition:
-  blockade: The knight becomes distracted by the multiplicity of visions and loses the thread of the original quest
-  consequence: The figure becomes lost among beautiful illusions, the original purpose forgotten in the proliferation of seductive alternatives
+  mechanism: The knight becomes distracted by the multiplicity of visions and loses the thread of the original quest
+  blockade_nature: The knight becomes distracted by the multiplicity of visions and loses the thread of the original quest
+  swords_state: The figure becomes lost among beautiful illusions
+  consequence: the original purpose forgotten in the proliferation of seductive alternatives
+  key_terms: knight becomes distracted, figure becomes lost among beautiful, original purpose forgotten
 
 dynamic_devolution:
-  corruption: The knight of swords becomes the enforcer of one vision and destroys all the others
+  mechanism: The knight of swords becomes the enforcer of one vision and destroys all the others
+  mode: The knight of swords becomes the enforcer of one vision and destroys all the others
   loss: The figure loses the richness of imagination because the pursuit has declared only one cup acceptable
+  key_terms: knight of swords, figure loses the richness, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the illusion teach each other about discernment; the knight learns that the sword of clarity is not for destroying all visions but for recognizing which is real; the figure learns that the seeker who can pass through illusion without being destroyed by it or trapped by it carries real wisdom; the pursuit becomes discernment
-  outcome: The knight cuts through with clarity while acknowledging the beauty of what he passes; the truth is found among the visions rather than despite them; together they demonstrate that the seeker who can hold clarity while honoring imagination finds a fuller truth
+  mechanism: The pursuit and the illusion teach each other about discernment
+  function: the knight learns that the sword of clarity is not for destroying all visions but for recognizing which is real; the figure learns that the seeker who can pass through illusion without being destroyed by it or trapped by it carries real wisdom; the pursuit becomes discernment
+  integration_outcome: The knight cuts through with clarity while acknowledging the beauty of what he passes; the truth is found among the visions rather than despite them; together they demonstrate that the seeker who can hold clarity while honoring imagination finds a fuller truth
+  key_terms: knight learns that the sword, knight cuts through with clarity, pursuit and the illusion teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, 8 of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Departure, The Cups Left Behind, The Deeper Seeking, Feeling Transcended
-numerical_relation: 12 + 8 = 20; two seekers meet; each leaves something behind in the pursuit of what lies beyond
+numerical_relation: 12 + 8 = 20 (XX Judgement; two seekers meet; each leaves something behind in the pursuit of what lies beyond)
 elemental_bridge: Air (relentless forward pursuit) meets Water (the quiet departure from what was); the rider and the walker each seek what cannot be held
 threshold_type: The moment when two quests of different natures recognize each other
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Urgency meeting quietness, charging meeting walking, two modes of seeking, two forms of leaving
 
 dynamic_inhibition:
-  blockade: The knight's noise disturbs the quiet departure that requires stillness to honor what is being left
+  mechanism: The knight's noise disturbs the quiet departure that requires stillness to honor what is being left
+  blockade_nature: The knight's noise disturbs the quiet departure that requires stillness to honor what is being left
+  swords_state: The figure cannot complete the quiet departure because the urgency of the rider has broken the contemplative silence
   consequence: The figure cannot complete the quiet departure because the urgency of the rider has broken the contemplative silence
+  key_terms: knight's noise disturbs the quiet, figure cannot complete the quiet, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords convinces the one departing to abandon the quiet leaving for a faster, shallower exit
+  mechanism: The knight of swords convinces the one departing to abandon the quiet leaving for a faster
+  mode: shallower exit
   loss: The figure loses the integration that the quiet departure offers; they leave without honoring what the cups held
+  key_terms: shallower exit, figure loses the integration, knight of swords convinces
 
 dynamic_dependency:
-  integration: The two quests teach each other about seeking; the knight learns that the quiet departure is as courageous as the charging ride; the figure learns that the intellectual urgency of the knight and the emotional depth of the departure are complementary forms of the same truth-seeking; the two pursuits become companions
-  outcome: The knight slows and the walker quickens; they travel together for a time, each enriching the other's seeking; together they demonstrate that the quest and the departure from the completed are versions of the same fundamental movement
+  mechanism: The two quests teach each other about seeking
+  function: the knight learns that the quiet departure is as courageous as the charging ride; the figure learns that the intellectual urgency of the knight and the emotional depth of the departure are complementary forms of the same truth-seeking; the two pursuits become companions
+  integration_outcome: The knight slows and the walker quickens; they travel together for a time, each enriching the other's seeking; together they demonstrate that the quest and the departure from the completed are versions of the same fundamental movement
+  key_terms: knight learns that the quiet, knight slows and the walker, two quests teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, 9 of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Wish Fulfilled, The Satisfied Self, The Contentment Achieved, Feeling Complete
-numerical_relation: 12 + 9 = 21; the seeker arrives where satisfaction waits; the pursuit encounters one who has everything it sought
+numerical_relation: 12 + 9 = 21 (XXI The World; the seeker arrives where satisfaction waits; the pursuit encounters one who has everything it sought)
 elemental_bridge: Air (the urgency of incompletion) meets Water (the satisfaction of completion); the rider encounters the one who no longer needs to ride
 threshold_type: The moment when the relentless seeker encounters one who is fully satisfied
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Arrival withheld, urgency unable to learn from completion, seeker seeking shortcut, satisfaction resisting description
 
 dynamic_inhibition:
-  blockade: The knight cannot receive the lesson of satisfaction because the urgency of pursuit prevents stillness
-  consequence: The figure rides past the satisfied one, unable to absorb what completion looks like, unable to rest
+  mechanism: The knight cannot receive the lesson of satisfaction because the urgency of pursuit prevents stillness
+  blockade_nature: The knight cannot receive the lesson of satisfaction because the urgency of pursuit prevents stillness
+  swords_state: The figure rides past the satisfied one
+  consequence: unable to absorb what completion looks like, unable to rest
+  key_terms: knight cannot receive the lesson, figure rides past the satisfied, unable to absorb what completion
 
 dynamic_devolution:
-  corruption: The knight of swords dismisses the satisfied one's completeness as complacency rather than arrival
+  mechanism: The knight of swords dismisses the satisfied one's completeness as complacency rather than arrival
+  mode: The knight of swords dismisses the satisfied one's completeness as complacency rather than arrival
   loss: The figure loses the vision of the destination because the pursuit has labeled contentment as settling
+  key_terms: knight of swords dismisses, figure loses the vision, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the satisfaction teach each other about arrival; the knight learns that the most urgent seeking is oriented toward the stillness of the fulfilled wish; the figure learns that the seeker's urgency honors the difficulty of the path that led to satisfaction; the pursuit becomes orientation
-  outcome: The knight sits briefly beside the satisfied one and receives the wordless transmission of what arrival feels like; the urgency is not extinguished but now oriented; together they demonstrate the full arc of seeking and finding
+  mechanism: The pursuit and the satisfaction teach each other about arrival
+  function: the knight learns that the most urgent seeking is oriented toward the stillness of the fulfilled wish; the figure learns that the seeker's urgency honors the difficulty of the path that led to satisfaction; the pursuit becomes orientation
+  integration_outcome: The knight sits briefly beside the satisfied one and receives the wordless transmission of what arrival feels like; the urgency is not extinguished but now oriented; together they demonstrate the full arc of seeking and finding
+  key_terms: knight learns that the most, knight sits briefly beside, pursuit and the satisfaction teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, 10 of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Rainbow's End, The Family Complete, The Love Fulfilled, Feeling Crowned
-numerical_relation: 12 + 10 = 22; the seeker arrives at the family complete; the pursuit reaches love's fullest expression
+numerical_relation: 12 + 10 = 22 → 2+2=4 (IV The Emperor; the seeker arrives at the family complete; the pursuit reaches love's fullest expression)
 elemental_bridge: Air (the individual quest) meets Water (the communal fulfillment); the rider arrives where love has become home
 threshold_type: The moment when the urgency of the individual quest meets the completeness of love in community
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Urgency meeting peace, sword meeting home, seeker learning to rest, arrival requiring surrender
 
 dynamic_inhibition:
-  blockade: The knight cannot stay because the urgency of the quest refuses to be laid down
-  consequence: The figure arrives at home but cannot remain; the sword and the pursuit prevent the fullness of belonging
+  mechanism: The knight cannot stay because the urgency of the quest refuses to be laid down
+  blockade_nature: The knight cannot stay because the urgency of the quest refuses to be laid down
+  swords_state: The figure arrives at home but cannot remain
+  consequence: the sword and the pursuit prevent the fullness of belonging
+  key_terms: knight cannot stay because, figure arrives at home, sword and the pursuit prevent
 
 dynamic_devolution:
-  corruption: The knight of swords brings his urgency into the home, turning the family's peace into another arena of pursuit
+  mechanism: The knight of swords brings his urgency into the home
+  mode: turning the family's peace into another arena of pursuit
   loss: The figure loses the experience of completion because he has made even love into a quest that must be defended
+  key_terms: turning the family's peace, figure loses the experience, knight of swords brings his
 
 dynamic_dependency:
-  integration: The pursuit and the home teach each other about rest; the knight learns that the greatest seeker arrives eventually at the family beneath the rainbow and puts down the sword; the figure learns that the peace of the home is earned by those who have ridden far enough to appreciate it; the pursuit becomes arrival
-  outcome: The knight enters home and lays down the sword; the urgency is transformed into the fullness of presence; together they demonstrate that the quest's truest destination is the completeness of love
+  mechanism: The pursuit and the home teach each other about rest
+  function: the knight learns that the greatest seeker arrives eventually at the family beneath the rainbow and puts down the sword; the figure learns that the peace of the home is earned by those who have ridden far enough to appreciate it; the pursuit becomes arrival
+  integration_outcome: The knight enters home and lays down the sword; the urgency is transformed into the fullness of presence; together they demonstrate that the quest's truest destination is the completeness of love
+  key_terms: knight learns that the greatest, knight enters home and lays, pursuit and the home teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, Page of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Dreamer, The Emotional Messenger, The Creative Feeling, Emotion Beginning
-numerical_relation: 12 + 11 = 23; the seeker and the dreamer meet; urgency and imagination encounter each other
+numerical_relation: 12 + 11 = 23 → 2+3=5 (V The Pope; the seeker and the dreamer meet; urgency and imagination encounter each other)
 elemental_bridge: Air (intellectual pursuit) meets Water (emotional imagination); the rider encounters the young dreamer
 threshold_type: The moment when urgency meets the first stirring of emotional truth
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Urgency dismissing dream, imagination needing patience, seeker and dreamer out of step, pursuit missing feeling
 
 dynamic_inhibition:
-  blockade: The knight's urgency prevents him from receiving what the dreamer's slow vision offers
+  mechanism: The knight's urgency prevents him from receiving what the dreamer's slow vision offers
+  blockade_nature: The knight's urgency prevents him from receiving what the dreamer's slow vision offers
+  swords_state: The figure charges past imaginative truth that would have deepened the intellectual pursuit
   consequence: The figure charges past imaginative truth that would have deepened the intellectual pursuit
+  key_terms: knight's urgency prevents him from, figure charges past imaginative truth, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords dismisses the dreamer's emotional truth as irrelevant to the quest
+  mechanism: The knight of swords dismisses the dreamer's emotional truth as irrelevant to the quest
+  mode: The knight of swords dismisses the dreamer's emotional truth as irrelevant to the quest
   loss: The figure loses the capacity for emotional imagination in the pursuit; the quest becomes purely intellectual and therefore incomplete
+  key_terms: knight of swords dismisses, figure loses the capacity for, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the dream teach each other about truth's many forms; the knight learns that emotional imagination is a form of knowing that the intellect cannot replicate; the figure learns that the seeker's clarity can help the dreamer discern what in the dream is real; the pursuit becomes wonder
-  outcome: The knight pauses and the page shows him the fish in the cup; both are enlarged by the exchange; together they demonstrate that urgency and imagination need each other to pursue the whole truth
+  mechanism: The pursuit and the dream teach each other about truth's many forms
+  function: the knight learns that emotional imagination is a form of knowing that the intellect cannot replicate; the figure learns that the seeker's clarity can help the dreamer discern what in the dream is real; the pursuit becomes wonder
+  integration_outcome: The knight pauses and the page shows him the fish in the cup; both are enlarged by the exchange; together they demonstrate that urgency and imagination need each other to pursue the whole truth
+  key_terms: knight learns that emotional imagination, knight pauses and the page, pursuit and the dream teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, Knight of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Romantic, The Questing Heart, The Loving Seeker, Emotion In Motion
-numerical_relation: 12 + 12 = 24; two knights meet; the wind rider and the lover face each other; two quests in different elements
+numerical_relation: 12 + 12 = 24 → 2+4=6 (VI The Lovers; two knights meet; the wind rider and the lover face each other; two quests in different elements)
 elemental_bridge: Air (pursuit of truth) meets Water (pursuit of love); two knights, each questing in a different realm
 threshold_type: The moment when the seeker of truth and the seeker of love recognize each other as brothers
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Two quests in tension, truth versus love, urgency confronting romanticism, seekers challenging each other
 
 dynamic_inhibition:
-  blockade: Each knight refuses to learn from the other's quest; the meeting becomes rivalry rather than enrichment
-  consequence: The figure returns to his own pursuit diminished by the encounter; the potential of the meeting is lost
+  mechanism: Each knight refuses to learn from the other's quest
+  blockade_nature: the meeting becomes rivalry rather than enrichment
+  swords_state: The figure returns to his own pursuit diminished by the encounter
+  consequence: the potential of the meeting is lost
+  key_terms: each knight refuses to learn, meeting becomes rivalry rather, figure returns to his own, potential of the meeting
 
 dynamic_devolution:
-  corruption: The knight of swords defeats the knight of cups in argument, dismissing love as inferior to truth
+  mechanism: The knight of swords defeats the knight of cups in argument
+  mode: dismissing love as inferior to truth
   loss: The figure loses the emotional intelligence that the knight of love carried; the pursuit becomes colder and more brittle
+  key_terms: dismissing love as inferior, figure loses the emotional intelligence, knight of swords defeats
 
 dynamic_dependency:
-  integration: The two quests teach each other about wholeness; the knight of swords learns that love is the warmth that sustains the truth quest; the knight of cups learns that clarity strengthens love rather than diminishing it; the meeting becomes alliance
-  outcome: The knights ride together for a while, each carrying more of what the other holds; the pursuit of truth gains heart; the quest for love gains clarity; together they point toward the wholeness that neither quest achieves alone
+  mechanism: The two quests teach each other about wholeness
+  function: the knight of swords learns that love is the warmth that sustains the truth quest; the knight of cups learns that clarity strengthens love rather than diminishing it; the meeting becomes alliance
+  integration_outcome: The knights ride together for a while, each carrying more of what the other holds; the pursuit of truth gains heart; the quest for love gains clarity; together they point toward the wholeness that neither quest achieves alone
+  key_terms: knight of swords learns, knights ride together for, two quests teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, Queen of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The Queen, The Intuitive Authority, The Empathic Throne, Feeling Sovereign
-numerical_relation: 12 + 13 = 25; the seeker arrives at the throne of emotional wisdom; the pursuit encounters sovereign empathy
+numerical_relation: 12 + 13 = 25 → 2+5=7 (VII The Chariot; the seeker arrives at the throne of emotional wisdom; the pursuit encounters sovereign empathy)
 elemental_bridge: Air (urgent intellectual seeking) meets Water (sovereign emotional knowing); the rider encounters authority that sees through rather than reasons through
 threshold_type: The moment when the urgency of the quest meets the depth of emotional sovereignty
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Urgency corrected, seeking redirected, true need seen, seeker reoriented
 
 dynamic_inhibition:
-  blockade: The knight refuses the queen's deeper seeing and insists on the surface quest he has named
-  consequence: The figure rides away toward what he thought he sought, missing what the queen's intuition revealed was the real need
+  mechanism: The knight refuses the queen's deeper seeing and insists on the surface quest he has named
+  blockade_nature: The knight refuses the queen's deeper seeing and insists on the surface quest he has named
+  swords_state: The figure rides away toward what he thought he sought
+  consequence: missing what the queen's intuition revealed was the real need
+  key_terms: knight refuses the queen's deeper, figure rides away toward what, missing what the queen's intuition
 
 dynamic_devolution:
-  corruption: The knight of swords dismisses the queen's empathic knowing as mere feeling rather than genuine wisdom
+  mechanism: The knight of swords dismisses the queen's empathic knowing as mere feeling rather than genuine wisdom
+  mode: The knight of swords dismisses the queen's empathic knowing as mere feeling rather than genuine wisdom
   loss: The figure loses access to the emotional intelligence that could have made the pursuit complete
+  key_terms: knight of swords dismisses, figure loses access, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the empathic authority teach each other about knowing; the knight learns that feeling is a form of knowing that the intellect cannot access alone; the figure learns that the seeker's articulate urgency is itself a form of emotional truth that the queen can honor; the pursuit becomes understood
-  outcome: The knight receives the queen's redirection with humility; the quest is reoriented toward the deeper truth she named; together they demonstrate that emotional sovereignty and intellectual pursuit serve the same ultimate discovery
+  mechanism: The pursuit and the empathic authority teach each other about knowing
+  function: the knight learns that feeling is a form of knowing that the intellect cannot access alone; the figure learns that the seeker's articulate urgency is itself a form of emotional truth that the queen can honor; the pursuit becomes understood
+  integration_outcome: The knight receives the queen's redirection with humility; the quest is reoriented toward the deeper truth she named; together they demonstrate that emotional sovereignty and intellectual pursuit serve the same ultimate discovery
+  key_terms: knight learns that feeling, knight receives the queen's redirection, pursuit and the empathic authority
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC
 
 ---
 
 card_pair: Knight of Swords, King of Cups
 archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_cups: The King, The Mastered Feeling, The Emotional Sovereign, Love Commanded
-numerical_relation: 12 + 14 = 26; the seeker stands before the throne of mastered emotion; the pursuit meets sovereign love
+numerical_relation: 12 + 14 = 26 → 2+6=8 (VIII Justice; the seeker stands before the throne of mastered emotion; the pursuit meets sovereign love)
 elemental_bridge: Air (the urgency of seeking) meets Water (the mastery of feeling); the rider encounters authority forged through emotional depth
 threshold_type: The moment when the urgent seeker meets the king who has mastered what the seeker avoids
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Urgency stilled, depth offered, seeker encountering mastery, pursuit meeting sovereign feeling
 
 dynamic_inhibition:
-  blockade: The knight's urgency prevents him from receiving the king's depth; the mastered emotion cannot be taken quickly
-  consequence: The figure receives surface courtesy but not the deep wisdom the king holds; the urgency has denied the depth
+  mechanism: The knight's urgency prevents him from receiving the king's depth
+  blockade_nature: the mastered emotion cannot be taken quickly
+  swords_state: The figure receives surface courtesy but not the deep wisdom the king holds
+  consequence: the urgency has denied the depth
+  key_terms: knight's urgency prevents him from, mastered emotion cannot be taken, figure receives surface courtesy, urgency has denied the depth
 
 dynamic_devolution:
-  corruption: The knight of swords challenges the king's emotional authority as weakness beneath the intellectual quest
+  mechanism: The knight of swords challenges the king's emotional authority as weakness beneath the intellectual quest
+  mode: The knight of swords challenges the king's emotional authority as weakness beneath the intellectual quest
   loss: The figure loses access to the deepest form of truth by dismissing the one who has mastered it
+  key_terms: knight of swords challenges, figure loses access, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the mastered emotion teach each other about sovereignty; the knight learns that the king who has navigated the whole ocean carries a form of truth the urgent seeker needs; the figure learns that the seeker's urgency, when fully received, finds its most honest expression in emotional depth; the pursuit becomes devotion
-  outcome: The knight is stilled before the king and receives the wisdom of mastered feeling; the urgency becomes directed by depth; together they create the seeker who moves swiftly and feels deeply, carrying both the sword and the cup
+  mechanism: The pursuit and the mastered emotion teach each other about sovereignty
+  function: the knight learns that the king who has navigated the whole ocean carries a form of truth the urgent seeker needs; the figure learns that the seeker's urgency, when fully received, finds its most honest expression in emotional depth; the pursuit becomes devotion
+  integration_outcome: The knight is stilled before the king and receives the wisdom of mastered feeling; the urgency becomes directed by depth; together they create the seeker who moves swiftly and feels deeply, carrying both the sword and the cup
+  key_terms: knight learns that the king, knight is stilled before, pursuit and the mastered emotion
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: KOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSC

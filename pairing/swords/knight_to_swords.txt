@@ -1,7 +1,7 @@
 card_pair: Knight of Swords, Ace of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
-numerical_relation: 12 + 1 = 13; the seeker meets pure clarity; the pursuit encounters truth at its source
+numerical_relation: 12 + 1 = 13 (XIII Death; the seeker meets pure clarity; the pursuit encounters truth at its source)
 elemental_bridge: Air (truth in motion) meets Air (truth at origin); the charging mind arrives at the pristine insight
 threshold_type: The moment when the relentless seeker finally encounters the pure truth he has been riding toward
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Urgency meeting stillness, charge meeting clarity, pursuit arriving at source, seeker slowing at truth
 
 dynamic_inhibition:
-  blockade: The knight's momentum carries him past the pristine clarity before he can receive it
-  consequence: The figure seeks further when he has already arrived; the urgency of the pursuit denies the truth that was present
+  mechanism: The knight's momentum carries him past the pristine clarity before he can receive it
+  blockade_nature: The knight's momentum carries him past the pristine clarity before he can receive it
+  swords_state: The figure seeks further when he has already arrived
+  consequence: the urgency of the pursuit denies the truth that was present
+  key_terms: knight's momentum carries him past, figure seeks further when he, urgency of the pursuit denies
 
 dynamic_devolution:
-  corruption: The knight of swords grasps the ace's clarity as a weapon for the quest rather than truth to be received
+  mechanism: The knight of swords grasps the ace's clarity as a weapon for the quest rather than truth to be received
+  mode: The knight of swords grasps the ace's clarity as a weapon for the quest rather than truth to be received
   loss: The figure loses the pure quality of the clarity by instrumentalizing it; truth becomes a tool rather than a recognition
+  key_terms: knight of swords grasps, figure loses the pure quality, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the pure clarity teach each other about arrival; the knight learns that the endpoint of urgency is the stillness of recognition; the figure learns that the seeker's arrival honors the truth; the pursuit becomes reception
-  outcome: The knight halts before the pristine clarity and receives it fully; the urgency transforms into recognition; together they demonstrate that the relentless pursuit of truth arrives at this: the simple, clear, direct knowing that was always waiting
+  mechanism: The pursuit and the pure clarity teach each other about arrival
+  function: the knight learns that the endpoint of urgency is the stillness of recognition; the figure learns that the seeker's arrival honors the truth; the pursuit becomes reception
+  integration_outcome: The knight halts before the pristine clarity and receives it fully; the urgency transforms into recognition; together they demonstrate that the relentless pursuit of truth arrives at this: the simple, clear, direct knowing that was always waiting
+  key_terms: knight learns that the endpoint, knight halts before the pristine, pursuit and the pure clarity
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, 2 of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-archetype_swords_2: The Duality, The Balanced Paradox, The Blindfolded Choice, Truth Suspended
-numerical_relation: 12 + 2 = 14; the seeker charges at the paradox; urgency meets suspended truth
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 12 + 2 = 14 (XIV Temperance; the seeker charges at the paradox; urgency meets suspended truth)
 elemental_bridge: Air (urgency seeking resolution) meets Air (truth holding without resolution); the rider collides with the balanced standoff
 threshold_type: The moment when the charging seeker arrives at a truth that refuses to be forced into resolution
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Resolution demanded, suspension maintained, urgency frustrated, seeker resisted
 
 dynamic_inhibition:
-  blockade: The knight's charge cannot force a resolution from a truth that exists precisely in its suspension
+  mechanism: The knight's charge cannot force a resolution from a truth that exists precisely in its suspension
+  blockade_nature: The knight's charge cannot force a resolution from a truth that exists precisely in its suspension
+  swords_state: The figure exhausts himself against the paradox and arrives no closer to the resolution that cannot be forced
   consequence: The figure exhausts himself against the paradox and arrives no closer to the resolution that cannot be forced
+  key_terms: knight's charge cannot force, figure exhausts himself against, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords cuts through the paradox violently, choosing one side arbitrarily to end the suspension
+  mechanism: The knight of swords cuts through the paradox violently
+  mode: choosing one side arbitrarily to end the suspension
   loss: The figure loses the wisdom held in the balanced paradox by demanding a false clarity from what was genuinely complex
+  key_terms: choosing one side arbitrarily, figure loses the wisdom held, knight of swords cuts through
 
 dynamic_dependency:
-  integration: The pursuit and the paradox teach each other about forms of truth; the knight learns that the capacity to hold paradox is itself a form of truth-seeking; the figure learns that the urgency of the seeker can eventually help the suspended one recognize when the time for choosing has arrived; the pursuit becomes patience
-  outcome: The knight waits until the paradox has taught what it holds; then his urgency can serve as the catalyst that moves the held truth forward when the time arrives; together they demonstrate that urgency and suspension are sequential rather than opposed
+  mechanism: The pursuit and the paradox teach each other about forms of truth
+  function: the knight learns that the capacity to hold paradox is itself a form of truth-seeking; the figure learns that the urgency of the seeker can eventually help the suspended one recognize when the time for choosing has arrived; the pursuit becomes patience
+  integration_outcome: The knight waits until the paradox has taught what it holds; then his urgency can serve as the catalyst that moves the held truth forward when the time arrives; together they demonstrate that urgency and suspension are sequential rather than opposed
+  key_terms: knight learns that the capacity, knight waits until the paradox, pursuit and the paradox teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, 3 of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-archetype_swords_2: The Sorrow, The Pain Witnessed, The Heartbreak Known, Truth That Wounds
-numerical_relation: 12 + 3 = 15; the seeker arrives where sorrow lives; the urgency of pursuit meets the weight of grief
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 12 + 3 = 15 (XV The Devil; the seeker arrives where sorrow lives; the urgency of pursuit meets the weight of grief)
 elemental_bridge: Air (the urgency of living) meets Air (the sorrow of loss); the charging rider arrives where something has been pierced
 threshold_type: The moment when the urgency of the quest is stopped by grief
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Grief refusing passage, urgency stopped, seeker confronting pain, pursuit meeting truth that wounds
 
 dynamic_inhibition:
-  blockade: The knight forces himself through the sorrow without acknowledging it; the urgency suppresses the grief
-  consequence: The figure carries the unacknowledged pain forward; it emerges later as bitterness that distorts the quest
+  mechanism: The knight forces himself through the sorrow without acknowledging it
+  blockade_nature: the urgency suppresses the grief
+  swords_state: The figure carries the unacknowledged pain forward
+  consequence: it emerges later as bitterness that distorts the quest
+  key_terms: knight forces himself through, urgency suppresses the grief, figure carries the unacknowledged pain, it emerges later as bitterness
 
 dynamic_devolution:
-  corruption: The knight of swords uses the language of the quest to bypass grief entirely; the pursuit becomes emotional avoidance
+  mechanism: The knight of swords uses the language of the quest to bypass grief entirely
+  mode: the pursuit becomes emotional avoidance
   loss: The figure loses the depth that grief could have added to the quest; the pursuit becomes shallower for having refused to feel
+  key_terms: pursuit becomes emotional avoidance, figure loses the depth, knight of swords uses
 
 dynamic_dependency:
-  integration: The pursuit and the sorrow teach each other about depth; the knight learns that the seeker who can grieve is seeking truth more honestly than one who cannot stop for pain; the figure learns that the seeker's urgency, when it returns after grief, carries a greater truth; the pursuit becomes deepened
-  outcome: The knight stops and acknowledges the sorrow; the grief is witnessed with the full attention of the seeker; when the urgency returns it carries what only pain can teach; together they demonstrate that the quest is enriched by what it pauses for
+  mechanism: The pursuit and the sorrow teach each other about depth
+  function: the knight learns that the seeker who can grieve is seeking truth more honestly than one who cannot stop for pain; the figure learns that the seeker's urgency, when it returns after grief, carries a greater truth; the pursuit becomes deepened
+  integration_outcome: The knight stops and acknowledges the sorrow; the grief is witnessed with the full attention of the seeker; when the urgency returns it carries what only pain can teach; together they demonstrate that the quest is enriched by what it pauses for
+  key_terms: knight learns that the seeker, knight stops and acknowledges, pursuit and the sorrow teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, 4 of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-archetype_swords_2: The Rest, The Truce Held, The Mind At Peace, Thought Quieted
-numerical_relation: 12 + 4 = 16; the seeker arrives where rest is essential; the urgency of pursuit meets the command to be still
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_2: Rest, truce, peace, mental stillness, respite
+numerical_relation: 12 + 4 = 16 (XVI The Tower; the seeker arrives where rest is essential; the urgency of pursuit meets the command to be still)
 elemental_bridge: Air (relentless motion) meets Air (earned stillness); the riding mind encounters the necessity of pause
 threshold_type: The moment when the relentless seeker is stopped by the need for rest
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Urgency resisting, rest demanding, seeker fighting stillness, pursuit depleted
 
 dynamic_inhibition:
-  blockade: The knight refuses rest until the quest forces exhaustion; the urgency has overridden the warning signs
-  consequence: The figure collapses at the worst possible moment; the pursuit is halted at a critical juncture because rest was refused earlier
+  mechanism: The knight refuses rest until the quest forces exhaustion
+  blockade_nature: the urgency has overridden the warning signs
+  swords_state: The figure collapses at the worst possible moment
+  consequence: the pursuit is halted at a critical juncture because rest was refused earlier
+  key_terms: knight refuses rest until, urgency has overridden the warning, figure collapses at the worst, pursuit is halted at
 
 dynamic_devolution:
-  corruption: The knight of swords mistakes rest for defeat and drives himself past the point of effective pursuit
+  mechanism: The knight of swords mistakes rest for defeat and drives himself past the point of effective pursuit
+  mode: The knight of swords mistakes rest for defeat and drives himself past the point of effective pursuit
   loss: The figure loses the quality of the quest because exhaustion has made the seeker's perception unreliable
+  key_terms: knight of swords mistakes rest, figure loses the quality, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the rest teach each other about sustainability; the knight learns that the fastest pursuit is one that rests before it must; the figure learns that the seeker's urgency gives the rest its meaning, since one only truly rests who has truly labored; the pursuit becomes cyclical
-  outcome: The knight lies down and the rest is complete; the urgency returns sharper than before; together they demonstrate that relentless pursuit and genuine rest are not opposed but sequential aspects of the same sustained quest
+  mechanism: The pursuit and the rest teach each other about sustainability
+  function: the knight learns that the fastest pursuit is one that rests before it must; the figure learns that the seeker's urgency gives the rest its meaning, since one only truly rests who has truly labored; the pursuit becomes cyclical
+  integration_outcome: The knight lies down and the rest is complete; the urgency returns sharper than before; together they demonstrate that relentless pursuit and genuine rest are not opposed but sequential aspects of the same sustained quest
+  key_terms: knight learns that the fastest, knight lies down, pursuit and the rest teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, 5 of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-archetype_swords_2: The Defeat, The Bitter Victory, The Hollow Win, Thought Betrayed
-numerical_relation: 12 + 5 = 17; the seeker arrives at the battlefield of words; urgency meets what words have already destroyed
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 12 + 5 = 17 (XVII The Star; the seeker arrives at the battlefield of words; urgency meets what words have already destroyed)
 elemental_bridge: Air (the righteous pursuit) meets Air (the wrong use of truth); the seeker faces the aftermath of his own potential
 threshold_type: The moment when the seeker sees what truth-pursuit becomes without compassion
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Shadow recognized, warning issued, seeker refusing or accepting mirror, urgency and its shadow
 
 dynamic_inhibition:
-  blockade: The knight denies the resemblance to the hollow victor and charges forward unchanged
+  mechanism: The knight denies the resemblance to the hollow victor and charges forward unchanged
+  blockade_nature: The knight denies the resemblance to the hollow victor and charges forward unchanged
+  swords_state: The figure continues the pursuit with the same unchecked urgency that produced the bitter victory the five of swords holds
   consequence: The figure continues the pursuit with the same unchecked urgency that produced the bitter victory the five of swords holds
+  key_terms: knight denies the resemblance, figure continues the pursuit, held tension
 
 dynamic_devolution:
-  corruption: The knight of swords absorbs the lesson of the five and becomes more ruthless in pursuit of victory
+  mechanism: The knight of swords absorbs the lesson of the five and becomes more ruthless in pursuit of victory
+  mode: The knight of swords absorbs the lesson of the five and becomes more ruthless in pursuit of victory
   loss: The figure loses the idealism of the quest by deciding that the hollow victory is simply the cost of truth
+  key_terms: knight of swords absorbs, figure loses the idealism, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the hollow victory teach each other about conscience; the knight learns that the urgency of the quest must be matched by the care of how the truth is used; the figure learns that the seeker's still-idealistic urgency can become a form of redemption; the pursuit becomes responsible
-  outcome: The knight receives the warning of the five's hollow victory and carries it forward as conscience; the quest continues with both urgency and care for those it touches; together they demonstrate the difference between truth-seeking that serves and truth-seeking that merely wins
+  mechanism: The pursuit and the hollow victory teach each other about conscience
+  function: the knight learns that the urgency of the quest must be matched by the care of how the truth is used; the figure learns that the seeker's still-idealistic urgency can become a form of redemption; the pursuit becomes responsible
+  integration_outcome: The knight receives the warning of the five's hollow victory and carries it forward as conscience; the quest continues with both urgency and care for those it touches; together they demonstrate the difference between truth-seeking that serves and truth-seeking that merely wins
+  key_terms: knight learns that the urgency, knight receives the warning, pursuit and the hollow victory
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, 6 of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-archetype_swords_2: The Journey, The Passage Traveled, The Crossing Made, Thought Moving Forward
-numerical_relation: 12 + 6 = 18; two movers in air meet; the charging pursuit and the quiet crossing share the same direction
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_2: The Traveler, The Departure, The Crossing, The Healer Through Distance
+numerical_relation: 12 + 6 = 18 (XVIII The Moon; two movers in air meet; the charging pursuit and the quiet crossing share the same direction)
 elemental_bridge: Air (urgent forward motion) meets Air (deliberate forward motion); two forms of movement in the same element
 threshold_type: The moment when the charging seeker and the quiet crosser recognize they travel toward the same shore
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Two speeds in tension, urgency and deliberateness, pursuit outpacing healing, journeys diverging in pace
 
 dynamic_inhibition:
-  blockade: The knight's speed disrupts the calm of the quiet crossing; the urgency agitates what the passage requires to be still
+  mechanism: The knight's speed disrupts the calm of the quiet crossing
+  blockade_nature: the urgency agitates what the passage requires to be still
+  swords_state: The crossing is made rougher by the seeker's charging passage through the waters
   consequence: The crossing is made rougher by the seeker's charging passage through the waters
+  key_terms: knight's speed disrupts the calm, urgency agitates what the passage, crossing is made rougher
 
 dynamic_devolution:
-  corruption: The knight of swords rides into the crossing and demands those aboard keep his pace rather than the pace of their healing
+  mechanism: The knight of swords rides into the crossing and demands those aboard keep his pace rather than the pace of their healing
+  mode: The knight of swords rides into the crossing and demands those aboard keep his pace rather than the pace of their healing
   loss: The figure loses the healing quality of the passage by imposing urgency on what requires gentle movement
+  key_terms: knight of swords rides, figure loses the healing quality, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the crossing teach each other about movement; the knight learns that some of the most important journeys require the pace of the healing crossing; the figure learns that the seeker's urgency marks the destination toward which the quiet crossing is also headed; the pursuit becomes escort
-  outcome: The knight slows at the crossing and lets those aboard keep their pace; he rides ahead to confirm the shore is clear; together they demonstrate that urgency can serve healing by preparing what lies ahead rather than rushing what is happening now
+  mechanism: The pursuit and the crossing teach each other about movement
+  function: the knight learns that some of the most important journeys require the pace of the healing crossing; the figure learns that the seeker's urgency marks the destination toward which the quiet crossing is also headed; the pursuit becomes escort
+  integration_outcome: The knight slows at the crossing and lets those aboard keep their pace; he rides ahead to confirm the shore is clear; together they demonstrate that urgency can serve healing by preparing what lies ahead rather than rushing what is happening now
+  key_terms: knight learns that some, knight slows at the crossing, pursuit and the crossing teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, 7 of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-archetype_swords_2: The Theft, The Cunning Taken, The Stealth Masked, Thought Hidden
-numerical_relation: 12 + 7 = 19; the seeker charges after the thief; the pursuit of truth becomes the pursuit of the one who hides it
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_2: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+numerical_relation: 12 + 7 = 19 (XIX The Sun; the seeker charges after the thief; the pursuit of truth becomes the pursuit of the one who hides it)
 elemental_bridge: Air (honest urgency) meets Air (cunning concealment); the relentless seeker and the one who steals away in the same element
 threshold_type: The moment when the truth-seeker is set against the truth-concealer
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Openness versus stealth, urgency versus cunning, pursuit confronting concealment, seeker chasing the hidden
 
 dynamic_inhibition:
-  blockade: The knight's open approach is too obvious for catching the cunning one; the urgency announces itself before it can act
+  mechanism: The knight's open approach is too obvious for catching the cunning one
+  blockade_nature: the urgency announces itself before it can act
+  swords_state: The thief escapes because the seeker's honest urgency cannot adapt to the requirements of the pursuit of cunning
   consequence: The thief escapes because the seeker's honest urgency cannot adapt to the requirements of the pursuit of cunning
+  key_terms: knight's open approach is too, urgency announces itself before it, thief escapes because the seeker's
 
 dynamic_devolution:
-  corruption: The knight of swords adopts the thief's own cunning methods to catch the thief, becoming deceptive in the process
+  mechanism: The knight of swords adopts the thief's own cunning methods to catch the thief
+  mode: becoming deceptive in the process
   loss: The figure loses the honest quality of the quest by using the shadow's tools; the pursuit becomes what it was chasing
+  key_terms: becoming deceptive in the process, figure loses the honest quality, knight of swords adopts
 
 dynamic_dependency:
-  integration: The pursuit and the cunning teach each other about methods; the knight learns that understanding how the thief thinks is not the same as becoming the thief; the figure learns that the cunning one is eventually exposed by the seeker's relentless honest pressure; the pursuit becomes patient
-  outcome: The knight adapts his urgency without losing his honesty; the persistent pressure of truthful pursuit eventually corners the cunning withdrawal; together they demonstrate that honest urgency, sustained long enough, catches even the most clever concealment
+  mechanism: The pursuit and the cunning teach each other about methods
+  function: the knight learns that understanding how the thief thinks is not the same as becoming the thief; the figure learns that the cunning one is eventually exposed by the seeker's relentless honest pressure; the pursuit becomes patient
+  integration_outcome: The knight adapts his urgency without losing his honesty; the persistent pressure of truthful pursuit eventually corners the cunning withdrawal; together they demonstrate that honest urgency, sustained long enough, catches even the most clever concealment
+  key_terms: knight learns that understanding how, knight adapts his urgency without, pursuit and the cunning teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, 8 of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-archetype_swords_2: The Bondage, The Imprisonment Of Mind, The Bound Thought, Captivity Accepted
-numerical_relation: 12 + 8 = 20; the seeker arrives where one is self-bound; the urgent pursuit discovers the mind's imprisonment
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_2: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+numerical_relation: 12 + 8 = 20 (XX Judgement; the seeker arrives where one is self-bound; the urgent pursuit discovers the mind's imprisonment)
 elemental_bridge: Air (freely moving mind) meets Air (imprisoned mind); the riding seeker and the captive thinker in stark contrast
 threshold_type: The moment when the free seeker arrives before the self-bound mind
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Freedom offered, blindness maintained, exit shown, captive unable to see the way
 
 dynamic_inhibition:
-  blockade: The knight's urgency makes him impatient with the prisoner's inability to simply step free
-  consequence: The figure leaves the imprisoned one behind in frustration, unable to understand why freedom offered is freedom refused
+  mechanism: The knight's urgency makes him impatient with the prisoner's inability to simply step free
+  blockade_nature: The knight's urgency makes him impatient with the prisoner's inability to simply step free
+  swords_state: The figure leaves the imprisoned one behind in frustration
+  consequence: unable to understand why freedom offered is freedom refused
+  key_terms: knight's urgency makes him impatient, figure leaves the imprisoned one, unable to understand why freedom
 
 dynamic_devolution:
-  corruption: The knight of swords forces the blindfold from the prisoner's eyes before the imprisoned mind is ready for what it sees
+  mechanism: The knight of swords forces the blindfold from the prisoner's eyes before the imprisoned mind is ready for what it sees
+  mode: The knight of swords forces the blindfold from the prisoner's eyes before the imprisoned mind is ready for what it sees
   loss: The figure is overwhelmed by forced sight; the revelation creates terror rather than liberation
+  key_terms: knight of swords forces, figure is overwhelmed by forced, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the bondage teach each other about freedom; the knight learns that sometimes showing the path is enough and the imprisoned one will take the step when ready; the figure learns that the seeker's arrival as witness to the prison is itself part of the liberation; the pursuit becomes presence
-  outcome: The knight stays long enough that the presence of his free movement becomes undeniable; the imprisoned mind begins to feel that freedom is possible; together they create the conditions where the prisoner takes the first step toward the exit the seeker has kept visible
+  mechanism: The pursuit and the bondage teach each other about freedom
+  function: the knight learns that sometimes showing the path is enough and the imprisoned one will take the step when ready; the figure learns that the seeker's arrival as witness to the prison is itself part of the liberation; the pursuit becomes presence
+  integration_outcome: The knight stays long enough that the presence of his free movement becomes undeniable; the imprisoned mind begins to feel that freedom is possible; together they create the conditions where the prisoner takes the first step toward the exit the seeker has kept visible
+  key_terms: knight learns that sometimes showing, knight stays long enough, pursuit and the bondage teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, 9 of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-archetype_swords_2: The Nightmare, The Mind Tortured, The Thought That Wounds, Anguish Internalized
-numerical_relation: 12 + 9 = 21; the seeker arrives in the hour of the nightmare; urgency meets the midnight of the mind
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_2: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+numerical_relation: 12 + 9 = 21 (XXI The World; the seeker arrives in the hour of the nightmare; urgency meets the midnight of the mind)
 elemental_bridge: Air (the forward-facing mind) meets Air (the mind turned against itself); the pursuing mind encounters the self-torturing one
 threshold_type: The moment when the urgent seeker arrives at the mind that has become its own tormentor
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Forward meeting backward, urgency meeting paralysis, seeker encountering midnight, clarity and anguish
 
 dynamic_inhibition:
-  blockade: The knight's prescription to simply ride forward is impossible for the one whose swords have turned inward
-  consequence: The figure feels judged by the seeker's urgency; the nightmare deepens because the advice given is impossible to follow
+  mechanism: The knight's prescription to simply ride forward is impossible for the one whose swords have turned inward
+  blockade_nature: The knight's prescription to simply ride forward is impossible for the one whose swords have turned inward
+  swords_state: The figure feels judged by the seeker's urgency
+  consequence: the nightmare deepens because the advice given is impossible to follow
+  key_terms: knight's prescription to simply ride, figure feels judged, nightmare deepens because the advice
 
 dynamic_devolution:
-  corruption: The knight of swords dismisses the nightmare as weakness and rides away from one genuinely suffering
+  mechanism: The knight of swords dismisses the nightmare as weakness and rides away from one genuinely suffering
+  mode: The knight of swords dismisses the nightmare as weakness and rides away from one genuinely suffering
   loss: The figure in anguish loses the one witness who might have helped; the seeker has shown that the quest is more important than the person
+  key_terms: knight of swords dismisses, figure in anguish loses, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the nightmare teach each other about the forms of mind; the knight learns that the forward thrust of the quest is the gift he offers to the midnight mind; the figure learns that the seeker's presence as embodied forward motion can slowly pull the nightmare toward morning; the pursuit becomes dawn
-  outcome: The knight stays and his urgency slowly brings the quality of morning into the midnight space; the nightmare loosens its grip in the presence of the moving, forward mind; together they demonstrate that active truth-seeking is the antidote to the mind that has turned its swords on itself
+  mechanism: The pursuit and the nightmare teach each other about the forms of mind
+  function: the knight learns that the forward thrust of the quest is the gift he offers to the midnight mind; the figure learns that the seeker's presence as embodied forward motion can slowly pull the nightmare toward morning; the pursuit becomes dawn
+  integration_outcome: The knight stays and his urgency slowly brings the quality of morning into the midnight space; the nightmare loosens its grip in the presence of the moving, forward mind; together they demonstrate that active truth-seeking is the antidote to the mind that has turned its swords on itself
+  key_terms: knight learns that the forward, knight stays and his urgency, pursuit and the nightmare teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, 10 of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-archetype_swords_2: The Devastation, The Mind Destroyed, The Thought Annihilated, Ruin Complete
-numerical_relation: 12 + 10 = 22; the seeker arrives at total ruin; the urgent pursuit reaches the end of everything
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_2: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+numerical_relation: 12 + 10 = 22 → 2+2=4 (IV The Emperor; the seeker arrives at total ruin; the urgent pursuit reaches the end of everything)
 elemental_bridge: Air (the living pursuit) meets Air (the annihilated thought); the riding mind arrives where the mind has been completely undone
 threshold_type: The moment when the charging seeker arrives at the edge of the abyss
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Urgency silenced, motion stopped, seeker before devastation, pursuit at its limit
 
 dynamic_inhibition:
-  blockade: The knight cannot use any of the tools of the quest at the place of total devastation
-  consequence: The figure stands helpless before ruin; the urgency that served every other encounter has nothing to offer here
+  mechanism: The knight cannot use any of the tools of the quest at the place of total devastation
+  blockade_nature: The knight cannot use any of the tools of the quest at the place of total devastation
+  swords_state: The figure stands helpless before ruin
+  consequence: the urgency that served every other encounter has nothing to offer here
+  key_terms: knight cannot use any, figure stands helpless before ruin, urgency that served every other
 
 dynamic_devolution:
-  corruption: The knight of swords cannot abide helplessness and charges away from the devastation without witnessing it
+  mechanism: The knight of swords cannot abide helplessness and charges away from the devastation without witnessing it
+  mode: The knight of swords cannot abide helplessness and charges away from the devastation without witnessing it
   loss: The figure loses the wisdom of having been at the absolute limit; the urgency has fled from what it needed to face
+  key_terms: knight of swords cannot abide, figure loses the wisdom, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the devastation teach each other about limits; the knight learns that the most honest act of the truth-seeker is to acknowledge what exceeds the quest's capacity; the figure learns that the seeker's living urgency is itself a sign of hope in the presence of annihilation; the pursuit becomes witness
-  outcome: The knight stays at the place of total devastation and witnesses it fully; the living urgency of the pursuit is the seed of the new that follows the ending; together they demonstrate that the annihilation of the ten of swords is not the end of truth but the end of one form of it, and the knight's presence marks the threshold of what comes after
+  mechanism: The pursuit and the devastation teach each other about limits
+  function: the knight learns that the most honest act of the truth-seeker is to acknowledge what exceeds the quest's capacity; the figure learns that the seeker's living urgency is itself a sign of hope in the presence of annihilation; the pursuit becomes witness
+  integration_outcome: The knight stays at the place of total devastation and witnesses it fully; the living urgency of the pursuit is the seed of the new that follows the ending; together they demonstrate that the annihilation of the ten of swords is not the end of truth but the end of one form of it, and the knight's presence marks the threshold of what comes after
+  key_terms: knight learns that the most, knight stays at the place, pursuit and the devastation teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, Page of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_swords_2: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-numerical_relation: 12 + 11 = 23; the seeker and the messenger meet; the pursuing mind and the announcing mind recognize each other
+numerical_relation: 12 + 11 = 23 → 2+3=5 (V The Pope; the seeker and the messenger meet; the pursuing mind and the announcing mind recognize each other)
 elemental_bridge: Air (truth in pursuit) meets Air (truth in announcement); two modes of truth in the same element
 threshold_type: The moment when the experienced seeker meets the young messenger
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Urgency outpacing announcement, seeker and messenger out of step, truth arriving and pursuing simultaneously
 
 dynamic_inhibition:
-  blockade: The knight's charge carries him past the page's news before it can be received
-  consequence: The figure pursues past what the young messenger carried; the urgency has outpaced the news that would have oriented the quest
+  mechanism: The knight's charge carries him past the page's news before it can be received
+  blockade_nature: The knight's charge carries him past the page's news before it can be received
+  swords_state: The figure pursues past what the young messenger carried
+  consequence: the urgency has outpaced the news that would have oriented the quest
+  key_terms: knight's charge carries him past, figure pursues past what, urgency has outpaced the news
 
 dynamic_devolution:
-  corruption: The knight of swords dismisses the page's fresh message as immature and unworthy of the pursuit
+  mechanism: The knight of swords dismisses the page's fresh message as immature and unworthy of the pursuit
+  mode: The knight of swords dismisses the page's fresh message as immature and unworthy of the pursuit
   loss: The figure loses the fresh truth the messenger carried by devaluing its youthful source
+  key_terms: knight of swords dismisses, figure loses the fresh truth, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the announcement teach each other about truth's transmission; the knight learns that the messenger's fresh truth can redirect the urgency of the quest toward what it could not have found by charging alone; the figure learns that the seeker's urgency gives the message both validation and direction; the encounter becomes mutual
-  outcome: The knight receives the page's news and the quest is reoriented by fresh truth; the messenger's tidings are given the direction of the seeker's urgency; together they demonstrate that experienced pursuit and fresh announcement are partners in the ongoing discovery of truth
+  mechanism: The pursuit and the announcement teach each other about truth's transmission
+  function: the knight learns that the messenger's fresh truth can redirect the urgency of the quest toward what it could not have found by charging alone; the figure learns that the seeker's urgency gives the message both validation and direction; the encounter becomes mutual
+  integration_outcome: The knight receives the page's news and the quest is reoriented by fresh truth; the messenger's tidings are given the direction of the seeker's urgency; together they demonstrate that experienced pursuit and fresh announcement are partners in the ongoing discovery of truth
+  key_terms: knight learns that the messenger's, knight receives the page's news, pursuit and the announcement teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, Knight of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_swords_2: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-numerical_relation: 12 + 12 = 24; the seeker meets himself; two urgencies of truth face each other in the same element
+numerical_relation: 12 + 12 = 24 → 2+4=6 (VI The Lovers; the seeker meets himself; two urgencies of truth face each other in the same element)
 elemental_bridge: Air meets Air; the same archetype in mirror; the pursuit reflecting on its own nature
 threshold_type: The moment when the truth-seeker encounters the truth of his own seeking
 
@@ -487,37 +564,44 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Two knights of swords face each other; each sees the other as obstacle to the truth each seeks; the meeting becomes a test of whose urgency is more justified
   tension_axis: Between two equally urgent pursuits that cannot occupy the same path simultaneously
-  knight_of_swords_position: "I seek the truth; you are in my way"
-  knight_of_swords_position_2: "I seek the truth; you are in mine"
+  swords_position_1: "I seek the truth; you are in my way"
+  swords_position_2: "I seek the truth; you are in mine"
   key_terms: Two urgencies clashing, pursuits in opposition, seekers blocking, truths competing
 
 dynamic_inhibition:
-  blockade: The two urgencies cancel each other; the meeting becomes an impasse in which neither truth is served
-  consequence: The two seekers fight for passage and neither reaches what each was pursuing; the encounter has consumed the energy of both quests
+  mechanism: The two urgencies cancel each other
+  blockade_nature: the meeting becomes an impasse in which neither truth is served
+  swords_state: The two seekers fight for passage and neither reaches what each was pursuing
+  consequence: the encounter has consumed the energy of both quests
+  key_terms: two urgencies cancel each other, meeting becomes an impasse, two seekers fight for passage, encounter has consumed the energy
 
 dynamic_devolution:
-  corruption: The knight of swords destroys the other seeker in order to clear the path
+  mechanism: The knight of swords destroys the other seeker in order to clear the path
+  mode: The knight of swords destroys the other seeker in order to clear the path
   loss: The figure loses the recognition that the other seeker was carrying a truth; the victory over the shadow-self creates a permanently diminished quest
+  key_terms: knight of swords destroys, figure loses the recognition, held tension
 
 dynamic_dependency:
-  integration: The two pursuits teach each other about the nature of truth-seeking itself; the knight learns that meeting his own urgency in another reveals what the pursuit looks like from outside; the figure learns that two seekers in the same element can either war or align; the mirror becomes teacher
-  outcome: The two knights pause and exchange what each has found on the roads from which they've come; the truths are shared rather than fought over; together they demonstrate that the seeker who can honor another urgency equal to his own has found the deepest quality of the truth-pursuit: it is not competitive but generative
+  mechanism: The two pursuits teach each other about the nature of truth-seeking itself
+  function: the knight learns that meeting his own urgency in another reveals what the pursuit looks like from outside; the figure learns that two seekers in the same element can either war or align; the mirror becomes teacher
+  integration_outcome: The two knights pause and exchange what each has found on the roads from which they've come; the truths are shared rather than fought over; together they demonstrate that the seeker who can honor another urgency equal to his own has found the deepest quality of the truth-pursuit: it is not competitive but generative
+  key_terms: knight learns that meeting his, two knights pause and exchange, two pursuits teach each other
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, Queen of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
-archetype_swords_2: The Queen, The Discerning Mind, The Clear Authority, Thought That Judges
-numerical_relation: 12 + 13 = 25; the seeker arrives before the throne of discernment; the urgent pursuit meets sovereign clarity
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_2: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+numerical_relation: 12 + 13 = 25 → 2+5=7 (VII The Chariot; the seeker arrives before the throne of discernment; the urgent pursuit meets sovereign clarity)
 elemental_bridge: Air (the urgency of the still-seeking) meets Air (the authority of the already-discerned); the rider before the one who has seen through all
 threshold_type: The moment when the urgent seeker stands before the mind that judges with absolute clarity
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Truth offered, discernment applied, urgency humbled, seeker corrected
 
 dynamic_inhibition:
-  blockade: The knight's urgency causes him to resist the queen's correction; the seeker cannot accept judgment of what he has ridden so far to find
-  consequence: The figure departs with the false certainty intact; the urgency has rejected the discernment that would have improved the quest
+  mechanism: The knight's urgency causes him to resist the queen's correction
+  blockade_nature: the seeker cannot accept judgment of what he has ridden so far to find
+  swords_state: The figure departs with the false certainty intact
+  consequence: the urgency has rejected the discernment that would have improved the quest
+  key_terms: knight's urgency causes him, seeker cannot accept judgment, figure departs with the false, urgency has rejected the discernment
 
 dynamic_devolution:
-  corruption: The knight of swords dismisses the queen's authority as intellectual coldness incompatible with the urgency of the quest
+  mechanism: The knight of swords dismisses the queen's authority as intellectual coldness incompatible with the urgency of the quest
+  mode: The knight of swords dismisses the queen's authority as intellectual coldness incompatible with the urgency of the quest
   loss: The figure loses the benefit of the most precise mind in the suit by framing her discernment as obstacle
+  key_terms: knight of swords dismisses, figure loses the benefit, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the discernment teach each other about truth's refinement; the knight learns that the queen's clarity makes the urgent truth more true rather than less; the figure learns that the seeker who can be examined and corrected is pursuing truth more honestly than one who cannot be touched; the pursuit becomes refined
-  outcome: The knight receives the queen's discernment with the openness of a genuine seeker; the truth is refined by the encounter; together they demonstrate that urgency and discernment are the twin forces that produce the clearest form of the truth the quest is after
+  mechanism: The pursuit and the discernment teach each other about truth's refinement
+  function: the knight learns that the queen's clarity makes the urgent truth more true rather than less; the figure learns that the seeker who can be examined and corrected is pursuing truth more honestly than one who cannot be touched; the pursuit becomes refined
+  integration_outcome: The knight receives the queen's discernment with the openness of a genuine seeker; the truth is refined by the encounter; together they demonstrate that urgency and discernment are the twin forces that produce the clearest form of the truth the quest is after
+  key_terms: knight learns that the queen's, knight receives the queen's discernment, pursuit and the discernment teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS
 
 ---
 
 card_pair: Knight of Swords, King of Swords
-archetype_swords: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+archetype_swords_1: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
 archetype_swords_2: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
-numerical_relation: 12 + 14 = 26; the seeker arrives before the throne of command; the urgency of pursuit meets the sovereignty of mastered mind
+numerical_relation: 12 + 14 = 26 → 2+6=8 (VIII Justice; the seeker arrives before the throne of command; the urgency of pursuit meets the sovereignty of mastered mind)
 elemental_bridge: Air (the still-seeking urgency) meets Air (the enthroned mastery); the rider before the one who has completed what the rider pursues
 threshold_type: The moment when the relentless seeker arrives before the one who has already found what the seeker chases
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Urgency before authority, seeking before being, seeker encountering completion, pursuit before sovereignty
 
 dynamic_inhibition:
-  blockade: The knight's urgency prevents him from receiving the king's wisdom because the seeker's charge is not yet mature enough for the throne's transmission
-  consequence: The figure receives words from the king but cannot yet absorb their depth; the urgency has not yet become the patience that the king's truth requires
+  mechanism: The knight's urgency prevents him from receiving the king's wisdom because the seeker's charge is not yet mature enough for the throne's transmission
+  blockade_nature: The knight's urgency prevents him from receiving the king's wisdom because the seeker's charge is not yet mature enough for the throne's transmission
+  swords_state: The figure receives words from the king but cannot yet absorb their depth
+  consequence: the urgency has not yet become the patience that the king's truth requires
+  key_terms: knight's urgency prevents him from, figure receives words from, urgency has not yet
 
 dynamic_devolution:
-  corruption: The knight of swords attempts to seize the king's throne rather than earn it through the full completion of the quest
+  mechanism: The knight of swords attempts to seize the king's throne rather than earn it through the full completion of the quest
+  mode: The knight of swords attempts to seize the king's throne rather than earn it through the full completion of the quest
   loss: The figure loses the legitimate path to sovereignty by trying to shortcut the urgency that must mature into mastery
+  key_terms: knight of swords attempts, figure loses the legitimate path, held tension
 
 dynamic_dependency:
-  integration: The pursuit and the sovereignty teach each other about maturation; the knight learns that the urgency he carries will eventually become the command the king embodies; the figure learns that the seeker's living charge gives the king's sovereign stillness its meaning; the pursuit becomes apprenticeship
-  outcome: The knight receives what he is ready to receive and carries the king's authority as seed in the urgency of continued pursuit; when the rider has ridden long enough, the urgency will have matured into the throne; together they demonstrate that the seeker and the sovereign are one truth at different stages of the same journey
+  mechanism: The pursuit and the sovereignty teach each other about maturation
+  function: the knight learns that the urgency he carries will eventually become the command the king embodies; the figure learns that the seeker's living charge gives the king's sovereign stillness its meaning; the pursuit becomes apprenticeship
+  integration_outcome: The knight receives what he is ready to receive and carries the king's authority as seed in the urgency of continued pursuit; when the rider has ridden long enough, the urgency will have matured into the throne; together they demonstrate that the seeker and the sovereign are one truth at different stages of the same journey
+  key_terms: knight learns that the urgency, knight receives what he, pursuit and the sovereignty teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: KOSS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: knight-1 through knight-14
+  uid: NOSS

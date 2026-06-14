@@ -1,7 +1,7 @@
 card_pair: 9 of Swords, Ace of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The First Offering, The Emotional Gift, The Heart's Awakening, Love Emerging
-numerical_relation: 9 + 1 = 10; the torment meets the emergence of emotion
+numerical_relation: 9 + 1 = 10 (X The Wheel of Fortune; the torment meets the emergence of emotion)
 elemental_bridge: Air (mental torment) meets Water (emotional opening); the nightmare consciousness resists the heart
 threshold_type: The moment when emotional offer arrives to the tormented mind
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Poisoned gift, feared emotion, love rejected through fear
 
 dynamic_inhibition:
-  blockade: The figure cannot open to the love; the blockade is the nightmare mind that has learned to distrust
-  consequence: The heart's offer is repeatedly rejected; the cup remains undrunk; the love flows past the tormented
+  mechanism: The figure cannot open to the love
+  blockade_nature: the blockade is the nightmare mind that has learned to distrust
+  swords_state: The heart's offer is repeatedly rejected
+  consequence: the cup remains undrunk; the love flows past the tormented
+  key_terms: figure cannot open, blockade is the nightmare mind, heart's offer is repeatedly rejected, cup remains undrunk
 
 dynamic_devolution:
-  corruption: The ace of cups becomes a vision of the heartbreak the figure believes awaits them; the love becomes a torture-prophecy of inevitable pain
+  mechanism: The ace of cups becomes a vision of the heartbreak the figure believes awaits them
+  mode: the love becomes a torture-prophecy of inevitable pain
   loss: The figure loses the capacity to believe in uncorrupted love; they internalize the nightmare as truth; emotional hope dies
+  key_terms: love becomes a torture-prophecy, figure loses the capacity, ace of cups
 
 dynamic_dependency:
-  integration: The torment and the love teach each other about fear; the nightmares are warnings about real vulnerability; but the love remains patient; when the figure learns to distinguish between real danger and catastrophic imagination, the cup can finally be received; the anguish becomes the teacher of what true opening requires
-  outcome: The ace of cups finally reaches the figure whose nightmare mind has become less loud; the reception becomes possible; the love is received with understanding earned through torment; the emotional opening becomes real
+  mechanism: The torment and the love teach each other about fear
+  function: the nightmares are warnings about real vulnerability; but the love remains patient; when the figure learns to distinguish between real danger and catastrophic imagination, the cup can finally be received; the anguish becomes the teacher of what true opening requires
+  integration_outcome: The ace of cups finally reaches the figure whose nightmare mind has become less loud; the reception becomes possible; the love is received with understanding earned through torment; the emotional opening becomes real
+  key_terms: nightmares are warnings about real, ace of cups finally reaches, torment and the love teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, 2 of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Lovers, The Beloved Union, The Mutual Pledge, Partnership Sealed
-numerical_relation: 9 + 2 = 11; the torment meets the union of two hearts
+numerical_relation: 9 + 2 = 11 (XI Strength; the torment meets the union of two hearts)
 elemental_bridge: Air (anxious isolation) meets Water (merging in love); the nightmare mind prevents union
 threshold_type: The moment when anxiety prevents the vulnerability necessary for partnership
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Defended against intimacy, vulnerability feared, love sabotaged
 
 dynamic_inhibition:
-  blockade: The figure cannot be vulnerable enough for partnership; the nightmares create distance as a protection
-  consequence: Relationships suffer; the beloved cannot reach the tormented; intimacy dies before it can form
+  mechanism: The figure cannot be vulnerable enough for partnership
+  blockade_nature: the nightmares create distance as a protection
+  swords_state: Relationships suffer
+  consequence: the beloved cannot reach the tormented; intimacy dies before it can form
+  key_terms: figure cannot be vulnerable enough, nightmares create distance, relationships suffer, beloved cannot reach the tormented
 
 dynamic_devolution:
-  corruption: The two of cups becomes a prophecy of relational failure; the figure imagines the union but believes it will shatter; partnership becomes a torture of inevitable loss
+  mechanism: The two of cups becomes a prophecy of relational failure
+  mode: the figure imagines the union but believes it will shatter; partnership becomes a torture of inevitable loss
   loss: The figure loses faith in their capacity to be in partnership; they internalize the torment as evidence of fundamental unlovability
+  key_terms: figure imagines the union, figure loses faith, two of cups
 
 dynamic_dependency:
-  integration: The torment teaches the value of vulnerability through its prevention; the figure learns through isolation what union means; when the nightmares quiet enough, the figure can approach the two of cups with understanding earned through loneliness; the anguish becomes the teacher of what true partnership requires
-  outcome: The two of cups finally receives the figure whose torment has clarified their need for connection; the partnership becomes possible; the vulnerability becomes real; the union becomes sacred precisely because it was feared
+  mechanism: The torment teaches the value of vulnerability through its prevention
+  function: the figure learns through isolation what union means; when the nightmares quiet enough, the figure can approach the two of cups with understanding earned through loneliness; the anguish becomes the teacher of what true partnership requires
+  integration_outcome: The two of cups finally receives the figure whose torment has clarified their need for connection; the partnership becomes possible; the vulnerability becomes real; the union becomes sacred precisely because it was feared
+  key_terms: figure learns through isolation what, two of cups finally receives, torment teaches the value
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, 3 of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Celebration, The Joyful Gathering, The Community Heart, Fellowship Expressed
-numerical_relation: 9 + 3 = 12; the torment meets communal joy
+numerical_relation: 9 + 3 = 12 (XII The Hanged Man; the torment meets communal joy)
 elemental_bridge: Air (isolated nightmares) meets Water (flowing connection); the nightmare mind isolates from celebration
 threshold_type: The moment when anxiety prevents participation in communal joy
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Isolated withdrawal, celebration impossible, joy abandoned
 
 dynamic_inhibition:
-  blockade: The figure cannot join the celebration; the anxiety prevents the presence community requires
-  consequence: The figure isolates; they watch others celebrate and withdraw; the nightmares about being excluded become self-fulfilling
+  mechanism: The figure cannot join the celebration
+  blockade_nature: the anxiety prevents the presence community requires
+  swords_state: The figure isolates
+  consequence: they watch others celebrate and withdraw; the nightmares about being excluded become self-fulfilling
+  key_terms: figure cannot join the celebration, anxiety prevents the presence community, figure isolates, they watch others celebrate
 
 dynamic_devolution:
-  corruption: The three of cups becomes evidence of a joy the tormented cannot have; the figure imagines joining but anxiety prevents approach; celebration becomes a torture of exclusion
+  mechanism: The three of cups becomes evidence of a joy the tormented cannot have
+  mode: the figure imagines joining but anxiety prevents approach; celebration becomes a torture of exclusion
   loss: The figure loses faith in their capacity to experience joy; they internalize the nightmare as evidence of permanent exclusion from happiness
+  key_terms: figure imagines joining but anxiety, figure loses faith, three of cups becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches the value of celebration through its prevention; the figure, isolated by anxiety, understands with clarity what joy means; when the nightmares release enough, the figure can approach the three of cups with understanding earned through isolation; the anguish becomes the teacher of what true celebration requires
-  outcome: The three of cups welcomes the figure whose anxiety has clarified their hunger for connection; the celebration becomes possible; the joy becomes real; the community receives them precisely because they understand the cost of isolation
+  mechanism: The torment teaches the value of celebration through its prevention
+  function: the figure, isolated by anxiety, understands with clarity what joy means; when the nightmares release enough, the figure can approach the three of cups with understanding earned through isolation; the anguish becomes the teacher of what true celebration requires
+  integration_outcome: The three of cups welcomes the figure whose anxiety has clarified their hunger for connection; the celebration becomes possible; the joy becomes real; the community receives them precisely because they understand the cost of isolation
+  key_terms: three of cups welcomes, torment teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, 4 of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Apathetic, The Emotionally Withdrawn, The Love Refused, Numbness Chosen
-numerical_relation: 9 + 4 = 13; the torment meets chosen numbness
+numerical_relation: 9 + 4 = 13 (XIII Death; the torment meets chosen numbness)
 elemental_bridge: Air (forced anxiety) meets Water (chosen withdrawal); both retreat from feeling but for different reasons
 threshold_type: The moment when nightmares drive internal numbness
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Forced versus chosen numbness, survival strategy, emotional deadening
 
 dynamic_inhibition:
-  blockade: The figure becomes trapped in apathy; the nightmares have driven them to emotional closure
-  consequence: The figure loses touch with genuine feeling; the numbness spreads; emotional life dies
+  mechanism: The figure becomes trapped in apathy
+  blockade_nature: the nightmares have driven them to emotional closure
+  swords_state: The figure loses touch with genuine feeling
+  consequence: the numbness spreads; emotional life dies
+  key_terms: figure becomes trapped in apathy, nightmares have driven them, figure loses touch with genuine, numbness spreads
 
 dynamic_devolution:
-  corruption: The four of cups becomes a vision of the permanent future; the figure imagines remaining numb forever; apathy becomes identity
+  mechanism: The four of cups becomes a vision of the permanent future
+  mode: the figure imagines remaining numb forever; apathy becomes identity
   loss: The figure loses the capacity to feel anything, including the desire to heal; emotional death seems preferable to the torment
+  key_terms: figure imagines remaining numb forever, figure loses the capacity, four of cups
 
 dynamic_dependency:
-  integration: The torment teaches that numbness is temporary mercy, not permanent solution; the figure learns through deadening that some feeling, even pain, is preferable to complete emotional death; when the nightmares release, the figure can begin to feel again; the anguish becomes the teacher of what emotional life truly requires
-  outcome: The four of cups teaches the figure that withdrawal has a cost; feeling returns; the nightmares become less loud; the emotional capacity is restored
+  mechanism: The torment teaches that numbness is temporary mercy, not permanent solution
+  function: the figure learns through deadening that some feeling, even pain, is preferable to complete emotional death; when the nightmares release, the figure can begin to feel again; the anguish becomes the teacher of what emotional life truly requires
+  integration_outcome: The four of cups teaches the figure that withdrawal has a cost; feeling returns; the nightmares become less loud; the emotional capacity is restored
+  key_terms: figure learns through deadening, four of cups teaches, torment teaches that numbness
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, 5 of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Mourner, The Grieving One, The Loss Witnessed, Sorrow Expressed
-numerical_relation: 9 + 5 = 14; the torment meets profound emotional loss
+numerical_relation: 9 + 5 = 14 (XIV Temperance; the torment meets profound emotional loss)
 elemental_bridge: Air (anxious catastrophizing) meets Water (authentic grief); nightmares about loss meet real sorrow
 threshold_type: The moment when the tormented mind's fears become manifest as loss
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Anticipated grief, prophetic anxiety, suffering doubled
 
 dynamic_inhibition:
-  blockade: The figure cannot distinguish between real loss and anticipated loss; both feel equally real
-  consequence: The figure lives in perpetual mourning; the grief for anticipated losses prevents them from accepting actual losses
+  mechanism: The figure cannot distinguish between real loss and anticipated loss
+  blockade_nature: both feel equally real
+  swords_state: The figure lives in perpetual mourning
+  consequence: the grief for anticipated losses prevents them from accepting actual losses
+  key_terms: figure cannot distinguish between real, both feel equally real, figure lives in perpetual mourning, grief for anticipated losses prevents
 
 dynamic_devolution:
-  corruption: The five of cups becomes evidence that the nightmares are accurate; the figure believes their anxiety is prophecy; the loss becomes destiny
+  mechanism: The five of cups becomes evidence that the nightmares are accurate
+  mode: the figure believes their anxiety is prophecy; the loss becomes destiny
   loss: The figure loses the capacity to distinguish between reality and fear; they begin to believe all their catastrophic imaginings are inevitable
+  key_terms: figure believes their anxiety, figure loses the capacity, five of cups becomes evidence
 
 dynamic_dependency:
-  integration: The torment and the grief teach each other; the anxiety learns that some loss is inevitable while some is only imagined; the grief becomes grounded in reality rather than catastrophic fantasy; the figure learns to distinguish between helpful caution and destructive worry; the anguish becomes the teacher of what genuine mourning requires
-  outcome: The five of cups teaches the figure to grieve what is actually lost while releasing what is only feared; the nightmares become less loud because they have been tested against reality; the capacity to distinguish real from imagined loss becomes freedom
+  mechanism: The torment and the grief teach each other
+  function: the anxiety learns that some loss is inevitable while some is only imagined; the grief becomes grounded in reality rather than catastrophic fantasy; the figure learns to distinguish between helpful caution and destructive worry; the anguish becomes the teacher of what genuine mourning requires
+  integration_outcome: The five of cups teaches the figure to grieve what is actually lost while releasing what is only feared; the nightmares become less loud because they have been tested against reality; the capacity to distinguish real from imagined loss becomes freedom
+  key_terms: anxiety learns that some loss, five of cups teaches, torment and the grief teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, 6 of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Innocent Gift, The Childhood Memory, The Pure Exchange, Innocence Remembered
-numerical_relation: 9 + 6 = 15; the torment meets the redemption of innocence
+numerical_relation: 9 + 6 = 15 (XV The Devil; the torment meets the redemption of innocence)
 elemental_bridge: Air (corrupted thought) meets Water (pure emotion); nightmares corrupt innocence
 threshold_type: The moment when anxiety prevents the figure from accessing their own innocence
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Memory poisoned, innocence denied, past corrupted, purity rejected
 
 dynamic_inhibition:
-  blockade: The figure cannot access their own innocent memories; the nightmares stand between them and their past
-  consequence: The figure loses connection to who they were before the torment; the past becomes inaccessible
+  mechanism: The figure cannot access their own innocent memories
+  blockade_nature: the nightmares stand between them and their past
+  swords_state: The figure loses connection to who they were before the torment
+  consequence: the past becomes inaccessible
+  key_terms: figure cannot access their own, nightmares stand between them, figure loses connection, past becomes inaccessible
 
 dynamic_devolution:
-  corruption: The six of cups becomes evidence that innocence was always false; the figure reinterprets their past through the lens of anxiety; childhood becomes tainted in retrospect
+  mechanism: The six of cups becomes evidence that innocence was always false
+  mode: the figure reinterprets their past through the lens of anxiety; childhood becomes tainted in retrospect
   loss: The figure loses the foundation that innocent memory could provide; they have nowhere to stand but in the present torment
+  key_terms: figure reinterprets their past through, figure loses the foundation, six of cups becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches that innocence was real even if the mind now poisons it; the figure learns through the struggle to remember that their past self was genuine; when the nightmares quiet, the memories can be reclaimed; the anguish becomes the teacher of what innocence truly was
-  outcome: The six of cups can finally return the figure's innocent self to them; the past is reclaimed; the memory becomes pure again; the childhood self is welcomed back; the torment becomes the teacher of what was lost and can be recovered
+  mechanism: The torment teaches that innocence was real even if the mind now poisons it
+  function: the figure learns through the struggle to remember that their past self was genuine; when the nightmares quiet, the memories can be reclaimed; the anguish becomes the teacher of what innocence truly was
+  integration_outcome: The six of cups can finally return the figure's innocent self to them; the past is reclaimed; the memory becomes pure again; the childhood self is welcomed back; the torment becomes the teacher of what was lost and can be recovered
+  key_terms: figure learns through the struggle, six of cups can finally, torment teaches that innocence
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, 7 of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Dreamer, The Illusions Offered, The Fantasy Multiplied, Desire Ungrounded
-numerical_relation: 9 + 7 = 16; the torment meets the seven illusions
+numerical_relation: 9 + 7 = 16 (XVI The Tower; the torment meets the seven illusions)
 elemental_bridge: Air (nightmares of reality) meets Water (beautiful fantasies); two forms of escape, one dark and one seductive
 threshold_type: The moment when the tormented must choose between nightmares and fantasies
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Chosen versus forced escape, nightmare reality, seductive fantasy
 
 dynamic_inhibition:
-  blockade: The figure becomes trapped oscillating between two forms of unreality; they cannot access genuine presence
-  consequence: The figure loses touch with the actual moment; they live in either nightmare or fantasy; reality becomes inaccessible
+  mechanism: The figure becomes trapped oscillating between two forms of unreality
+  blockade_nature: they cannot access genuine presence
+  swords_state: The figure loses touch with the actual moment
+  consequence: they live in either nightmare or fantasy; reality becomes inaccessible
+  key_terms: figure becomes trapped oscillating between, they cannot access genuine presence, figure loses touch, they live in either nightmare
 
 dynamic_devolution:
-  corruption: The nightmares and fantasies merge; the figure begins to confuse what is feared with what is desired; catastrophe and wish become indistinguishable
+  mechanism: The nightmares and fantasies merge
+  mode: the figure begins to confuse what is feared with what is desired; catastrophe and wish become indistinguishable
   loss: The figure loses the capacity to distinguish reality from imagination in either direction; they become untethered from actual experience
+  key_terms: figure begins to confuse what, figure loses the capacity, nightmares and fantasies merge
 
 dynamic_dependency:
-  integration: The torment and the fantasy teach each other about escape; the figure learns that both nightmares and fantasies are ways of leaving the present; when the nightmares quiet and the fantasies fade, the actual moment becomes available; the anguish becomes the teacher of what presence truly requires
-  outcome: The figure learns to choose presence over both nightmare and fantasy; the torment becomes less loud because it is no longer being fed by imaginative catastrophe; the escape into fantasy becomes less seductive because presence becomes possible; the constraint becomes the gateway to reality
+  mechanism: The torment and the fantasy teach each other about escape
+  function: the figure learns that both nightmares and fantasies are ways of leaving the present; when the nightmares quiet and the fantasies fade, the actual moment becomes available; the anguish becomes the teacher of what presence truly requires
+  integration_outcome: The figure learns to choose presence over both nightmare and fantasy; the torment becomes less loud because it is no longer being fed by imaginative catastrophe; the escape into fantasy becomes less seductive because presence becomes possible; the constraint becomes the gateway to reality
+  key_terms: figure learns that both nightmares, figure learns to choose presence, torment and the fantasy teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, 8 of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Abandoner, The Walker-Away, The Chosen Departure, Emotional Rejection
-numerical_relation: 9 + 8 = 16; the torment meets the choice to leave
+numerical_relation: 9 + 8 = 17 (XVII The Star; the torment meets the choice to leave)
 elemental_bridge: Air (nightmares of staying) meets Water (departure from emotion); two forms of leaving, one internal and one external
 threshold_type: The moment when the tormented consider abandonment as escape
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Conscious versus panicked leaving, chosen versus forced departure
 
 dynamic_inhibition:
-  blockade: The figure cannot leave consciously; the nightmares drive the abandonment
-  consequence: The figure runs from torment only to carry it with them; the abandonment becomes a repetition rather than a transformation
+  mechanism: The figure cannot leave consciously
+  blockade_nature: the nightmares drive the abandonment
+  swords_state: The figure runs from torment only to carry it with them
+  consequence: the abandonment becomes a repetition rather than a transformation
+  key_terms: figure cannot leave consciously, nightmares drive the abandonment, figure runs from torment only, abandonment becomes a repetition rather
 
 dynamic_devolution:
-  corruption: The eight of cups becomes a prophecy of repeated abandonment; the figure imagines leaving but carrying the nightmares with them; the pattern becomes a curse
+  mechanism: The eight of cups becomes a prophecy of repeated abandonment
+  mode: the figure imagines leaving but carrying the nightmares with them; the pattern becomes a curse
   loss: The figure loses the capacity to stay anywhere; they believe abandonment is their only option; the world becomes a series of situations to escape from
+  key_terms: figure imagines leaving but carrying, figure loses the capacity, eight of cups
 
 dynamic_dependency:
-  integration: The torment and the departure teach that running does not heal; the figure learns through the attempt to leave that the nightmares come along; true healing is staying and transforming, not abandoning and fleeing; the anguish becomes the teacher of what conscious choice means
-  outcome: The figure stops running long enough to face the torment; the nightmares begin to quiet because they are no longer being fed by flight; the eight of cups eventually becomes a conscious choice from healing rather than an escape from torment
+  mechanism: The torment and the departure teach that running does not heal
+  function: the figure learns through the attempt to leave that the nightmares come along; true healing is staying and transforming, not abandoning and fleeing; the anguish becomes the teacher of what conscious choice means
+  integration_outcome: The figure stops running long enough to face the torment; the nightmares begin to quiet because they are no longer being fed by flight; the eight of cups eventually becomes a conscious choice from healing rather than an escape from torment
+  key_terms: figure learns through the attempt, figure stops running long enough, torment and the departure teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, 9 of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Fulfilled Wish, The Contentment Achieved, The Heart's Desire Met, Satisfaction Complete
-numerical_relation: 9 + 9 = 18; the torment meets the fullness of emotional satisfaction
+numerical_relation: 9 + 9 = 18 (XVIII The Moon; the torment meets the fullness of emotional satisfaction)
 elemental_bridge: Air (nightmares of never) meets Water (realization of wish); the tormented cannot imagine satisfaction
 threshold_type: The moment when anxiety prevents the belief in emotional fulfillment
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Distrusted happiness, impossible satisfaction, contentment denied, joy impossible
 
 dynamic_inhibition:
-  blockade: The figure cannot feel satisfied even if their wishes are fulfilled; the nightmares poison the satisfaction
-  consequence: The figure accomplishes their desires but cannot enjoy them; the satisfaction slips away as quickly as it arrives
+  mechanism: The figure cannot feel satisfied even if their wishes are fulfilled
+  blockade_nature: the nightmares poison the satisfaction
+  swords_state: The figure accomplishes their desires but cannot enjoy them
+  consequence: the satisfaction slips away as quickly as it arrives
+  key_terms: figure cannot feel satisfied even, nightmares poison the satisfaction, figure accomplishes their desires, satisfaction slips away as quickly
 
 dynamic_devolution:
-  corruption: The nine of cups becomes evidence of temporary delusion; the figure imagines achieving satisfaction but knows the disaster approaches; the wish becomes a torture of temporary relief
+  mechanism: The nine of cups becomes evidence of temporary delusion
+  mode: the figure imagines achieving satisfaction but knows the disaster approaches; the wish becomes a torture of temporary relief
   loss: The figure loses the capacity to believe in lasting happiness; they internalize the torment as evidence that satisfaction is fundamentally impossible
+  key_terms: figure imagines achieving satisfaction, figure loses the capacity, nine of cups becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches what satisfaction means through its prevention; the figure, unable to feel satisfied, understands with clarity what contentment requires; when the nightmares quiet enough, the figure can approach the nine of cups with understanding earned through perpetual dissatisfaction; the anguish becomes the teacher of what true satisfaction requires
-  outcome: The nine of cups can finally be felt by the figure whose anxiety has quieted; the satisfaction becomes possible; the contentment becomes real; the wish is genuinely fulfilled; the torment becomes the teacher of what true joy requires
+  mechanism: The torment teaches what satisfaction means through its prevention
+  function: the figure, unable to feel satisfied, understands with clarity what contentment requires; when the nightmares quiet enough, the figure can approach the nine of cups with understanding earned through perpetual dissatisfaction; the anguish becomes the teacher of what true satisfaction requires
+  integration_outcome: The nine of cups can finally be felt by the figure whose anxiety has quieted; the satisfaction becomes possible; the contentment becomes real; the wish is genuinely fulfilled; the torment becomes the teacher of what true joy requires
+  key_terms: nine of cups can finally, torment teaches what satisfaction means, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, 10 of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Family Blessed, The Emotional Lineage, The Loving Community Secure, Belonging Complete
-numerical_relation: 9 + 10 = 19; the torment meets the fullness of belonging
+numerical_relation: 9 + 10 = 19 (XIX The Sun; the torment meets the fullness of belonging)
 elemental_bridge: Air (anxious isolation) meets Water (belonging in family); the nightmares prevent participation in family
 threshold_type: The moment when anxiety prevents the figure from accepting family belonging
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Self-imposed exile, contamination feared, belonging denied, family rejected
 
 dynamic_inhibition:
-  blockade: The figure cannot accept family belonging; the nightmares convince them that separation is an act of love
-  consequence: The figure isolates from family; the bonds weaken; the very thing the figure feared—loss of family—becomes self-fulfilling
+  mechanism: The figure cannot accept family belonging
+  blockade_nature: the nightmares convince them that separation is an act of love
+  swords_state: The figure isolates from family
+  consequence: the bonds weaken; the very thing the figure feared—loss of family—becomes self-fulfilling
+  key_terms: figure cannot accept family belonging, nightmares convince them that separation, figure isolates from family, bonds weaken
 
 dynamic_devolution:
-  corruption: The ten of cups becomes a vision of family that will be destroyed if the figure remains; the family becomes the reason for isolation; love becomes justification for abandonment
+  mechanism: The ten of cups becomes a vision of family that will be destroyed if the figure remains
+  mode: the family becomes the reason for isolation; love becomes justification for abandonment
   loss: The figure loses the belief that they could ever belong to family; they internalize the torment as evidence of fundamental incompatibility with belonging
+  key_terms: family becomes the reason for, figure loses the belief, ten of cups
 
 dynamic_dependency:
-  integration: The torment teaches that isolation does not protect the family; it harms it; the figure learns through the pain of separation that belonging is stronger than anxiety; when the nightmares quiet enough, the figure can return to the ten of cups with understanding earned through exile; the anguish becomes the teacher of what true family love requires
-  outcome: The family welcomes the figure back whose anxiety has clarified their need for belonging; the return becomes possible; the bond is renewed; the family is not destroyed by the figure's pain but healed by their return; the torment becomes the teacher of what true family means
+  mechanism: The torment teaches that isolation does not protect the family
+  function: it harms it; the figure learns through the pain of separation that belonging is stronger than anxiety; when the nightmares quiet enough, the figure can return to the ten of cups with understanding earned through exile; the anguish becomes the teacher of what true family love requires
+  integration_outcome: The family welcomes the figure back whose anxiety has clarified their need for belonging; the return becomes possible; the bond is renewed; the family is not destroyed by the figure's pain but healed by their return; the torment becomes the teacher of what true family means
+  key_terms: it harms it, family welcomes the figure back, torment teaches that isolation does
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, Page of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Messenger, The Emotional Invitation, The Heart's Offer, Feeling Approaching
-numerical_relation: 9 + 11 = 20; the torment meets the approach of emotion
+numerical_relation: 9 + 11 = 20 (XX Judgement; the torment meets the approach of emotion)
 elemental_bridge: Air (resistant nightmares) meets Water (emotional approach); the nightmare mind resists the heart's message
 threshold_type: The moment when emotional invitation arrives to the tormented
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Distrusted emotion, rejected invitation, message intercepted, feeling feared
 
 dynamic_inhibition:
-  blockade: The figure cannot receive the emotional message; the nightmares prevent even the possibility of trust
-  consequence: The page arrives repeatedly but is turned away; emotional communication never lands
+  mechanism: The figure cannot receive the emotional message
+  blockade_nature: the nightmares prevent even the possibility of trust
+  swords_state: The page arrives repeatedly but is turned away
+  consequence: emotional communication never lands
+  key_terms: figure cannot receive the emotional, nightmares prevent even the possibility, page arrives repeatedly, emotional communication never lands
 
 dynamic_devolution:
-  corruption: The page of cups becomes evidence of danger; the figure imagines what the emotional approach might lead to and recoils; the heart's message becomes a threat
+  mechanism: The page of cups becomes evidence of danger
+  mode: the figure imagines what the emotional approach might lead to and recoils; the heart's message becomes a threat
   loss: The figure loses the capacity to trust emotional approach; they believe all feeling is dangerous; emotional connection becomes impossible
+  key_terms: figure imagines what the emotional, figure loses the capacity, page of cups becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches that not all emotional approach is dangerous; the figure learns through sustained rejection that some invitations are genuine; when the nightmares quiet enough to allow one message through, the figure can begin to receive; the anguish becomes the teacher of what emotional trust truly requires
-  outcome: The page of cups finally reaches the figure whose anxiety has quieted enough to listen; the message lands; the emotional invitation is received; the figure opens to feeling; the torment becomes the teacher of what genuine connection requires
+  mechanism: The torment teaches that not all emotional approach is dangerous
+  function: the figure learns through sustained rejection that some invitations are genuine; when the nightmares quiet enough to allow one message through, the figure can begin to receive; the anguish becomes the teacher of what emotional trust truly requires
+  integration_outcome: The page of cups finally reaches the figure whose anxiety has quieted enough to listen; the message lands; the emotional invitation is received; the figure opens to feeling; the torment becomes the teacher of what genuine connection requires
+  key_terms: figure learns through sustained rejection, page of cups finally reaches, torment teaches that not all
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, Knight of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Devoted Lover, The Romantic Quest, The Emotional Warrior, Passion Embodied
-numerical_relation: 9 + 12 = 21; the torment meets the quest of love
+numerical_relation: 9 + 12 = 21 (XXI The World; the torment meets the quest of love)
 elemental_bridge: Air (nightmares of unworthiness) meets Water (passionate pursuit); the tormented doubt they deserve love
 threshold_type: The moment when anxiety prevents the figure from accepting passionate pursuit
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Rejected devotion, unworthiness feared, love poisoned, romantic quest denied
 
 dynamic_inhibition:
-  blockade: The figure cannot receive the knight's love; the nightmares prevent trust in the beloved's perception
-  consequence: The beloved becomes frustrated; the figure's rejection of the pursuit becomes self-fulfilling prophecy
+  mechanism: The figure cannot receive the knight's love
+  blockade_nature: the nightmares prevent trust in the beloved's perception
+  swords_state: The beloved becomes frustrated
+  consequence: the figure's rejection of the pursuit becomes self-fulfilling prophecy
+  key_terms: figure cannot receive the knight's, nightmares prevent trust, beloved becomes frustrated, figure's rejection of the pursuit
 
 dynamic_devolution:
-  corruption: The knight of cups becomes evidence of impending betrayal; the figure imagines the moment the beloved realizes their mistake; the love becomes a torture of inevitable disappointment
+  mechanism: The knight of cups becomes evidence of impending betrayal
+  mode: the figure imagines the moment the beloved realizes their mistake; the love becomes a torture of inevitable disappointment
   loss: The figure loses the capacity to believe they could be loved; they internalize the torment as evidence of fundamental unlovability
+  key_terms: figure imagines the moment, figure loses the capacity, knight of cups becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches that some unworthiness is imagined rather than real; the figure learns through the sustained pursuit of someone who sees through the nightmares that they might actually be worthy; when the nightmares quiet enough to allow trust, the beloved's devotion can finally be received; the anguish becomes the teacher of what true love-worthiness means
-  outcome: The knight of cups finally reaches the figure whose anxiety has quieted enough to accept the pursuit; the love becomes possible; the devotion is received; the figure begins to believe they might be worthy; the torment becomes the teacher of what genuine love requires
+  mechanism: The torment teaches that some unworthiness is imagined rather than real
+  function: the figure learns through the sustained pursuit of someone who sees through the nightmares that they might actually be worthy; when the nightmares quiet enough to allow trust, the beloved's devotion can finally be received; the anguish becomes the teacher of what true love-worthiness means
+  integration_outcome: The knight of cups finally reaches the figure whose anxiety has quieted enough to accept the pursuit; the love becomes possible; the devotion is received; the figure begins to believe they might be worthy; the torment becomes the teacher of what genuine love requires
+  key_terms: figure learns through the sustained, knight of cups finally reaches, torment teaches that some unworthiness
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, Queen of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Loving Mother, The Emotional Sustenance, The Heart's Comfort, Care Unconditional
-numerical_relation: 9 + 13 = 22; the torment meets the fullness of nurturing love
+numerical_relation: 9 + 13 = 22 → 2+2=4 (IV The Emperor; the torment meets the fullness of nurturing love)
 elemental_bridge: Air (nightmares of rejection) meets Water (unconditional love); the tormented doubt they are worthy of maternal care
 threshold_type: The moment when anxiety prevents the reception of unconditional love
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Rejected care, conditional fear, unworthiness assumed, maternal love denied
 
 dynamic_inhibition:
-  blockade: The figure cannot receive the queen's love; the nightmares prevent the openness love requires
-  consequence: The figure remains untouched by care; the love flows past them; the maternal comfort is inaccessible
+  mechanism: The figure cannot receive the queen's love
+  blockade_nature: the nightmares prevent the openness love requires
+  swords_state: The figure remains untouched by care
+  consequence: the love flows past them; the maternal comfort is inaccessible
+  key_terms: figure cannot receive the queen's, nightmares prevent the openness love, figure remains untouched by care, love flows past them
 
 dynamic_devolution:
-  corruption: The queen of cups becomes evidence of impossible love; the figure imagines being held but believes the embrace will be withdrawn; the comfort becomes torture because it is so desperately needed and so deeply distrusted
+  mechanism: The queen of cups becomes evidence of impossible love
+  mode: the figure imagines being held but believes the embrace will be withdrawn; the comfort becomes torture because it is so desperately needed and so deeply distrusted
   loss: The figure loses the capacity to receive care; they internalize the torment as evidence of fundamental unworthiness for maternal love
+  key_terms: figure imagines being held, figure loses the capacity, queen of cups becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches what unconditional love means through its denial; the figure, starved for maternal care, understands with clarity what love could mean; when the nightmares quiet enough to allow one moment of trust, the queen's love can finally be received; the anguish becomes the teacher of what true care requires
-  outcome: The queen of cups can finally hold the figure whose anxiety has quieted enough to be held; the love becomes possible; the care becomes real; the comfort is received; the torment becomes the teacher of what genuine maternal love truly is
+  mechanism: The torment teaches what unconditional love means through its denial
+  function: the figure, starved for maternal care, understands with clarity what love could mean; when the nightmares quiet enough to allow one moment of trust, the queen's love can finally be received; the anguish becomes the teacher of what true care requires
+  integration_outcome: The queen of cups can finally hold the figure whose anxiety has quieted enough to be held; the love becomes possible; the care becomes real; the comfort is received; the torment becomes the teacher of what genuine maternal love truly is
+  key_terms: queen of cups can finally, torment teaches what unconditional love, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC
 
 ---
 
 card_pair: 9 of Swords, King of Cups
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_cups: The Emotional Master, The Heart Balanced, The Compassionate Authority, Feeling Mastered
-numerical_relation: 9 + 14 = 23; the torment meets the mastery of emotional truth
+numerical_relation: 9 + 14 = 23 → 2+3=5 (V The Pope; the torment meets the mastery of emotional truth)
 elemental_bridge: Air (nightmares of chaos) meets Water (emotional mastery); the tormented cannot govern their own heart
 threshold_type: The moment when anxiety prevents the emotional authority necessary for inner peace
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Emotional slavery, mastery impossible, inner chaos, authority lost
 
 dynamic_inhibition:
-  blockade: The figure cannot achieve emotional mastery; the nightmares prevent any inner authority
-  consequence: The figure remains enslaved to their own emotional chaos; the nightmares rule; peace seems impossible
+  mechanism: The figure cannot achieve emotional mastery
+  blockade_nature: the nightmares prevent any inner authority
+  swords_state: The figure remains enslaved to their own emotional chaos
+  consequence: the nightmares rule; peace seems impossible
+  key_terms: figure cannot achieve emotional mastery, nightmares prevent any inner authority, figure remains enslaved, nightmares rule
 
 dynamic_devolution:
-  corruption: The king of cups becomes a vision of impossible peace; the figure imagines mastering their emotions but knows the nightmares will always return; emotional authority becomes a cruel prophecy of permanent chaos
+  mechanism: The king of cups becomes a vision of impossible peace
+  mode: the figure imagines mastering their emotions but knows the nightmares will always return; emotional authority becomes a cruel prophecy of permanent chaos
   loss: The figure loses faith in their capacity to ever be emotionally free; they internalize the torment as evidence of fundamental inability to govern themselves
+  key_terms: figure imagines mastering their emotions, figure loses faith, king of cups
 
 dynamic_dependency:
-  integration: The torment teaches what emotional mastery truly means through its absence; the figure learns through chaos what balance might look like; when the nightmares quiet enough to allow some inner authority, the figure can approach the king of cups with understanding earned through emotional slavery; the anguish becomes the teacher of what genuine emotional mastery requires
-  outcome: The king of cups can finally recognize the figure whose nightmares have quieted; the mastery becomes possible; the emotional authority returns; the inner peace becomes real; the torment becomes the teacher of what true emotional freedom requires
+  mechanism: The torment teaches what emotional mastery truly means through its absence
+  function: the figure learns through chaos what balance might look like; when the nightmares quiet enough to allow some inner authority, the figure can approach the king of cups with understanding earned through emotional slavery; the anguish becomes the teacher of what genuine emotional mastery requires
+  integration_outcome: The king of cups can finally recognize the figure whose nightmares have quieted; the mastery becomes possible; the emotional authority returns; the inner peace becomes real; the torment becomes the teacher of what true emotional freedom requires
+  key_terms: figure learns through chaos what, king of cups can finally, torment teaches what emotional mastery
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: NOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSC

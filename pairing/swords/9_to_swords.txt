@@ -1,7 +1,7 @@
 card_pair: 9 of Swords, Ace of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Truth Revealed, The Clarity Struck, The Sword of Light, Illumination Sharp
-numerical_relation: 9 + 1 = 10; the torment meets the arrival of truth
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 9 + 1 = 10 (X The Wheel of Fortune; the torment meets the arrival of truth)
 elemental_bridge: Air (nightmares) meets Air (clarity); two forms of thought, one dark and one light
 threshold_type: The moment when truth arrives to the tormented mind
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Resisted truth, certain delusion, clarity feared, nightmares defended
 
 dynamic_inhibition:
-  blockade: The figure cannot accept the truth even as it is revealed; the blockade is the investment in the nightmares
-  consequence: The clarity is rejected; the sword is resisted; the truth cannot land
+  mechanism: The figure cannot accept the truth even as it is revealed
+  blockade_nature: the blockade is the investment in the nightmares
+  swords_state: The clarity is rejected
+  consequence: the sword is resisted; the truth cannot land
+  key_terms: figure cannot accept the truth, blockade is the investment, clarity is rejected, sword is resisted
 
 dynamic_devolution:
-  corruption: The ace of swords becomes a threat; the figure experiences the clarity as an attack on their established nightmare-truth; the light becomes painful
+  mechanism: The ace of swords becomes a threat
+  mode: the figure experiences the clarity as an attack on their established nightmare-truth; the light becomes painful
   loss: The figure doubles down on the nightmares because the alternative is admitting they have been tormented by delusion
+  key_terms: figure experiences the clarity, figure doubles down on, ace of swords
 
 dynamic_dependency:
-  integration: The truth and the nightmares teach each other about consciousness; the figure learns through resistance that the nightmares have been defended; when the figure opens to questioning their own assumptions, the sword can begin its work; the anguish becomes the teacher of what genuine truth requires
-  outcome: The ace of swords can finally cut through the figure's nightmares; the clarity dissolves the assumed certainties; the truth liberates because the lies have been exposed; the torment becomes the container that held the false beliefs
+  mechanism: The truth and the nightmares teach each other about consciousness
+  function: the figure learns through resistance that the nightmares have been defended; when the figure opens to questioning their own assumptions, the sword can begin its work; the anguish becomes the teacher of what genuine truth requires
+  integration_outcome: The ace of swords can finally cut through the figure's nightmares; the clarity dissolves the assumed certainties; the truth liberates because the lies have been exposed; the torment becomes the container that held the false beliefs
+  key_terms: figure learns through resistance, ace of swords can finally, truth and the nightmares teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, 2 of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Blindfolded Dilemma, The Paralyzed Choice, The Stalemate Mind, Decision Impossible
-numerical_relation: 9 + 2 = 11; the torment meets the blindfolded choice
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 9 + 2 = 11 (XI Strength; the torment meets the blindfolded choice)
 elemental_bridge: Air (nightmares creating paralysis) meets Air (self-imposed blindness); both prevent movement
 threshold_type: The moment when torment creates self-imposed paralysis
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Chosen safety, paralysis maintained, stalemate embraced, blindness elected
 
 dynamic_inhibition:
-  blockade: The figure cannot move despite the possibility; they have chosen the stalemate
-  consequence: The figure remains frozen; the choice not to choose becomes entrenched
+  mechanism: The figure cannot move despite the possibility
+  blockade_nature: they have chosen the stalemate
+  swords_state: The figure remains frozen
+  consequence: the choice not to choose becomes entrenched
+  key_terms: figure cannot move despite, they have chosen the stalemate, figure remains frozen, choice not to choose
 
 dynamic_devolution:
-  corruption: The two of swords becomes a vision of perpetual stalemate; the figure imagines remaining paralyzed forever; the blindness becomes comfortable
+  mechanism: The two of swords becomes a vision of perpetual stalemate
+  mode: the figure imagines remaining paralyzed forever; the blindness becomes comfortable
   loss: The figure loses the capacity to imagine moving; they internalize the stalemate as identity
+  key_terms: figure imagines remaining paralyzed forever, figure loses the capacity, two of swords
 
 dynamic_dependency:
-  integration: The torment and the paralysis teach each other about the cost of not choosing; the figure learns through the stalemate that some choice, even imperfect choice, is preferable to continued paralysis; when the figure removes the blindfold and risks choosing, the nightmare can begin to release; the anguish becomes the teacher of what genuine choice requires
-  outcome: The two of swords teaches the figure that maintaining stalemate costs more than choosing; the figure risks choice; the paralysis begins to release; the nightmares quiet because they are no longer being fed by enforced inaction
+  mechanism: The torment and the paralysis teach each other about the cost of not choosing
+  function: the figure learns through the stalemate that some choice, even imperfect choice, is preferable to continued paralysis; when the figure removes the blindfold and risks choosing, the nightmare can begin to release; the anguish becomes the teacher of what genuine choice requires
+  integration_outcome: The two of swords teaches the figure that maintaining stalemate costs more than choosing; the figure risks choice; the paralysis begins to release; the nightmares quiet because they are no longer being fed by enforced inaction
+  key_terms: figure learns through the stalemate, two of swords teaches, torment and the paralysis teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, 3 of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Heartbreak, The Sorrow Articulated, The Suffering Witnessed, Pain Made Real
-numerical_relation: 9 + 3 = 12; the torment meets the articulation of pain
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 9 + 3 = 12 (XII The Hanged Man; the torment meets the articulation of pain)
 elemental_bridge: Air (inner nightmares) meets Air (expressed sorrow); both are pain, one hidden and one voiced
 threshold_type: The moment when the tormented witness real grief made manifest
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Doubled grief, predicted sorrow, anticipated suffering, pain confirmed
 
 dynamic_inhibition:
-  blockade: The figure cannot distinguish between grieving what is and grieving what is feared
-  consequence: The figure carries double grief; the nightmares have already extracted their toll
+  mechanism: The figure cannot distinguish between grieving what is and grieving what is feared
+  blockade_nature: The figure cannot distinguish between grieving what is and grieving what is feared
+  swords_state: The figure carries double grief
+  consequence: the nightmares have already extracted their toll
+  key_terms: figure cannot distinguish between grieving, figure carries double grief, nightmares have already extracted
 
 dynamic_devolution:
-  corruption: The three of swords becomes validation of the nightmares' accuracy; the figure believes the nightmares will always be right; the sorrow becomes proof
+  mechanism: The three of swords becomes validation of the nightmares' accuracy
+  mode: the figure believes the nightmares will always be right; the sorrow becomes proof
   loss: The figure loses any hope that anxiety might be wrong; they internalize the validation as evidence of omniscient dread
+  key_terms: figure believes the nightmares will, figure loses any hope, three of swords becomes validation
 
 dynamic_dependency:
-  integration: The torment and the real grief teach each other about the difference between anticipatory suffering and present sorrow; the figure learns through the confirmation that some nightmares are accurate while others are imagined; the work becomes distinguishing between the two; the anguish becomes the teacher of discernment
-  outcome: The three of swords teaches the figure to grieve only what is actually lost, not what is feared; the nightmares quiet because they are being tested against reality; the double grief begins to release
+  mechanism: The torment and the real grief teach each other about the difference between anticipatory suffering and present sorrow
+  function: the figure learns through the confirmation that some nightmares are accurate while others are imagined; the work becomes distinguishing between the two; the anguish becomes the teacher of discernment
+  integration_outcome: The three of swords teaches the figure to grieve only what is actually lost, not what is feared; the nightmares quiet because they are being tested against reality; the double grief begins to release
+  key_terms: figure learns through the confirmation, three of swords teaches, torment and the real grief
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, 4 of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Truce, The Necessary Rest, The Uneasy Peace, Stillness Imposed
-numerical_relation: 9 + 4 = 13; the torment meets enforced rest
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: Rest, truce, peace, mental stillness, respite
+numerical_relation: 9 + 4 = 13 (XIII Death; the torment meets enforced rest)
 elemental_bridge: Air (constant nightmare activity) meets Air (still quietness); the tormented cannot rest because the mind is always active
 threshold_type: The moment when the tormented cannot access the rest the four of swords offers
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Endless activity, rest impossible, mind running, peace unavailable
 
 dynamic_inhibition:
-  blockade: The figure cannot rest despite their exhaustion; the nightmares will not stop
-  consequence: The figure becomes increasingly depleted; the body demands rest the mind refuses to give
+  mechanism: The figure cannot rest despite their exhaustion
+  blockade_nature: the nightmares will not stop
+  swords_state: The figure becomes increasingly depleted
+  consequence: the body demands rest the mind refuses to give
+  key_terms: figure cannot rest despite, nightmares will not stop, figure becomes increasingly depleted, body demands rest the mind
 
 dynamic_devolution:
-  corruption: The four of swords becomes torture; the figure imagines peaceful rest but knows their mind will not allow it; the quiet becomes unattainable
+  mechanism: The four of swords becomes torture
+  mode: the figure imagines peaceful rest but knows their mind will not allow it; the quiet becomes unattainable
   loss: The figure loses the capacity to rest; the nightmares become the constant state; sleep becomes interrupted and unrefreshing
+  key_terms: figure imagines peaceful rest, figure loses the capacity, four of swords becomes torture
 
 dynamic_dependency:
-  integration: The torment teaches the value of rest through its prevention; the figure learns through exhaustion what peace truly means; when the nightmares finally quiet enough to allow rest, the relief is profound; the anguish becomes the teacher of what genuine quietness requires
-  outcome: The four of swords can finally offer rest to the figure whose nightmares have quieted; the peace becomes possible; the mind can rest; the body begins to recover; the torment becomes the teacher of what true rest means
+  mechanism: The torment teaches the value of rest through its prevention
+  function: the figure learns through exhaustion what peace truly means; when the nightmares finally quiet enough to allow rest, the relief is profound; the anguish becomes the teacher of what genuine quietness requires
+  integration_outcome: The four of swords can finally offer rest to the figure whose nightmares have quieted; the peace becomes possible; the mind can rest; the body begins to recover; the torment becomes the teacher of what true rest means
+  key_terms: figure learns through exhaustion what, four of swords can finally, torment teaches the value
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, 5 of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Victor's Hollow, The Bitter Triumph, The Pyrrhic Win, Defeat Disguised
-numerical_relation: 9 + 5 = 14; the torment meets the victor's bitterness
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 9 + 5 = 14 (XIV Temperance; the torment meets the victor's bitterness)
 elemental_bridge: Air (tormented consciousness) meets Air (hollow victory); both are defeats despite their different forms
 threshold_type: The moment when the tormented realize even victory contains defeat
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Success-hollow meeting, internal defeat continuing, nightmares unsilenced, victory incomplete
 
 dynamic_inhibition:
-  blockade: The figure cannot rest in their own success; the nightmares continue despite achievement
-  consequence: The victory is enjoyed from a position of ongoing suffering; the achievement is tainted by internal torture
+  mechanism: The figure cannot rest in their own success
+  blockade_nature: the nightmares continue despite achievement
+  swords_state: The victory is enjoyed from a position of ongoing suffering
+  consequence: the achievement is tainted by internal torture
+  key_terms: figure cannot rest, nightmares continue despite achievement, victory is enjoyed from, achievement is tainted by internal
 
 dynamic_devolution:
-  corruption: The five of swords becomes evidence that victory will not heal the nightmares; the figure achieves but still torments themselves; the hollow victory is confirmed
+  mechanism: The five of swords becomes evidence that victory will not heal the nightmares
+  mode: the figure achieves but still torments themselves; the hollow victory is confirmed
   loss: The figure loses hope that success will ever quiet the nightmares; they internalize the torment as permanent
+  key_terms: figure achieves but still torments, figure loses hope that success, five of swords becomes evidence
 
 dynamic_dependency:
-  integration: The torment and the hollow victory teach each other about the difference between external and internal work; the figure learns through the experience that addressing the nightmares directly is the only path to genuine peace; victory can support the healing but cannot replace the work; the anguish becomes the teacher of what true healing requires
-  outcome: The figure learns to address the nightmares while pursuing success; the victory becomes sweeter because the internal work is being done; the torment quiets not because of external achievement but because of internal transformation; the hollow becomes whole
+  mechanism: The torment and the hollow victory teach each other about the difference between external and internal work
+  function: the figure learns through the experience that addressing the nightmares directly is the only path to genuine peace; victory can support the healing but cannot replace the work; the anguish becomes the teacher of what true healing requires
+  integration_outcome: The figure learns to address the nightmares while pursuing success; the victory becomes sweeter because the internal work is being done; the torment quiets not because of external achievement but because of internal transformation; the hollow becomes whole
+  key_terms: figure learns through the experience, figure learns to address, torment and the hollow victory
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, 6 of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Departure, The Necessary Crossing, The Journey Away, Travel Begun
-numerical_relation: 9 + 6 = 14; the torment meets the possibility of departure
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: The Traveler, The Departure, The Crossing, The Healer Through Distance
+numerical_relation: 9 + 6 = 15 (XV The Devil; the torment meets the possibility of departure)
 elemental_bridge: Air (nightmares as imprisonment) meets Air (thought-journey away); both are forms of movement
 threshold_type: The moment when the tormented consider leaving to escape the nightmares
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Portable nightmares, false geographical relief, internal departure needed, torment follows
 
 dynamic_inhibition:
-  blockade: The figure departs but the nightmares travel with them
-  consequence: The figure arrives in the new place only to find the torment continues; the departure becomes another confirmation of helplessness
+  mechanism: The figure departs but the nightmares travel with them
+  blockade_nature: The figure departs but the nightmares travel with them
+  swords_state: The figure arrives in the new place only to find the torment continues
+  consequence: the departure becomes another confirmation of helplessness
+  key_terms: figure departs but the nightmares, figure arrives in the new, departure becomes another confirmation
 
 dynamic_devolution:
-  corruption: The six of swords becomes a prophecy of repeated failure; the figure imagines leaving but knows the nightmares will follow; the crossing becomes torture
+  mechanism: The six of swords becomes a prophecy of repeated failure
+  mode: the figure imagines leaving but knows the nightmares will follow; the crossing becomes torture
   loss: The figure loses hope that change of location could ever help; they internalize the torment as permanent regardless of place
+  key_terms: figure imagines leaving but knows, figure loses hope that change, six of swords
 
 dynamic_dependency:
-  integration: The torment and the departure teach that internal work must accompany any change; the figure learns through the attempted escape that the nightmares cannot be left behind geographically; true crossing requires internal transformation, not just location change; the anguish becomes the teacher of what genuine departure requires
-  outcome: The figure learns to do the internal work while in place rather than seeking escape; the departure becomes possible only after the internal crossing has begun; the torment becomes the invitation to true transformation
+  mechanism: The torment and the departure teach that internal work must accompany any change
+  function: the figure learns through the attempted escape that the nightmares cannot be left behind geographically; true crossing requires internal transformation, not just location change; the anguish becomes the teacher of what genuine departure requires
+  integration_outcome: The figure learns to do the internal work while in place rather than seeking escape; the departure becomes possible only after the internal crossing has begun; the torment becomes the invitation to true transformation
+  key_terms: figure learns through the attempted, figure learns to do, torment and the departure teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, 7 of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Thief, The Deceptive Mind, The Cunning Escape, Trickster Freed
-numerical_relation: 9 + 7 = 14; the torment meets the deceptive escape
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+numerical_relation: 9 + 7 = 16 (XVI The Tower; the torment meets the deceptive escape)
 elemental_bridge: Air (nightmares as imprisonment) meets Air (cunning mind); both are mental, one suffering and one scheming
 threshold_type: The moment when the tormented consider deception to escape the nightmares
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Honest suffering, deceptive escape, truth versus cunning, refusal versus acceptance
 
 dynamic_inhibition:
-  blockade: The figure attempts deception but the nightmares are relentless; dishonesty cannot quiet them
-  consequence: The figure becomes doubly trapped—by the nightmares and by the deceptions they have created
+  mechanism: The figure attempts deception but the nightmares are relentless
+  blockade_nature: dishonesty cannot quiet them
+  swords_state: The figure becomes doubly trapped
+  consequence: by the nightmares and by the deceptions they have created
+  key_terms: figure attempts deception, dishonesty cannot quiet them, figure becomes doubly trapped, by the nightmares
 
 dynamic_devolution:
-  corruption: The seven of swords becomes a temptation that fails; the figure tries deception but the nightmares continue; the dishonesty compounds the torture
+  mechanism: The seven of swords becomes a temptation that fails
+  mode: the figure tries deception but the nightmares continue; the dishonesty compounds the torture
   loss: The figure loses even the integrity of honesty about their suffering; they become isolated both by the torment and by the lies
+  key_terms: figure tries deception, figure loses even the integrity, seven of swords
 
 dynamic_dependency:
-  integration: The torment and the deception teach each other about the cost of dishonesty; the figure learns through the failed escape that addressing the nightmares directly is the only path; deception cannot quiet torment; the anguish becomes the teacher of what genuine honesty requires
-  outcome: The figure returns to honest acknowledgment of the suffering; the deceptions are released; the nightmares become less isolating because they are named; the truth, while painful, becomes the foundation for healing
+  mechanism: The torment and the deception teach each other about the cost of dishonesty
+  function: the figure learns through the failed escape that addressing the nightmares directly is the only path; deception cannot quiet torment; the anguish becomes the teacher of what genuine honesty requires
+  integration_outcome: The figure returns to honest acknowledgment of the suffering; the deceptions are released; the nightmares become less isolating because they are named; the truth, while painful, becomes the foundation for healing
+  key_terms: figure learns through the failed, figure returns to honest acknowledgment, torment and the deception teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, 8 of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-numerical_relation: 9 + 8 = 17; the torment meets the bondage
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+numerical_relation: 9 + 8 = 17 (XVII The Star; the torment meets the bondage)
 elemental_bridge: Air (mental nightmares) meets Air (mental bondage); both are internal imprisonments
 threshold_type: The moment when the tormented recognize bondage as the physical manifestation of their nightmares
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Mirrored imprisonment, internal predicting external, nightmare becoming reality, prophecy fulfilled
 
 dynamic_inhibition:
-  blockade: The figure cannot escape the recognition that the nightmares were accurate; the bondage confirms them
-  consequence: The figure loses hope that the torment was only mental; the bondage proves the nightmares were right
+  mechanism: The figure cannot escape the recognition that the nightmares were accurate
+  blockade_nature: the bondage confirms them
+  swords_state: The figure loses hope that the torment was only mental
+  consequence: the bondage proves the nightmares were right
+  key_terms: figure cannot escape the recognition, bondage confirms them, figure loses hope, bondage proves the nightmares were
 
 dynamic_devolution:
-  corruption: The eight of swords becomes a vision of inevitable bondage; the figure imagines the nightmares leading to external constraint; the prophecy becomes doom
+  mechanism: The eight of swords becomes a vision of inevitable bondage
+  mode: the figure imagines the nightmares leading to external constraint; the prophecy becomes doom
   loss: The figure loses hope that escape is possible; they believe the nightmares will always be right; that bondage is inevitable
+  key_terms: figure imagines the nightmares leading, figure loses hope that escape, eight of swords
 
 dynamic_dependency:
-  integration: The torment and the bondage teach each other about consciousness and manifestation; the figure learns through the external constraint that some nightmares do predict reality while others do not; the work becomes distinguishing; when the figure learns to discern between prophetic fear and mere anxiety, the nightmares lose their power; the anguish becomes the teacher of discernment
-  outcome: The figure learns to listen to the nightmares' warnings while releasing their catastrophic interpretations; the bondage becomes a condition to be addressed while the torment becomes a signal to heed; the constraint becomes an invitation to examine which nightmares have foundation and which do not
+  mechanism: The torment and the bondage teach each other about consciousness and manifestation
+  function: the figure learns through the external constraint that some nightmares do predict reality while others do not; the work becomes distinguishing; when the figure learns to discern between prophetic fear and mere anxiety, the nightmares lose their power; the anguish becomes the teacher of discernment
+  integration_outcome: The figure learns to listen to the nightmares' warnings while releasing their catastrophic interpretations; the bondage becomes a condition to be addressed while the torment becomes a signal to heed; the constraint becomes an invitation to examine which nightmares have foundation and which do not
+  key_terms: figure learns through the external, figure learns to listen, torment and the bondage teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, 9 of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-numerical_relation: 9 + 9 = 18; the nightmare meets itself; a mirror of torment
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+numerical_relation: 9 + 9 = 18 (XVIII The Moon; the nightmare meets itself; a mirror of torment)
 elemental_bridge: Air meets Air; nightmare reflecting nightmare; consciousness speaking to itself
 threshold_type: The moment when the tormented see their own reflection
 
@@ -358,37 +414,44 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Two tormented figures meet; they cannot save each other from their nightmares; yet their recognition of each other is powerful
   tension_axis: Between the isolation nightmares create and the connection that recognition brings
-  nine_of_swords_position: "I am tormented and alone"
-  nine_of_swords_position: "I am tormented and so are you"
+  swords_position_1: "I am tormented and alone"
+  swords_position_2: "I am tormented and so are you"
   key_terms: Shared torment, connected isolation, mutual recognition, parallel suffering
 
 dynamic_inhibition:
-  blockade: The figures cannot free each other from the nightmares
-  consequence: The recognition of shared suffering is both comforting and limiting; they remain together in torment
+  mechanism: The figures cannot free each other from the nightmares
+  blockade_nature: The figures cannot free each other from the nightmares
+  swords_state: The recognition of shared suffering is both comforting and limiting
+  consequence: they remain together in torment
+  key_terms: figures cannot free each other, recognition of shared suffering, they remain together in torment
 
 dynamic_devolution:
-  corruption: The meeting becomes confirmation that the nightmares are inescapable; the shared torment becomes evidence that suffering is universal and permanent
+  mechanism: The meeting becomes confirmation that the nightmares are inescapable
+  mode: the shared torment becomes evidence that suffering is universal and permanent
   loss: Both figures lose the hope that individual escape is possible; they begin to believe the nightmares define the human condition
+  key_terms: shared torment becomes evidence, both figures lose the hope, meeting becomes confirmation
 
 dynamic_dependency:
-  integration: The shared torment becomes the ground of authentic community; the figure learns that the nightmares are not shameful but human; when two tormented beings recognize each other without shame, the isolation begins to break; the anguish becomes the bridge to genuine connection
-  outcome: The nine of swords meeting itself discovers that shared suffering is the root of compassion; the nightmares become less isolating because they are witnessed; the torment becomes the ground of authentic human meeting; when the figure can be fully seen in their anguish and still accepted, the nightmares begin to release their grip
+  mechanism: The shared torment becomes the ground of authentic community
+  function: the figure learns that the nightmares are not shameful but human; when two tormented beings recognize each other without shame, the isolation begins to break; the anguish becomes the bridge to genuine connection
+  integration_outcome: The nine of swords meeting itself discovers that shared suffering is the root of compassion; the nightmares become less isolating because they are witnessed; the torment becomes the ground of authentic human meeting; when the figure can be fully seen in their anguish and still accepted, the nightmares begin to release their grip
+  key_terms: figure learns that the nightmares, nine of swords meeting itself, shared torment becomes the ground
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, 10 of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Final Defeat, The Ending Complete, The Ruin Absolute, Dissolution Total
-numerical_relation: 9 + 10 = 19; the torment meets the fulfillment of destruction
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+numerical_relation: 9 + 10 = 19 (XIX The Sun; the torment meets the fulfillment of destruction)
 elemental_bridge: Air (psychological torment) meets Air (mental dissolution); the nightmares lead toward absolute ending
 threshold_type: The moment when the tormented consider whether the ending is release
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Relief through ending, dissolution imagined, release sought, death beckoning
 
 dynamic_inhibition:
-  blockade: The figure cannot escape the pull toward ending while the nightmares continue
-  consequence: The figure becomes at risk of suicide; the nightmares have created a path to destruction
+  mechanism: The figure cannot escape the pull toward ending while the nightmares continue
+  blockade_nature: The figure cannot escape the pull toward ending while the nightmares continue
+  swords_state: The figure becomes at risk of suicide
+  consequence: the nightmares have created a path to destruction
+  key_terms: figure cannot escape the pull, figure becomes at risk, nightmares have created a path
 
 dynamic_devolution:
-  corruption: The ten of swords becomes the answer to the nightmares; the figure imagines that death is the only relief; the dissolution becomes attractive
+  mechanism: The ten of swords becomes the answer to the nightmares
+  mode: the figure imagines that death is the only relief; the dissolution becomes attractive
   loss: The figure loses the capacity to imagine continued life; they begin to believe ending is inevitable
+  key_terms: figure imagines that death, figure loses the capacity, ten of swords
 
 dynamic_dependency:
-  integration: The torment and the dissolution teach that ending is not the answer; the figure must reach out to others, to support, to interventions that can break the nightmare cycle; the anguish is the emergency signal that professional help is needed; healing becomes possible only when the figure chooses life despite the nightmares; the constraint becomes the condition that demands intervention
-  outcome: When the figure receives support and the nightmares begin to quiet, the ten of swords loses its appeal; the ending recedes; life becomes possible; the torment becomes not a path to death but a call for help; the dissolution becomes transformation instead
+  mechanism: The torment and the dissolution teach that ending is not the answer
+  function: the figure must reach out to others, to support, to interventions that can break the nightmare cycle; the anguish is the emergency signal that professional help is needed; healing becomes possible only when the figure chooses life despite the nightmares; the constraint becomes the condition that demands intervention
+  integration_outcome: When the figure receives support and the nightmares begin to quiet, the ten of swords loses its appeal; the ending recedes; life becomes possible; the torment becomes not a path to death but a call for help; the dissolution becomes transformation instead
+  key_terms: figure must reach out, when the figure receives support, torment and the dissolution teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, Page of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Messenger, The New Thought, The Youthful Truth, Idea Arriving
-numerical_relation: 9 + 11 = 20; the torment meets the arrival of a new thought
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+numerical_relation: 9 + 11 = 20 (XX Judgement; the torment meets the arrival of a new thought)
 elemental_bridge: Air (old nightmares) meets Air (new idea); two forms of thought, old and new
 threshold_type: The moment when a new thought arrives that might interrupt the nightmare cycle
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Threatened habit, familiar nightmare, new idea challenging, resistance to change
 
 dynamic_inhibition:
-  blockade: The figure cannot fully integrate the new thought; the old nightmare patterns resist
-  consequence: The new idea is received but not integrated; the old nightmare patterns reassert themselves
+  mechanism: The figure cannot fully integrate the new thought
+  blockade_nature: the old nightmare patterns resist
+  swords_state: The new idea is received but not integrated
+  consequence: the old nightmare patterns reassert themselves
+  key_terms: figure cannot fully integrate, old nightmare patterns resist, new idea is received, old nightmare patterns reassert themselves
 
 dynamic_devolution:
-  corruption: The page of swords becomes evidence that change is impossible; the figure receives the new thought but knows the nightmares will return; the new idea becomes torture
+  mechanism: The page of swords becomes evidence that change is impossible
+  mode: the figure receives the new thought but knows the nightmares will return; the new idea becomes torture
   loss: The figure loses hope that new thought could ever truly replace the nightmares; they believe the patterns are permanent
+  key_terms: figure receives the new thought, figure loses hope that new, page of swords becomes evidence
 
 dynamic_dependency:
-  integration: The torment and the new thought teach each other about neuroplasticity; the figure learns that sustained practice with new thoughts can gradually reshape the nightmare patterns; change is slow but possible; the anguish becomes the motivation to practice new thinking; when the figure commits to exploring the new idea repeatedly, it begins to take hold; the nightmares are gradually rewired
-  outcome: The page of swords finally lands its message in the figure whose nightmare patterns have softened; the new thought takes root; the alternative idea becomes a new habit; the nightmares gradually quiet because new pathways have been established; the torment becomes the ground from which new consciousness grows
+  mechanism: The torment and the new thought teach each other about neuroplasticity
+  function: the figure learns that sustained practice with new thoughts can gradually reshape the nightmare patterns; change is slow but possible; the anguish becomes the motivation to practice new thinking; when the figure commits to exploring the new idea repeatedly, it begins to take hold; the nightmares are gradually rewired
+  integration_outcome: The page of swords finally lands its message in the figure whose nightmare patterns have softened; the new thought takes root; the alternative idea becomes a new habit; the nightmares gradually quiet because new pathways have been established; the torment becomes the ground from which new consciousness grows
+  key_terms: figure learns that sustained practice, page of swords finally lands, torment and the new thought
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, Knight of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Intellectual Warrior, The Truth Seeker, The Conflict Analyst, Thought in Action
-numerical_relation: 9 + 12 = 21; the torment meets the warrior of truth
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+numerical_relation: 9 + 12 = 21 (XXI The World; the torment meets the warrior of truth)
 elemental_bridge: Air (passive nightmares) meets Air (active analysis); the tormented consciousness becomes the seeker
 threshold_type: The moment when the tormented begin to interrogate their own nightmares
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Active engagement, victim consciousness, truth-seeking, warrior analysis
 
 dynamic_inhibition:
-  blockade: The figure cannot engage actively with the nightmares; they remain in victim consciousness
-  consequence: The figure continues to be tormented without understanding; no movement toward truth occurs
+  mechanism: The figure cannot engage actively with the nightmares
+  blockade_nature: they remain in victim consciousness
+  swords_state: The figure continues to be tormented without understanding
+  consequence: no movement toward truth occurs
+  key_terms: figure cannot engage actively, they remain in victim consciousness, figure continues to be tormented, no movement toward truth occurs
 
 dynamic_devolution:
-  corruption: The knight of swords becomes evidence of impossible courage; the figure imagines questioning the nightmares but knows they are too powerful to confront
+  mechanism: The knight of swords becomes evidence of impossible courage
+  mode: the figure imagines questioning the nightmares but knows they are too powerful to confront
   loss: The figure loses the capacity to believe they could analyze their own patterns; they internalize the torment as overwhelming
+  key_terms: figure imagines questioning the nightmares, figure loses the capacity, knight of swords becomes evidence
 
 dynamic_dependency:
-  integration: The torment and the knight consciousness teach each other about active versus passive suffering; the figure learns that engaging with the nightmares intellectually is the beginning of freedom; when the figure becomes willing to analyze the patterns that feed the nightmares, transformation begins; the anguish becomes the material of truth-seeking
-  outcome: The knight of swords welcomes the figure who has begun to interrogate their own consciousness; the analysis becomes possible; the truth begins to emerge; the nightmares are understood rather than merely endured; the torment becomes the gateway to genuine truth-seeking; the warrior consciousness is born
+  mechanism: The torment and the knight consciousness teach each other about active versus passive suffering
+  function: the figure learns that engaging with the nightmares intellectually is the beginning of freedom; when the figure becomes willing to analyze the patterns that feed the nightmares, transformation begins; the anguish becomes the material of truth-seeking
+  integration_outcome: The knight of swords welcomes the figure who has begun to interrogate their own consciousness; the analysis becomes possible; the truth begins to emerge; the nightmares are understood rather than merely endured; the torment becomes the gateway to genuine truth-seeking; the warrior consciousness is born
+  key_terms: figure learns that engaging, knight of swords welcomes, torment and the knight consciousness
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, Queen of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Clear Mind, The Discerning Authority, The Honest Judge, Clarity Absolute
-numerical_relation: 9 + 13 = 22; the torment meets the clarity of wisdom
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+numerical_relation: 9 + 13 = 22 → 2+2=4 (IV The Emperor; the torment meets the clarity of wisdom)
 elemental_bridge: Air (clouded by nightmare) meets Air (clear-seeing); the tormented consciousness becomes wise
 threshold_type: The moment when clarity can emerge from within the torment
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Clouded versus clear, torment-born wisdom, discernment from suffering, honest seeing
 
 dynamic_inhibition:
-  blockade: The figure cannot access clarity while in the depths of torment; the cloud is too thick
-  consequence: The figure remains confused; clarity seems impossible
+  mechanism: The figure cannot access clarity while in the depths of torment
+  blockade_nature: the cloud is too thick
+  swords_state: The figure remains confused
+  consequence: clarity seems impossible
+  key_terms: figure cannot access clarity, cloud is too thick, figure remains confused, clarity seems impossible
 
 dynamic_devolution:
-  corruption: The queen of swords becomes evidence of impossible wisdom; the figure imagines clarity but knows the nightmares are too powerful
+  mechanism: The queen of swords becomes evidence of impossible wisdom
+  mode: the figure imagines clarity but knows the nightmares are too powerful
   loss: The figure loses hope that clarity could ever be theirs; they internalize the torment as evidence of fundamental confusion
+  key_terms: figure imagines clarity but knows, figure loses hope that clarity, queen of swords becomes evidence
 
 dynamic_dependency:
-  integration: The torment and the queen consciousness teach each other about the relationship between suffering and clarity; the figure learns through the nightmares that understanding them is the path to wisdom; when the figure examines the nightmares honestly, they begin to make sense; patterns emerge; clarity develops; the anguish becomes the material from which wisdom is constructed
-  outcome: The queen of swords finally speaks through the figure whose torment has been thoroughly examined; the clarity emerges because it has been earned through suffering; the wisdom is real because it is born from genuine understanding of the darkness; the nightmares become the gateway to the queen's clear seeing
+  mechanism: The torment and the queen consciousness teach each other about the relationship between suffering and clarity
+  function: the figure learns through the nightmares that understanding them is the path to wisdom; when the figure examines the nightmares honestly, they begin to make sense; patterns emerge; clarity develops; the anguish becomes the material from which wisdom is constructed
+  integration_outcome: The queen of swords finally speaks through the figure whose torment has been thoroughly examined; the clarity emerges because it has been earned through suffering; the wisdom is real because it is born from genuine understanding of the darkness; the nightmares become the gateway to the queen's clear seeing
+  key_terms: figure learns through the nightmares, queen of swords finally speaks, torment and the queen consciousness
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS
 
 ---
 
 card_pair: 9 of Swords, King of Swords
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-archetype_swords: The Master of Thought, The Intellectual Sovereign, The Truth Authority, Reason Rules
-numerical_relation: 9 + 14 = 23; the torment meets the culmination of intellectual mastery
+archetype_swords_1: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+archetype_swords_2: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+numerical_relation: 9 + 14 = 23 → 2+3=5 (V The Pope; the torment meets the culmination of intellectual mastery)
 elemental_bridge: Air (enslaved by nightmare) meets Air (sovereign consciousness); the tormented mind becomes the king
 threshold_type: The moment when the figure learns to rule their own consciousness
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Enslaved consciousness, sovereign mind, nightmare mastery, thought observation
 
 dynamic_inhibition:
-  blockade: The figure cannot achieve mastery while believing the nightmares are reality
+  mechanism: The figure cannot achieve mastery while believing the nightmares are reality
+  blockade_nature: The figure cannot achieve mastery while believing the nightmares are reality
+  swords_state: The figure remains enslaved to the thought patterns
   consequence: The figure remains enslaved to the thought patterns
+  key_terms: figure cannot achieve mastery, figure remains enslaved, held tension
 
 dynamic_devolution:
-  corruption: The king of swords becomes evidence of impossible mastery; the figure imagines ruling their consciousness but knows the nightmares are too powerful
+  mechanism: The king of swords becomes evidence of impossible mastery
+  mode: the figure imagines ruling their consciousness but knows the nightmares are too powerful
   loss: The figure loses hope that they could ever master their own mind; they internalize the nightmares as evidence of permanent enslavement
+  key_terms: figure imagines ruling their consciousness, figure loses hope that they, king of swords becomes evidence
 
 dynamic_dependency:
-  integration: The torment and the king consciousness teach each other about the nature of thought; the figure learns through the nightmares that they are not truth but phenomena that can be observed; when the figure stops believing the nightmares and starts observing them, the relationship to them changes; the sovereignty becomes possible because the figure has learned to distinguish between thought and reality
-  outcome: The king of swords finally claims his throne through the figure whose nightmares have become objects of observation rather than truth; the mastery is earned through the passage through torment; the consciousness becomes sovereign because it has learned what enslavement means; the nightmares are quieted not by denial but by being seen for what they are; the torment becomes the crucible in which the master consciousness is forged; the figure becomes the king of their own mind
+  mechanism: The torment and the king consciousness teach each other about the nature of thought
+  function: the figure learns through the nightmares that they are not truth but phenomena that can be observed; when the figure stops believing the nightmares and starts observing them, the relationship to them changes; the sovereignty becomes possible because the figure has learned to distinguish between thought and reality
+  integration_outcome: The king of swords finally claims his throne through the figure whose nightmares have become objects of observation rather than truth; the mastery is earned through the passage through torment; the consciousness becomes sovereign because it has learned what enslavement means; the nightmares are quieted not by denial but by being seen for what they are; the torment becomes the crucible in which the master consciousness is forged; the figure becomes the king of their own mind
+  key_terms: figure learns through the nightmares, king of swords finally claims, torment and the king consciousness
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSS

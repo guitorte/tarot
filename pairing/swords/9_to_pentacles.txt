@@ -1,7 +1,7 @@
 card_pair: 9 of Swords, Ace of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Gift Offered, The Seed Manifest, The Threshold of Plenty, Material Arrival
-numerical_relation: 9 + 1 = 10; the torment meets the gift; despair before abundance
+numerical_relation: 9 + 1 = 10 (X The Wheel of Fortune; the torment meets the gift; despair before abundance)
 elemental_bridge: Air (mental anguish) meets Earth (material manifestation); the anxious mind cannot accept the gift
 threshold_type: The moment when despair prevents the reception of material opportunity
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Anxious rejection, feared gift, mental torment preventing reception
 
 dynamic_inhibition:
-  blockade: The figure cannot open to the gift; the blockade is the torment itself—the nightmares run too deep
-  consequence: The gift is rejected or squandered because the mind cannot believe in its value; the abundance is transformed into evidence of future loss
+  mechanism: The figure cannot open to the gift
+  blockade_nature: the blockade is the torment itself—the nightmares run too deep
+  swords_state: The gift is rejected or squandered because the mind cannot believe in its value
+  consequence: the abundance is transformed into evidence of future loss
+  key_terms: figure cannot open, blockade is the torment itself, gift is rejected or squandered, abundance is transformed into evidence
 
 dynamic_devolution:
-  corruption: The ace of pentacles becomes evidence of cosmic cruelty; the figure imagines receiving it only to lose it; the gift becomes a torture-prophecy
+  mechanism: The ace of pentacles becomes evidence of cosmic cruelty
+  mode: the figure imagines receiving it only to lose it; the gift becomes a torture-prophecy
   loss: The figure loses the capacity to believe in good things; they internalize the nightmares as truth; the possibility of material good dies
+  key_terms: figure imagines receiving it only, figure loses the capacity, ace of pentacles becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches the value of the gift through its denial; the figure, in their anguish, understands what security would mean; when the nightmares finally release, the figure can receive the pentacle with gratitude earned through despair; the torment becomes the teacher of what abundance costs
-  outcome: The ace of pentacles waits patiently for the tormented mind to quiet; when it does, the gift is received with awareness born of suffering; the mental anguish becomes the prerequisite to genuine reception
+  mechanism: The torment teaches the value of the gift through its denial
+  function: the figure, in their anguish, understands what security would mean; when the nightmares finally release, the figure can receive the pentacle with gratitude earned through despair; the torment becomes the teacher of what abundance costs
+  integration_outcome: The ace of pentacles waits patiently for the tormented mind to quiet; when it does, the gift is received with awareness born of suffering; the mental anguish becomes the prerequisite to genuine reception
+  key_terms: ace of pentacles waits patiently, torment teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, 2 of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Juggler, The Balancer, The Dual Flow, Exchange Mastered
-numerical_relation: 9 + 2 = 11; the torment meets the dance of balance
+numerical_relation: 9 + 2 = 11 (XI Strength; the torment meets the dance of balance)
 elemental_bridge: Air (anxious chaos) meets Earth (fluid balance); the tormented mind cannot juggle anything
 threshold_type: The moment when despair prevents the balance necessary for exchange
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Absent presence, anxious chaos, balanced calm impossible
 
 dynamic_inhibition:
-  blockade: The figure cannot achieve balance; the torment prevents the calm necessary for juggling
-  consequence: Everything the figure touches becomes chaotic; the very anxiety of balance-seeking generates imbalance
+  mechanism: The figure cannot achieve balance
+  blockade_nature: the torment prevents the calm necessary for juggling
+  swords_state: Everything the figure touches becomes chaotic
+  consequence: the very anxiety of balance-seeking generates imbalance
+  key_terms: figure cannot achieve balance, torment prevents the calm necessary, everything the figure touches, very anxiety of balance-seeking generates
 
 dynamic_devolution:
-  corruption: The two of pentacles becomes a prophecy of inevitable loss; the figure attempts to balance and drops everything; the disaster validates the nightmare
+  mechanism: The two of pentacles becomes a prophecy of inevitable loss
+  mode: the figure attempts to balance and drops everything; the disaster validates the nightmare
   loss: The figure loses all capacity for exchange; they believe chaos is inevitable
+  key_terms: figure attempts to balance, figure loses all capacity for, two of pentacles
 
 dynamic_dependency:
-  integration: The torment teaches the value of balance through its absence; the figure learns through chaos what presence means; when the nightmares release, the figure can approach the two of pentacles with understanding earned through anxiety; the torment becomes the teacher of what true balance requires
-  outcome: The two of pentacles can be balanced by the figure who has survived torment; the exchange becomes possible; the calm becomes real; the anguish becomes the preparation for genuine balance
+  mechanism: The torment teaches the value of balance through its absence
+  function: the figure learns through chaos what presence means; when the nightmares release, the figure can approach the two of pentacles with understanding earned through anxiety; the torment becomes the teacher of what true balance requires
+  integration_outcome: The two of pentacles can be balanced by the figure who has survived torment; the exchange becomes possible; the calm becomes real; the anguish becomes the preparation for genuine balance
+  key_terms: figure learns through chaos what, two of pentacles can be, torment teaches the value
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, 3 of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Craftsman, The Guild Mason, The Collaborative Work, Mastery Shared
-numerical_relation: 9 + 3 = 12; the torment meets community and craft
+numerical_relation: 9 + 3 = 12 (XII The Hanged Man; the torment meets community and craft)
 elemental_bridge: Air (isolated nightmares) meets Earth (connected work); the tormented cannot participate in community
 threshold_type: The moment when anxiety prevents participation in collaborative mastery
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Feared judgment, isolation chosen, community rejected
 
 dynamic_inhibition:
-  blockade: The figure cannot participate in the guild even if invited; the blockade is the anxiety itself
-  consequence: The figure isolates more deeply; the nightmares about rejection become self-fulfilling as the figure withdraws
+  mechanism: The figure cannot participate in the guild even if invited
+  blockade_nature: the blockade is the anxiety itself
+  swords_state: The figure isolates more deeply
+  consequence: the nightmares about rejection become self-fulfilling as the figure withdraws
+  key_terms: figure cannot participate, blockade is the anxiety itself, figure isolates more deeply, nightmares about rejection become self-fulfilling
 
 dynamic_devolution:
-  corruption: The three of pentacles becomes evidence of belonging that will never be theirs; the figure imagines being part of the guild but anxiety prevents approach; community becomes a prophecy of rejection
+  mechanism: The three of pentacles becomes evidence of belonging that will never be theirs
+  mode: the figure imagines being part of the guild but anxiety prevents approach; community becomes a prophecy of rejection
   loss: The figure loses faith in their capacity for collaboration; they internalize anxiety as evidence of unworthiness for community
+  key_terms: figure imagines being part, figure loses faith, three of pentacles becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches the value of community through its denial; the figure, isolated by anxiety, understands with clarity what collaboration means; when the nightmares release, the figure can approach the three of pentacles with understanding earned through isolation; the anguish becomes the teacher of what true belonging requires
-  outcome: The guild welcomes the figure whose anxiety has clarified their need for connection; the collaboration becomes genuine because it has been feared; the craft becomes sacred precisely because judgment was dreaded; the torment becomes the preparation for conscious community
+  mechanism: The torment teaches the value of community through its denial
+  function: the figure, isolated by anxiety, understands with clarity what collaboration means; when the nightmares release, the figure can approach the three of pentacles with understanding earned through isolation; the anguish becomes the teacher of what true belonging requires
+  integration_outcome: The guild welcomes the figure whose anxiety has clarified their need for connection; the collaboration becomes genuine because it has been feared; the craft becomes sacred precisely because judgment was dreaded; the torment becomes the preparation for conscious community
+  key_terms: guild welcomes the figure whose, torment teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, 4 of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Hoarder, The Fortress Keeper, The Clutching Miser, Possession Defended
-numerical_relation: 9 + 4 = 13; the torment meets the clenched grip
+numerical_relation: 9 + 4 = 13 (XIII Death; the torment meets the clenched grip)
 elemental_bridge: Air (anxious catastrophizing) meets Earth (defensive clutching); both are driven by fear
 threshold_type: The moment when anxiety and hoarding reinforce each other
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Reinforcing fears, defensive possession, hoarding justified by anxiety
 
 dynamic_inhibition:
-  blockade: The figure cannot release their grip because the anxiety feels justified; the nightmares have created a logic of scarcity
-  consequence: The figure becomes increasingly trapped in defensive possession; they lose the capacity for generosity; the hoarding intensifies
+  mechanism: The figure cannot release their grip because the anxiety feels justified
+  blockade_nature: the nightmares have created a logic of scarcity
+  swords_state: The figure becomes increasingly trapped in defensive possession
+  consequence: they lose the capacity for generosity; the hoarding intensifies
+  key_terms: figure cannot release their grip, nightmares have created a logic, figure becomes increasingly trapped, they lose the capacity for
 
 dynamic_devolution:
-  corruption: The four of pentacles becomes a prophecy of permanent desperation; the figure imagines needing to hoard forever to avoid the losses they fear; possession becomes neurotic and total
+  mechanism: The four of pentacles becomes a prophecy of permanent desperation
+  mode: the figure imagines needing to hoard forever to avoid the losses they fear; possession becomes neurotic and total
   loss: The figure loses the capacity to trust abundance; they internalize anxiety as evidence of permanent scarcity; hoarding becomes identity
+  key_terms: figure imagines needing to hoard, figure loses the capacity, four of pentacles
 
 dynamic_dependency:
-  integration: The torment and the hoarding teach each other about fear; the figure learns through their defensive possession that some anxiety is justified while some is imagined; when the nightmares release, the figure can release their grip; the anxiety becomes the teacher of what trust might mean
-  outcome: The four of pentacles held lightly by the figure who has survived torment and hoarding; the possession becomes secure through having been released; the constraint becomes the preparation for genuine security born of trust
+  mechanism: The torment and the hoarding teach each other about fear
+  function: the figure learns through their defensive possession that some anxiety is justified while some is imagined; when the nightmares release, the figure can release their grip; the anxiety becomes the teacher of what trust might mean
+  integration_outcome: The four of pentacles held lightly by the figure who has survived torment and hoarding; the possession becomes secure through having been released; the constraint becomes the preparation for genuine security born of trust
+  key_terms: figure learns through their defensive, four of pentacles held lightly, torment and the hoarding teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, 5 of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Outcasts, The Impoverished Pilgrims, The Excluded Poor, Material Abandonment
-numerical_relation: 9 + 5 = 14; the torment meets complete abandonment
+numerical_relation: 9 + 5 = 14 (XIV Temperance; the torment meets complete abandonment)
 elemental_bridge: Air (anxious isolation) meets Earth (material and social poverty); both represent exclusion
 threshold_type: The moment when nightmares become indistinguishable from material destitution
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Grounded fear, proximity to destitution, real anxiety
 
 dynamic_inhibition:
-  blockade: The figure cannot escape the anxiety because the threat is real; the torment is proportional to actual danger
-  consequence: The figure remains trapped in anxiety about material survival; they cannot rest because the danger is present
+  mechanism: The figure cannot escape the anxiety because the threat is real
+  blockade_nature: the torment is proportional to actual danger
+  swords_state: The figure remains trapped in anxiety about material survival
+  consequence: they cannot rest because the danger is present
+  key_terms: figure cannot escape the anxiety, torment is proportional to actual, figure remains trapped in anxiety, they cannot rest because
 
 dynamic_devolution:
-  corruption: The five of pentacles becomes a prophecy the figure cannot escape; the nightmares are no longer fantasies but preparation for an inevitable fall
+  mechanism: The five of pentacles becomes a prophecy the figure cannot escape
+  mode: the nightmares are no longer fantasies but preparation for an inevitable fall
   loss: The figure loses hope of security; they begin to believe poverty is their inevitable future
+  key_terms: nightmares are no longer fantasies, figure loses hope of security, five of pentacles
 
 dynamic_dependency:
-  integration: The torment and the poverty teach the same truth urgently; that survival requires action; the nightmares are not only warnings but calls to work; when the figure addresses the material conditions, the anxiety can begin to release; the anguish becomes the teacher of what security truly requires—not fantasy but work
-  outcome: The five of pentacles eventually becomes a past fear rather than a future prophecy; the figure who has faced the anxiety and addressed the material conditions understands survival; the torment becomes the preparation for genuine security
+  mechanism: The torment and the poverty teach the same truth urgently
+  function: that survival requires action; the nightmares are not only warnings but calls to work; when the figure addresses the material conditions, the anxiety can begin to release; the anguish becomes the teacher of what security truly requires—not fantasy but work
+  integration_outcome: The five of pentacles eventually becomes a past fear rather than a future prophecy; the figure who has faced the anxiety and addressed the material conditions understands survival; the torment becomes the preparation for genuine security
+  key_terms: that survival requires action, five of pentacles eventually, torment and the poverty teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, 6 of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Giver, The Generous One, The Balanced Gift, Reciprocal Flow
-numerical_relation: 9 + 6 = 15; the torment meets the perfect act of giving
+numerical_relation: 9 + 6 = 15 (XV The Devil; the torment meets the perfect act of giving)
 elemental_bridge: Air (anxious withholding) meets Earth (abundant generosity); the tormented cannot give
 threshold_type: The moment when anxiety prevents the liberating act of sharing
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Feared vulnerability, open hands impossible, giving prevented
 
 dynamic_inhibition:
-  blockade: The figure cannot give even when abundance is present; the blockade is the anxiety itself
-  consequence: The figure becomes trapped in withholding; the generosity dies inside them; they lose the joy of giving
+  mechanism: The figure cannot give even when abundance is present
+  blockade_nature: the blockade is the anxiety itself
+  swords_state: The figure becomes trapped in withholding
+  consequence: the generosity dies inside them; they lose the joy of giving
+  key_terms: figure cannot give even when, blockade is the anxiety itself, figure becomes trapped in withholding, generosity dies inside them
 
 dynamic_devolution:
-  corruption: The six of pentacles becomes evidence of a vulnerability the tormented cannot afford; the giver is a fool in the anxious mind; generosity becomes evidence of weakness
+  mechanism: The six of pentacles becomes evidence of a vulnerability the tormented cannot afford
+  mode: the giver is a fool in the anxious mind; generosity becomes evidence of weakness
   loss: The figure loses the capacity to experience the joy of giving; they internalize anxiety as evidence that hoarding is wisdom
+  key_terms: giver is a fool, figure loses the capacity, six of pentacles becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches the value of generosity through its prevention; the figure, unable to give, understands with clarity what circulation means; when the nightmares release, the figure can approach the six of pentacles with understanding earned through withholding; the anguish becomes the teacher of what true generosity requires
-  outcome: The six of pentacles can finally receive the figure's gifts; the giving becomes possible; the circulation flows; the torment becomes the preparation for conscious generosity
+  mechanism: The torment teaches the value of generosity through its prevention
+  function: the figure, unable to give, understands with clarity what circulation means; when the nightmares release, the figure can approach the six of pentacles with understanding earned through withholding; the anguish becomes the teacher of what true generosity requires
+  integration_outcome: The six of pentacles can finally receive the figure's gifts; the giving becomes possible; the circulation flows; the torment becomes the preparation for conscious generosity
+  key_terms: six of pentacles can finally, torment teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, 7 of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Gardener, The Weary Investor, The Patient Wait, Labor Long-Term
-numerical_relation: 9 + 7 = 16; the torment meets the patient wait
+numerical_relation: 9 + 7 = 16 (XVI The Tower; the torment meets the patient wait)
 elemental_bridge: Air (anxious urgency) meets Earth (cyclical patience); the tormented cannot wait
 threshold_type: The moment when anxiety prevents the faith necessary for long-term investment
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Anxious urgency, patient waiting impossible, harvest denied
 
 dynamic_inhibition:
-  blockade: The figure cannot maintain faith in long-term work; the nightmares consume all mental energy
-  consequence: The figure abandons investments prematurely; the very anxiety of waiting makes them quit before harvest
+  mechanism: The figure cannot maintain faith in long-term work
+  blockade_nature: the nightmares consume all mental energy
+  swords_state: The figure abandons investments prematurely
+  consequence: the very anxiety of waiting makes them quit before harvest
+  key_terms: figure cannot maintain faith, nightmares consume all mental energy, figure abandons investments prematurely, very anxiety of waiting makes
 
 dynamic_devolution:
-  corruption: The seven of pentacles becomes a torture of uncertainty; the figure imagines waiting forever for a harvest that never comes; the work becomes a prophecy of futility
+  mechanism: The seven of pentacles becomes a torture of uncertainty
+  mode: the figure imagines waiting forever for a harvest that never comes; the work becomes a prophecy of futility
   loss: The figure loses the capacity to believe in future payoff; they internalize anxiety as evidence of inevitable failure
+  key_terms: figure imagines waiting forever for, figure loses the capacity, seven of pentacles
 
 dynamic_dependency:
-  integration: The torment teaches the value of patience through its impatience; the figure learns through anxiety what faith means; when the nightmares release, the figure can approach the seven of pentacles with understanding earned through urgency; the anguish becomes the teacher of what true patience requires
-  outcome: The seven of pentacles receive the figure who has survived torment; the waiting becomes possible; the faith becomes real; the harvest arrives precisely because the figure understands what waiting costs
+  mechanism: The torment teaches the value of patience through its impatience
+  function: the figure learns through anxiety what faith means; when the nightmares release, the figure can approach the seven of pentacles with understanding earned through urgency; the anguish becomes the teacher of what true patience requires
+  integration_outcome: The seven of pentacles receive the figure who has survived torment; the waiting becomes possible; the faith becomes real; the harvest arrives precisely because the figure understands what waiting costs
+  key_terms: figure learns through anxiety what, seven of pentacles receive, torment teaches the value
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, 8 of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Apprentice, The Devoted Craftsman, The Mastery Sought, Practice Perfected
-numerical_relation: 9 + 8 = 17; the torment meets the discipline of craft
+numerical_relation: 9 + 8 = 17 (XVII The Star; the torment meets the discipline of craft)
 elemental_bridge: Air (anxious chaos) meets Earth (focused discipline); the tormented cannot concentrate
 threshold_type: The moment when anxiety prevents the focus necessary for mastery
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Scattered mind, focused practice impossible, mastery prevented
 
 dynamic_inhibition:
-  blockade: The figure cannot achieve focus; the nightmares interrupt every attempt at concentration
-  consequence: The figure's skills atrophy; they cannot develop mastery; the craft remains forever beyond their reach
+  mechanism: The figure cannot achieve focus
+  blockade_nature: the nightmares interrupt every attempt at concentration
+  swords_state: The figure's skills atrophy
+  consequence: they cannot develop mastery; the craft remains forever beyond their reach
+  key_terms: figure cannot achieve focus, nightmares interrupt every attempt at, figure's skills atrophy, they cannot develop mastery
 
 dynamic_devolution:
-  corruption: The eight of pentacles becomes a torture of inattention; the figure imagines what they could have mastered if anxiety did not cloud their mind; the craft becomes evidence of lost potential
+  mechanism: The eight of pentacles becomes a torture of inattention
+  mode: the figure imagines what they could have mastered if anxiety did not cloud their mind; the craft becomes evidence of lost potential
   loss: The figure loses the capacity to believe they could ever master anything; they internalize torment as evidence of fundamental inability to focus
+  key_terms: figure imagines what they could, figure loses the capacity, eight of pentacles
 
 dynamic_dependency:
-  integration: The torment teaches the value of focus through its absence; the figure learns through scattered anxiety what concentration means; when the nightmares release, the figure can approach the eight of pentacles with understanding earned through distraction; the anguish becomes the teacher of what true discipline requires
-  outcome: The eight of pentacles receive the figure whose clarity has been tested by torment; the focus becomes possible; the discipline becomes real; the mastery becomes achievable precisely because the figure understands the cost of scattered attention
+  mechanism: The torment teaches the value of focus through its absence
+  function: the figure learns through scattered anxiety what concentration means; when the nightmares release, the figure can approach the eight of pentacles with understanding earned through distraction; the anguish becomes the teacher of what true discipline requires
+  integration_outcome: The eight of pentacles receive the figure whose clarity has been tested by torment; the focus becomes possible; the discipline becomes real; the mastery becomes achievable precisely because the figure understands the cost of scattered attention
+  key_terms: figure learns through scattered anxiety, eight of pentacles receive, torment teaches the value
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, 9 of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Solitary Rich, The Self-Made Prosperity, The Harvested Abundance, Earned Independence
-numerical_relation: 9 + 9 = 18; the torment meets the culmination of independence
+numerical_relation: 9 + 9 = 18 (XVIII The Moon; the torment meets the culmination of independence)
 elemental_bridge: Air (anxious insecurity) meets Earth (earned security); the tormented cannot build independence
 threshold_type: The moment when anxiety prevents the sustained effort necessary for self-made prosperity
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Anxious precarity, independence impossible, security doubted
 
 dynamic_inhibition:
-  blockade: The figure cannot build toward independence; the anxiety prevents the sustained effort
-  consequence: The figure remains trapped in precarity; the very anxiety about independence prevents them from working toward it
+  mechanism: The figure cannot build toward independence
+  blockade_nature: the anxiety prevents the sustained effort
+  swords_state: The figure remains trapped in precarity
+  consequence: the very anxiety about independence prevents them from working toward it
+  key_terms: figure cannot build toward independence, anxiety prevents the sustained effort, figure remains trapped in precarity, very anxiety about independence prevents
 
 dynamic_devolution:
-  corruption: The nine of pentacles becomes a vision of security that will never be theirs; the figure imagines building themselves prosperous but anxiety prevents the work; independence becomes a cruel prophecy of permanent dependence
+  mechanism: The nine of pentacles becomes a vision of security that will never be theirs
+  mode: the figure imagines building themselves prosperous but anxiety prevents the work; independence becomes a cruel prophecy of permanent dependence
   loss: The figure loses faith in their capacity to build; they internalize torment as evidence of fundamental inability to prosper
+  key_terms: figure imagines building themselves prosperous, figure loses faith, nine of pentacles
 
 dynamic_dependency:
-  integration: The torment teaches the value of independence through its prevention; the figure, anxious and trapped, understands with clarity what security means; when the nightmares release, the figure can build toward the nine of pentacles with understanding earned through precarity; the anguish becomes the teacher of what true prosperity requires
-  outcome: The nine of pentacles opens its garden to the figure whose anxiety has clarified their need for independence; the building becomes possible; the security becomes real; the prosperity becomes achievable precisely because the figure understands the cost of anxiety
+  mechanism: The torment teaches the value of independence through its prevention
+  function: the figure, anxious and trapped, understands with clarity what security means; when the nightmares release, the figure can build toward the nine of pentacles with understanding earned through precarity; the anguish becomes the teacher of what true prosperity requires
+  integration_outcome: The nine of pentacles opens its garden to the figure whose anxiety has clarified their need for independence; the building becomes possible; the security becomes real; the prosperity becomes achievable precisely because the figure understands the cost of anxiety
+  key_terms: nine of pentacles opens, torment teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, 10 of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Patriarch, The Generational Wealth, The Family Legacy, Inheritance Complete
-numerical_relation: 9 + 10 = 19; the torment meets the fullness of generational completion
+numerical_relation: 9 + 10 = 19 (XIX The Sun; the torment meets the fullness of generational completion)
 elemental_bridge: Air (anxious isolation) meets Earth (family continuity); the tormented cannot pass on legacy
 threshold_type: The moment when anxiety prevents participation in family inheritance
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Feared contamination, family isolated from, lineage broken
 
 dynamic_inhibition:
-  blockade: The figure cannot participate in the family; the anxiety prevents the openness family requires
-  consequence: The figure isolates themselves; the very fear of breaking the lineage causes them to break it
+  mechanism: The figure cannot participate in the family
+  blockade_nature: the anxiety prevents the openness family requires
+  swords_state: The figure isolates themselves
+  consequence: the very fear of breaking the lineage causes them to break it
+  key_terms: figure cannot participate, anxiety prevents the openness family, figure isolates themselves, very fear of breaking
 
 dynamic_devolution:
-  corruption: The ten of pentacles becomes a prophecy of family failure; the figure imagines inheriting and destroying, receiving and losing, continuing and breaking; the legacy becomes a curse to be avoided
+  mechanism: The ten of pentacles becomes a prophecy of family failure
+  mode: the figure imagines inheriting and destroying, receiving and losing, continuing and breaking; the legacy becomes a curse to be avoided
   loss: The figure loses belief in their capacity to be part of the family story; they internalize anxiety as evidence of fundamental unworthiness for inheritance
+  key_terms: figure imagines inheriting and destroying, figure loses belief, ten of pentacles
 
 dynamic_dependency:
-  integration: The torment teaches the value of family through its denial; the figure, isolated by anxiety, understands with clarity what inheritance means; when the nightmares release, the figure can approach the ten of pentacles with understanding earned through isolation; the anguish becomes the teacher of what true legacy requires
-  outcome: The family welcomes the figure whose anxiety has clarified their need for belonging; the inheritance becomes possible; the lineage continues; the legacy becomes sacred precisely because the figure had feared breaking it
+  mechanism: The torment teaches the value of family through its denial
+  function: the figure, isolated by anxiety, understands with clarity what inheritance means; when the nightmares release, the figure can approach the ten of pentacles with understanding earned through isolation; the anguish becomes the teacher of what true legacy requires
+  integration_outcome: The family welcomes the figure whose anxiety has clarified their need for belonging; the inheritance becomes possible; the lineage continues; the legacy becomes sacred precisely because the figure had feared breaking it
+  key_terms: family welcomes the figure whose, torment teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, Page of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Student, The Eager Apprentice, The Learning Potential, Mastery Beginning
-numerical_relation: 9 + 11 = 20; the torment meets the beginning of instruction
+numerical_relation: 9 + 11 = 20 (XX Judgement; the torment meets the beginning of instruction)
 elemental_bridge: Air (anxious resistance) meets Earth (opening to learning); the tormented cannot be receptive
 threshold_type: The moment when anxiety prevents the openness necessary for learning
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Defensive resistance, openness impossible, learning prevented
 
 dynamic_inhibition:
-  blockade: The figure cannot receive instruction; the anxiety prevents the vulnerability learning requires
-  consequence: The figure becomes locked in ignorance; the opportunity to learn passes; the potential atrophies
+  mechanism: The figure cannot receive instruction
+  blockade_nature: the anxiety prevents the vulnerability learning requires
+  swords_state: The figure becomes locked in ignorance
+  consequence: the opportunity to learn passes; the potential atrophies
+  key_terms: figure cannot receive instruction, anxiety prevents the vulnerability learning, figure becomes locked in ignorance, opportunity to learn passes
 
 dynamic_devolution:
-  corruption: The page of pentacles becomes evidence of the figure's incapacity; the figure imagines receiving instruction but failing at it; learning becomes a prophecy of humiliation
+  mechanism: The page of pentacles becomes evidence of the figure's incapacity
+  mode: the figure imagines receiving instruction but failing at it; learning becomes a prophecy of humiliation
   loss: The figure loses the capacity to be a student; they internalize anxiety as evidence of fundamental inability to learn
+  key_terms: figure imagines receiving instruction, figure loses the capacity, page of pentacles becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches the value of learning through its prevention; the figure, closed by anxiety, understands with clarity what openness means; when the nightmares release, the figure can approach the page of pentacles with understanding earned through resistance; the anguish becomes the teacher of what true learning requires
-  outcome: The page of pentacles can finally teach the figure whose anxiety has prepared them to truly receive; the instruction becomes possible; the learning becomes real; the mastery becomes achievable precisely because the figure understands the cost of closed resistance
+  mechanism: The torment teaches the value of learning through its prevention
+  function: the figure, closed by anxiety, understands with clarity what openness means; when the nightmares release, the figure can approach the page of pentacles with understanding earned through resistance; the anguish becomes the teacher of what true learning requires
+  integration_outcome: The page of pentacles can finally teach the figure whose anxiety has prepared them to truly receive; the instruction becomes possible; the learning becomes real; the mastery becomes achievable precisely because the figure understands the cost of closed resistance
+  key_terms: page of pentacles can finally, torment teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, Knight of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Diligent Worker, The Steadfast Builder, The Committed Labor, Work Consecrated
-numerical_relation: 9 + 12 = 21; the torment meets devoted action
+numerical_relation: 9 + 12 = 21 (XXI The World; the torment meets devoted action)
 elemental_bridge: Air (anxious chaos) meets Earth (steadfast discipline); the tormented cannot sustain work
 threshold_type: The moment when anxiety prevents the committed labor that builds
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Interrupted labor, commitment impossible, building prevented
 
 dynamic_inhibition:
-  blockade: The figure cannot maintain work; the anxiety disrupts every attempt at steady effort
-  consequence: The figure's projects are abandoned; the work remains unfinished; the building never completes
+  mechanism: The figure cannot maintain work
+  blockade_nature: the anxiety disrupts every attempt at steady effort
+  swords_state: The figure's projects are abandoned
+  consequence: the work remains unfinished; the building never completes
+  key_terms: figure cannot maintain work, anxiety disrupts every attempt at, figure's projects are abandoned, work remains unfinished
 
 dynamic_devolution:
-  corruption: The knight of pentacles becomes evidence of a discipline the figure cannot maintain; the figure imagines working steadily but anxiety interrupts; the labor becomes a torture of incompletion
+  mechanism: The knight of pentacles becomes evidence of a discipline the figure cannot maintain
+  mode: the figure imagines working steadily but anxiety interrupts; the labor becomes a torture of incompletion
   loss: The figure loses the capacity to believe they could ever complete anything; they internalize anxiety as evidence of fundamental inability to commit
+  key_terms: figure imagines working steadily, figure loses the capacity, knight of pentacles becomes evidence
 
 dynamic_dependency:
-  integration: The torment teaches the value of sustained work through its prevention; the figure learns through interrupted effort what commitment means; when the nightmares release, the figure can approach the knight of pentacles with understanding earned through fragmentation; the anguish becomes the teacher of what true labor requires
-  outcome: The knight of pentacles welcomes the figure whose anxiety has clarified the value of steadfast work; the labor becomes possible; the commitment becomes real; the building becomes achievable precisely because the figure understands the cost of interrupted effort
+  mechanism: The torment teaches the value of sustained work through its prevention
+  function: the figure learns through interrupted effort what commitment means; when the nightmares release, the figure can approach the knight of pentacles with understanding earned through fragmentation; the anguish becomes the teacher of what true labor requires
+  integration_outcome: The knight of pentacles welcomes the figure whose anxiety has clarified the value of steadfast work; the labor becomes possible; the commitment becomes real; the building becomes achievable precisely because the figure understands the cost of interrupted effort
+  key_terms: figure learns through interrupted effort, knight of pentacles welcomes, torment teaches the value
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, Queen of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Provider, The Nurturing Abundance, The Grounded Generosity, Care Manifest
-numerical_relation: 9 + 13 = 22; the torment meets the fullness of nurturing
+numerical_relation: 9 + 13 = 22 → 2+2=4 (IV The Emperor; the torment meets the fullness of nurturing)
 elemental_bridge: Air (anxious withholding) meets Earth (nurture radiating); the tormented cannot provide
 threshold_type: The moment when anxiety prevents the figure from becoming a source of nourishment
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Feared harm, nurture impossible, care prevented
 
 dynamic_inhibition:
-  blockade: The figure cannot nurture even if they want to; the anxiety prevents the openness care requires
-  consequence: The figure isolates; they withdraw from those who might need them; the nurturing dies inside them
+  mechanism: The figure cannot nurture even if they want to
+  blockade_nature: the anxiety prevents the openness care requires
+  swords_state: The figure isolates
+  consequence: they withdraw from those who might need them; the nurturing dies inside them
+  key_terms: figure cannot nurture even if, anxiety prevents the openness care, figure isolates, they withdraw from those
 
 dynamic_devolution:
-  corruption: The queen of pentacles becomes a vision of nurturing the figure cannot provide; the figure imagines caring but anxiety prevents the gesture; care becomes evidence of a capacity they believe they lack
+  mechanism: The queen of pentacles becomes a vision of nurturing the figure cannot provide
+  mode: the figure imagines caring but anxiety prevents the gesture; care becomes evidence of a capacity they believe they lack
   loss: The figure loses faith in their capacity to nurture; they internalize anxiety as evidence of fundamental inability to care
+  key_terms: figure imagines caring but anxiety, figure loses faith, queen of pentacles
 
 dynamic_dependency:
-  integration: The torment teaches the value of nurturing through its prevention; the figure, isolated by anxiety, understands with clarity what care means; when the nightmares release, the figure can approach the queen of pentacles with understanding earned through isolation; the anguish becomes the teacher of what true care requires
-  outcome: The queen of pentacles welcomes the figure whose anxiety has clarified their capacity to nurture; the care becomes possible; the presence becomes real; the nourishment becomes available precisely because the figure has known the pain of withheld care
+  mechanism: The torment teaches the value of nurturing through its prevention
+  function: the figure, isolated by anxiety, understands with clarity what care means; when the nightmares release, the figure can approach the queen of pentacles with understanding earned through isolation; the anguish becomes the teacher of what true care requires
+  integration_outcome: The queen of pentacles welcomes the figure whose anxiety has clarified their capacity to nurture; the care becomes possible; the presence becomes real; the nourishment becomes available precisely because the figure has known the pain of withheld care
+  key_terms: queen of pentacles welcomes, torment teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP
 
 ---
 
 card_pair: 9 of Swords, King of Pentacles
 archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
 archetype_pentacles: The Master of Manifested Wealth, The Established Authority, The Prosperous Ruler, Domain Secured
-numerical_relation: 9 + 14 = 23; the torment meets the culmination of manifestation and authority
+numerical_relation: 9 + 14 = 23 → 2+3=5 (V The Pope; the torment meets the culmination of manifestation and authority)
 elemental_bridge: Air (anxious powerlessness) meets Earth (mastered domain); the tormented cannot rule
 threshold_type: The moment when anxiety prevents the authority necessary for ruling a domain
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Anxious helplessness, authority impossible, rule prevented
 
 dynamic_inhibition:
-  blockade: The figure cannot establish any authority; the anxiety prevents the confidence rule requires
-  consequence: The figure becomes helpless; they cannot direct anything; their own life remains ungoverned
+  mechanism: The figure cannot establish any authority
+  blockade_nature: the anxiety prevents the confidence rule requires
+  swords_state: The figure becomes helpless
+  consequence: they cannot direct anything; their own life remains ungoverned
+  key_terms: figure cannot establish any authority, anxiety prevents the confidence rule, figure becomes helpless, they cannot direct anything
 
 dynamic_devolution:
-  corruption: The king of pentacles becomes a vision of power the tormented will never have; the figure imagines ruling but anxiety prevents any authority; the kingdom becomes a prophecy of permanent chaos
+  mechanism: The king of pentacles becomes a vision of power the tormented will never have
+  mode: the figure imagines ruling but anxiety prevents any authority; the kingdom becomes a prophecy of permanent chaos
   loss: The figure loses faith in their capacity to rule anything; they internalize anxiety as evidence of fundamental inability to have authority
+  key_terms: figure imagines ruling but anxiety, figure loses faith, king of pentacles
 
 dynamic_dependency:
-  integration: The torment teaches the value of authority through its prevention; the figure, powerless through anxiety, understands with clarity what mastery means; when the nightmares release, the figure can approach the king of pentacles with understanding earned through helplessness; the anguish becomes the teacher of what true rule requires
-  outcome: The king's throne is available to the figure whose anxiety has clarified the value of authority; the rule becomes possible; the mastery becomes real; the domain becomes governable precisely because the figure understands the cost of anxious powerlessness
+  mechanism: The torment teaches the value of authority through its prevention
+  function: the figure, powerless through anxiety, understands with clarity what mastery means; when the nightmares release, the figure can approach the king of pentacles with understanding earned through helplessness; the anguish becomes the teacher of what true rule requires
+  integration_outcome: The king's throne is available to the figure whose anxiety has clarified the value of authority; the rule becomes possible; the mastery becomes real; the domain becomes governable precisely because the figure understands the cost of anxious powerlessness
+  key_terms: king's throne is available, torment teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: NPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OSP

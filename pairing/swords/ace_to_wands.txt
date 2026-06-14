@@ -1,7 +1,7 @@
 card_pair: Ace of Swords, Ace of Wands
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
-numerical_relation: Ace-1 (Truth igniting creative fire; clarity fueling enterprise)
+numerical_relation: 1 + 1 = 2 (II The High Priestess; Truth igniting creative fire; clarity fueling enterprise)
 elemental_bridge: Air intellectual vision channeling fire creative spark; truth empowering action
 threshold_type: The inspired breakthrough; truth catalyzing creative action
 
@@ -14,8 +14,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth demands examination before action; creativity wants immediate expression
   tension_axis: Intellectual deliberation versus creative urgency; truth-verification versus fire-speed
-  swords_position: Questions before acting; wants to verify truth of direction
-  wands_position: Acts immediately on vision; resists intellectual analysis delaying action
+  ace_of_swords_position: Questions before acting; wants to verify truth of direction
+  ace_of_wands_position: Acts immediately on vision; resists intellectual analysis delaying action
   key_terms: deliberation versus urgency, verification versus action, truth versus speed, intellect versus fire
 
 dynamic_inhibition:
@@ -39,19 +39,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSW
 
 ---
 
 card_pair: Ace of Swords, 2 of Wands
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
-numerical_relation: Ace-2 (Truth revealing personal power; clarity enabling wise dominion)
+numerical_relation: 1 + 2 = 3 (III The Empress; Truth revealing personal power; clarity enabling wise dominion)
 elemental_bridge: Air intellectual clarity channeling fire personal authority; truth empowering choice
 threshold_type: The truthful authority; power grounded in clear understanding
 
@@ -64,8 +64,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth challenges confident personal authority; clarity reveals uncomfortable limitations
   tension_axis: Intellectual honesty versus authoritative certainty; truth exposure versus power-confidence
-  swords_position: Cuts through authority illusions; exposes limitations and weaknesses in power
-  wands_position: Asserts confident authority; resists intellectual disruption of power-certainty
+  ace_of_swords_position: Cuts through authority illusions; exposes limitations and weaknesses in power
+  ace_of_wands_position: Asserts confident authority; resists intellectual disruption of power-certainty
   key_terms: exposure versus confidence, truth versus authority, clarity versus certainty, honesty versus power
 
 dynamic_inhibition:
@@ -89,19 +89,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSW
 
 ---
 
 card_pair: Ace of Swords, 3 of Wands
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
-numerical_relation: Ace-3 (Truth illuminating foresight; clarity enabling collaborative vision)
+numerical_relation: 1 + 3 = 4 (IV The Emperor; Truth illuminating foresight; clarity enabling collaborative vision)
 elemental_bridge: Air intellectual vision enhancing fire foresight; clarity enabling enterprise
 threshold_type: The truthful vision; foresight grounded in clear understanding
 
@@ -114,8 +114,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth questions visionary optimism; clarity reveals uncomfortable realities in plans
   tension_axis: Intellectual honesty versus optimistic vision; truth exposure versus visionary confidence
-  swords_position: Cuts through visionary illusions; exposes unrealistic elements in plans
-  wands_position: Maintains confident vision; resists intellectual disruption of enterprise optimism
+  ace_of_swords_position: Cuts through visionary illusions; exposes unrealistic elements in plans
+  ace_of_wands_position: Maintains confident vision; resists intellectual disruption of enterprise optimism
   key_terms: exposure versus confidence, truth versus vision, clarity versus optimism, honesty versus faith
 
 dynamic_inhibition:
@@ -139,19 +139,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSW
 
 ---
 
 card_pair: Ace of Swords, 4 of Wands
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_wands: Celebration, harmony, community, home, joy, establishment
-numerical_relation: Ace-4 (Truth grounding celebration; clarity establishing harmony)
+numerical_relation: 1 + 4 = 5 (V The Pope; Truth grounding celebration; clarity establishing harmony)
 elemental_bridge: Air intellectual clarity strengthening fire celebration; truth enabling authentic joy
 threshold_type: The truthful celebration; harmony grounded in clear understanding
 
@@ -164,8 +164,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth cuts through celebratory comfort; clarity disrupts the carefree joy celebration requires
   tension_axis: Intellectual exposure versus festive ease; truth-telling versus celebratory comfort
-  swords_position: Cuts through celebratory illusions; exposes uncomfortable truths amid festivity
-  wands_position: Seeks festive joy and communal ease; resists intellectual disruption of celebration
+  ace_of_swords_position: Cuts through celebratory illusions; exposes uncomfortable truths amid festivity
+  ace_of_wands_position: Seeks festive joy and communal ease; resists intellectual disruption of celebration
   key_terms: exposure versus ease, truth versus festivity, clarity versus joy, intellect versus celebration
 
 dynamic_inhibition:
@@ -189,9 +189,509 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
   encoding: UTF-8
   elemental_primary: air (swords) to fire (wands)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, 5 of Wands
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_wands: Conflict, competition, competition, struggle, contested victory
+numerical_relation: 1 + 5 = 6 (VI The Lovers; the new truth enters the scramble of competition)
+elemental_bridge: Air's clarity meets Fire's melee; the cutting truth enters a chaotic fight
+threshold_type: The moment a clear truth enters a chaotic fight
+
+dynamic_genesis:
+  mechanism: The insight names what the fight is actually about; clarity turns a scramble into a real contest
+  process: the new truth cuts through the noise of competing claims; the melee gains a point
+  outcome: a conflict made meaningful; struggle organized around a clarified stake
+  key_terms: the named stake, organized contest, clarified conflict, noise cut through
+
+dynamic_antagonism:
+  mechanism: Single clear truth collides with many scattered combatants; the one cut meets the general brawl
+  tension_axis: the decisive point versus the diffuse scramble
+  ace_of_swords_position: Insists on the one thing actually at stake
+  five_of_wands_position: Fights on every front, refusing to be reduced to a single point
+  key_terms: one against many, decisive versus diffuse, the refused point, scattered fight
+
+dynamic_inhibition:
+  mechanism: Analysis freezes the fight into endless debate; the insight talks the contest to a standstill
+  blockade_nature: clarity converts blows into arguments that never resolve; the energy has nowhere to go
+  swords_state: the clear mind refereeing a struggle it has argued into paralysis
+  consequence: the contest stalls in talk; nothing is won and nothing released
+  key_terms: fight into debate, argued to standstill, stalled contest, energy with no outlet
+
+dynamic_devolution:
+  mechanism: Truth becomes the sharpest weapon in the brawl; clarity used to wound rather than resolve
+  mode: insight wielded as a blade in the scramble; being right turned into a way to win dirty
+  loss: the chance to resolve the conflict; truth degraded into ammunition
+  key_terms: truth as weapon, winning dirty, ammunition not resolution, the sharpened brawl
+
+dynamic_dependency:
+  mechanism: The fight needs clarity to find its real subject; clarity needs the contest to test whether it holds under pressure
+  function: Swords-Ace supplies the point that makes the struggle worth having; Wands-5 supplies the live competition that proves the truth in practice
+  integration_outcome: a contest that settles something; competition clarified into productive challenge
+  key_terms: productive challenge, settled contest, truth under pressure, clarified competition
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, 6 of Wands
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 1 + 6 = 7 (VII The Chariot; the new truth examines the public victory)
+elemental_bridge: Air's clarity meets Fire's triumph; the new truth examines celebrated success
+threshold_type: The moment honest sight meets celebrated success
+
+dynamic_genesis:
+  mechanism: Clarity confirms the victory is real and names what actually won it; recognition gains substance
+  process: the insight separates genuine achievement from mere acclaim; the triumph is verified
+  outcome: a victory that withstands examination; honor grounded in real accomplishment
+  key_terms: verified triumph, substance behind acclaim, grounded honor, examined success
+
+dynamic_antagonism:
+  mechanism: Honest appraisal collides with the appetite for acclaim; truth meets the need to be celebrated
+  tension_axis: what was actually achieved versus what is being applauded
+  ace_of_swords_position: Names the gap between the acclaim and the deed
+  six_of_wands_position: Wants the recognition undiminished by qualification
+  key_terms: deed versus applause, named gap, qualified acclaim, the punctured parade
+
+dynamic_inhibition:
+  mechanism: Scrutiny punctures the celebration before it can land; the insight will not let the victory be enjoyed
+  blockade_nature: clarity stalls recognition with caveats; the triumph cannot be received
+  swords_state: the clear mind auditing a victory it has drained of its joy
+  consequence: the honor goes unfelt; success and clarity both stall in qualification
+  key_terms: punctured celebration, drained joy, unreceived honor, the audited triumph
+
+dynamic_devolution:
+  mechanism: Truth is used to tear the victor down, or acclaim inflates into propaganda the truth ignores
+  mode: clarity become demolition, or success become spin; either way truth and honor part ways
+  loss: the integrity of earned recognition; victory either smeared or falsified
+  key_terms: demolition or spin, falsified victory, smeared honor, truth and acclaim parted
+
+dynamic_dependency:
+  mechanism: The victory needs clarity to stay honest; clarity needs the victory to give its truth something worth recognizing
+  function: Swords-Ace supplies the honest measure of the achievement; Wands-6 supplies the public deed that makes the truth matter
+  integration_outcome: recognition that is deserved and known to be; honor and honesty carried together
+  key_terms: deserved recognition, honest honor, measured achievement, truth carried in triumph
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, 7 of Wands
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 1 + 7 = 8 (VIII Justice; the new truth meets the embattled stand)
+elemental_bridge: Air's clarity meets Fire's defense; the new truth meets a defended position
+threshold_type: The moment clear sight meets a defended position
+
+dynamic_genesis:
+  mechanism: Clarity tells the defender which ground is actually worth holding; truth fortifies the stand with reasons
+  process: the insight examines the position and confirms or redirects it; the defense gains a rationale
+  outcome: a stand made principled; resistance grounded in a clear cause
+  key_terms: worth-defending ground, principled stand, fortified by reason, clarified cause
+
+dynamic_antagonism:
+  mechanism: Questioning truth collides with the need to hold firm; the insight asks what the defender cannot afford to doubt
+  tension_axis: examining the position versus maintaining it
+  ace_of_swords_position: Asks whether this ground is worth the cost of holding
+  seven_of_wands_position: Cannot afford doubt while under attack; holds regardless
+  key_terms: question against hold, costly ground, doubt under fire, the interrogated stand
+
+dynamic_inhibition:
+  mechanism: Doubt weakens the defense; the insight saps the conviction the stand requires
+  blockade_nature: clarity converts resolve into hesitation; the position cannot be held half-believed
+  swords_state: the clear mind undermining a defense it has filled with second thoughts
+  consequence: the stand falters from doubt rather than defeat; the ground is lost to hesitation
+  key_terms: sapped conviction, half-believed stand, doubt under fire, ground lost to hesitation
+
+dynamic_devolution:
+  mechanism: Truth is bent to justify a hopeless or wrong stand; clarity recruited to defend the indefensible
+  mode: insight become rationalization; the sword arguing for ground that should be yielded
+  loss: the honesty that would have known when to step down; rigidity dressed as principle
+  key_terms: rationalized stand, defended indefensible, rigidity as principle, honesty bent
+
+dynamic_dependency:
+  mechanism: The defense needs clarity to know what is worth it; clarity needs the stand to put its truth into practice
+  function: Swords-Ace supplies the judgment of which ground matters; Wands-7 supplies the resolve that makes the truth count
+  integration_outcome: a defense both committed and discerning; standing ground for a reason that holds
+  key_terms: discerning resolve, committed clarity, ground held for cause, truth defended well
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, 8 of Wands
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 1 + 8 = 9 (IX The Hermit; the new truth meets swift flight)
+elemental_bridge: Air's clarity meets Fire's velocity; a clear aim meets rapid motion
+threshold_type: The moment a clear aim meets rapid motion
+
+dynamic_genesis:
+  mechanism: Clarity aims the speed; the insight gives the rushing arrows a target
+  process: the new truth points the momentum before it scatters; direction precedes acceleration
+  outcome: swift action that lands true; velocity made precise by aim
+  key_terms: aimed velocity, precise speed, targeted momentum, direction before flight
+
+dynamic_antagonism:
+  mechanism: Deliberate truth collides with action too fast to consult it; the aim arrives after the loosing
+  tension_axis: the considered shot versus the immediate flight
+  ace_of_swords_position: Demands a moment to aim before release
+  eight_of_wands_position: Is already in flight; cannot pause to be aimed
+  key_terms: aim against flight, the late target, speed outrunning thought, no time to consider
+
+dynamic_inhibition:
+  mechanism: Analysis slows the momentum to a crawl; the insight loads the swift action with deliberation
+  blockade_nature: clarity converts speed into hesitation; the arrows hang while the mind weighs
+  swords_state: the clear mind grounding a flight it has overthought
+  consequence: the moment passes; momentum lost to deliberation
+  key_terms: speed into hesitation, overthought flight, the passed moment, grounded arrows
+
+dynamic_devolution:
+  mechanism: A hasty half-truth is flung at full speed; clarity sacrificed to keep up with the action
+  mode: insight become the snap judgment fired without checking; velocity carrying error far and fast
+  loss: the accuracy truth requires; a wrong conclusion delivered before it can be caught
+  key_terms: snap judgment, error at speed, sacrificed accuracy, half-truth flung far
+
+dynamic_dependency:
+  mechanism: The speed needs clarity to aim it; clarity needs the speed to deliver its truth in time
+  function: Swords-Ace supplies the target that makes the velocity worthwhile; Wands-8 supplies the momentum that carries the truth to its mark
+  integration_outcome: a truth delivered swiftly and accurately; the right thing done in time
+  key_terms: swift accuracy, truth in time, aimed momentum, the right mark hit
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, 9 of Wands
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 1 + 9 = 10 (X The Wheel of Fortune; the new truth meets the battle-worn guardian)
+elemental_bridge: Air's clarity meets Fire's endurance; the new truth meets tested resilience
+threshold_type: The moment fresh insight meets tested resilience
+
+dynamic_genesis:
+  mechanism: Clarity tells the weary guardian which battle still remains and which is already over
+  process: the insight reads the situation the exhaustion has clouded; effort is redirected to what matters
+  outcome: endurance spent wisely; resilience aimed by clear sight rather than habit
+  key_terms: clarified battle, wisely spent endurance, aimed resilience, habit corrected
+
+dynamic_antagonism:
+  mechanism: Fresh insight collides with battle-worn caution; the new truth meets a guardian who trusts only scars
+  tension_axis: the new reading versus the hard-earned wariness
+  ace_of_swords_position: Offers a clarity that the situation has changed and the old guard is fighting the last war
+  nine_of_wands_position: Trusts only what has been survived; distrusts the untested new truth
+  key_terms: new reading against old scars, fighting the last war, distrusted clarity, wary endurance
+
+dynamic_inhibition:
+  mechanism: A new truth arrives that the exhausted cannot act on; clarity exceeds the remaining strength
+  blockade_nature: the insight is sound but there is no energy left to apply it; sight outruns capacity
+  swords_state: the clear mind seeing exactly what to do before a body too tired to do it
+  consequence: the truth goes unused; clarity and endurance both stall at depletion
+  key_terms: sight beyond strength, unusable truth, depletion, clarity outrunning capacity
+
+dynamic_devolution:
+  mechanism: Truth becomes one more blow to the weary; the sword adds a verdict to the exhaustion
+  mode: clarity become the criticism the worn-down guardian cannot absorb; insight as the last straw
+  loss: the resilience that remained; the guardian broken by being told, not by the fight
+  key_terms: truth as the last straw, broken by verdict, criticism the weary can't bear, resilience lost
+
+dynamic_dependency:
+  mechanism: The guardian needs clarity to stop wasting strength; clarity needs the endurance to carry the truth through to the end
+  function: Swords-Ace supplies the sight that spares wasted effort; Wands-9 supplies the perseverance that sees the truth through
+  integration_outcome: endurance guided by clear sight; a long stand made effective rather than merely stubborn
+  key_terms: guided endurance, effective stand, spared effort, perseverance with sight
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, 10 of Wands
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 1 + 10 = 11 (XI Strength; the new truth meets the crushing load)
+elemental_bridge: Air's clarity meets Fire's burden; clear sight meets an overwhelming weight
+threshold_type: The moment clear sight meets an overwhelming weight
+
+dynamic_genesis:
+  mechanism: Clarity discerns what in the load is truly the bearer's to carry and what can be set down
+  process: the insight sorts the burden into the essential and the assumed; weight is reduced by understanding
+  outcome: a load made bearable by being understood; responsibility clarified to its real size
+  key_terms: sorted burden, essential versus assumed, lightened by understanding, real-size responsibility
+
+dynamic_antagonism:
+  mechanism: The clarifying truth collides with the conviction that all of it must be carried; insight meets the reflex to shoulder everything
+  tension_axis: what is actually owed versus what is compulsively carried
+  ace_of_swords_position: Names what is not the bearer's to carry
+  ten_of_wands_position: Cannot distinguish the load from duty; carries it all
+  key_terms: owed versus compulsive, named excess, the indistinct load, carrying everything
+
+dynamic_inhibition:
+  mechanism: The insight is offered but the overburdened cannot act on it; clarity is one more thing to hold
+  blockade_nature: the truth about what to drop cannot be used while every faculty is spent on carrying
+  swords_state: the clear mind seeing the way to lighten a load the body cannot stop to set down
+  consequence: nothing is released; the understanding adds to the weight rather than easing it
+  key_terms: unusable insight, no hands free to act, understanding as weight, the unreleased load
+
+dynamic_devolution:
+  mechanism: Truth adds a verdict of failure to the burden; the sword tells the bearer the load is their own fault
+  mode: clarity become accusation; insight that shames rather than relieves
+  loss: the dignity of the effort; the burden made heavier by blame
+  key_terms: verdict of failure, shaming insight, blame added to weight, dignity lost
+
+dynamic_dependency:
+  mechanism: The bearer needs clarity to know what to put down; clarity needs the burden to ground its truth in real obligation
+  function: Swords-Ace supplies the discernment that separates duty from excess; Wands-10 supplies the lived weight that makes the truth practical
+  integration_outcome: a load carried by choice and understanding; responsibility right-sized and owned
+  key_terms: right-sized load, chosen responsibility, duty distinguished, practical clarity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, Page of Wands
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 1 + 11 = 12 (XII The Hanged Man; the new truth meets young enthusiasm)
+elemental_bridge: Air's clarity meets Fire's first spark; the new truth meets eager untrained fire
+threshold_type: The moment fresh insight meets eager untrained fire
+
+dynamic_genesis:
+  mechanism: Clarity gives the spark a direction; the insight tells the raw enthusiasm where it could go
+  process: the new truth meets the eager fire and shapes it; potential gains an aim
+  outcome: enthusiasm with direction; a spark that knows what it could become
+  key_terms: directed spark, aimed enthusiasm, shaped potential, fire with a target
+
+dynamic_antagonism:
+  mechanism: Examining truth collides with eager fire; the insight tests what only wanted to burn
+  tension_axis: the examined potential versus the eager impulse
+  ace_of_swords_position: Asks whether the enthusiasm has any substance before it spreads
+  page_of_wands_position: Only wanted to catch fire, not to be questioned
+  key_terms: examination against eagerness, tested spark, questioned enthusiasm, substance demanded
+
+dynamic_inhibition:
+  mechanism: Analysis smothers the spark; the insight dampens the fire before it can catch
+  blockade_nature: clarity introduces a doubt the young fire cannot survive; enthusiasm cannot kindle under scrutiny
+  swords_state: the clear mind watching a spark it has thought into going out
+  consequence: the enthusiasm dies unkindled; potential and insight both stall
+  key_terms: smothered spark, dampened fire, doubt that won't let it catch, unkindled potential
+
+dynamic_devolution:
+  mechanism: Criticism extinguishes the enthusiasm entirely; the sword proves the spark was naive
+  mode: clarity become the cold verdict that kills beginnings; insight used to deflate
+  loss: the creative potential; a fire put out before it could prove itself
+  key_terms: extinguished spark, deflating verdict, killed beginning, naivety proven
+
+dynamic_dependency:
+  mechanism: The spark needs clarity to find its direction; clarity needs the spark to have energy worth aiming
+  function: Swords-Ace supplies the aim that keeps the enthusiasm from scattering; Wands-Page supplies the fire that gives the truth something to ignite
+  integration_outcome: an inspired beginning with direction; enthusiasm and insight kindling together
+  key_terms: inspired direction, aimed fire, kindled potential, energy with sight
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, Knight of Wands
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 1 + 12 = 13 (XIII Death; the new truth meets headlong action)
+elemental_bridge: Air's clarity meets Fire's charge; the new truth meets passionate haste
+threshold_type: The moment clear sight meets passionate haste
+
+dynamic_genesis:
+  mechanism: Clarity aims the charge; the insight gives the bold movement a true direction
+  process: the new truth points the passionate pursuit before it commits; daring is steered by sight
+  outcome: bold action that goes the right way; passion made effective by aim
+  key_terms: aimed charge, steered passion, effective daring, direction before commitment
+
+dynamic_antagonism:
+  mechanism: Deliberate truth collides with haste; the insight asks for a pause the charger will not give
+  tension_axis: the considered course versus the immediate charge
+  ace_of_swords_position: Demands the aim be checked before the commitment
+  knight_of_wands_position: Is already moving; treats deliberation as cowardice
+  key_terms: pause against charge, unchecked commitment, haste over thought, the refused aim
+
+dynamic_inhibition:
+  mechanism: The insight the charger won't pause for goes unheard; clarity arrives but cannot stop the motion to be applied
+  blockade_nature: the truth is sound but the haste outruns it; sight cannot reach action already underway
+  swords_state: the clear mind shouting a correction the charge has already left behind
+  consequence: the action proceeds unguided; clarity and pursuit move on separate tracks
+  key_terms: unheard correction, haste outrunning sight, unguided action, separate tracks
+
+dynamic_devolution:
+  mechanism: A half-truth fuels reckless action; clarity reduced to a slogan that justifies the charge
+  mode: insight become the rallying cry fired without checking; conviction substituting for accuracy
+  loss: the discernment that would have aimed the passion; boldness become recklessness
+  key_terms: slogan not truth, reckless conviction, boldness become recklessness, accuracy lost
+
+dynamic_dependency:
+  mechanism: The charge needs clarity to aim it; clarity needs the charge to enact its truth in the world
+  function: Swords-Ace supplies the direction that makes the daring count; Wands-Knight supplies the bold motion that puts the truth into action
+  integration_outcome: passion that moves with purpose; a charge aimed true and pressed home
+  key_terms: purposeful passion, aimed daring, truth enacted, charge pressed home
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, Queen of Wands
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 1 + 13 = 14 (XIV Temperance; the new truth meets radiant authority)
+elemental_bridge: Air's clarity meets Fire's magnetism; sharp insight meets charismatic presence
+threshold_type: The moment sharp insight meets charismatic presence
+
+dynamic_genesis:
+  mechanism: Clarity gives the charisma substance; the insight ensures the magnetism leads somewhere true
+  process: the new truth grounds the radiant presence in something real; magnetism gains a message worth following
+  outcome: charisma with substance; leadership that draws people toward what is actually so
+  key_terms: substantive charisma, grounded magnetism, true message, leadership with content
+
+dynamic_antagonism:
+  mechanism: Cool truth collides with warm magnetism; the insight that stands on facts meets the presence that moves on feeling
+  tension_axis: what is true versus what is compelling
+  ace_of_swords_position: Insists on the fact even when it dims the room
+  queen_of_wands_position: Trusts the magnetism that wins people over the fact that cools them
+  key_terms: true versus compelling, the dimmed room, fact against charm, cooled presence
+
+dynamic_inhibition:
+  mechanism: Analysis dims the radiance; the insight makes the leader second-guess the presence that was her power
+  blockade_nature: clarity converts magnetism into self-consciousness; the charisma cannot shine while examined
+  swords_state: the clear mind watching a radiance it has thought into dimness
+  consequence: the presence falters; magnetism and clarity both stall in self-doubt
+  key_terms: dimmed radiance, self-conscious charisma, examined presence, faltered magnetism
+
+dynamic_devolution:
+  mechanism: Truth is used to deflate her presence, or charisma overrides the truth entirely; either way one silences the other
+  mode: clarity become the cynic puncturing every room, or magnetism become spin immune to fact
+  loss: the union of substance and appeal; either a true voice no one follows or a followed voice that lies
+  key_terms: punctured presence or fact-proof charm, substance and appeal split, the silenced one, lying or unheard
+
+dynamic_dependency:
+  mechanism: The charisma needs clarity to be worth following; clarity needs the charisma to carry its truth to others
+  function: Swords-Ace supplies the substance that makes the magnetism trustworthy; Wands-Queen supplies the presence that makes the truth contagious
+  integration_outcome: a leader both magnetic and truthful; clarity carried on a presence people gladly follow
+  key_terms: trustworthy magnetism, contagious truth, magnetic clarity, presence with substance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSW
+
+---
+
+card_pair: Ace of Swords, King of Wands
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 1 + 14 = 15 (XV The Devil; the new truth meets commanding vision)
+elemental_bridge: Air's clarity meets Fire's vision; precise insight meets sweeping vision
+threshold_type: The moment precise insight meets sweeping vision
+
+dynamic_genesis:
+  mechanism: Clarity grounds the vision; the insight checks the sweeping plan against what is actually so
+  process: the new truth tests the king's grand design and sharpens it; vision gains rigor
+  outcome: a vision both grand and sound; leadership that sees far and true at once
+  key_terms: grounded vision, tested design, rigorous leadership, far and true
+
+dynamic_antagonism:
+  mechanism: Precise truth collides with sweeping vision; the detail that is verifiable meets the scope that is not yet
+  tension_axis: the provable point versus the grand horizon
+  ace_of_swords_position: Insists nothing be claimed beyond what can be shown
+  king_of_wands_position: Leads by a vision that cannot yet be proven, only pursued
+  key_terms: detail against horizon, the unprovable scope, provable point, vision versus verification
+
+dynamic_inhibition:
+  mechanism: Analysis constrains the vision; the insight refuses the leap the grand design requires
+  blockade_nature: clarity will not let the vision exceed the evidence; the horizon is shrunk to the proven
+  swords_state: the clear mind fencing a vision down to only what it can already verify
+  consequence: the design is stunted; nothing generative survives the demand for proof
+  key_terms: shrunk horizon, stunted design, proof refusing the leap, fenced vision
+
+dynamic_devolution:
+  mechanism: Truth narrows the vision into pedantry, or the vision ignores the truth and overreaches; either way leadership fails
+  mode: clarity become the nitpick that kills scope, or vision become hubris deaf to fact
+  loss: the balance of scope and rigor; either a vision that lies or a truth that builds nothing
+  key_terms: pedantry or hubris, scope killed or fact ignored, overreach, vision and rigor split
+
+dynamic_dependency:
+  mechanism: The vision needs clarity to stay sound; clarity needs the vision to give its truth scope and purpose
+  function: Swords-Ace supplies the rigor that keeps the design honest; Wands-King supplies the vision that gives the truth somewhere grand to go
+  integration_outcome: leadership that is both visionary and exact; a grand design that holds up to scrutiny
+  key_terms: visionary rigor, exact ambition, sound design, truth given scope
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with wands graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 1-1 through 1-14
   uid: AOSW

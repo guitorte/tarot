@@ -1,7 +1,7 @@
 card_pair: Ace of Swords, Ace of Cups
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_cups: Emotion, receptivity, love, connection, relational openness
-numerical_relation: Ace-1 (Truth encountering emotion; clarity meeting receptivity)
+numerical_relation: 1 + 1 = 2 (II The High Priestess; Truth encountering emotion; clarity meeting receptivity)
 elemental_bridge: Air intellectual truth meeting water emotional receptivity; clarity disrupting emotional flow
 threshold_type: The truthful heart; intellect encountering pure emotion
 
@@ -14,8 +14,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth cuts through emotional comfort; clarity disrupts peaceful feeling-state
   tension_axis: Intellectual exposure versus emotional safety; truth-telling versus protective feeling
-  swords_position: Cuts through emotional illusions; exposes uncomfortable truths about feelings
-  cups_position: Seeks emotional comfort and safety; resists intellectual penetration of feelings
+  ace_of_swords_position: Cuts through emotional illusions; exposes uncomfortable truths about feelings
+  ace_of_cups_position: Seeks emotional comfort and safety; resists intellectual penetration of feelings
   key_terms: exposure versus safety, truth versus comfort, clarity versus peace, intellect versus feeling
 
 dynamic_inhibition:
@@ -39,19 +39,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSC
 
 ---
 
 card_pair: Ace of Swords, 2 of Cups
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_cups: Partnership, duality, intimate connection, emotional reciprocity, union
-numerical_relation: Ace-2 (Truth testing partnership; clarity examining intimate bond)
+numerical_relation: 1 + 2 = 3 (III The Empress; Truth testing partnership; clarity examining intimate bond)
 elemental_bridge: Air intellectual examination meeting water intimate bonding; clarity disrupting union
 threshold_type: The interrogated partnership; truth testing love's foundation
 
@@ -64,8 +64,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth demands exposure of partner illusions; clarity reveals uncomfortable realities about relationship
   tension_axis: Intellectual honesty versus comfortable romantic illusion; truth exposure versus protective bonding
-  swords_position: Cuts through romantic illusions; exposes incompatibilities and hidden issues
-  cups_position: Seeks comfortable union; resists intellectual disruption of emotional bond
+  ace_of_swords_position: Cuts through romantic illusions; exposes incompatibilities and hidden issues
+  ace_of_cups_position: Seeks comfortable union; resists intellectual disruption of emotional bond
   key_terms: exposure versus comfort, truth versus illusion, clarity versus bonding, honesty versus harmony
 
 dynamic_inhibition:
@@ -89,19 +89,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSC
 
 ---
 
 card_pair: Ace of Swords, 3 of Cups
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_cups: Celebration, joy, emotional community, creative festivity, shared happiness
-numerical_relation: Ace-3 (Truth interrupting celebration; clarity disrupting communal joy)
+numerical_relation: 1 + 3 = 4 (IV The Emperor; Truth interrupting celebration; clarity disrupting communal joy)
 elemental_bridge: Air intellectual intrusion disrupting water communal joy; clarity wounding festivity
 threshold_type: The questioned celebration; truth interrupting shared happiness
 
@@ -114,8 +114,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth cuts through celebratory comfort; clarity disrupts the carefree state celebration requires
   tension_axis: Intellectual exposure versus festive ease; truth-telling versus celebratory ignorance
-  swords_position: Cuts through celebratory illusions; exposes uncomfortable truths amid festivity
-  cups_position: Seeks festive joy and collective ease; resists intellectual disruption of celebration
+  ace_of_swords_position: Cuts through celebratory illusions; exposes uncomfortable truths amid festivity
+  ace_of_cups_position: Seeks festive joy and collective ease; resists intellectual disruption of celebration
   key_terms: exposure versus ease, truth versus festivity, clarity versus joy, intellect versus celebration
 
 dynamic_inhibition:
@@ -139,19 +139,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSC
 
 ---
 
 card_pair: Ace of Swords, 4 of Cups
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_cups: Apathy, withdrawal, contemplation, emotional rest, introspective pause
-numerical_relation: Ace-4 (Truth interrupting contemplation; clarity piercing withdrawal)
+numerical_relation: 1 + 4 = 5 (V The Pope; Truth interrupting contemplation; clarity piercing withdrawal)
 elemental_bridge: Air intellectual penetration breaking water introspective stillness; clarity disrupting rest
 threshold_type: The awakening torpor; truth forcing consciousness through emotional numbness
 
@@ -164,8 +164,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth demands consciousness amid emotional numbness; clarity disrupts the peace withdrawal provides
   tension_axis: Intellectual awakening versus emotional rest; truth pressure versus contemplative ease
-  swords_position: Cuts through emotional numbness; forces consciousness and awakening
-  cups_position: Seeks emotional rest and withdrawal; resists being disturbed
+  ace_of_swords_position: Cuts through emotional numbness; forces consciousness and awakening
+  ace_of_cups_position: Seeks emotional rest and withdrawal; resists being disturbed
   key_terms: awakening versus rest, truth versus ease, clarity versus numbness, consciousness versus torpor
 
 dynamic_inhibition:
@@ -189,19 +189,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSC
 
 ---
 
 card_pair: Ace of Swords, 5 of Cups
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_cups: Loss, grief, sorrow, emotional devastation, mourning
-numerical_relation: Ace-5 (Truth piercing grief; clarity illuminating loss)
+numerical_relation: 1 + 5 = 6 (VI The Lovers; Truth piercing grief; clarity illuminating loss)
 elemental_bridge: Air intellectual penetration of water grief-ocean; clarity cutting through sorrow
 threshold_type: The truthful grief; clarity facing emotional devastation
 
@@ -214,8 +214,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth cuts through comforting grief-narratives; clarity disrupts protective sorrow-denial
   tension_axis: Intellectual honesty versus protective denial; truth exposure versus grief-protective illusion
-  swords_position: Cuts through false comfort-narratives; exposes the full reality of loss
-  cups_position: Seeks protective grief-narratives; resists harsh clarity about loss
+  ace_of_swords_position: Cuts through false comfort-narratives; exposes the full reality of loss
+  ace_of_cups_position: Seeks protective grief-narratives; resists harsh clarity about loss
   key_terms: exposure versus comfort, truth versus denial, clarity versus narrative, honesty versus protection
 
 dynamic_inhibition:
@@ -239,19 +239,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSC
 
 ---
 
 card_pair: Ace of Swords, 6 of Cups
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_cups: Innocence, nostalgia, childhood joy, simple pleasures, protective memory
-numerical_relation: Ace-6 (Truth disrupting innocence; clarity piercing protective nostalgia)
+numerical_relation: 1 + 6 = 7 (VII The Chariot; Truth disrupting innocence; clarity piercing protective nostalgia)
 elemental_bridge: Air intellectual exposure disrupting water innocent joy; clarity wounding protective memory
 threshold_type: The questioned innocence; truth interrupting nostalgic comfort
 
@@ -264,8 +264,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth cuts through protective innocence-narratives; clarity shatters comforting childhood-memories
   tension_axis: Intellectual exposure versus protective comfort; truth revelation versus nostalgic ease
-  swords_position: Cuts through innocent illusions; exposes uncomfortable truths about past
-  cups_position: Seeks protective nostalgia and innocent memory; resists truth disrupting comfort
+  ace_of_swords_position: Cuts through innocent illusions; exposes uncomfortable truths about past
+  ace_of_cups_position: Seeks protective nostalgia and innocent memory; resists truth disrupting comfort
   key_terms: exposure versus comfort, truth versus innocence, clarity versus memory, revelation versus ease
 
 dynamic_inhibition:
@@ -289,19 +289,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSC
 
 ---
 
 card_pair: Ace of Swords, 7 of Cups
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_cups: Illusion, fantasy, delusion, temptation, wishful thinking
-numerical_relation: Ace-7 (Truth dispelling illusion; clarity penetrating fantasy)
+numerical_relation: 1 + 7 = 8 (VIII Justice; Truth dispelling illusion; clarity penetrating fantasy)
 elemental_bridge: Air intellectual clarity dispersing water illusory mist; truth cutting through fantasy
 threshold_type: The awakening dream; clarity destroying beautiful delusions
 
@@ -314,8 +314,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth destroys comfortable fantasies; clarity shatters protective illusions
   tension_axis: Intellectual reality versus emotional fantasy; truth exposure versus comforting delusion
-  swords_position: Cuts through illusions; exposes the falseness of wishful thinking
-  cups_position: Seeks comforting fantasy; resists harsh reality-truth
+  ace_of_swords_position: Cuts through illusions; exposes the falseness of wishful thinking
+  ace_of_cups_position: Seeks comforting fantasy; resists harsh reality-truth
   key_terms: exposure versus comfort, truth versus fantasy, clarity versus illusion, reality versus delusion
 
 dynamic_inhibition:
@@ -339,19 +339,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSC
 
 ---
 
 card_pair: Ace of Swords, 8 of Cups
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_cups: Abandonment, departure, disillusionment, turning away, emotional severance
-numerical_relation: Ace-8 (Truth enabling departure; clarity catalyzing necessary separation)
+numerical_relation: 1 + 8 = 9 (IX The Hermit; Truth enabling departure; clarity catalyzing necessary separation)
 elemental_bridge: Air intellectual clarity enabling water emotional release; truth facilitating necessary abandonment
 threshold_type: The awakened departure; clarity enabling chosen separation
 
@@ -364,8 +364,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth accelerates departure already resisted; clarity forces abandonment-recognition
   tension_axis: Intellectual clarity about necessity versus emotional attachment; truth pressure versus abandonment-resistance
-  swords_position: Cuts through emotional attachment-illusions; forces recognition of departure necessity
-  cups_position: Resists departure-truth; seeks to maintain connection despite clarity
+  ace_of_swords_position: Cuts through emotional attachment-illusions; forces recognition of departure necessity
+  ace_of_cups_position: Resists departure-truth; seeks to maintain connection despite clarity
   key_terms: clarity versus attachment, truth versus resistance, necessity versus hope, severance versus holding
 
 dynamic_inhibition:
@@ -389,19 +389,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSC
 
 ---
 
 card_pair: Ace of Swords, 9 of Cups
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_cups: Wish fulfillment, contentment, satisfaction, emotional gratification, desire-fulfillment
-numerical_relation: Ace-9 (Truth examining contentment; clarity piercing satisfaction)
+numerical_relation: 1 + 9 = 10 (X The Wheel of Fortune; Truth examining contentment; clarity piercing satisfaction)
 elemental_bridge: Air intellectual scrutiny penetrating water contentment; clarity questioning satisfaction
 threshold_type: The examined satisfaction; truth interrupting contentment
 
@@ -414,8 +414,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth cuts through comforting contentment; clarity reveals uncomfortable realities beneath satisfaction
   tension_axis: Intellectual exposure versus protective ease; truth disruption versus contentment-maintenance
-  swords_position: Cuts through satisfied illusions; exposes hidden dissatisfaction beneath contentment
-  cups_position: Seeks to maintain contentment; resists truth disrupting satisfaction
+  ace_of_swords_position: Cuts through satisfied illusions; exposes hidden dissatisfaction beneath contentment
+  ace_of_cups_position: Seeks to maintain contentment; resists truth disrupting satisfaction
   key_terms: exposure versus ease, truth versus contentment, clarity versus satisfaction, reality versus comfort
 
 dynamic_inhibition:
@@ -439,19 +439,19 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
   uid: AOSC
 
 ---
 
 card_pair: Ace of Swords, 10 of Cups
-archetype_swords: Truth, clarity, intellectual power, breakthrough, discrimination
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
 archetype_cups: Family harmony, fulfillment, happiness, generational legacy, relational completion
-numerical_relation: Ace-10 (Truth testing family bonds; clarity examining relational legacy)
+numerical_relation: 1 + 10 = 11 (XI Strength; Truth testing family bonds; clarity examining relational legacy)
 elemental_bridge: Air intellectual examination disrupting water family harmony; clarity challenging relational legacy
 threshold_type: The interrogated family; truth testing relational foundation
 
@@ -464,8 +464,8 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Truth exposes uncomfortable family realities; clarity reveals hidden dysfunction beneath harmony
   tension_axis: Intellectual exposure versus protective family myths; truth disruption versus relational comfort
-  swords_position: Cuts through family illusions; exposes hidden dysfunction and unspoken issues
-  cups_position: Seeks protective family narratives; resists intellectual disruption of relational peace
+  ace_of_swords_position: Cuts through family illusions; exposes hidden dysfunction and unspoken issues
+  ace_of_cups_position: Seeks protective family narratives; resists intellectual disruption of relational peace
   key_terms: exposure versus myths, truth versus narrative, clarity versus comfort, honesty versus harmony
 
 dynamic_inhibition:
@@ -489,9 +489,209 @@ dynamic_dependency:
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with pentacles graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
   encoding: UTF-8
   elemental_primary: air (swords) to water (cups)
-  numerical_axis: Ace-1 through Ace-14
+  numerical_axis: 1-1 through 1-14
+  uid: AOSC
+
+---
+
+card_pair: Ace of Swords, Page of Cups
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_cups: The Messenger, The Emotional Invitation, The Heart's Offer, Feeling Approaching
+numerical_relation: 1 + 11 = 12 (XII The Hanged Man; the new truth meets the heart's tender offer)
+elemental_bridge: Air's first clarity meets Water's first feeling; the sudden insight meets the shy emotional approach
+threshold_type: The moment a new truth meets a newly offered feeling
+
+dynamic_genesis:
+  mechanism: The insight gives the tender feeling its first words; clarity names what the heart is only beginning to offer
+  process: the new thought meets the approaching feeling and recognizes it; naming makes the shy offer real
+  outcome: a feeling that knows itself; emotion granted articulate form at the instant of its arrival
+  key_terms: feeling named, the offer made real, articulate emotion, clarity meeting tenderness
+
+dynamic_antagonism:
+  mechanism: The sword's edge meets a feeling too new to survive being cut; truth examines what only wanted to be received
+  tension_axis: the examined feeling versus the offered feeling
+  ace_of_swords_position: Tests whether the feeling is true before letting it land
+  page_of_cups_position: Only wanted to be received, not interrogated
+  key_terms: edge against tenderness, interrogated offer, truth testing feeling, the wounded approach
+
+dynamic_inhibition:
+  mechanism: Analysis arrives before the feeling has formed enough to bear it; the insight freezes the tender offer mid-gesture
+  blockade_nature: the new feeling cannot complete itself under examination; scrutiny halts the approach
+  swords_state: the clear mind watching a feeling it has frozen by looking too soon
+  consequence: the offer withdraws; feeling and insight both stall at the threshold
+  key_terms: the frozen offer, scrutiny too soon, halted approach, feeling that won't complete
+
+dynamic_devolution:
+  mechanism: The sword turns analytic edge into dissection; the tender feeling is taken apart to see how it works
+  mode: clarity become cold dissection; the heart's offer reduced to a specimen
+  loss: the feeling is killed in the examining; what was alive becomes a diagram
+  key_terms: dissected feeling, cold specimen, the killed offer, analysis as autopsy
+
+dynamic_dependency:
+  mechanism: The feeling needs the insight to know itself; the insight needs the feeling to have something warm to clarify
+  function: Swords-Ace supplies the words that make the feeling legible; Cups-Page supplies the tender content the words would otherwise lack
+  integration_outcome: a feeling both felt and understood; emotion named gently at the moment of its arrival
+  key_terms: feeling made legible, gentle naming, warmth given words, understood emotion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSC
+
+---
+
+card_pair: Ace of Swords, Knight of Cups
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_cups: The Devoted Lover, The Romantic Quest, The Emotional Warrior, Passion Embodied
+numerical_relation: 1 + 12 = 13 (XIII Death; the new truth meets the romantic quest)
+elemental_bridge: Air's clarity meets Water's devotion; the cutting truth meets idealizing love
+threshold_type: The moment hard truth meets a love built on an ideal
+
+dynamic_genesis:
+  mechanism: The insight tests the romance and keeps only what is real; clarity matures devotion past illusion
+  process: the new truth examines the beloved ideal; what survives the cut is genuine, what dies was projection
+  outcome: a love made honest; devotion grounded in what is actually there
+  key_terms: tested devotion, honest love, projection cut away, grounded romance
+
+dynamic_antagonism:
+  mechanism: Cold truth collides with the idealizing heart; the quest does not want its illusions named
+  tension_axis: the real beloved versus the imagined one
+  ace_of_swords_position: Names the projection the lover has mistaken for the beloved
+  knight_of_cups_position: Defends the ideal; experiences the truth as the death of love
+  key_terms: ideal versus real, named projection, truth as loss, defended illusion
+
+dynamic_inhibition:
+  mechanism: Doubt arrives and the quest stalls; the insight makes the lover question every step
+  blockade_nature: clarity converts ardor into hesitation; the romance cannot move under examination
+  swords_state: the clear mind watching a devotion it has paralyzed with questions
+  consequence: the quest halts; the lover neither advances nor abandons the love
+  key_terms: ardor into hesitation, paralyzing doubt, the halted quest, questioned love
+
+dynamic_devolution:
+  mechanism: Truth hardens into cynicism; the sword kills the romance to prove it was never real
+  mode: clarity become disillusionment as a weapon; love dismissed as mere projection
+  loss: the capacity to love idealistically at all; cynicism replacing devotion
+  key_terms: cynicism, weaponized disillusion, killed romance, love dismissed
+
+dynamic_dependency:
+  mechanism: The quest needs truth to stay honest; truth needs the quest to have something to be devoted to
+  function: Swords-Ace supplies the discernment that keeps love from self-deception; Cups-Knight supplies the devotion that gives clarity a worthy object
+  integration_outcome: a devotion that sees clearly; love that has survived the truth and is stronger for it
+  key_terms: clear-eyed devotion, honest passion, love past illusion, discerning ardor
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSC
+
+---
+
+card_pair: Ace of Swords, Queen of Cups
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_cups: The Loving Mother, The Emotional Sustenance, The Heart's Comfort, Care Unconditional
+numerical_relation: 1 + 13 = 14 (XIV Temperance; the new truth meets unconditional care)
+elemental_bridge: Air's clarity meets Water's deep care; the cutting truth meets boundless comfort
+threshold_type: The moment sharp truth meets boundless compassion
+
+dynamic_genesis:
+  mechanism: Clarity gives compassion discernment; the truth tells the boundless heart where care is actually needed
+  process: the insight reads the real need beneath the offered comfort; care becomes precise as well as warm
+  outcome: compassion that helps rather than merely soothes; care aimed by clear sight
+  key_terms: discerning compassion, aimed care, precise warmth, the real need read
+
+dynamic_antagonism:
+  mechanism: Detached clarity collides with feeling-with; truth that stands apart meets care that merges
+  tension_axis: seeing the feeling versus sharing the feeling
+  ace_of_swords_position: Names what the comfort is avoiding; refuses to be soothed out of the truth
+  queen_of_cups_position: Feels the truth's coldness as a refusal of care
+  key_terms: detachment versus merging, named avoidance, cold truth warm care, refused comfort
+
+dynamic_inhibition:
+  mechanism: Analysis interrupts the flow of care; the insight dams what wanted only to pour
+  blockade_nature: clarity blocks the unconditional flow; comfort cannot move while being examined
+  swords_state: the clear mind holding back a care it has questioned into stillness
+  consequence: the comfort withholds; care and clarity stand apart, neither reaching
+  key_terms: dammed care, examined comfort, withheld warmth, the interrupted flow
+
+dynamic_devolution:
+  mechanism: Truth becomes honesty used to wound; the sword cuts under the cover of telling the caring truth
+  mode: clarity become cruelty dressed as candor; compassion overridden by the need to be right
+  loss: the safety of unconditional care; comfort poisoned by the verdict hidden inside it
+  key_terms: cruelty as candor, poisoned comfort, the wounding truth, care overridden
+
+dynamic_dependency:
+  mechanism: Compassion needs clarity to know where to give; clarity needs compassion to keep its truth kind
+  function: Swords-Ace supplies the discernment that aims the care; Cups-Queen supplies the warmth that keeps the truth humane
+  integration_outcome: care that is both kind and accurate; truth delivered with enough warmth to be received
+  key_terms: kind accuracy, humane truth, aimed compassion, warmth and clarity joined
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOSC
+
+---
+
+card_pair: Ace of Swords, King of Cups
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_cups: The Emotional Master, The Heart Balanced, The Compassionate Authority, Feeling Mastered
+numerical_relation: 1 + 14 = 15 (XV The Devil; the new truth meets governed feeling)
+elemental_bridge: Air's clarity meets Water's mastery; the new truth meets a settled emotional authority
+threshold_type: The moment fresh insight meets a balanced emotional authority
+
+dynamic_genesis:
+  mechanism: The insight sharpens the king's compassion; clarity gives mastered feeling something new to govern wisely
+  process: the new truth is taken up by the balanced heart and integrated without disturbing its calm
+  outcome: an authority that is both clear and compassionate; feeling governed by accurate sight
+  key_terms: sharpened compassion, integrated insight, clear governance, balanced clarity
+
+dynamic_antagonism:
+  mechanism: The intellectual verdict collides with emotional governance; truth that decides meets feeling that holds
+  tension_axis: the mind's ruling versus the heart's ruling
+  ace_of_swords_position: Demands the verdict the facts require, regardless of feeling
+  king_of_cups_position: Holds the emotional whole the verdict would disrupt
+  key_terms: verdict versus governance, mind against heart, two authorities, the disrupted balance
+
+dynamic_inhibition:
+  mechanism: Over-analysis disturbs the king's equilibrium; the insight will not let the settled feeling rest
+  blockade_nature: clarity keeps reopening what mastery had balanced; the calm cannot hold under scrutiny
+  swords_state: the clear mind unsettling a balance it cannot improve, only disturb
+  consequence: the equilibrium wavers; neither the verdict nor the calm prevails
+  key_terms: disturbed equilibrium, reopened balance, scrutiny against calm, the unsettled master
+
+dynamic_devolution:
+  mechanism: Truth is used to undermine the emotional authority; the sword discredits the king's feeling as bias
+  mode: clarity become the tool that dismisses all feeling as distortion; mastery reframed as mere control
+  loss: the wisdom of governed feeling; emotion exiled from authority in the name of being objective
+  key_terms: feeling dismissed as bias, exiled emotion, objectivity weaponized, discredited mastery
+
+dynamic_dependency:
+  mechanism: The king needs clarity to keep his compassion from complacency; clarity needs the king's mastery to keep its edge from cruelty
+  function: Swords-Ace supplies the sharp truth that tests the balance; Cups-King supplies the governed feeling that makes the truth wise rather than merely right
+  integration_outcome: an authority both incisive and humane; truth and feeling ruling together
+  key_terms: incisive humanity, tested balance, wise authority, truth and feeling ruling
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with cups graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 1-1 through 1-14
   uid: AOSC

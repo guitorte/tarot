@@ -1,7 +1,7 @@
 card_pair: 10 of Swords, Ace of Swords
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-archetype_swords: The Truth Revealed, The Clarity Struck, The Sword of Light, Illumination Sharp
-numerical_relation: 10 + 1 = 11; the ruin meets the arrival of truth
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 10 + 1 = 11 (XI Strength; the ruin meets the arrival of truth)
 elemental_bridge: Air (devastating lies) meets Air (absolute clarity); the destroyed learn what is true
 threshold_type: The moment when truth arrives to the utterly devastated
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Truth reconsidering ruin, clarity releasing, lies revealed, devastation redefined
 
 dynamic_inhibition:
-  blockade: The figure cannot accept the truth because accepting it means the devastation was partly built on falsehood
-  consequence: The truth is heard but not integrated; the figure clings to the devastation
+  mechanism: The figure cannot accept the truth because accepting it means the devastation was partly built on falsehood
+  blockade_nature: The figure cannot accept the truth because accepting it means the devastation was partly built on falsehood
+  swords_state: The truth is heard but not integrated
+  consequence: the figure clings to the devastation
+  key_terms: truth that unmakes the devastation's story, clinging to ruin, heard but unintegrated, the resisted truth
 
 dynamic_devolution:
-  corruption: The ace of swords becomes evidence that even the devastation was based on lies; the betrayal compounds
+  mechanism: The ace of swords becomes evidence that even the devastation was based on lies
+  mode: the betrayal compounds
   loss: The figure loses the narrative that at least the devastation was true; reality becomes even more unstable
+  key_terms: betrayal compounds, figure loses the narrative, ace of swords becomes evidence
 
 dynamic_dependency:
-  integration: The ruin and the truth teach each other about the nature of devastation; the figure learns through the revelation that some of what was absolute was actually illusion; when the truth is fully integrated, the devastation loses some of its power; the ruin becomes a story that can be rewritten
-  outcome: The ace of swords cuts the figure free from the absolute certainty of devastation; the truth reveals that some of what seemed fixed can shift; the ruin becomes a passage rather than an ending
+  mechanism: The ruin and the truth teach each other about the nature of devastation
+  function: the figure learns through the revelation that some of what was absolute was actually illusion; when the truth is fully integrated, the devastation loses some of its power; the ruin becomes a story that can be rewritten
+  integration_outcome: The ace of swords cuts the figure free from the absolute certainty of devastation; the truth reveals that some of what seemed fixed can shift; the ruin becomes a passage rather than an ending
+  key_terms: figure learns through the revelation, ace of swords cuts, ruin and the truth teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
 
 ---
 
 card_pair: 10 of Swords, 2 of Swords
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-archetype_swords: The Blindfolded Dilemma, The Paralyzed Choice, The Stalemate Mind, Decision Impossible
-numerical_relation: 10 + 2 = 12; the ruin meets the blindfolded choice
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 10 + 2 = 12 (XII The Hanged Man; the ruin meets the blindfolded choice)
 elemental_bridge: Air (devastation as certainty) meets Air (chosen blindness); both are forms of paralysis
 threshold_type: The moment when the ruined realize their devastation has been self-imposed blindness
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Blindness acknowledged, seeing prevented, stalemate chosen, devastation consequent
 
 dynamic_inhibition:
-  blockade: The figure cannot remove the blindfold even now; the devastation has become habitual seeing
+  mechanism: The figure cannot remove the blindfold even now
+  blockade_nature: the devastation has become habitual seeing
+  swords_state: The figure remains partly blind despite the ruin
   consequence: The figure remains partly blind despite the ruin
+  key_terms: the habitual blindfold, devastation as habitual seeing, still partly blind, sight foreclosed even now
 
 dynamic_devolution:
-  corruption: The two of swords becomes evidence that the figure's own choices contributed to devastation; the guilt compounds the ruin
+  mechanism: The two of swords becomes evidence that the figure's own choices contributed to devastation
+  mode: the guilt compounds the ruin
   loss: The figure loses the ability to blame only externals; they recognize complicity
+  key_terms: guilt compounds the ruin, figure loses the ability, two of swords becomes evidence
 
 dynamic_dependency:
-  integration: The ruin and the blindness teach about responsibility; the figure learns through devastation that some came from not seeing; when they finally remove the blindfold, they can begin to make different choices; the devastation becomes the consequence from which genuine seeing emerges
-  outcome: The two of swords teaches the figure to remove the blindfold; the seeing becomes possible; the responsibility is acknowledged; the ruin becomes the teacher of what awareness means
+  mechanism: The ruin and the blindness teach about responsibility
+  function: the figure learns through devastation that some came from not seeing; when they finally remove the blindfold, they can begin to make different choices; the devastation becomes the consequence from which genuine seeing emerges
+  integration_outcome: The two of swords teaches the figure to remove the blindfold; the seeing becomes possible; the responsibility is acknowledged; the ruin becomes the teacher of what awareness means
+  key_terms: figure learns through devastation, two of swords teaches, ruin and the blindness teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
 
 ---
 
 card_pair: 10 of Swords, 3 of Swords
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-archetype_swords: The Heartbreak, The Sorrow Articulated, The Suffering Witnessed, Pain Made Real
-numerical_relation: 10 + 3 = 13; the ruin meets profound emotional loss
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 10 + 3 = 13 (XIII Death; the ruin meets profound emotional loss)
 elemental_bridge: Air (complete devastation) meets Air (articulated sorrow); both are pain, one silent and one voiced
 threshold_type: The moment when the ruined learn to speak their pain
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Silence broken, voice found, sorrow articulated, pain witnessed
 
 dynamic_inhibition:
-  blockade: The figure is beginning to speak but the voice is weak
-  consequence: The devastation is slowly articulated; the voice is recovering
+  mechanism: The figure is beginning to speak but the voice is weak
+  blockade_nature: The figure is beginning to speak but the voice is weak
+  swords_state: The devastation is slowly articulated
+  consequence: the voice is recovering
+  key_terms: the weak recovering voice, devastation slowly articulated, beginning to speak, the returning voice
 
 dynamic_devolution:
-  corruption: The three of swords becomes evidence that the pain is real and must be spoken
+  mechanism: The three of swords becomes evidence that the pain is real and must be spoken
+  mode: The three of swords becomes evidence that the pain is real and must be spoken
   loss: The figure realizes the devastation cannot be silent; it demands to be voiced
+  key_terms: three of swords becomes evidence, figure realizes the devastation, held tension
 
 dynamic_dependency:
-  integration: The ruin and the articulated sorrow teach that speech is healing; the figure learns through devastating loss that naming it gives it shape and possibility for transformation; when the pain is finally voiced, the interior landscape can begin to change; the devastation becomes a story that can be told
-  outcome: The three of swords hears the figure finally speak their devastation; the voice is real; the sorrow is witnessed; the ruin becomes a narrative; the figure learns that being heard is the beginning of recovery
+  mechanism: The ruin and the articulated sorrow teach that speech is healing
+  function: the figure learns through devastating loss that naming it gives it shape and possibility for transformation; when the pain is finally voiced, the interior landscape can begin to change; the devastation becomes a story that can be told
+  integration_outcome: The three of swords hears the figure finally speak their devastation; the voice is real; the sorrow is witnessed; the ruin becomes a narrative; the figure learns that being heard is the beginning of recovery
+  key_terms: figure learns through devastating loss, three of swords hears, ruin and the articulated sorrow
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
 
 ---
 
 card_pair: 10 of Swords, 4 of Swords
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-archetype_swords: The Truce, The Necessary Rest, The Uneasy Peace, Stillness Imposed
-numerical_relation: 10 + 4 = 14; the ruin meets enforced rest
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: Rest, truce, peace, mental stillness, respite
+numerical_relation: 10 + 4 = 14 (XIV Temperance; the ruin meets enforced rest)
 elemental_bridge: Air (devastation's movement toward stillness) meets Air (chosen quietness); both are forms of cessation
 threshold_type: The moment when the ruined come to rest after devastation
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Rest after ruin, peace arrived, stillness real, respite found
 
 dynamic_inhibition:
-  blockade: The figure cannot truly rest; the trauma of devastation keeps them partially alert
+  mechanism: The figure cannot truly rest
+  blockade_nature: the trauma of devastation keeps them partially alert
+  swords_state: The figure finds some peace but it is uneasy
   consequence: The figure finds some peace but it is uneasy
+  key_terms: rest disturbed by trauma, partial alertness, uneasy peace, the unrestful respite
 
 dynamic_devolution:
-  corruption: The four of swords becomes a reminder that the devastation is past; the peace is proof of survival
+  mechanism: The four of swords becomes a reminder that the devastation is past
+  mode: the peace is proof of survival
   loss: The figure realizes the worst has passed; something has survived
+  key_terms: peace is proof of survival, figure realizes the worst has, four of swords
 
 dynamic_dependency:
-  integration: The ruin and the rest teach that peace is possible after devastation; the figure learns through the coming stillness that the storm has passed; when they can finally rest, the recovery begins in earnest; the devastation becomes something that is done rather than ongoing
-  outcome: The four of swords welcomes the figure who has finally come to rest after devastation; the peace is real because it has been earned through survival; the stillness is sacred because it follows catastrophe; the ruin becomes the night before the peaceful dawn
+  mechanism: The ruin and the rest teach that peace is possible after devastation
+  function: the figure learns through the coming stillness that the storm has passed; when they can finally rest, the recovery begins in earnest; the devastation becomes something that is done rather than ongoing
+  integration_outcome: The four of swords welcomes the figure who has finally come to rest after devastation; the peace is real because it has been earned through survival; the stillness is sacred because it follows catastrophe; the ruin becomes the night before the peaceful dawn
+  key_terms: figure learns through the coming, four of swords welcomes, ruin and the rest teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
 
 ---
 
 card_pair: 10 of Swords, 5 of Swords
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-archetype_swords: The Victor's Hollow, The Bitter Triumph, The Pyrrhic Win, Defeat Disguised
-numerical_relation: 10 + 5 = 15; the ruin meets the victor's bitterness
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 10 + 5 = 15 (XV The Devil; the ruin meets the victor's bitterness)
 elemental_bridge: Air (absolute devastation) meets Air (empty victory); both have lost while appearing to be in different states
 threshold_type: The moment when the ruined understand that even victory would be hollow
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Victory and defeat equal, both empty, triumph hollow, defeat shared
 
 dynamic_inhibition:
-  blockade: The figure accepts the devastation because even victory would be hollow
+  mechanism: The figure accepts the devastation because even victory would be hollow
+  blockade_nature: The figure accepts the devastation because even victory would be hollow
+  swords_state: The figure surrenders the struggle for vindication
   consequence: The figure surrenders the struggle for vindication
+  key_terms: hollow even in victory, surrendered vindication, the abandoned struggle, accepted devastation
 
 dynamic_devolution:
-  corruption: The five of swords becomes evidence that the game of winning and losing is futile
+  mechanism: The five of swords becomes evidence that the game of winning and losing is futile
+  mode: The five of swords becomes evidence that the game of winning and losing is futile
   loss: The figure loses the desire to win; they understand victory would not heal the devastation
+  key_terms: five of swords becomes evidence, figure loses the desire, held tension
 
 dynamic_dependency:
-  integration: The ruin and the hollow victory teach that the deepest learning comes from understanding that some victories cannot heal some devastation; the figure learns that transcendence means moving beyond the game of winning and losing; when they accept that neither victory nor defeat matters as much as presence, the devastation loses some of its power
-  outcome: The five of swords and the ten of swords meet in the understanding that both are forms of the same defeat; the figure learns that liberation comes not from victory but from transcendence of the need to win; the ruin becomes the gateway to wisdom
+  mechanism: The ruin and the hollow victory teach that the deepest learning comes from understanding that some victories cannot heal some devastation
+  function: the figure learns that transcendence means moving beyond the game of winning and losing; when they accept that neither victory nor defeat matters as much as presence, the devastation loses some of its power
+  integration_outcome: The five of swords and the ten of swords meet in the understanding that both are forms of the same defeat; the figure learns that liberation comes not from victory but from transcendence of the need to win; the ruin becomes the gateway to wisdom
+  key_terms: figure learns that transcendence means, five of swords, ruin and the hollow victory
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
 
 ---
 
 card_pair: 10 of Swords, 6 of Swords
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-archetype_swords: The Departure, The Necessary Crossing, The Journey Away, Travel Begun
-numerical_relation: 10 + 6 = 16; the ruin meets the possibility of leaving devastation behind
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: The Traveler, The Departure, The Crossing, The Healer Through Distance
+numerical_relation: 10 + 6 = 16 (XVI The Tower; the ruin meets the possibility of leaving devastation behind)
 elemental_bridge: Air (devastation as location) meets Air (thought-journey away); the destroyed depart
 threshold_type: The moment when the ruined finally leave the place of devastation
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Devastation left, journey complete, crossing achieved, new place reached
 
 dynamic_inhibition:
-  blockade: The figure carries the devastation with them even as they depart
+  mechanism: The figure carries the devastation with them even as they depart
+  blockade_nature: The figure carries the devastation with them even as they depart
+  swords_state: The journey is toward and away simultaneously
   consequence: The journey is toward and away simultaneously
+  key_terms: devastation carried along, journey toward and away at once, no clean departure, the accompanying ruin
 
 dynamic_devolution:
-  corruption: The six of swords becomes evidence that the figure has survived devastation enough to journey
+  mechanism: The six of swords becomes evidence that the figure has survived devastation enough to journey
+  mode: The six of swords becomes evidence that the figure has survived devastation enough to journey
   loss: The figure realizes the devastation is no longer their entire world
+  key_terms: six of swords becomes evidence, figure realizes the devastation, held tension
 
 dynamic_dependency:
-  integration: The ruin and the departure teach that leaving devastation is possible; the figure learns through the journey that geographical change can support internal change; when they arrive in the new place, they discover they have carried themselves forward; the devastation becomes part of the past rather than the present
-  outcome: The six of swords carries the figure away from devastation; the crossing is real; the new place is reached; the devastation remains in the old location; the ruin becomes a place once visited rather than a permanent location
+  mechanism: The ruin and the departure teach that leaving devastation is possible
+  function: the figure learns through the journey that geographical change can support internal change; when they arrive in the new place, they discover they have carried themselves forward; the devastation becomes part of the past rather than the present
+  integration_outcome: The six of swords carries the figure away from devastation; the crossing is real; the new place is reached; the devastation remains in the old location; the ruin becomes a place once visited rather than a permanent location
+  key_terms: figure learns through the journey, six of swords carries, ruin and the departure teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
 
 ---
 
 card_pair: 10 of Swords, 7 of Swords
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-archetype_swords: The Thief, The Deceptive Mind, The Cunning Escape, Trickster Freed
-numerical_relation: 10 + 7 = 17; the ruin meets the deceptive escape
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+numerical_relation: 10 + 7 = 17 (XVII The Star; the ruin meets the deceptive escape)
 elemental_bridge: Air (devastation as absolute imprisonment) meets Air (cunning refusal); the destroyed learn to circumvent
 threshold_type: The moment when the ruined begin to refuse the game that devastated them
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Rules broken, game refused, escape attempted, cunning employed
 
 dynamic_inhibition:
-  blockade: The figure is learning to refuse but cannot fully break free
+  mechanism: The figure is learning to refuse but cannot fully break free
+  blockade_nature: The figure is learning to refuse but cannot fully break free
+  swords_state: The figure begins to circumvent the systems that created devastation
   consequence: The figure begins to circumvent the systems that created devastation
+  key_terms: learning to refuse, not yet free, circumventing the ruinous systems, partial escape
 
 dynamic_devolution:
-  corruption: The seven of swords becomes evidence that the game itself is the problem
+  mechanism: The seven of swords becomes evidence that the game itself is the problem
+  mode: The seven of swords becomes evidence that the game itself is the problem
   loss: The figure realizes following the rules led to devastation; new rules are needed
+  key_terms: seven of swords becomes evidence, figure realizes following the rules, held tension
 
 dynamic_dependency:
-  integration: The ruin and the cunning refusal teach that sometimes escape requires circumventing the system; the figure learns through devastation that accepting all the rules guarantees defeat; when they learn to think creatively outside the box, new possibilities emerge; the devastation becomes the teacher of when rules must be broken
-  outcome: The seven of swords teaches the figure that refusing the game that devastated them is liberation; the escape is not dishonest but necessary; the ruin becomes the condition that makes refusal justified; the figure learns that sometimes the only honest move is to stop playing
+  mechanism: The ruin and the cunning refusal teach that sometimes escape requires circumventing the system
+  function: the figure learns through devastation that accepting all the rules guarantees defeat; when they learn to think creatively outside the box, new possibilities emerge; the devastation becomes the teacher of when rules must be broken
+  integration_outcome: The seven of swords teaches the figure that refusing the game that devastated them is liberation; the escape is not dishonest but necessary; the ruin becomes the condition that makes refusal justified; the figure learns that sometimes the only honest move is to stop playing
+  key_terms: figure learns through devastation, seven of swords teaches, ruin and the cunning refusal
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
 
 ---
 
 card_pair: 10 of Swords, 8 of Swords
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-numerical_relation: 10 + 10 = 20; the devastation meets the bondage
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+numerical_relation: 10 + 8 = 18 (XVIII The Moon; the devastation meets the bondage)
 elemental_bridge: Air (complete devastation) meets Air (constraint); both are prisons, one total and one continuing
 threshold_type: The moment when the ruined realize their devastation continues as bondage
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Self-imprisonment, devastation perpetuating, bondage continuing, constraint internal
 
 dynamic_inhibition:
-  blockade: The figure cannot break free because the devastation itself is the chain
+  mechanism: The figure cannot break free because the devastation itself is the chain
+  blockade_nature: The figure cannot break free because the devastation itself is the chain
+  swords_state: The figure remains imprisoned in the aftermath of devastation
   consequence: The figure remains imprisoned in the aftermath of devastation
+  key_terms: devastation itself the chain, imprisoned in the aftermath, ruin as the bond, no break free
 
 dynamic_devolution:
-  corruption: The eight of swords becomes a reminder that devastation often leads to ongoing constraint
+  mechanism: The eight of swords becomes a reminder that devastation often leads to ongoing constraint
+  mode: The eight of swords becomes a reminder that devastation often leads to ongoing constraint
   loss: The figure realizes the devastation is not over; it continues as internal bondage
+  key_terms: eight of swords, figure realizes the devastation, held tension
 
 dynamic_dependency:
-  integration: The ruin and the bondage teach that devastation often leads to internal imprisonment; the figure learns through ongoing constraint that healing requires releasing the bondage devastation created; when they can finally forgive themselves for the devastation, the internal chains begin to loosen; the devastation becomes the condition that must be processed to achieve freedom
-  outcome: The eight of swords shows the figure that freedom from devastation requires releasing the internal bonds created by it; the liberation comes through self-compassion; the ruin becomes the condition that teaches what true freedom requires
+  mechanism: The ruin and the bondage teach that devastation often leads to internal imprisonment
+  function: the figure learns through ongoing constraint that healing requires releasing the bondage devastation created; when they can finally forgive themselves for the devastation, the internal chains begin to loosen; the devastation becomes the condition that must be processed to achieve freedom
+  integration_outcome: The eight of swords shows the figure that freedom from devastation requires releasing the internal bonds created by it; the liberation comes through self-compassion; the ruin becomes the condition that teaches what true freedom requires
+  key_terms: figure learns through ongoing constraint, eight of swords shows, ruin and the bondage teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
 
 ---
 
 card_pair: 10 of Swords, 9 of Swords
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-archetype_swords: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-numerical_relation: 10 + 10 = 20; the devastation meets the torment
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+numerical_relation: 10 + 9 = 19 (XIX The Sun; the devastation meets the torment)
 elemental_bridge: Air (completed devastation) meets Air (ongoing torment); both are psychological nightmares
 threshold_type: The moment when the ruined realize devastation was not the ending but the beginning of torment
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: External devastation, internal torment, total destruction, nightmare beginning
 
 dynamic_inhibition:
-  blockade: The figure cannot escape either the devastation or the torment
+  mechanism: The figure cannot escape either the devastation or the torment
+  blockade_nature: The figure cannot escape either the devastation or the torment
+  swords_state: The figure faces devastation externally and torment internally
   consequence: The figure faces devastation externally and torment internally
+  key_terms: neither devastation nor torment escaped, external ruin internal torment, the doubled affliction, total destruction
 
 dynamic_devolution:
-  corruption: The nine of swords becomes evidence that devastation creates infinite torment
+  mechanism: The nine of swords becomes evidence that devastation creates infinite torment
+  mode: The nine of swords becomes evidence that devastation creates infinite torment
   loss: The figure realizes the devastation was only the beginning; the real torture is internal
+  key_terms: nine of swords becomes evidence, figure realizes the devastation, held tension
 
 dynamic_dependency:
-  integration: The ruin and the torment teach that total devastation includes both external and internal dimensions; the figure learns through the nightmares that healing both is necessary; when they begin to address the internal torment, the external devastation becomes more manageable; the devastation becomes the teacher of the depth of healing required
-  outcome: The nine of swords and the ten of swords meet in the figure's consciousness; the external devastation and internal torment are recognized as partners; when healing addresses both, true recovery becomes possible; the ruin becomes the gateway to profound transformation
+  mechanism: The ruin and the torment teach that total devastation includes both external and internal dimensions
+  function: the figure learns through the nightmares that healing both is necessary; when they begin to address the internal torment, the external devastation becomes more manageable; the devastation becomes the teacher of the depth of healing required
+  integration_outcome: The nine of swords and the ten of swords meet in the figure's consciousness; the external devastation and internal torment are recognized as partners; when healing addresses both, true recovery becomes possible; the ruin becomes the gateway to profound transformation
+  key_terms: figure learns through the nightmares, nine of swords, ruin and the torment teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
 
 ---
 
 card_pair: 10 of Swords, 10 of Swords
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
-numerical_relation: 10 + 10 = 20; the devastation meets itself; a mirror of total ruin
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+numerical_relation: 10 + 10 = 20 (XX Judgement; the devastation meets itself; a mirror of total ruin)
 elemental_bridge: Air meets Air; devastation reflecting devastation; consciousness speaking to itself from the nadir
 threshold_type: The moment when the ruined are completely alone with their devastation
 
@@ -401,18 +464,234 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: The ten of swords reflects itself; devastation meets devastation; there is no escape, only acceptance or transcendence
   tension_axis: Between the acceptance of total devastation and the refusal to remain there
-  ten_of_swords_position: "I am utterly ruined"
-  ten_of_swords_position: "I am utterly ruined and so are you; we are at the bottom together"
+  swords_position_1: "I am utterly ruined"
+  swords_position_2: "I am utterly ruined and so are you; we are at the bottom together"
   key_terms: Total devastation witnessed, shared ruin, bottom reached, acceptance or transcendence
 
 dynamic_inhibition:
-  blockade: The figure cannot rise from the devastation; the mirror shows it is total
-  consequence: The figure is at the absolute bottom; there is nowhere lower to go
+  mechanism: The figure cannot rise from the devastation
+  blockade_nature: the mirror shows it is total
+  swords_state: The figure is at the absolute bottom
+  consequence: there is nowhere lower to go
+  key_terms: cannot rise, the absolute bottom, nowhere lower to go, total ruin mirrored
 
 dynamic_devolution:
-  corruption: The mirror confirms total devastation; there is no hope, only the fact of ruin
+  mechanism: The mirror confirms total devastation
+  mode: there is no hope, only the fact of ruin
   loss: The figure loses the last shred of hope; they face absolute emptiness
+  key_terms: there is no hope, figure loses the last shred, mirror confirms total devastation
 
 dynamic_dependency:
-  integration: The ruin meeting itself teaches that the nadir is also the turning point; the figure learns through facing absolute devastation that this is the threshold; when they accept they are at the bottom and cannot fall further, the possibility of rising emerges; the devastation becomes not an ending but a beginning; the mirror shows that what is destroyed can be rebuilt from the foundation
-  outcome: The ten of swords meeting itself becomes the moment of choice: despair continues the spiral downward, or acceptance becomes the ground of resurrection; when the figure chooses acceptance of what is, the healing begins; the devastation becomes the dark seed from which new life grows; the ruin becomes the chrysalis of transformation; the mirror becomes a doorway to rebirth
+  mechanism: The ruin meeting itself teaches that the nadir is also the turning point
+  function: the figure learns through facing absolute devastation that this is the threshold; when they accept they are at the bottom and cannot fall further, the possibility of rising emerges; the devastation becomes not an ending but a beginning; the mirror shows that what is destroyed can be rebuilt from the foundation
+  integration_outcome: The ten of swords meeting itself becomes the moment of choice: despair continues the spiral downward, or acceptance becomes the ground of resurrection; when the figure chooses acceptance of what is, the healing begins; the devastation becomes the dark seed from which new life grows; the ruin becomes the chrysalis of transformation; the mirror becomes a doorway to rebirth
+  key_terms: figure learns through facing absolute, ten of swords meeting itself, ruin meeting itself teaches
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
+
+---
+
+card_pair: 10 of Swords, Page of Swords
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+numerical_relation: 10 + 11 = 21 (XXI The World; the devastation meets the arriving thought)
+elemental_bridge: Air (final ruin) meets Air (fresh idea); the emptied ground where a new thought first lands
+threshold_type: The moment a new idea arrives at the site of total defeat
+
+dynamic_genesis:
+  mechanism: The ruin clears the ground so completely that a genuinely new thought can land where old certainties were destroyed
+  process: The defeated figure, with nothing left to defend, becomes unusually open to the Page's fresh message; the emptiness itself turns receptive
+  outcome: A first new idea takes root in the cleared field of devastation; the end becomes a beginning
+  key_terms: cleared ground, receptive emptiness, new thought after ruin, the end as beginning
+
+dynamic_antagonism:
+  mechanism: The Page's eager fresh truth collides with the ruined figure's conviction that nothing new is possible
+  tension_axis: between the arriving idea and the certainty that all is finished
+  ten_of_swords_position: "It is over; there is nothing your new idea can build here"
+  page_of_swords_position: "I bring something you have not yet thought; the field is not as dead as you believe"
+  key_terms: fresh truth against finality, the dismissed messenger, the closed field, novelty refused
+
+dynamic_inhibition:
+  mechanism: The new idea arrives but the ruined cannot summon the energy to act on it
+  blockade_nature: devastation has drained the capacity to begin; the message lands but finds no strength to carry it
+  swords_state: the figure hears the new thought yet remains pinned beneath the swords
+  consequence: the idea is received and then abandoned; potential renewal stalls at the threshold
+  key_terms: idea without energy, message that finds no strength, renewal stalled, pinned beneath the swords
+
+dynamic_devolution:
+  mechanism: The ruined figure twists the Page's hope into proof of naivety; the fresh idea is mocked as childish
+  mode: cynicism weaponized against possibility; the messenger's youth used to dismiss the message
+  loss: the one new thought that could have begun recovery is killed before it can grow
+  key_terms: hope mocked as naive, weaponized cynicism, the killed idea, dismissed possibility
+
+dynamic_dependency:
+  mechanism: The ruin needs the Page's fresh thought to begin again; the Page needs the ruin's cleared ground to plant something real
+  function: Swords-10 supplies the emptied field in which a genuinely new start is possible; Swords-Page supplies the first idea worth starting from
+  integration_outcome: the new thought is planted in ground cleared by devastation; ending and beginning meet; ruin becomes the soil of renewal
+  key_terms: emptied field, first new start, ending meets beginning, ruin as soil
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
+
+---
+
+card_pair: 10 of Swords, Knight of Swords
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+numerical_relation: 10 + 12 = 22 → 2+2=4 (IV The Emperor; the devastation meets relentless drive)
+elemental_bridge: Air (total collapse) meets Air (headlong charge); the wreckage at the end of unchecked pursuit
+threshold_type: The moment relentless forward motion arrives where everything has already fallen
+
+dynamic_genesis:
+  mechanism: The Knight's relentless drive meets the ruin and learns where unchecked charging leads
+  process: The defeated figure shows the Knight the wreckage at the end of heedless pursuit; the charge acquires a sense of consequence
+  outcome: Forward motion tempered by knowledge of the crash; drive that has seen its own ruin
+  key_terms: tempered charge, drive that has seen ruin, cautionary wreckage, motion gaining wisdom
+
+dynamic_antagonism:
+  mechanism: The Knight's compulsion to push forward collides with the ruined figure's total collapse
+  tension_axis: between relentless motion and complete stoppage
+  ten_of_swords_position: "I cannot rise; your charging means nothing to one already destroyed"
+  knight_of_swords_position: "Get up and move; stopping is the only true defeat"
+  key_terms: motion against collapse, the charge that cannot rouse, contempt for stillness, immovable ruin
+
+dynamic_inhibition:
+  mechanism: The Knight tries to drag the ruined figure forward but the devastation cannot be rushed
+  blockade_nature: speed applied to a wound that requires stillness; the harder the push, the deeper the resistance
+  swords_state: the figure dragged a few inches and collapsing again, the ten swords still embedded
+  consequence: forced movement reopens the devastation; nothing advances and the ruin worsens
+  key_terms: speed against a wound, forced and failing movement, reopened devastation, the push that worsens
+
+dynamic_devolution:
+  mechanism: The Knight's zeal curdles into contempt; the ruined figure is abandoned as dead weight
+  mode: drive turned cruel; the fallen treated as an obstacle to be left behind
+  loss: the Knight loses the capacity for mercy; the ruined loses the one force that might have moved them
+  key_terms: zeal turned cruel, the abandoned fallen, lost mercy, drive without compassion
+
+dynamic_dependency:
+  mechanism: The ruin needs the Knight's forward force to eventually rise; the Knight needs the ruin's lesson to aim the charge
+  function: Swords-10 supplies the proof that heedless drive ends in wreckage; Swords-Knight supplies the momentum that, rightly timed, lifts the fallen
+  integration_outcome: the charge learns to wait for the wound to close, then carries the recovered figure forward; force and stillness find their sequence
+  key_terms: rightly timed momentum, force that lifts the fallen, sequence of stillness and drive, the aimed charge
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
+
+---
+
+card_pair: 10 of Swords, Queen of Swords
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+numerical_relation: 10 + 13 = 23 → 2+3=5 (V The Pope; the devastation meets hard-won clarity)
+elemental_bridge: Air (total ruin) meets Air (clarity earned through loss); the wreckage met by an eye that has survived its own
+threshold_type: The moment a clear, grief-tested mind looks directly at total defeat
+
+dynamic_genesis:
+  mechanism: The Queen's hard-won clarity names the devastation precisely, having survived her own
+  process: She does not flinch from the wreckage; she assesses what is truly lost and what remains
+  outcome: The ruin is seen clearly and therefore becomes survivable; despair gains an honest accounting
+  key_terms: precise naming of ruin, clarity that survived loss, honest accounting, survivable devastation
+
+dynamic_antagonism:
+  mechanism: The Queen's clear assessment collides with the ruined figure's need to remain in undifferentiated despair
+  tension_axis: between sober clarity and the totality of collapse
+  ten_of_swords_position: "Do not assess me; everything is lost and your clarity is cold"
+  queen_of_swords_position: "Not everything is lost; your despair refuses the distinctions that would save you"
+  key_terms: clarity against total despair, the cold assessment, refused distinctions, sober versus absolute
+
+dynamic_inhibition:
+  mechanism: The Queen offers clear sight but the ruined cannot bear to look
+  blockade_nature: clarity requires a witness willing to see; devastation has closed the eyes
+  swords_state: the figure turning from the Queen's mirror, preferring the dark of total ruin to the light of distinction
+  consequence: the clarity is available but unreceived; the ruin stays undifferentiated and therefore bottomless
+  key_terms: clarity unwitnessed, eyes closed against sight, the refused mirror, bottomless ruin
+
+dynamic_devolution:
+  mechanism: The Queen's clarity hardens into cold judgment; the ruined figure is found wanting and dismissed
+  mode: discernment without compassion; clear sight used to indict the fallen rather than free them
+  loss: the clarity that could have charted recovery becomes a verdict of hopelessness
+  key_terms: clarity turned cold, judgment without compassion, the indicting verdict, sight that condemns
+
+dynamic_dependency:
+  mechanism: The ruin needs the Queen's clarity to find what remains; the Queen needs the ruin to keep her clarity humane
+  function: Swords-10 supplies the raw fact of devastation that clarity must reckon with; Swords-Queen supplies the discernment that separates what is lost from what survives
+  integration_outcome: the wreckage is sorted by a clear and compassionate eye; the ruin becomes legible, and the legible can be rebuilt
+  key_terms: sorted wreckage, compassionate discernment, legible ruin, what survives named
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS
+
+---
+
+card_pair: 10 of Swords, King of Swords
+archetype_swords_1: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+archetype_swords_2: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+numerical_relation: 10 + 14 = 24 → 2+4=6 (VI The Lovers; the devastation meets commanding authority)
+elemental_bridge: Air (utter collapse) meets Air (sovereign command); the wreckage brought before the throne of judgment
+threshold_type: The moment total defeat is set before an authority that would order it
+
+dynamic_genesis:
+  mechanism: The King's commanding judgment gives the ruin a structure within which it can be addressed
+  process: The sovereign mind imposes order on the wreckage—what happened, what it means, what may be done
+  outcome: The devastation is placed inside a framework of meaning; the ruined gains a verdict they can act under
+  key_terms: order imposed on wreckage, devastation given structure, actionable verdict, framed ruin
+
+dynamic_antagonism:
+  mechanism: The King's authority to pronounce collides with a devastation that defies all command
+  tension_axis: between sovereign command and a ruin beyond any decree
+  ten_of_swords_position: "Your authority is meaningless here; no command reaches the utterly destroyed"
+  king_of_swords_position: "I rule even this; the wreckage will be named, judged, and ordered by my decree"
+  key_terms: command against the uncommandable, the powerless decree, ruin beyond authority, sovereignty refused
+
+dynamic_inhibition:
+  mechanism: The King issues directives the ruined figure has no capacity to obey
+  blockade_nature: authority assumes a subject able to act; devastation has removed the ability to comply
+  swords_state: the figure receiving commands while pinned beneath the swords, unable to rise to obey
+  consequence: the decrees pile up unexecuted; rulership meets the one domain it cannot move
+  key_terms: commands that cannot be obeyed, authority over the powerless, unexecuted decrees, the domain that won't move
+
+dynamic_devolution:
+  mechanism: The King's authority hardens into tyranny; the ruined figure's failure to obey is judged as defiance
+  mode: command turned punitive; collapse mistaken for insubordination and condemned
+  loss: the structure that could have guided recovery becomes a sentence; the ruined is ruled rather than restored
+  key_terms: authority turned tyrant, collapse read as defiance, the punitive command, ruled not restored
+
+dynamic_dependency:
+  mechanism: The ruin needs the King's structure to make recovery navigable; the King needs the ruin to learn that authority must serve, not merely command
+  function: Swords-10 supplies the limit case that humbles pure command; Swords-King supplies the ordering vision that makes devastation addressable step by step
+  integration_outcome: authority bends to meet the fallen where they lie, then provides the structure to rise; command becomes guidance, and the ruin is rebuilt under a vision it can follow
+  key_terms: authority that serves, structure for rising, command become guidance, navigable recovery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSS

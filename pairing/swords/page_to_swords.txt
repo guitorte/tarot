@@ -1,7 +1,7 @@
 card_pair: Page of Swords, Ace of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
-numerical_relation: 11 + 1 = 12; the messenger meets pure truth; the thought speaks to itself; clarity recognizes clarity
+numerical_relation: 11 + 1 = 12 (XII The Hanged Man; the messenger meets pure truth; the thought speaks to itself; clarity recognizes clarity)
 elemental_bridge: Air (communication) meets Air (truth); both exist in the realm of mind; the message IS the insight
 threshold_type: The moment when the messenger recognizes the arrival of pure thought without distortion
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Truth articulated, clarity witnessed, message received, insight known
 
 dynamic_inhibition:
-  blockade: The messenger's attempt to frame the clarity in words may create distance from direct knowing
+  mechanism: The messenger's attempt to frame the clarity in words may create distance from direct knowing
+  blockade_nature: The messenger's attempt to frame the clarity in words may create distance from direct knowing
+  swords_state: The person understands the message about the insight but loses the direct experience of insight itself
   consequence: The person understands the message about the insight but loses the direct experience of insight itself
+  key_terms: framing in words distancing direct knowing, message about insight over insight itself, the mediated clarity, words around the spark
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes intellectual abstraction that replaces direct truth with theory
+  mechanism: The page of swords' message becomes intellectual abstraction that replaces direct truth with theory
+  mode: The page of swords' message becomes intellectual abstraction that replaces direct truth with theory
   loss: The figure loses access to the living insight because they now hold only the skeleton of words about it
+  key_terms: page of swords' message, figure loses access, held tension
 
 dynamic_dependency:
-  integration: The message and the insight teach each other about truth; the page learns that the greatest words point toward silence; the figure learns that articulation can honor insight without diminishing it; the message becomes doorway
-  outcome: The page's articulation opens the way toward the ace's clarity without claiming to be it; the insight arrives fresh and witnessed; together they create transmission of truth that is both clear and intact
+  mechanism: The message and the insight teach each other about truth
+  function: the page learns that the greatest words point toward silence; the figure learns that articulation can honor insight without diminishing it; the message becomes doorway
+  integration_outcome: The page's articulation opens the way toward the ace's clarity without claiming to be it; the insight arrives fresh and witnessed; together they create transmission of truth that is both clear and intact
+  key_terms: page learns that the greatest, page's articulation opens the way, message and the insight teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, 2 of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Duality, The Balanced Paradox, The Blindfolded Choice, Truth Suspended
-numerical_relation: 11 + 2 = 13; the messenger questions the balance; news of the paradox spreads; thought meets its opposite
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 11 + 2 = 13 (XIII Death; the messenger questions the balance; news of the paradox spreads; thought meets its opposite)
 elemental_bridge: Air (articulation of paradox) meets Air (living paradox); the messenger attempts to speak what cannot be resolved
 threshold_type: The moment when the messenger encounters truth that has no single answer
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Paradox named, balance maintained, message articulating suspension, truth held
 
 dynamic_inhibition:
-  blockade: The messenger's attempt to articulate both sides may paralyze rather than enlighten
+  mechanism: The messenger's attempt to articulate both sides may paralyze rather than enlighten
+  blockade_nature: The messenger's attempt to articulate both sides may paralyze rather than enlighten
+  swords_state: The figure understands the paradox intellectually but becomes unable to act because all paths seem equally valid and invalid
   consequence: The figure understands the paradox intellectually but becomes unable to act because all paths seem equally valid and invalid
+  key_terms: articulating both sides into paralysis, the paradox understood not acted on, all paths equally valid and invalid, analysis freezing choice
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes excuse for indecision; the paradox becomes permission for avoidance
+  mechanism: The page of swords' message becomes excuse for indecision
+  mode: the paradox becomes permission for avoidance
   loss: The figure loses the ability to commit to anything because the messenger has made all choices seem equally uncertain
+  key_terms: paradox becomes permission for avoidance, figure loses the ability, page of swords' message
 
 dynamic_dependency:
-  integration: The message and the balance teach each other about wisdom; the page learns that some paradoxes are meant to be lived rather than solved; the figure learns that articulating paradox can deepen rather than paralyze choice; the message becomes acceptance
-  outcome: The page's articulation honors the suspension without demanding resolution; the balance holds firm while the message testifies to its reality; together they create a wisdom that knows when to choose and when to abide
+  mechanism: The message and the balance teach each other about wisdom
+  function: the page learns that some paradoxes are meant to be lived rather than solved; the figure learns that articulating paradox can deepen rather than paralyze choice; the message becomes acceptance
+  integration_outcome: The page's articulation honors the suspension without demanding resolution; the balance holds firm while the message testifies to its reality; together they create a wisdom that knows when to choose and when to abide
+  key_terms: page learns that some paradoxes, page's articulation honors the suspension, message and the balance teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, 3 of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Sorrow, The Pain Witnessed, The Heartbreak Known, Truth That Wounds
-numerical_relation: 11 + 3 = 14; the messenger arrives where sorrow lives; news of pain spreads; thought meets suffering
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 11 + 3 = 14 (XIV Temperance; the messenger arrives where sorrow lives; news of pain spreads; thought meets suffering)
 elemental_bridge: Air (witness to pain) meets Air (pain that speaks); the messenger articulates what suffering cannot voice
 threshold_type: The moment when the messenger brings the language of grief
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Sorrow witnessed, pain acknowledged, message received with caution, truth speaking carefully
 
 dynamic_inhibition:
-  blockade: The messenger's words about sorrow may seem inadequate or dismissive to the one truly suffering
+  mechanism: The messenger's words about sorrow may seem inadequate or dismissive to the one truly suffering
+  blockade_nature: The messenger's words about sorrow may seem inadequate or dismissive to the one truly suffering
+  swords_state: The figure hears the message but feels more alone because words cannot match the depth of the pain
   consequence: The figure hears the message but feels more alone because words cannot match the depth of the pain
+  key_terms: words inadequate to true sorrow, feeling more alone, language failing the pain's depth, the dismissive-seeming message
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes philosophical abstraction that turns lived sorrow into intellectual exercise
+  mechanism: The page of swords' message becomes philosophical abstraction that turns lived sorrow into intellectual exercise
+  mode: The page of swords' message becomes philosophical abstraction that turns lived sorrow into intellectual exercise
   loss: The figure loses the reality of their suffering because the messenger transforms it into ideas
+  key_terms: page of swords' message, figure loses the reality, held tension
 
 dynamic_dependency:
-  integration: The message and the sorrow teach each other about compassion; the page learns that the deepest witness is sometimes silence with presence; the figure learns that being heard can begin the transformation of sorrow; the message becomes tender
-  outcome: The page's words honor the pain without trying to fix it; the sorrow finds voice while remaining real; together they create space where grief can be both witnessed and gradually transformed
+  mechanism: The message and the sorrow teach each other about compassion
+  function: the page learns that the deepest witness is sometimes silence with presence; the figure learns that being heard can begin the transformation of sorrow; the message becomes tender
+  integration_outcome: The page's words honor the pain without trying to fix it; the sorrow finds voice while remaining real; together they create space where grief can be both witnessed and gradually transformed
+  key_terms: page learns that the deepest, page's words honor the pain, message and the sorrow teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, 4 of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Rest, The Truce Held, The Mind At Peace, Thought Quieted
-numerical_relation: 11 + 4 = 15; the messenger brings news of reprieve; peace is possible; thought learns to rest
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: Rest, truce, peace, mental stillness, respite
+numerical_relation: 11 + 4 = 15 (XV The Devil; the messenger brings news of reprieve; peace is possible; thought learns to rest)
 elemental_bridge: Air (active communication) meets Air (silent peace); the messenger learns when to cease speaking
 threshold_type: The moment when the messenger chooses silence as truth
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Rest announced, peace honored, message respecting silence, thought pausing
 
 dynamic_inhibition:
-  blockade: The messenger's arrival may awaken what was peacefully asleep; words may shatter rest
+  mechanism: The messenger's arrival may awaken what was peacefully asleep
+  blockade_nature: words may shatter rest
+  swords_state: The figure is drawn from peace back into thought because the messenger's arrival demands engagement
   consequence: The figure is drawn from peace back into thought because the messenger's arrival demands engagement
+  key_terms: arrival shattering rest, words waking the peaceful, drawn from peace into thought, the demanded engagement
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes insistence that rest is needed because something is wrong
+  mechanism: The page of swords' message becomes insistence that rest is needed because something is wrong
+  mode: The page of swords' message becomes insistence that rest is needed because something is wrong
   loss: The figure loses the innocence of their rest because the message frames it as necessary escape
+  key_terms: page of swords' message, figure loses the innocence, held tension
 
 dynamic_dependency:
-  integration: The message and the rest teach each other about balance; the page learns that the deepest wisdom knows when rest is complete and action may return; the figure learns that being acknowledged in rest deepens it; the message becomes blessing
-  outcome: The page arrives with words that honor the rest without demanding it continue; the four of swords remains peacefully engaged or awakens renewed; together they create cycles where communication and silence support each other
+  mechanism: The message and the rest teach each other about balance
+  function: the page learns that the deepest wisdom knows when rest is complete and action may return; the figure learns that being acknowledged in rest deepens it; the message becomes blessing
+  integration_outcome: The page arrives with words that honor the rest without demanding it continue; the four of swords remains peacefully engaged or awakens renewed; together they create cycles where communication and silence support each other
+  key_terms: page learns that the deepest, page arrives with words, message and the rest teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, 5 of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Defeat, The Bitter Victory, The Hollow Win, Thought Betrayed
-numerical_relation: 11 + 5 = 16; the messenger arrives where words have wounded; truth has become a weapon
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 11 + 5 = 16 (XVI The Tower; the messenger arrives where words have wounded; truth has become a weapon)
 elemental_bridge: Air (communication) meets Air (communicative conflict); the messenger witnesses the aftermath of argument
 threshold_type: The moment when the messenger sees what words have wrought
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Defeat witnessed, victory hollow, message revealing cost, thought recognizing harm
 
 dynamic_inhibition:
-  blockade: The messenger's naming of the wound may deepen blame rather than facilitate healing
+  mechanism: The messenger's naming of the wound may deepen blame rather than facilitate healing
+  blockade_nature: The messenger's naming of the wound may deepen blame rather than facilitate healing
+  swords_state: The figure remains stuck in regret about the damage words have caused
   consequence: The figure remains stuck in regret about the damage words have caused
+  key_terms: naming the wound deepening blame, regret over the damage words caused, healing foreclosed, the blaming articulation
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes judgment of the one who wielded words carelessly
+  mechanism: The page of swords' message becomes judgment of the one who wielded words carelessly
+  mode: The page of swords' message becomes judgment of the one who wielded words carelessly
   loss: The figure loses the possibility of integration because the messenger frames their speech as unforgivable
+  key_terms: page of swords' message, figure loses the possibility, held tension
 
 dynamic_dependency:
-  integration: The message and the defeat teach each other about responsibility; the page learns that witnessing harm is the first step toward its healing; the figure learns that acknowledging the damage their words caused begins the path to recovery; the message becomes accountability
-  outcome: The page's witness honors both the cost and the possibility of integration; the five of swords begins to gather the fallen words and learn from their cutting; together they create a transformation where defeat becomes wisdom about the power of speech
+  mechanism: The message and the defeat teach each other about responsibility
+  function: the page learns that witnessing harm is the first step toward its healing; the figure learns that acknowledging the damage their words caused begins the path to recovery; the message becomes accountability
+  integration_outcome: The page's witness honors both the cost and the possibility of integration; the five of swords begins to gather the fallen words and learn from their cutting; together they create a transformation where defeat becomes wisdom about the power of speech
+  key_terms: page learns that witnessing harm, page's witness honors, message and the defeat teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, 6 of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Journey, The Passage Traveled, The Crossing Made, Thought Moving Forward
-numerical_relation: 11 + 6 = 17; the messenger guides the crossing; news of safe passage arrives; thought finds its way
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: The Traveler, The Departure, The Crossing, The Healer Through Distance
+numerical_relation: 11 + 6 = 17 (XVII The Star; the messenger guides the crossing; news of safe passage arrives; thought finds its way)
 elemental_bridge: Air (guide for the journey) meets Air (the moving mind); the messenger facilitates passage
 threshold_type: The moment when the messenger becomes guide for the journey
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Journey guided, passage accepted, message light upon the way, thought moving
 
 dynamic_inhibition:
-  blockade: The messenger's map may prove inadequate for the actual crossing; the terrain resists the words
+  mechanism: The messenger's map may prove inadequate for the actual crossing
+  blockade_nature: the terrain resists the words
+  swords_state: The figure follows the guidance but finds reality differs from the description
   consequence: The figure follows the guidance but finds reality differs from the description
+  key_terms: the map inadequate to the crossing, terrain resisting the words, reality differing from description, the failing guidance
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes controlling instruction that demands the crossing follow a specific path
+  mechanism: The page of swords' message becomes controlling instruction that demands the crossing follow a specific path
+  mode: The page of swords' message becomes controlling instruction that demands the crossing follow a specific path
   loss: The figure loses the freedom of the journey because the messenger's words have become constraints
+  key_terms: page of swords' message, figure loses the freedom, held tension
 
 dynamic_dependency:
-  integration: The message and the journey teach each other about guidance; the page learns that the best guidance enables freedom rather than controlling it; the figure learns that being guided need not diminish the experience of discovering the way; the message becomes companion
-  outcome: The page offers words that light the path without demanding every step be predicted; the crossing proceeds guided but also free; together they create journeys that are both supported and adventurous
+  mechanism: The message and the journey teach each other about guidance
+  function: the page learns that the best guidance enables freedom rather than controlling it; the figure learns that being guided need not diminish the experience of discovering the way; the message becomes companion
+  integration_outcome: The page offers words that light the path without demanding every step be predicted; the crossing proceeds guided but also free; together they create journeys that are both supported and adventurous
+  key_terms: page learns that the best, page offers words that light, message and the journey teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, 7 of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Theft, The Cunning Taken, The Stealth Masked, Thought Hidden
-numerical_relation: 11 + 7 = 18; the messenger arrives where theft is committed; news of the deception travels; truth confronts deception
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+numerical_relation: 11 + 7 = 18 (XVIII The Moon; the messenger arrives where theft is committed; news of the deception travels; truth confronts deception)
 elemental_bridge: Air (honest communication) meets Air (hidden thought); the messenger faces the shadow of speech
 threshold_type: The moment when the messenger encounters and must respond to clever deception
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Theft named, deception exposed, message revealing, thought hiding
 
 dynamic_inhibition:
-  blockade: The messenger's exposure of the theft may be refused or denied by the thief who remains committed to the lie
-  consequence: Truth is spoken but not accepted; the thief continues to deny even as they are named
+  mechanism: The messenger's exposure of the theft may be refused or denied by the thief who remains committed to the lie
+  blockade_nature: The messenger's exposure of the theft may be refused or denied by the thief who remains committed to the lie
+  swords_state: Truth is spoken but not accepted
+  consequence: the thief continues to deny even as they are named
+  key_terms: exposure denied by the committed liar, truth spoken not accepted, the thief denying even when named, refused revelation
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes judgment that hardens the thief into continued deception
+  mechanism: The page of swords' message becomes judgment that hardens the thief into continued deception
+  mode: The page of swords' message becomes judgment that hardens the thief into continued deception
   loss: The figure remains locked in theft because the messenger's exposure came without compassion for integration
+  key_terms: page of swords' message, figure remains locked in theft, held tension
 
 dynamic_dependency:
-  integration: The message and the theft teach each other about truth; the page learns that exposure must be offered with the possibility of redemption; the figure learns that being named can be the first step toward returning what was taken; the message becomes invitation
-  outcome: The page speaks truth that neither condemns nor enables; the theft becomes visible and the possibility of return emerges; together they create space where hidden things can be brought to light and reintegrated
+  mechanism: The message and the theft teach each other about truth
+  function: the page learns that exposure must be offered with the possibility of redemption; the figure learns that being named can be the first step toward returning what was taken; the message becomes invitation
+  integration_outcome: The page speaks truth that neither condemns nor enables; the theft becomes visible and the possibility of return emerges; together they create space where hidden things can be brought to light and reintegrated
+  key_terms: page learns that exposure, page speaks truth that neither, message and the theft teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, 8 of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Bondage, The Imprisonment Of Mind, The Bound Thought, Captivity Accepted
-numerical_relation: 11 + 8 = 19; the messenger arrives at one bound by thought; words have become chains; speech is imprisoned
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+numerical_relation: 11 + 8 = 19 (XIX The Sun; the messenger arrives at one bound by thought; words have become chains; speech is imprisoned)
 elemental_bridge: Air (free communication) meets Air (imprisoned air); the messenger witnesses thought that binds itself
 threshold_type: The moment when the messenger encounters the mind that has imprisoned itself
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Bondage witnessed, freedom offered, message refused, thought remaining
 
 dynamic_inhibition:
-  blockade: The messenger's words about freedom may be unheard by the imprisoned mind that has grown accustomed to its chains
+  mechanism: The messenger's words about freedom may be unheard by the imprisoned mind that has grown accustomed to its chains
+  blockade_nature: The messenger's words about freedom may be unheard by the imprisoned mind that has grown accustomed to its chains
+  swords_state: The figure hears the liberation offered but lacks the will or belief to act on it
   consequence: The figure hears the liberation offered but lacks the will or belief to act on it
+  key_terms: freedom-words unheard by the chained mind, accustomed to the chains, liberation without will to act, the unmoved prisoner
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes judgment that the imprisoned figure deserves their bondage
+  mechanism: The page of swords' message becomes judgment that the imprisoned figure deserves their bondage
+  mode: The page of swords' message becomes judgment that the imprisoned figure deserves their bondage
   loss: The figure loses the possibility of freedom because the messenger has blamed them for their captivity
+  key_terms: page of swords' message, figure loses the possibility, held tension
 
 dynamic_dependency:
-  integration: The message and the bondage teach each other about freedom; the page learns that freedom must be chosen by the imprisoned and cannot be imposed by the messenger; the figure learns that hearing the call to freedom is the first step toward answering it; the message becomes doorway
-  outcome: The page speaks freedom without demand; the bound figure slowly recognizes the chains as self-made and begins the journey of release; together they create a path where captivity becomes a temporary state and freedom emerges as recognition
+  mechanism: The message and the bondage teach each other about freedom
+  function: the page learns that freedom must be chosen by the imprisoned and cannot be imposed by the messenger; the figure learns that hearing the call to freedom is the first step toward answering it; the message becomes doorway
+  integration_outcome: The page speaks freedom without demand; the bound figure slowly recognizes the chains as self-made and begins the journey of release; together they create a path where captivity becomes a temporary state and freedom emerges as recognition
+  key_terms: page learns that freedom, page speaks freedom without demand, message and the bondage teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, 9 of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Nightmare, The Mind Tortured, The Thought That Wounds, Anguish Internalized
-numerical_relation: 11 + 9 = 20; the messenger arrives in the midnight of the mind; words speak where nightmares reign; truth meets terror
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+numerical_relation: 11 + 9 = 20 (XX Judgement; the messenger arrives in the midnight of the mind; words speak where nightmares reign; truth meets terror)
 elemental_bridge: Air (clear thought) meets Air (distorted thought); the messenger witnesses how the mind can turn against itself
 threshold_type: The moment when the messenger speaks light into the night of the mind
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Nightmare witnessed, terror felt, message offering waking, thought suffering
 
 dynamic_inhibition:
-  blockade: The messenger's logical words may fail to reach the one in the grip of the nightmare
-  consequence: The figure hears the reassurance but cannot feel its truth; the logic does not touch the emotion
+  mechanism: The messenger's logical words may fail to reach the one in the grip of the nightmare
+  blockade_nature: The messenger's logical words may fail to reach the one in the grip of the nightmare
+  swords_state: The figure hears the reassurance but cannot feel its truth
+  consequence: the logic does not touch the emotion
+  key_terms: logic failing the nightmare's grip, reassurance unfelt, logic not touching emotion, the untouched torment
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes dismissal of the suffering as imaginary and therefore unimportant
+  mechanism: The page of swords' message becomes dismissal of the suffering as imaginary and therefore unimportant
+  mode: The page of swords' message becomes dismissal of the suffering as imaginary and therefore unimportant
   loss: The figure loses support because the messenger has delegitimized their experience rather than honored it
+  key_terms: page of swords' message, figure loses support because, held tension
 
 dynamic_dependency:
-  integration: The message and the nightmare teach each other about reality; the page learns that the nightmare is real as experience even if not as external fact; the figure learns that having the suffering witnessed is part of waking from it; the message becomes gentle light
-  outcome: The page speaks truth with compassion for the dreamer; the nightmare's grip loosens as the sufferer feels witnessed rather than dismissed; together they create a path where terror gradually yields to understanding and the mind learns to distinguish dream from waking
+  mechanism: The message and the nightmare teach each other about reality
+  function: the page learns that the nightmare is real as experience even if not as external fact; the figure learns that having the suffering witnessed is part of waking from it; the message becomes gentle light
+  integration_outcome: The page speaks truth with compassion for the dreamer; the nightmare's grip loosens as the sufferer feels witnessed rather than dismissed; together they create a path where terror gradually yields to understanding and the mind learns to distinguish dream from waking
+  key_terms: page learns that the nightmare, page speaks truth with compassion, message and the nightmare teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, 10 of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Devastation, The Mind Destroyed, The Thought Annihilated, Ruin Complete
-numerical_relation: 11 + 10 = 21; the messenger arrives at devastation; the final word is spoken; truth faces annihilation
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+numerical_relation: 11 + 10 = 21 (XXI The World; the messenger arrives at devastation; the final word is spoken; truth faces annihilation)
 elemental_bridge: Air (articulation) meets Air (silence that follows destruction); the messenger witnesses the point beyond which words cease
 threshold_type: The moment when the messenger must speak at the edge of the abyss
 
@@ -406,32 +469,89 @@ dynamic_antagonism:
   key_terms: Devastation witnessed, survival spoken, message arriving at the end, thought ceasing
 
 dynamic_inhibition:
-  blockade: The messenger's words may seem cruel or insensitive in the face of complete destruction
+  mechanism: The messenger's words may seem cruel or insensitive in the face of complete destruction
+  blockade_nature: The messenger's words may seem cruel or insensitive in the face of complete destruction
+  swords_state: The figure hears the message but finds no solace in mere words when all has been taken
   consequence: The figure hears the message but finds no solace in mere words when all has been taken
+  key_terms: words seeming cruel before total ruin, no solace in mere words, the message without comfort, language against devastation
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes demand that the devastated figure recover quickly or move on
+  mechanism: The page of swords' message becomes demand that the devastated figure recover quickly or move on
+  mode: The page of swords' message becomes demand that the devastated figure recover quickly or move on
   loss: The figure loses the time needed to process devastation because the messenger refuses to acknowledge the depth of the ruin
+  key_terms: page of swords' message, figure loses the time needed, held tension
 
 dynamic_dependency:
-  integration: The message and the devastation teach each other about resilience; the page learns that the deepest witness is sometimes just presence at the edge of the abyss; the figure learns that being acknowledged in devastation honors the enormity of what has been lost; the message becomes anchor
-  outcome: The page speaks the simplest truth: you remain; the ten of swords lies at the threshold between ending and new beginning; together they create the space where devastation can be honored and transformation can slowly begin
+  mechanism: The message and the devastation teach each other about resilience
+  function: the page learns that the deepest witness is sometimes just presence at the edge of the abyss; the figure learns that being acknowledged in devastation honors the enormity of what has been lost; the message becomes anchor
+  integration_outcome: The page speaks the simplest truth: you remain; the ten of swords lies at the threshold between ending and new beginning; together they create the space where devastation can be honored and transformation can slowly begin
+  key_terms: page learns that the deepest, page speaks the simplest truth:, message and the devastation teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
+  uid: POSS
+
+---
+
+card_pair: Page of Swords, Page of Swords
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+numerical_relation: 11 + 11 = 22 → 2+2=4 (IV The Emperor; two fresh truths face each other)
+elemental_bridge: Air meeting Air at its youngest; two fresh ideas, two new truths facing each other
+threshold_type: The moment two new ideas meet, each fresh from the messenger's road
+
+dynamic_genesis:
+  mechanism: Two young truths meet and quicken each other; each new idea provokes a newer one in the other
+  process: the messengers trade what they have just learned; curiosity feeds curiosity; the exchange accelerates discovery
+  outcome: a rapid mutual education; two minds sharpened by trading fresh sight
+  key_terms: traded fresh sight, curiosity feeding curiosity, mutual quickening, accelerated discovery
+
+dynamic_antagonism:
+  mechanism: Each messenger is certain his news is the truer and newer; the meeting becomes a contest of whose idea wins
+  tension_axis: between two claims to the freshest truth
+  swords_position_1: "My news is newer; listen before you speak"
+  swords_position_2: "Mine cuts deeper; your idea is already stale"
+  key_terms: rival fresh truths, contest of news, listen-before-you-speak, competing novelty
+
+dynamic_inhibition:
+  mechanism: Both want to deliver and neither wants to receive; two messages cross in the air and neither lands
+  blockade_nature: each talks past the other, eager to tell and deaf to hear; the exchange jams
+  swords_state: two young figures speaking at once, swords raised to declare, ears closed
+  consequence: nothing is learned; two fresh truths cancel into noise
+  key_terms: two messages crossing, eager to tell deaf to hear, the jammed exchange, fresh truths into noise
+
+dynamic_devolution:
+  mechanism: The contest curdles into gossip and one-upmanship; each twists the other's idea to win the point
+  mode: truth-telling degraded into scoring points; the new thought weaponized as cleverness
+  loss: both ideas are cheapened; what could have been shared discovery becomes mutual spite
+  key_terms: gossip and one-upmanship, scoring points, weaponized cleverness, cheapened ideas
+
+dynamic_dependency:
+  mechanism: Each messenger needs the other as the listener that makes a message real; a truth told to no one is only a thought
+  function: each Page supplies the fresh hearing the other's news requires; together they complete the circuit of speaking and being heard
+  integration_outcome: the two trade places freely between teller and listener; news becomes knowledge because it is both given and received
+  key_terms: the listener that completes the message, trading teller and listener, given and received, news become knowledge
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, Knight of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Seeker, The Truth Pursued, The Challenge Accepted, Thought In Motion
-numerical_relation: 11 + 11 = 22; two seekers meet; the messenger and the pursuer of truth become allies; the chase continues
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+numerical_relation: 11 + 12 = 23 → 2+3=5 (V The Pope; two seekers meet; the messenger and the pursuer of truth become allies; the chase continues)
 elemental_bridge: Air (communication of ideas) meets Air (pursuit of truth); the messenger and the seeker travel the same roads
 threshold_type: The moment when the young messenger meets the seasoned seeker
 
@@ -449,32 +569,39 @@ dynamic_antagonism:
   key_terms: Quest understood, pursuit shared, message guiding, thought seeking forward
 
 dynamic_inhibition:
-  blockade: The messenger's articulation of what is sought may create false certainty about what the knight should find
+  mechanism: The messenger's articulation of what is sought may create false certainty about what the knight should find
+  blockade_nature: The messenger's articulation of what is sought may create false certainty about what the knight should find
+  swords_state: The knight rides toward what the message describes rather than remaining open to what truth actually reveals
   consequence: The knight rides toward what the message describes rather than remaining open to what truth actually reveals
+  key_terms: articulation creating false certainty, riding toward the description not the truth, openness foreclosed, the misdirected seeker
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes dogma that the knight defends rather than truth they pursue
+  mechanism: The page of swords' message becomes dogma that the knight defends rather than truth they pursue
+  mode: The page of swords' message becomes dogma that the knight defends rather than truth they pursue
   loss: The figure loses the freedom of the quest because the messenger's words have become boundaries to search
+  key_terms: page of swords' message, figure loses the freedom, held tension
 
 dynamic_dependency:
-  integration: The message and the pursuit teach each other about truth; the page learns that truth is alive and moves faster than words about it; the figure learns that articulating the quest deepens rather than constrains it; the message becomes companion
-  outcome: The page speaks in ways that open possibility rather than define it; the knight rides with greater clarity but no less freedom; together they create a quest where communication and pursuit are synchronized partners in the discovery of truth
+  mechanism: The message and the pursuit teach each other about truth
+  function: the page learns that truth is alive and moves faster than words about it; the figure learns that articulating the quest deepens rather than constrains it; the message becomes companion
+  integration_outcome: The page speaks in ways that open possibility rather than define it; the knight rides with greater clarity but no less freedom; together they create a quest where communication and pursuit are synchronized partners in the discovery of truth
+  key_terms: page learns that truth, page speaks in ways, message and the pursuit teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, Queen of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
-archetype_swords_2: The Queen, The Discerning Mind, The Clear Authority, Thought That Judges
-numerical_relation: 11 + 12 = 23; the messenger meets the queen of thought; news is brought before the throne of clarity; wisdom must be offered
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_2: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+numerical_relation: 11 + 13 = 24 → 2+4=6 (VI The Lovers; the messenger meets the queen of thought; news is brought before the throne of clarity; wisdom must be offered)
 elemental_bridge: Air (youthful communication) meets Air (mature discernment); the messenger faces judgment refined by time
 threshold_type: The moment when the messenger approaches the throne of intellectual authority
 
@@ -492,32 +619,39 @@ dynamic_antagonism:
   key_terms: Truth offered, judgment given, message received or dismissed, thought measuring
 
 dynamic_inhibition:
-  blockade: The messenger's youthful confidence may be deflated by the queen's discernment; the new truth may be found inadequate
-  consequence: The figure's message is scrutinized and found wanting; the messenger loses confidence in their ability to speak truth
+  mechanism: The messenger's youthful confidence may be deflated by the queen's discernment
+  blockade_nature: the new truth may be found inadequate
+  swords_state: The figure's message is scrutinized and found wanting
+  consequence: the messenger loses confidence in their ability to speak truth
+  key_terms: youthful confidence deflated by discernment, the new truth found wanting, the scrutinized message, lost confidence to speak
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes defensive against the queen's judgment
+  mechanism: The page of swords' message becomes defensive against the queen's judgment
+  mode: The page of swords' message becomes defensive against the queen's judgment
   loss: The figure loses the capacity to grow through critique because they defend their words rather than allowing them to be refined
+  key_terms: page of swords' message, figure loses the capacity, held tension
 
 dynamic_dependency:
-  integration: The message and the judgment teach each other about wisdom; the page learns that true truth can withstand the sharpest scrutiny; the figure learns that the messenger's willingness to be judged deepens their discernment; the message becomes offering
-  outcome: The page speaks with humility and openness to correction; the queen's judgment refines rather than dismisses the young truth; together they create a dynamic where communication serves the development of greater wisdom
+  mechanism: The message and the judgment teach each other about wisdom
+  function: the page learns that true truth can withstand the sharpest scrutiny; the figure learns that the messenger's willingness to be judged deepens their discernment; the message becomes offering
+  integration_outcome: The page speaks with humility and openness to correction; the queen's judgment refines rather than dismisses the young truth; together they create a dynamic where communication serves the development of greater wisdom
+  key_terms: page learns that true truth, page speaks with humility, message and the judgment teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS
 
 ---
 
 card_pair: Page of Swords, King of Swords
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords_1: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
 archetype_swords_2: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
-numerical_relation: 11 + 13 = 24; the messenger meets the king of swords; news is brought to the throne of command; the word must serve vision
+numerical_relation: 11 + 14 = 25 → 2+5=7 (VII The Chariot; the messenger meets the king of swords; news is brought to the throne of command; the word must serve vision)
 elemental_bridge: Air (fresh communication) meets Air (sovereign thought); the messenger speaks to the authority that shapes understanding
 threshold_type: The moment when the messenger approaches the throne of intellectual command
 
@@ -535,22 +669,29 @@ dynamic_antagonism:
   key_terms: Understanding received, vision clarified, message serving, thought commanding
 
 dynamic_inhibition:
-  blockade: The messenger's words may constrain the king's vision if they are too narrow or contradict his understanding
+  mechanism: The messenger's words may constrain the king's vision if they are too narrow or contradict his understanding
+  blockade_nature: The messenger's words may constrain the king's vision if they are too narrow or contradict his understanding
+  swords_state: The king must break through the messenger's words to access the greater vision he perceives
   consequence: The king must break through the messenger's words to access the greater vision he perceives
+  key_terms: words too narrow for the king's vision, message constraining sight, breaking through the words, definition against the greater vision
 
 dynamic_devolution:
-  corruption: The page of swords' message becomes tool of the king's will rather than honest truth
+  mechanism: The page of swords' message becomes tool of the king's will rather than honest truth
+  mode: The page of swords' message becomes tool of the king's will rather than honest truth
   loss: The figure loses integrity because they have learned to shape their words to please authority rather than speak truth
+  key_terms: page of swords' message, figure loses integrity because they, held tension
 
 dynamic_dependency:
-  integration: The message and the command teach each other about power; the page learns that truth is most powerful when it serves genuine vision; the figure learns that having young truth in service deepens rather than diminishes the king's authority; the message becomes understanding
-  outcome: The page speaks understanding that illuminates the king's vision and strengthens his command; the sovereign intellect receives fresh truth that refines its vision; together they create alignment where young voice and mature command work as partners in shaping reality
+  mechanism: The message and the command teach each other about power
+  function: the page learns that truth is most powerful when it serves genuine vision; the figure learns that having young truth in service deepens rather than diminishes the king's authority; the message becomes understanding
+  integration_outcome: The page speaks understanding that illuminates the king's vision and strengthens his command; the sovereign intellect receives fresh truth that refines its vision; together they create alignment where young voice and mature command work as partners in shaping reality
+  key_terms: page learns that truth, page speaks understanding that illuminates, message and the command teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: page-1 through page-14
   uid: POSS

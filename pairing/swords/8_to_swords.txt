@@ -1,7 +1,7 @@
 card_pair: 8 of Swords, Ace of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Truth Revealed, The Clarity Struck, The Sword of Light, Illumination Sharp
-numerical_relation: 8 + 1 = 9; the constraint meets the arrival of truth
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 8 + 1 = 9 (IX The Hermit; the constraint meets the arrival of truth)
 elemental_bridge: Air (confined thought) meets Air (liberating clarity); two minds, one imprisoned and one enlightened
 threshold_type: The moment when truth arrives to the bound and shatters their understanding
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Resisted clarity, defended illusion, truth against denial
 
 dynamic_inhibition:
-  blockade: The figure cannot integrate the truth even as it is revealed; the blockade is the psychological investment in the narrative of powerlessness
-  consequence: The clarity becomes torture; the figure sees the truth but cannot act on it; the sword becomes a wound that cuts but does not free
+  mechanism: The figure cannot integrate the truth even as it is revealed
+  blockade_nature: the blockade is the psychological investment in the narrative of powerlessness
+  swords_state: The clarity becomes torture
+  consequence: the figure sees the truth but cannot act on it; the sword becomes a wound that cuts but does not free
+  key_terms: figure cannot integrate the truth, blockade is the psychological investment, clarity becomes torture, figure sees the truth
 
 dynamic_devolution:
-  corruption: The truth becomes weaponized; the figure uses the clarity to prove their own powerlessness more thoroughly; the ace of swords becomes evidence that they are responsible for their own bondage; guilt compounds the constraint
+  mechanism: The truth becomes weaponized
+  mode: the figure uses the clarity to prove their own powerlessness more thoroughly; the ace of swords becomes evidence that they are responsible for their own bondage; guilt compounds the constraint
   loss: The figure loses the comfort of external blame; they internalize the idea that they have chosen their prison; the wound becomes shame
+  key_terms: figure uses the clarity, figure loses the comfort, truth becomes weaponized
 
 dynamic_dependency:
-  integration: The truth cuts both ways; it reveals the bondage and it also reveals the figure's capacity to eventually choose otherwise; the ace of swords teaches that consciousness is the gateway to eventual freedom; the constraint becomes the dark teacher of truth
-  outcome: The sword's clarity eventually liberates; not immediately, but as the figure integrates that some of their bondage is psychological, the first cut toward freedom is made; the constraint becomes the condition in which truth finally becomes actionable
+  mechanism: The truth cuts both ways
+  function: it reveals the bondage and it also reveals the figure's capacity to eventually choose otherwise; the ace of swords teaches that consciousness is the gateway to eventual freedom; the constraint becomes the dark teacher of truth
+  integration_outcome: The sword's clarity eventually liberates; not immediately, but as the figure integrates that some of their bondage is psychological, the first cut toward freedom is made; the constraint becomes the condition in which truth finally becomes actionable
+  key_terms: it reveals the bondage, sword's clarity eventually liberates, truth cuts both ways
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, 2 of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Blindfolded Dilemma, The Paralyzed Choice, The Stalemate Mind, Decision Impossible
-numerical_relation: 8 + 2 = 10; the constraint meets the blindfolded choice
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 8 + 2 = 10 (X The Wheel of Fortune; the constraint meets the blindfolded choice)
 elemental_bridge: Air (imposed immobility) meets Air (chosen paralysis); the bound and the indecisive meet in silence
 threshold_type: The moment when external bondage mirrors internal paralysis
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Forced versus chosen paralysis, external versus internal bondage
 
 dynamic_inhibition:
-  blockade: The figure becomes trapped in the psychology of the two of swords; they begin to maintain their own bondage through psychological stalemate
-  consequence: The figure loses the distinction between being bound externally and being bound internally; they internalize the constraint as if it were their own choice
+  mechanism: The figure becomes trapped in the psychology of the two of swords
+  blockade_nature: they begin to maintain their own bondage through psychological stalemate
+  swords_state: The figure loses the distinction between being bound externally and being bound internally
+  consequence: they internalize the constraint as if it were their own choice
+  key_terms: figure becomes trapped, they begin to maintain, figure loses the distinction between, they internalize the constraint
 
 dynamic_devolution:
-  corruption: The two of swords becomes a mirror of the future; the figure imagines remaining in the prison of the mind even if external chains are removed; the paralysis becomes identity
+  mechanism: The two of swords becomes a mirror of the future
+  mode: the figure imagines remaining in the prison of the mind even if external chains are removed; the paralysis becomes identity
   loss: The figure loses the will to be freed; they begin to believe the stalemate is preferable to the risk of choosing; bondage becomes comfortable
+  key_terms: figure imagines remaining, figure loses the will, two of swords
 
 dynamic_dependency:
-  integration: The bondage and the paralysis teach each other; the figure learns through constraint that some paralysis is habitual; that the ability to choose is inseparable from freedom; when the binding releases, the figure must also remove the blindfold they have adopted; the constraint becomes the teacher of how psychological bondage mirrors external constraint
-  outcome: The two of swords eventually becomes a choice point; the figure who has known external binding can recognize and reject internal paralysis; the constraint becomes the teacher of the difference between necessary caution and chosen stalemate
+  mechanism: The bondage and the paralysis teach each other
+  function: the figure learns through constraint that some paralysis is habitual; that the ability to choose is inseparable from freedom; when the binding releases, the figure must also remove the blindfold they have adopted; the constraint becomes the teacher of how psychological bondage mirrors external constraint
+  integration_outcome: The two of swords eventually becomes a choice point; the figure who has known external binding can recognize and reject internal paralysis; the constraint becomes the teacher of the difference between necessary caution and chosen stalemate
+  key_terms: figure learns through constraint, two of swords eventually, bondage and the paralysis teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, 3 of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Heartbreak, The Sorrow Articulated, The Suffering Witnessed, Pain Made Real
-numerical_relation: 8 + 3 = 11; the constraint meets the articulation of pain
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 8 + 3 = 11 (XI Strength; the constraint meets the articulation of pain)
 elemental_bridge: Air (silent suffering in bondage) meets Air (expressed sorrow); both speak of pain but the bound cannot voice it
 threshold_type: The moment when pain becomes visible through another's expression
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Silenced suffering, articulated pain, witnessed versus hidden
 
 dynamic_inhibition:
-  blockade: The figure cannot give voice to their pain even if they want to; the blockade is the enforced silence—the prisoner learns that expression is dangerous
-  consequence: The pain becomes internalized and turns toxic; the figure's suffering compounds because it cannot be processed through voice
+  mechanism: The figure cannot give voice to their pain even if they want to
+  blockade_nature: the blockade is the enforced silence—the prisoner learns that expression is dangerous
+  swords_state: The pain becomes internalized and turns toxic
+  consequence: the figure's suffering compounds because it cannot be processed through voice
+  key_terms: figure cannot give voice, blockade is the enforced silence, pain becomes internalized and turns, figure's suffering compounds because it
 
 dynamic_devolution:
-  corruption: The three of swords becomes a vision of pain properly expressed; the figure imagines being able to articulate their suffering but cannot; the sword becomes evidence that even their pain is not allowed
+  mechanism: The three of swords becomes a vision of pain properly expressed
+  mode: the figure imagines being able to articulate their suffering but cannot; the sword becomes evidence that even their pain is not allowed
   loss: The figure loses the capacity to mourn properly; they begin to believe that their suffering doesn't matter; the pain becomes invisible even to themselves
+  key_terms: figure imagines being able, figure loses the capacity, three of swords
 
 dynamic_dependency:
-  integration: The bondage teaches the value of grief through silencing it; the figure learns what sorrow means in the absence of voice; when the binding releases, the figure can approach the three of swords with understanding earned through silence; the constraint becomes the teacher of what articulation truly requires
-  outcome: The three of swords can finally hear the figure freed from bondage; the pain becomes expressible; the sorrow can be witnessed; the constraint becomes the preparation for proper grieving; the voice returns as a sacred act
+  mechanism: The bondage teaches the value of grief through silencing it
+  function: the figure learns what sorrow means in the absence of voice; when the binding releases, the figure can approach the three of swords with understanding earned through silence; the constraint becomes the teacher of what articulation truly requires
+  integration_outcome: The three of swords can finally hear the figure freed from bondage; the pain becomes expressible; the sorrow can be witnessed; the constraint becomes the preparation for proper grieving; the voice returns as a sacred act
+  key_terms: figure learns what sorrow means, three of swords can finally, bondage teaches the value
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, 4 of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Truce, The Necessary Rest, The Uneasy Peace, Stillness Imposed
-numerical_relation: 8 + 4 = 12; the constraint meets enforced rest
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: Rest, truce, peace, mental stillness, respite
+numerical_relation: 8 + 4 = 12 (XII The Hanged Man; the constraint meets enforced rest)
 elemental_bridge: Air (static bondage) meets Air (necessary pause); both enforce stillness but the eight has no choice
 threshold_type: The moment when enforced rest and willing rest collide
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Earned versus enforced, rest versus stagnation, peace versus immobility
 
 dynamic_inhibition:
-  blockade: The figure cannot experience true rest even in stillness; the blockade is that rest requires the knowledge that movement is possible; the bound cannot rest because they are always paralyzed
-  consequence: The figure becomes depleted by the meaningless stillness; they lose the restorative quality of rest because there is nothing to recover from except the constraint itself
+  mechanism: The figure cannot experience true rest even in stillness
+  blockade_nature: the blockade is that rest requires the knowledge that movement is possible; the bound cannot rest because they are always paralyzed
+  swords_state: The figure becomes depleted by the meaningless stillness
+  consequence: they lose the restorative quality of rest because there is nothing to recover from except the constraint itself
+  key_terms: figure cannot experience true rest, blockade is that rest requires, figure becomes depleted, they lose the restorative quality
 
 dynamic_devolution:
-  corruption: The four of swords becomes a vision of peace the bound cannot have; the figure imagines resting after struggle but has no struggle to rest from; rest becomes a fantasy; the stillness becomes torture because it offers no peace
+  mechanism: The four of swords becomes a vision of peace the bound cannot have
+  mode: the figure imagines resting after struggle but has no struggle to rest from; rest becomes a fantasy; the stillness becomes torture because it offers no peace
   loss: The figure loses the sense that rest could ever be rejuvenating; they begin to associate stillness only with imprisonment; the body becomes increasingly depleted
+  key_terms: figure imagines resting after struggle, figure loses the sense, four of swords
 
 dynamic_dependency:
-  integration: The bondage teaches the value of rest through denying its restorative power; the figure, trapped in stillness, understands with clarity what genuine peace requires; when the binding releases, the figure must learn to rest; the constraint becomes the teacher of what earned peace truly is
-  outcome: The four of swords can finally offer genuine rest to the figure freed from bondage; the stillness becomes restorative; the peace becomes real; the constraint becomes the preparation for truly understanding rest
+  mechanism: The bondage teaches the value of rest through denying its restorative power
+  function: the figure, trapped in stillness, understands with clarity what genuine peace requires; when the binding releases, the figure must learn to rest; the constraint becomes the teacher of what earned peace truly is
+  integration_outcome: The four of swords can finally offer genuine rest to the figure freed from bondage; the stillness becomes restorative; the peace becomes real; the constraint becomes the preparation for truly understanding rest
+  key_terms: four of swords can finally, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, 5 of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Victor's Hollow, The Bitter Triumph, The Pyrrhic Win, Defeat Disguised
-numerical_relation: 8 + 5 = 13; the constraint meets the victor's bitterness
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 8 + 5 = 13 (XIII Death; the constraint meets the victor's bitterness)
 elemental_bridge: Air (defeated consciousness) meets Air (hollow victory); neither the prisoner nor the victor truly wins
 threshold_type: The moment when two forms of defeat recognize each other
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Shared emptiness, victimization universal, defeat of the victor
 
 dynamic_inhibition:
-  blockade: The figure cannot escape even in defeat; nor can the victor escape in victory; the blockade is the system that makes all outcomes hollow
-  consequence: Both become trapped in endless cycles; the prisoner's next phase might be victorious, but the victory will be as empty as the defeat
+  mechanism: The figure cannot escape even in defeat
+  blockade_nature: nor can the victor escape in victory; the blockade is the system that makes all outcomes hollow
+  swords_state: Both become trapped in endless cycles
+  consequence: the prisoner's next phase might be victorious, but the victory will be as empty as the defeat
+  key_terms: figure cannot escape even, nor can the victor escape, both become trapped in endless, prisoner's next phase might be
 
 dynamic_devolution:
-  corruption: The five of swords becomes a prophecy; the figure imagines that even if they defeat their bondage, they will find themselves in the hollow victory of the five; defeat is permanent either way
+  mechanism: The five of swords becomes a prophecy
+  mode: the figure imagines that even if they defeat their bondage, they will find themselves in the hollow victory of the five; defeat is permanent either way
   loss: The figure loses hope that freedom would bring peace; they begin to believe the system of dominance and submission is inescapable
+  key_terms: figure imagines that even if, figure loses hope that freedom, five of swords
 
 dynamic_dependency:
-  integration: The bondage and the hollow victory teach the same truth; that the system of dominance and submission is the real prison; when the binding releases, the figure must also reject the logic that created it; the constraint becomes the teacher of what true victory requires—not the defeat of enemies but the transcendence of the game
-  outcome: Both the prisoner and the victor eventually understand that freedom requires leaving the game entirely; the constraint becomes the preparation for this understanding; the figure learns through bondage what victory could never teach
+  mechanism: The bondage and the hollow victory teach the same truth
+  function: that the system of dominance and submission is the real prison; when the binding releases, the figure must also reject the logic that created it; the constraint becomes the teacher of what true victory requires—not the defeat of enemies but the transcendence of the game
+  integration_outcome: Both the prisoner and the victor eventually understand that freedom requires leaving the game entirely; the constraint becomes the preparation for this understanding; the figure learns through bondage what victory could never teach
+  key_terms: that the system of dominance, both the prisoner, bondage and the hollow victory
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, 6 of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Departure, The Necessary Crossing, The Journey Away, Travel Begun
-numerical_relation: 8 + 6 = 14; the constraint meets the possibility of departure
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: The Traveler, The Departure, The Crossing, The Healer Through Distance
+numerical_relation: 8 + 6 = 14 (XIV Temperance; the constraint meets the possibility of departure)
 elemental_bridge: Air (static imprisonment) meets Air (mental journeying); two forms of movement, one denied and one beginning
 threshold_type: The moment when departure becomes possible
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Observed freedom, enforced stillness, departure impossible
 
 dynamic_inhibition:
-  blockade: The figure cannot follow the traveler even if they want to; the blockade is the physical constraint
-  consequence: The figure becomes more aware of what they lack; watching departure deepens the wound of immobility
+  mechanism: The figure cannot follow the traveler even if they want to
+  blockade_nature: the blockade is the physical constraint
+  swords_state: The figure becomes more aware of what they lack
+  consequence: watching departure deepens the wound of immobility
+  key_terms: figure cannot follow the traveler, blockade is the physical constraint, figure becomes more aware, watching departure deepens the wound
 
 dynamic_devolution:
-  corruption: The six of swords becomes a vision of escape the bound cannot have; the figure imagines crossing but remains still; the journey becomes torture because it reveals the unbridgeable gap
+  mechanism: The six of swords becomes a vision of escape the bound cannot have
+  mode: the figure imagines crossing but remains still; the journey becomes torture because it reveals the unbridgeable gap
   loss: The figure loses the sense that they could ever depart; they internalize bondage as permanent location
+  key_terms: figure imagines crossing, figure loses the sense, six of swords
 
 dynamic_dependency:
-  integration: The bondage teaches the value of departure through denying it; the figure learns what crossing means by being unable to; when the binding releases, the figure can finally travel; the constraint becomes the preparation for conscious journeying; the figure will cross knowing what stagnation costs
-  outcome: The six of swords can now receive the figure freed from bondage; the crossing becomes conscious and grateful; the constraint becomes the teacher of what departure truly requires
+  mechanism: The bondage teaches the value of departure through denying it
+  function: the figure learns what crossing means by being unable to; when the binding releases, the figure can finally travel; the constraint becomes the preparation for conscious journeying; the figure will cross knowing what stagnation costs
+  integration_outcome: The six of swords can now receive the figure freed from bondage; the crossing becomes conscious and grateful; the constraint becomes the teacher of what departure truly requires
+  key_terms: figure learns what crossing means, six of swords can, bondage teaches the value
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, 7 of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Thief, The Deceptive Mind, The Cunning Escape, Trickster Freed
-numerical_relation: 8 + 7 = 15; the constraint meets the deceptive escape
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+numerical_relation: 8 + 7 = 15 (XV The Devil; the constraint meets the deceptive escape)
 elemental_bridge: Air (rigidly bound thinking) meets Air (cunning deception); the prisoner of truth meets the master of lies
 threshold_type: The moment when deception becomes a possible route to freedom
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Honest bondage, cunning freedom, refusing versus accepting
 
 dynamic_inhibition:
-  blockade: The figure cannot use deception even to escape; the blockade is internal—they have internalized the morality of the system; they believe honesty is a virtue even in bondage
-  consequence: The figure remains imprisoned partly through their own ethical commitment; the thief shows them a freedom they refuse
+  mechanism: The figure cannot use deception even to escape
+  blockade_nature: the blockade is internal—they have internalized the morality of the system; they believe honesty is a virtue even in bondage
+  swords_state: The figure remains imprisoned partly through their own ethical commitment
+  consequence: the thief shows them a freedom they refuse
+  key_terms: figure cannot use deception even, blockade is internal, figure remains imprisoned partly through, thief shows them a freedom
 
 dynamic_devolution:
-  corruption: The seven of swords becomes a temptation; the figure imagines using deception to escape but cannot bring themselves to do it; the thief becomes evidence of a freedom they are too honest to claim
+  mechanism: The seven of swords becomes a temptation
+  mode: the figure imagines using deception to escape but cannot bring themselves to do it; the thief becomes evidence of a freedom they are too honest to claim
   loss: The figure loses the option of cunning escape; they believe they must wait for external liberation
+  key_terms: figure imagines using deception, figure loses the option, seven of swords
 
 dynamic_dependency:
-  integration: The bondage teaches the difference between deception as escape and deception as authentic cunning; the figure learns that the thief's deception is born from a need to escape the system of constraint entirely; when the binding releases, the figure understands that some rebellions require deception; the constraint becomes the teacher of when cunning is justified
-  outcome: The figure freed from bondage understands both the path of honest resistance and the path of cunning escape; they have learned from both the prisoner's integrity and the thief's refusal; the constraint becomes the initiation into the paradox of authentic freedom
+  mechanism: The bondage teaches the difference between deception as escape and deception as authentic cunning
+  function: the figure learns that the thief's deception is born from a need to escape the system of constraint entirely; when the binding releases, the figure understands that some rebellions require deception; the constraint becomes the teacher of when cunning is justified
+  integration_outcome: The figure freed from bondage understands both the path of honest resistance and the path of cunning escape; they have learned from both the prisoner's integrity and the thief's refusal; the constraint becomes the initiation into the paradox of authentic freedom
+  key_terms: figure learns that the thief's, figure freed from bondage understands, bondage teaches the difference between
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, 8 of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-numerical_relation: 8 + 8 = 16; the constraint meets itself; a mirror of bondage
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+numerical_relation: 8 + 8 = 16 (XVI The Tower; the constraint meets itself; a mirror of bondage)
 elemental_bridge: Air meets Air; thought imprisoned within thought; consciousness reflecting its own constraint
 threshold_type: The moment when the prisoner meets another prisoner and sees themselves
 
@@ -315,37 +364,44 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Two prisoners meet; they cannot free each other with external force; yet their recognition of each other's bondage is powerful; two constraints attempt to contain each other
   tension_axis: Between the desire for mutual liberation and the reality that neither can free the other externally
-  eight_of_swords_position: "I am bound and so are you"
-  eight_of_swords_position: "I am bound and so are you"
+  swords_position_1: "I am bound and so are you"
+  swords_position_2: "I am bound and so are you"
   key_terms: Mutual recognition, shared powerlessness, parallel imprisonment
 
 dynamic_inhibition:
-  blockade: Two bound cannot free each other physically; the blockade is the external system that constrains both; neither has the power to break the other's chains
-  consequence: The prisoners may comfort each other but cannot liberate each other; the recognition becomes both comfort and deeper wound—they are together in helplessness
+  mechanism: Two bound cannot free each other physically
+  blockade_nature: the blockade is the external system that constrains both; neither has the power to break the other's chains
+  swords_state: The prisoners may comfort each other but cannot liberate each other
+  consequence: the recognition becomes both comfort and deeper wound—they are together in helplessness
+  key_terms: two bound cannot free each, blockade is the external system, prisoners may comfort each other, recognition becomes both comfort
 
 dynamic_devolution:
-  corruption: The recognition of shared bondage deepens despair; the two prisoners become convinced that liberation is impossible because even together they are powerless; the shared constraint becomes evidence of universal imprisonment
+  mechanism: The recognition of shared bondage deepens despair
+  mode: the two prisoners become convinced that liberation is impossible because even together they are powerless; the shared constraint becomes evidence of universal imprisonment
   loss: Both prisoners lose hope that escape is possible; the meeting becomes proof of the system's totality
+  key_terms: two prisoners become convinced, both prisoners lose hope, recognition of shared bondage deepens
 
 dynamic_dependency:
-  integration: The bondage teaches that the prisoners are not alone; that shared consciousness of constraint is the first step toward collective liberation; when the binding releases (whether individually or through collective action), the figure understands that freedom was always possible because others also sought it
-  outcome: Two prisoners who recognize each other's bondage become seeds of eventual liberation; the constraint becomes the ground of solidarity; the meeting becomes the first crack in the system; the shared understanding of bondage becomes the foundation for eventual shared freedom
+  mechanism: The bondage teaches that the prisoners are not alone
+  function: that shared consciousness of constraint is the first step toward collective liberation; when the binding releases (whether individually or through collective action), the figure understands that freedom was always possible because others also sought it
+  integration_outcome: Two prisoners who recognize each other's bondage become seeds of eventual liberation; the constraint becomes the ground of solidarity; the meeting becomes the first crack in the system; the shared understanding of bondage becomes the foundation for eventual shared freedom
+  key_terms: that shared consciousness of constraint, two prisoners who recognize each, bondage teaches that the prisoners
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, 9 of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Torment, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
-numerical_relation: 8 + 9 = 17; the constraint meets the fullness of mental torment
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+numerical_relation: 8 + 9 = 17 (XVII The Star; the constraint meets the fullness of mental torment)
 elemental_bridge: Air (static bondage) meets Air (dynamic anguish); the bound and the tormented are neighbors
 threshold_type: The moment when physical bondage generates psychological torment
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Physical constraint, mental torment, progression of imprisonment
 
 dynamic_inhibition:
-  blockade: The figure cannot escape the progression from physical bondage to mental torment; each day of constraint deepens the psychological wound
-  consequence: The figure becomes increasingly tormented internally; the body may eventually be freed but the mind remains imprisoned; the chains become internal
+  mechanism: The figure cannot escape the progression from physical bondage to mental torment
+  blockade_nature: each day of constraint deepens the psychological wound
+  swords_state: The figure becomes increasingly tormented internally
+  consequence: the body may eventually be freed but the mind remains imprisoned; the chains become internal
+  key_terms: figure cannot escape the progression, each day of constraint deepens, figure becomes increasingly tormented internally, body may eventually be freed
 
 dynamic_devolution:
-  corruption: The nine of swords becomes the prophecy of the eight; the figure imagines the mental torment that awaits them as years pass; the bondage becomes total
+  mechanism: The nine of swords becomes the prophecy of the eight
+  mode: the figure imagines the mental torment that awaits them as years pass; the bondage becomes total
   loss: The figure loses the distinction between the external prison and the internal one; they believe mental torment is inevitable
+  key_terms: figure imagines the mental torment, figure loses the distinction between, nine of swords
 
 dynamic_dependency:
-  integration: The bondage teaches the value of mental freedom through its loss; the figure learns through progression from physical to psychological constraint that the mind is the true frontier; when the binding releases, the figure must also liberate their consciousness; the constraint becomes the teacher of what psychological freedom truly requires
-  outcome: The nine of swords teaches the figure freed from bondage that external freedom is incomplete without internal liberation; the constraint becomes the preparation for understanding consciousness itself; the figure learns that true freedom is a work of the mind
+  mechanism: The bondage teaches the value of mental freedom through its loss
+  function: the figure learns through progression from physical to psychological constraint that the mind is the true frontier; when the binding releases, the figure must also liberate their consciousness; the constraint becomes the teacher of what psychological freedom truly requires
+  integration_outcome: The nine of swords teaches the figure freed from bondage that external freedom is incomplete without internal liberation; the constraint becomes the preparation for understanding consciousness itself; the figure learns that true freedom is a work of the mind
+  key_terms: figure learns through progression from, nine of swords teaches, bondage teaches the value
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, 10 of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Final Defeat, The Ending Complete, The Ruin Absolute, Dissolution Total
-numerical_relation: 8 + 10 = 18; the constraint meets the fulfillment of destruction
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+numerical_relation: 8 + 10 = 18 (XVIII The Moon; the constraint meets the fulfillment of destruction)
 elemental_bridge: Air (static bondage) meets Air (absolute endings); the bound and the ruined meet in darkness
 threshold_type: The moment when bondage leads to complete dissolution
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Feared completion, hope versus dissolution, liberation versus annihilation
 
 dynamic_inhibition:
-  blockade: The figure cannot escape the progression; the bondage leads steadily toward the ten of swords unless interrupted
+  mechanism: The figure cannot escape the progression
+  blockade_nature: the bondage leads steadily toward the ten of swords unless interrupted
+  swords_state: The figure despairs as they sense the progression toward annihilation
   consequence: The figure despairs as they sense the progression toward annihilation
+  key_terms: figure cannot escape the progression, bondage leads steadily toward, figure despairs as they sense
 
 dynamic_devolution:
-  corruption: The ten of swords becomes a prophecy of the bound; the figure imagines complete dissolution and surrenders; the progression seems inevitable
+  mechanism: The ten of swords becomes a prophecy of the bound
+  mode: the figure imagines complete dissolution and surrenders; the progression seems inevitable
   loss: The figure loses the will to live; they begin to accept dissolution as preferable to eternal imprisonment
+  key_terms: figure imagines complete dissolution, figure loses the will, ten of swords
 
 dynamic_dependency:
-  integration: The bondage and the ten of swords teach the same lesson urgently; that constraint must be broken before it becomes total; the figure learns through the threat of dissolution that liberation is not optional but essential; when the binding releases (or before dissolution occurs), the figure understands with clarity what survival means
-  outcome: The ten of swords paradoxically becomes a teacher of life; the proximity to annihilation teaches the figure freed from bondage the absolute value of existence; the constraint becomes the preparation for genuine gratitude for life itself
+  mechanism: The bondage and the ten of swords teach the same lesson urgently
+  function: that constraint must be broken before it becomes total; the figure learns through the threat of dissolution that liberation is not optional but essential; when the binding releases (or before dissolution occurs), the figure understands with clarity what survival means
+  integration_outcome: The ten of swords paradoxically becomes a teacher of life; the proximity to annihilation teaches the figure freed from bondage the absolute value of existence; the constraint becomes the preparation for genuine gratitude for life itself
+  key_terms: that constraint must be broken, ten of swords paradoxically, bondage and the ten
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, Page of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Messenger, The New Thought, The Youthful Truth, Idea Arriving
-numerical_relation: 8 + 11 = 19; the constraint meets the arrival of a new thought
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+numerical_relation: 8 + 11 = 19 (XIX The Sun; the constraint meets the arrival of a new thought)
 elemental_bridge: Air (imprisoned thought) meets Air (new idea); the bound receives a message that might save them
 threshold_type: The moment when a new idea arrives to the prisoner
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Fixed patterns, new possibilities, habitual despair, offered hope
 
 dynamic_inhibition:
-  blockade: The figure cannot fully integrate the new thought even as it is offered; the blockade is the habit of seeing through the lens of bondage
-  consequence: The page's message arrives but the prisoner is partially deaf to it; hope flickers but doesn't take root
+  mechanism: The figure cannot fully integrate the new thought even as it is offered
+  blockade_nature: the blockade is the habit of seeing through the lens of bondage
+  swords_state: The page's message arrives but the prisoner is partially deaf to it
+  consequence: hope flickers but doesn't take root
+  key_terms: figure cannot fully integrate, blockade is the habit, page's message arrives, hope flickers but doesn't take
 
 dynamic_devolution:
-  corruption: The page of swords becomes a tease; the figure imagines what the new thought could mean but cannot make it real; ideas become torture because they offer impossible hope
+  mechanism: The page of swords becomes a tease
+  mode: the figure imagines what the new thought could mean but cannot make it real; ideas become torture because they offer impossible hope
   loss: The figure loses the capacity to truly consider the new thought; they retreat into the familiar despair that at least is predictable
+  key_terms: figure imagines what the new, figure loses the capacity, page of swords
 
 dynamic_dependency:
-  integration: The bondage teaches that ideas arrive slowly; that new thoughts must be integrated over time; the page's message is heard but must be pondered; when the binding releases, the figure understands that the new idea was always there, slowly working beneath the surface
-  outcome: The page's thought finally liberates the figure freed from bondage; the idea that was received while imprisoned becomes the foundation of freedom; the constraint becomes the time in which the new thought was slowly integrated
+  mechanism: The bondage teaches that ideas arrive slowly
+  function: that new thoughts must be integrated over time; the page's message is heard but must be pondered; when the binding releases, the figure understands that the new idea was always there, slowly working beneath the surface
+  integration_outcome: The page's thought finally liberates the figure freed from bondage; the idea that was received while imprisoned becomes the foundation of freedom; the constraint becomes the time in which the new thought was slowly integrated
+  key_terms: that new thoughts must be, page's thought finally liberates, bondage teaches that ideas arrive
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, Knight of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Intellectual Warrior, The Truth Seeker, The Conflict Analyst, Thought in Action
-numerical_relation: 8 + 12 = 20; the constraint meets the warrior of truth
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+numerical_relation: 8 + 12 = 20 (XX Judgement; the constraint meets the warrior of truth)
 elemental_bridge: Air (passive bondage) meets Air (active intellectual pursuit); two forms of consciousness, one static and one dynamic
 threshold_type: The moment when the active seeker encounters the bound prisoner
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Passive ignorance, active seeking impossible, intellectual pursuit denied
 
 dynamic_inhibition:
-  blockade: The figure cannot pursue truth even if they want to; the blockade is the limited consciousness available to the bound—all mental energy goes to survival
-  consequence: The figure becomes intellectually stagnant; their mind crystallizes; they lose the capacity for intellectual growth
+  mechanism: The figure cannot pursue truth even if they want to
+  blockade_nature: the blockade is the limited consciousness available to the bound—all mental energy goes to survival
+  swords_state: The figure becomes intellectually stagnant
+  consequence: their mind crystallizes; they lose the capacity for intellectual growth
+  key_terms: figure cannot pursue truth even, blockade is the limited consciousness, figure becomes intellectually stagnant, their mind crystallizes
 
 dynamic_devolution:
-  corruption: The knight of swords becomes a vision of who the figure could have been; the figure imagines the intellectual pursuits they would have followed if free; truth-seeking becomes evidence of stolen potential
+  mechanism: The knight of swords becomes a vision of who the figure could have been
+  mode: the figure imagines the intellectual pursuits they would have followed if free; truth-seeking becomes evidence of stolen potential
   loss: The figure loses belief in their intellectual capacity; they internalize bondage as evidence that they are fundamentally incapable of seeking or understanding
+  key_terms: figure imagines the intellectual pursuits, figure loses belief, knight of swords
 
 dynamic_dependency:
-  integration: The bondage teaches the value of intellectual pursuit through its prevention; the figure, unable to seek, understands with clarity what truth-seeking means; when the binding releases, the figure can embody the knight of swords with understanding earned through enforced ignorance; the constraint becomes the preparation for genuine intellectual pursuit
-  outcome: The knight of swords welcomes the figure freed from bondage whose hunger for truth has been refined through years of deprivation; the intellectual pursuit becomes passionate and focused; the constraint becomes the teacher of what genuine seeking requires
+  mechanism: The bondage teaches the value of intellectual pursuit through its prevention
+  function: the figure, unable to seek, understands with clarity what truth-seeking means; when the binding releases, the figure can embody the knight of swords with understanding earned through enforced ignorance; the constraint becomes the preparation for genuine intellectual pursuit
+  integration_outcome: The knight of swords welcomes the figure freed from bondage whose hunger for truth has been refined through years of deprivation; the intellectual pursuit becomes passionate and focused; the constraint becomes the teacher of what genuine seeking requires
+  key_terms: knight of swords welcomes, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, Queen of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Clear Mind, The Discerning Authority, The Honest Judge, Clarity Absolute
-numerical_relation: 8 + 13 = 21; the constraint meets the clarity of wisdom
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+numerical_relation: 8 + 13 = 21 (XXI The World; the constraint meets the clarity of wisdom)
 elemental_bridge: Air (confused by bondage) meets Air (clear-seeing); the bound and the wise exist in the same realm but different consciousness
 threshold_type: The moment when clarity meets confusion
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Mental fog, absolute clarity, confused versus clear, perception imprisoned
 
 dynamic_inhibition:
-  blockade: The figure cannot achieve clarity even if they try; the blockade is the bondage itself—consciousness is too consumed with constraint to achieve discernment
-  consequence: The figure becomes trapped in confusion; they lose the capacity to think clearly about anything, including their own situation
+  mechanism: The figure cannot achieve clarity even if they try
+  blockade_nature: the blockade is the bondage itself—consciousness is too consumed with constraint to achieve discernment
+  swords_state: The figure becomes trapped in confusion
+  consequence: they lose the capacity to think clearly about anything, including their own situation
+  key_terms: figure cannot achieve clarity even, blockade is the bondage itself, figure becomes trapped in confusion, they lose the capacity
 
 dynamic_devolution:
-  corruption: The queen of swords becomes a vision of wisdom the bound cannot achieve; the figure imagines clear thinking but is lost in fog; clarity becomes evidence of freedom stolen
+  mechanism: The queen of swords becomes a vision of wisdom the bound cannot achieve
+  mode: the figure imagines clear thinking but is lost in fog; clarity becomes evidence of freedom stolen
   loss: The figure loses faith in their capacity to ever think clearly; they internalize bondage as evidence of fundamental confusion
+  key_terms: figure imagines clear thinking, figure loses faith, queen of swords
 
 dynamic_dependency:
-  integration: The bondage teaches the value of clarity through its absence; the figure, trapped in fog, understands with clarity what clear-seeing means; when the binding releases, the figure can approach the queen of swords with understanding earned through confusion; the constraint becomes the teacher of what genuine clarity requires
-  outcome: The queen of swords can finally recognize the figure freed from bondage whose mind is now clear; the clarity becomes possible; the wisdom becomes available; the constraint becomes the preparation for genuine understanding
+  mechanism: The bondage teaches the value of clarity through its absence
+  function: the figure, trapped in fog, understands with clarity what clear-seeing means; when the binding releases, the figure can approach the queen of swords with understanding earned through confusion; the constraint becomes the teacher of what genuine clarity requires
+  integration_outcome: The queen of swords can finally recognize the figure freed from bondage whose mind is now clear; the clarity becomes possible; the wisdom becomes available; the constraint becomes the preparation for genuine understanding
+  key_terms: queen of swords can finally, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS
 
 ---
 
 card_pair: 8 of Swords, King of Swords
-archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
-archetype_swords: The Master of Thought, The Intellectual Sovereign, The Truth Authority, Reason Rules
-numerical_relation: 8 + 14 = 22; the constraint meets the culmination of intellectual mastery
+archetype_swords_1: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+archetype_swords_2: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+numerical_relation: 8 + 14 = 22 → 2+2=4 (IV The Emperor; the constraint meets the culmination of intellectual mastery)
 elemental_bridge: Air (enslaved thought) meets Air (sovereign consciousness); the bound and the king exist in opposite states
 threshold_type: The moment when intellectual mastery is completely inaccessible to the imprisoned
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Mental slavery, intellectual authority lost, consciousness subjected
 
 dynamic_inhibition:
-  blockade: The figure cannot achieve intellectual sovereignty even in theory; the blockade is complete—the mind itself is imprisoned
-  consequence: The figure loses any sense of being an authority over anything; they become a subject of their own bondage
+  mechanism: The figure cannot achieve intellectual sovereignty even in theory
+  blockade_nature: the blockade is complete—the mind itself is imprisoned
+  swords_state: The figure loses any sense of being an authority over anything
+  consequence: they become a subject of their own bondage
+  key_terms: figure cannot achieve intellectual sovereignty, blockade is complete, figure loses any sense, they become a subject
 
 dynamic_devolution:
-  corruption: The king of swords becomes a symbol of cosmic injustice; the figure imagines the intellectual mastery they could have achieved if free; the throne becomes evidence of everything stolen; authority becomes a cruel prophecy of permanent subjugation
+  mechanism: The king of swords becomes a symbol of cosmic injustice
+  mode: the figure imagines the intellectual mastery they could have achieved if free; the throne becomes evidence of everything stolen; authority becomes a cruel prophecy of permanent subjugation
   loss: The figure loses faith in their capacity to ever be an authority; they internalize bondage as evidence that they are fundamentally meant to be ruled
+  key_terms: figure imagines the intellectual mastery, figure loses faith, king of swords
 
 dynamic_dependency:
-  integration: The bondage is the figure's dark initiation into true intellectual authority; real mastery requires understanding what it means to be enslaved within one's own mind; the figure learns the nature of sovereignty through its negation; when the binding releases, the figure can embody the king of swords from a place of authentic wisdom—not through dominance of others, but through understanding the cost of mental slavery
-  outcome: The king of swords' throne is available to the figure whose bondage has taught them what intellectual freedom truly requires; the mastery becomes possible because the figure has been a slave; the rule becomes conscious and compassionate; the constraint becomes the forge in which a true intellect is hardened and refined
+  mechanism: The bondage is the figure's dark initiation into true intellectual authority
+  function: real mastery requires understanding what it means to be enslaved within one's own mind; the figure learns the nature of sovereignty through its negation; when the binding releases, the figure can embody the king of swords from a place of authentic wisdom—not through dominance of others, but through understanding the cost of mental slavery
+  integration_outcome: The king of swords' throne is available to the figure whose bondage has taught them what intellectual freedom truly requires; the mastery becomes possible because the figure has been a slave; the rule becomes conscious and compassionate; the constraint becomes the forge in which a true intellect is hardened and refined
+  key_terms: real mastery requires understanding what, king of swords' throne, bondage is the figure's dark
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: air-air
-  numerical_axis: 1-14
-  uid: EIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSS

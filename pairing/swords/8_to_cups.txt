@@ -1,7 +1,7 @@
 card_pair: 8 of Swords, Ace of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The First Offering, The Emotional Gift, The Heart's Awakening, Love Emerging
-numerical_relation: 8 + 1 = 9; the constraint meets the emergence of emotion
+numerical_relation: 8 + 1 = 9 (IX The Hermit; the constraint meets the emergence of emotion)
 elemental_bridge: Air (rigid constraint) meets Water (fluid emotion); the bound cannot receive the gift of the heart
 threshold_type: The moment when bondage prevents the opening necessary to receive love
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Defended against feeling, vulnerability impossible, emotional armor
 
 dynamic_inhibition:
-  blockade: The figure cannot open to the love being offered; the blockade is the armor created by bondage—a protective shell that also imprisons the heart
-  consequence: The love flows past the figure who cannot receive it; the isolation deepens because it is now emotional as well as physical; the figure becomes untouched by the nourishment available
+  mechanism: The figure cannot open to the love being offered
+  blockade_nature: the blockade is the armor created by bondage—a protective shell that also imprisons the heart
+  swords_state: The love flows past the figure who cannot receive it
+  consequence: the isolation deepens because it is now emotional as well as physical; the figure becomes untouched by the nourishment available
+  key_terms: figure cannot open, blockade is the armor created, love flows past the figure, isolation deepens because it
 
 dynamic_devolution:
-  corruption: The ace of cups becomes a taunt; the figure imagines the love they cannot accept and transforms it into evidence of cosmic cruelty; the gift becomes poisoned by proximity and refusal; emotional warmth becomes a wound because it cannot be touched
+  mechanism: The ace of cups becomes a taunt
+  mode: the figure imagines the love they cannot accept and transforms it into evidence of cosmic cruelty; the gift becomes poisoned by proximity and refusal; emotional warmth becomes a wound because it cannot be touched
   loss: The figure loses faith in their capacity to love or be loved; they believe that their bondage has made them unworthy of the heart's gift; love becomes a fantasy for the unbound
+  key_terms: figure imagines the love they, figure loses faith, ace of cups
 
 dynamic_dependency:
-  integration: The bondage teaches the value of love through denial; the figure, untouched and alone, understands with clarity what emotional nourishment means; when the binding releases, the figure can receive the ace of cups with a gratitude earned through deprivation; the constraint becomes the teacher of the heart's deepest hunger
-  outcome: The cup of love waits patiently for the figure to be freed; when the binding releases, the receiver and the gift meet in a union deepened by the years of separation; the constraint becomes the prerequisite to genuine emotional opening
+  mechanism: The bondage teaches the value of love through denial
+  function: the figure, untouched and alone, understands with clarity what emotional nourishment means; when the binding releases, the figure can receive the ace of cups with a gratitude earned through deprivation; the constraint becomes the teacher of the heart's deepest hunger
+  integration_outcome: The cup of love waits patiently for the figure to be freed; when the binding releases, the receiver and the gift meet in a union deepened by the years of separation; the constraint becomes the prerequisite to genuine emotional opening
+  key_terms: cup of love waits patiently, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, 2 of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Lovers, The Beloved Union, The Mutual Pledge, Partnership Sealed
-numerical_relation: 8 + 2 = 10; the constraint meets the union of two hearts
+numerical_relation: 8 + 2 = 10 (X The Wheel of Fortune; the constraint meets the union of two hearts)
 elemental_bridge: Air (isolation in bondage) meets Water (merging in love); the bound cannot participate in union
 threshold_type: The moment when bondage severs the possibility of intimate partnership
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Solitary confinement, meeting prevented, partnership impossible
 
 dynamic_inhibition:
-  blockade: The figure cannot participate in union even if another offers it; the blockade is the bondage itself—a third presence in any potential partnership that poisons the meeting
-  consequence: The figure remains in isolation; they become unable to imagine themselves as part of a pair; the identity of "beloved" becomes something only others can have
+  mechanism: The figure cannot participate in union even if another offers it
+  blockade_nature: the blockade is the bondage itself—a third presence in any potential partnership that poisons the meeting
+  swords_state: The figure remains in isolation
+  consequence: they become unable to imagine themselves as part of a pair; the identity of "beloved" becomes something only others can have
+  key_terms: figure cannot participate in union, blockade is the bondage itself, figure remains in isolation, they become unable to imagine
 
 dynamic_devolution:
-  corruption: The two of cups becomes a symbol of exclusion; the figure watches others meet and transforms the lovers into evidence of their own unworthiness; the union becomes something they imagine they could never deserve while bound; the partnership becomes a prophecy of permanent loneliness
+  mechanism: The two of cups becomes a symbol of exclusion
+  mode: the figure watches others meet and transforms the lovers into evidence of their own unworthiness; the union becomes something they imagine they could never deserve while bound; the partnership becomes a prophecy of permanent loneliness
   loss: The figure loses the belief that they could ever be loved; they internalize the bondage as evidence that they are fundamentally unworthy of union; love becomes impossible not just practically but psychologically
+  key_terms: figure watches others meet, figure loses the belief, two of cups
 
 dynamic_dependency:
-  integration: The bondage teaches what union means through absolute negation; the figure learns in isolation what partnership requires—presence, vulnerability, trust, mutuality; when the binding releases, the figure can meet another with understanding earned through loneliness; the constraint becomes the preparation for genuine union
-  outcome: The two cups find their partner in the figure whose bondage has taught them the sacred nature of meeting; the constraint becomes the teacher of intimacy; the partnership that emerges is deepened by having been impossible; the union becomes conscious precisely because it was denied
+  mechanism: The bondage teaches what union means through absolute negation
+  function: the figure learns in isolation what partnership requires—presence, vulnerability, trust, mutuality; when the binding releases, the figure can meet another with understanding earned through loneliness; the constraint becomes the preparation for genuine union
+  integration_outcome: The two cups find their partner in the figure whose bondage has taught them the sacred nature of meeting; the constraint becomes the teacher of intimacy; the partnership that emerges is deepened by having been impossible; the union becomes conscious precisely because it was denied
+  key_terms: figure learns in isolation what, two cups find their partner, bondage teaches what union means
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, 3 of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Celebration, The Joyful Gathering, The Community Heart, Fellowship Expressed
-numerical_relation: 8 + 3 = 11; the constraint meets communal joy
+numerical_relation: 8 + 3 = 11 (XI Strength; the constraint meets communal joy)
 elemental_bridge: Air (isolation in bondage) meets Water (flowing connection); the bound cannot participate in celebration
 threshold_type: The moment when bondage prevents participation in communal joy
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Enforced loneliness, celebration prevented, community impossible
 
 dynamic_inhibition:
-  blockade: The figure cannot join the celebration even if invited; the blockade is internal—the wound of isolation has made them incapable of entering community
-  consequence: The figure watches others celebrate and becomes more isolated by witnessing what they cannot access; the joy of others becomes a mirror of their own despair
+  mechanism: The figure cannot join the celebration even if invited
+  blockade_nature: the blockade is internal—the wound of isolation has made them incapable of entering community
+  swords_state: The figure watches others celebrate and becomes more isolated by witnessing what they cannot access
+  consequence: the joy of others becomes a mirror of their own despair
+  key_terms: figure cannot join the celebration, blockade is internal, figure watches others celebrate, joy of others
 
 dynamic_devolution:
-  corruption: The three of cups becomes a source of bitterness; the figure imagines the celebrations they have missed, the communities they have been excluded from, the friendships that could have been; the joy becomes evidence of theft; laughter becomes a sound that wounds
+  mechanism: The three of cups becomes a source of bitterness
+  mode: the figure imagines the celebrations they have missed, the communities they have been excluded from, the friendships that could have been; the joy becomes evidence of theft; laughter becomes a sound that wounds
   loss: The figure loses faith in the possibility of community; they believe they are fundamentally isolated; they internalize the bondage as evidence that they are somehow unworthy of being celebrated with
+  key_terms: figure imagines the celebrations they, figure loses faith, three of cups
 
 dynamic_dependency:
-  integration: The bondage teaches the value of celebration through denial; the figure, excluded and alone, understands with terrible clarity what community means; when the binding releases, the figure can join the three of cups with gratitude earned through isolation; the constraint becomes the teacher of the sacred nature of gathering
-  outcome: The celebration that welcomes the freed figure carries the depth of one who has known exclusion; the community receives them with awareness of what their bondage cost; the joy is genuine precisely because it has been denied; the three cups overflow with the reunion of one who has been separated
+  mechanism: The bondage teaches the value of celebration through denial
+  function: the figure, excluded and alone, understands with terrible clarity what community means; when the binding releases, the figure can join the three of cups with gratitude earned through isolation; the constraint becomes the teacher of the sacred nature of gathering
+  integration_outcome: The celebration that welcomes the freed figure carries the depth of one who has known exclusion; the community receives them with awareness of what their bondage cost; the joy is genuine precisely because it has been denied; the three cups overflow with the reunion of one who has been separated
+  key_terms: celebration that welcomes the freed, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, 4 of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Apathetic, The Emotionally Withdrawn, The Love Refused, Numbness Chosen
-numerical_relation: 8 + 4 = 12; the constraint meets chosen numbness
+numerical_relation: 8 + 4 = 12 (XII The Hanged Man; the constraint meets chosen numbness)
 elemental_bridge: Air (rigid restriction) meets Water (stagnant refusal); both retreat from feeling
 threshold_type: The moment when external bondage mirrors internal emotional closure
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Forced numbness, chosen withdrawal, feeling inaccessible
 
 dynamic_inhibition:
-  blockade: The figure becomes trapped in the apathy; bondage drives them toward numbness as a survival mechanism; feeling becomes dangerous because it makes the bondage unbearable
-  consequence: The figure loses access to emotional response; they become as numb as the four of cups, but without the satiation that drives the apathy
+  mechanism: The figure becomes trapped in the apathy
+  blockade_nature: bondage drives them toward numbness as a survival mechanism; feeling becomes dangerous because it makes the bondage unbearable
+  swords_state: The figure loses access to emotional response
+  consequence: they become as numb as the four of cups, but without the satiation that drives the apathy
+  key_terms: figure becomes trapped, bondage drives them toward numbness, figure loses access to emotional, they become as numb
 
 dynamic_devolution:
-  corruption: The four of cups becomes a mirror of the future; the figure imagines becoming permanently numb, permanently withdrawn, permanently unable to feel; the apathy becomes not a temporary response to bondage but an identity
+  mechanism: The four of cups becomes a mirror of the future
+  mode: the figure imagines becoming permanently numb, permanently withdrawn, permanently unable to feel; the apathy becomes not a temporary response to bondage but an identity
   loss: The figure loses the possibility of emotional life; they begin to believe they are incapable of genuine feeling; the emotional death becomes real
+  key_terms: figure imagines becoming permanently numb, figure loses the possibility, four of cups
 
 dynamic_dependency:
-  integration: The bondage and the apathy teach each other; the figure learns that numbness is a temporary mercy, not a permanent solution; when the binding releases, the figure must relearn how to feel; the constraint becomes the teacher of the cost of emotional withdrawal; the four of cups shows what happens when feeling closes—a useful warning
-  outcome: The figure, freed from external bondage, must choose whether to remain internally numb or to open to feeling again; the constraint becomes the moment of decision; the integration is the slow return to emotional life
+  mechanism: The bondage and the apathy teach each other
+  function: the figure learns that numbness is a temporary mercy, not a permanent solution; when the binding releases, the figure must relearn how to feel; the constraint becomes the teacher of the cost of emotional withdrawal; the four of cups shows what happens when feeling closes—a useful warning
+  integration_outcome: The figure, freed from external bondage, must choose whether to remain internally numb or to open to feeling again; the constraint becomes the moment of decision; the integration is the slow return to emotional life
+  key_terms: figure learns that numbness, bondage and the apathy teach, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, 5 of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Mourner, The Grieving One, The Loss Witnessed, Sorrow Expressed
-numerical_relation: 8 + 5 = 13; the constraint meets profound emotional loss
+numerical_relation: 8 + 5 = 13 (XIII Death; the constraint meets profound emotional loss)
 elemental_bridge: Air (isolation in bondage) meets Water (tears flowing); the bound cannot even grieve properly
 threshold_type: The moment when bondage prevents proper grieving and compounds loss with isolation
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Suppressed grief, mourning impossible, loss unacknowledged
 
 dynamic_inhibition:
-  blockade: The figure cannot grieve even if they want to; the blockade is the priority of survival—feeling loss becomes a luxury when bondage demands every ounce of consciousness for endurance
-  consequence: The figure becomes frozen in loss; the grief is denied expression and becomes internalized pain; the mourning never happens
+  mechanism: The figure cannot grieve even if they want to
+  blockade_nature: the blockade is the priority of survival—feeling loss becomes a luxury when bondage demands every ounce of consciousness for endurance
+  swords_state: The figure becomes frozen in loss
+  consequence: the grief is denied expression and becomes internalized pain; the mourning never happens
+  key_terms: figure cannot grieve even if, blockade is the priority, figure becomes frozen in loss, grief is denied expression
 
 dynamic_devolution:
-  corruption: The five of cups becomes a prophecy of unending sorrow; the figure imagines that when they are free, all the losses they could not mourn will flood in and drown them; the grief becomes more terrible in anticipation
+  mechanism: The five of cups becomes a prophecy of unending sorrow
+  mode: the figure imagines that when they are free, all the losses they could not mourn will flood in and drown them; the grief becomes more terrible in anticipation
   loss: The figure loses the capacity to honor loss; they begin to believe that what was taken was never valuable; they deny the loss that bondage prevented them from acknowledging
+  key_terms: figure imagines that when they, figure loses the capacity, five of cups
 
 dynamic_dependency:
-  integration: The bondage teaches the value of grieving through preventing it; the figure, unable to mourn, understands with terrible clarity what grief means; when the binding releases, the figure can finally approach the five of cups; the constraint becomes the extended period in which grief is gathering; when released, the figure can honor all that was lost
-  outcome: The five cups greet the freed figure with all the accumulated mourning; the grief becomes a sacred act because it has been delayed; the constraint becomes the reason the mourning is so profound; the tears finally flow
+  mechanism: The bondage teaches the value of grieving through preventing it
+  function: the figure, unable to mourn, understands with terrible clarity what grief means; when the binding releases, the figure can finally approach the five of cups; the constraint becomes the extended period in which grief is gathering; when released, the figure can honor all that was lost
+  integration_outcome: The five cups greet the freed figure with all the accumulated mourning; the grief becomes a sacred act because it has been delayed; the constraint becomes the reason the mourning is so profound; the tears finally flow
+  key_terms: five cups greet the freed, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, 6 of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Innocent Gift, The Childhood Memory, The Pure Exchange, Innocence Remembered
-numerical_relation: 8 + 6 = 14; the constraint meets the redemption of innocence
+numerical_relation: 8 + 6 = 14 (XIV Temperance; the constraint meets the redemption of innocence)
 elemental_bridge: Air (violation of bondage) meets Water (purity of childhood); the bound cannot return to innocence
 threshold_type: The moment when bondage steals the ability to remember innocence
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Lost innocence, memory violated, purity inaccessible
 
 dynamic_inhibition:
-  blockade: The figure cannot access the six of cups; the blockade is not physical but psychological—the violation of bondage has hardened the figure; innocence seems impossible now
-  consequence: The figure loses the ability to see the world through innocent eyes; they become cynical; joy appears as deception
+  mechanism: The figure cannot access the six of cups
+  blockade_nature: the blockade is not physical but psychological—the violation of bondage has hardened the figure; innocence seems impossible now
+  swords_state: The figure loses the ability to see the world through innocent eyes
+  consequence: they become cynical; joy appears as deception
+  key_terms: figure cannot access the six, blockade is not physical, figure loses the ability, they become cynical
 
 dynamic_devolution:
-  corruption: The six of cups becomes a mirror of lost time; the figure imagines the innocence they would have maintained if free; childhood becomes evidence of what bondage stole; the pure exchange becomes poisoned by memory of violation
+  mechanism: The six of cups becomes a mirror of lost time
+  mode: the figure imagines the innocence they would have maintained if free; childhood becomes evidence of what bondage stole; the pure exchange becomes poisoned by memory of violation
   loss: The figure loses the possibility of returning to innocence; they believe they are permanently corrupted by constraint; the child they were is declared dead
+  key_terms: figure imagines the innocence they, figure loses the possibility, six of cups
 
 dynamic_dependency:
-  integration: The bondage is a violation that paradoxically teaches the value of innocence; the figure, stripped of it, understands what innocence means; when the binding releases, the figure can approach the six of cups not as someone trying to return to childhood, but as someone who honors what was lost; the constraint becomes the teacher of why innocence matters
-  outcome: The six cups can offer the freed figure not a return to innocence but a honoring of what was stolen; the figure can hold the memory of innocence without being naive; the constraint becomes the rite of passage that transforms innocence into wisdom
+  mechanism: The bondage is a violation that paradoxically teaches the value of innocence
+  function: the figure, stripped of it, understands what innocence means; when the binding releases, the figure can approach the six of cups not as someone trying to return to childhood, but as someone who honors what was lost; the constraint becomes the teacher of why innocence matters
+  integration_outcome: The six cups can offer the freed figure not a return to innocence but a honoring of what was stolen; the figure can hold the memory of innocence without being naive; the constraint becomes the rite of passage that transforms innocence into wisdom
+  key_terms: six cups can offer, bondage is a violation, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, 7 of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Dreamer, The Illusions Offered, The Fantasy Multiplied, Desire Ungrounded
-numerical_relation: 8 + 7 = 15; the constraint meets the seven illusions
+numerical_relation: 8 + 7 = 15 (XV The Devil; the constraint meets the seven illusions)
 elemental_bridge: Air (mental imprisonment) meets Water (emotional fantasy); the bound are trapped in illusion as a survival mechanism
 threshold_type: The moment when bondage becomes indistinguishable from fantasy
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Dream-bound, fantasy addicted, illusion preventing action
 
 dynamic_inhibition:
-  blockade: The figure becomes trapped in the fantasies; the blockade is the seductive nature of imagination—it feels like freedom while preventing it
-  consequence: The figure loses the capacity to distinguish fantasy from reality; they become paralyzed by beautiful options that do not exist
+  mechanism: The figure becomes trapped in the fantasies
+  blockade_nature: the blockade is the seductive nature of imagination—it feels like freedom while preventing it
+  swords_state: The figure loses the capacity to distinguish fantasy from reality
+  consequence: they become paralyzed by beautiful options that do not exist
+  key_terms: figure becomes trapped, blockade is the seductive nature, figure loses the capacity, they become paralyzed by beautiful
 
 dynamic_devolution:
-  corruption: The seven of cups becomes a prison within the prison; the figure spends all consciousness creating fantasies instead of planning actual escape; the cups become evidence of how deeply trapped they are
+  mechanism: The seven of cups becomes a prison within the prison
+  mode: the figure spends all consciousness creating fantasies instead of planning actual escape; the cups become evidence of how deeply trapped they are
   loss: The figure loses touch with reality; they believe the fantasies more than the world; they lose the ability to perceive actual opportunities for escape
+  key_terms: figure spends all consciousness creating, figure loses touch with reality, seven of cups
 
 dynamic_dependency:
-  integration: The fantasy is necessary medicine for bondage; it allows the figure to survive the unbearable; but when the binding releases, the fantasies must also release; the constraint becomes the period in which imagination is honed—a skill that can later be applied to creation rather than escape; the seven cups teach what desire looks like
-  outcome: The freed figure can approach the seven of cups with wisdom earned through entrapment; they understand desire without being controlled by illusion; the constraint becomes the training ground for imagination; the figure becomes a creator rather than a dreamer
+  mechanism: The fantasy is necessary medicine for bondage
+  function: it allows the figure to survive the unbearable; but when the binding releases, the fantasies must also release; the constraint becomes the period in which imagination is honed—a skill that can later be applied to creation rather than escape; the seven cups teach what desire looks like
+  integration_outcome: The freed figure can approach the seven of cups with wisdom earned through entrapment; they understand desire without being controlled by illusion; the constraint becomes the training ground for imagination; the figure becomes a creator rather than a dreamer
+  key_terms: it allows the figure, freed figure can approach, fantasy is necessary medicine for
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, 8 of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Abandoner, The Walker-Away, The Chosen Departure, Emotional Rejection
-numerical_relation: 8 + 8 = 16; two eights meet; both forms of leaving, one forced and one chosen
+numerical_relation: 8 + 8 = 16 (XVI The Tower; two eights meet; both forms of leaving, one forced and one chosen)
 elemental_bridge: Air (forced isolation) meets Water (chosen isolation); both are forms of separation
 threshold_type: The moment when external imprisonment mirrors internal emotional withdrawal
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Trapped location, departure prevented, choice impossible
 
 dynamic_inhibition:
-  blockade: The figure cannot leave even if they want to; the blockade is literal—the chains prevent departure; but there is also psychological blockade—the figure has internalized the inability to go
-  consequence: The figure becomes resigned to the prison; they cease to imagine themselves elsewhere; the option of departure becomes psychologically inaccessible
+  mechanism: The figure cannot leave even if they want to
+  blockade_nature: the blockade is literal—the chains prevent departure; but there is also psychological blockade—the figure has internalized the inability to go
+  swords_state: The figure becomes resigned to the prison
+  consequence: they cease to imagine themselves elsewhere; the option of departure becomes psychologically inaccessible
+  key_terms: figure cannot leave even if, blockade is literal, figure becomes resigned, they cease to imagine themselves
 
 dynamic_devolution:
-  corruption: The eight of cups becomes a taunt; the figure imagines walking away but cannot; abandonment fantasy becomes more painful than the bondage; the walker becomes evidence of freedom stolen
+  mechanism: The eight of cups becomes a taunt
+  mode: the figure imagines walking away but cannot; abandonment fantasy becomes more painful than the bondage; the walker becomes evidence of freedom stolen
   loss: The figure loses the sense that they could ever leave; they believe they are meant for this prison; the identity of "one who could walk away" is severed
+  key_terms: figure imagines walking away, figure loses the sense, eight of cups
 
 dynamic_dependency:
-  integration: The bondage teaches the value of the freedom to depart; the figure, unable to leave, understands what choice means; when the binding releases, the figure can approach the eight of cups not as desperate escape but as conscious choosing; the constraint becomes the teacher of the sacred nature of departure; when the figure can finally go, they understand the weight of that choice
-  outcome: The eight cups greets the figure who now understands what departure means; the freedom to leave becomes as valuable as the freedom to stay; the constraint becomes the preparation for conscious choosing
+  mechanism: The bondage teaches the value of the freedom to depart
+  function: the figure, unable to leave, understands what choice means; when the binding releases, the figure can approach the eight of cups not as desperate escape but as conscious choosing; the constraint becomes the teacher of the sacred nature of departure; when the figure can finally go, they understand the weight of that choice
+  integration_outcome: The eight cups greets the figure who now understands what departure means; the freedom to leave becomes as valuable as the freedom to stay; the constraint becomes the preparation for conscious choosing
+  key_terms: eight cups greets the figure, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, 9 of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Fulfilled Wish, The Contentment Achieved, The Heart's Desire Met, Satisfaction Complete
-numerical_relation: 8 + 9 = 17; the constraint meets the fullness of emotional satisfaction
+numerical_relation: 8 + 9 = 17 (XVII The Star; the constraint meets the fullness of emotional satisfaction)
 elemental_bridge: Air (deprivation in bondage) meets Water (abundance of feeling); the bound are denied satisfaction
 threshold_type: The moment when bondage prevents the fulfillment of the heart's desire
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Perpetual wanting, satisfaction prevented, desires imprisoned
 
 dynamic_inhibition:
-  blockade: The figure cannot fulfill their desires even if they are modest; the blockade prevents the pursuit and attainment necessary for satisfaction
-  consequence: The figure loses hope that their desires matter; they cease to believe that fulfillment is possible; the wants become torture rather than direction
+  mechanism: The figure cannot fulfill their desires even if they are modest
+  blockade_nature: the blockade prevents the pursuit and attainment necessary for satisfaction
+  swords_state: The figure loses hope that their desires matter
+  consequence: they cease to believe that fulfillment is possible; the wants become torture rather than direction
+  key_terms: figure cannot fulfill their desires, blockade prevents the pursuit, figure loses hope, they cease to believe
 
 dynamic_devolution:
-  corruption: The nine of cups becomes a vision of cosmic injustice; the figure imagines the life they could have lived if free—a life of fulfilled desires and heart's ease; the satisfaction becomes evidence of everything stolen; contentment becomes a prophecy of the permanently denied
+  mechanism: The nine of cups becomes a vision of cosmic injustice
+  mode: the figure imagines the life they could have lived if free—a life of fulfilled desires and heart's ease; the satisfaction becomes evidence of everything stolen; contentment becomes a prophecy of the permanently denied
   loss: The figure loses the belief that their desires are valid; they begin to internalize that they are not worthy of fulfillment; the heart's desire becomes something only others deserve
+  key_terms: figure imagines the life they, figure loses the belief, nine of cups
 
 dynamic_dependency:
-  integration: The bondage teaches the value of fulfillment through denial; the figure, unsatisfied and longing, understands with clarity what contentment means; when the binding releases, the figure can approach the nine of cups with gratitude earned through deprivation; the constraint becomes the teacher of what the heart truly needs
-  outcome: The nine cups overflow for the figure whose bondage has purified their desires; the satisfaction becomes genuine because it has been earned through longing; the constraint becomes the preparation for true fulfillment; the figure learns to cherish what comes because it has been withheld
+  mechanism: The bondage teaches the value of fulfillment through denial
+  function: the figure, unsatisfied and longing, understands with clarity what contentment means; when the binding releases, the figure can approach the nine of cups with gratitude earned through deprivation; the constraint becomes the teacher of what the heart truly needs
+  integration_outcome: The nine cups overflow for the figure whose bondage has purified their desires; the satisfaction becomes genuine because it has been earned through longing; the constraint becomes the preparation for true fulfillment; the figure learns to cherish what comes because it has been withheld
+  key_terms: nine cups overflow for, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, 10 of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Family Blessed, The Emotional Lineage, The Loving Community Secure, Belonging Complete
-numerical_relation: 8 + 10 = 18; the constraint meets the fullness of belonging
+numerical_relation: 8 + 10 = 18 (XVIII The Moon; the constraint meets the fullness of belonging)
 elemental_bridge: Air (isolation in bondage) meets Water (belonging in family); the bound are severed from family belonging
 threshold_type: The moment when bondage prevents participation in the loving family circle
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Enforced exile, family impossible, belonging denied
 
 dynamic_inhibition:
-  blockade: The figure cannot participate in the family even if invited; the blockade is the wound of isolation—it has hardened the figure; they do not know how to enter the circle
-  consequence: The figure becomes convinced that there is no place for them; they see the family circle and withdraw; isolation becomes internalized as unworthiness
+  mechanism: The figure cannot participate in the family even if invited
+  blockade_nature: the blockade is the wound of isolation—it has hardened the figure; they do not know how to enter the circle
+  swords_state: The figure becomes convinced that there is no place for them
+  consequence: they see the family circle and withdraw; isolation becomes internalized as unworthiness
+  key_terms: figure cannot participate, blockade is the wound, figure becomes convinced that there, they see the family circle
 
 dynamic_devolution:
-  corruption: The ten of cups becomes a prophecy of permanent exile; the figure imagines that even if freed, there would be no family to receive them; the circle becomes eternal evidence of what they lack; belonging becomes a fantasy of the unbound
+  mechanism: The ten of cups becomes a prophecy of permanent exile
+  mode: the figure imagines that even if freed, there would be no family to receive them; the circle becomes eternal evidence of what they lack; belonging becomes a fantasy of the unbound
   loss: The figure loses the belief that they could ever belong; they internalize bondage as evidence that they are fundamentally alone; community becomes an impossibility
+  key_terms: figure imagines that even if, figure loses the belief, ten of cups
 
 dynamic_dependency:
-  integration: The bondage teaches the value of belonging through denial; the figure, exiled and alone, understands with terrible clarity what family means; when the binding releases, the figure can approach the ten of cups with gratitude earned through separation; the constraint becomes the teacher of what home means
-  outcome: The family circle welcomes the freed figure with arms opened by their own knowledge of what isolation costs; the belonging becomes genuine because it has been denied; the constraint becomes the initiation into true community; the figure learns to cherish family precisely because bondage separated them
+  mechanism: The bondage teaches the value of belonging through denial
+  function: the figure, exiled and alone, understands with terrible clarity what family means; when the binding releases, the figure can approach the ten of cups with gratitude earned through separation; the constraint becomes the teacher of what home means
+  integration_outcome: The family circle welcomes the freed figure with arms opened by their own knowledge of what isolation costs; the belonging becomes genuine because it has been denied; the constraint becomes the initiation into true community; the figure learns to cherish family precisely because bondage separated them
+  key_terms: family circle welcomes the freed, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, Page of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Messenger, The Emotional Invitation, The Heart's Offer, Feeling Approaching
-numerical_relation: 8 + 11 = 19; the constraint meets the approach of emotion
+numerical_relation: 8 + 11 = 19 (XIX The Sun; the constraint meets the approach of emotion)
 elemental_bridge: Air (closure against emotion) meets Water (emotional approach); the bound cannot receive the message of the heart
 threshold_type: The moment when bondage prevents the opening necessary to hear the heart's call
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Deaf to emotion, message rejected, communication prevented
 
 dynamic_inhibition:
-  blockade: The figure cannot receive the emotional message even if it is clearly offered; the blockade is the hardened consciousness—the walls built for survival prevent even benevolent approach
-  consequence: The page arrives repeatedly but is always turned away; the emotional communication never lands; the figure becomes more isolated
+  mechanism: The figure cannot receive the emotional message even if it is clearly offered
+  blockade_nature: the blockade is the hardened consciousness—the walls built for survival prevent even benevolent approach
+  swords_state: The page arrives repeatedly but is always turned away
+  consequence: the emotional communication never lands; the figure becomes more isolated
+  key_terms: figure cannot receive the emotional, blockade is the hardened consciousness, page arrives repeatedly, emotional communication never lands
 
 dynamic_devolution:
-  corruption: The page of cups becomes a haunting; the figure imagines the emotional truth they cannot access; the message becomes poisoned by the inability to receive it; the heart's offer becomes evidence of their incapacity
+  mechanism: The page of cups becomes a haunting
+  mode: the figure imagines the emotional truth they cannot access; the message becomes poisoned by the inability to receive it; the heart's offer becomes evidence of their incapacity
   loss: The figure loses the ability to trust emotional communication; they believe any message brings danger; the heart's approach is experienced as threat
+  key_terms: figure imagines the emotional truth, figure loses the ability, page of cups
 
 dynamic_dependency:
-  integration: The bondage prevents the receipt of the message, but the page waits; when the binding releases, the figure can finally hear what the page has been trying to communicate; the constraint becomes the extended silence that makes the message more clear; the emotional truth arrives with perfect timing
-  outcome: The page's message is finally received by the figure freed from bondage; the words carry the weight of everything delayed; the emotional communication becomes sacred because it has been delayed; the constraint becomes the preparation for genuinely hearing the heart
+  mechanism: The bondage prevents the receipt of the message, but the page waits
+  function: when the binding releases, the figure can finally hear what the page has been trying to communicate; the constraint becomes the extended silence that makes the message more clear; the emotional truth arrives with perfect timing
+  integration_outcome: The page's message is finally received by the figure freed from bondage; the words carry the weight of everything delayed; the emotional communication becomes sacred because it has been delayed; the constraint becomes the preparation for genuinely hearing the heart
+  key_terms: when the binding releases, page's message is finally received, bondage prevents the receipt
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, Knight of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Devoted Lover, The Romantic Quest, The Emotional Warrior, Passion Embodied
-numerical_relation: 8 + 12 = 20; the constraint meets the quest of love
+numerical_relation: 8 + 12 = 20 (XX Judgement; the constraint meets the quest of love)
 elemental_bridge: Air (static imprisonment) meets Water (passionate movement); the bound cannot engage in the romantic quest
 threshold_type: The moment when bondage prevents the pursuit of love
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Paralyzed desire, pursuit prevented, romance impossible
 
 dynamic_inhibition:
-  blockade: The figure cannot pursue love even if the beloved is nearby; the blockade is the bondage itself—the chains prevent approach
-  consequence: The figure's love becomes internalized and turns inward; unrequited and unexpressed, it becomes a source of internal torture
+  mechanism: The figure cannot pursue love even if the beloved is nearby
+  blockade_nature: the blockade is the bondage itself—the chains prevent approach
+  swords_state: The figure's love becomes internalized and turns inward
+  consequence: unrequited and unexpressed, it becomes a source of internal torture
+  key_terms: figure cannot pursue love even, blockade is the bondage itself, figure's love becomes internalized, unrequited and unexpressed
 
 dynamic_devolution:
-  corruption: The knight of cups becomes a vision of what could have been; the figure imagines the love they could have pursued if free; the romantic quest becomes evidence of everything stolen; passion becomes a prophecy of the permanently unrequited
+  mechanism: The knight of cups becomes a vision of what could have been
+  mode: the figure imagines the love they could have pursued if free; the romantic quest becomes evidence of everything stolen; passion becomes a prophecy of the permanently unrequited
   loss: The figure loses the belief that they could ever be loved; they internalize the bondage as evidence that they are fundamentally unworthy of romantic pursuit; love becomes impossible
+  key_terms: figure imagines the love they, figure loses the belief, knight of cups
 
 dynamic_dependency:
-  integration: The bondage teaches the value of love through prevention; the figure, unable to move toward their beloved, understands with clarity what passion means; when the binding releases, the figure can embody the knight of cups with understanding earned through paralysis; the constraint becomes the teacher of what true love requires
-  outcome: The knight of cups can now move toward their quest with the figure whose bondage has clarified their desire; the romantic movement becomes sacred because it has been prevented; the constraint becomes the crucible of genuine passion
+  mechanism: The bondage teaches the value of love through prevention
+  function: the figure, unable to move toward their beloved, understands with clarity what passion means; when the binding releases, the figure can embody the knight of cups with understanding earned through paralysis; the constraint becomes the teacher of what true love requires
+  integration_outcome: The knight of cups can now move toward their quest with the figure whose bondage has clarified their desire; the romantic movement becomes sacred because it has been prevented; the constraint becomes the crucible of genuine passion
+  key_terms: knight of cups can, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, Queen of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Loving Mother, The Emotional Sustenance, The Heart's Comfort, Care Unconditional
-numerical_relation: 8 + 13 = 21; the constraint meets the fullness of nurturing love
+numerical_relation: 8 + 13 = 21 (XXI The World; the constraint meets the fullness of nurturing love)
 elemental_bridge: Air (isolation and lovelessness in bondage) meets Water (love radiating from the queen); the bound cannot receive maternal comfort
 threshold_type: The moment when bondage prevents the comfort of unconditional love
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Defended against love, vulnerability impossible, comfort inaccessible
 
 dynamic_inhibition:
-  blockade: The figure cannot open to the queen's love even if it is offered; the blockade is the armor of bondage—love cannot penetrate
-  consequence: The figure remains untouched by the comfort available; they become more isolated by witnessing what they cannot receive
+  mechanism: The figure cannot open to the queen's love even if it is offered
+  blockade_nature: the blockade is the armor of bondage—love cannot penetrate
+  swords_state: The figure remains untouched by the comfort available
+  consequence: they become more isolated by witnessing what they cannot receive
+  key_terms: figure cannot open, blockade is the armor, figure remains untouched, they become more isolated
 
 dynamic_devolution:
-  corruption: The queen becomes a wound; the figure imagines being held and comforted but cannot; the maternal love becomes evidence of deprivation; care becomes the cruelest taunt
+  mechanism: The queen becomes a wound
+  mode: the figure imagines being held and comforted but cannot; the maternal love becomes evidence of deprivation; care becomes the cruelest taunt
   loss: The figure loses the belief that they could ever be loved unconditionally; they internalize the bondage as evidence that they are unworthy of mother-love; comfort becomes a fantasy
+  key_terms: figure imagines being held, figure loses the belief, queen becomes a wound
 
 dynamic_dependency:
-  integration: The bondage teaches the value of maternal love through denial; the figure, untouched and alone, understands with terrible clarity what comfort means; when the binding releases, the figure can receive the queen's love with gratitude earned through deprivation; the constraint becomes the teacher of what true care requires
-  outcome: The queen's love finally reaches the figure freed from bondage; the comfort becomes sacred because it has been denied; the nurturing is genuine precisely because it has been withheld; the constraint becomes the preparation for genuinely receiving love
+  mechanism: The bondage teaches the value of maternal love through denial
+  function: the figure, untouched and alone, understands with terrible clarity what comfort means; when the binding releases, the figure can receive the queen's love with gratitude earned through deprivation; the constraint becomes the teacher of what true care requires
+  integration_outcome: The queen's love finally reaches the figure freed from bondage; the comfort becomes sacred because it has been denied; the nurturing is genuine precisely because it has been withheld; the constraint becomes the preparation for genuinely receiving love
+  key_terms: queen's love finally reaches, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC
 
 ---
 
 card_pair: 8 of Swords, King of Cups
 archetype_swords: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
 archetype_cups: The Emotional Master, The Heart Balanced, The Compassionate Authority, Feeling Mastered
-numerical_relation: 8 + 14 = 22; the constraint meets the mastery of emotional truth
+numerical_relation: 8 + 14 = 22 → 2+2=4 (IV The Emperor; the constraint meets the mastery of emotional truth)
 elemental_bridge: Air (emotional chaos in bondage) meets Water (emotional mastery); the bound cannot master their emotional state
 threshold_type: The moment when bondage prevents the mastery necessary for emotional authority
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Emotional tyranny, mastery impossible, inner chaos
 
 dynamic_inhibition:
-  blockade: The figure cannot govern their own emotional state; the blockade is bondage itself—consciousness is too consumed with survival to achieve balance
-  consequence: The figure becomes enslaved to their own emotional reactions; fear, rage, despair—all run wild; they lose any sense of internal stability
+  mechanism: The figure cannot govern their own emotional state
+  blockade_nature: the blockade is bondage itself—consciousness is too consumed with survival to achieve balance
+  swords_state: The figure becomes enslaved to their own emotional reactions
+  consequence: fear, rage, despair—all run wild; they lose any sense of internal stability
+  key_terms: figure cannot govern their own, blockade is bondage itself, figure becomes enslaved
 
 dynamic_devolution:
-  corruption: The king becomes a vision of what emotional power looks like to the imprisoned; the figure imagines mastering their own realm but cannot; the authority becomes evidence of everything stolen; wisdom becomes a fantasy of those with freedom
+  mechanism: The king becomes a vision of what emotional power looks like to the imprisoned
+  mode: the figure imagines mastering their own realm but cannot; the authority becomes evidence of everything stolen; wisdom becomes a fantasy of those with freedom
   loss: The figure loses faith in their capacity to ever govern themselves; they believe they are fundamentally at the mercy of their emotions; they surrender internal authority
+  key_terms: figure imagines mastering their own, figure loses faith, king becomes a vision
 
 dynamic_dependency:
-  integration: The bondage teaches the value of emotional mastery through its absence; the figure, at the mercy of their feelings, understands with clarity what emotional authority means; when the binding releases, the figure can approach the king of cups with wisdom earned through chaos; the constraint becomes the teacher of what mastery requires
-  outcome: The king's throne is available to the figure whose bondage has clarified their emotional nature; the mastery becomes genuine because it has been tested by chaos; the constraint becomes the initiation into true emotional authority; the figure learns to govern their realm with compassion because they have known the tyranny of feeling unmastered
+  mechanism: The bondage teaches the value of emotional mastery through its absence
+  function: the figure, at the mercy of their feelings, understands with clarity what emotional authority means; when the binding releases, the figure can approach the king of cups with wisdom earned through chaos; the constraint becomes the teacher of what mastery requires
+  integration_outcome: The king's throne is available to the figure whose bondage has clarified their emotional nature; the mastery becomes genuine because it has been tested by chaos; the constraint becomes the initiation into true emotional authority; the figure learns to govern their realm with compassion because they have known the tyranny of feeling unmastered
+  key_terms: king's throne is available, bondage teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: EOS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 8-1 through 8-14
+  uid: 8OSC

@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: The queen's examination is so thorough that the moment of reception passes
   swords_state: The figure understands the gift perfectly but never fully receives it
   consequence: clarity has replaced the joy of abundance
-  key_terms: queen's examination is so thorough, figure understands the gift perfectly, clarity has replaced the joy
+  key_terms: examination so thorough reception passes, the gift understood not received, clarity replacing joy, analysis over abundance
 
 dynamic_devolution:
   mechanism: The queen of swords finds fault with the gift and rejects what was genuinely offered
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: The queen's honest assessment arrives at a moment when the juggler cannot hear it without losing the balance
   swords_state: The figure receives accurate feedback but loses the equilibrium in the process of hearing it
   consequence: The figure receives accurate feedback but loses the equilibrium in the process of hearing it
-  key_terms: queen's honest assessment arrives at, figure receives accurate feedback, held tension
+  key_terms: assessment arriving when balance can't survive it, accurate feedback costing equilibrium, the toppled juggle, truth at the wrong moment
 
 dynamic_devolution:
   mechanism: The queen of swords declares the balance insufficient before the juggler has had the chance to fully establish it
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: The queen's critical assessment focuses so thoroughly on what is flawed that what is masterfully done is overlooked
   swords_state: The craftspeople become demoralized by criticism that fails to acknowledge genuine excellence
   consequence: The craftspeople become demoralized by criticism that fails to acknowledge genuine excellence
-  key_terms: queen's critical assessment focuses, craftspeople become demoralized by criticism, held tension
+  key_terms: criticism overlooking genuine excellence, fault-focus missing mastery, the demoralized craftspeople, unacknowledged work
 
 dynamic_devolution:
   mechanism: The queen of swords uses her discernment to dismantle the collaborative work rather than improve it
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the miser defends more fiercely when named
   swords_state: The figure becomes more defended after the discernment than before
   consequence: the clarity has hardened the grip
-  key_terms: queen's naming of the fear, miser defends more fiercely when, figure becomes more defended after, clarity has hardened the grip
+  key_terms: naming the fear heard as attack, the miser more defended, hardened grip, clarity deepening defense
 
 dynamic_devolution:
   mechanism: The queen of swords uses her clarity to shame the miser rather than illuminate the path to release
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: The queen's words reach those too exhausted by suffering to receive direction
   swords_state: The figure hears the guidance but lacks the energy to act on it
   consequence: the clarity arrives but cannot be converted into movement
-  key_terms: queen's words reach those too, figure hears the guidance, clarity arrives but cannot be
+  key_terms: words reaching the too-exhausted, guidance without energy to act, clarity unconverted to movement, direction the weary can't use
 
 dynamic_devolution:
   mechanism: The queen of swords uses clarity to analyze rather than address the poverty before her
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The queen's examination of the giving dynamic shames the benefactor into withholding what was genuinely needed
   swords_state: The figure stops giving rather than examining the relational dynamic the queen has named
   consequence: the clarity produces withdrawal rather than improved generosity
-  key_terms: queen's examination of the giving, figure stops giving rather, clarity produces withdrawal rather
+  key_terms: examination shaming the benefactor into withholding, the dynamic named into withdrawal, generosity stopped not improved, clarity producing retreat
 
 dynamic_devolution:
   mechanism: The queen of swords uses her discernment to dismantle the exchange relationship entirely rather than improve it
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: The queen's assessment that the harvest is ready arrives before the gardener's inner knowing has confirmed it
   swords_state: The figure harvests prematurely on the queen's authority and the fruit is not fully ripe
   consequence: The figure harvests prematurely on the queen's authority and the fruit is not fully ripe
-  key_terms: queen's assessment that the harvest, figure harvests prematurely on, held tension
+  key_terms: ready before the gardener's inner knowing, premature harvest on her authority, the unripe fruit, external timing overriding inner
 
 dynamic_devolution:
   mechanism: The queen of swords declares the entire investment wasted based on external observation that misses what only the gardener knows from within
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: The queen's correction arrives so frequently that it breaks the flow state that allows the skill to deepen
   swords_state: The figure can never get deep enough into the practice to allow the mastery to form because the interruptions prevent the necessary immersion
   consequence: The figure can never get deep enough into the practice to allow the mastery to form because the interruptions prevent the necessary immersion
-  key_terms: queen's correction arrives so frequently, figure can never get deep, held tension
+  key_terms: correction breaking the flow state, immersion interrupted, mastery prevented by interruption, depth never reached
 
 dynamic_devolution:
   mechanism: The queen of swords replaces the apprentice's own growing judgment with the authority's external assessment at every step
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The queen's habit of assessment applies itself where no assessment is needed or welcome
   swords_state: The discerning authority creates distance between herself and the self-sufficient one by offering what was not asked for
   consequence: The discerning authority creates distance between herself and the self-sufficient one by offering what was not asked for
-  key_terms: queen's habit of assessment applies, discerning authority creates distance between, held tension
+  key_terms: assessment where none is welcome, the unasked offering, distance created by discernment, surplus judgment
 
 dynamic_devolution:
   mechanism: The queen of swords uses her discernment to find fault with the nine's abundance out of a subtle envy of material sovereignty
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The queen's examination of the legacy naming both achievement and shadow creates conflict in the family that resists clear seeing
   swords_state: The figure is rejected by the family for speaking what the inheritance contains that was never intended to be examined
   consequence: The figure is rejected by the family for speaking what the inheritance contains that was never intended to be examined
-  key_terms: queen's examination of the legacy, figure is rejected, held tension
+  key_terms: examining the legacy's shadow, the family resisting clear sight, rejected for naming the unspoken, truth the inheritance forbids
 
 dynamic_devolution:
   mechanism: The queen of swords dismantles the legacy by refusing to acknowledge genuine achievement while naming only the shadow
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: The queen's full honest assessment arrives at a moment when the student lacks the foundation to receive it productively
   swords_state: The figure is overwhelmed by clarity they cannot yet integrate
   consequence: the learning is disrupted before it has begun
-  key_terms: queen's full honest assessment arrives, figure is overwhelmed by clarity, learning is disrupted before it
+  key_terms: honest assessment before the foundation exists, overwhelmed by unintegrable clarity, learning disrupted before it begins, too much too soon
 
 dynamic_devolution:
   mechanism: The queen of swords delivers the full honest assessment without any acknowledgment of what the student does well
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: The queen's assessment that the pace needs adjusting causes the rider to second-guess the method that was actually working
   swords_state: The figure loses the confidence in the steady pace before completing what the methodical approach was building
   consequence: The figure loses the confidence in the steady pace before completing what the methodical approach was building
-  key_terms: queen's assessment that the pace, figure loses the confidence, held tension
+  key_terms: adjust-the-pace undermining a working method, second-guessed steadiness, confidence lost mid-build, clarity against what worked
 
 dynamic_devolution:
   mechanism: The queen of swords declares the patient rider's pace as timidity rather than deliberate wisdom
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: The queen of swords' clarity creates distance that prevents the warmth of the earth queen's nourishment from reaching what needs it
   swords_state: The figure receives accurate assessment but lacks the warmth that would make the clarity workable
   consequence: the truth arrives cold and therefore less useful
-  key_terms: queen of swords' clarity creates, figure receives accurate assessment, truth arrives cold and therefore
+  key_terms: clarity creating distance from warmth, truth arriving cold, nourishment held off by analysis, the useful made cold
 
 dynamic_devolution:
   mechanism: The two queens allow their elemental difference to become rivalry rather than complementarity
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: the clarity has nothing to examine that the king has not already mastered
   swords_state: The queen's discernment is unnecessary in a domain where the mastery has already accounted for what she sees
   consequence: The queen's discernment is unnecessary in a domain where the mastery has already accounted for what she sees
-  key_terms: king's material authority does, clarity has nothing to examine, queen's discernment is unnecessary
+  key_terms: nothing to examine the king hasn't mastered, superfluous discernment, clarity without object, the unneeded assessment
 
 dynamic_devolution:
   mechanism: The queen of swords uses intellectual clarity to undermine the king's material authority in order to establish the primacy of the mind over matter

@@ -1,7 +1,7 @@
 card_pair: 6 of Swords, Ace of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Pure Truth, The Clarity Descending, The Divine Insight, The Sword of Reality
-numerical_relation: 6 + Ace = 7 (The Chariot; the journey toward truth)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 6 + 1 = 7 (VII The Chariot; the journey toward truth)
 elemental_bridge: Air meeting Air in pursuit of clarity; the journey guided by truth-seeking
 threshold_type: The Traveler Seeking Truth—the crossing as pilgrimage toward clarity
 
@@ -20,37 +20,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler moves but cannot fully think; the Ace's truth is present but cannot be fully contemplated during the journey
-  consequence: A crossing where clarity is glimpsed but not fully integrated; truth is present but undigested
-  spatial_logic: The traveler in motion with the Ace's sword visible but never fully grasped
+  blockade_nature: A crossing where clarity is glimpsed but not fully integrated; truth is present but undigested
+  swords_state: The traveler in motion with the Ace's sword visible but never fully grasped
+  consequence: the Ace's truth is present but cannot be fully contemplated during the journey
+  key_terms: truth glimpsed not integrated, undigested clarity, thought ungrasped in motion, contemplation impossible mid-crossing
 
 dynamic_devolution:
   mechanism: The journey gradually becomes meaningless because the truth cannot be integrated; the traveler arrives without understanding
-  corruption: The crossing is completed but empty; the truth is never fully comprehended because the journey prevented contemplation
+  mode: The crossing is completed but empty; the truth is never fully comprehended because the journey prevented contemplation
   loss: Both the journey and the truth-seeking are destroyed by the inability to combine movement with understanding
   key_terms: The empty arrival, unintegrated truth, meaningless journey, clarity lost
 
 dynamic_dependency:
   mechanism: The 6 of Swords must allow truth to emerge during the journey; the Ace of Swords must understand that movement can be a path to clarity
-  integration: The traveler journeys and gradually comes to truth; the clarity emerges through the crossing; the pilgrimage is complete
-  paradox: The deepest truths often emerge through journeying; the Ace of Swords is most potent when guiding movement rather than preventing it
-  outcome: The traveler crosses toward truth; the Ace guides the journey; clarity emerges at the journey's end; both are honored
+  function: The traveler journeys and gradually comes to truth; the clarity emerges through the crossing; the pilgrimage is complete
+  integration_outcome: The traveler crosses toward truth; the Ace guides the journey; clarity emerges at the journey's end; both are honored
   key_terms: The guided pilgrimage, emerging truth, the clarified traveler, vision honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, 2 of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Binding Stalemate, The Mutual Paralysis, The Indecision Enforced, The Blindfolded Standoff
-numerical_relation: 6 + 2 = 8 (Strength; the traveler's movement breaking the stalemate)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 6 + 2 = 8 (VIII Justice; the traveler's movement breaking the stalemate)
 elemental_bridge: Air's crossing disrupting Air's paralysis; the journey away from indecision
 threshold_type: The Traveler Breaking Free—the crossing that ends stalemate
 
@@ -69,37 +70,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler's departure is incomplete; the stalemate's hold prevents full crossing; the traveler remains partially bound
-  consequence: A journey made difficult by the stalemate's resistance; the traveler moves but feels pulled back by the deadlock
-  spatial_logic: The traveler at the shore ready to depart but the invisible bonds of stalemate holding them partially back
+  blockade_nature: A journey made difficult by the stalemate's resistance; the traveler moves but feels pulled back by the deadlock
+  swords_state: The traveler at the shore ready to depart but the invisible bonds of stalemate holding them partially back
+  consequence: the traveler remains partially bound
+  key_terms: crossing pulled back by deadlock, traveler partially bound, departure incomplete, the stalemate's lingering hold
 
 dynamic_devolution:
   mechanism: The stalemate eventually reasserts itself; the traveler cannot fully leave while the other remains bound; guilt pulls the traveler back
-  corruption: The crossing is abandoned; the traveler returns to the stalemate; both are consumed by guilt and recrimination
+  mode: The crossing is abandoned; the traveler returns to the stalemate; both are consumed by guilt and recrimination
   loss: The journey is destroyed by the stalemate's reassertion; the crossing never happens
   key_terms: The failed departure, returned traveler, reasserted stalemate, perpetual paralysis
 
 dynamic_dependency:
   mechanism: The 6 of Swords must break the stalemate through departure; the 2 of Swords must accept that the breaking is necessary and actually liberating
-  integration: The traveler departs and the stalemate is forced to break; the one left behind eventually makes the choice the stalemate prevented; both move forward
-  paradox: Sometimes the only way to break a stalemate is for one party to move; the 2 of Swords is most truly resolved when someone has the courage to break the deadlock
-  outcome: The traveler departs and the stalemate breaks; the one left behind is forced to choose; both move into new territory
+  function: The traveler departs and the stalemate is forced to break; the one left behind eventually makes the choice the stalemate prevented; both move forward
+  integration_outcome: The traveler departs and the stalemate breaks; the one left behind is forced to choose; both move into new territory
   key_terms: The broken deadlock, forced choice, liberated both, the freed traveler
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, 3 of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Heartbreak, The Sorrow, The Three Wounding Truths, The Grief Exposed
-numerical_relation: 6 + 3 = 9 (Completion; the crossing away from heartbreak)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 6 + 3 = 9 (IX The Hermit; the crossing away from heartbreak)
 elemental_bridge: Air carrying Air's pain; the journey away from sorrow
 threshold_type: The Traveler Leaving Grief—the crossing away from heartbreak
 
@@ -118,37 +120,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler moves but carries the heartbreak fully; the crossing is made while grieving; neither the journey nor the grief is complete
-  consequence: A crossing weighted by unprocessed sorrow; the traveler arrives but still carrying the fullness of the pain
-  spatial_logic: The traveler in the boat weeping, neither fully grieving nor fully crossing
+  blockade_nature: A crossing weighted by unprocessed sorrow; the traveler arrives but still carrying the fullness of the pain
+  swords_state: The traveler in the boat weeping, neither fully grieving nor fully crossing
+  consequence: neither the journey nor the grief is complete
+  key_terms: crossing weighted by sorrow, grieving in the boat, neither mourned nor arrived, pain carried whole
 
 dynamic_devolution:
   mechanism: The grief gradually destroys the journey; the heartbreak becomes so complete that the traveler cannot continue; the crossing is abandoned
-  corruption: The traveler returns to the place of grief; the journey is lost to the power of heartbreak
+  mode: The traveler returns to the place of grief; the journey is lost to the power of heartbreak
   loss: Both the crossing and the healing are destroyed by the grip of grief
   key_terms: The abandoned journey, returned mourner, unconquered grief, the destroyed crossing
 
 dynamic_dependency:
   mechanism: The 6 of Swords must allow the 3 of Swords' grief to flow while moving; the 3 of Swords must understand that the journey itself is the healing
-  integration: The traveler grieves in motion; the tears are released; the grief is honored and gradually transformed into wisdom
-  paradox: The deepest healing often comes from moving through grief rather than remaining in it; the 3 of Swords is most healed when the traveler journeys through the pain
-  outcome: The traveler crosses with grief held open; the healing emerges; the arrival brings transformation; the grief becomes wisdom
+  function: The traveler grieves in motion; the tears are released; the grief is honored and gradually transformed into wisdom
+  integration_outcome: The traveler crosses with grief held open; the healing emerges; the arrival brings transformation; the grief becomes wisdom
   key_terms: The mourning pilgrimage, grief transformed, the healed traveler, wisdom honored
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, 4 of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Peace of Stillness, The Recovery Pause, The Truce Held, The Rest Between Battles
-numerical_relation: 6 + 4 = 10 (Completion; the crossing and the rest both achieved)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: Rest, truce, peace, mental stillness, respite
+numerical_relation: 6 + 4 = 10 (X The Wheel of Fortune; the crossing and the rest both achieved)
 elemental_bridge: Air's movement and Air's stillness meeting; the journey that includes rest
 threshold_type: The Traveling Warrior—the crossing that includes moments of peace
 
@@ -167,37 +170,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler attempts to rest but cannot fully let go; the peace is present but incomplete because the journey waits
-  consequence: A rest that is partial; the traveler never fully recovers because the awareness of the journey's continuation prevents complete relaxation
-  spatial_logic: The traveler resting at the shore but the boat visible, ready to continue
+  blockade_nature: A rest that is partial; the traveler never fully recovers because the awareness of the journey's continuation prevents complete relaxation
+  swords_state: The traveler resting at the shore but the boat visible, ready to continue
+  consequence: the peace is present but incomplete because the journey waits
+  key_terms: partial rest, recovery cut short by the waiting boat, peace under the journey's shadow, relaxation withheld
 
 dynamic_devolution:
   mechanism: The traveler gradually becomes exhausted by the refusal to truly rest; the crossing becomes impossible; the traveler collapses
-  corruption: The journey is destroyed by the exhaustion; the 4 of Swords' peace is too late; the traveler arrives broken
+  mode: The journey is destroyed by the exhaustion; the 4 of Swords' peace is too late; the traveler arrives broken
   loss: Both the journey and the recovery are destroyed by the inability to balance rest and movement
   key_terms: The collapsed traveler, impossible journey, late peace, the exhausted arrival
 
 dynamic_dependency:
   mechanism: The 6 of Swords must allow true rest during the crossing; the 4 of Swords must understand that peace can be maintained while traveling
-  integration: The traveler journeys with regular rest; the crossing is made sustainable; the 4 of Swords' peace is woven into the journey's rhythm
-  paradox: The most sustainable journeys are those that include built-in rest; the 4 of Swords is most honoring when allowing the traveler to move with rhythm
-  outcome: The traveler crosses with rhythm; rest is regular; the journey is sustainable; both movement and peace are honored
+  function: The traveler journeys with regular rest; the crossing is made sustainable; the 4 of Swords' peace is woven into the journey's rhythm
+  integration_outcome: The traveler crosses with rhythm; rest is regular; the journey is sustainable; both movement and peace are honored
   key_terms: The sustainable journey, rhythmic crossing, honored rest, the recovered traveler
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, 5 of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Bitter Victor, The Hollow Victory, The Survivor's Scars, The Regret Witness
-numerical_relation: 6 + 5 = 11 (The Hanged One; two who have suffered in different ways meeting)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 6 + 5 = 11 (XI Strength; two who have suffered in different ways meeting)
 elemental_bridge: Air meeting Air in shared understanding; two forms of survival recognizing each other
 threshold_type: The Peaceful Traveler Meeting the Bitter Victor—two survivors' paths crossing
 
@@ -216,37 +220,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains with the victor but the peace is compromised; the crossing is slowed by the victor's bitterness; neither fully moves forward
-  consequence: A journey made difficult by the victor's weight; the traveler's peace is threatened by the bitterness
-  spatial_logic: The traveler and the victor in the boat together, the traveler's peace shadowed by the victor's bitterness
+  blockade_nature: A journey made difficult by the victor's weight; the traveler's peace is threatened by the bitterness
+  swords_state: The traveler and the victor in the boat together, the traveler's peace shadowed by the victor's bitterness
+  consequence: neither fully moves forward
+  key_terms: peace shadowed by bitterness, the victor's weight in the boat, the slowed crossing, neither moving forward
 
 dynamic_devolution:
   mechanism: The traveler's patience eventually ends; the journey continues but the victor is abandoned; the bitterness eventually destroys the traveler's peace
-  corruption: The peaceful crossing is corrupted by the entanglement with the bitter one; the victor's despair infects the traveler
+  mode: The peaceful crossing is corrupted by the entanglement with the bitter one; the victor's despair infects the traveler
   loss: Both the healing journey and the bitter survival are destroyed by the failed attempt at companionship
   key_terms: The corrupted peace, abandoned victor, poisoned journey, mutual loss
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the 5 of Swords' survival even while continuing toward peace; the 5 of Swords must allow the traveler to move forward
-  integration: The traveler departs and the victor eventually follows, in their own way and time; the crossing is available to all who recognize healing is possible
-  paradox: The deepest healings often inspire others to heal; the 6 of Swords is most complete when the peaceful journey offers hope to the bitter one
-  outcome: The traveler continues; the victor eventually follows or finds their own path; both move toward healing, in their own time
+  function: The traveler departs and the victor eventually follows, in their own way and time; the crossing is available to all who recognize healing is possible
+  integration_outcome: The traveler continues; the victor eventually follows or finds their own path; both move toward healing, in their own time
   key_terms: The offered hope, the eventual following, the witnessed healing, peace transmitted
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, 6 of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-numerical_relation: 6 + 6 = 12 (The Hanged One; two travelers meeting, sharing the crossing)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: The Traveler, The Departure, The Crossing, The Healer Through Distance
+numerical_relation: 6 + 6 = 12 (XII The Hanged Man; two travelers meeting, sharing the crossing)
 elemental_bridge: Air meeting Air in mutual recognition; two journeys acknowledging each other
 threshold_type: The Two Travelers—the crossing that meets another crossing
 
@@ -259,43 +264,44 @@ dynamic_genesis:
 dynamic_antagonism:
   mechanism: Two travelers move at different paces; one wants to go faster; one wants to go slower; the difference creates tension
   tension_axis: Speed against deliberation—different paces create conflict
-  6_of_swords_position_first: Moving faster, unable to wait for the second traveler
-  6_of_swords_position_second: Moving slower, unable to match the first traveler's pace
+  swords_position_1: Moving faster, unable to wait for the second traveler
+  swords_position_2: Moving slower, unable to match the first traveler's pace
   key_terms: The mismatched travelers, conflicting paces, unequal speeds, diverging paths
 
 dynamic_inhibition:
   mechanism: Two travelers attempt to move together but at constantly adjusted paces; neither can move at their natural speed
-  consequence: A crossing that is compromised by the need to accommodate both; the travelers move together but neither is truly themselves
-  spatial_logic: Two figures in the boat struggling to synchronize the oars
+  blockade_nature: A crossing that is compromised by the need to accommodate both; the travelers move together but neither is truly themselves
+  swords_state: Two figures in the boat struggling to synchronize the oars
+  consequence: neither can move at their natural speed
+  key_terms: mismatched pace, oars out of sync, accommodation that erases both, neither at natural speed
 
 dynamic_devolution:
   mechanism: The travelers gradually resent each other; the shared crossing becomes a prison; eventually they separate in bitterness
-  corruption: What could have been profound companionship becomes a source of pain; the separation is bitter
+  mode: What could have been profound companionship becomes a source of pain; the separation is bitter
   loss: Both travelers are damaged by the failed companionship; the crossings are made alone and diminished
   key_terms: The separated travelers, resentful crossing, failed companionship, bitter journey
 
 dynamic_dependency:
   mechanism: The two travelers must find a pace that works for both; neither can demand the other conform entirely to their speed
-  integration: The travelers adjust their pace to a rhythm that includes both; the crossing is made in companionable rhythm; both arrive transformed by the journey together
-  paradox: The deepest journeys are often those made with companions who require adjustment but offer support; two travelers are more complete than one
-  outcome: The two travelers cross together; they adjust their rhythm; the companionship is real; both arrive together, transformed by the shared journey
+  function: The travelers adjust their pace to a rhythm that includes both; the crossing is made in companionable rhythm; both arrive transformed by the journey together
+  integration_outcome: The two travelers cross together; they adjust their rhythm; the companionship is real; both arrive together, transformed by the shared journey
   key_terms: The adjusted rhythm, shared crossing, deepened journey, the companioned travelers
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, 7 of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Theft, The Deception, The Cunning Escape, The Duplicity Revealed
-numerical_relation: 6 + 7 = 13 (Death/Transformation; the honest crossing and the deceptive escape)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: The Thief, The Cunning Escape, The Duplicity, The Strategic Theft
+numerical_relation: 6 + 7 = 13 (XIII Death; the honest crossing and the deceptive escape)
 elemental_bridge: Air's clear journey and Air's hidden departure; honesty and deception meeting
 threshold_type: The Honest Traveler Encountering the Thief—the crossing and the escape
 
@@ -314,37 +320,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The two attempt to travel together but the traveler cannot fully trust the thief; the thief cannot fully relax with the transparent traveler
-  consequence: A companionship that is technically present but spiritually divided; neither can fully be themselves
-  spatial_logic: Two travelers in the boat but unable to truly travel together, unable to trust
+  blockade_nature: A companionship that is technically present but spiritually divided; neither can fully be themselves
+  swords_state: Two travelers in the boat but unable to truly travel together, unable to trust
+  consequence: the thief cannot fully relax with the transparent traveler
+  key_terms: companionship without trust, the transparent traveler and the wary thief, shared boat spiritually divided, neither fully present
 
 dynamic_devolution:
   mechanism: The traveler reports the thief; the thief betrays the traveler; the companionship becomes a warfare
-  corruption: What could have been mutual support becomes mutual destruction
+  mode: What could have been mutual support becomes mutual destruction
   loss: Both the honest journey and the cunning escape are destroyed by the failed partnership
   key_terms: The betrayed traveler, exposed thief, corrupted escape, mutual destruction
 
 dynamic_dependency:
   mechanism: The 6 of Swords must accept the 7 of Swords' escape as valid; the 7 of Swords must accept that honesty can also be a form of strength
-  integration: The two travelers depart together, each honoring the other's method; the honest journey and the cunning escape support each other
-  paradox: The strongest escapes sometimes require both honesty and cunning; the 7 of Swords is most effective when complemented by the traveler's transparency
-  outcome: The two travel together; the honesty and the cunning support each other; both arrive transformed
+  function: The two travelers depart together, each honoring the other's method; the honest journey and the cunning escape support each other
+  integration_outcome: The two travel together; the honesty and the cunning support each other; both arrive transformed
   key_terms: The supported escape, honored cunning, the truthful journey, mutual respect
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, 8 of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Trapped Mind, The Mental Prison, The Bonds of Thought, The Captivity of Understanding
-numerical_relation: 6 + 8 = 14 (Moderation; the traveler helping the imprisoned free themselves)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness
+numerical_relation: 6 + 8 = 14 (XIV Temperance; the traveler helping the imprisoned free themselves)
 elemental_bridge: Air in motion and Air imprisoned; the journey inviting the prisoner to freedom
 threshold_type: The Traveler Inviting the Prisoner—the crossing as liberation pathway
 
@@ -363,37 +370,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The prisoner accepts the journey but carries the mental bonds; the crossing is attempted with inner captivity
-  consequence: A journey that is externally free but internally imprisoned; the prisoner escapes physically but remains bound mentally
-  spatial_logic: The traveler and the prisoner in the boat but the prisoner still mentally bound
+  blockade_nature: A journey that is externally free but internally imprisoned; the prisoner escapes physically but remains bound mentally
+  swords_state: The traveler and the prisoner in the boat but the prisoner still mentally bound
+  consequence: the crossing is attempted with inner captivity
+  key_terms: outward escape inward prison, mental bonds carried across, freedom only physical, captivity in transit
 
 dynamic_devolution:
   mechanism: The prisoner returns to the bonds; the crossing is abandoned; the captivity reasserts itself completely
-  corruption: The attempted escape fails because the internal bonds were too strong; the prisoner is destroyed by the failure
+  mode: The attempted escape fails because the internal bonds were too strong; the prisoner is destroyed by the failure
   loss: Both the crossing and the liberation are destroyed by the mental captivity's power
   key_terms: The returned prisoner, reasserted bonds, failed escape, the re-imprisoned
 
 dynamic_dependency:
   mechanism: The 6 of Swords must offer genuine liberation; the 8 of Swords must allow the bonds to be gradually released during the crossing
-  integration: The prisoner accepts the crossing; the journey itself begins to unbind the mental captivity; freedom emerges gradually
-  paradox: The deepest freedom emerges from the willingness to journey toward it; the 8 of Swords is most truly liberated through the act of crossing
-  outcome: The prisoner journeys; the internal bonds gradually release; freedom is achieved; the crossing is complete
+  function: The prisoner accepts the crossing; the journey itself begins to unbind the mental captivity; freedom emerges gradually
+  integration_outcome: The prisoner journeys; the internal bonds gradually release; freedom is achieved; the crossing is complete
   key_terms: The gradual freedom, the honored journey, released prisoner, the liberated traveler
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, 9 of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Nightmare, The Despair Deepening, The Thoughts That Wound, The Mental Anguish
-numerical_relation: 6 + 9 = 15 (The Devil reversed; liberation through the journey away from nightmares)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish
+numerical_relation: 6 + 9 = 15 (XV The Devil; liberation through the journey away from nightmares)
 elemental_bridge: Air's movement and Air's torment; the journey away from mental anguish
 threshold_type: The Traveler Escaping Nightmares—the crossing away from mental torment
 
@@ -412,37 +420,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler journeys but the nightmares travel too; the mental anguish is internal and cannot be escaped through physical movement
-  consequence: A crossing that is not healing because the nightmares are carried within
-  spatial_logic: The traveler in the boat but the nightmares following, the boat never far enough away
+  blockade_nature: A crossing that is not healing because the nightmares are carried within
+  swords_state: The traveler in the boat but the nightmares following, the boat never far enough away
+  consequence: the mental anguish is internal and cannot be escaped through physical movement
+  key_terms: nightmares that travel too, anguish no distance escapes, crossing without healing, the boat never far enough
 
 dynamic_devolution:
   mechanism: The nightmares gradually consume the traveler; the journey becomes another form of torment; the crossing is destroyed
-  corruption: The escape fails because the nightmares are internalized; the traveler arrives still tormented
+  mode: The escape fails because the nightmares are internalized; the traveler arrives still tormented
   loss: Both the journey and the relief from nightmares are destroyed by the inability to escape internalized anguish
   key_terms: The haunted crossing, failed escape, internal nightmares, the tormented arrival
 
 dynamic_dependency:
   mechanism: The 6 of Swords must help the 9 of Swords' tormented mind gradually release during the crossing; the nightmares must be allowed to surface and be released
-  integration: The traveler journeys; the nightmares gradually surface during the journey; the crossing itself becomes the healing; the nightmares are released
-  paradox: The deepest healing from nightmares comes through allowing them to surface while moving away; the 9 of Swords is most healed through the journey itself
-  outcome: The traveler crosses and the nightmares gradually lose power; the mind becomes clear; the arrival is peaceful
+  function: The traveler journeys; the nightmares gradually surface during the journey; the crossing itself becomes the healing; the nightmares are released
+  integration_outcome: The traveler crosses and the nightmares gradually lose power; the mind becomes clear; the arrival is peaceful
   key_terms: The healing journey, released nightmares, the cleared mind, the peaceful arrival
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, 10 of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Final Betrayal, The Utter Defeat, The Ending, The Death That Leads to Rebirth
-numerical_relation: 6 + 10 = 16 (The Tower; the collapse that enables the journey)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
+numerical_relation: 6 + 10 = 16 (XVI The Tower; the collapse that enables the journey)
 elemental_bridge: Air meeting Air at the moment of complete transformation
 threshold_type: The Traveler Meeting Total Collapse—the crossing beginning where the 10 of Swords ends
 
@@ -461,37 +470,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The defeated one begins the journey but remains paralyzed by the collapse; the crossing is made but the traveler is not truly present
-  consequence: A journey that is technically happening but spiritually incomplete; the defeated one has not truly left the place of collapse
-  spatial_logic: The defeated figure in the boat but still lying down, not yet able to sit or move
+  blockade_nature: A journey that is technically happening but spiritually incomplete; the defeated one has not truly left the place of collapse
+  swords_state: The defeated figure in the boat but still lying down, not yet able to sit or move
+  consequence: the crossing is made but the traveler is not truly present
+  key_terms: defeat that hasn't left the shore, present in body absent in spirit, collapse carried into the boat, journey without the traveler
 
 dynamic_devolution:
   mechanism: The defeated one cannot continue the crossing; the collapse is too complete; the journey is abandoned
-  corruption: The attempted crossing fails; the utterly defeated one remains in the place of collapse; hopelessness is confirmed
+  mode: The attempted crossing fails; the utterly defeated one remains in the place of collapse; hopelessness is confirmed
   loss: Both the journey and the possibility of transformation are destroyed
   key_terms: The abandoned crossing, confirmed hopelessness, the re-collapsed, the defeated finality
 
 dynamic_dependency:
   mechanism: The 6 of Swords must offer genuine possibility to the 10 of Swords; the utterly defeated must gradually allow the crossing to begin
-  integration: The defeated one accepts the crossing; the journey itself becomes the transformation; from total collapse emerges eventual rebirth
-  paradox: The deepest transformations often begin from utter defeat; the 10 of Swords is most truly reborn when allowing the journey to begin
-  outcome: The defeated one journeys; the collapse becomes the foundation for renewal; the crossing leads to transformation
+  function: The defeated one accepts the crossing; the journey itself becomes the transformation; from total collapse emerges eventual rebirth
+  integration_outcome: The defeated one journeys; the collapse becomes the foundation for renewal; the crossing leads to transformation
   key_terms: The honored collapse, beginning rebirth, the transformed journey, the reborn traveler
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, Page of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Curious Seeker, The Young Intellect, The Questions Emerging, The Wonder Unfolding
-numerical_relation: 6 + Page = The experienced traveler and the young seeker meeting
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+numerical_relation: 6 + 11 = 17 (XVII The Star; The experienced traveler and the young seeker meeting)
 elemental_bridge: Air in motion and Air questioning; the experienced journey and innocent inquiry
 threshold_type: The Traveler Meeting Young Curiosity—the crossing as answer to the Page's questions
 
@@ -510,37 +520,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains partially to answer questions but with hidden restlessness; the Page's inquiry is incomplete
-  consequence: Questions that are half-answered; the Page remains curious but unsatisfied
-  spatial_logic: The traveler and the Page together but the traveler's attention elsewhere, the boat always visible
+  blockade_nature: Questions that are half-answered; the Page remains curious but unsatisfied
+  swords_state: The traveler and the Page together but the traveler's attention elsewhere, the boat always visible
+  consequence: the Page's inquiry is incomplete
+  key_terms: half-answered questions, curiosity unsatisfied, divided attention, the boat always in view
 
 dynamic_devolution:
   mechanism: The traveler eventually leaves and the Page's questions become bitterness; the young seeker's curiosity is corrupted into skepticism
-  corruption: What should have been answered inquiry becomes cynical doubt; the Page's openness is replaced with suspicion
+  mode: What should have been answered inquiry becomes cynical doubt; the Page's openness is replaced with suspicion
   loss: Both the journey and the Page's genuine seeking are destroyed
   key_terms: The corrupted curiosity, abandoned seeker, bitter questions, cynicism premature
 
 dynamic_dependency:
   mechanism: The 6 of Swords must offer genuine pathway for the Page's inquiry; the Page must learn to seek answers through their own journey
-  integration: The traveler departs and the Page follows eventually; the questions are answered through the act of journeying, not through remaining
-  paradox: The deepest answers to questions often emerge through journeying; the Page is most truly wise when they travel to answer their own questions
-  outcome: The traveler departs; the Page eventually follows; both journey; the questions are answered through the crossing itself
+  function: The traveler departs and the Page follows eventually; the questions are answered through the act of journeying, not through remaining
+  integration_outcome: The traveler departs; the Page eventually follows; both journey; the questions are answered through the crossing itself
   key_terms: The followed example, answered through journey, the wisdom achieved, the seeking traveler
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, Knight of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Truth Seeker, The Relentless Inquirer, The Challenger, The One Who Pursues Clarity
-numerical_relation: 6 + Knight = 9 (Completion; two truth-seekers moving in alignment)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion
+numerical_relation: 6 + 12 = 18 (XVIII The Moon; two truth-seekers moving in alignment)
 elemental_bridge: Air meeting Air in pursuit of truth; the journey and the inquiry aligned
 threshold_type: The Two Questioners—the crossing and the relentless search moving together
 
@@ -559,37 +570,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The two attempt to journey together but their methods conflict; both are diminished by the partnership
-  consequence: A crossing that is technically shared but spiritually divided
-  spatial_logic: Two figures in the boat pulling in different directions
+  blockade_nature: A crossing that is technically shared but spiritually divided
+  swords_state: Two figures in the boat pulling in different directions
+  consequence: both are diminished by the partnership
+  key_terms: methods in conflict, two pulling different ways, shared crossing spiritually divided, partnership diminishing both
 
 dynamic_devolution:
   mechanism: The two separate in bitter disagreement about what truth is worth seeking
-  corruption: What could have been mutual truth-seeking becomes mutual judgment
+  mode: What could have been mutual truth-seeking becomes mutual judgment
   loss: Both the crossing and the inquiry are destroyed by the failed partnership
   key_terms: The separated seekers, mutual judgment, lost truth, corrupted inquiry
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the Knight of Swords' relentless seeking; the Knight must accept that safe passage is also a valid quest
-  integration: The two travel together; the Knight's relentless truth-seeking and the traveler's measured journey support each other
-  paradox: The strongest truth-seeking often requires both measured journey and relentless inquiry; the 6 of Swords and the Knight are most complete together
-  outcome: The two seekers journey together; both truth and safety are honored; both arrive transformed by the shared quest
+  function: The two travel together; the Knight's relentless truth-seeking and the traveler's measured journey support each other
+  integration_outcome: The two seekers journey together; both truth and safety are honored; both arrive transformed by the shared quest
   key_terms: The united seekers, honored paths, aligned truth, the completed quest
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, Queen of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Intellectual Authority, The Discerning Mind, The Wise Judge, The Sovereign of Clarity
-numerical_relation: 6 + Queen = 12 (The Hanged One; the Queen releasing the traveler)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+numerical_relation: 6 + 13 = 19 (XIX The Sun; the Queen releasing the traveler)
 elemental_bridge: Air in motion and Air in authority; the traveler and the discerning mind
 threshold_type: The Wise Queen Releasing the Traveler—authority learning to release
 
@@ -608,37 +620,38 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains bound to the Queen but resentfully; the crossing is prevented by the obligation to the authority
-  consequence: A state of enforced stillness; the traveler is present but absent
-  spatial_logic: The traveler and the Queen together but the traveler's internal absence
+  blockade_nature: A state of enforced stillness; the traveler is present but absent
+  swords_state: The traveler and the Queen together but the traveler's internal absence
+  consequence: the crossing is prevented by the obligation to the authority
+  key_terms: enforced stillness, present but absent, crossing barred by obligation, resentful binding
 
 dynamic_devolution:
   mechanism: The traveler rebels against the Queen's authority; the crossing becomes a breaking of bonds
-  corruption: The wisdom is revealed as control; the authority is destroyed by the rebellion
+  mode: The wisdom is revealed as control; the authority is destroyed by the rebellion
   loss: Both the authority and the traveler are destroyed by the conflict
   key_terms: The shattered authority, destroyed wisdom, violent rebellion, mutual loss
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the Queen of Swords' wisdom even while departing; the Queen must accept that true wisdom includes allowing departure
-  integration: The Queen releases the traveler with her full wisdom; the crossing is blessed by the authority's understanding
-  paradox: The strongest authority is often that which can release; the Queen of Swords is most truly wise when willing to support the traveler's departure
-  outcome: The traveler departs blessed; the Queen's wisdom guides from afar; the crossing is honored; both are transformed
+  function: The Queen releases the traveler with her full wisdom; the crossing is blessed by the authority's understanding
+  integration_outcome: The traveler departs blessed; the Queen's wisdom guides from afar; the crossing is honored; both are transformed
   key_terms: The wise release, honored authority, the guided journey, wisdom's blessing
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS
 
 ---
 
 card_pair: 6 of Swords, King of Swords
-archetype_swords: The Traveler, The Departure, The Crossing, The Healer Through Distance
-archetype_swords: The Sovereign of Intellect, The Master of Clarity, The Ruler of Thought, The Authority Absolute
-numerical_relation: 6 + King = 13 (Death/Transformation; the King releasing the traveler for the kingdom's good)
+archetype_swords_1: The Traveler, The Departure, The Crossing, The Healer Through Distance
+archetype_swords_2: The King, The Enthroned Mind, The Visionary Authority, Thought That Commands
+numerical_relation: 6 + 14 = 20 (XX Judgement; the King releasing the traveler for the kingdom's good)
 elemental_bridge: Air in motion and Air in rule; the traveler and the sovereign of intellect
 threshold_type: The Sovereign King Releasing the Traveler—ultimate authority blessing the crossing
 
@@ -657,27 +670,28 @@ dynamic_antagonism:
 
 dynamic_inhibition:
   mechanism: The traveler remains in service but with resentment; the crossing is prevented by the King's will
-  consequence: A forced service that breaks the traveler's spirit
-  spatial_logic: The traveler and the King together but the traveler bound in service
+  blockade_nature: A forced service that breaks the traveler's spirit
+  swords_state: The traveler and the King together but the traveler bound in service
+  consequence: the crossing is prevented by the King's will
+  key_terms: forced service breaking the spirit, crossing barred by the King's will, bound in duty, resentful subjection
 
 dynamic_devolution:
   mechanism: The traveler openly rebels; the King's authority is challenged and defeated
-  corruption: The kingdom is shattered by rebellion
+  mode: The kingdom is shattered by rebellion
   loss: Both the King's rule and the traveler's freedom are destroyed
   key_terms: The shattered kingdom, defeated authority, violent rebellion, mutual destruction
 
 dynamic_dependency:
   mechanism: The 6 of Swords must honor the King of Swords' rule even while departing; the King must accept that true sovereignty includes releasing those who must journey
-  integration: The King releases the traveler as ambassador; the crossing serves the kingdom; the wisdom is spread
-  paradox: The strongest kingdoms are those that release their travelers; the King of Swords is most truly sovereign when supporting the traveler's quest
-  outcome: The traveler departs as ambassador; the King's rule is served; the crossing spreads clarity; both are honored
+  function: The King releases the traveler as ambassador; the crossing serves the kingdom; the wisdom is spread
+  integration_outcome: The traveler departs as ambassador; the King's rule is served; the crossing spreads clarity; both are honored
   key_terms: The honored departure, the traveling ambassador, spread clarity, the sovereign's wisdom
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
-  ontology: jodorowskian numerological psychology with swords graduation
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
   encoding: UTF-8
-  elemental_primary: Air + Air
-  numerical_axis: 6 of Swords (crossing, departure) to 14 Swords cards (thought, clarity, conflict)
-  uid: SIOS
+  elemental_primary: air (swords) to air (swords)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OSS

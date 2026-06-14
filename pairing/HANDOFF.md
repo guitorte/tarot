@@ -1,97 +1,100 @@
-# Tarot Pairing Normalization — Session Handoff
+# Tarot Pairing — Session Handoff
 
-## Project Overview
-A Jodorowskian numerological tarot pairing database: **56 files** total
-(13 primary Swords cards × 4 target suits). Each file holds **14 blocks**
-(primary + Ace through King of the target suit). Each block describes a
-relational pairing across five dynamic states: genesis, antagonism,
-inhibition, devolution, dependency.
+This file lets a new session resume **from the repository alone**, with no prior chat
+context. Read it, then read `pairing/FORMAT_SPEC.md` (authoritative) before writing anything.
 
-**Working strategy:** "King now, normalize later" — complete all four King
-files to final v1.3 quality first, then retrofit the 48 older files
-tier-by-tier.
+## Project overview
+A Jodorowskian numerological tarot study. For a given **primary** Swords card we describe how
+it pairs with other cards across **five dynamic states** — genesis, antagonism, inhibition,
+devolution, dependency (the source instructions in `pairing/context.md`: X engenders /
+conflicts-with / stagnates-before / reduces-to / needs Y). Output is a machine-readable
+`key: value` block format defined by `FORMAT_SPEC.md`.
 
-## Verified Status: 25 / 56 files conformant
-Confirmed by `python3 pairing/validate.py <file>` exit code on
-2026-06-13.
+## CURRENT STATE — Phase 1 COMPLETE ✅ (56/56)
+All minor-suit Swords pairings are spec-conformant at v1.3:
+`python3 pairing/validate.py` → **`PASS: 56 file(s) conformant.`** (exit 0).
 
-### PASS (25)
-- All 4 King files: `king_to_{pentacles,cups,wands,swords}`
-- All 12 tier-1 files: `{2,3,4}_to_{pentacles,cups,wands,swords}`
-- `5_to_cups` — **GOLD-STANDARD exemplar** (hand-authored Ace block +
-  target-specific inhibition key_terms)
-- `5_to_wands`, `6_to_{pentacles,cups,wands}`, `7_to_{pentacles,cups,wands}`
-  — structurally valid; **interim quality**: inhibition `key_terms` are
-  auto-derived (block-specific but rough), flagged for a hand-authoring pass.
+- 13 numbered+court primaries (2–King) × 4 target suits = 52 files.
+- 4 Ace-of-Swords-primary files (`ace_to_{pentacles,cups,wands,swords}`).
+- Each minor file = 14 blocks (Ace→King of the target suit).
+- Same-suit files (`*_to_swords`) use `archetype_swords_1/_2` and, for a card meeting itself,
+  `swords_position_1/_2`.
 
-### FAIL — remaining work (31)
-- Same-suit (3): `5_to_swords`, `6_to_swords`, `7_to_swords`
-- Reduced-format tier (24): `{8,9,10,page,knight,queen}_to_{4 suits}`
-- Ace files (4): `ace_to_{4 suits}` — out of scope per spec §12 unless asked.
+**Verify before trusting this doc:** `python3 pairing/validate.py` should print 56/56.
 
-## Canonical Spec (locked)
-`pairing/FORMAT_SPEC.md` is authoritative. Key sections:
-- §2  block skeleton (header + 5 dynamics + metadata)
-- §4  `numerical_relation`: `a + b = sum → reduced (Trump; gloss)`,
-      Marseille trumps (8=Justice, 11=Strength — NOT Waite), digit reduction
-- §5  `elemental_primary` full form (`air (swords) to water (cups)`)
-- §6  `archetype_swords` lines fixed per card — identical across all 4 suit
-      files for a given primary
-- §7  uid scheme `<Rank>OS<Target>` (Ace=A, 2-9=digit, 10=X, Page=P,
-      Knight=N, Queen=Q, King=K + OS + target P/C/W/S)
-- §8  prose quality bar (concrete mechanism, no "becomes/reveals" clichés,
-      telegraphic)
-- §9  Known Deviations catalog (per-drift-tier corrections)
-- §11 self-check checklist
-- §13 validator documentation
+## NEXT — Phase 2: Swords × 22 Major Arcana (the current task)
+Add, for each of the 14 Swords cards, its combinations with all 22 Major Arcana.
+**Format and rules are fully specified in `FORMAT_SPEC.md` §14 — read it.** Headlines:
+- New files `pairing/swords/<card>_to_major.txt`, **22 blocks** each (The Fool 0 → The World 21),
+  14 files, 308 blocks total. Structured format, same five dynamics, same §8 quality bar.
+- Decisions locked: **structured format in `pairing/swords/`**; **numerical_relation =
+  sum & reduce** (`<swords#> + <arcanum# 0–21> = <sum> (Trump; gloss)`, digit-reduce > 21).
+- `archetype_major` canonical table for all 22 arcana is in §14.5 (reuse verbatim).
+- `uid: <Rank>OSM`; `series_count: 22`; `elemental_primary: air (swords) to major arcana`;
+  `numerical_axis: <n>-0 through <n>-21`.
+- **Do this FIRST:** extend `validate.py` with a `_to_major.txt` branch (§14.3) so the new
+  files are checked and the existing 56 stay green. There is **no normalizer** for Phase 2 —
+  author fresh from `pairing/TEMPLATE_major.txt`.
+- Pace ~1 file (22 blocks) per chunk; validator after each; commit per file/small group.
 
-### Field counts per dynamic (v1.3)
-| dynamic     | count | fields |
-|-------------|-------|--------|
-| genesis     | 4 | mechanism, process, outcome, key_terms |
-| antagonism  | 5 | mechanism, tension_axis, [position labels], key_terms |
-| inhibition  | 5 | mechanism, blockade_nature, swords_state, consequence, key_terms |
-| devolution  | 4 | mechanism, mode, loss, key_terms |
-| dependency  | 4 | mechanism, function, integration_outcome, key_terms |
+### Prior art to be aware of (different lineage — do not confuse)
+`combinations/magician.md` and `combinations/examples.md` already hold **Major × Major**
+combinations, but in **Portuguese prose** (Jodorowsky paragraphs, per-block UIDs like `MZK1`).
+Phase 2 is the **structured English** lineage of `pairing/swords/`, NOT that prose style. They
+can be a content/tone reference only.
 
-## Tooling
-- `pairing/validate.py` — mechanical conformance checker (NOT prose quality).
-  `python3 pairing/validate.py pairing/swords/*.txt`; exit 0 = pass.
-- `pairing/_normalize_numeric.py` — tier-1 numeric/metadata reformatter.
-- `pairing/_relabel_samesuit.py` — same-suit position-label relabeler.
-- `pairing/_normalize_tier67.py` — verbose-era (cards 5-7) field remapper.
-- `pairing/TEMPLATE.txt` — copy-paste scaffold.
+## Canonical spec (locked) — `FORMAT_SPEC.md`
+- §2 block skeleton (header + 5 dynamics + metadata); field counts 4/5/5/4/4.
+- §4 `numerical_relation` (minor pairs) + §4.1 Marseille trump table (8=Justice, 11=Strength —
+  NOT Waite; digit-reduce sums > 21).
+- §5 `elemental_primary` long form; §6 fixed `archetype_swords` per primary card.
+- §7 uid scheme; §8 prose quality bar; §9 known-drift catalog; §11 self-check; §13 validator.
+- **§14 Major Arcana combinations (Phase 2)** + §14.5 the 22 `archetype_major` lines.
 
-## Remaining Work — three tiers
+## Tooling (`pairing/`)
+- `validate.py` — mechanical conformance gate (NOT prose quality). `python3 pairing/validate.py
+  [files…]`; exit 0 = pass. **Needs the §14.3 major branch before Phase 2.**
+- `TEMPLATE.txt` — minor-pair scaffold. `TEMPLATE_major.txt` — Phase-2 scaffold.
+- Normalizers (Phase-1 legacy-drift tools; **not used in Phase 2**):
+  - `_normalize_reduced.py` — reduced tier (8/9/10/page/knight/queen): splits 2-field
+    sections into canonical sub-fields, recomputes numerical/metadata, same-suit handling.
+  - `_normalize_samesuit.py` — `*_to_swords` verbose era (5/6/7).
+  - `_normalize_ace.py` — Ace-primary files (pass dynamics through; fix header/num/positions).
+  - `_normalize_tier67.py`, `_normalize_numeric.py`, `_relabel_samesuit.py` — earlier tiers.
 
-### Tier A — quality pass (HIGH value, LOW effort, ~1-2h)
-7 cross-suit files (`5_to_wands`, `6_to_{pentacles,cups,wands}`,
-`7_to_{pentacles,cups,wands}`): replace auto-derived inhibition `key_terms`
-with hand-authored target-specific tags. Reference `5_to_cups`.
-
-### Tier B — same-suit (MEDIUM, ~3-4h)
-`5_to_swords`, `6_to_swords`, `7_to_swords`: run `_relabel_samesuit.py`,
-then author missing low-card blocks (5+Ace; 6+Ace..6+5; 7+Ace..7+6).
-
-### Tier C — reduced-format (HEAVIEST, ~8-12h+)
-24 files (`{8,9,10,page,knight,queen}_to_{4 suits}`). Reduced 2-field
-inhibition/devolution/dependency; ~50% of fields per block need authoring.
-Pace 1-2 files per session.
-
-## Gotchas & lessons
-1. **Parse-and-emit, never chained `re.sub` on a whole file** — split on
-   `\n---\n` block boundaries first, process atomically, rejoin. Avoids
-   cross-block corruption.
-2. **archetype_swords is identical across all 4 suit files** for a primary
-   (locked §6, validator-enforced). Do not invent new lines.
-3. **Position labels by pairing type:** same-suit self-pairing (King+King)
-   → `swords_position_1/_2`; all differing-card pairings → named labels
-   (`five_of_swords_position`, `ace_of_cups_position`).
-4. **Missing Ace blocks must be authored fresh** for older primaries
-   (5/6/7); use `5_to_cups` as template.
-5. **key_terms hand-authoring beats regex extraction** — concise noun
-   phrases, not sentence fragments.
+## Lessons learned (hard-won — heed these)
+1. **Validator is the source of truth for structure; run it after every file.** It maps the
+   work: issue counts cluster by drift tier. It does NOT judge prose (§8) — that stays human.
+2. **Parse-and-emit per block; never chained regex over a whole file.** Split on `\n---\n`,
+   process atomically, rejoin with `\n\n---\n\n`. The canonical separator is a blank line,
+   `---`, blank line. When inserting/authoring blocks, normalize separators or you get
+   inconsistent spacing (caught and fixed once).
+3. **`open(path,"w").write(f(path))` truncates the file before `f` reads it.** Compute the new
+   content into a variable FIRST, then open-for-write. (This bug silently emptied a file.)
+4. **Reduced sections were rich enough to SPLIT, not fabricate.** The 2-field
+   `blockade`/`consequence`, `corruption`, `integration` carried multi-clause prose; splitting
+   on the first `;`/`—` into the required sub-fields preserved real content. Prefer
+   redistribution over invention.
+5. **`key_terms` hand-authored beats regex extraction.** Concise noun phrases, 3–5, grounded
+   in the block's own mechanism and the primary card's archetype — not sentence fragments.
+   `5_to_cups` is the gold-standard exemplar. Inhibition `key_terms` were hand-authored across
+   the whole suite; match that bar in Phase 2 from the start.
+6. **`archetype_*` lines are fixed and reused verbatim** (§6 for swords, §14.5 for majors).
+   Identical across every block/file that references that card. Do not reinvent.
+7. **Marseille, not Waite:** 8 = Justice, 11 = Strength, 12 = The Hanged Man, 13 = Death,
+   14 = Temperance, 15 = The Devil. **Check every addition**; the most common past error was a
+   wrong addend or a Waite trump. Several legacy files said "8 = Strength" / "The Hanged One".
+8. **Apply key_terms with a line-based in-place pass** (track `card_pair` → section → replace
+   only the target `key_terms` line). Verify the diff touches ONLY intended lines:
+   `git diff -U0 … | grep '^[+-]' | grep -v '^[+-][+-]' | grep -vc 'key_terms:'` should be 0.
+9. **Author missing blocks in final form** and insert at the correct ordinal position
+   (validator enforces Ace→King / 0→21 order). Several files were short and needed fresh blocks.
+10. **One-shot `_author_*_keyterms.py` scripts** (keyed data + line-based patch) were created,
+    run, then deleted. The reusable normalizers were kept. Follow that convention.
 
 ## Recommended next flow
-Tier A (quick win) → Tier B → Tier C (paced). Run validator after each file;
-commit cohesive chunks; push to `claude/2-cups-pents-pairings-c2fgf4`.
+1. `python3 pairing/validate.py` → confirm 56/56.
+2. Read `FORMAT_SPEC.md` §14 end-to-end.
+3. Extend `validate.py` per §14.3; re-run, confirm 56/56 still green.
+4. Author `<card>_to_major.txt` files from `TEMPLATE_major.txt`, one at a time, validator after
+   each, committing in clear chunks. Push to the working branch; do not open a PR unless asked.

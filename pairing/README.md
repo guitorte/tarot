@@ -2,6 +2,13 @@
 
 Comprehensive jodorowskian numerological psychology framework analyzing card pairings between Cups and Wands minor arcana with all 14 Pentacles cards.
 
+> **Status (current):** The actively maintained, spec-driven work lives in `pairing/swords/`.
+> **Phase 1 (Swords × the four minor suits) is complete — 56/56 files conformant**
+> (`python3 pairing/validate.py` → exit 0). **Phase 2 (Swords × the 22 Major Arcana) is the
+> current task.** Authoritative format and the Phase-2 plan: `FORMAT_SPEC.md` (see §14).
+> Resume guide: `HANDOFF.md`. The notes below describe the older Cups/Wands→Pentacles material
+> and are not the current source of truth.
+
 ## Directory Structure
 
 ```

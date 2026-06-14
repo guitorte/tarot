@@ -386,3 +386,163 @@ Exit 0 = all checked files conformant; exit 1 = issues (printed per file/block).
 before every commit, and use it as the normalization worklist: issue count per file maps
 to the §9 drift tiers (full-field files ~40; reduced-format files 250+).
 ```
+
+---
+
+## 14. Major Arcana combinations (Phase 2 — the current work)
+
+**Status of Phase 1 (minor-suit pairings):** COMPLETE. All 56 `pairing/swords/*.txt`
+files (13 numbered+court primaries × 4 target suits, plus the 4 Ace-of-Swords-primary
+files) are spec-conformant at v1.3; `python3 pairing/validate.py` exits 0.
+
+**Phase 2 goal:** for each of the 14 Swords cards (Ace–King), add its combinations with
+all **22 Major Arcana** (The Fool 0 → The World 21). Same structured format, same five
+dynamics, same quality bar (§8). Decisions below are locked.
+
+### 14.1 File naming, count, order
+- One file per primary Swords card: `pairing/swords/<card>_to_major.txt`
+  (`ace`, `2`…`10`, `page`, `knight`, `queen`, `king`) — **14 files**.
+- **22 blocks** per file, in Marseille order **0 → 21** (The Fool first, The World last),
+  separated by `\n---\n` exactly as the minor files.
+- The Swords card is **X** (primary); the Arcanum is **Y**. Total: 14 × 22 = 308 blocks.
+
+### 14.2 Block skeleton (delta from §2)
+Identical to §2 except:
+- `archetype_major:` replaces `archetype_<suit>:` — verbatim from the §14.5 table.
+  (`archetype_swords:` is still the canonical §6 line for the primary card. The Major is
+  never "swords", so there is no `_1/_2` same-suit complication.)
+- `numerical_relation:` (LOCKED — sum & reduce): `<swords#> + <arcanum#> = <sum> (Trump; gloss)`.
+  - `<swords#>` = Swords card value (Ace=1 … King=14, §4).
+  - `<arcanum#>` = the Major's own number, **0–21** (The Fool = 0).
+  - `<sum>` = arithmetic sum; **digit-reduce sums > 21** and show it
+    (`14 + 21 = 35 → 3+5 = 8 (VIII Justice; …)`). Sum 0 (Ace? no — min is 1+0=1) never occurs.
+  - Trump = Marseille trump (§4.1) for the resolved value. Coincidence with one of the two
+    cards is fine — read it as resonance, not error.
+- `elemental_bridge:` — free clause; here "how the Swords card's air meets this arcanum's
+  force" (the Major is not elemental in the suit sense).
+- antagonism position labels: `<swords_card>_position` + `<arcanum_slug>_position`, both
+  ending `_position`. Arcanum slug = lowercased name, spaces→`_`, e.g. `the_fool_position`,
+  `the_high_priestess_position`, `justice_position`, `strength_position`, `death_position`,
+  `the_wheel_of_fortune_position`. (No self-pairing case — primary is always a Swords card.)
+- `structural_metadata`:
+  - `series_count: 22`
+  - `ontology: jodorowskian numerological psychology with major arcana graduation`
+  - `elemental_primary: air (swords) to major arcana`
+  - `numerical_axis: <swords#>-0 through <swords#>-21`
+  - `uid: <Rank>OSM`  (Rank char per §7 + `OS` + `M` for Major). E.g. 5→`5OSM`, Ace→`AOSM`,
+    King→`KOSM`, Page→`POSM`, 10→`XOSM`.
+
+Field counts per dynamic are unchanged (4/5/5/4/4). Use `pairing/TEMPLATE_major.txt`.
+
+### 14.3 Validator must be extended FIRST
+`validate.py` currently treats every `pairing/swords/*.txt` as a 14-block minor file, so the
+new `_to_major.txt` files will FAIL until the validator learns the major branch. Before
+authoring, update `validate.py` to detect `^(<rank>)_to_major\.txt$` and apply:
+22 blocks in arcana order 0–21; `archetype_major` matches the §14.5 table; numerical second
+addend = arcanum number (0–21) with the sum/reduce/trump rule; `series_count 22`;
+`elemental_primary` = `air (swords) to major arcana`; `numerical_axis` = `<n>-0 through <n>-21`;
+`uid` = `<Rank>OSM`; antagonism has exactly two `*_position` fields. Keep the existing minor
+branch untouched so the 56/56 stays green. Add a `MAJORS = [(0,"The Fool"), …]` table and an
+`ARCH_MAJOR = {…}` table mirroring §4.1 / §14.5.
+
+### 14.4 Numerical worked examples (check the arithmetic every time)
+```
+Ace + The Fool      = 1 + 0  = 1  (I The Magician; …)
+5   + The Pope (V)  = 5 + 5  = 10 (X The Wheel of Fortune; …)
+King+ The World(XXI)= 14 + 21 = 35 → 3+5 = 8 (VIII Justice; …)
+Queen + The Devil(XV)=13 + 15 = 28 → 2+8 = 10 (X The Wheel of Fortune; …)
+```
+
+### 14.5 `archetype_major` canonical table (reuse verbatim, like §6)
+Comma-separated descriptors, Marseille/Jodorowsky sense. Identical across every file that
+references that arcanum.
+
+| # | Arcanum | `archetype_major` |
+|---|---|---|
+| 0 | The Fool | The Free Wanderer, The Unbound Step, The Sacred Madness, Movement Without Map |
+| I | The Magician | The Willed Act, The Beginning Adept, The Focused Intention, Potential Taking Tools |
+| II | The High Priestess | The Silent Knowing, The Gestating Mystery, The Inner Reservoir, Wisdom Unspoken |
+| III | The Empress | The Generative Force, The Irrepressible Growth, The Abundant Creation, Life Without Permission |
+| IV | The Emperor | The Established Order, The Stable Authority, The Structured Dominion, Power Made Solid |
+| V | The Pope | The Bridge-Builder, The Transmitted Meaning, The Sacred Mediator, Spirit Made Teaching |
+| VI | The Lovers | The Decisive Bond, The Chosen Union, The Crossroads of the Heart, Love That Must Choose |
+| VII | The Chariot | The Directed Triumph, The Mastered Motion, The Conquering Will, Victory In Movement |
+| VIII | Justice | The Exact Measure, The Balanced Verdict, The Impartial Blade, Equilibrium Enforced |
+| IX | The Hermit | The Solitary Lantern, The Backward Walk, The Patient Reckoning, Wisdom Through Withdrawal |
+| X | The Wheel of Fortune | The Turning Cycle, The Impermanent Turn, The Fated Revolution, Change Beyond Control |
+| XI | Strength | The Gentle Mastery, The Tamed Power, The Quiet Conquest, Force Through Softness |
+| XII | The Hanged Man | The Suspended View, The Willing Reversal, The Fertile Surrender, Insight Through Inversion |
+| XIII | Death | The Necessary End, The Clearing Cut, The Transforming Threshold, Renewal Through Loss |
+| XIV | Temperance | The Patient Blend, The Flowing Synthesis, The Healing Measure, Harmony Through Mixing |
+| XV | The Devil | The Binding Shadow, The Material Chain, The Seductive Trap, Bondage Through Desire |
+| XVI | The Tower | The Sudden Collapse, The Shattered Structure, The Liberating Catastrophe, Truth That Breaks |
+| XVII | The Star | The Renewed Hope, The Quiet Replenishment, The Guiding Light, Faith After Ruin |
+| XVIII | The Moon | The Deceptive Night, The Unconscious Depth, The Uncertain Path, Illusion and Instinct |
+| XIX | The Sun | The Clear Joy, The Radiant Vitality, The Shared Light, Truth Made Warm |
+| XX | Judgement | The Awakening Call, The Resurrected Self, The Reckoning Summons, Rebirth Through Reckoning |
+| XXI | The World | The Completed Whole, The Integrated Dance, The Achieved Totality, Fulfillment Realized |
+
+(`XIII` is the unnamed arcanum; we use "Death" as its working name in `card_pair`,
+`archetype_major`, and the `death_position` label, matching §4.1.)
+
+### 14.6 Worked block (fully canonical)
+```
+card_pair: 5 of Swords, The Pope
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+archetype_major: The Bridge-Builder, The Transmitted Meaning, The Sacred Mediator, Spirit Made Teaching
+numerical_relation: 5 + 5 = 10 (X The Wheel of Fortune; the hollow victor meets the mediator who would reconcile)
+elemental_bridge: Air's divisive edge meets the Pope's reconciling office; the mind that wins by splitting meets the hand that joins
+threshold_type: The bitter victor brought before the mediator; conflict asked to be reconciled
+
+dynamic_genesis:
+  mechanism: The Pope's mediation gives the hollow victory a way back into relationship; reconciliation offers the victor an exit from isolation
+  process: the mediator names the cost the victory hid; the contested truth is translated into terms both sides can hold
+  outcome: a peace the victor could not reach alone; the win reframed as a bridge rather than a wall
+  key_terms: mediated peace, the named cost, win reframed, exit from isolation
+
+dynamic_antagonism:
+  mechanism: The victor's belief that someone must lose collides with the Pope's premise that both can be joined
+  tension_axis: winning by division versus reconciling by inclusion
+  five_of_swords_position: Trusts only the verdict that leaves a loser; reads mediation as weakness
+  the_pope_position: Insists the breach can be bridged; refuses to bless a victory built on a defeat
+  key_terms: division versus inclusion, distrusted mediation, the refused bridge, verdict against reconciliation
+
+dynamic_inhibition:
+  mechanism: The mediator offers terms the victor is too armored to accept; reconciliation stalls against pride
+  blockade_nature: the bridge is built but the victor will not cross it; the offer of peace cannot reach a defended heart
+  swords_state: the victor standing at the bridgehead, unwilling to lay down the won ground to meet the other side
+  consequence: the breach stays open; mediation and victory face each other unmoved
+  key_terms: the uncrossed bridge, peace refused by pride, armored against reconciliation, the open breach
+
+dynamic_devolution:
+  mechanism: The victor co-opts the mediator's language to dress domination as reconciliation
+  mode: peace-talk weaponized; the office of the bridge used to launder a one-sided win
+  loss: the integrity of mediation itself; reconciliation becomes propaganda for the victory
+  key_terms: laundered domination, weaponized peace-talk, false reconciliation, mediation corrupted
+
+dynamic_dependency:
+  mechanism: The victor needs the Pope to convert a hollow win into a livable relationship; the Pope needs the victor's hard truth to keep the peace honest
+  function: Swords-5 supplies the unflinching fact of what the conflict cost; Major-V supplies the office that turns that fact into a settlement
+  integration_outcome: a reconciliation that neither denies the wound nor leaves a loser; victory matured into a bridge that holds
+  key_terms: honest settlement, wound acknowledged, no loser left, the bridge that holds
+
+structural_metadata:
+  series_count: 22
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with major arcana graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to major arcana
+  numerical_axis: 5-0 through 5-21
+  uid: 5OSM
+```
+
+### 14.7 Workflow for Phase 2
+1. Extend `validate.py` (§14.3) and confirm the 56 minor files still pass.
+2. Author one `<card>_to_major.txt` at a time (22 blocks). Pace ~1 file per chunk; commit
+   per file or per small group with a clear message. There is **no normalizer** — these are
+   authored fresh from `TEMPLATE_major.txt`; the existing `_normalize_*.py` are for legacy
+   drift only and do not apply here.
+3. Run the validator after each file; keep prose to the §8 bar (no "becomes/reveals" filler;
+   telegraphic, concrete, semicolon-joined). `key_terms` hand-authored from the start.
+4. Definition of done for Phase 2: all 14 `<card>_to_major.txt` present and conformant
+   (14 × 22 = 308 blocks), validator exit 0 across the whole `pairing/swords/` directory.

@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the nightmare mind that has learned to distrust
   swords_state: The heart's offer is repeatedly rejected
   consequence: the cup remains undrunk; the love flows past the tormented
-  key_terms: figure cannot open, blockade is the nightmare mind, heart's offer is repeatedly rejected, cup remains undrunk
+  key_terms: the distrusting heart, the cup undrunk, the repeatedly rejected offer, love flowing past
 
 dynamic_devolution:
   mechanism: The ace of cups becomes a vision of the heartbreak the figure believes awaits them
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares create distance as a protection
   swords_state: Relationships suffer
   consequence: the beloved cannot reach the tormented; intimacy dies before it can form
-  key_terms: figure cannot be vulnerable enough, nightmares create distance, relationships suffer, beloved cannot reach the tormented
+  key_terms: vulnerability foreclosed, distance as protection, intimacy dead before forming, the unreachable beloved
 
 dynamic_devolution:
   mechanism: The two of cups becomes a prophecy of relational failure
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the presence community requires
   swords_state: The figure isolates
   consequence: they watch others celebrate and withdraw; the nightmares about being excluded become self-fulfilling
-  key_terms: figure cannot join the celebration, anxiety prevents the presence community, figure isolates, they watch others celebrate
+  key_terms: presence foreclosed, self-isolation, exclusion-nightmare self-fulfilling, withdrawal from joy
 
 dynamic_devolution:
   mechanism: The three of cups becomes evidence of a joy the tormented cannot have
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares have driven them to emotional closure
   swords_state: The figure loses touch with genuine feeling
   consequence: the numbness spreads; emotional life dies
-  key_terms: figure becomes trapped in apathy, nightmares have driven them, figure loses touch with genuine, numbness spreads
+  key_terms: nightmare-driven closure, lost touch with feeling, spreading numbness, emotional life dying
 
 dynamic_devolution:
   mechanism: The four of cups becomes a vision of the permanent future
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: both feel equally real
   swords_state: The figure lives in perpetual mourning
   consequence: the grief for anticipated losses prevents them from accepting actual losses
-  key_terms: figure cannot distinguish between real, both feel equally real, figure lives in perpetual mourning, grief for anticipated losses prevents
+  key_terms: real and feared loss indistinct, perpetual mourning, anticipated grief blocking real grief, double sorrow
 
 dynamic_devolution:
   mechanism: The five of cups becomes evidence that the nightmares are accurate
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares stand between them and their past
   swords_state: The figure loses connection to who they were before the torment
   consequence: the past becomes inaccessible
-  key_terms: figure cannot access their own, nightmares stand between them, figure loses connection, past becomes inaccessible
+  key_terms: innocent memory inaccessible, nightmares between self and past, lost connection to who one was, the foreclosed past
 
 dynamic_devolution:
   mechanism: The six of cups becomes evidence that innocence was always false
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: they cannot access genuine presence
   swords_state: The figure loses touch with the actual moment
   consequence: they live in either nightmare or fantasy; reality becomes inaccessible
-  key_terms: figure becomes trapped oscillating between, they cannot access genuine presence, figure loses touch, they live in either nightmare
+  key_terms: oscillation between nightmare and fantasy, no genuine presence, reality inaccessible, lost in unreality
 
 dynamic_devolution:
   mechanism: The nightmares and fantasies merge
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares drive the abandonment
   swords_state: The figure runs from torment only to carry it with them
   consequence: the abandonment becomes a repetition rather than a transformation
-  key_terms: figure cannot leave consciously, nightmares drive the abandonment, figure runs from torment only, abandonment becomes a repetition rather
+  key_terms: unconscious flight, torment carried along, abandonment as repetition not transformation, running that doesn't free
 
 dynamic_devolution:
   mechanism: The eight of cups becomes a prophecy of repeated abandonment
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares poison the satisfaction
   swords_state: The figure accomplishes their desires but cannot enjoy them
   consequence: the satisfaction slips away as quickly as it arrives
-  key_terms: figure cannot feel satisfied even, nightmares poison the satisfaction, figure accomplishes their desires, satisfaction slips away as quickly
+  key_terms: satisfaction poisoned, wishes fulfilled but unenjoyed, contentment slipping away, the spoiled wish
 
 dynamic_devolution:
   mechanism: The nine of cups becomes evidence of temporary delusion
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares convince them that separation is an act of love
   swords_state: The figure isolates from family
   consequence: the bonds weaken; the very thing the figure feared—loss of family—becomes self-fulfilling
-  key_terms: figure cannot accept family belonging, nightmares convince them that separation, figure isolates from family, bonds weaken
+  key_terms: separation mistaken for love, family isolation, feared loss self-fulfilling, weakening bonds
 
 dynamic_devolution:
   mechanism: The ten of cups becomes a vision of family that will be destroyed if the figure remains
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares prevent even the possibility of trust
   swords_state: The page arrives repeatedly but is turned away
   consequence: emotional communication never lands
-  key_terms: figure cannot receive the emotional, nightmares prevent even the possibility, page arrives repeatedly, emotional communication never lands
+  key_terms: trust foreclosed, the message turned away, communication that never lands, sealed against feeling
 
 dynamic_devolution:
   mechanism: The page of cups becomes evidence of danger
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares prevent trust in the beloved's perception
   swords_state: The beloved becomes frustrated
   consequence: the figure's rejection of the pursuit becomes self-fulfilling prophecy
-  key_terms: figure cannot receive the knight's, nightmares prevent trust, beloved becomes frustrated, figure's rejection of the pursuit
+  key_terms: love's perception distrusted, the frustrated beloved, rejection self-fulfilling, pursuit refused
 
 dynamic_devolution:
   mechanism: The knight of cups becomes evidence of impending betrayal
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares prevent the openness love requires
   swords_state: The figure remains untouched by care
   consequence: the love flows past them; the maternal comfort is inaccessible
-  key_terms: figure cannot receive the queen's, nightmares prevent the openness love, figure remains untouched by care, love flows past them
+  key_terms: openness foreclosed, untouched by care, maternal comfort inaccessible, love flowing past
 
 dynamic_devolution:
   mechanism: The queen of cups becomes evidence of impossible love
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares prevent any inner authority
   swords_state: The figure remains enslaved to their own emotional chaos
   consequence: the nightmares rule; peace seems impossible
-  key_terms: figure cannot achieve emotional mastery, nightmares prevent any inner authority, figure remains enslaved, nightmares rule
+  key_terms: emotional mastery foreclosed, enslaved to inner chaos, ruling nightmares, peace impossible
 
 dynamic_devolution:
   mechanism: The king of cups becomes a vision of impossible peace

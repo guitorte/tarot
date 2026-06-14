@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares prevent the confidence creation requires
   swords_state: The figure's creativity dies before it can be born
   consequence: inspiration is stillborn
-  key_terms: figure cannot kindle the creative, nightmares prevent the confidence creation, figure's creativity dies before it, inspiration is stillborn
+  key_terms: confidence foreclosed, stillborn inspiration, creativity dead before birth, fire unkindled
 
 dynamic_devolution:
   mechanism: The ace of wands becomes evidence of impossible creativity
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares reinterpret it immediately
   swords_state: The figure becomes unable to plan
   consequence: they cannot sustain belief in positive futures; vision collapses under anxiety
-  key_terms: figure cannot hold positive vision, nightmares reinterpret it immediately, figure becomes unable to plan, they cannot sustain belief
+  key_terms: positive vision reinterpreted, unable to plan, belief in good futures unsustainable, vision collapsing under anxiety
 
 dynamic_devolution:
   mechanism: The two of wands becomes evidence of false hope
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares convince them of their own incapacity
   swords_state: The figure remains in place
   consequence: the call passes unanswered; the adventure is missed
-  key_terms: figure cannot answer the call, nightmares convince them, figure remains in place, call passes unanswered
+  key_terms: the call unanswered, convinced of incapacity, staying in place, the missed adventure
 
 dynamic_devolution:
   mechanism: The three of wands becomes evidence of impossible adventure
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares prevent the rest stability requires
   swords_state: The figure remains vigilant
   consequence: they cannot enjoy what they have reached; the celebration is impossible
-  key_terms: figure cannot celebrate even when, nightmares prevent the rest stability, figure remains vigilant, they cannot enjoy what they
+  key_terms: rest foreclosed by vigilance, no enjoyment of arrival, celebration impossible, the unrested arriver
 
 dynamic_devolution:
   mechanism: The four of wands becomes evidence of false safety
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the presence genuine struggle requires
   swords_state: The figure either avoids all conflict or becomes paralyzed by exaggerated threats
   consequence: genuine struggle is impossible
-  key_terms: figure cannot engage genuinely, anxiety prevents the presence genuine, figure either avoids all conflict, genuine struggle is impossible
+  key_terms: genuine conflict foreclosed, avoidance or paralysis, exaggerated threats, struggle made impossible
 
 dynamic_devolution:
   mechanism: The five of wands becomes evidence of insurmountable opposition
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the acceptance of achievement
   swords_state: The figure achieves but does not enjoy
   consequence: the success is tainted; the victory is hollow
-  key_terms: figure cannot celebrate genuine success, anxiety prevents the acceptance, figure achieves but does, success is tainted
+  key_terms: achievement unenjoyed, success tainted, hollow victory, accomplishment unaccepted
 
 dynamic_devolution:
   mechanism: The six of wands becomes evidence of delusional success
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety undermines the confidence defense requires
   swords_state: The figure's boundaries collapse
   consequence: they lose what they were trying to protect; others violate what should have been defended
-  key_terms: figure cannot hold their own, anxiety undermines the confidence defense, figure's boundaries collapse, they lose what they were
+  key_terms: boundaries collapsing, undermined defense, what should be protected violated, lost ground
 
 dynamic_devolution:
   mechanism: The seven of wands becomes evidence of impossible defense
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety demands consideration before every action
   swords_state: The figure misses the windows of opportunity
   consequence: the moments pass while the mind deliberates; the passionate action never happens
-  key_terms: figure cannot move with spontaneous, anxiety demands consideration before every, figure misses the windows, moments pass while the mind
+  key_terms: spontaneity foreclosed, deliberation missing the window, passionate action never taken, the moment passing
 
 dynamic_devolution:
   mechanism: The eight of wands becomes evidence of lost opportunity
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares insist they are still broken
   swords_state: The figure's actual resilience is invisible to them
   consequence: the hardening goes unacknowledged
-  key_terms: figure cannot recognize the strength, nightmares insist they, figure's actual resilience is invisible, hardening goes unacknowledged
+  key_terms: built strength invisible, nightmares insisting on brokenness, unacknowledged resilience, hardening unseen
 
 dynamic_devolution:
   mechanism: The nine of wands becomes a reminder of ongoing weakness
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety makes it feel unbearable
   swords_state: The figure drops their burdens
   consequence: they abandon responsibility; the mission is surrendered
-  key_terms: figure cannot carry genuine responsibility, anxiety makes it feel unbearable, figure drops their burdens, they abandon responsibility
+  key_terms: responsibility unbearable, dropped burdens, surrendered mission, abandoned duty
 
 dynamic_devolution:
   mechanism: The ten of wands becomes evidence of impossible weight
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the openness reception requires
   swords_state: The good news is rejected or reinterpreted
   consequence: the excitement is poisoned before it can land
-  key_terms: figure cannot receive the good, anxiety prevents the openness reception, good news is rejected or, excitement is poisoned before it
+  key_terms: good news rejected, openness foreclosed, excitement poisoned, the reinterpreted message
 
 dynamic_devolution:
   mechanism: The page of wands becomes evidence of hidden threats
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the confidence the quest requires
   swords_state: The figure remains paralyzed
   consequence: the call passes unanswered; the adventure is never attempted
-  key_terms: figure cannot respond, anxiety prevents the confidence, figure remains paralyzed, call passes unanswered
+  key_terms: the call unanswered, confidence foreclosed, paralysis, adventure never attempted
 
 dynamic_devolution:
   mechanism: The knight of wands becomes evidence of impossible adventure
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the openness magnetism requires
   swords_state: The figure's creative presence remains invisible
   consequence: they lose the opportunity to inspire others; their light is wasted
-  key_terms: figure cannot radiate their creative, anxiety prevents the openness magnetism, figure's creative presence remains invisible, they lose the opportunity
+  key_terms: radiance foreclosed, invisible presence, wasted light, lost chance to inspire
 
 dynamic_devolution:
   mechanism: The queen of wands becomes evidence of unworthiness to radiate
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the confidence rule requires
   swords_state: The figure remains subordinate
   consequence: they lead but from a position of doubt; the authority is never fully embraced
-  key_terms: figure cannot claim their own, anxiety prevents the confidence rule, figure remains subordinate, they lead but from
+  key_terms: authority unclaimed, ruling from doubt, subordination, authority never embraced
 
 dynamic_devolution:
   mechanism: The king of wands becomes evidence of impossible leadership

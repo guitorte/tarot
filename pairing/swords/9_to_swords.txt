@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the investment in the nightmares
   swords_state: The clarity is rejected
   consequence: the sword is resisted; the truth cannot land
-  key_terms: figure cannot accept the truth, blockade is the investment, clarity is rejected, sword is resisted
+  key_terms: truth rejected, investment in the nightmares, the resisted sword, clarity that cannot land
 
 dynamic_devolution:
   mechanism: The ace of swords becomes a threat
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: they have chosen the stalemate
   swords_state: The figure remains frozen
   consequence: the choice not to choose becomes entrenched
-  key_terms: figure cannot move despite, they have chosen the stalemate, figure remains frozen, choice not to choose
+  key_terms: chosen stalemate, frozen despite the opening, entrenched non-choice, refusal to move
 
 dynamic_devolution:
   mechanism: The two of swords becomes a vision of perpetual stalemate
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: The figure cannot distinguish between grieving what is and grieving what is feared
   swords_state: The figure carries double grief
   consequence: the nightmares have already extracted their toll
-  key_terms: figure cannot distinguish between grieving, figure carries double grief, nightmares have already extracted
+  key_terms: grieving what is and what is feared, double grief, the toll already extracted, sorrow doubled
 
 dynamic_devolution:
   mechanism: The three of swords becomes validation of the nightmares' accuracy
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares will not stop
   swords_state: The figure becomes increasingly depleted
   consequence: the body demands rest the mind refuses to give
-  key_terms: figure cannot rest despite, nightmares will not stop, figure becomes increasingly depleted, body demands rest the mind
+  key_terms: rest refused by the relentless mind, deepening depletion, body demanding what mind denies, exhaustion without respite
 
 dynamic_devolution:
   mechanism: The four of swords becomes torture
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares continue despite achievement
   swords_state: The victory is enjoyed from a position of ongoing suffering
   consequence: the achievement is tainted by internal torture
-  key_terms: figure cannot rest, nightmares continue despite achievement, victory is enjoyed from, achievement is tainted by internal
+  key_terms: success without rest, ongoing suffering amid victory, achievement tainted by torture, the hollow win
 
 dynamic_devolution:
   mechanism: The five of swords becomes evidence that victory will not heal the nightmares
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The figure departs but the nightmares travel with them
   swords_state: The figure arrives in the new place only to find the torment continues
   consequence: the departure becomes another confirmation of helplessness
-  key_terms: figure departs but the nightmares, figure arrives in the new, departure becomes another confirmation
+  key_terms: nightmares that travel along, torment continuing in the new place, departure confirming helplessness, no escape by moving
 
 dynamic_devolution:
   mechanism: The six of swords becomes a prophecy of repeated failure
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: dishonesty cannot quiet them
   swords_state: The figure becomes doubly trapped
   consequence: by the nightmares and by the deceptions they have created
-  key_terms: figure attempts deception, dishonesty cannot quiet them, figure becomes doubly trapped, by the nightmares
+  key_terms: deception that cannot quiet the nightmares, doubly trapped, lies compounding torment, the relentless mind
 
 dynamic_devolution:
   mechanism: The seven of swords becomes a temptation that fails
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: the bondage confirms them
   swords_state: The figure loses hope that the torment was only mental
   consequence: the bondage proves the nightmares were right
-  key_terms: figure cannot escape the recognition, bondage confirms them, figure loses hope, bondage proves the nightmares were
+  key_terms: nightmares confirmed by bondage, hope that it was only mental lost, the nightmares proven right, doubled imprisonment
 
 dynamic_devolution:
   mechanism: The eight of swords becomes a vision of inevitable bondage
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The figures cannot free each other from the nightmares
   swords_state: The recognition of shared suffering is both comforting and limiting
   consequence: they remain together in torment
-  key_terms: figures cannot free each other, recognition of shared suffering, they remain together in torment
+  key_terms: two who cannot free each other, shared suffering comforting and limiting, together in torment, mutual helplessness
 
 dynamic_devolution:
   mechanism: The meeting becomes confirmation that the nightmares are inescapable
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The figure cannot escape the pull toward ending while the nightmares continue
   swords_state: The figure becomes at risk of suicide
   consequence: the nightmares have created a path to destruction
-  key_terms: figure cannot escape the pull, figure becomes at risk, nightmares have created a path
+  key_terms: the pull toward ending, nightmares carving a path to destruction, despair at the slide, suicide risk
 
 dynamic_devolution:
   mechanism: The ten of swords becomes the answer to the nightmares
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: the old nightmare patterns resist
   swords_state: The new idea is received but not integrated
   consequence: the old nightmare patterns reassert themselves
-  key_terms: figure cannot fully integrate, old nightmare patterns resist, new idea is received, old nightmare patterns reassert themselves
+  key_terms: new thought unintegrated, old nightmare patterns resisting, idea received not held, patterns reasserting
 
 dynamic_devolution:
   mechanism: The page of swords becomes evidence that change is impossible
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: they remain in victim consciousness
   swords_state: The figure continues to be tormented without understanding
   consequence: no movement toward truth occurs
-  key_terms: figure cannot engage actively, they remain in victim consciousness, figure continues to be tormented, no movement toward truth occurs
+  key_terms: victim consciousness, no active engagement, torment without understanding, no movement toward truth
 
 dynamic_devolution:
   mechanism: The knight of swords becomes evidence of impossible courage
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: the cloud is too thick
   swords_state: The figure remains confused
   consequence: clarity seems impossible
-  key_terms: figure cannot access clarity, cloud is too thick, figure remains confused, clarity seems impossible
+  key_terms: clarity foreclosed by the thick cloud, remaining confused, discernment impossible, the obscured mind
 
 dynamic_devolution:
   mechanism: The queen of swords becomes evidence of impossible wisdom
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: The figure cannot achieve mastery while believing the nightmares are reality
   swords_state: The figure remains enslaved to the thought patterns
   consequence: The figure remains enslaved to the thought patterns
-  key_terms: figure cannot achieve mastery, figure remains enslaved, held tension
+  key_terms: mastery foreclosed while nightmares seem real, enslaved to thought patterns, no sovereignty over the mind, ruled by the torment
 
 dynamic_devolution:
   mechanism: The king of swords becomes evidence of impossible mastery

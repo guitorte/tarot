@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the torment itself—the nightmares run too deep
   swords_state: The gift is rejected or squandered because the mind cannot believe in its value
   consequence: the abundance is transformed into evidence of future loss
-  key_terms: figure cannot open, blockade is the torment itself, gift is rejected or squandered, abundance is transformed into evidence
+  key_terms: gift unbelievable, abundance read as future loss, the squandered blessing, nightmares too deep
 
 dynamic_devolution:
   mechanism: The ace of pentacles becomes evidence of cosmic cruelty
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: the torment prevents the calm necessary for juggling
   swords_state: Everything the figure touches becomes chaotic
   consequence: the very anxiety of balance-seeking generates imbalance
-  key_terms: figure cannot achieve balance, torment prevents the calm necessary, everything the figure touches, very anxiety of balance-seeking generates
+  key_terms: anxiety generating imbalance, no calm for juggling, everything turned chaotic, balance-seeking that unbalances
 
 dynamic_devolution:
   mechanism: The two of pentacles becomes a prophecy of inevitable loss
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the anxiety itself
   swords_state: The figure isolates more deeply
   consequence: the nightmares about rejection become self-fulfilling as the figure withdraws
-  key_terms: figure cannot participate, blockade is the anxiety itself, figure isolates more deeply, nightmares about rejection become self-fulfilling
+  key_terms: anxiety barring the guild, deepening isolation, rejection-nightmare self-fulfilling, withdrawal
 
 dynamic_devolution:
   mechanism: The three of pentacles becomes evidence of belonging that will never be theirs
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares have created a logic of scarcity
   swords_state: The figure becomes increasingly trapped in defensive possession
   consequence: they lose the capacity for generosity; the hoarding intensifies
-  key_terms: figure cannot release their grip, nightmares have created a logic, figure becomes increasingly trapped, they lose the capacity for
+  key_terms: scarcity-logic of nightmares, the grip that feels justified, defensive possession, hoarding intensified
 
 dynamic_devolution:
   mechanism: The four of pentacles becomes a prophecy of permanent desperation
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: the torment is proportional to actual danger
   swords_state: The figure remains trapped in anxiety about material survival
   consequence: they cannot rest because the danger is present
-  key_terms: figure cannot escape the anxiety, torment is proportional to actual, figure remains trapped in anxiety, they cannot rest because
+  key_terms: anxiety proportional to real danger, no rest while threat is present, trapped in survival fear, torment that is warranted
 
 dynamic_devolution:
   mechanism: The five of pentacles becomes a prophecy the figure cannot escape
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the anxiety itself
   swords_state: The figure becomes trapped in withholding
   consequence: the generosity dies inside them; they lose the joy of giving
-  key_terms: figure cannot give even when, blockade is the anxiety itself, figure becomes trapped in withholding, generosity dies inside them
+  key_terms: giving foreclosed by anxiety, withholding, the dying joy of giving, generosity that dies inside
 
 dynamic_devolution:
   mechanism: The six of pentacles becomes evidence of a vulnerability the tormented cannot afford
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares consume all mental energy
   swords_state: The figure abandons investments prematurely
   consequence: the very anxiety of waiting makes them quit before harvest
-  key_terms: figure cannot maintain faith, nightmares consume all mental energy, figure abandons investments prematurely, very anxiety of waiting makes
+  key_terms: faith in long labor consumed, quitting before harvest, premature abandonment, the anxiety of waiting
 
 dynamic_devolution:
   mechanism: The seven of pentacles becomes a torture of uncertainty
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: the nightmares interrupt every attempt at concentration
   swords_state: The figure's skills atrophy
   consequence: they cannot develop mastery; the craft remains forever beyond their reach
-  key_terms: figure cannot achieve focus, nightmares interrupt every attempt at, figure's skills atrophy, they cannot develop mastery
+  key_terms: focus shattered by nightmares, atrophied skill, mastery forever out of reach, broken concentration
 
 dynamic_devolution:
   mechanism: The eight of pentacles becomes a torture of inattention
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the sustained effort
   swords_state: The figure remains trapped in precarity
   consequence: the very anxiety about independence prevents them from working toward it
-  key_terms: figure cannot build toward independence, anxiety prevents the sustained effort, figure remains trapped in precarity, very anxiety about independence prevents
+  key_terms: anxiety blocking sustained effort, trapped in precarity, independence prevented by fear of it, self-defeating worry
 
 dynamic_devolution:
   mechanism: The nine of pentacles becomes a vision of security that will never be theirs
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the openness family requires
   swords_state: The figure isolates themselves
   consequence: the very fear of breaking the lineage causes them to break it
-  key_terms: figure cannot participate, anxiety prevents the openness family, figure isolates themselves, very fear of breaking
+  key_terms: openness foreclosed, self-isolation, fear of breaking the lineage that breaks it, self-fulfilling separation
 
 dynamic_devolution:
   mechanism: The ten of pentacles becomes a prophecy of family failure
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the vulnerability learning requires
   swords_state: The figure becomes locked in ignorance
   consequence: the opportunity to learn passes; the potential atrophies
-  key_terms: figure cannot receive instruction, anxiety prevents the vulnerability learning, figure becomes locked in ignorance, opportunity to learn passes
+  key_terms: vulnerability foreclosed, locked in ignorance, atrophied potential, the missed lesson
 
 dynamic_devolution:
   mechanism: The page of pentacles becomes evidence of the figure's incapacity
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety disrupts every attempt at steady effort
   swords_state: The figure's projects are abandoned
   consequence: the work remains unfinished; the building never completes
-  key_terms: figure cannot maintain work, anxiety disrupts every attempt at, figure's projects are abandoned, work remains unfinished
+  key_terms: steady effort disrupted, abandoned projects, unfinished work, the building never completed
 
 dynamic_devolution:
   mechanism: The knight of pentacles becomes evidence of a discipline the figure cannot maintain
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the openness care requires
   swords_state: The figure isolates
   consequence: they withdraw from those who might need them; the nurturing dies inside them
-  key_terms: figure cannot nurture even if, anxiety prevents the openness care, figure isolates, they withdraw from those
+  key_terms: care foreclosed by anxiety, withdrawal from the needy, nurturing that dies inside, self-isolation
 
 dynamic_devolution:
   mechanism: The queen of pentacles becomes a vision of nurturing the figure cannot provide
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: the anxiety prevents the confidence rule requires
   swords_state: The figure becomes helpless
   consequence: they cannot direct anything; their own life remains ungoverned
-  key_terms: figure cannot establish any authority, anxiety prevents the confidence rule, figure becomes helpless, they cannot direct anything
+  key_terms: confidence foreclosed, helplessness, the ungoverned life, nothing directed
 
 dynamic_devolution:
   mechanism: The king of pentacles becomes a vision of power the tormented will never have

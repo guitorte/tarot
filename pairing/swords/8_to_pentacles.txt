@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: the pentacle amplifies the sense of constraint rather than relieving it
   swords_state: The appearance of opportunity deepens hopelessness
   consequence: the figure knows what they lack but cannot move toward it; despair at the gap between desire and capacity
-  key_terms: bound figure becomes paralyzed, pentacle amplifies the sense, appearance of opportunity deepens hopelessness, figure knows what they lack
+  key_terms: unreachable gift, paralysis before plenty, the visible treasure locked away, despair at the gap
 
 dynamic_devolution:
   mechanism: The gift becomes poisoned in perception
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: every movement toward equilibrium is thwarted
   swords_state: Failed juggling
   consequence: the figure drops the pentacles; the balance they attempt becomes collapse; frustration compounds the imprisonment
-  key_terms: bound figure attempts to balance, every movement toward equilibrium, failed juggling, figure drops the pentacles
+  key_terms: thwarted balance, bindings that prevent the pivot, dropped pentacles, collapse compounding imprisonment
 
 dynamic_devolution:
   mechanism: The pursuit of balance becomes obsession
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is not just physical but social—they are prevented from entering the collective
   swords_state: Skills atrophy in isolation
   consequence: the craft knowledge remains unutilized; the figure becomes a ghost watching work happen without them
-  key_terms: bound figure cannot bring, blockade is not just physical, skills atrophy in isolation, craft knowledge remains unutilized
+  key_terms: skills barred from the guild, social as well as physical blockade, atrophy in isolation, the ghost watching work
 
 dynamic_devolution:
   mechanism: The craft becomes bitter in conception
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the contradiction—to cling requires freedom of grip; the bonds prevent the very clutching the fear demands
   swords_state: Frustrated defensiveness
   consequence: the figure cannot even defend their meager possessions; the fear of loss intensifies the bondage
-  key_terms: figure wants to hoard, blockade is the contradiction, frustrated defensiveness, figure cannot even defend
+  key_terms: hoarding without grip, clutching while bound, frustrated defensiveness, fear intensifying bondage
 
 dynamic_devolution:
   mechanism: The four pentacles become a tyrant's fantasy—the figure imagines possessions but cannot secure them
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: the blockade expands—they are not only bound but also witnessing poverty and powerless to change it; empathy becomes its own imprisonment
   swords_state: The bound figure despairs not only for themselves but for the seen suffering of others
   consequence: the constraint becomes a window onto greater suffering
-  key_terms: figure in bondage cannot move, blockade expands, bound figure despairs not only, constraint becomes a window onto
+  key_terms: bound and witnessing poverty, empathy as imprisonment, powerless before others' suffering, the constraint as window onto pain
 
 dynamic_devolution:
   mechanism: The bound figure begins to believe their bondage is not temporary but permanent
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: the bindings prevent the open-handed gesture; the blockade is spiritual as much as physical
   swords_state: The figure loses the sense of their own capacity to contribute
   consequence: they become a taker only, never a giver; the identity of "one who offers" is severed
-  key_terms: figure cannot give even if, bindings prevent the open-handed gesture, figure loses the sense, they become a taker only
+  key_terms: giving made impossible, the severed open hand, taker who cannot offer, identity of giver lost
 
 dynamic_devolution:
   mechanism: The six pentacles become bitter in perception
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is both physical and psychological—the bondage prevents the vision of a future harvest
   swords_state: The figure abandons any attempt at sustained labor
   consequence: they live only in immediate necessity; the seven pentacles wither because no one tends them
-  key_terms: figure cannot invest in long-term, blockade is both physical, figure abandons any attempt at, they live only in immediate
+  key_terms: no investment in a harvest, future-vision foreclosed, abandoned long labor, the pentacles left to wither
 
 dynamic_devolution:
   mechanism: The patience of the seven pentacles becomes a torment
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: the blockade prevents the development that could come through chosen discipline; the hands are bound at the very moment they could become skilled
   swords_state: The figure loses the sense that their bondage could have meaning
   consequence: they see in the apprentice what they might have become if the constraint were different
-  key_terms: figure wants to practice, blockade prevents the development, figure loses the sense, they see in the apprentice
+  key_terms: discipline foreclosed, hands bound at the moment of skill, meaning drained from bondage, what might have been
 
 dynamic_devolution:
   mechanism: The apprentice's mastery becomes a wound
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: the blockade prevents the accumulation that leads to the nine pentacles
   swords_state: The figure loses the sense that effort could lead anywhere
   consequence: they become passive, unable to imagine a future of their own making
-  key_terms: figure cannot work toward, blockade prevents the accumulation, figure loses the sense, they become passive
+  key_terms: independence unreachable, accumulation foreclosed, effort that leads nowhere, passivity before the future
 
 dynamic_devolution:
   mechanism: The nine pentacles become a vision of cosmic injustice
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: the blockade prevents both reception and transmission
   swords_state: The figure becomes isolated across generations
   consequence: they are orphaned in time; the family circle cannot include them
-  key_terms: figure cannot receive the wisdom, blockade prevents both reception, figure becomes isolated across generations, they are orphaned in time
+  key_terms: orphaned in time, neither reception nor transmission, severed from the lineage, no place in the family circle
 
 dynamic_devolution:
   mechanism: The family legacy becomes a wound
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is psychological—the bound become defensive, resistant, unable to trust teaching
   swords_state: The figure loses the capacity to be taught
   consequence: they become hardened; the potential for growth crystallizes into rigidity
-  key_terms: figure cannot learn even if, blockade is psychological, figure loses the capacity, they become hardened
+  key_terms: unteachable defensiveness, trust foreclosed, growth crystallized into rigidity, the hardened learner
 
 dynamic_devolution:
   mechanism: The page of pentacles becomes a reminder of squandered opportunity
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: even if they attempt labor, the blockade prevents its accumulation; effort becomes meaningless
   swords_state: The figure becomes exhausted by the futility of their struggle
   consequence: they give up attempting anything; despair replaces the drive to work
-  key_terms: figure cannot work toward, even if they attempt labor, figure becomes exhausted, they give up attempting anything
+  key_terms: futile labor, effort without accumulation, exhaustion of struggle, despair replacing drive
 
 dynamic_devolution:
   mechanism: The knight's steadiness becomes a taunt
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the turning-inward forced by survival; bondage makes generosity psychologically impossible
   swords_state: The figure loses the sense of their capacity to nourish
   consequence: they become defined as a taker; the identity of nurturer is severed
-  key_terms: figure cannot offer care even, blockade is the turning-inward forced, figure loses the sense, they become defined
+  key_terms: care made impossible, survival's turning-inward, nurturer reduced to taker, severed capacity to nourish
 
 dynamic_devolution:
   mechanism: The queen's generosity becomes a wound
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: not over their circumstance, not over their future, not even over their own will; the blockade is total powerlessness
   swords_state: The figure loses any sense of their own agency
   consequence: they become a subject in someone else's domain; the capacity for authority crystallizes into complete submission
-  key_terms: figure cannot establish any authority, not over their circumstance, figure loses any sense, they become a subject
+  key_terms: total powerlessness, no authority over self or circumstance, agency lost, crystallized submission
 
 dynamic_devolution:
   mechanism: The king becomes a symbol of cosmic injustice

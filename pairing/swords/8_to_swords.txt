@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the psychological investment in the narrative of powerlessness
   swords_state: The clarity becomes torture
   consequence: the figure sees the truth but cannot act on it; the sword becomes a wound that cuts but does not free
-  key_terms: figure cannot integrate the truth, blockade is the psychological investment, clarity becomes torture, figure sees the truth
+  key_terms: truth that cannot be acted on, investment in powerlessness, clarity become torture, the sword that wounds but won't free
 
 dynamic_devolution:
   mechanism: The truth becomes weaponized
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: they begin to maintain their own bondage through psychological stalemate
   swords_state: The figure loses the distinction between being bound externally and being bound internally
   consequence: they internalize the constraint as if it were their own choice
-  key_terms: figure becomes trapped, they begin to maintain, figure loses the distinction between, they internalize the constraint
+  key_terms: self-maintained bondage, psychological stalemate, external and internal binding blurred, constraint internalized as choice
 
 dynamic_devolution:
   mechanism: The two of swords becomes a mirror of the future
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the enforced silence—the prisoner learns that expression is dangerous
   swords_state: The pain becomes internalized and turns toxic
   consequence: the figure's suffering compounds because it cannot be processed through voice
-  key_terms: figure cannot give voice, blockade is the enforced silence, pain becomes internalized and turns, figure's suffering compounds because it
+  key_terms: pain barred from voice, enforced silence, expression learned as dangerous, suffering that compounds unspoken
 
 dynamic_devolution:
   mechanism: The three of swords becomes a vision of pain properly expressed
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is that rest requires the knowledge that movement is possible; the bound cannot rest because they are always paralyzed
   swords_state: The figure becomes depleted by the meaningless stillness
   consequence: they lose the restorative quality of rest because there is nothing to recover from except the constraint itself
-  key_terms: figure cannot experience true rest, blockade is that rest requires, figure becomes depleted, they lose the restorative quality
+  key_terms: rest without recovery, stillness that is paralysis not peace, depletion in meaningless stillness, nothing to recover from but the chains
 
 dynamic_devolution:
   mechanism: The four of swords becomes a vision of peace the bound cannot have
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: nor can the victor escape in victory; the blockade is the system that makes all outcomes hollow
   swords_state: Both become trapped in endless cycles
   consequence: the prisoner's next phase might be victorious, but the victory will be as empty as the defeat
-  key_terms: figure cannot escape even, nor can the victor escape, both become trapped in endless, prisoner's next phase might be
+  key_terms: hollow defeat and hollow victory, the system that empties all outcomes, both trapped in cycles, victory as empty as defeat
 
 dynamic_devolution:
   mechanism: The five of swords becomes a prophecy
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the physical constraint
   swords_state: The figure becomes more aware of what they lack
   consequence: watching departure deepens the wound of immobility
-  key_terms: figure cannot follow the traveler, blockade is the physical constraint, figure becomes more aware, watching departure deepens the wound
+  key_terms: the traveler unfollowed, physical constraint, awareness of what is lacked, departure deepening the wound
 
 dynamic_devolution:
   mechanism: The six of swords becomes a vision of escape the bound cannot have
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is internal—they have internalized the morality of the system; they believe honesty is a virtue even in bondage
   swords_state: The figure remains imprisoned partly through their own ethical commitment
   consequence: the thief shows them a freedom they refuse
-  key_terms: figure cannot use deception even, blockade is internal, figure remains imprisoned partly through, thief shows them a freedom
+  key_terms: deception refused even to escape, internalized morality of the system, honesty in bondage, freedom refused
 
 dynamic_devolution:
   mechanism: The seven of swords becomes a temptation
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the external system that constrains both; neither has the power to break the other's chains
   swords_state: The prisoners may comfort each other but cannot liberate each other
   consequence: the recognition becomes both comfort and deeper wound—they are together in helplessness
-  key_terms: two bound cannot free each, blockade is the external system, prisoners may comfort each other, recognition becomes both comfort
+  key_terms: two bound, neither frees the other, the shared external system, comfort that cannot liberate, together in helplessness
 
 dynamic_devolution:
   mechanism: The recognition of shared bondage deepens despair
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: each day of constraint deepens the psychological wound
   swords_state: The figure becomes increasingly tormented internally
   consequence: the body may eventually be freed but the mind remains imprisoned; the chains become internal
-  key_terms: figure cannot escape the progression, each day of constraint deepens, figure becomes increasingly tormented internally, body may eventually be freed
+  key_terms: bondage deepening into torment, each day a deeper wound, the mind imprisoned past the body, internalized chains
 
 dynamic_devolution:
   mechanism: The nine of swords becomes the prophecy of the eight
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: the bondage leads steadily toward the ten of swords unless interrupted
   swords_state: The figure despairs as they sense the progression toward annihilation
   consequence: The figure despairs as they sense the progression toward annihilation
-  key_terms: figure cannot escape the progression, bondage leads steadily toward, figure despairs as they sense
+  key_terms: the progression toward annihilation, bondage steady toward ruin, despair at the slide, the uninterrupted end
 
 dynamic_devolution:
   mechanism: The ten of swords becomes a prophecy of the bound
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the habit of seeing through the lens of bondage
   swords_state: The page's message arrives but the prisoner is partially deaf to it
   consequence: hope flickers but doesn't take root
-  key_terms: figure cannot fully integrate, blockade is the habit, page's message arrives, hope flickers but doesn't take
+  key_terms: the new thought half-heard, habit of the bondage-lens, message that won't take root, flickering hope
 
 dynamic_devolution:
   mechanism: The page of swords becomes a tease
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the limited consciousness available to the bound—all mental energy goes to survival
   swords_state: The figure becomes intellectually stagnant
   consequence: their mind crystallizes; they lose the capacity for intellectual growth
-  key_terms: figure cannot pursue truth even, blockade is the limited consciousness, figure becomes intellectually stagnant, their mind crystallizes
+  key_terms: truth unpursued, all energy spent on survival, intellectual stagnation, the crystallized mind
 
 dynamic_devolution:
   mechanism: The knight of swords becomes a vision of who the figure could have been
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is the bondage itself—consciousness is too consumed with constraint to achieve discernment
   swords_state: The figure becomes trapped in confusion
   consequence: they lose the capacity to think clearly about anything, including their own situation
-  key_terms: figure cannot achieve clarity even, blockade is the bondage itself, figure becomes trapped in confusion, they lose the capacity
+  key_terms: clarity unreachable, consciousness consumed by constraint, trapped in confusion, no clear thought of one's own plight
 
 dynamic_devolution:
   mechanism: The queen of swords becomes a vision of wisdom the bound cannot achieve
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: the blockade is complete—the mind itself is imprisoned
   swords_state: The figure loses any sense of being an authority over anything
   consequence: they become a subject of their own bondage
-  key_terms: figure cannot achieve intellectual sovereignty, blockade is complete, figure loses any sense, they become a subject
+  key_terms: intellectual sovereignty foreclosed, the imprisoned mind, no authority over anything, subject of one's own bondage
 
 dynamic_devolution:
   mechanism: The king of swords becomes a symbol of cosmic injustice

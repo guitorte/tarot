@@ -1,7 +1,7 @@
 card_pair: 10 of Swords, Ace of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Gift Offered, The Seed Manifest, The Threshold of Plenty, Material Arrival
-numerical_relation: 10 + 1 = 11; the ruin meets the gift; absolute loss before potential abundance
+numerical_relation: 10 + 1 = 11 (XI Strength; the ruin meets the gift; absolute loss before potential abundance)
 elemental_bridge: Air (complete devastation) meets Earth (material manifestation); the destroyed cannot receive
 threshold_type: The moment when the utterly defeated face the offer they cannot accept
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Gift to the destroyed, hardened refusal, openness lost, devastation resistant
 
 dynamic_inhibition:
-  blockade: The figure cannot open to the gift; the devastation has sealed them against it
-  consequence: The pentacle is rejected; the figure's ruin seems absolute and permanent
+  mechanism: The figure cannot open to the gift
+  blockade_nature: the devastation has sealed them against it
+  swords_state: The pentacle is rejected
+  consequence: the figure's ruin seems absolute and permanent
+  key_terms: figure cannot open, devastation has sealed them against, pentacle is rejected, figure's ruin seems absolute
 
 dynamic_devolution:
-  corruption: The ace of pentacles becomes evidence of cosmic cruelty; the gift appears only after all has been lost
+  mechanism: The ace of pentacles becomes evidence of cosmic cruelty
+  mode: the gift appears only after all has been lost
   loss: The figure loses the capacity to believe in redemption; the ruin seems irreversible
+  key_terms: gift appears only after all, figure loses the capacity, ace of pentacles becomes evidence
 
 dynamic_dependency:
-  integration: The ruin teaches what the pentacle truly means; the figure, stripped of everything, learns the value of a new beginning; when the devastation settles into acceptance, the gift can finally be received; the absolute loss becomes the doorway to genuine abundance
-  outcome: The ace of pentacles reaches the figure who has survived complete devastation; the new beginning is possible precisely because everything has ended; the gift is received with awareness that only total loss could teach
+  mechanism: The ruin teaches what the pentacle truly means
+  function: the figure, stripped of everything, learns the value of a new beginning; when the devastation settles into acceptance, the gift can finally be received; the absolute loss becomes the doorway to genuine abundance
+  integration_outcome: The ace of pentacles reaches the figure who has survived complete devastation; the new beginning is possible precisely because everything has ended; the gift is received with awareness that only total loss could teach
+  key_terms: ace of pentacles reaches, ruin teaches what the pentacle, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, 2 of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Juggler, The Balancer, The Dual Flow, Exchange Mastered
-numerical_relation: 10 + 2 = 12; the ruin meets the dance of balance
+numerical_relation: 10 + 2 = 12 (XII The Hanged Man; the ruin meets the dance of balance)
 elemental_bridge: Air (all is lost) meets Earth (dynamic balance); the destroyed cannot juggle
 threshold_type: The moment when absolute loss prevents any recovery of balance
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Permanent loss, recovery denied, balance impossible, restoration unimaginable
 
 dynamic_inhibition:
-  blockade: The figure cannot recover balance; the devastation is too complete
-  consequence: The figure remains in ruin; the possibility of recovery seems fantasy
+  mechanism: The figure cannot recover balance
+  blockade_nature: the devastation is too complete
+  swords_state: The figure remains in ruin
+  consequence: the possibility of recovery seems fantasy
+  key_terms: figure cannot recover balance, devastation is too complete, figure remains in ruin, possibility of recovery seems fantasy
 
 dynamic_devolution:
-  corruption: The two of pentacles becomes a vision of the recovery that will never happen; the figure imagines returning to balance but knows it is impossible
+  mechanism: The two of pentacles becomes a vision of the recovery that will never happen
+  mode: the figure imagines returning to balance but knows it is impossible
   loss: The figure loses all hope of recovery; they internalize the ruin as permanent and irreversible
+  key_terms: figure imagines returning to balance, figure loses all hope, two of pentacles
 
 dynamic_dependency:
-  integration: The ruin teaches the value of balance through its absolute absence; the figure, stripped of all equilibrium, learns what balance truly means; when enough time passes and the shock settles, small movements toward recovery become possible; the devastation becomes the ground from which new balance will eventually be built
-  outcome: The two of pentacles eventually welcomes the figure who has survived absolute ruin; the recovery is possible only because the devastation has been fully experienced; the new balance is earned through having lost everything
+  mechanism: The ruin teaches the value of balance through its absolute absence
+  function: the figure, stripped of all equilibrium, learns what balance truly means; when enough time passes and the shock settles, small movements toward recovery become possible; the devastation becomes the ground from which new balance will eventually be built
+  integration_outcome: The two of pentacles eventually welcomes the figure who has survived absolute ruin; the recovery is possible only because the devastation has been fully experienced; the new balance is earned through having lost everything
+  key_terms: two of pentacles eventually welcomes, ruin teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, 3 of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Craftsman, The Guild Mason, The Collaborative Work, Mastery Shared
-numerical_relation: 10 + 3 = 13; the ruin meets community and craft
+numerical_relation: 10 + 3 = 13 (XIII Death; the ruin meets community and craft)
 elemental_bridge: Air (total isolation from destruction) meets Earth (connected work); the ruined are excluded from community
 threshold_type: The moment when devastation isolates from the possibility of community
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Exile imposed, belonging lost, community denied, guild excluded
 
 dynamic_inhibition:
-  blockade: The figure cannot return to community; the ruin is visible evidence of their fall
-  consequence: The figure remains isolated; the guild remains closed to them
+  mechanism: The figure cannot return to community
+  blockade_nature: the ruin is visible evidence of their fall
+  swords_state: The figure remains isolated
+  consequence: the guild remains closed to them
+  key_terms: figure cannot return to community, ruin is visible evidence, figure remains isolated, guild remains closed to them
 
 dynamic_devolution:
-  corruption: The three of pentacles becomes a vision of the community forever lost; the figure imagines returning but knows they have been expelled
+  mechanism: The three of pentacles becomes a vision of the community forever lost
+  mode: the figure imagines returning but knows they have been expelled
   loss: The figure loses the belief they could ever be part of community again; they internalize the exile as permanent
+  key_terms: figure imagines returning but knows, figure loses the belief they, three of pentacles
 
 dynamic_dependency:
-  integration: The ruin teaches the value of community through absolute loss; the figure, isolated and destroyed, understands with clarity what belonging means; when enough healing occurs and shame begins to release, the possibility of community returns; the devastation becomes the ground of genuine belonging because humiliation has been survived
-  outcome: The three of pentacles eventually welcomes the figure whose ruin has humbled them; the community receives them with understanding earned through their own devastation; the craft becomes sacred because it has been lost and found again
+  mechanism: The ruin teaches the value of community through absolute loss
+  function: the figure, isolated and destroyed, understands with clarity what belonging means; when enough healing occurs and shame begins to release, the possibility of community returns; the devastation becomes the ground of genuine belonging because humiliation has been survived
+  integration_outcome: The three of pentacles eventually welcomes the figure whose ruin has humbled them; the community receives them with understanding earned through their own devastation; the craft becomes sacred because it has been lost and found again
+  key_terms: three of pentacles eventually welcomes, ruin teaches the value, held tension
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, 4 of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Hoarder, The Fortress Keeper, The Clutching Miser, Possession Defended
-numerical_relation: 10 + 4 = 14; the ruin meets the clenched grip
+numerical_relation: 10 + 4 = 14 (XIV Temperance; the ruin meets the clenched grip)
 elemental_bridge: Air (total loss) meets Earth (desperate hoarding); the ruined have nothing left to cling to
 threshold_type: The moment when devastation removes all possibility of defending possessions
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Empty hands, nothing to cling to, defense obsolete, possession stripped
 
 dynamic_inhibition:
-  blockade: The figure has nothing to defend; the devastation is absolute
-  consequence: The figure exists in complete emptiness; the psychological defense of hoarding becomes impossible
+  mechanism: The figure has nothing to defend
+  blockade_nature: the devastation is absolute
+  swords_state: The figure exists in complete emptiness
+  consequence: the psychological defense of hoarding becomes impossible
+  key_terms: figure has nothing to defend, devastation is absolute, figure exists in complete emptiness, psychological defense of hoarding
 
 dynamic_devolution:
-  corruption: The four of pentacles becomes a memory of what was lost; the figure grieves the possessions that are gone
+  mechanism: The four of pentacles becomes a memory of what was lost
+  mode: the figure grieves the possessions that are gone
   loss: The figure loses all sense of security through possession; they understand that all material things can vanish
+  key_terms: figure grieves the possessions, figure loses all sense, four of pentacles
 
 dynamic_dependency:
-  integration: The ruin teaches what true security means; the figure learns through the loss of everything that security cannot come from possession; when the grip finally releases because there is nothing to hold, a strange freedom becomes possible; the devastation becomes the gateway to understanding that some securities are internal; the emptiness becomes space for new understanding
-  outcome: The four of pentacles eventually teaches the figure that what matters cannot be lost; the ruin has stripped away the illusion; the figure learns through devastation what true possession means
+  mechanism: The ruin teaches what true security means
+  function: the figure learns through the loss of everything that security cannot come from possession; when the grip finally releases because there is nothing to hold, a strange freedom becomes possible; the devastation becomes the gateway to understanding that some securities are internal; the emptiness becomes space for new understanding
+  integration_outcome: The four of pentacles eventually teaches the figure that what matters cannot be lost; the ruin has stripped away the illusion; the figure learns through devastation what true possession means
+  key_terms: figure learns through the loss, four of pentacles eventually teaches, ruin teaches what true security
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, 5 of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Outcasts, The Impoverished Pilgrims, The Excluded Poor, Material Abandonment
-numerical_relation: 10 + 5 = 15; the ruin meets complete abandonment
+numerical_relation: 10 + 5 = 15 (XV The Devil; the ruin meets complete abandonment)
 elemental_bridge: Air (complete devastation) meets Earth (material and social poverty); both represent absolute loss
 threshold_type: The moment when devastation becomes indistinguishable from material destitution
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Twin devastation, poverty confirmed, abandonment total, collapse complete
 
 dynamic_inhibition:
-  blockade: The figure is completely devastated; there is no recovery possible
-  consequence: The figure remains in poverty; the devastation compounds
+  mechanism: The figure is completely devastated
+  blockade_nature: there is no recovery possible
+  swords_state: The figure remains in poverty
+  consequence: the devastation compounds
+  key_terms: figure is completely devastated, there is no recovery possible, figure remains in poverty, devastation compounds
 
 dynamic_devolution:
-  corruption: The five of pentacles confirms the ruin; the figure has become what they feared
+  mechanism: The five of pentacles confirms the ruin
+  mode: the figure has become what they feared
   loss: The figure loses any remaining hope; they internalize complete devastation as permanent
+  key_terms: figure has become what they, figure loses any remaining hope, five of pentacles confirms
 
 dynamic_dependency:
-  integration: The ruin and the poverty teach that survival is possible even at the absolute bottom; the figure learns through complete devastation that the human spirit persists even when all external supports have failed; when the figure accepts the devastation completely, the first steps toward recovery become possible
-  outcome: The figure survives the five of pentacles not because the poverty ends but because the figure discovers resilience in the devastation; the ruin becomes the forge of genuine endurance
+  mechanism: The ruin and the poverty teach that survival is possible even at the absolute bottom
+  function: the figure learns through complete devastation that the human spirit persists even when all external supports have failed; when the figure accepts the devastation completely, the first steps toward recovery become possible
+  integration_outcome: The figure survives the five of pentacles not because the poverty ends but because the figure discovers resilience in the devastation; the ruin becomes the forge of genuine endurance
+  key_terms: figure learns through complete devastation, figure survives the five, ruin and the poverty teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, 6 of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Giver, The Generous One, The Balanced Gift, Reciprocal Flow
-numerical_relation: 10 + 6 = 16; the ruin meets the perfect act of giving
+numerical_relation: 10 + 6 = 16 (XVI The Tower; the ruin meets the perfect act of giving)
 elemental_bridge: Air (complete loss) meets Earth (abundant generosity); the ruined cannot receive
 threshold_type: The moment when generosity encounters absolute devastation
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Forced humility, mercy received, pride shattered, giving accepted
 
 dynamic_inhibition:
-  blockade: The figure struggles to receive; the devastation has created shame
-  consequence: The giver's generosity meets resistance; the path forward is through acceptance
+  mechanism: The figure struggles to receive
+  blockade_nature: the devastation has created shame
+  swords_state: The giver's generosity meets resistance
+  consequence: the path forward is through acceptance
+  key_terms: figure struggles to receive, devastation has created shame, giver's generosity meets resistance, path forward is through acceptance
 
 dynamic_devolution:
-  corruption: The six of pentacles becomes a reminder of what should have been prevented; the figure receives but from a place of complete failure
+  mechanism: The six of pentacles becomes a reminder of what should have been prevented
+  mode: the figure receives but from a place of complete failure
   loss: The figure loses the identity of self-sufficiency; they become dependent on mercy
+  key_terms: figure receives but from, figure loses the identity, six of pentacles
 
 dynamic_dependency:
-  integration: The ruin and the gift teach each other about the nature of grace; the figure learns through absolute devastation that generosity is not weakness but strength; that receiving is as important as giving; the devastation becomes the gateway to genuine interconnection
-  outcome: The six of pentacles transform the ruined into community; the generosity is not charity but recognition of shared humanity; the devastation becomes the ground of authentic relationship
+  mechanism: The ruin and the gift teach each other about the nature of grace
+  function: the figure learns through absolute devastation that generosity is not weakness but strength; that receiving is as important as giving; the devastation becomes the gateway to genuine interconnection
+  integration_outcome: The six of pentacles transform the ruined into community; the generosity is not charity but recognition of shared humanity; the devastation becomes the ground of authentic relationship
+  key_terms: figure learns through absolute devastation, six of pentacles transform, ruin and the gift teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, 7 of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Gardener, The Weary Investor, The Patient Wait, Labor Long-Term
-numerical_relation: 10 + 7 = 17; the ruin meets the patient wait
+numerical_relation: 10 + 7 = 17 (XVII The Star; the ruin meets the patient wait)
 elemental_bridge: Air (all effort lost) meets Earth (patience rebuilding); the ruined must learn to invest again
 threshold_type: The moment when the destroyed face the necessity of beginning again
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Faith lost, patience required, growth possible, investment risked
 
 dynamic_inhibition:
-  blockade: The figure cannot invest in the future; the devastation has created hopelessness
-  consequence: The figure cannot begin again; the paralysis is complete
+  mechanism: The figure cannot invest in the future
+  blockade_nature: the devastation has created hopelessness
+  swords_state: The figure cannot begin again
+  consequence: the paralysis is complete
+  key_terms: figure cannot invest, devastation has created hopelessness, figure cannot begin again, paralysis is complete
 
 dynamic_devolution:
-  corruption: The seven of pentacles becomes a torture of what could have been if devastation had not occurred
+  mechanism: The seven of pentacles becomes a torture of what could have been if devastation had not occurred
+  mode: The seven of pentacles becomes a torture of what could have been if devastation had not occurred
   loss: The figure loses the capacity to believe in future growth; they see only continued loss
+  key_terms: seven of pentacles, figure loses the capacity, held tension
 
 dynamic_dependency:
-  integration: The ruin teaches that growth is possible only after devastation; the figure learns through complete loss that patience is earned through having lost everything; when the figure plants again, it is with awareness that loss is always possible but growth continues anyway; the devastation becomes the teacher of what genuine faith requires
-  outcome: The seven of pentacles eventually receives the figure whose faith has been rebuilt through absolute loss; the new growth is sacred because it has been earned through devastation; the waiting becomes conscious; the patience becomes real
+  mechanism: The ruin teaches that growth is possible only after devastation
+  function: the figure learns through complete loss that patience is earned through having lost everything; when the figure plants again, it is with awareness that loss is always possible but growth continues anyway; the devastation becomes the teacher of what genuine faith requires
+  integration_outcome: The seven of pentacles eventually receives the figure whose faith has been rebuilt through absolute loss; the new growth is sacred because it has been earned through devastation; the waiting becomes conscious; the patience becomes real
+  key_terms: figure learns through complete loss, seven of pentacles eventually receives, ruin teaches that growth
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, 8 of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Apprentice, The Devoted Craftsman, The Mastery Sought, Practice Perfected
-numerical_relation: 10 + 8 = 18; the ruin meets the discipline of craft
+numerical_relation: 10 + 8 = 18 (XVIII The Moon; the ruin meets the discipline of craft)
 elemental_bridge: Air (all skills lost in devastation) meets Earth (craft as redemption); the ruined must relearn
 threshold_type: The moment when the destroyed must begin again through humble practice
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Humbled practice, skill lost then relearned, discipline recovered, redemption through work
 
 dynamic_inhibition:
-  blockade: The figure cannot begin again; the devastation has broken their will to practice
-  consequence: The figure remains destroyed; recovery is impossible
+  mechanism: The figure cannot begin again
+  blockade_nature: the devastation has broken their will to practice
+  swords_state: The figure remains destroyed
+  consequence: recovery is impossible
+  key_terms: figure cannot begin again, devastation has broken their will, figure remains destroyed, recovery is impossible
 
 dynamic_devolution:
-  corruption: The eight of pentacles becomes a reminder of the mastery that was lost; the figure must start from zero again
+  mechanism: The eight of pentacles becomes a reminder of the mastery that was lost
+  mode: the figure must start from zero again
   loss: The figure loses the sense that their previous skill had value; they must accept that all must be relearned
+  key_terms: figure must start from zero, figure loses the sense, eight of pentacles
 
 dynamic_dependency:
-  integration: The ruin and the craft teach each other about the possibility of redemption through work; the figure learns through devastation that starting over as a humble apprentice is not shameful but necessary; when the figure commits to the practice, something begins to be rebuilt; the devastation becomes the ground of genuine mastery because the figure understands its value
-  outcome: The eight of pentacles welcomes the figure whose previous mastery was destroyed and must be relearned; the new skill is earned through humiliation and persistence; the craft becomes sacred because devastation has taught its value
+  mechanism: The ruin and the craft teach each other about the possibility of redemption through work
+  function: the figure learns through devastation that starting over as a humble apprentice is not shameful but necessary; when the figure commits to the practice, something begins to be rebuilt; the devastation becomes the ground of genuine mastery because the figure understands its value
+  integration_outcome: The eight of pentacles welcomes the figure whose previous mastery was destroyed and must be relearned; the new skill is earned through humiliation and persistence; the craft becomes sacred because devastation has taught its value
+  key_terms: figure learns through devastation, eight of pentacles welcomes, ruin and the craft teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, 9 of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Solitary Rich, The Self-Made Prosperity, The Harvested Abundance, Earned Independence
-numerical_relation: 10 + 9 = 19; the ruin meets the culmination of independence
+numerical_relation: 10 + 9 = 19 (XIX The Sun; the ruin meets the culmination of independence)
 elemental_bridge: Air (complete loss) meets Earth (earned security); the ruined must rebuild from nothing
 threshold_type: The moment when the destroyed must rebuild their independence from absolute zero
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Humbled rebuilding, genuine earning, independence reclaimed, security from zero
 
 dynamic_inhibition:
-  blockade: The figure cannot begin rebuilding; the devastation is too complete
-  consequence: The figure remains in ruin; recovery seems impossible
+  mechanism: The figure cannot begin rebuilding
+  blockade_nature: the devastation is too complete
+  swords_state: The figure remains in ruin
+  consequence: recovery seems impossible
+  key_terms: figure cannot begin rebuilding, devastation is too complete, figure remains in ruin, recovery seems impossible
 
 dynamic_devolution:
-  corruption: The nine of pentacles becomes a vision of the security that was destroyed; the figure grieves what was lost
+  mechanism: The nine of pentacles becomes a vision of the security that was destroyed
+  mode: the figure grieves what was lost
   loss: The figure loses the capacity to believe they could ever rebuild; independence seems permanently lost
+  key_terms: figure grieves what was lost, figure loses the capacity, nine of pentacles
 
 dynamic_dependency:
-  integration: The ruin and the independence teach each other about the nature of genuine autonomy; the figure learns through devastation that self-made security that has survived destruction is more genuine than inherited or easily-earned comfort; when the figure begins rebuilding with consciousness of what has been lost, something more authentic can be created; the devastation becomes the foundation of true independence
-  outcome: The nine of pentacles eventually welcomes the figure who has rebuilt from absolute loss; the security is real because it has been earned from devastation; the independence is genuine because it has been reclaimed through humiliation and persistence
+  mechanism: The ruin and the independence teach each other about the nature of genuine autonomy
+  function: the figure learns through devastation that self-made security that has survived destruction is more genuine than inherited or easily-earned comfort; when the figure begins rebuilding with consciousness of what has been lost, something more authentic can be created; the devastation becomes the foundation of true independence
+  integration_outcome: The nine of pentacles eventually welcomes the figure who has rebuilt from absolute loss; the security is real because it has been earned from devastation; the independence is genuine because it has been reclaimed through humiliation and persistence
+  key_terms: figure learns through devastation, nine of pentacles eventually welcomes, ruin and the independence teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, 10 of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Patriarch, The Generational Wealth, The Family Legacy, Inheritance Complete
-numerical_relation: 10 + 10 = 20; the ruin meets the fullness of generational completion
+numerical_relation: 10 + 10 = 20 (XX Judgement; the ruin meets the fullness of generational completion)
 elemental_bridge: Air (lineage broken by devastation) meets Earth (family continuity); the destroyed are severed from legacy
 threshold_type: The moment when devastation breaks the generational chain
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Exile from lineage, continuity broken, legacy denied, ancestor role lost
 
 dynamic_inhibition:
-  blockade: The figure cannot pass on what has been taken; the devastation has ended their role as ancestor
-  consequence: The figure becomes a severed link in the chain; the continuity is broken through them
+  mechanism: The figure cannot pass on what has been taken
+  blockade_nature: the devastation has ended their role as ancestor
+  swords_state: The figure becomes a severed link in the chain
+  consequence: the continuity is broken through them
+  key_terms: figure cannot pass on what, devastation has ended their role, figure becomes a severed link, continuity is broken through them
 
 dynamic_devolution:
-  corruption: The ten of pentacles becomes a vision of the family line that will suffer because of the devastation; the figure imagines the consequences rippling forward
+  mechanism: The ten of pentacles becomes a vision of the family line that will suffer because of the devastation
+  mode: the figure imagines the consequences rippling forward
   loss: The figure loses the sense that they could ever be part of the family story; they internalize the devastation as a permanent stain
+  key_terms: figure imagines the consequences rippling, figure loses the sense, ten of pentacles
 
 dynamic_dependency:
-  integration: The ruin and the family teach each other that lineage continues despite individual devastation; the figure learns through the loss of legacy that survival itself continues the line; when the figure recovers and eventually becomes part of family again, the devastation becomes part of the story rather than the end of it; the broken link can be repaired through time and healing
-  outcome: The ten of pentacles eventually welcomes the figure back into the lineage; the devastation becomes part of the family story; the recovery becomes the legacy that will be passed on; the ruin becomes the ground from which the generational healing emerges
+  mechanism: The ruin and the family teach each other that lineage continues despite individual devastation
+  function: the figure learns through the loss of legacy that survival itself continues the line; when the figure recovers and eventually becomes part of family again, the devastation becomes part of the story rather than the end of it; the broken link can be repaired through time and healing
+  integration_outcome: The ten of pentacles eventually welcomes the figure back into the lineage; the devastation becomes part of the family story; the recovery becomes the legacy that will be passed on; the ruin becomes the ground from which the generational healing emerges
+  key_terms: figure learns through the loss, ten of pentacles eventually welcomes, ruin and the family teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, Page of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Student, The Eager Apprentice, The Learning Potential, Mastery Beginning
-numerical_relation: 10 + 11 = 21; the ruin meets the beginning of instruction
+numerical_relation: 10 + 11 = 21 (XXI The World; the ruin meets the beginning of instruction)
 elemental_bridge: Air (devastation closing mind) meets Earth (opening to learning); the destroyed must reopen to growth
 threshold_type: The moment when the ruined must become students again
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Closed against learning, openness recovered, instruction accepted, growth begun
 
 dynamic_inhibition:
-  blockade: The figure cannot receive instruction; the devastation has hardened them against it
-  consequence: The figure remains closed; learning becomes impossible
+  mechanism: The figure cannot receive instruction
+  blockade_nature: the devastation has hardened them against it
+  swords_state: The figure remains closed
+  consequence: learning becomes impossible
+  key_terms: figure cannot receive instruction, devastation has hardened them against, figure remains closed, learning becomes impossible
 
 dynamic_devolution:
-  corruption: The page of pentacles becomes a reminder of the innocence devastation has destroyed; the figure grieves the openness that was lost
+  mechanism: The page of pentacles becomes a reminder of the innocence devastation has destroyed
+  mode: the figure grieves the openness that was lost
   loss: The figure loses the capacity to be a student; they believe they are beyond learning
+  key_terms: figure grieves the openness, figure loses the capacity, page of pentacles
 
 dynamic_dependency:
-  integration: The ruin and the learning teach each other about the necessity of remaining open; the figure learns through devastation that closure leads to stagnation; when the figure opens again to learning, recovery becomes possible; the devastation becomes the teacher of what genuine openness requires
-  outcome: The page of pentacles finally reaches the figure whose devastation has taught them humility; the learning begins again; the receptivity is restored; the figure becomes a student of life; the ruin becomes the ground of genuine education
+  mechanism: The ruin and the learning teach each other about the necessity of remaining open
+  function: the figure learns through devastation that closure leads to stagnation; when the figure opens again to learning, recovery becomes possible; the devastation becomes the teacher of what genuine openness requires
+  integration_outcome: The page of pentacles finally reaches the figure whose devastation has taught them humility; the learning begins again; the receptivity is restored; the figure becomes a student of life; the ruin becomes the ground of genuine education
+  key_terms: figure learns through devastation, page of pentacles finally reaches, ruin and the learning teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, Knight of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Diligent Worker, The Steadfast Builder, The Committed Labor, Work Consecrated
-numerical_relation: 10 + 12 = 22; the ruin meets devoted action
+numerical_relation: 10 + 12 = 22 → 2+2=4 (IV The Emperor; the ruin meets devoted action)
 elemental_bridge: Air (all effort destroyed) meets Earth (steadfast rebuilding); the ruined must learn to work again
 threshold_type: The moment when the destroyed must commit to the slow work of reconstruction
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Will to work destroyed, labor recovered, commitment renewed, effort resumed
 
 dynamic_inhibition:
-  blockade: The figure cannot work; the devastation has broken their capacity for sustained effort
-  consequence: The figure remains destroyed; without work, recovery is impossible
+  mechanism: The figure cannot work
+  blockade_nature: the devastation has broken their capacity for sustained effort
+  swords_state: The figure remains destroyed
+  consequence: without work, recovery is impossible
+  key_terms: figure cannot work, devastation has broken their capacity, figure remains destroyed, without work
 
 dynamic_devolution:
-  corruption: The knight of pentacles becomes a vision of the labor that was destroyed; the figure grieves the work that is gone
+  mechanism: The knight of pentacles becomes a vision of the labor that was destroyed
+  mode: the figure grieves the work that is gone
   loss: The figure loses the capacity to believe they could work again; effort seems futile
+  key_terms: figure grieves the work, figure loses the capacity, knight of pentacles
 
 dynamic_dependency:
-  integration: The ruin and the labor teach each other about the power of commitment; the figure learns through devastation that steady work, even small efforts, creates change; when the figure begins to work despite exhaustion, recovery slowly becomes real; the devastation becomes the ground of genuine dedication
-  outcome: The knight of pentacles welcomes the figure who has returned to work; the labor is sacred because it follows devastation; the commitment is real because it has been reclaimed through humiliation; the figure becomes a true laborer through having survived ruin
+  mechanism: The ruin and the labor teach each other about the power of commitment
+  function: the figure learns through devastation that steady work, even small efforts, creates change; when the figure begins to work despite exhaustion, recovery slowly becomes real; the devastation becomes the ground of genuine dedication
+  integration_outcome: The knight of pentacles welcomes the figure who has returned to work; the labor is sacred because it follows devastation; the commitment is real because it has been reclaimed through humiliation; the figure becomes a true laborer through having survived ruin
+  key_terms: figure learns through devastation, knight of pentacles welcomes, ruin and the labor teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, Queen of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Provider, The Nurturing Abundance, The Grounded Generosity, Care Manifest
-numerical_relation: 10 + 13 = 23; the ruin meets the fullness of nurturing
+numerical_relation: 10 + 13 = 23 → 2+3=5 (V The Pope; the ruin meets the fullness of nurturing)
 elemental_bridge: Air (isolated devastation) meets Earth (nurture radiating); the ruined must learn to receive care and eventually give it
 threshold_type: The moment when devastation opens the figure to receiving nurture
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Forced dependence, care accepted, pride dissolved, nurture healing
 
 dynamic_inhibition:
-  blockade: The figure struggles to receive the nurture; devastation has created shame
-  consequence: The figure resists care; healing is delayed
+  mechanism: The figure struggles to receive the nurture
+  blockade_nature: devastation has created shame
+  swords_state: The figure resists care
+  consequence: healing is delayed
+  key_terms: figure struggles to receive, devastation has created shame, figure resists care, healing is delayed
 
 dynamic_devolution:
-  corruption: The queen of pentacles becomes a reminder of independence lost; the figure grieves the self-sufficiency that devastation destroyed
+  mechanism: The queen of pentacles becomes a reminder of independence lost
+  mode: the figure grieves the self-sufficiency that devastation destroyed
   loss: The figure loses the sense that they could ever be independent again; they internalize the devastation as permanent helplessness
+  key_terms: figure grieves the self-sufficiency, figure loses the sense, queen of pentacles
 
 dynamic_dependency:
-  integration: The ruin and the care teach each other about the nature of true strength; the figure learns through devastation that receiving care is not weakness but the ground of eventual recovery; when the figure accepts the queen's nurturing, healing begins; when enough recovery has occurred, the figure can eventually begin to nurture others
-  outcome: The queen of pentacles nurtures the figure through devastation and into recovery; the care is not charity but recognition of shared humanity; the figure eventually becomes able to nurture others from understanding what it means to have been held when devastated
+  mechanism: The ruin and the care teach each other about the nature of true strength
+  function: the figure learns through devastation that receiving care is not weakness but the ground of eventual recovery; when the figure accepts the queen's nurturing, healing begins; when enough recovery has occurred, the figure can eventually begin to nurture others
+  integration_outcome: The queen of pentacles nurtures the figure through devastation and into recovery; the care is not charity but recognition of shared humanity; the figure eventually becomes able to nurture others from understanding what it means to have been held when devastated
+  key_terms: figure learns through devastation, queen of pentacles nurtures, ruin and the care teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP
 
 ---
 
 card_pair: 10 of Swords, King of Pentacles
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_pentacles: The Master of Manifested Wealth, The Established Authority, The Prosperous Ruler, Domain Secured
-numerical_relation: 10 + 14 = 24; the ruin meets the culmination of manifestation and authority
+numerical_relation: 10 + 14 = 24 → 2+4=6 (VI The Lovers; the ruin meets the culmination of manifestation and authority)
 elemental_bridge: Air (complete loss of power) meets Earth (mastered domain); the ruined must rebuild their authority from devastation
 threshold_type: The moment when the destroyed must learn to rule again
 
@@ -578,22 +669,29 @@ dynamic_antagonism:
   key_terms: Authority destroyed, power lost, rule impossible, domain shattered
 
 dynamic_inhibition:
-  blockade: The figure cannot establish any authority; devastation has destroyed the foundations
-  consequence: The figure remains powerless; they cannot begin to rebuild their domain
+  mechanism: The figure cannot establish any authority
+  blockade_nature: devastation has destroyed the foundations
+  swords_state: The figure remains powerless
+  consequence: they cannot begin to rebuild their domain
+  key_terms: figure cannot establish any authority, devastation has destroyed the foundations, figure remains powerless, they cannot begin to rebuild
 
 dynamic_devolution:
-  corruption: The king of pentacles becomes a vision of the authority that was destroyed; the figure grieves the power that is gone
+  mechanism: The king of pentacles becomes a vision of the authority that was destroyed
+  mode: the figure grieves the power that is gone
   loss: The figure loses the capacity to believe they could ever have authority again; they internalize the devastation as evidence of fundamental powerlessness
+  key_terms: figure grieves the power, figure loses the capacity, king of pentacles
 
 dynamic_dependency:
-  integration: The ruin and the kingship teach each other about the nature of genuine authority; the figure learns through devastation that true rule is not about dominating others but about ruling oneself; when the figure recovers enough to begin establishing order in their own life, the possibility of eventually ruling a domain returns; the devastation becomes the teacher of what authentic power requires
-  outcome: The king's throne is eventually available to the figure whose devastation has taught them what true authority means; the rule is possible because it is founded on self-mastery earned through surviving ruin; the domain is secure because it is built on the knowledge of what loss costs; the figure becomes a true king or queen through having survived complete devastation
+  mechanism: The ruin and the kingship teach each other about the nature of genuine authority
+  function: the figure learns through devastation that true rule is not about dominating others but about ruling oneself; when the figure recovers enough to begin establishing order in their own life, the possibility of eventually ruling a domain returns; the devastation becomes the teacher of what authentic power requires
+  integration_outcome: The king's throne is eventually available to the figure whose devastation has taught them what true authority means; the rule is possible because it is founded on self-mastery earned through surviving ruin; the domain is secure because it is built on the knowledge of what loss costs; the figure becomes a true king or queen through having survived complete devastation
+  key_terms: figure learns through devastation, king's throne is eventually available, ruin and the kingship teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with earth graduation
   encoding: UTF-8
-  elemental_primary: air-earth
-  numerical_axis: 1-14
-  uid: TOPS
+  elemental_primary: air (swords) to earth (pentacles)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSP

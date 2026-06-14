@@ -1,7 +1,7 @@
 card_pair: 10 of Swords, Ace of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The First Offering, The Emotional Gift, The Heart's Awakening, Love Emerging
-numerical_relation: 10 + 1 = 11; the ruin meets the emergence of emotion
+numerical_relation: 10 + 1 = 11 (XI Strength; the ruin meets the emergence of emotion)
 elemental_bridge: Air (emotional devastation) meets Water (love's emergence); the destroyed heart is offered salvation
 threshold_type: The moment when love arrives to the utterly shattered heart
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Shattered heart, offered salvation, healing through love, resurrection possible
 
 dynamic_inhibition:
-  blockade: The figure cannot feel the love even as it is offered; the devastation has closed the heart
+  mechanism: The figure cannot feel the love even as it is offered
+  blockade_nature: the devastation has closed the heart
+  swords_state: The cup is offered but the figure is too destroyed to receive it
   consequence: The cup is offered but the figure is too destroyed to receive it
+  key_terms: figure cannot feel the love, devastation has closed the heart, cup is offered
 
 dynamic_devolution:
-  corruption: The ace of cups becomes evidence of too-late mercy; the love arrives after the heart is permanently broken
+  mechanism: The ace of cups becomes evidence of too-late mercy
+  mode: the love arrives after the heart is permanently broken
   loss: The figure loses the capacity to believe their heart can be repaired; the devastation seems irreversible
+  key_terms: love arrives after the heart, figure loses the capacity, ace of cups becomes evidence
 
 dynamic_dependency:
-  integration: The ruin and the love teach each other about the possibility of resurrection; the figure learns through devastation that the heart can survive even complete shattering; when the figure finally opens to the love, healing begins; the devastation becomes the ground of profound emotional rebirth
-  outcome: The ace of cups finally resurrects the figure whose heart has been completely destroyed; the love is profound because it has healed devastation; the reopening of the heart becomes sacred because it has been thoroughly tested
+  mechanism: The ruin and the love teach each other about the possibility of resurrection
+  function: the figure learns through devastation that the heart can survive even complete shattering; when the figure finally opens to the love, healing begins; the devastation becomes the ground of profound emotional rebirth
+  integration_outcome: The ace of cups finally resurrects the figure whose heart has been completely destroyed; the love is profound because it has healed devastation; the reopening of the heart becomes sacred because it has been thoroughly tested
+  key_terms: figure learns through devastation, ace of cups finally resurrects, ruin and the love teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, 2 of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Lovers, The Beloved Union, The Mutual Pledge, Partnership Sealed
-numerical_relation: 10 + 2 = 12; the ruin meets the union of two hearts
+numerical_relation: 10 + 2 = 12 (XII The Hanged Man; the ruin meets the union of two hearts)
 elemental_bridge: Air (complete isolation) meets Water (merging in love); the ruined are alone in devastation
 threshold_type: The moment when the completely destroyed are offered partnership
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Offered partnership, isolation ending, union possible, mutual healing
 
 dynamic_inhibition:
-  blockade: The figure cannot believe they deserve partnership; devastation has destroyed their self-worth
-  consequence: The figure rejects the union out of shame; healing is delayed
+  mechanism: The figure cannot believe they deserve partnership
+  blockade_nature: devastation has destroyed their self-worth
+  swords_state: The figure rejects the union out of shame
+  consequence: healing is delayed
+  key_terms: figure cannot believe they deserve, devastation has destroyed their self-worth, figure rejects the union out, healing is delayed
 
 dynamic_devolution:
-  corruption: The two of cups becomes cruel evidence of what was lost; the figure grieves the partnership that devastation destroyed
+  mechanism: The two of cups becomes cruel evidence of what was lost
+  mode: the figure grieves the partnership that devastation destroyed
   loss: The figure loses the capacity to believe in union; they internalize their ruined state as permanent isolation
+  key_terms: figure grieves the partnership, figure loses the capacity, two of cups becomes cruel
 
 dynamic_dependency:
-  integration: The ruin and the offered partnership teach about mutual healing; the figure learns that sometimes two broken people can be stronger together than alone; when the figure accepts the union despite shame, recovery accelerates; the devastation becomes the ground of profound connection
-  outcome: The two of cups unite the figure whose devastation initially seemed to preclude partnership; the union is real because it has survived the revelation of brokenness; the healing becomes mutual; the ruin becomes the crucible of genuine love
+  mechanism: The ruin and the offered partnership teach about mutual healing
+  function: the figure learns that sometimes two broken people can be stronger together than alone; when the figure accepts the union despite shame, recovery accelerates; the devastation becomes the ground of profound connection
+  integration_outcome: The two of cups unite the figure whose devastation initially seemed to preclude partnership; the union is real because it has survived the revelation of brokenness; the healing becomes mutual; the ruin becomes the crucible of genuine love
+  key_terms: figure learns that sometimes two, two of cups unite, ruin and the offered partnership
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, 3 of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Celebration, The Joyful Gathering, The Community Heart, Fellowship Expressed
-numerical_relation: 10 + 3 = 13; the ruin meets communal joy
+numerical_relation: 10 + 3 = 13 (XIII Death; the ruin meets communal joy)
 elemental_bridge: Air (complete isolation from devastation) meets Water (flowing community); the destroyed are offered belonging
 threshold_type: The moment when the ruined are welcomed back into community
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Offered inclusion, isolation ending, celebration possible, community reaching
 
 dynamic_inhibition:
-  blockade: The figure cannot join the celebration; shame prevents participation
-  consequence: The figure remains alone; the community's invitation is rejected
+  mechanism: The figure cannot join the celebration
+  blockade_nature: shame prevents participation
+  swords_state: The figure remains alone
+  consequence: the community's invitation is rejected
+  key_terms: figure cannot join the celebration, shame prevents participation, figure remains alone, community's invitation is rejected
 
 dynamic_devolution:
-  corruption: The three of cups becomes a reminder of the joy that was destroyed; the figure grieves the celebration they can no longer join
+  mechanism: The three of cups becomes a reminder of the joy that was destroyed
+  mode: the figure grieves the celebration they can no longer join
   loss: The figure loses the capacity to believe they could celebrate again; they internalize devastation as permanent exclusion
+  key_terms: figure grieves the celebration they, figure loses the capacity, three of cups
 
 dynamic_dependency:
-  integration: The ruin and the community invitation teach about the healing power of inclusion; the figure learns through devastation that community sometimes survives individual destruction; when the figure finally accepts the invitation despite shame, they are welcomed without judgment; the devastation becomes the ground of genuine belonging
-  outcome: The three of cups celebrate the figure whose devastation initially seemed to exclude them; the community is strengthened by welcoming the broken; the celebration includes the sorrow that was overcome; the ruin becomes part of the community story
+  mechanism: The ruin and the community invitation teach about the healing power of inclusion
+  function: the figure learns through devastation that community sometimes survives individual destruction; when the figure finally accepts the invitation despite shame, they are welcomed without judgment; the devastation becomes the ground of genuine belonging
+  integration_outcome: The three of cups celebrate the figure whose devastation initially seemed to exclude them; the community is strengthened by welcoming the broken; the celebration includes the sorrow that was overcome; the ruin becomes part of the community story
+  key_terms: figure learns through devastation, three of cups celebrate, ruin and the community invitation
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, 4 of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Apathetic, The Emotionally Withdrawn, The Love Refused, Numbness Chosen
-numerical_relation: 10 + 4 = 14; the ruin meets chosen numbness
+numerical_relation: 10 + 4 = 14 (XIV Temperance; the ruin meets chosen numbness)
 elemental_bridge: Air (devastation creating numbing) meets Water (apathy as defense); both retreat from feeling
 threshold_type: The moment when the destroyed adopt numbness as the only available response
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Forced numbness, chosen withdrawal, emotional deadness, feeling impossible
 
 dynamic_inhibition:
-  blockade: The figure cannot feel; devastation has numbed them completely
-  consequence: The figure becomes emotionally dead; they exist but do not live
+  mechanism: The figure cannot feel
+  blockade_nature: devastation has numbed them completely
+  swords_state: The figure becomes emotionally dead
+  consequence: they exist but do not live
+  key_terms: figure cannot feel, devastation has numbed them completely, figure becomes emotionally dead, they exist but do
 
 dynamic_devolution:
-  corruption: The four of cups becomes the future the figure imagines for themselves; permanent numbness becoming identity
+  mechanism: The four of cups becomes the future the figure imagines for themselves
+  mode: permanent numbness becoming identity
   loss: The figure loses the capacity to imagine feeling again; they internalize the numbness as permanent
+  key_terms: permanent numbness becoming identity, figure loses the capacity, four of cups
 
 dynamic_dependency:
-  integration: The ruin and the numbness teach that some emotional death is necessary in devastation; but the numbness cannot be permanent; when the figure begins to feel again, it is with awareness of what numbness costs; the devastation becomes the teacher of the value of feeling
-  outcome: The four of cups teaches the figure that choosing to feel again after devastation is an act of courage; the numbness releases; the heart reopens; the ruin becomes the gateway to genuine emotional recovery
+  mechanism: The ruin and the numbness teach that some emotional death is necessary in devastation
+  function: but the numbness cannot be permanent; when the figure begins to feel again, it is with awareness of what numbness costs; the devastation becomes the teacher of the value of feeling
+  integration_outcome: The four of cups teaches the figure that choosing to feel again after devastation is an act of courage; the numbness releases; the heart reopens; the ruin becomes the gateway to genuine emotional recovery
+  key_terms: but the numbness cannot be, four of cups teaches, ruin and the numbness teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, 5 of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Mourner, The Grieving One, The Loss Witnessed, Sorrow Expressed
-numerical_relation: 10 + 5 = 15; the ruin meets profound emotional loss
+numerical_relation: 10 + 5 = 15 (XV The Devil; the ruin meets profound emotional loss)
 elemental_bridge: Air (complete devastation) meets Water (grief flowing); the destroyed learn to mourn
 threshold_type: The moment when the ruined finally allow themselves to grieve
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Permitted sorrow, grief thawed, mourning begun, tears flowing
 
 dynamic_inhibition:
-  blockade: The figure cannot grieve; the devastation is too complete
-  consequence: The grief remains frozen; the figure cannot process the loss
+  mechanism: The figure cannot grieve
+  blockade_nature: the devastation is too complete
+  swords_state: The grief remains frozen
+  consequence: the figure cannot process the loss
+  key_terms: figure cannot grieve, devastation is too complete, grief remains frozen, figure cannot process the loss
 
 dynamic_devolution:
-  corruption: The five of cups becomes a vision of grief that will continue forever; the figure imagines eternal mourning
+  mechanism: The five of cups becomes a vision of grief that will continue forever
+  mode: the figure imagines eternal mourning
   loss: The figure loses hope that grieving could ever lead to recovery; they internalize sorrow as permanent
+  key_terms: figure imagines eternal mourning, figure loses hope that grieving, five of cups
 
 dynamic_dependency:
-  integration: The ruin and the grief teach each other about the necessity of mourning; the figure learns through devastation that allowing the tears to flow is the only path forward; when the figure grieves fully, the acute devastation begins to transform into manageable sorrow; the devastating loss becomes something the figure can carry
-  outcome: The five of cups honors the figure whose devastation has finally been mourned; the grief becomes the bridge between destruction and recovery; the ruin becomes part of the figure's story rather than its ending
+  mechanism: The ruin and the grief teach each other about the necessity of mourning
+  function: the figure learns through devastation that allowing the tears to flow is the only path forward; when the figure grieves fully, the acute devastation begins to transform into manageable sorrow; the devastating loss becomes something the figure can carry
+  integration_outcome: The five of cups honors the figure whose devastation has finally been mourned; the grief becomes the bridge between destruction and recovery; the ruin becomes part of the figure's story rather than its ending
+  key_terms: figure learns through devastation, five of cups honors, ruin and the grief teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, 6 of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Innocent Gift, The Childhood Memory, The Pure Exchange, Innocence Remembered
-numerical_relation: 10 + 6 = 16; the ruin meets the redemption of innocence
+numerical_relation: 10 + 6 = 16 (XVI The Tower; the ruin meets the redemption of innocence)
 elemental_bridge: Air (innocence destroyed by devastation) meets Water (innocent memory); the ruined reconnect with what was
 threshold_type: The moment when the destroyed remember who they were before devastation
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Lost innocence, transformation through ruin, past self distant, contrast sharp
 
 dynamic_inhibition:
-  blockade: The figure cannot reconnect with their innocent past; the devastation seems too vast
-  consequence: The figure remains disconnected from their own history; they cannot find continuity
+  mechanism: The figure cannot reconnect with their innocent past
+  blockade_nature: the devastation seems too vast
+  swords_state: The figure remains disconnected from their own history
+  consequence: they cannot find continuity
+  key_terms: figure cannot reconnect, devastation seems too vast, figure remains disconnected from, they cannot find continuity
 
 dynamic_devolution:
-  corruption: The six of cups becomes a vision of irretrievable loss; the person they were is permanently gone
+  mechanism: The six of cups becomes a vision of irretrievable loss
+  mode: the person they were is permanently gone
   loss: The figure loses the sense of continuity with their own past; they believe the devastation has created a permanent rupture
+  key_terms: person they were is permanently, figure loses the sense, six of cups
 
 dynamic_dependency:
-  integration: The ruin and the innocent memory teach about continuity despite transformation; the figure learns through devastation that their past self still exists within them; when they reconnect with the memory of innocence, the bridge to recovery is built; the devastation becomes a chapter in a longer story
-  outcome: The six of cups reconnects the figure with their pre-devastation self; the innocence is reclaimed not as naive but as foundation; the ruined person is recognized as continuous with the innocent child; the ruin becomes part of a journey rather than its ending
+  mechanism: The ruin and the innocent memory teach about continuity despite transformation
+  function: the figure learns through devastation that their past self still exists within them; when they reconnect with the memory of innocence, the bridge to recovery is built; the devastation becomes a chapter in a longer story
+  integration_outcome: The six of cups reconnects the figure with their pre-devastation self; the innocence is reclaimed not as naive but as foundation; the ruined person is recognized as continuous with the innocent child; the ruin becomes part of a journey rather than its ending
+  key_terms: figure learns through devastation, six of cups reconnects, ruin and the innocent memory
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, 7 of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Dreamer, The Illusions Offered, The Fantasy Multiplied, Desire Ungrounded
-numerical_relation: 10 + 7 = 17; the ruin meets the seven illusions
+numerical_relation: 10 + 7 = 17 (XVII The Star; the ruin meets the seven illusions)
 elemental_bridge: Air (devastating reality) meets Water (beautiful fantasy); the destroyed can escape through dreams
 threshold_type: The moment when the ruined turn to fantasy to escape reality
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Addictive escape, reality avoidance, illusions vs truth, fantasy addiction
 
 dynamic_inhibition:
-  blockade: The figure escapes into fantasy and becomes unable to function in reality
-  consequence: The figure lives in illusion; the devastation is never addressed
+  mechanism: The figure escapes into fantasy and becomes unable to function in reality
+  blockade_nature: The figure escapes into fantasy and becomes unable to function in reality
+  swords_state: The figure lives in illusion
+  consequence: the devastation is never addressed
+  key_terms: figure escapes into fantasy, figure lives in illusion, devastation is never addressed
 
 dynamic_devolution:
-  corruption: The seven of cups becomes the entire life; the figure loses touch with reality completely
+  mechanism: The seven of cups becomes the entire life
+  mode: the figure loses touch with reality completely
   loss: The figure loses the capacity to distinguish reality from fantasy; they become lost in dreams
+  key_terms: figure loses touch with reality, figure loses the capacity, seven of cups
 
 dynamic_dependency:
-  integration: The ruin and the fantasy teach that escape is sometimes necessary but cannot be permanent; the figure learns through the devastation that some reality must be faced; when they gradually return to the present moment, recovery can begin; the devastation becomes the motivation to eventually face reality
-  outcome: The figure learns to balance reality and imagination; the fantasy becomes medicine rather than escape; the ruin becomes bearable because the figure has learned to engage with life even after devastation
+  mechanism: The ruin and the fantasy teach that escape is sometimes necessary but cannot be permanent
+  function: the figure learns through the devastation that some reality must be faced; when they gradually return to the present moment, recovery can begin; the devastation becomes the motivation to eventually face reality
+  integration_outcome: The figure learns to balance reality and imagination; the fantasy becomes medicine rather than escape; the ruin becomes bearable because the figure has learned to engage with life even after devastation
+  key_terms: figure learns through the devastation, figure learns to balance reality, ruin and the fantasy teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, 8 of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Abandoner, The Walker-Away, The Chosen Departure, Emotional Rejection
-numerical_relation: 10 + 8 = 18; the ruin meets the choice to leave
+numerical_relation: 10 + 8 = 18 (XVIII The Moon; the ruin meets the choice to leave)
 elemental_bridge: Air (devastation as final blow) meets Water (departure after loss); the destroyed are abandoned
 threshold_type: The moment when the ruined are left by those who cannot bear their devastation
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Double abandonment, chosen departure, left behind, further wounding
 
 dynamic_inhibition:
-  blockade: The figure is abandoned; they cannot prevent others from leaving
-  consequence: The figure becomes even more isolated; the devastation compounds
+  mechanism: The figure is abandoned
+  blockade_nature: they cannot prevent others from leaving
+  swords_state: The figure becomes even more isolated
+  consequence: the devastation compounds
+  key_terms: figure is abandoned, they cannot prevent others from, figure becomes even more isolated, devastation compounds
 
 dynamic_devolution:
-  corruption: The eight of cups becomes evidence that the figure is unworthy of being held; the abandonment validates their own sense of being disposable
+  mechanism: The eight of cups becomes evidence that the figure is unworthy of being held
+  mode: the abandonment validates their own sense of being disposable
   loss: The figure loses the remaining hope that anyone would stay; they internalize the abandonment as confirmation of their ruined state
+  key_terms: abandonment validates their own sense, figure loses the remaining hope, eight of cups becomes evidence
 
 dynamic_dependency:
-  integration: The ruin and the abandonment teach about the nature of true community; the figure learns that those who leave are limited by their own fear; when the figure eventually meets those who can stay, the connection is profound; the devastation becomes the sorting mechanism that reveals who is genuine; the abandonment becomes part of the story of finding true solidarity
-  outcome: The figure eventually understands that not everyone can journey through devastation with another; when they meet those who can stay, the bonds are unbreakable; the ruin becomes the test that determines genuine relationship
+  mechanism: The ruin and the abandonment teach about the nature of true community
+  function: the figure learns that those who leave are limited by their own fear; when the figure eventually meets those who can stay, the connection is profound; the devastation becomes the sorting mechanism that reveals who is genuine; the abandonment becomes part of the story of finding true solidarity
+  integration_outcome: The figure eventually understands that not everyone can journey through devastation with another; when they meet those who can stay, the bonds are unbreakable; the ruin becomes the test that determines genuine relationship
+  key_terms: figure learns that those, figure eventually understands, ruin and the abandonment teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, 9 of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Fulfilled Wish, The Contentment Achieved, The Heart's Desire Met, Satisfaction Complete
-numerical_relation: 10 + 10 = 20; the ruin meets the fullness of emotional satisfaction
+numerical_relation: 10 + 9 = 19 (XIX The Sun; the ruin meets the fullness of emotional satisfaction)
 elemental_bridge: Air (complete devastation) meets Water (complete contentment); the ruined cannot imagine satisfaction
 threshold_type: The moment when the destroyed cannot believe happiness could return
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Happiness impossible, satisfaction denied, fulfillment unimaginable, future dark
 
 dynamic_inhibition:
-  blockade: The figure cannot imagine happiness; devastation has closed that possibility
+  mechanism: The figure cannot imagine happiness
+  blockade_nature: devastation has closed that possibility
+  swords_state: The figure remains convinced their future is only continued suffering
   consequence: The figure remains convinced their future is only continued suffering
+  key_terms: figure cannot imagine happiness, devastation has closed that possibility, figure remains convinced their future
 
 dynamic_devolution:
-  corruption: The nine of cups becomes a cruel mockery; the figure sees happiness in others and knows they will never have it again
+  mechanism: The nine of cups becomes a cruel mockery
+  mode: the figure sees happiness in others and knows they will never have it again
   loss: The figure loses the capacity to imagine future satisfaction; they internalize devastation as permanent
+  key_terms: figure sees happiness in others, figure loses the capacity, nine of cups
 
 dynamic_dependency:
-  integration: The ruin and the happiness teach that recovery is possible even after total devastation; the figure learns through surviving complete loss that contentment can return; when happiness finally appears, it is profound because it has been earned through complete destruction; the devastation becomes the ground of understanding what true satisfaction means
-  outcome: The nine of cups eventually illuminates the figure who has survived complete devastation; the happiness that returns is deeper because it has been earned through loss; the contentment is real because it has been doubted; the ruin becomes the prerequisite to genuine satisfaction
+  mechanism: The ruin and the happiness teach that recovery is possible even after total devastation
+  function: the figure learns through surviving complete loss that contentment can return; when happiness finally appears, it is profound because it has been earned through complete destruction; the devastation becomes the ground of understanding what true satisfaction means
+  integration_outcome: The nine of cups eventually illuminates the figure who has survived complete devastation; the happiness that returns is deeper because it has been earned through loss; the contentment is real because it has been doubted; the ruin becomes the prerequisite to genuine satisfaction
+  key_terms: figure learns through surviving complete, nine of cups eventually illuminates, ruin and the happiness teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, 10 of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Family Blessed, The Emotional Lineage, The Loving Community Secure, Belonging Complete
-numerical_relation: 10 + 10 = 20; the ruin meets the fullness of belonging
+numerical_relation: 10 + 10 = 20 (XX Judgement; the ruin meets the fullness of belonging)
 elemental_bridge: Air (complete isolation from devastation) meets Water (belonging in family); the destroyed can be welcomed home
 threshold_type: The moment when the utterly devastated are welcomed back into family
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Offered belonging, unworthiness overcome, home offered, family receives
 
 dynamic_inhibition:
-  blockade: The figure cannot accept the welcome; shame prevents return
-  consequence: The figure remains exile; the family remains incomplete without them
+  mechanism: The figure cannot accept the welcome
+  blockade_nature: shame prevents return
+  swords_state: The figure remains exile
+  consequence: the family remains incomplete without them
+  key_terms: figure cannot accept the welcome, shame prevents return, figure remains exile, family remains incomplete without them
 
 dynamic_devolution:
-  corruption: The ten of cups becomes a vision of the belonging that was destroyed; the figure cannot imagine returning
+  mechanism: The ten of cups becomes a vision of the belonging that was destroyed
+  mode: the figure cannot imagine returning
   loss: The figure loses the sense that family could forgive their devastation; they believe themselves permanently exiled
+  key_terms: figure cannot imagine returning, figure loses the sense, ten of cups
 
 dynamic_dependency:
-  integration: The ruin and the family love teach about unconditional acceptance; the figure learns through devastation what family truly means; when they finally accept the welcome despite shame, they are held in their brokenness; the devastation becomes the ground of genuine belonging because the family has seen and accepted the figure at their worst
-  outcome: The ten of cups welcomes the utterly devastated figure home; the belonging is real because it has survived the revelation of complete destruction; the family is strengthened by holding the broken; the ruin becomes part of the family story and a testament to resilience
+  mechanism: The ruin and the family love teach about unconditional acceptance
+  function: the figure learns through devastation what family truly means; when they finally accept the welcome despite shame, they are held in their brokenness; the devastation becomes the ground of genuine belonging because the family has seen and accepted the figure at their worst
+  integration_outcome: The ten of cups welcomes the utterly devastated figure home; the belonging is real because it has survived the revelation of complete destruction; the family is strengthened by holding the broken; the ruin becomes part of the family story and a testament to resilience
+  key_terms: figure learns through devastation what, ten of cups welcomes, ruin and the family love
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, Page of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Messenger, The Emotional Invitation, The Heart's Offer, Feeling Approaching
-numerical_relation: 10 + 11 = 21; the ruin meets the approach of emotion
+numerical_relation: 10 + 11 = 21 (XXI The World; the ruin meets the approach of emotion)
 elemental_bridge: Air (deadened by devastation) meets Water (emotional approach); the destroyed are offered emotional reconnection
 threshold_type: The moment when feeling is offered to the emotionally dead
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: Deadened reopening, feeling offered, emotion returning, sensation stirring
 
 dynamic_inhibition:
-  blockade: The figure cannot feel the message even as it is offered; numbness persists
-  consequence: The emotional approach does not land; the figure remains dead inside
+  mechanism: The figure cannot feel the message even as it is offered
+  blockade_nature: numbness persists
+  swords_state: The emotional approach does not land
+  consequence: the figure remains dead inside
+  key_terms: figure cannot feel the message, numbness persists, emotional approach does not land, figure remains dead inside
 
 dynamic_devolution:
-  corruption: The page of cups becomes a reminder of feelings that will never return; the figure grieves the emotional capacity that devastation destroyed
+  mechanism: The page of cups becomes a reminder of feelings that will never return
+  mode: the figure grieves the emotional capacity that devastation destroyed
   loss: The figure loses the belief that they could ever feel again; they internalize the deadness as permanent
+  key_terms: figure grieves the emotional capacity, figure loses the belief, page of cups
 
 dynamic_dependency:
-  integration: The ruin and the emotional offer teach about the slow return of feeling; the figure learns through devastation that sensation returns gradually; when the page's message finally lands, it is the first sign of recovery; the devastation becomes the ground of profound emotional reconnection
-  outcome: The page of cups finally reaches the figure whose numbness has softened; the feeling returns; the heart awakens; the ruin becomes the threshold of emotional renewal
+  mechanism: The ruin and the emotional offer teach about the slow return of feeling
+  function: the figure learns through devastation that sensation returns gradually; when the page's message finally lands, it is the first sign of recovery; the devastation becomes the ground of profound emotional reconnection
+  integration_outcome: The page of cups finally reaches the figure whose numbness has softened; the feeling returns; the heart awakens; the ruin becomes the threshold of emotional renewal
+  key_terms: figure learns through devastation, page of cups finally reaches, ruin and the emotional offer
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, Knight of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Devoted Lover, The Romantic Quest, The Emotional Warrior, Passion Embodied
-numerical_relation: 10 + 12 = 22; the ruin meets the quest of love
+numerical_relation: 10 + 12 = 22 → 2+2=4 (IV The Emperor; the ruin meets the quest of love)
 elemental_bridge: Air (devastation as isolation) meets Water (devotion seeking); the destroyed are sought by love
 threshold_type: The moment when passionate devotion pursues the utterly destroyed
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Pursued unexpectedly, unworthy doubted, devotion offered, love transcending ruin
 
 dynamic_inhibition:
-  blockade: The figure cannot accept the pursuit; shame and unworthiness prevent receiving love
-  consequence: The figure runs from the devotion; the knight must pursue further
+  mechanism: The figure cannot accept the pursuit
+  blockade_nature: shame and unworthiness prevent receiving love
+  swords_state: The figure runs from the devotion
+  consequence: the knight must pursue further
+  key_terms: figure cannot accept the pursuit, shame and unworthiness prevent receiving, figure runs from the devotion, knight must pursue further
 
 dynamic_devolution:
-  corruption: The knight of cups becomes a phantom devotion; the figure cannot believe the love is real
+  mechanism: The knight of cups becomes a phantom devotion
+  mode: the figure cannot believe the love is real
   loss: The figure loses the capacity to imagine being loved after devastation; they believe themselves permanently unworthy
+  key_terms: figure cannot believe the love, figure loses the capacity, knight of cups
 
 dynamic_dependency:
-  integration: The ruin and the devoted pursuit teach about the power of love to transcend devastation; the figure learns through being pursued that they are worthy of love despite destruction; when they finally accept the devotion, the healing accelerates; the devastation becomes the ground of profound romantic connection
-  outcome: The knight of cups finally reaches the devastated figure; the love transforms them; the devotion is proven real through persistence; the ruin becomes the test that confirms the authenticity of the love; the quest becomes sacred because it has overcome such resistance
+  mechanism: The ruin and the devoted pursuit teach about the power of love to transcend devastation
+  function: the figure learns through being pursued that they are worthy of love despite destruction; when they finally accept the devotion, the healing accelerates; the devastation becomes the ground of profound romantic connection
+  integration_outcome: The knight of cups finally reaches the devastated figure; the love transforms them; the devotion is proven real through persistence; the ruin becomes the test that confirms the authenticity of the love; the quest becomes sacred because it has overcome such resistance
+  key_terms: figure learns through being pursued, knight of cups finally reaches, ruin and the devoted pursuit
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, Queen of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Loving Mother, The Emotional Sustenance, The Heart's Comfort, Care Unconditional
-numerical_relation: 10 + 13 = 23; the ruin meets the fullness of nurturing love
+numerical_relation: 10 + 13 = 23 → 2+3=5 (V The Pope; the ruin meets the fullness of nurturing love)
 elemental_bridge: Air (devastation as wounding) meets Water (maternal healing); the destroyed are held in the queen's embrace
 threshold_type: The moment when unconditional love receives the utterly shattered
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Healed through love, beyond repair or not, maternal embrace, conditional vs unconditional
 
 dynamic_inhibition:
-  blockade: The figure cannot receive the maternal healing; the devastation has made them believe they are unworthy
-  consequence: The figure resists the love even as it is offered; healing is delayed
+  mechanism: The figure cannot receive the maternal healing
+  blockade_nature: the devastation has made them believe they are unworthy
+  swords_state: The figure resists the love even as it is offered
+  consequence: healing is delayed
+  key_terms: figure cannot receive the maternal, devastation has made them believe, figure resists the love even, healing is delayed
 
 dynamic_devolution:
-  corruption: The queen of cups becomes a vision of the care that devastation has made them believe they no longer deserve
+  mechanism: The queen of cups becomes a vision of the care that devastation has made them believe they no longer deserve
+  mode: The queen of cups becomes a vision of the care that devastation has made them believe they no longer deserve
   loss: The figure loses the capacity to imagine being held; they internalize themselves as unworthy of maternal love
+  key_terms: queen of cups, figure loses the capacity, held tension
 
 dynamic_dependency:
-  integration: The ruin and the maternal love teach about the power of unconditional acceptance to heal devastation; the figure learns through being held that they are worthy of care despite being broken; when they finally surrender to the embrace, deep healing begins; the devastation becomes the ground of profound regeneration
-  outcome: The queen of cups holds the utterly devastated figure and transforms their understanding; the healing is real because it accepts the figure in their worst state; the maternal love is proven through the act of holding the broken; the ruin becomes the material from which the figure is reshaped; the queen becomes the ultimate healer
+  mechanism: The ruin and the maternal love teach about the power of unconditional acceptance to heal devastation
+  function: the figure learns through being held that they are worthy of care despite being broken; when they finally surrender to the embrace, deep healing begins; the devastation becomes the ground of profound regeneration
+  integration_outcome: The queen of cups holds the utterly devastated figure and transforms their understanding; the healing is real because it accepts the figure in their worst state; the maternal love is proven through the act of holding the broken; the ruin becomes the material from which the figure is reshaped; the queen becomes the ultimate healer
+  key_terms: figure learns through being held, queen of cups holds, ruin and the maternal love
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with water graduation
   encoding: UTF-8
-  elemental_primary: air-water
-  numerical_axis: 1-14
-  uid: TOCS
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC
 
 ---
 
 card_pair: 10 of Swords, King of Cups
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_cups: The Emotional Master, The Heart Balanced, The Compassionate Authority, Feeling Mastered
-numerical_relation: 10 + 14 = 24; the ruin meets the mastery of emotional truth
+numerical_relation: 10 + 14 = 24 → 2+4=6 (VI The Lovers; the ruin meets the mastery of emotional truth)
 elemental_bridge: Air (emotional devastation) meets Water (emotional mastery); the destroyed learn to master their own healing
 threshold_type: The moment when the ruined become masters of their own emotional recovery
 
@@ -578,13 +669,29 @@ dynamic_antagonism:
   key_terms: Emotional slavery to devastation, mastery possible, wisdom earned, authority recovered
 
 dynamic_inhibition:
-  blockade: The figure cannot master their own emotional response; devastation is too overwhelming
+  mechanism: The figure cannot master their own emotional response
+  blockade_nature: devastation is too overwhelming
+  swords_state: The figure remains enslaved to the emotional chaos devastation has created
   consequence: The figure remains enslaved to the emotional chaos devastation has created
+  key_terms: figure cannot master their own, devastation is too overwhelming, figure remains enslaved
 
 dynamic_devolution:
-  corruption: The king of cups becomes a vision of the emotional authority the figure has lost; mastery seems impossible
+  mechanism: The king of cups becomes a vision of the emotional authority the figure has lost
+  mode: mastery seems impossible
   loss: The figure loses the belief that they could ever master their own emotions again; they internalize themselves as permanently enslaved to devastation
+  key_terms: mastery seems impossible, figure loses the belief, king of cups
 
 dynamic_dependency:
-  integration: The ruin and the emotional mastery teach that recovery is not escape from feeling but conscious relationship with it; the figure learns through devastation that emotional authority is earned through the passage through emotional chaos; when they begin to observe their own reactions with compassion rather than judgment, the mastery becomes possible; the devastation becomes the ground of genuine wisdom
-  outcome: The king of cups eventually illuminates the figure whose emotional devastation has become the source of genuine compassion; the mastery is earned through having survived complete emotional destruction; the authority is real because it has been reclaimed from devastation; the ruler of emotion emerges from the ruins; the figure becomes a true master of the emotional realm because they have journeyed through complete emotional devastation
+  mechanism: The ruin and the emotional mastery teach that recovery is not escape from feeling but conscious relationship with it
+  function: the figure learns through devastation that emotional authority is earned through the passage through emotional chaos; when they begin to observe their own reactions with compassion rather than judgment, the mastery becomes possible; the devastation becomes the ground of genuine wisdom
+  integration_outcome: The king of cups eventually illuminates the figure whose emotional devastation has become the source of genuine compassion; the mastery is earned through having survived complete emotional destruction; the authority is real because it has been reclaimed from devastation; the ruler of emotion emerges from the ruins; the figure becomes a true master of the emotional realm because they have journeyed through complete emotional devastation
+  key_terms: figure learns through devastation, king of cups eventually illuminates, ruin and the emotional mastery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to water (cups)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSC

@@ -1,7 +1,7 @@
 card_pair: 10 of Swords, Ace of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Spark Ignited, The Creative Fire, The Inspiration Struck, Passion Emerging
-numerical_relation: 10 + 1 = 11; the ruin meets the arrival of creative fire
+numerical_relation: 10 + 1 = 11 (XI Strength; the ruin meets the arrival of creative fire)
 elemental_bridge: Air (devastated passion) meets Fire (ignited creativity); the destroyed are offered renewal through creation
 threshold_type: The moment when creative fire arrives to the completely destroyed
 
@@ -19,32 +19,39 @@ dynamic_antagonism:
   key_terms: Extinguished creativity, spark offered, passion rekindling, creation possible
 
 dynamic_inhibition:
-  blockade: The figure cannot accept the creative impulse; devastation has destroyed their will to create
-  consequence: The spark is offered but rejected; creativity remains dead
+  mechanism: The figure cannot accept the creative impulse
+  blockade_nature: devastation has destroyed their will to create
+  swords_state: The spark is offered but rejected
+  consequence: creativity remains dead
+  key_terms: figure cannot accept the creative, devastation has destroyed their will, spark is offered but rejected, creativity remains dead
 
 dynamic_devolution:
-  corruption: The ace of wands becomes a reminder of the creativity devastation destroyed
+  mechanism: The ace of wands becomes a reminder of the creativity devastation destroyed
+  mode: The ace of wands becomes a reminder of the creativity devastation destroyed
   loss: The figure loses belief they could ever create again; they internalize the devastation as permanent creative death
+  key_terms: ace of wands, figure loses belief they could, held tension
 
 dynamic_dependency:
-  integration: The ruin and the creative spark teach that creation is possible after devastation; when the figure finally accepts the impulse, healing accelerates through making; the devastation becomes material for creation; the ruin becomes the foundation of authentic artistic expression
-  outcome: The ace of wands ignites the figure whose devastation has clarified what they truly want to create; the fire is real because it has survived the attempted extinction; the creativity is profound because it has been earned through loss
+  mechanism: The ruin and the creative spark teach that creation is possible after devastation
+  function: when the figure finally accepts the impulse, healing accelerates through making; the devastation becomes material for creation; the ruin becomes the foundation of authentic artistic expression
+  integration_outcome: The ace of wands ignites the figure whose devastation has clarified what they truly want to create; the fire is real because it has survived the attempted extinction; the creativity is profound because it has been earned through loss
+  key_terms: when the figure finally accepts, ace of wands ignites, ruin and the creative spark
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, 2 of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Planner, The Vision Held, The World Contemplated, Possibility Visible
-numerical_relation: 10 + 2 = 12; the ruin meets the envisioning of possibility
+numerical_relation: 10 + 2 = 12 (XII The Hanged Man; the ruin meets the envisioning of possibility)
 elemental_bridge: Air (devastation destroying vision) meets Fire (vision returning); the destroyed can imagine again
 threshold_type: The moment when the ruined can begin to vision a future
 
@@ -62,32 +69,39 @@ dynamic_antagonism:
   key_terms: Vision denied, future emerged, imagination returning, possibility real
 
 dynamic_inhibition:
-  blockade: The figure cannot sustain the vision; devastation clouds it
-  consequence: The vision fades; the future remains dark
+  mechanism: The figure cannot sustain the vision
+  blockade_nature: devastation clouds it
+  swords_state: The vision fades
+  consequence: the future remains dark
+  key_terms: figure cannot sustain the vision, devastation clouds it, vision fades, future remains dark
 
 dynamic_devolution:
-  corruption: The two of wands becomes a cruel vision of futures that may never occur
+  mechanism: The two of wands becomes a cruel vision of futures that may never occur
+  mode: The two of wands becomes a cruel vision of futures that may never occur
   loss: The figure loses the capacity to imagine positive futures; they internalize devastation as permanent
+  key_terms: two of wands, figure loses the capacity, held tension
 
 dynamic_dependency:
-  integration: The ruin and the vision teach that futures are built after devastation; the figure learns through loss that imagining is the first step toward recovery; when they can hold the vision despite doubt, the future becomes possible; the devastation becomes the ground from which new vision emerges
-  outcome: The two of wands plants its vision in the figure who has survived devastation; the future becomes visible; the possibility becomes real; the ruin becomes the beginning of a new chapter
+  mechanism: The ruin and the vision teach that futures are built after devastation
+  function: the figure learns through loss that imagining is the first step toward recovery; when they can hold the vision despite doubt, the future becomes possible; the devastation becomes the ground from which new vision emerges
+  integration_outcome: The two of wands plants its vision in the figure who has survived devastation; the future becomes visible; the possibility becomes real; the ruin becomes the beginning of a new chapter
+  key_terms: figure learns through loss, two of wands plants, ruin and the vision teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, 3 of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Traveler, The Distant Vision, The Exploration Begun, Horizon Sought
-numerical_relation: 10 + 3 = 13; the ruin meets the call to exploration
+numerical_relation: 10 + 3 = 13 (XIII Death; the ruin meets the call to exploration)
 elemental_bridge: Air (devastation as imprisonment) meets Fire (adventure calling); the destroyed hear the call
 threshold_type: The moment when the ruined are invited to begin a new journey
 
@@ -105,32 +119,39 @@ dynamic_antagonism:
   key_terms: Call heard, journey possible, travel beginning, horizons beckoning
 
 dynamic_inhibition:
-  blockade: The figure cannot answer the call; the devastation anchors them in place
-  consequence: The figure remains in the place of devastation; healing is delayed
+  mechanism: The figure cannot answer the call
+  blockade_nature: the devastation anchors them in place
+  swords_state: The figure remains in the place of devastation
+  consequence: healing is delayed
+  key_terms: figure cannot answer the call, devastation anchors them in place, figure remains in the place, healing is delayed
 
 dynamic_devolution:
-  corruption: The three of wands becomes a vision of journeys never taken; the figure imagines traveling but knows they are rooted in ruin
+  mechanism: The three of wands becomes a vision of journeys never taken
+  mode: the figure imagines traveling but knows they are rooted in ruin
   loss: The figure loses the capacity to imagine moving forward; they internalize devastation as permanent location
+  key_terms: figure imagines traveling but knows, figure loses the capacity, three of wands
 
 dynamic_dependency:
-  integration: The ruin and the call teach that movement is recovery; the figure learns through devastation that sometimes leaving is the first step toward healing; when they finally journey, they discover that the world has continued and healing is possible elsewhere; the devastation becomes the doorway to adventure
-  outcome: The three of wands calls the figure who has survived devastation; the journey begins; the horizons become visible; the adventure becomes real; the ruin becomes the beginning of a new quest
+  mechanism: The ruin and the call teach that movement is recovery
+  function: the figure learns through devastation that sometimes leaving is the first step toward healing; when they finally journey, they discover that the world has continued and healing is possible elsewhere; the devastation becomes the doorway to adventure
+  integration_outcome: The three of wands calls the figure who has survived devastation; the journey begins; the horizons become visible; the adventure becomes real; the ruin becomes the beginning of a new quest
+  key_terms: figure learns through devastation, three of wands calls, ruin and the call teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, 4 of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Celebration, The Foundation Secured, The Homecoming Achieved, Stability Joyful
-numerical_relation: 10 + 4 = 14; the ruin meets the joy of arrival
+numerical_relation: 10 + 4 = 14 (XIV Temperance; the ruin meets the joy of arrival)
 elemental_bridge: Air (devastation as displacement) meets Fire (rooted festivity); the destroyed find home again
 threshold_type: The moment when the ruined arrive at safety and can finally celebrate
 
@@ -148,32 +169,39 @@ dynamic_antagonism:
   key_terms: Displacement ended, stability achieved, homecoming real, celebration possible
 
 dynamic_inhibition:
-  blockade: The figure cannot rest even in safety; the wound of devastation is too fresh
-  consequence: The figure cannot fully celebrate; the trauma shadows the arrival
+  mechanism: The figure cannot rest even in safety
+  blockade_nature: the wound of devastation is too fresh
+  swords_state: The figure cannot fully celebrate
+  consequence: the trauma shadows the arrival
+  key_terms: figure cannot rest even, wound of devastation is too, figure cannot fully celebrate, trauma shadows the arrival
 
 dynamic_devolution:
-  corruption: The four of wands becomes a reminder of homes lost to devastation
+  mechanism: The four of wands becomes a reminder of homes lost to devastation
+  mode: The four of wands becomes a reminder of homes lost to devastation
   loss: The figure loses the capacity to trust stability; they believe devastation will strike again
+  key_terms: four of wands, figure loses the capacity, held tension
 
 dynamic_dependency:
-  integration: The ruin and the homecoming teach that safety is possible even after devastation; the figure learns through arriving that recovery is real; when they can finally rest, healing accelerates; the devastation becomes the journey that leads to true home
-  outcome: The four of wands celebrates the figure who has finally arrived after devastation; the stability is real because it has been tested; the homecoming is sacred because it follows displacement; the ruin becomes the threshold of genuine arrival
+  mechanism: The ruin and the homecoming teach that safety is possible even after devastation
+  function: the figure learns through arriving that recovery is real; when they can finally rest, healing accelerates; the devastation becomes the journey that leads to true home
+  integration_outcome: The four of wands celebrates the figure who has finally arrived after devastation; the stability is real because it has been tested; the homecoming is sacred because it follows displacement; the ruin becomes the threshold of genuine arrival
+  key_terms: figure learns through arriving, four of wands celebrates, ruin and the homecoming teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, 5 of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Conflict, The Competing Desires, The Passionate Struggle, Challenge Faced
-numerical_relation: 10 + 5 = 15; the ruin meets the conflict of wills
+numerical_relation: 10 + 5 = 15 (XV The Devil; the ruin meets the conflict of wills)
 elemental_bridge: Air (devastation as defeat) meets Fire (passionate conflict); the destroyed must learn to struggle again
 threshold_type: The moment when the ruined discover their own will still exists
 
@@ -191,32 +219,39 @@ dynamic_antagonism:
   key_terms: Will surviving, struggle possible, passion persisting, fighting renewed
 
 dynamic_inhibition:
-  blockade: The figure still cannot fully engage; the devastation is too recent
-  consequence: The figure is weakened but not broken; the struggle continues
+  mechanism: The figure still cannot fully engage
+  blockade_nature: the devastation is too recent
+  swords_state: The figure is weakened but not broken
+  consequence: the struggle continues
+  key_terms: figure still cannot fully engage, devastation is too recent, figure is weakened, struggle continues
 
 dynamic_devolution:
-  corruption: The five of wands becomes evidence that the devastation did not kill the fight
+  mechanism: The five of wands becomes evidence that the devastation did not kill the fight
+  mode: The five of wands becomes evidence that the devastation did not kill the fight
   loss: The figure learns they are not as destroyed as they thought; the will persists
+  key_terms: five of wands becomes evidence, figure learns they, held tension
 
 dynamic_dependency:
-  integration: The ruin and the conflict teach that the will to struggle is itself evidence of recovery beginning; the figure learns through engaging with the five of wands that they are not dead inside; when they can fight, even weakly, they know healing has begun; the devastation becomes the dark night before the fight returns
-  outcome: The five of wands meets the figure who has discovered their will survived devastation; the struggle is real; the passion is rekindled; the ruin becomes the threshold of renewed capacity to fight
+  mechanism: The ruin and the conflict teach that the will to struggle is itself evidence of recovery beginning
+  function: the figure learns through engaging with the five of wands that they are not dead inside; when they can fight, even weakly, they know healing has begun; the devastation becomes the dark night before the fight returns
+  integration_outcome: The five of wands meets the figure who has discovered their will survived devastation; the struggle is real; the passion is rekindled; the ruin becomes the threshold of renewed capacity to fight
+  key_terms: figure learns through engaging, five of wands meets, ruin and the conflict teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, 6 of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Victor, The Acclaim Achieved, The Recognition Won, Victory Celebrated
-numerical_relation: 10 + 6 = 15; the ruin meets the fullness of triumph
+numerical_relation: 10 + 6 = 16 (XVI The Tower; the ruin meets the fullness of triumph)
 elemental_bridge: Air (complete devastation) meets Fire (victory emerging); the destroyed experience unexpected triumph
 threshold_type: The moment when the ruined discover they have survived and are recognized for it
 
@@ -234,32 +269,39 @@ dynamic_antagonism:
   key_terms: Survival triumph, recognition of strength, victory unexpected, acknowledgment real
 
 dynamic_inhibition:
-  blockade: The figure cannot accept recognition; they do not believe their survival is victory
+  mechanism: The figure cannot accept recognition
+  blockade_nature: they do not believe their survival is victory
+  swords_state: The triumph is achieved but unacknowledged
   consequence: The triumph is achieved but unacknowledged
+  key_terms: figure cannot accept recognition, they do not believe, triumph is achieved but unacknowledged
 
 dynamic_devolution:
-  corruption: The six of wands becomes evidence of a victory that does not feel real
+  mechanism: The six of wands becomes evidence of a victory that does not feel real
+  mode: The six of wands becomes evidence of a victory that does not feel real
   loss: The figure struggles to believe they have actually survived and deserve recognition
+  key_terms: six of wands becomes evidence, figure struggles to believe they, held tension
 
 dynamic_dependency:
-  integration: The ruin and the victory teach that surviving devastation is genuine achievement; the figure learns through being recognized that they are stronger than they believed; when they accept the acknowledgment, they begin to see their own strength; the devastation becomes the measure of their capacity to endure
-  outcome: The six of wands celebrates the figure who has survived devastation; the recognition is real; the victory is genuine; the ruin becomes proof of extraordinary strength; the figure learns they are capable of far more than they imagined
+  mechanism: The ruin and the victory teach that surviving devastation is genuine achievement
+  function: the figure learns through being recognized that they are stronger than they believed; when they accept the acknowledgment, they begin to see their own strength; the devastation becomes the measure of their capacity to endure
+  integration_outcome: The six of wands celebrates the figure who has survived devastation; the recognition is real; the victory is genuine; the ruin becomes proof of extraordinary strength; the figure learns they are capable of far more than they imagined
+  key_terms: figure learns through being recognized, six of wands celebrates, ruin and the victory teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, 7 of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Defender, The Boundary Maintained, The Passion Protected, Ground Held
-numerical_relation: 10 + 7 = 17; the ruin meets the defense of what matters
+numerical_relation: 10 + 7 = 17 (XVII The Star; the ruin meets the defense of what matters)
 elemental_bridge: Air (devastation destroying boundaries) meets Fire (boundaries being rebuilt); the destroyed learn to defend themselves again
 threshold_type: The moment when the ruined reclaim their own ground
 
@@ -277,32 +319,39 @@ dynamic_antagonism:
   key_terms: Vulnerability exposed, boundaries rebuilt, defense resumed, ground held
 
 dynamic_inhibition:
-  blockade: The figure is too weakened to defend effectively
-  consequence: The figure remains vulnerable; boundaries cannot be fully established
+  mechanism: The figure is too weakened to defend effectively
+  blockade_nature: The figure is too weakened to defend effectively
+  swords_state: The figure remains vulnerable
+  consequence: boundaries cannot be fully established
+  key_terms: figure is too weakened, figure remains vulnerable, boundaries cannot be fully established
 
 dynamic_devolution:
-  corruption: The seven of wands becomes evidence that the devastation has stolen the figure's capacity to defend
+  mechanism: The seven of wands becomes evidence that the devastation has stolen the figure's capacity to defend
+  mode: The seven of wands becomes evidence that the devastation has stolen the figure's capacity to defend
   loss: The figure loses the sense that they could ever protect themselves again
+  key_terms: seven of wands becomes evidence, figure loses the sense, held tension
 
 dynamic_dependency:
-  integration: The ruin and the defense teach that rebuilding boundaries is the work of recovery; the figure learns through devastation that standing ground again is gradual; when they can finally defend some small thing, the larger recovery becomes visible; the devastation becomes the motivation for boundary reconstruction
-  outcome: The seven of wands helps the figure reclaim ground after devastation; the boundaries are rebuilt; the defense is renewed; the ruin becomes the ground from which walls are rebuilt; the figure learns that protecting oneself is not weakness but strength
+  mechanism: The ruin and the defense teach that rebuilding boundaries is the work of recovery
+  function: the figure learns through devastation that standing ground again is gradual; when they can finally defend some small thing, the larger recovery becomes visible; the devastation becomes the motivation for boundary reconstruction
+  integration_outcome: The seven of wands helps the figure reclaim ground after devastation; the boundaries are rebuilt; the defense is renewed; the ruin becomes the ground from which walls are rebuilt; the figure learns that protecting oneself is not weakness but strength
+  key_terms: figure learns through devastation, seven of wands helps, ruin and the defense teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, 8 of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Rapid Movement, The Momentum Unleashed, The Passionate Flight, Speed Embodied
-numerical_relation: 10 + 8 = 18; the ruin meets the velocity of passion
+numerical_relation: 10 + 8 = 18 (XVIII The Moon; the ruin meets the velocity of passion)
 elemental_bridge: Air (devastation as paralysis) meets Fire (rapid movement); the destroyed begin to move again
 threshold_type: The moment when momentum returns to the paralyzed
 
@@ -320,32 +369,39 @@ dynamic_antagonism:
   key_terms: Paralysis ending, momentum recovered, movement possible, speed returning
 
 dynamic_inhibition:
-  blockade: The figure is still weak but the paralysis is breaking
-  consequence: The figure moves, even if slowly; momentum is returning
+  mechanism: The figure is still weak but the paralysis is breaking
+  blockade_nature: The figure is still weak but the paralysis is breaking
+  swords_state: The figure moves, even if slowly
+  consequence: momentum is returning
+  key_terms: figure is still weak, figure moves, momentum is returning
 
 dynamic_devolution:
-  corruption: The eight of wands becomes evidence that the devastation was not permanent
+  mechanism: The eight of wands becomes evidence that the devastation was not permanent
+  mode: The eight of wands becomes evidence that the devastation was not permanent
   loss: The figure realizes they have survived and are beginning to move forward
+  key_terms: eight of wands becomes evidence, figure realizes they have survived, held tension
 
 dynamic_dependency:
-  integration: The ruin and the movement teach that momentum returns gradually after devastation; the figure learns through moving that paralysis is not permanent; when they can finally move with some speed, the recovery is undeniable; the devastation becomes the stillness from which momentum emerges
-  outcome: The eight of wands carries the figure who has recovered enough to move; the momentum is real; the speed is genuine; the ruin becomes the garden from which new movement springs; the figure learns that what was frozen can thaw and move again
+  mechanism: The ruin and the movement teach that momentum returns gradually after devastation
+  function: the figure learns through moving that paralysis is not permanent; when they can finally move with some speed, the recovery is undeniable; the devastation becomes the stillness from which momentum emerges
+  integration_outcome: The eight of wands carries the figure who has recovered enough to move; the momentum is real; the speed is genuine; the ruin becomes the garden from which new movement springs; the figure learns that what was frozen can thaw and move again
+  key_terms: figure learns through moving, eight of wands carries, ruin and the movement teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, 9 of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Resilient Warrior, The Strength Tested, The Persistence Proven, Endurance Embodied
-numerical_relation: 10 + 9 = 19; the ruin meets the culmination of tested strength
+numerical_relation: 10 + 9 = 19 (XIX The Sun; the ruin meets the culmination of tested strength)
 elemental_bridge: Air (devastation as defeat) meets Fire (strength forged); the destroyed become warriors
 threshold_type: The moment when the ruined discover the strength they have developed
 
@@ -363,32 +419,39 @@ dynamic_antagonism:
   key_terms: Forged strength, warrior consciousness, tested resilience, endurance earned
 
 dynamic_inhibition:
-  blockade: The figure has survived but does not yet recognize their own strength
+  mechanism: The figure has survived but does not yet recognize their own strength
+  blockade_nature: The figure has survived but does not yet recognize their own strength
+  swords_state: The figure exists as a warrior without knowing it
   consequence: The figure exists as a warrior without knowing it
+  key_terms: figure has survived but does, figure exists as a warrior, held tension
 
 dynamic_devolution:
-  corruption: The nine of wands becomes evidence that what the figure thought was death was actually transformation
+  mechanism: The nine of wands becomes evidence that what the figure thought was death was actually transformation
+  mode: The nine of wands becomes evidence that what the figure thought was death was actually transformation
   loss: The figure realizes their devastation was not the end but the beginning
+  key_terms: nine of wands becomes evidence, figure realizes their devastation, held tension
 
 dynamic_dependency:
-  integration: The ruin and the warrior consciousness teach that strength is earned through devastation; the figure learns by becoming a warrior that what broke them has also built them; when they recognize the strength they have gained, the narrative of devastation transforms into a narrative of triumph; the devastation becomes the crucible of genuine resilience
-  outcome: The nine of wands recognizes the figure who has become a warrior through devastation; the strength is real; the endurance is proven; the ruin becomes the legend of the warrior's forging; the figure learns that what they thought was their destruction was actually their greatest testing ground
+  mechanism: The ruin and the warrior consciousness teach that strength is earned through devastation
+  function: the figure learns by becoming a warrior that what broke them has also built them; when they recognize the strength they have gained, the narrative of devastation transforms into a narrative of triumph; the devastation becomes the crucible of genuine resilience
+  integration_outcome: The nine of wands recognizes the figure who has become a warrior through devastation; the strength is real; the endurance is proven; the ruin becomes the legend of the warrior's forging; the figure learns that what they thought was their destruction was actually their greatest testing ground
+  key_terms: figure learns by becoming, nine of wands recognizes, ruin and the warrior consciousness
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, 10 of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Burdened Traveler, The Weight Carried, The Mission Overwhelming, Responsibility Heavy
-numerical_relation: 10 + 10 = 20; the ruin meets the fullness of burden
+numerical_relation: 10 + 10 = 20 (XX Judgement; the ruin meets the fullness of burden)
 elemental_bridge: Air (devastation as burden) meets Fire (chosen responsibility); the destroyed carry new burdens
 threshold_type: The moment when the ruined take on the responsibility of their own recovery
 
@@ -406,32 +469,39 @@ dynamic_antagonism:
   key_terms: Recovery burden, chosen responsibility, rebuilding labor, mission accepted
 
 dynamic_inhibition:
-  blockade: The figure is burdened by both devastation and recovery
+  mechanism: The figure is burdened by both devastation and recovery
+  blockade_nature: The figure is burdened by both devastation and recovery
+  swords_state: The weight is heavy but the figure continues to carry it
   consequence: The weight is heavy but the figure continues to carry it
+  key_terms: figure is burdened, weight is heavy, held tension
 
 dynamic_devolution:
-  corruption: The ten of wands becomes evidence that recovery is a burden equal to devastation
+  mechanism: The ten of wands becomes evidence that recovery is a burden equal to devastation
+  mode: The ten of wands becomes evidence that recovery is a burden equal to devastation
   loss: The figure realizes that healing is work; that moving forward requires effort
+  key_terms: ten of wands becomes evidence, figure realizes that healing, held tension
 
 dynamic_dependency:
-  integration: The ruin and the burden teach that recovery is a chosen mission; the figure learns by carrying the burden that they are actively healing; when they accept the responsibility of rebuilding, the devastation becomes material for transformation; the weight becomes meaningful; the devastation becomes the beginning of a new quest
-  outcome: The ten of wands honors the figure who carries the burden of recovery; the mission is real; the responsibility is chosen; the ruin becomes the ground of sacred work; the figure learns that what was broken can be rebuilt through dedicated labor
+  mechanism: The ruin and the burden teach that recovery is a chosen mission
+  function: the figure learns by carrying the burden that they are actively healing; when they accept the responsibility of rebuilding, the devastation becomes material for transformation; the weight becomes meaningful; the devastation becomes the beginning of a new quest
+  integration_outcome: The ten of wands honors the figure who carries the burden of recovery; the mission is real; the responsibility is chosen; the ruin becomes the ground of sacred work; the figure learns that what was broken can be rebuilt through dedicated labor
+  key_terms: figure learns by carrying, ten of wands honors, ruin and the burden teach
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, Page of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Messenger, The News Brought, The Enthusiastic Call, Excitement Arriving
-numerical_relation: 10 + 11 = 21; the ruin meets the arrival of exciting news
+numerical_relation: 10 + 11 = 21 (XXI The World; the ruin meets the arrival of exciting news)
 elemental_bridge: Air (devastation as silence) meets Fire (exciting announcement); the destroyed hear good news
 threshold_type: The moment when good news arrives to the devastated
 
@@ -449,32 +519,39 @@ dynamic_antagonism:
   key_terms: News unheard, hope returning, possibility announced, excitement possible
 
 dynamic_inhibition:
-  blockade: The figure cannot fully receive the good news; doubt clouds the message
+  mechanism: The figure cannot fully receive the good news
+  blockade_nature: doubt clouds the message
+  swords_state: The news is heard but not fully believed
   consequence: The news is heard but not fully believed
+  key_terms: figure cannot fully receive, doubt clouds the message, news is heard
 
 dynamic_devolution:
-  corruption: The page of wands becomes evidence that hope is naive after devastation
+  mechanism: The page of wands becomes evidence that hope is naive after devastation
+  mode: The page of wands becomes evidence that hope is naive after devastation
   loss: The figure struggles to believe the good news; they fear hoping again
+  key_terms: page of wands becomes evidence, figure struggles to believe, held tension
 
 dynamic_dependency:
-  integration: The ruin and the good news teach that hope returns gradually; the figure learns through the announcement that recovery is beginning; when they allow themselves to feel excited, the healing accelerates; the devastation becomes the context in which small good news becomes profound
-  outcome: The page of wands finally reaches the figure whose devastation has prepared them to truly appreciate good news; the excitement becomes real; the possibility is genuine; the ruin becomes the darkness that makes the news shine; the figure learns that joy returns in small announcements
+  mechanism: The ruin and the good news teach that hope returns gradually
+  function: the figure learns through the announcement that recovery is beginning; when they allow themselves to feel excited, the healing accelerates; the devastation becomes the context in which small good news becomes profound
+  integration_outcome: The page of wands finally reaches the figure whose devastation has prepared them to truly appreciate good news; the excitement becomes real; the possibility is genuine; the ruin becomes the darkness that makes the news shine; the figure learns that joy returns in small announcements
+  key_terms: figure learns through the announcement, page of wands finally reaches, ruin and the good news
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, Knight of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Explorer, The Adventurous Spirit, The Quest Embodied, Passion in Motion
-numerical_relation: 10 + 12 = 22; the ruin meets the embodiment of passionate exploration
+numerical_relation: 10 + 12 = 22 → 2+2=4 (IV The Emperor; the ruin meets the embodiment of passionate exploration)
 elemental_bridge: Air (devastation as imprisonment) meets Fire (adventurous freedom); the destroyed become explorers
 threshold_type: The moment when the ruined reclaim their adventurous spirit
 
@@ -492,32 +569,39 @@ dynamic_antagonism:
   key_terms: Spirit returning, adventure possible, exploration renewed, passion reignited
 
 dynamic_inhibition:
-  blockade: The figure is still weakened but the adventurous spirit is awakening
+  mechanism: The figure is still weakened but the adventurous spirit is awakening
+  blockade_nature: The figure is still weakened but the adventurous spirit is awakening
+  swords_state: The figure begins to feel the call to adventure again
   consequence: The figure begins to feel the call to adventure again
+  key_terms: figure is still weakened, figure begins to feel, held tension
 
 dynamic_devolution:
-  corruption: The knight of wands becomes evidence that the spirit survived devastation
+  mechanism: The knight of wands becomes evidence that the spirit survived devastation
+  mode: The knight of wands becomes evidence that the spirit survived devastation
   loss: The figure realizes they are not dead inside; the adventurer persists
+  key_terms: knight of wands becomes evidence, figure realizes they, held tension
 
 dynamic_dependency:
-  integration: The ruin and the adventurous spirit teach that the core essence cannot be destroyed; the figure learns through the awakening of their explorer self that they have survived; when they answer the call to adventure, the recovery becomes undeniable; the devastation becomes the valley before the peak of new exploration
-  outcome: The knight of wands recognizes the figure who has reclaimed their adventurous spirit; the exploration begins; the passion is real; the ruin becomes the darkness of the cave from which the explorer emerges; the figure learns that their essential nature is unbreakable
+  mechanism: The ruin and the adventurous spirit teach that the core essence cannot be destroyed
+  function: the figure learns through the awakening of their explorer self that they have survived; when they answer the call to adventure, the recovery becomes undeniable; the devastation becomes the valley before the peak of new exploration
+  integration_outcome: The knight of wands recognizes the figure who has reclaimed their adventurous spirit; the exploration begins; the passion is real; the ruin becomes the darkness of the cave from which the explorer emerges; the figure learns that their essential nature is unbreakable
+  key_terms: figure learns through the awakening, knight of wands recognizes, ruin and the adventurous spirit
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, Queen of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Charismatic Creator, The Inspiring Presence, The Passionate Magnetism, Presence Radiant
-numerical_relation: 10 + 13 = 23; the ruin meets the fullness of creative magnetism
+numerical_relation: 10 + 13 = 23 → 2+3=5 (V The Pope; the ruin meets the fullness of creative magnetism)
 elemental_bridge: Air (devastation dimming light) meets Fire (radiant presence); the destroyed begin to shine again
 threshold_type: The moment when the ruined reclaim their creative magnetism
 
@@ -535,32 +619,39 @@ dynamic_antagonism:
   key_terms: Light returning, presence restored, magnetism recovered, radiance possible
 
 dynamic_inhibition:
-  blockade: The figure is beginning to shine but the light is still dim
+  mechanism: The figure is beginning to shine but the light is still dim
+  blockade_nature: The figure is beginning to shine but the light is still dim
+  swords_state: The figure radiates weakly but the return is beginning
   consequence: The figure radiates weakly but the return is beginning
+  key_terms: figure is beginning to shine, figure radiates weakly, held tension
 
 dynamic_devolution:
-  corruption: The queen of wands becomes evidence that the light survived devastation
+  mechanism: The queen of wands becomes evidence that the light survived devastation
+  mode: The queen of wands becomes evidence that the light survived devastation
   loss: The figure realizes they are not completely dark; the radiance persists
+  key_terms: queen of wands becomes evidence, figure realizes they, held tension
 
 dynamic_dependency:
-  integration: The ruin and the creative magnetism teach that presence cannot be permanently destroyed; the figure learns through the rekindling of their light that they are meant to shine; when their presence is fully restored, the devastation becomes a memory; the ruin becomes the night from which the sun returns
-  outcome: The queen of wands recognizes the figure who has reclaimed their radiance; the presence is restored; the magnetism is real; the ruin becomes the shadow that makes the light shine brighter; the figure learns that they are a source of light for others because they have survived darkness
+  mechanism: The ruin and the creative magnetism teach that presence cannot be permanently destroyed
+  function: the figure learns through the rekindling of their light that they are meant to shine; when their presence is fully restored, the devastation becomes a memory; the ruin becomes the night from which the sun returns
+  integration_outcome: The queen of wands recognizes the figure who has reclaimed their radiance; the presence is restored; the magnetism is real; the ruin becomes the shadow that makes the light shine brighter; the figure learns that they are a source of light for others because they have survived darkness
+  key_terms: figure learns through the rekindling, queen of wands recognizes, ruin and the creative magnetism
 
 structural_metadata:
   series_count: 14
-  format_version: 1.2
+  format_version: 1.3
   ontology: jodorowskian numerological psychology with fire graduation
   encoding: UTF-8
-  elemental_primary: air-fire
-  numerical_axis: 1-14
-  uid: TOSW
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW
 
 ---
 
 card_pair: 10 of Swords, King of Wands
 archetype_swords: The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation
 archetype_wands: The Master of Fire, The Visionary Leader, The Passionate Authority, Rule Through Inspiration
-numerical_relation: 10 + 14 = 24; the ruin meets the culmination of inspired leadership
+numerical_relation: 10 + 14 = 24 → 2+4=6 (VI The Lovers; the ruin meets the culmination of inspired leadership)
 elemental_bridge: Air (devastation destroying authority) meets Fire (visionary leadership returning); the destroyed become leaders
 threshold_type: The moment when the ruined discover they can lead again
 
@@ -578,13 +669,29 @@ dynamic_antagonism:
   key_terms: Authority returning, leadership renewed, vision restored, inspiration rekindled
 
 dynamic_inhibition:
-  blockade: The figure is beginning to lead but authority is still fragile
+  mechanism: The figure is beginning to lead but authority is still fragile
+  blockade_nature: The figure is beginning to lead but authority is still fragile
+  swords_state: The figure leads gently but the authority is being reclaimed
   consequence: The figure leads gently but the authority is being reclaimed
+  key_terms: figure is beginning to lead, figure leads gently, held tension
 
 dynamic_devolution:
-  corruption: The king of wands becomes evidence that authority survived devastation
+  mechanism: The king of wands becomes evidence that authority survived devastation
+  mode: The king of wands becomes evidence that authority survived devastation
   loss: The figure realizes they are not powerless; the leader persists
+  key_terms: king of wands becomes evidence, figure realizes they, held tension
 
 dynamic_dependency:
-  integration: The ruin and the leadership teach that authority cannot be permanently destroyed; the figure learns through the recovery of their own leadership that they have become a true king or queen; the devastation becomes the initiation that made them worthy to rule; when their authority is fully restored, the devastation becomes wisdom they can share
-  outcome: The king of wands recognizes the figure who has become a true leader through devastation; the authority is real; the vision is inspired; the ruin becomes the crucible in which the genuine leader is forged; the figure learns that the greatest leaders are those who have survived devastation and risen to lead others toward healing
+  mechanism: The ruin and the leadership teach that authority cannot be permanently destroyed
+  function: the figure learns through the recovery of their own leadership that they have become a true king or queen; the devastation becomes the initiation that made them worthy to rule; when their authority is fully restored, the devastation becomes wisdom they can share
+  integration_outcome: The king of wands recognizes the figure who has become a true leader through devastation; the authority is real; the vision is inspired; the ruin becomes the crucible in which the genuine leader is forged; the figure learns that the greatest leaders are those who have survived devastation and risen to lead others toward healing
+  key_terms: figure learns through the recovery, king of wands recognizes, ruin and the leadership teach
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: air (swords) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOSW

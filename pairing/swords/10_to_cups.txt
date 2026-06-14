@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: the devastation has closed the heart
   swords_state: The cup is offered but the figure is too destroyed to receive it
   consequence: The cup is offered but the figure is too destroyed to receive it
-  key_terms: figure cannot feel the love, devastation has closed the heart, cup is offered
+  key_terms: the closed heart, love unreceivable, too destroyed to drink, the offered cup refused
 
 dynamic_devolution:
   mechanism: The ace of cups becomes evidence of too-late mercy
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: devastation has destroyed their self-worth
   swords_state: The figure rejects the union out of shame
   consequence: healing is delayed
-  key_terms: figure cannot believe they deserve, devastation has destroyed their self-worth, figure rejects the union out, healing is delayed
+  key_terms: undeserving of partnership, self-worth destroyed, union rejected in shame, delayed healing
 
 dynamic_devolution:
   mechanism: The two of cups becomes cruel evidence of what was lost
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: shame prevents participation
   swords_state: The figure remains alone
   consequence: the community's invitation is rejected
-  key_terms: figure cannot join the celebration, shame prevents participation, figure remains alone, community's invitation is rejected
+  key_terms: shame blocking participation, remaining alone, the rejected invitation, isolation in ruin
 
 dynamic_devolution:
   mechanism: The three of cups becomes a reminder of the joy that was destroyed
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: devastation has numbed them completely
   swords_state: The figure becomes emotionally dead
   consequence: they exist but do not live
-  key_terms: figure cannot feel, devastation has numbed them completely, figure becomes emotionally dead, they exist but do
+  key_terms: complete numbness, emotionally dead, existing without living, feeling foreclosed
 
 dynamic_devolution:
   mechanism: The four of cups becomes the future the figure imagines for themselves
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: the devastation is too complete
   swords_state: The grief remains frozen
   consequence: the figure cannot process the loss
-  key_terms: figure cannot grieve, devastation is too complete, grief remains frozen, figure cannot process the loss
+  key_terms: grief frozen by total ruin, mourning foreclosed, unprocessed loss, the unwept devastation
 
 dynamic_devolution:
   mechanism: The five of cups becomes a vision of grief that will continue forever
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: the devastation seems too vast
   swords_state: The figure remains disconnected from their own history
   consequence: they cannot find continuity
-  key_terms: figure cannot reconnect, devastation seems too vast, figure remains disconnected from, they cannot find continuity
+  key_terms: innocent past inaccessible, devastation too vast, lost continuity, severed from one's history
 
 dynamic_devolution:
   mechanism: The six of cups becomes a vision of irretrievable loss
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: The figure escapes into fantasy and becomes unable to function in reality
   swords_state: The figure lives in illusion
   consequence: the devastation is never addressed
-  key_terms: figure escapes into fantasy, figure lives in illusion, devastation is never addressed
+  key_terms: escape into fantasy, dysfunction in reality, devastation never addressed, the unaddressed ruin
 
 dynamic_devolution:
   mechanism: The seven of cups becomes the entire life
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: they cannot prevent others from leaving
   swords_state: The figure becomes even more isolated
   consequence: the devastation compounds
-  key_terms: figure is abandoned, they cannot prevent others from, figure becomes even more isolated, devastation compounds
+  key_terms: abandoned by others, unable to prevent leaving, deepening isolation, compounding devastation
 
 dynamic_devolution:
   mechanism: The eight of cups becomes evidence that the figure is unworthy of being held
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: devastation has closed that possibility
   swords_state: The figure remains convinced their future is only continued suffering
   consequence: The figure remains convinced their future is only continued suffering
-  key_terms: figure cannot imagine happiness, devastation has closed that possibility, figure remains convinced their future
+  key_terms: happiness unimaginable, the future as continued suffering, possibility foreclosed, the disbelieved wish
 
 dynamic_devolution:
   mechanism: The nine of cups becomes a cruel mockery
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: shame prevents return
   swords_state: The figure remains exile
   consequence: the family remains incomplete without them
-  key_terms: figure cannot accept the welcome, shame prevents return, figure remains exile, family remains incomplete without them
+  key_terms: shame preventing return, the exile, the family incomplete without them, the refused welcome
 
 dynamic_devolution:
   mechanism: The ten of cups becomes a vision of the belonging that was destroyed
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: numbness persists
   swords_state: The emotional approach does not land
   consequence: the figure remains dead inside
-  key_terms: figure cannot feel the message, numbness persists, emotional approach does not land, figure remains dead inside
+  key_terms: persistent numbness, the message that won't land, dead inside, feeling foreclosed
 
 dynamic_devolution:
   mechanism: The page of cups becomes a reminder of feelings that will never return
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: shame and unworthiness prevent receiving love
   swords_state: The figure runs from the devotion
   consequence: the knight must pursue further
-  key_terms: figure cannot accept the pursuit, shame and unworthiness prevent receiving, figure runs from the devotion, knight must pursue further
+  key_terms: unworthiness refusing love, fleeing devotion, the pursued who runs, shame against love
 
 dynamic_devolution:
   mechanism: The knight of cups becomes a phantom devotion
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: the devastation has made them believe they are unworthy
   swords_state: The figure resists the love even as it is offered
   consequence: healing is delayed
-  key_terms: figure cannot receive the maternal, devastation has made them believe, figure resists the love even, healing is delayed
+  key_terms: believing oneself unworthy, resisting maternal healing, love refused, delayed healing
 
 dynamic_devolution:
   mechanism: The queen of cups becomes a vision of the care that devastation has made them believe they no longer deserve
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: devastation is too overwhelming
   swords_state: The figure remains enslaved to the emotional chaos devastation has created
   consequence: The figure remains enslaved to the emotional chaos devastation has created
-  key_terms: figure cannot master their own, devastation is too overwhelming, figure remains enslaved
+  key_terms: ungoverned emotional chaos, devastation overwhelming, enslaved to reactions, mastery foreclosed
 
 dynamic_devolution:
   mechanism: The king of cups becomes a vision of the emotional authority the figure has lost

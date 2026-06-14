@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: The figure cannot accept the truth because accepting it means the devastation was partly built on falsehood
   swords_state: The truth is heard but not integrated
   consequence: the figure clings to the devastation
-  key_terms: figure cannot accept the truth, truth is heard, figure clings to the devastation
+  key_terms: truth that unmakes the devastation's story, clinging to ruin, heard but unintegrated, the resisted truth
 
 dynamic_devolution:
   mechanism: The ace of swords becomes evidence that even the devastation was based on lies
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: the devastation has become habitual seeing
   swords_state: The figure remains partly blind despite the ruin
   consequence: The figure remains partly blind despite the ruin
-  key_terms: figure cannot remove the blindfold, devastation has become habitual seeing, figure remains partly blind despite
+  key_terms: the habitual blindfold, devastation as habitual seeing, still partly blind, sight foreclosed even now
 
 dynamic_devolution:
   mechanism: The two of swords becomes evidence that the figure's own choices contributed to devastation
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: The figure is beginning to speak but the voice is weak
   swords_state: The devastation is slowly articulated
   consequence: the voice is recovering
-  key_terms: figure is beginning to speak, devastation is slowly articulated, voice is recovering
+  key_terms: the weak recovering voice, devastation slowly articulated, beginning to speak, the returning voice
 
 dynamic_devolution:
   mechanism: The three of swords becomes evidence that the pain is real and must be spoken
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the trauma of devastation keeps them partially alert
   swords_state: The figure finds some peace but it is uneasy
   consequence: The figure finds some peace but it is uneasy
-  key_terms: figure cannot truly rest, trauma of devastation keeps them, figure finds some peace
+  key_terms: rest disturbed by trauma, partial alertness, uneasy peace, the unrestful respite
 
 dynamic_devolution:
   mechanism: The four of swords becomes a reminder that the devastation is past
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: The figure accepts the devastation because even victory would be hollow
   swords_state: The figure surrenders the struggle for vindication
   consequence: The figure surrenders the struggle for vindication
-  key_terms: figure accepts the devastation because, figure surrenders the struggle for, held tension
+  key_terms: hollow even in victory, surrendered vindication, the abandoned struggle, accepted devastation
 
 dynamic_devolution:
   mechanism: The five of swords becomes evidence that the game of winning and losing is futile
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: The figure carries the devastation with them even as they depart
   swords_state: The journey is toward and away simultaneously
   consequence: The journey is toward and away simultaneously
-  key_terms: figure carries the devastation, journey is toward and away, held tension
+  key_terms: devastation carried along, journey toward and away at once, no clean departure, the accompanying ruin
 
 dynamic_devolution:
   mechanism: The six of swords becomes evidence that the figure has survived devastation enough to journey
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: The figure is learning to refuse but cannot fully break free
   swords_state: The figure begins to circumvent the systems that created devastation
   consequence: The figure begins to circumvent the systems that created devastation
-  key_terms: figure is learning to refuse, figure begins to circumvent, held tension
+  key_terms: learning to refuse, not yet free, circumventing the ruinous systems, partial escape
 
 dynamic_devolution:
   mechanism: The seven of swords becomes evidence that the game itself is the problem
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: The figure cannot break free because the devastation itself is the chain
   swords_state: The figure remains imprisoned in the aftermath of devastation
   consequence: The figure remains imprisoned in the aftermath of devastation
-  key_terms: figure cannot break free because, figure remains imprisoned, held tension
+  key_terms: devastation itself the chain, imprisoned in the aftermath, ruin as the bond, no break free
 
 dynamic_devolution:
   mechanism: The eight of swords becomes a reminder that devastation often leads to ongoing constraint
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The figure cannot escape either the devastation or the torment
   swords_state: The figure faces devastation externally and torment internally
   consequence: The figure faces devastation externally and torment internally
-  key_terms: figure cannot escape either, figure faces devastation externally, held tension
+  key_terms: neither devastation nor torment escaped, external ruin internal torment, the doubled affliction, total destruction
 
 dynamic_devolution:
   mechanism: The nine of swords becomes evidence that devastation creates infinite torment
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: the mirror shows it is total
   swords_state: The figure is at the absolute bottom
   consequence: there is nowhere lower to go
-  key_terms: figure cannot rise from, mirror shows it is total, figure is at the absolute, there is nowhere lower
+  key_terms: cannot rise, the absolute bottom, nowhere lower to go, total ruin mirrored
 
 dynamic_devolution:
   mechanism: The mirror confirms total devastation

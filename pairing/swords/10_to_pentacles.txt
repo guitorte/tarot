@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: the devastation has sealed them against it
   swords_state: The pentacle is rejected
   consequence: the figure's ruin seems absolute and permanent
-  key_terms: figure cannot open, devastation has sealed them against, pentacle is rejected, figure's ruin seems absolute
+  key_terms: gift rejected, sealed against abundance, ruin seeming permanent, the unopened blessing
 
 dynamic_devolution:
   mechanism: The ace of pentacles becomes evidence of cosmic cruelty
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: the devastation is too complete
   swords_state: The figure remains in ruin
   consequence: the possibility of recovery seems fantasy
-  key_terms: figure cannot recover balance, devastation is too complete, figure remains in ruin, possibility of recovery seems fantasy
+  key_terms: balance unrecoverable, devastation too complete, recovery seeming fantasy, irretrievable ruin
 
 dynamic_devolution:
   mechanism: The two of pentacles becomes a vision of the recovery that will never happen
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: the ruin is visible evidence of their fall
   swords_state: The figure remains isolated
   consequence: the guild remains closed to them
-  key_terms: figure cannot return to community, ruin is visible evidence, figure remains isolated, guild remains closed to them
+  key_terms: barred from community, the visible fall, isolation, the closed guild
 
 dynamic_devolution:
   mechanism: The three of pentacles becomes a vision of the community forever lost
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the devastation is absolute
   swords_state: The figure exists in complete emptiness
   consequence: the psychological defense of hoarding becomes impossible
-  key_terms: figure has nothing to defend, devastation is absolute, figure exists in complete emptiness, psychological defense of hoarding
+  key_terms: nothing left to defend, absolute emptiness, hoarding made impossible, defense without object
 
 dynamic_devolution:
   mechanism: The four of pentacles becomes a memory of what was lost
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: there is no recovery possible
   swords_state: The figure remains in poverty
   consequence: the devastation compounds
-  key_terms: figure is completely devastated, there is no recovery possible, figure remains in poverty, devastation compounds
+  key_terms: complete devastation, no recovery possible, compounding ruin, bottomless poverty
 
 dynamic_devolution:
   mechanism: The five of pentacles confirms the ruin
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: the devastation has created shame
   swords_state: The giver's generosity meets resistance
   consequence: the path forward is through acceptance
-  key_terms: figure struggles to receive, devastation has created shame, giver's generosity meets resistance, path forward is through acceptance
+  key_terms: shame blocking reception, generosity meeting resistance, the unaccepted gift, acceptance as the only path
 
 dynamic_devolution:
   mechanism: The six of pentacles becomes a reminder of what should have been prevented
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: the devastation has created hopelessness
   swords_state: The figure cannot begin again
   consequence: the paralysis is complete
-  key_terms: figure cannot invest, devastation has created hopelessness, figure cannot begin again, paralysis is complete
+  key_terms: future-investment foreclosed, hopelessness, unable to begin again, complete paralysis
 
 dynamic_devolution:
   mechanism: The seven of pentacles becomes a torture of what could have been if devastation had not occurred
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: the devastation has broken their will to practice
   swords_state: The figure remains destroyed
   consequence: recovery is impossible
-  key_terms: figure cannot begin again, devastation has broken their will, figure remains destroyed, recovery is impossible
+  key_terms: will to practice broken, beginning again impossible, the destroyed craftsman, recovery foreclosed
 
 dynamic_devolution:
   mechanism: The eight of pentacles becomes a reminder of the mastery that was lost
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: the devastation is too complete
   swords_state: The figure remains in ruin
   consequence: recovery seems impossible
-  key_terms: figure cannot begin rebuilding, devastation is too complete, figure remains in ruin, recovery seems impossible
+  key_terms: rebuilding unbegun, devastation too complete, recovery seeming impossible, the unstarted climb
 
 dynamic_devolution:
   mechanism: The nine of pentacles becomes a vision of the security that was destroyed
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: the devastation has ended their role as ancestor
   swords_state: The figure becomes a severed link in the chain
   consequence: the continuity is broken through them
-  key_terms: figure cannot pass on what, devastation has ended their role, figure becomes a severed link, continuity is broken through them
+  key_terms: the severed link, role as ancestor ended, broken continuity, transmission foreclosed
 
 dynamic_devolution:
   mechanism: The ten of pentacles becomes a vision of the family line that will suffer because of the devastation
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: the devastation has hardened them against it
   swords_state: The figure remains closed
   consequence: learning becomes impossible
-  key_terms: figure cannot receive instruction, devastation has hardened them against, figure remains closed, learning becomes impossible
+  key_terms: hardened against instruction, learning foreclosed, the closed mind, the unteachable ruin
 
 dynamic_devolution:
   mechanism: The page of pentacles becomes a reminder of the innocence devastation has destroyed
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: the devastation has broken their capacity for sustained effort
   swords_state: The figure remains destroyed
   consequence: without work, recovery is impossible
-  key_terms: figure cannot work, devastation has broken their capacity, figure remains destroyed, without work
+  key_terms: capacity for effort broken, work foreclosed, recovery impossible without labor, the destroyed worker
 
 dynamic_devolution:
   mechanism: The knight of pentacles becomes a vision of the labor that was destroyed
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: devastation has created shame
   swords_state: The figure resists care
   consequence: healing is delayed
-  key_terms: figure struggles to receive, devastation has created shame, figure resists care, healing is delayed
+  key_terms: shame resisting care, nurture refused, delayed healing, the resisted comfort
 
 dynamic_devolution:
   mechanism: The queen of pentacles becomes a reminder of independence lost
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: devastation has destroyed the foundations
   swords_state: The figure remains powerless
   consequence: they cannot begin to rebuild their domain
-  key_terms: figure cannot establish any authority, devastation has destroyed the foundations, figure remains powerless, they cannot begin to rebuild
+  key_terms: foundations destroyed, authority unestablishable, powerlessness, no domain to rebuild
 
 dynamic_devolution:
   mechanism: The king of pentacles becomes a vision of the authority that was destroyed

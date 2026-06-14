@@ -23,7 +23,7 @@ dynamic_inhibition:
   blockade_nature: devastation has destroyed their will to create
   swords_state: The spark is offered but rejected
   consequence: creativity remains dead
-  key_terms: figure cannot accept the creative, devastation has destroyed their will, spark is offered but rejected, creativity remains dead
+  key_terms: will to create destroyed, the rejected spark, creativity dead, impulse refused
 
 dynamic_devolution:
   mechanism: The ace of wands becomes a reminder of the creativity devastation destroyed
@@ -73,7 +73,7 @@ dynamic_inhibition:
   blockade_nature: devastation clouds it
   swords_state: The vision fades
   consequence: the future remains dark
-  key_terms: figure cannot sustain the vision, devastation clouds it, vision fades, future remains dark
+  key_terms: vision clouded by devastation, the fading vision, the dark future, vision unsustained
 
 dynamic_devolution:
   mechanism: The two of wands becomes a cruel vision of futures that may never occur
@@ -123,7 +123,7 @@ dynamic_inhibition:
   blockade_nature: the devastation anchors them in place
   swords_state: The figure remains in the place of devastation
   consequence: healing is delayed
-  key_terms: figure cannot answer the call, devastation anchors them in place, figure remains in the place, healing is delayed
+  key_terms: the call unanswered, anchored by devastation, staying in the ruin, delayed healing
 
 dynamic_devolution:
   mechanism: The three of wands becomes a vision of journeys never taken
@@ -173,7 +173,7 @@ dynamic_inhibition:
   blockade_nature: the wound of devastation is too fresh
   swords_state: The figure cannot fully celebrate
   consequence: the trauma shadows the arrival
-  key_terms: figure cannot rest even, wound of devastation is too, figure cannot fully celebrate, trauma shadows the arrival
+  key_terms: rest foreclosed by fresh wounds, celebration incomplete, trauma shadowing arrival, the uneasy safety
 
 dynamic_devolution:
   mechanism: The four of wands becomes a reminder of homes lost to devastation
@@ -223,7 +223,7 @@ dynamic_inhibition:
   blockade_nature: the devastation is too recent
   swords_state: The figure is weakened but not broken
   consequence: the struggle continues
-  key_terms: figure still cannot fully engage, devastation is too recent, figure is weakened, struggle continues
+  key_terms: not yet able to engage, devastation too recent, weakened not broken, the continuing struggle
 
 dynamic_devolution:
   mechanism: The five of wands becomes evidence that the devastation did not kill the fight
@@ -273,7 +273,7 @@ dynamic_inhibition:
   blockade_nature: they do not believe their survival is victory
   swords_state: The triumph is achieved but unacknowledged
   consequence: The triumph is achieved but unacknowledged
-  key_terms: figure cannot accept recognition, they do not believe, triumph is achieved but unacknowledged
+  key_terms: recognition unaccepted, survival not seen as victory, the unacknowledged triumph, disbelieved success
 
 dynamic_devolution:
   mechanism: The six of wands becomes evidence of a victory that does not feel real
@@ -323,7 +323,7 @@ dynamic_inhibition:
   blockade_nature: The figure is too weakened to defend effectively
   swords_state: The figure remains vulnerable
   consequence: boundaries cannot be fully established
-  key_terms: figure is too weakened, figure remains vulnerable, boundaries cannot be fully established
+  key_terms: too weak to defend, vulnerable boundaries, unestablished defense, the exposed survivor
 
 dynamic_devolution:
   mechanism: The seven of wands becomes evidence that the devastation has stolen the figure's capacity to defend
@@ -373,7 +373,7 @@ dynamic_inhibition:
   blockade_nature: The figure is still weak but the paralysis is breaking
   swords_state: The figure moves, even if slowly
   consequence: momentum is returning
-  key_terms: figure is still weak, figure moves, momentum is returning
+  key_terms: paralysis breaking, slow returning movement, momentum returning, the first motion
 
 dynamic_devolution:
   mechanism: The eight of wands becomes evidence that the devastation was not permanent
@@ -423,7 +423,7 @@ dynamic_inhibition:
   blockade_nature: The figure has survived but does not yet recognize their own strength
   swords_state: The figure exists as a warrior without knowing it
   consequence: The figure exists as a warrior without knowing it
-  key_terms: figure has survived but does, figure exists as a warrior, held tension
+  key_terms: unrecognized strength, the warrior who doesn't know it, survival unacknowledged, hidden resilience
 
 dynamic_devolution:
   mechanism: The nine of wands becomes evidence that what the figure thought was death was actually transformation
@@ -473,7 +473,7 @@ dynamic_inhibition:
   blockade_nature: The figure is burdened by both devastation and recovery
   swords_state: The weight is heavy but the figure continues to carry it
   consequence: The weight is heavy but the figure continues to carry it
-  key_terms: figure is burdened, weight is heavy, held tension
+  key_terms: burdened by ruin and recovery both, the heavy double weight, carrying on regardless, the doubled load
 
 dynamic_devolution:
   mechanism: The ten of wands becomes evidence that recovery is a burden equal to devastation
@@ -523,7 +523,7 @@ dynamic_inhibition:
   blockade_nature: doubt clouds the message
   swords_state: The news is heard but not fully believed
   consequence: The news is heard but not fully believed
-  key_terms: figure cannot fully receive, doubt clouds the message, news is heard
+  key_terms: doubt clouding good news, heard but unbelieved, the half-received message, guarded hope
 
 dynamic_devolution:
   mechanism: The page of wands becomes evidence that hope is naive after devastation
@@ -573,7 +573,7 @@ dynamic_inhibition:
   blockade_nature: The figure is still weakened but the adventurous spirit is awakening
   swords_state: The figure begins to feel the call to adventure again
   consequence: The figure begins to feel the call to adventure again
-  key_terms: figure is still weakened, figure begins to feel, held tension
+  key_terms: adventurous spirit awakening, still weak but stirring, the returning call, reviving drive
 
 dynamic_devolution:
   mechanism: The knight of wands becomes evidence that the spirit survived devastation
@@ -623,7 +623,7 @@ dynamic_inhibition:
   blockade_nature: The figure is beginning to shine but the light is still dim
   swords_state: The figure radiates weakly but the return is beginning
   consequence: The figure radiates weakly but the return is beginning
-  key_terms: figure is beginning to shine, figure radiates weakly, held tension
+  key_terms: dim light beginning, weak radiance, the return beginning, magnetism reviving
 
 dynamic_devolution:
   mechanism: The queen of wands becomes evidence that the light survived devastation
@@ -673,7 +673,7 @@ dynamic_inhibition:
   blockade_nature: The figure is beginning to lead but authority is still fragile
   swords_state: The figure leads gently but the authority is being reclaimed
   consequence: The figure leads gently but the authority is being reclaimed
-  key_terms: figure is beginning to lead, figure leads gently, held tension
+  key_terms: fragile reclaimed authority, leading gently, authority being reclaimed, the tentative return
 
 dynamic_devolution:
   mechanism: The king of wands becomes evidence that authority survived devastation

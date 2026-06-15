@@ -1,0 +1,697 @@
+card_pair: 2 of Pentacles, Ace of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: 2 + 1 = 3 (III The Empress; the existing exchange meets the new seed; the rhythm learns to juggle new potential)
+elemental_bridge: Earth's practiced motion meets Earth's fresh ground; the established dance discovers new material to work with
+threshold_type: The rhythm that receives; exchange welcoming the new beginning
+
+dynamic_genesis:
+  mechanism: The balance of the 2 provides the ground where the Ace's potential can actually be received and worked; the exchange teaches how to integrate new possibility
+  process: the rhythm pauses without stopping; the motion opens the hand that will receive the seed; the dance learns the first step of the new beginning
+  outcome: new potential grounded in practiced skill; the Ace planted in the soil of established exchange
+  key_terms: grounded potential, received seed, integrated beginning, practiced welcome
+
+dynamic_antagonism:
+  mechanism: The 2's attachment to the working pattern clashes with the Ace's demand for novelty; the motion meets what would upset the balance
+  tension_axis: defending the established exchange versus embracing new possibility
+  two_of_pentacles_position: Wants to fit the Ace into the existing pattern; fears that true newness will break the rhythm
+  ace_of_pentacles_position: Insists on being worked fresh; refuses to be merely integrated into what is already working
+  key_terms: insisted newness, defended pattern, urged integration, resisted absorption
+
+dynamic_inhibition:
+  mechanism: The need to keep the pattern intact prevents the Ace from being truly worked; the exchange will not change enough to truly engage the new potential
+  blockade_nature: the seed falls into the exchange but the rhythm won't let it germinate; new beginning smothered by the demand for continuity
+  pentacles_state: the balance maintained but at the cost of the Ace; the motion keeps the pattern alive but the new potential sleeps
+  consequence: the seed remains ungerminated; potential is present but not realized
+  key_terms: ungerminated seed, sleeping potential, maintained pattern, suppressed newness
+
+dynamic_devolution:
+  mechanism: The exchange corrupts the Ace into mere material to cycle through; the motion becomes consumption rather than cultivation
+  mode: the rhythm uses the newness up without ever truly working it; the Ace is devoured by the exchange rather than grounded in it
+  loss: the genuine new beginning the exchange could have made room for; the potential becomes fuel for the machine
+  key_terms: consumed seed, devoured potential, cycling motion, exhausted newness
+
+dynamic_dependency:
+  mechanism: The 2 needs the Ace to teach it that the pattern must evolve or it will calcify; the Ace needs the established exchange to actually manifest it
+  function: Pentacles-2 supplies the skill and ground that makes the Ace's potential real; Pentacles-Ace supplies the fresh beginning that keeps the exchange alive
+  integration_outcome: an exchange that evolves through the integration of new potential; a beginning that is grounded in established wisdom
+  key_terms: evolving exchange, grounded beginning, integrated potential, living rhythm
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, 2 of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Balance, juggling, flexibility, adaptive exchange, equilibrium
+numerical_relation: 2 + 2 = 4 (IV The Emperor; the exchange meets itself; the rhythm doubles)
+elemental_bridge: Earth's motion discovers its mirror; the dance recognizes itself
+threshold_type: The motion that doubles; the exchange knowing itself
+
+dynamic_genesis:
+  mechanism: The first 2 teaches the second through perfect mirroring; the balance discovers what it truly is by seeing itself reflected
+  process: the rhythm meets its own rhythm; the motion recognizes itself in the other's movement; each becomes teacher and student simultaneously
+  outcome: mastery discovered through mutual reflection; each exchange deepened by knowing itself through the other
+  key_terms: mutual reflection, discovered mastery, mirrored rhythm, knowing motion
+
+dynamic_antagonism:
+  mechanism: Each 2 wants to lead; the mirror refuses to follow; the dance meets resistance from its own reflection
+  tension_axis: leading the rhythm versus being led; offering the motion versus receiving it
+  pentacles_position_1: Offers its rhythm; expects the other to follow the established pattern
+  pentacles_position_2: Meets the offering with its own equal rhythm; refuses subordination
+  key_terms: offered leadership, resisted following, equal rhythm, mutual resistance
+
+dynamic_inhibition:
+  mechanism: The need to establish who leads stops the mutual reflection; the rhythm becomes a power struggle rather than a dance
+  blockade_nature: the motion locks into opposition rather than flow; two rhythms cannot coordinate because both demand to lead
+  pentacles_state: the exchange fractured by the need to determine dominance; the balance lost in the assertion of will
+  consequence: the mirror shatters; instead of reflection, opposition
+  key_terms: shattered mirror, locked opposition, contested rhythm, fractured motion
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive competition; each exchange tries to out-juggle the other
+  mode: the rhythm becomes a display of superiority; the motion used to assert dominance over its mirror
+  loss: the genuine teaching the reflection could have offered; the exchange becomes mere competition
+  key_terms: competitive motion, asserted superiority, obsessive juggling, mirrored struggle
+
+dynamic_dependency:
+  mechanism: Each 2 needs the other to know what true balance is; neither can stand alone and understand itself
+  function: Pentacles-2 supplies the rhythm that both teaches and learns; the mirror supplies the reflection that shows what the motion truly is
+  integration_outcome: a harmony of equals; rhythm that knows itself through the other
+  key_terms: equal harmony, knowing reflection, mutual teaching, balanced duet
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, 3 of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Collaboration, skill, artisanship, mutual effort, crafted mastery
+numerical_relation: 2 + 3 = 5 (V The Pope; adaptive exchange meets cooperative skill; the rhythm learns to coordinate effort)
+elemental_bridge: Earth's flexible motion meets Earth's collaborative crafting; the dance becomes the foundation of the workshop
+threshold_type: The motion that holds the team; exchange teaching coordination
+
+dynamic_genesis:
+  mechanism: The balance of the 2 coordinates the collaborative effort of the 3; the exchange teaches how to juggle multiple artisans without losing the work
+  process: the rhythm holds the center while each artisan contributes; the motion becomes the tempo that permits true collaboration
+  outcome: collaboration that is coordinated; effort that is mutual because the rhythm makes it possible
+  key_terms: coordinated effort, held collaboration, rhythmic workshop, mutual craft
+
+dynamic_antagonism:
+  mechanism: The 2's need for adaptability clashes with the 3's need for focused execution; the dance meets the craft that wants to settle in
+  tension_axis: flowing adaptation versus committed execution; flexible motion versus skilled focus
+  two_of_pentacles_position: Wants to stay responsive to changing conditions; adjusts the pattern constantly
+  three_of_pentacles_position: Needs the pattern to hold steady so the craft can deepen; resists the constant adjustment
+  key_terms: urged steadiness, insisted adaptation, demanded focus, kept motion
+
+dynamic_inhibition:
+  mechanism: The demand for focus stops the adaptive motion; the rhythm cannot continue adjusting while the craft requires stable ground
+  blockade_nature: the exchange becomes impossible when the rhythm shifts beneath the artisan's work
+  pentacles_state: the balance interrupted by the need for consistent grounding; the motion stops to let the work continue
+  consequence: either the adaptation ceases or the craft cannot deepen
+  key_terms: stopped motion, demanded stillness, interrupted rhythm, halted craft
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive cycling without ever producing; the exchange becomes motion that never settles into actual craft
+  mode: the rhythm becomes a treadmill; the motion used to stay busy without accomplishing
+  loss: the genuine collaboration the rhythm could have enabled; the exchange becomes mere circulation
+  key_terms: obsessive motion, circular exchange, unfinished craft, busy stillness
+
+dynamic_dependency:
+  mechanism: The 2 needs the 3's focus to give its motion productive purpose; the craft needs the balance to remain responsive rather than rigid
+  function: Pentacles-2 supplies the motion that keeps collaboration flexible; Pentacles-3 supplies the skill that gives motion its direction
+  integration_outcome: motion that produces; craft that is coordinated
+  key_terms: productive motion, coordinated craft, moving collaboration, flexible mastery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, 4 of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Holding, security, control, possessiveness, guarded resources
+numerical_relation: 2 + 4 = 6 (VI The Lovers; adaptive exchange meets protective holding; the rhythm meets the guardian)
+elemental_bridge: Earth's flowing motion meets Earth's firm grip; the dance encounters what will not move
+threshold_type: The motion before the held; exchange meeting what is defended
+
+dynamic_genesis:
+  mechanism: The balance of the 2 learns that some things are worth holding; the exchange discovers where its motion must pause
+  process: the rhythm slows and settles around what is being protected; the motion learns to circle rather than to pass through
+  outcome: a balance that includes stillness; motion that respects the boundaries of the held
+  key_terms: respectful motion, guarded balance, held rhythm, protected exchange
+
+dynamic_antagonism:
+  mechanism: The 2's refusal to hold anything clashes with the 4's need to control and protect; the motion meets the fist
+  tension_axis: flowing on versus holding secure; giving freedom versus demanding control
+  two_of_pentacles_position: Wants everything to move freely; trusts in the exchange itself
+  four_of_pentacles_position: Fears loss if the grip is loosened; reads freedom as threat
+  key_terms: urged release, demanded holding, offered freedom, defended control
+
+dynamic_inhibition:
+  mechanism: The fear of loss stops the motion; the grip becomes so tight that nothing can move
+  blockade_nature: the rhythm breaks when it tries to flow past the held resources; the motion is blocked by the wall of protection
+  pentacles_state: the exchange interrupted by the force of the grip; the motion ceases at the boundary of the held
+  consequence: the motion stops; the grip tightens further
+  key_terms: stopped motion, tightened grip, blocked flow, ceased exchange
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive circling around what is held; the exchange becomes the guard that maintains the prison
+  mode: the motion becomes servile to the holding; the rhythm used to reinforce control
+  loss: the freedom of true exchange; the motion becomes the machinery of possession
+  key_terms: servile motion, obsessive guarding, reinforced control, enslaved rhythm
+
+dynamic_dependency:
+  mechanism: The 2 needs the 4 to teach it that some things are truly worth protecting; the holding needs the balance to prevent its becoming total rigidity
+  function: Pentacles-2 supplies the motion that keeps even held things alive; Pentacles-4 supplies the commitment that gives motion its ground
+  integration_outcome: motion that respects boundaries; holding that is not total imprisonment
+  key_terms: respected boundaries, living holding, bounded motion, alive control
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, 5 of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Hardship, poverty, material loss, deprivation, abandonment
+numerical_relation: 2 + 5 = 7 (VII The Chariot; adaptive exchange meets material loss; the motion must navigate destitution)
+elemental_bridge: Earth's practiced motion meets Earth's hollow ground; the dance learns to move where there is nothing to hold
+threshold_type: The motion through loss; exchange facing empty hands
+
+dynamic_genesis:
+  mechanism: The balance of the 2 can remain mobile even when material circumstance strips away; the exchange survives deprivation
+  process: the rhythm continues without holding; the motion learns that the dance itself is the only true possession
+  outcome: motion that does not depend on material circumstance; exchange that is alive even in poverty
+  key_terms: mobile motion, surviving rhythm, essential exchange, non-material dance
+
+dynamic_antagonism:
+  mechanism: The 2's faith in the exchange clashes with the 5's material reality of loss; the motion meets the empty hand
+  tension_axis: believing in motion versus facing actual deprivation; faith in the exchange versus the reality of nothing
+  two_of_pentacles_position: Insists the exchange can continue even in hardship; maintains the rhythm
+  five_of_pentacles_position: The loss is absolute; the ground has fallen away
+  key_terms: urged faith, demanded realism, kept motion, faced loss
+
+dynamic_inhibition:
+  mechanism: The weight of loss stops the motion; the rhythm cannot continue when there is literally nothing to work with
+  blockade_nature: the exchange becomes impossible when deprivation is absolute; the motion requires some ground to push against
+  pentacles_state: the balance shattered by the reality of abandonment; the motion stops entirely
+  consequence: complete collapse; the motion ceases
+  key_terms: stopped motion, absolute loss, ceased exchange, shattered rhythm
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive cycling of the same motion with no purpose; the exchange becomes haunting repetition
+  mode: the rhythm becomes a death-march; the motion persists without direction or end
+  loss: the meaningful exchange the motion could have been; the exchange becomes mere animation
+  key_terms: haunting motion, obsessive cycling, meaningless rhythm, spiraling loss
+
+dynamic_dependency:
+  mechanism: The 2 needs the 5 to teach it that some material loss is real and cannot be danced away; the hardship needs the balance to prevent its becoming total death
+  function: Pentacles-2 supplies the motion that keeps life alive even in deprivation; Pentacles-5 supplies the honest knowledge of what truly cannot be changed
+  integration_outcome: motion that continues despite loss; exchange that honors what has been lost while staying alive
+  key_terms: honored loss, continuing motion, surviving exchange, living rhythm
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, 6 of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+numerical_relation: 2 + 6 = 8 (VIII Justice; adaptive exchange meets fair giving; the rhythm learns balanced generosity)
+elemental_bridge: Earth's motion becomes Earth's gift; the dance learns to give and receive
+threshold_type: The motion that gives; exchange teaching generosity
+
+dynamic_genesis:
+  mechanism: The balance of the 2 teaches the 6 how to give without calculating return; the exchange becomes generosity rather than transaction
+  process: the rhythm shows that true exchange is not about tit-for-tat but about allowing motion to flow; the motion itself becomes the gift
+  outcome: giving that is joyful because it is not measured; exchange that is genuinely reciprocal
+  key_terms: flowing gift, measured generosity, joyful motion, rhythmic exchange
+
+dynamic_antagonism:
+  mechanism: The 2's refusal to calculate clashes with the 6's sense of fair exchange; the motion meets the scales
+  tension_axis: trusting motion versus insisting on balance; giving freely versus measured exchange
+  two_of_pentacles_position: Wants to give without calculating return; trusts in flow
+  six_of_pentacles_position: Needs the exchange to be fair; insists on proper measure
+  key_terms: urged measure, insisted freedom, demanded fairness, kept motion
+
+dynamic_inhibition:
+  mechanism: The demand for perfect fairness stops the motion; the rhythm cannot continue while every exchange must be precisely balanced
+  blockade_nature: the gift becomes impossible when it must be measured exactly; the motion stops under the weight of calculation
+  pentacles_state: the exchange interrupted by the scales; the motion frozen by the need for perfect justice
+  consequence: nothing can be given; the exchange becomes paralysis
+  key_terms: stopped motion, frozen generosity, measured paralysis, ceased gift
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive calculation of debt; the exchange becomes the machinery of obligation
+  mode: the motion becomes compulsive tracking; the rhythm used to ensure no one gets the advantage
+  loss: the genuine generosity the motion could have expressed; the exchange becomes accounting
+  key_terms: obsessive tracking, calculated motion, mechanical exchange, obligated motion
+
+dynamic_dependency:
+  mechanism: The 2 needs the 6 to teach it that fairness matters; the generosity needs the balance to remain alive rather than becoming strict justice
+  function: Pentacles-2 supplies the motion that makes giving natural and flowing; Pentacles-6 supplies the fairness that ensures the motion serves all equally
+  integration_outcome: generosity that is both flowing and fair; exchange that is alive justice
+  key_terms: flowing fairness, alive justice, generous motion, balanced gift
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, 7 of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Assessment, patience, long-term investment, paused evaluation, trust in process
+numerical_relation: 2 + 7 = 9 (IX The Hermit; adaptive exchange meets patient assessment; the rhythm learns to wait)
+elemental_bridge: Earth's constant motion meets Earth's still evaluation; the dance learns to pause and see
+threshold_type: The motion that pauses; exchange learning patience
+
+dynamic_genesis:
+  mechanism: The balance of the 2 learns to pause for genuine assessment; the exchange discovers when the time has come to stop and see
+  process: the rhythm slows without stopping; the motion becomes the pause that allows true evaluation
+  outcome: assessment grounded in reality rather than anxiety; the exchange that has the courage to wait
+  key_terms: grounded assessment, courageous pause, patient motion, assessed rhythm
+
+dynamic_antagonism:
+  mechanism: The 2's refusal to stop clashes with the 7's need to pause and evaluate; the motion meets the waiting gardener
+  tension_axis: continuing to move versus stopping to assess; trusting motion versus demanding proof
+  two_of_pentacles_position: Keeps the motion flowing; fears that pausing will break the rhythm
+  seven_of_pentacles_position: Must know if the investment is bearing fruit; reads continued motion as denial of reality
+  key_terms: urged evaluation, insisted motion, demanded assessment, kept rhythm
+
+dynamic_inhibition:
+  mechanism: The need to stop and assess stops the motion; the rhythm cannot continue while evaluation demands stillness
+  blockade_nature: the exchange becomes impossible when the motion is frozen for assessment
+  pentacles_state: the balance interrupted by the need to evaluate; the motion ceases while the gardener waits
+  consequence: the motion stops; the waiting becomes obsessive
+  key_terms: stopped motion, obsessive waiting, ceased exchange, stalled rhythm
+
+dynamic_devolution:
+  mechanism: The balance corrupts into anxious cycling of the same assessment; the exchange becomes obsessive self-examination
+  mode: the motion becomes a treadmill of doubt; the rhythm used to reinforce anxiety about the investment
+  loss: the genuine patience the motion could have expressed; the exchange becomes nervous repetition
+  key_terms: anxious cycling, nervous motion, obsessive assessment, spiraling doubt
+
+dynamic_dependency:
+  mechanism: The 2 needs the 7 to teach it that some things genuinely require patience and waiting; the assessment needs the balance to not become total paralysis
+  function: Pentacles-2 supplies the motion that makes waiting alive; Pentacles-7 supplies the patient vision that guides assessment
+  integration_outcome: a rhythm that can pause; motion that trusts in process
+  key_terms: trusting motion, patient rhythm, vital waiting, assessed exchange
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, 8 of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Mastery, skill-development, apprenticeship, dedication, refined craft
+numerical_relation: 2 + 8 = 10 (X The Wheel of Fortune; adaptive exchange meets dedicated mastery; the rhythm learns focus)
+elemental_bridge: Earth's flexible motion meets Earth's committed practice; the dance becomes the path to mastery
+threshold_type: The motion that builds; exchange learning dedication
+
+dynamic_genesis:
+  mechanism: The balance of the 2 shows the apprentice how to remain flexible while building mastery; the exchange teaches how to practice without rigidity
+  process: the rhythm flows through the repetitions; the motion becomes the vehicle for skill-development
+  outcome: mastery that is alive because it remains supple; skill earned through joyful practice
+  key_terms: supple mastery, joyful practice, flowing skill, rhythmic dedication
+
+dynamic_antagonism:
+  mechanism: The 2's resistance to repetition clashes with the 8's need for dedicated practice; the motion meets the hammer
+  tension_axis: flowing adaptation versus committed repetition; varied motion versus focused practice
+  two_of_pentacles_position: Wants variety in the practice; resists the same motion over and over
+  eight_of_pentacles_position: Needs the repetition to build true mastery; demands commitment to the form
+  key_terms: urged variety, demanded repetition, offered change, defended practice
+
+dynamic_inhibition:
+  mechanism: The demand for pure repetition stops the motion; the rhythm cannot continue while mastery demands absolute dedication to the form
+  blockade_nature: the exchange becomes impossible when flexibility is eliminated
+  pentacles_state: the balance shattered by the demand for pure form; the motion loses its nature
+  consequence: either the motion ceases or the mastery is incomplete
+  key_terms: stopped motion, lost flexibility, ceased exchange, incomplete mastery
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive practice without ever reaching mastery; the exchange becomes endless repetition that doesn't lead anywhere
+  mode: the motion becomes a treadmill; the rhythm used to cycle without advancing
+  loss: the genuine mastery the motion could have built; the exchange becomes mechanical repetition
+  key_terms: mechanical repetition, obsessive practice, endless cycling, stalled mastery
+
+dynamic_dependency:
+  mechanism: The 2 needs the 8's dedication to give its motion real destination and meaning; the mastery needs the balance to remain alive rather than becoming rigid perfection
+  function: Pentacles-2 supplies the flexibility that makes mastery living; Pentacles-8 supplies the dedication that gives motion its direction
+  integration_outcome: a supple mastery; dedication that remains joyful
+  key_terms: joyful dedication, supple mastery, living practice, flowing skill
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, 9 of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+numerical_relation: 2 + 9 = 11 (XI Strength; adaptive exchange meets earned independence; the rhythm and the solitary learning their dance)
+elemental_bridge: Earth's movement meets Earth's settled luxury; the dance becomes the foundation of freedom
+threshold_type: The motion that is free; exchange learning solitude
+
+dynamic_genesis:
+  mechanism: The balance of the 2 teaches the 9 that independence does not require abandonment of all motion; the exchange remains vital even in solitude
+  process: the rhythm understands that true independence flows from within; the motion becomes the sound of the self being itself
+  outcome: a solitude that is alive; independence grounded in the rhythm of the self
+  key_terms: alive solitude, flowing independence, rhythmic freedom, living abundance
+
+dynamic_antagonism:
+  mechanism: The 2's engagement with others clashes with the 9's need for independent solitude; the motion meets the one who is content alone
+  tension_axis: flowing with others versus serene independence; social motion versus solitary sufficiency
+  two_of_pentacles_position: Seeks to draw the other into motion; values engagement
+  nine_of_pentacles_position: Has no need for the dance; is sufficient in solitude
+  key_terms: urged engagement, defended solitude, offered dance, refused motion
+
+dynamic_inhibition:
+  mechanism: The satisfaction of solitude stops the motion; the rhythm cannot engage when the other needs nothing from the exchange
+  blockade_nature: the exchange becomes irrelevant to one who is complete in themselves
+  pentacles_state: the balance interrupted by the sufficiency of the other; the motion finds no place to land
+  consequence: the motion withdraws; the exchange ceases
+  key_terms: withdrawn motion, ceased exchange, irrelevant rhythm, isolated dance
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive cycling around the solitary one; the exchange becomes jealous motion
+  mode: the rhythm becomes a ghost haunting the threshold of the independent one
+  loss: the genuine freedom the motion could have expressed; the exchange becomes needy haunting
+  key_terms: jealous motion, needy cycling, haunting rhythm, obsessed exchange
+
+dynamic_dependency:
+  mechanism: The 2 needs the 9 to teach it that some motion is solitary and complete; the independence needs the balance to prevent its becoming total isolation
+  function: Pentacles-2 supplies the motion that keeps even solitude alive and flowing; Pentacles-9 supplies the self-sufficiency that makes independence real
+  integration_outcome: independence that is not isolation; solitude that is alive with internal motion
+  key_terms: alive independence, moving solitude, internal rhythm, flowing freedom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, 10 of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Legacy, inheritance, family wealth, generational continuity, established foundation
+numerical_relation: 2 + 10 = 12 (XII The Hanged Man; adaptive exchange meets generational continuity; the rhythm learns legacy)
+elemental_bridge: Earth's constant motion meets Earth's deep root; the dance becomes the heartbeat of the lineage
+threshold_type: The motion that continues; exchange becoming legacy
+
+dynamic_genesis:
+  mechanism: The balance of the 2 becomes the rhythm that sustains generational continuity; the exchange teaches how to pass life forward
+  process: the rhythm slows to honor what came before; the motion becomes the way lineage moves into the future
+  outcome: a legacy alive in motion; continuity that is not static but flowing
+  key_terms: flowing legacy, moving lineage, rhythmic continuity, generational motion
+
+dynamic_antagonism:
+  mechanism: The 2's eagerness for change clashes with the 10's need for established roots; the motion meets what is grounded beyond time
+  tension_axis: adapting to new times versus holding established ground; progressive motion versus conserving tradition
+  two_of_pentacles_position: Wants to evolve the pattern; sees stagnation in unchanging tradition
+  ten_of_pentacles_position: Needs continuity with what came before; reads change as betrayal
+  key_terms: urged evolution, defended tradition, offered change, conserved foundation
+
+dynamic_inhibition:
+  mechanism: The weight of legacy stops the motion; the rhythm cannot adapt while the lineage demands perfect continuity with the past
+  blockade_nature: the exchange becomes impossible when innovation is forbidden
+  pentacles_state: the balance interrupted by the gravity of what must be preserved; the motion ceases
+  consequence: either the tradition breaks or the motion stops
+  key_terms: stopped motion, broken tradition, ceased exchange, stalled lineage
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive cycling of the past; the exchange becomes compulsive repetition of ancestral pattern
+  mode: the motion becomes a ghost dance; the rhythm used to animate the forms of the dead
+  loss: the genuine living lineage the motion could have carried; the exchange becomes ancestral servitude
+  key_terms: ghost motion, obsessive cycling, ancestral binding, imprisoned exchange
+
+dynamic_dependency:
+  mechanism: The 2 needs the 10 to teach it that some continuities are worth preserving; the legacy needs the balance to remain alive rather than becoming museum
+  function: Pentacles-2 supplies the motion that keeps legacy alive and vital; Pentacles-10 supplies the depth that makes the motion meaningful
+  integration_outcome: a motion that honors and carries forward; legacy that is alive
+  key_terms: living legacy, flowing continuity, meaningful motion, vital lineage
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, Page of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+numerical_relation: 2 + 11 = 13 (XIII Death; adaptive exchange meets youthful exploration; the rhythm teaches the apprentice)
+elemental_bridge: Earth's practiced motion meets Earth's learning hands; the dance becomes the curriculum
+threshold_type: The apprentice learns rhythm; exchange teaching material wisdom
+
+dynamic_genesis:
+  mechanism: The balance of the 2 teaches the Page how to work within the material world; the exchange becomes the grammar of practical skill
+  process: the rhythm shows the young hands the steps; the motion teaches not through words but through participation
+  outcome: material wisdom earned through embodied learning; the Page initiated into the dance
+  key_terms: embodied learning, rhythmic teaching, earned wisdom, initiated hands
+
+dynamic_antagonism:
+  mechanism: The 2's complex pattern clashes with the Page's urge to learn one thing deeply; the motion meets the desire to focus
+  tension_axis: flowing adaptation versus focused learning; complex motion versus simple mastery
+  two_of_pentacles_position: Offers many ways to work; wants the Page to learn flexibility
+  page_of_pentacles_position: Wants one clear path to follow; reads complexity as confusion
+  key_terms: urged simplification, insisted complexity, offered paths, demanded clarity
+
+dynamic_inhibition:
+  mechanism: The need to understand one thing clearly stops the motion; the rhythm cannot continue while the Page demands to know what it is learning
+  blockade_nature: the motion becomes impossible when every step must be explained before it is performed
+  pentacles_state: the exchange interrupted by the need for understanding; the rhythm cannot flow
+  consequence: the learning stops; the Page cannot be taught through motion alone
+  key_terms: interrupted learning, stopped motion, ceased exchange, unmet Page
+
+dynamic_devolution:
+  mechanism: The balance corrupts into meaningless cycling that the Page is forced to repeat without understanding
+  mode: the motion becomes mere imitation; the rhythm used to train rather than to teach
+  loss: the genuine apprenticeship the exchange could have offered; the learning becomes rote
+  key_terms: rote motion, forced imitation, meaningless cycling, trained Page
+
+dynamic_dependency:
+  mechanism: The 2 needs the Page's genuine curiosity to give its rhythm teaching purpose; the Page needs the motion to teach it how to work
+  function: Pentacles-2 supplies the rhythm that teaches through embodied participation; Pentacles-Page supplies the openness that makes learning real
+  integration_outcome: learning through motion; wisdom that is danced
+  key_terms: danced wisdom, moving learning, rhythmic apprenticeship, embodied teaching
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, Knight of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Dedication, reliable service, steady work, methodical action, trustworthy effort
+numerical_relation: 2 + 12 = 14 (XIV Temperance; adaptive exchange meets dedicated service; the rhythm and the worker learning integration)
+elemental_bridge: Earth's flexible motion meets Earth's steady labor; the dance becomes the tempo of work
+threshold_type: The motion that works; exchange becoming reliable
+
+dynamic_genesis:
+  mechanism: The balance of the 2 provides the rhythm that makes the Knight's labor sustainable and joyful; the exchange teaches how to work without burning out
+  process: the rhythm flows with the Knight's dedication; the motion becomes the pace at which true work is possible
+  outcome: labor that is both dedicated and sustainable; work that is alive because it has rhythm
+  key_terms: rhythmic labor, sustainable dedication, alive work, flowing service
+
+dynamic_antagonism:
+  mechanism: The 2's refusal to hold one position clashes with the Knight's commitment to steady work; the motion meets the one who stays
+  tension_axis: flowing motion versus steady commitment; changing rhythm versus reliable pattern
+  two_of_pentacles_position: Wants to remain responsive; fears that steady commitment will become boring
+  knight_of_pentacles_position: Needs reliable rhythm; reads the motion as unreliability
+  key_terms: urged steadiness, insisted motion, demanded reliability, kept flow
+
+dynamic_inhibition:
+  mechanism: The demand for absolute steadiness stops the motion; the rhythm cannot adapt while the Knight insists on unchanging dedication
+  blockade_nature: the exchange becomes impossible when rhythm must be perfectly predictable
+  pentacles_state: the balance becomes static trying to meet the demand for reliability
+  consequence: either the motion ceases or the work is not truly reliable
+  key_terms: stopped motion, static pattern, ceased exchange, false reliability
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive cycling of the same work pattern; the exchange becomes compulsive repetition
+  mode: the rhythm becomes a treadmill; the motion used to animate a meaningless cycle
+  loss: the genuine dedication the motion could have expressed; the exchange becomes mechanical labor
+  key_terms: mechanical labor, obsessive cycling, treadmill motion, meaningless work
+
+dynamic_dependency:
+  mechanism: The 2 needs the Knight's dedication to give its motion real work to do; the service needs the balance to keep work alive and sustainable
+  function: Pentacles-2 supplies the rhythm that makes labor sustainable and joyful; Pentacles-Knight supplies the dedication that gives motion purpose
+  integration_outcome: work that is both reliable and alive; dedication expressed through rhythm
+  key_terms: reliable motion, alive dedication, sustainable work, rhythmic service
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, Queen of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+numerical_relation: 2 + 13 = 15 (XV The Devil; adaptive exchange meets nurturing mastery; rhythm and care discovering their dance)
+elemental_bridge: Earth's constant motion meets Earth's abundant care; the dance becomes the expression of her wisdom
+threshold_type: The Queen teaches rhythm; motion learning to nurture
+
+dynamic_genesis:
+  mechanism: The balance of the 2 becomes the way the Queen's care moves in the world; the exchange carries her wisdom into practical action
+  process: the rhythm learns from her presence; the motion becomes the way nurturing actually manifests
+  outcome: care that is alive and moving; wisdom expressed through the dance itself
+  key_terms: moving care, expressed wisdom, rhythmic nurturing, danced abundance
+
+dynamic_antagonism:
+  mechanism: The 2's independence clashes with the Queen's gravitational pull toward the center; the motion meets the mother
+  tension_axis: flowing motion versus centered presence; independent movement versus called-toward gathering
+  two_of_pentacles_position: Wants to maintain its own rhythm; resists being drawn into the center
+  queen_of_pentacles_position: Calls everything into her orbit; reads independence as rejection of care
+  key_terms: resisted call, maintained independence, demanded gathering, kept motion
+
+dynamic_inhibition:
+  mechanism: The gravity of the Queen stops the motion; the rhythm cannot continue while she demands all return to the center
+  blockade_nature: the motion becomes impossible when the pull is complete; everything is held in place
+  pentacles_state: the exchange ceases when the motion is entirely absorbed into her presence
+  consequence: the motion stops; the rhythm becomes hers only
+  key_terms: stopped motion, absorbed exchange, ceased rhythm, centered stillness
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive cycling around the Queen; the exchange becomes compulsive motion in her orbit
+  mode: the motion becomes servile circulation; the rhythm used to animate her will
+  loss: the genuine care the motion could have offered; the exchange becomes service without love
+  key_terms: servile motion, obsessive circulation, enslaved rhythm, loveless care
+
+dynamic_dependency:
+  mechanism: The 2 needs the Queen's care to give its motion true nourishment and purpose; the nurturing needs the balance to remain alive rather than becoming controlling
+  function: Pentacles-2 supplies the motion that keeps the Queen's care alive and giving; Pentacles-Queen supplies the wisdom that guides motion toward true nurture
+  integration_outcome: a rhythm that nourishes; motion that is cared for and caring
+  key_terms: nurturing motion, cared rhythm, moving wisdom, alive nurture
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP
+
+---
+
+card_pair: 2 of Pentacles, King of Pentacles
+archetype_pentacles_1: Balance, juggling, flexibility, adaptive exchange, equilibrium
+archetype_pentacles_2: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+numerical_relation: 2 + 14 = 16 (XVI The Tower; adaptive exchange meets absolute dominion; rhythm serving the king)
+elemental_bridge: Earth's motion becomes Earth's power; the dance is the expression of the King's rule
+threshold_type: The King commands; motion learning sovereignty
+
+dynamic_genesis:
+  mechanism: The balance of the 2 becomes the instrument through which the King's dominion manifests; the exchange serves his abundant rule
+  process: the rhythm learns to obey the King's direction; the motion becomes the way his power is expressed
+  outcome: authority that is alive because it moves; dominion expressed through vital motion
+  key_terms: vital dominion, moving power, expressed authority, rhythmic stewardship
+
+dynamic_antagonism:
+  mechanism: The 2's resistance to absolute rule clashes with the King's demand for total obedience; the motion meets the throne
+  tension_axis: independent motion versus commanded obedience; free flow versus ruled pattern
+  two_of_pentacles_position: Maintains its own rhythm; refuses total subsumption
+  king_of_pentacles_position: Demands the motion become his instrument; asserts absolute authority
+  key_terms: asserted command, defended independence, demanded obedience, kept motion
+
+dynamic_inhibition:
+  mechanism: The demand for complete obedience stops the motion; the rhythm cannot continue while it must serve the King's will exclusively
+  blockade_nature: the exchange becomes impossible when freedom is eliminated
+  pentacles_state: the balance destroyed by the King's absolute assertion; the motion becomes enslaved
+  consequence: complete submission or rebellion
+  key_terms: enslaved motion, destroyed balance, submitted exchange, broken resistance
+
+dynamic_devolution:
+  mechanism: The balance corrupts into obsessive execution of the King's commands; the exchange becomes compulsive obedience
+  mode: the motion becomes the machinery of oppression; the rhythm used to enforce the King's will
+  loss: the freedom that was motion's essence; the exchange becomes tyranny
+  key_terms: enslaved motion, obsessive obedience, tyrannical rhythm, oppressed exchange
+
+dynamic_dependency:
+  mechanism: The 2 needs the King's authority to give its motion ultimate purpose and grounding; the dominion needs the balance to remain alive rather than becoming dead rule
+  function: Pentacles-2 supplies the motion that keeps the King's rule alive and responsive; Pentacles-King supplies the authority that guides motion toward stewardship
+  integration_outcome: a rhythm that serves wise rule; motion that is both obedient and vital
+  key_terms: vital obedience, wise authority, moving rule, living stewardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 2-1 through 2-14
+  uid: 2OPP

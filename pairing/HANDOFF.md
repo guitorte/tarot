@@ -10,9 +10,10 @@ devolution, dependency (the source instructions in `pairing/context.md`: X engen
 conflicts-with / stagnates-before / reduces-to / needs Y). Output is a machine-readable
 `key: value` block format defined by `FORMAT_SPEC.md`.
 
-## CURRENT STATE — Phase 1 COMPLETE ✅ (56/56)
-All minor-suit Swords pairings are spec-conformant at v1.3:
-`python3 pairing/validate.py` → **`PASS: 56 file(s) conformant.`** (exit 0).
+## CURRENT STATE — Phase 2 IN PROGRESS 🔄 (61/61, 5/14 major files done)
+
+### Phase 1 COMPLETE ✅ (56/56)
+All minor-suit Swords pairings are spec-conformant at v1.3.
 
 - 13 numbered+court primaries (2–King) × 4 target suits = 52 files.
 - 4 Ace-of-Swords-primary files (`ace_to_{pentacles,cups,wands,swords}`).
@@ -20,10 +21,24 @@ All minor-suit Swords pairings are spec-conformant at v1.3:
 - Same-suit files (`*_to_swords`) use `archetype_swords_1/_2` and, for a card meeting itself,
   `swords_position_1/_2`.
 
-**Verify before trusting this doc:** `python3 pairing/validate.py` should print 56/56.
+### Phase 2 IN PROGRESS 🔄 (5/14 major files)
+`python3 pairing/validate.py` → **`PASS: 61 file(s) conformant.`** (exit 0).
+
+Major files completed (in `pairing/swords/`):
+- ✅ `ace_to_major.txt` — Ace of Swords × 22 Majors
+- ✅ `2_to_major.txt` — 2 of Swords × 22 Majors
+- ⚠️ `3_to_major.txt` — 3 of Swords × 22 Majors (**uses old perspective — see note below**)
+- ✅ `4_to_major.txt` — 4 of Swords × 22 Majors
+- ✅ `5_to_major.txt` — 5 of Swords × 22 Majors
+
+Still to author (9 remaining):
+`6_to_major.txt`, `7_to_major.txt`, `8_to_major.txt`, `9_to_major.txt`, `10_to_major.txt`,
+`page_to_major.txt`, `knight_to_major.txt`, `queen_to_major.txt`, `king_to_major.txt`
+
+**Verify before trusting this doc:** `python3 pairing/validate.py` should print 61/61.
 
 ## NEXT — Phase 2: Swords × 22 Major Arcana (the current task)
-Add, for each of the 14 Swords cards, its combinations with all 22 Major Arcana.
+Author the remaining 9 `<card>_to_major.txt` files.
 **Format and rules are fully specified in `FORMAT_SPEC.md` §14 — read it.** Headlines:
 - New files `pairing/swords/<card>_to_major.txt`, **22 blocks** each (The Fool 0 → The World 21),
   14 files, 308 blocks total. Structured format, same five dynamics, same §8 quality bar.
@@ -32,10 +47,20 @@ Add, for each of the 14 Swords cards, its combinations with all 22 Major Arcana.
 - `archetype_major` canonical table for all 22 arcana is in §14.5 (reuse verbatim).
 - `uid: <Rank>OSM`; `series_count: 22`; `elemental_primary: air (swords) to major arcana`;
   `numerical_axis: <n>-0 through <n>-21`.
-- **Do this FIRST:** extend `validate.py` with a `_to_major.txt` branch (§14.3) so the new
-  files are checked and the existing 56 stay green. There is **no normalizer** for Phase 2 —
-  author fresh from `pairing/TEMPLATE_major.txt`.
+- `validate.py` is already extended for major files — no setup needed.
+- There is **no normalizer** for Phase 2 — author fresh from `pairing/TEMPLATE_major.txt`.
 - Pace ~1 file (22 blocks) per chunk; validator after each; commit per file/small group.
+
+### ⚠️ CRITICAL — Directional Perspective Rule (locked after 2_to_major.txt rewrite)
+**The Swords card is ALWAYS the primary/generating force.** Order matters:
+- "2 of Swords + The Fool" ≠ "The Fool + 2 of Swords"
+- The Swords card **engenders / conflicts with / stagnates before / reduces into / needs** the Major.
+- The Major is the *target* — never the initiating agent in the dynamics.
+- All five dynamics must be framed from the Swords card's perspective outward.
+- Files Ace, 2, 4, 5 use this correct perspective. File 3 uses the **old (inverted) perspective**
+  and should be rewritten when the user confirms (not yet requested as of last session).
+
+Reference: Jodorowsky's "Dynamic of the Ten Degrees" — lower degrees generate toward higher.
 
 ### Prior art to be aware of (different lineage — do not confuse)
 `combinations/magician.md` and `combinations/examples.md` already hold **Major × Major**
@@ -93,8 +118,11 @@ can be a content/tone reference only.
     run, then deleted. The reusable normalizers were kept. Follow that convention.
 
 ## Recommended next flow
-1. `python3 pairing/validate.py` → confirm 56/56.
-2. Read `FORMAT_SPEC.md` §14 end-to-end.
-3. Extend `validate.py` per §14.3; re-run, confirm 56/56 still green.
-4. Author `<card>_to_major.txt` files from `TEMPLATE_major.txt`, one at a time, validator after
-   each, committing in clear chunks. Push to the working branch; do not open a PR unless asked.
+1. `python3 pairing/validate.py` → confirm 61/61.
+2. Read `FORMAT_SPEC.md` §14 end-to-end (especially §14.5 for canonical `archetype_major` lines).
+3. Read an existing complete file (e.g. `4_to_major.txt` or `5_to_major.txt`) to internalize the
+   correct directional prose style before authoring.
+4. Author remaining `<card>_to_major.txt` files in sequence: 6, 7, 8, 9, 10, page, knight, queen,
+   king. Use `TEMPLATE_major.txt` as scaffold, validator after each, commit per file.
+5. Push to branch `claude/friendly-rubin-d8a20o`; do not open a PR unless asked.
+6. Optional: rewrite `3_to_major.txt` with correct directional perspective (user must confirm).

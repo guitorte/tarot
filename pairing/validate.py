@@ -3,19 +3,24 @@
 Validate Jodorowskian tarot pairing files against FORMAT_SPEC.md (v1.3).
 
 Usage:
-    python3 pairing/validate.py                       # check all swords/*.txt
+    python3 pairing/validate.py                       # check every <dir>/*_to_*.txt
     python3 pairing/validate.py pairing/swords/king_to_swords.txt ...
     python3 pairing/validate.py --quiet               # errors only, no per-file OK lines
 
 Exit code 0 if every checked file is fully conformant, 1 otherwise.
 
-What it checks (see FORMAT_SPEC.md §§2,4,5,6,7,9,11):
-  file:  exactly 14 blocks (Ace->King of target), shared uid / elemental_primary /
-         primary archetype, uid matches filename.
+What it checks (see FORMAT_SPEC.md §§2,4,5,6,7,9,11,14,15):
+  file:  exactly 14 blocks (Ace->King of target) — or 22 for *_to_major — sharing one
+         uid / elemental_primary / primary archetype; uid matches filename.
   block: required header fields; numerical_relation arithmetic + Marseille trump +
-         digit reduction for sums >21; five dynamics with field counts 4/5/5/4/5;
+         digit reduction for sums >21; five dynamics with field counts 4/5/5/4/4;
          antagonism has two *_position fields; structural_metadata values.
 It does NOT judge prose quality (§8) — that stays human.
+
+The PRIMARY suit is taken from the file's parent directory (pairing/swords,
+pairing/pentacles, ...). All suit-specific tokens (field names, uid infix,
+elemental_primary, card_pair) are derived from it, so the same logic validates
+every primary-suit lineage.
 """
 import sys
 import re
@@ -42,6 +47,11 @@ RANK_VALUE = {"Ace": 1, "Page": 11, "Knight": 12, "Queen": 13, "King": 14}
 RANK_UID = {"Ace": "A", "10": "X", "Page": "P", "Knight": "N", "Queen": "Q", "King": "K"}
 TARGET_UID = {"pentacles": "P", "cups": "C", "wands": "W", "swords": "S"}
 SUIT_ELEMENT = {"pentacles": "earth", "cups": "water", "wands": "fire", "swords": "air"}
+
+# Per-primary-suit derivations (§5,§7,§15). Capitalized name for card_pair, the
+# two-letter "Of <Suit>" uid infix, and the element word for elemental_primary.
+SUIT_CAP = {"pentacles": "Pentacles", "cups": "Cups", "wands": "Wands", "swords": "Swords"}
+PRIMARY_INFIX = {"swords": "OS", "pentacles": "OP", "cups": "OC", "wands": "OW"}
 
 # Major Arcana table (§14.5) — Marseille order 0-21.
 MAJORS = [
@@ -79,33 +89,54 @@ ARCH_MAJOR = {
 }
 ARCANUM_SLUG = {name: name.lower().replace(" ", "_") for _, name in MAJORS}
 
-# Target card order within every file (§11): Ace -> King.
+# Target card order within every minor file (§11): Ace -> King.
 SEQUENCE = ["Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10",
             "Page", "Knight", "Queen", "King"]
 
-# Canonical primary archetype_swords line per card (§6). Keyed by filename token.
-ARCH_SWORDS = {
-    "ace": "The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited",
-    "2": "Stalemate, choice, decision avoidance, binding agreement, blocked clarity",
-    "3": "Heartbreak, separation, sorrow, painful truth, unavoidable pain",
-    "4": "Rest, truce, peace, mental stillness, respite",
-    "5": "Conflict, defeat, hollow victory, defeat-at-cost, contested truth",
-    "6": "The Traveler, The Departure, The Crossing, The Healer Through Distance",
-    "7": "The Thief, The Cunning Escape, The Duplicity, The Strategic Theft",
-    "8": "The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness",
-    "9": "The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish",
-    "10": "The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation",
-    "page": "The Messenger, The Youthful Truth, The New Thought, Idea Arriving",
-    "knight": "The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion",
-    "queen": "The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won",
-    "king": "The King, The Enthroned Mind, The Visionary Authority, Thought That Commands",
+# Canonical primary archetype line per card, per primary suit (§6 / §15).
+# Keyed by filename token. archetype_<primary> must equal this, verbatim, in
+# every block of every file whose primary card is that token.
+ARCH_PRIMARY = {
+    "swords": {
+        "ace": "The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited",
+        "2": "Stalemate, choice, decision avoidance, binding agreement, blocked clarity",
+        "3": "Heartbreak, separation, sorrow, painful truth, unavoidable pain",
+        "4": "Rest, truce, peace, mental stillness, respite",
+        "5": "Conflict, defeat, hollow victory, defeat-at-cost, contested truth",
+        "6": "The Traveler, The Departure, The Crossing, The Healer Through Distance",
+        "7": "The Thief, The Cunning Escape, The Duplicity, The Strategic Theft",
+        "8": "The Bound One, The Prisoner, The Enslaved Mind, Constraint Consciousness",
+        "9": "The Tormented, The Nightmare Consciousness, The Despair Infinite, Mental Anguish",
+        "10": "The Ruined, The Defeated Utterly, The Despair Complete, Final Devastation",
+        "page": "The Messenger, The Youthful Truth, The New Thought, Idea Arriving",
+        "knight": "The Pursuer, The Wind Rider, The Zealous Seeker, Truth In Motion",
+        "queen": "The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won",
+        "king": "The King, The Enthroned Mind, The Visionary Authority, Thought That Commands",
+    },
+    "pentacles": {
+        "ace": "Manifestation, earthly foundation, material beginning, prosperity, practical potential",
+        "2": "Balance, juggling, flexibility, adaptive exchange, equilibrium",
+        "3": "Collaboration, skill, artisanship, mutual effort, crafted mastery",
+        "4": "Holding, security, control, possessiveness, guarded resources",
+        "5": "Hardship, poverty, material loss, deprivation, abandonment",
+        "6": "Sharing, generosity, fair exchange, reciprocal giving, balanced distribution",
+        "7": "Assessment, patience, long-term investment, paused evaluation, trust in process",
+        "8": "Mastery, skill-development, apprenticeship, dedication, refined craft",
+        "9": "Independence, luxury, earned abundance, self-sufficiency, prosperous solitude",
+        "10": "Legacy, inheritance, family wealth, generational continuity, established foundation",
+        "page": "Curiosity, material learning, practical exploration, earthy apprentice, grounded potential",
+        "knight": "Dedication, reliable service, steady work, methodical action, trustworthy effort",
+        "queen": "Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management",
+        "king": "Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship",
+    },
 }
 
-# Required fields per dynamic section (§2). Position fields handled separately.
-DYNAMIC_FIELDS = {
+# Required fields per dynamic section (§2). The inhibition "<primary>_state" field
+# and antagonism position fields are filled in per primary suit at validation time.
+DYNAMIC_FIELDS_BASE = {
     "dynamic_genesis": ["mechanism", "process", "outcome", "key_terms"],
     "dynamic_antagonism": ["mechanism", "tension_axis", "key_terms"],  # + 2 *_position
-    "dynamic_inhibition": ["mechanism", "blockade_nature", "swords_state",
+    "dynamic_inhibition": ["mechanism", "blockade_nature", "STATE",
                            "consequence", "key_terms"],
     "dynamic_devolution": ["mechanism", "mode", "loss", "key_terms"],
     "dynamic_dependency": ["mechanism", "function", "integration_outcome", "key_terms"],
@@ -113,6 +144,14 @@ DYNAMIC_FIELDS = {
 DYNAMIC_COUNT = {"dynamic_genesis": 4, "dynamic_antagonism": 5,
                  "dynamic_inhibition": 5, "dynamic_devolution": 4,
                  "dynamic_dependency": 4}
+
+
+def dynamic_fields_for(primary):
+    """DYNAMIC_FIELDS with the inhibition state field named <primary>_state."""
+    out = {}
+    for dyn, fields in DYNAMIC_FIELDS_BASE.items():
+        out[dyn] = [f"{primary}_state" if f == "STATE" else f for f in fields]
+    return out
 
 
 def rank_value(token):
@@ -225,17 +264,21 @@ def _norm(s):
     return re.sub(r"[^a-z]", "", s.lower().replace("the", ""))
 
 
-def _validate_major_file(path, primary_tok):
+def _validate_major_file(path, primary, primary_tok):
     """Validate a <card>_to_major.txt file (22 blocks, Major Arcana branch §14)."""
     errors = []
+    primary_cap = SUIT_CAP[primary]
+    arch_key = f"archetype_{primary}"
+    dynamic_fields = dynamic_fields_for(primary)
     primary_disp = {"ace": "Ace", "page": "Page", "knight": "Knight",
                     "queen": "Queen", "king": "King"}.get(primary_tok, primary_tok)
     primary_val = rank_value(primary_disp)
     uid_char = rank_uid(primary_disp)
-    expected_uid = uid_char + "OSM"
-    expected_elem = "air (swords) to major arcana"
+    expected_uid = uid_char + PRIMARY_INFIX[primary] + "M"
+    expected_elem = f"{SUIT_ELEMENT[primary]} ({primary}) to major arcana"
     n_str = str(primary_val) if primary_val is not None else primary_tok
     expected_axis = f"{n_str}-0 through {n_str}-21"
+    arch_table = ARCH_PRIMARY.get(primary, {})
 
     with open(path, encoding="utf-8") as f:
         text = f.read()
@@ -252,15 +295,15 @@ def _validate_major_file(path, primary_tok):
         expect_arcanum_num, expect_arcanum_name = MAJORS[i] if i < len(MAJORS) else (None, "?")
 
         # header fields
-        for k in ["card_pair", "archetype_swords", "archetype_major",
+        for k in ["card_pair", arch_key, "archetype_major",
                    "numerical_relation", "elemental_bridge", "threshold_type"]:
             if k not in top:
                 errors.append((i, f"{tag}: missing header field '{k}'"))
 
-        prim_arch.add(top.get("archetype_swords", ""))
-        canon = ARCH_SWORDS.get(primary_tok)
-        if canon and top.get("archetype_swords", "") not in ("", canon):
-            errors.append((i, f"{tag}: archetype_swords not canonical (§6); "
+        prim_arch.add(top.get(arch_key, ""))
+        canon = arch_table.get(primary_tok)
+        if canon and top.get(arch_key, "") not in ("", canon):
+            errors.append((i, f"{tag}: {arch_key} not canonical (§6); "
                               f"expected '{canon}'"))
 
         arch_maj = top.get("archetype_major", "")
@@ -269,10 +312,10 @@ def _validate_major_file(path, primary_tok):
             errors.append((i, f"{tag}: archetype_major not canonical (§14.5); "
                               f"expected '{canon_maj}'"))
 
-        # card_pair: "<rank> of Swords, <Arcanum name>"
+        # card_pair: "<rank> of <Primary>, <Arcanum name>"
         v1 = v2 = None
         cp = top.get("card_pair", "")
-        cpm = re.match(r"^(.+?)\s+of\s+Swords,\s*(.+?)\s*$", cp)
+        cpm = re.match(rf"^(.+?)\s+of\s+{primary_cap},\s*(.+?)\s*$", cp)
         if cpm:
             r1, arcanum_name = cpm.group(1).strip(), cpm.group(2).strip()
             v1 = rank_value(r1)
@@ -282,7 +325,7 @@ def _validate_major_file(path, primary_tok):
             if arcanum_name != expect_arcanum_name:
                 errors.append((i, f"{tag}: card_pair arcanum '{arcanum_name}' != expected '{expect_arcanum_name}'"))
         elif "card_pair" in top:
-            errors.append((i, f"{tag}: card_pair '{cp}' unparseable (expected '<rank> of Swords, <Arcanum>')"))
+            errors.append((i, f"{tag}: card_pair '{cp}' unparseable (expected '<rank> of {primary_cap}, <Arcanum>')"))
 
         # numerical_relation
         if "numerical_relation" in top:
@@ -290,7 +333,7 @@ def _validate_major_file(path, primary_tok):
                 errors.append((i, f"{tag}: {e}"))
 
         # dynamics
-        for dyn, required in DYNAMIC_FIELDS.items():
+        for dyn, required in dynamic_fields.items():
             if dyn not in sec:
                 errors.append((i, f"{tag}: missing section '{dyn}'"))
                 continue
@@ -336,20 +379,28 @@ def _validate_major_file(path, primary_tok):
 def validate_file(path, quiet=False):
     errors = []  # (block_index_or_None, message)
     fname = os.path.basename(path)
+    primary = os.path.basename(os.path.dirname(os.path.abspath(path)))
+    if primary not in SUIT_CAP:
+        return [f"primary suit dir '{primary}' unknown (expected one of {sorted(SUIT_CAP)})"]
     m = re.match(r"^([a-z0-9]+)_to_([a-z_]+)\.txt$", fname)
     if not m:
         return [f"filename '{fname}' not in form <card>_to_<suit>.txt"]
     primary_tok, target = m.group(1), m.group(2)
     if target == "major":
-        return _validate_major_file(path, primary_tok)
+        return _validate_major_file(path, primary, primary_tok)
     if target not in TARGET_UID:
         return [f"unknown target suit '{target}'"]
 
+    primary_cap = SUIT_CAP[primary]
+    arch_key = f"archetype_{primary}"
+    dynamic_fields = dynamic_fields_for(primary)
     primary_disp = {"ace": "Ace", "page": "Page", "knight": "Knight",
                     "queen": "Queen", "king": "King"}.get(primary_tok, primary_tok)
-    expected_uid = rank_uid(primary_disp) + "OS" + TARGET_UID[target]
-    expected_elem = f"air (swords) to {SUIT_ELEMENT[target]} ({target})"
-    same_suit = (target == "swords")
+    expected_uid = rank_uid(primary_disp) + PRIMARY_INFIX[primary] + TARGET_UID[target]
+    expected_elem = (f"{SUIT_ELEMENT[primary]} ({primary}) to "
+                     f"{SUIT_ELEMENT[target]} ({target})")
+    same_suit = (target == primary)
+    arch_table = ARCH_PRIMARY.get(primary, {})
 
     with open(path, encoding="utf-8") as f:
         text = f.read()
@@ -367,9 +418,9 @@ def validate_file(path, quiet=False):
 
         # --- header fields ---
         if same_suit:
-            arch_keys = ["archetype_swords_1", "archetype_swords_2"]
+            arch_keys = [f"archetype_{primary}_1", f"archetype_{primary}_2"]
         else:
-            arch_keys = ["archetype_swords", f"archetype_{target}"]
+            arch_keys = [arch_key, f"archetype_{target}"]
         header_required = ["card_pair", arch_keys[0], arch_keys[1],
                            "numerical_relation", "elemental_bridge", "threshold_type"]
         for k in header_required:
@@ -377,7 +428,7 @@ def validate_file(path, quiet=False):
                 errors.append((i, f"{tag}: missing header field '{k}'"))
 
         prim_arch.add(top.get(arch_keys[0], ""))
-        canon = ARCH_SWORDS.get(primary_tok)
+        canon = arch_table.get(primary_tok)
         if canon and top.get(arch_keys[0], "") not in ("", canon):
             errors.append((i, f"{tag}: {arch_keys[0]} not canonical (§6); "
                               f"expected '{canon}'"))
@@ -385,7 +436,7 @@ def validate_file(path, quiet=False):
         # --- card_pair / value extraction ---
         v1 = v2 = None
         cp = top.get("card_pair", "")
-        cpm = re.match(r"^(.+?)\s+of\s+Swords,\s*(.+?)\s+of\s+([A-Za-z]+)\s*$", cp)
+        cpm = re.match(rf"^(.+?)\s+of\s+{primary_cap},\s*(.+?)\s+of\s+([A-Za-z]+)\s*$", cp)
         if cpm:
             r1, r2, suit2 = cpm.group(1), cpm.group(2), cpm.group(3).lower()
             v1, v2 = rank_value(r1), rank_value(r2)
@@ -404,7 +455,7 @@ def validate_file(path, quiet=False):
                 errors.append((i, f"{tag}: {e}"))
 
         # --- dynamics ---
-        for dyn, required in DYNAMIC_FIELDS.items():
+        for dyn, required in dynamic_fields.items():
             if dyn not in sec:
                 errors.append((i, f"{tag}: missing section '{dyn}'"))
                 continue
@@ -416,12 +467,13 @@ def validate_file(path, quiet=False):
                 is_self = bool(same_suit and cpm and r1 == r2)
                 pos = [k for k in fields if k.endswith("_position")]
                 if is_self:
-                    # a card meeting itself uses swords_position_1/_2 (§9)
-                    if not {"swords_position_1", "swords_position_2"} <= set(fields):
+                    # a card meeting itself uses <primary>_position_1/_2 (§9)
+                    self_labels = {f"{primary}_position_1", f"{primary}_position_2"}
+                    if not self_labels <= set(fields):
                         errors.append((i, f"{tag}/{dyn}: self-pairing must use "
-                                          f"swords_position_1/_2 (§9)"))
+                                          f"{primary}_position_1/_2 (§9)"))
                 else:
-                    # differing cards use named labels <card>_of_<suit>_position (§9)
+                    # differing cards use named labels (§9)
                     if len(pos) != 2:
                         errors.append((i, f"{tag}/{dyn}: expected 2 named *_position "
                                           f"fields, found {len(pos)} "
@@ -471,7 +523,7 @@ def main():
         paths = args
     else:
         here = os.path.dirname(os.path.abspath(__file__))
-        paths = sorted(glob.glob(os.path.join(here, "swords", "*.txt")))
+        paths = sorted(glob.glob(os.path.join(here, "*", "*_to_*.txt")))
 
     total_err = 0
     for path in paths:

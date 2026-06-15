@@ -10,7 +10,7 @@ devolution, dependency (the source instructions in `pairing/context.md`: X engen
 conflicts-with / stagnates-before / reduces-to / needs Y). Output is a machine-readable
 `key: value` block format defined by `FORMAT_SPEC.md`.
 
-## CURRENT STATE — Phase 2 COMPLETE ✅ (70/70, 14/14 major files done)
+## CURRENT STATE — Phase 3 IN PROGRESS 🔄 (74/74; Pentacles primary started)
 
 ### Phase 1 COMPLETE ✅ (56/56)
 All minor-suit Swords pairings are spec-conformant at v1.3.
@@ -43,11 +43,36 @@ All Swords × Major Arcana files completed (in `pairing/swords/`):
 **All 14 Swords cards now complete with full 22-block Major Arcana pairings (308 blocks total).**
 **Verify:** `python3 pairing/validate.py` prints 70/70 (56 Phase 1 + 14 Phase 2 Swords-to-Major).
 
-## NEXT — Phase 3: Other Suits × Major Arcana (design phase)
-Remaining Swords Court card file (`3_to_major.txt`) uses inverted perspective and should be rewritten
-per user confirmation (not yet requested). **Phase 3 will likely extend Major Arcana pairings to Cups, 
-Coins/Pentacles, and Wands/Rods.** Structure and numerics will mirror Swords but with suit-specific 
-primary archetypal lines. Await user direction for next suit and priority cards.
+### Phase 3 IN PROGRESS 🔄 — PENTACLES as a new primary suit
+`python3 pairing/validate.py` now scans **every `pairing/*/*_to_*.txt`** (not just swords).
+The validator is **primary-suit-aware**: it derives the primary suit from the parent
+directory, so all suit-specific tokens (field names, uid infix, elemental_primary, card_pair)
+follow. The Swords 70 stay green; 4 new Pentacles files bring the total to **74/74**.
+
+Pentacles-primary files completed (in `pairing/pentacles/`):
+- ✅ `ace_to_cups.txt` — Ace of Pentacles × 14 Cups (earth→water, uid AOPC)
+- ✅ `ace_to_wands.txt` — Ace of Pentacles × 14 Wands (earth→fire, uid AOPW)
+- ✅ `ace_to_swords.txt` — Ace of Pentacles × 14 Swords (earth→air, uid AOPS)
+- ✅ `ace_to_pentacles.txt` — Ace of Pentacles × 14 Pentacles (earth→earth, same-suit, uid AOPP)
+
+**The full Pentacles-primary spec is now §15 of `FORMAT_SPEC.md`** (read it before authoring
+more): field renames (`archetype_pentacles`, `pentacles_state`, `<S>_position_*`),
+`elemental_primary` = `earth (pentacles) to <element> (<target>)`, `uid` = `<Rank>OP<Target>`,
+target-element `ontology`, and the canonical §15.3 `archetype_pentacles` table. The directional
+rule holds: **the Pentacles card is always X**, the generating force (Ace of Pentacles → Y,
+never Y → Ace of Pentacles).
+
+## NEXT — continue Phase 3 (Pentacles primary, 2 → King)
+1. `python3 pairing/validate.py` → confirm 74/74.
+2. Read `FORMAT_SPEC.md` §15 (and §2/§8 for the skeleton and quality bar).
+3. Author the remaining Pentacles primaries: 2, 3, … 10, page, knight, queen, king — each
+   four files (`_to_cups/_wands/_swords/_pentacles`), 14 blocks each. Validator after each;
+   commit per card or small group. Secondary archetype lines come verbatim from the existing
+   Swords pairing files (§15.2). Same-suit files: block 1 is the self-pairing.
+4. Optional later: Pentacles × Major Arcana, then Cups-primary / Wands-primary lineages (each
+   needs its own §15.3-style table added to the spec and to `validate.py`'s `ARCH_PRIMARY`).
+5. Legacy: Swords `3_to_major.txt` still uses the inverted perspective; rewrite only when the
+   user confirms.
 
 ### ⚠️ CRITICAL — Directional Perspective Rule (locked after 2_to_major.txt rewrite)
 **The Swords card is ALWAYS the primary/generating force.** Order matters:
@@ -115,17 +140,7 @@ can be a content/tone reference only.
 10. **One-shot `_author_*_keyterms.py` scripts** (keyed data + line-based patch) were created,
     run, then deleted. The reusable normalizers were kept. Follow that convention.
 
-## Recommended next flow (Phase 3)
-When user initiates Phase 3 (other suits), the pattern mirrors Phase 2:
-1. User specifies which suit (Cups, Coins/Pentacles, Wands/Rods) and which primary cards to author first.
-2. Extend `FORMAT_SPEC.md` §14 with new suit-specific `archetype_cups/_pentacles/_wands` canonical lines (parallel to §14.5).
-3. Copy and adapt `TEMPLATE_major.txt` for the new suit (`TEMPLATE_major_cups.txt`, etc.).
-4. Author `<card>_to_major.txt` files under `pairing/cups/`, `pairing/pentacles/`, `pairing/wands/` respectively.
-   - Numerical relation stays: `<suit_card#> + <arcanum# 0–21> = <sum> (Trump)` with Marseille trump table.
-   - Same five dynamics, same prose quality bar (§8).
-   - UIDs: `<Rank>OCM`, `<Rank>PCM`, `<Rank>WCM` (C = "of", M = "Major").
-5. Validator extensions will likely be needed for new suit directories (consult developer notes if validator fails).
-6. Push work to designated branch; await user direction for next priority.
+(Phase 3 flow now lives in the "NEXT — continue Phase 3" section above and in `FORMAT_SPEC.md` §15.)
 
 ## Legacy note: 3_to_major.txt perspective issue
 File `3_to_major.txt` currently uses the **old (inverted) perspective** where the Major is treated as the

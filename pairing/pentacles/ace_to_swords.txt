@@ -1,0 +1,696 @@
+card_pair: Ace of Pentacles, Ace of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 1 + 1 = 2 (II The High Priestess; the material seed meets the ignited thought, substance offered to clarity)
+elemental_bridge: Earth's first coin meets Air's first blade; the substance that can be built meets the insight that would direct it
+threshold_type: The opportunity and its clarifying idea; raw potential meeting the thought that names it
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the new clarity a real thing to be about; concrete substance turns insight into an actionable plan
+  process: the coin is set before the blade; the cutting thought sees exactly what the opportunity is and how it could be built
+  outcome: insight made practical; clarity grounded in a foundation it can shape
+  key_terms: actionable clarity, grounded insight, named opportunity, thought made practical
+
+dynamic_antagonism:
+  mechanism: The seed's silent, concrete being collides with the blade's drive to analyze and define everything
+  tension_axis: the thing itself versus the idea about it
+  pentacles_position: Is what it is, prior to any argument; resents being dissected before it is even planted
+  swords_position: Insists nothing be acted on unexamined; would rather name the opportunity than take it up
+  key_terms: thing versus idea, premature dissection, analysis demanded, the unexamined refused
+
+dynamic_inhibition:
+  mechanism: Relentless analysis postpones the planting; the seed waits while the blade keeps refining the perfect plan
+  blockade_nature: the foundation cannot be laid because thought will not stop sharpening long enough to act
+  pentacles_state: the seed held under endless scrutiny, examined into paralysis, never committed to soil
+  consequence: a perfectly understood opportunity that is never seized; potential lost to over-clarity
+  key_terms: paralysis by analysis, examined seed, perfect-plan stall, understood-not-seized
+
+dynamic_devolution:
+  mechanism: The material seed reduces the new truth into mere calculation; insight degraded into figuring out how to extract the most
+  mode: the clarity weaponized for gain; thought turned cold-bloodedly to working the opportunity for all it is worth
+  loss: the integrity of the insight; truth that sought to understand becomes a tool that only exploits
+  key_terms: cold calculation, exploited clarity, truth as tool, insight degraded
+
+dynamic_dependency:
+  mechanism: The Ace of Pentacles needs the Ace of Swords to see what the substance is and how to build it; the new clarity needs the seed to have something real to be true about
+  function: Pentacles-Ace supplies the concrete material to work; Swords-Ace supplies the insight that names it and the plan to grow it
+  integration_outcome: an opportunity both clearly seen and actually built; thought directing substance into a real result
+  key_terms: seen-and-built, directed substance, clarity enacted, insight grounded
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, 2 of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 1 + 2 = 3 (III The Empress; the offered opportunity meets the mind refusing to choose)
+elemental_bridge: Earth's ready coin meets Air's crossed blades; the chance that needs a yes meets the mind that will not decide
+threshold_type: The opportunity awaiting a decision; a beginning held hostage to an avoided choice
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the stalemate a concrete reason to resolve; a real opportunity forces the blocked mind toward a decision
+  process: the coin is laid on the table the blindfold faces; the avoided choice acquires a tangible stake that makes deciding worthwhile
+  outcome: paralysis broken by a real prize; the stalemate ended because something solid is on offer
+  key_terms: forced resolution, real stake, broken stalemate, choice grounded
+
+dynamic_antagonism:
+  mechanism: The seed's demand for a committed yes collides with the mind's investment in keeping all options open
+  tension_axis: commitment to one path versus protective indecision
+  pentacles_position: Presses for a decision so the opportunity can be taken; impatient with deliberation while the chance ages
+  swords_position: Refuses to be cornered into choosing; insists that committing forecloses safer options
+  key_terms: yes-demanded versus options-open, the aging chance, cornered refused, indecision defended
+
+dynamic_inhibition:
+  mechanism: Chronic decision-avoidance freezes the seed; the opportunity cannot proceed without a yes the mind will not give
+  blockade_nature: the foundation waits on a choice perpetually deferred; manifestation hostage to a balanced stalemate
+  pentacles_state: the seed suspended over an undecided table, neither planted nor declined, held in indefinite abeyance
+  consequence: the chance expires unchosen; potential lost not to a wrong decision but to no decision at all
+  key_terms: deferred yes, suspended seed, indefinite abeyance, lost to indecision
+
+dynamic_devolution:
+  mechanism: The material seed becomes the bargaining chip in a stalemate that serves only delay; the opportunity used to keep the deadlock comfortable
+  mode: the binding agreement that commits to nothing; provision frozen into a pact that prevents action
+  loss: the opportunity's vitality; a live chance pickled into a permanent, useless truce
+  key_terms: pickled chance, deadlock-as-comfort, useless truce, frozen provision
+
+dynamic_dependency:
+  mechanism: The Ace needs the 2 of Swords's caution to weigh the choice properly before committing the asset; the stalemate needs the seed to give it a reason finally to decide
+  function: Pentacles-Ace supplies the concrete stake that makes a decision matter; Swords-2 supplies the careful weighing that keeps the commitment from being rash
+  integration_outcome: a deliberate choice made in time to act; caution and opportunity resolved into a considered, committed yes
+  key_terms: considered yes, weighed-then-committed, timely decision, caution resolved
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, 3 of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 1 + 3 = 4 (IV The Emperor; the new beginning meets the heart pierced by painful truth)
+elemental_bridge: Earth's fresh coin meets Air's piercing blades; the offered start meets the sorrow that cannot yet look up
+threshold_type: A beginning offered amid heartbreak; opportunity held out to someone wounded by truth
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the grieving mind a concrete task to steady itself on; a real beginning offers ground beneath the pierced heart
+  process: the coin is set within reach of the sorrow; the painful truth gains a practical next step that does not deny it
+  outcome: heartbreak given a floor of action; the wound bounded by something real to do
+  key_terms: a task to steady, floor under sorrow, practical next step, bounded wound
+
+dynamic_antagonism:
+  mechanism: The seed's call to build forward collides with the heart's need to dwell in the painful truth
+  tension_axis: getting on with it versus honoring the hurt
+  pentacles_position: Offers a productive distraction; treats prolonged sorrow as a waste of the opportunity
+  swords_position: Refuses premature productivity; insists the painful truth be felt before any building begins
+  key_terms: get-on-with-it versus honor-the-hurt, premature productivity, the rushed wound, sorrow defended
+
+dynamic_inhibition:
+  mechanism: Fixation on the painful truth drains attention from the seed; the opportunity cannot be worked by a mind consumed with hurt
+  blockade_nature: the beginning goes untouched while the heartbreak holds the whole of awareness
+  pentacles_state: the seed offered to a mind elsewhere, present but unattended, awaiting an attention sorrow has seized
+  consequence: the chance passes unworked; potential lost to a grief that leaves no room for it
+  key_terms: unattended seed, seized attention, consumed by hurt, unworked chance
+
+dynamic_devolution:
+  mechanism: The material seed is used to bury the painful truth rather than face it; busyness deployed to avoid the necessary grief
+  mode: work as avoidance; provision pursued frantically to outrun a sorrow that needed feeling
+  loss: the truth unmet and so unhealed; a foundation built atop a wound left to fester
+  key_terms: work as avoidance, buried truth, frantic provision, festering wound
+
+dynamic_dependency:
+  mechanism: The Ace needs the 3 of Swords's honesty about the hurt so the new thing is not built on denial; the heartbreak needs the seed to prove a future exists past the pain
+  function: Pentacles-Ace supplies the tangible evidence of a way forward; Swords-3 supplies the unflinching truth of what was actually lost
+  integration_outcome: a beginning entered after the painful truth is faced, not in flight from it; provision that heals by outlasting the wound honestly
+  key_terms: truth faced first, healing provision, future made evident, honest forward
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, 4 of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Rest, truce, peace, mental stillness, respite
+numerical_relation: 1 + 4 = 5 (V The Pope; the new opportunity meets the mind at rest)
+elemental_bridge: Earth's fresh coin meets Air's stilled blade; the beginning that asks for effort meets the mind that has chosen to rest
+threshold_type: A chance arriving during recovery; opportunity offered to someone deliberately at rest
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles waits patiently for the rested mind; recovery completed, the seed meets a clarity restored enough to build well
+  process: the coin sits untouched through the respite; when stillness has done its work, the beginning is taken up by a steadied hand
+  outcome: a venture begun from genuine recovery; provision undertaken with restored, unhurried strength
+  key_terms: rested beginning, restored clarity, unhurried hand, recovery before build
+
+dynamic_antagonism:
+  mechanism: The seed's call to begin now collides with the mind's hard-won decision to stay still a while longer
+  tension_axis: seizing the opportunity versus protecting the rest
+  pentacles_position: Urges that the chance be taken before it passes; reads continued rest as risking the opportunity
+  swords_position: Defends the truce; insists the recovery is not finished and will not be cut short for a coin
+  key_terms: seize-now versus protect-rest, the risked chance, cut-short refused, respite defended
+
+dynamic_inhibition:
+  mechanism: Rest extended past its purpose becomes avoidance; the seed stalls before a stillness that will not resume
+  blockade_nature: the beginning cannot start because the truce has hardened into a refusal to re-engage
+  pentacles_state: the seed left beside an endless rest, an opportunity indefinitely postponed in the name of recovery
+  consequence: the chance lapses while the rest continues; potential lost to a respite that forgot to end
+  key_terms: endless truce, postponed seed, recovery-as-avoidance, lapsed chance
+
+dynamic_devolution:
+  mechanism: The material seed corrupts the rest into idle comfort; the truce becomes inertia funded by just enough provision
+  mode: the comfortable rut; substance used to make stagnation sustainable rather than to build
+  loss: the restorative point of the rest; respite degraded into a permanent avoidance of effort
+  key_terms: comfortable rut, funded stagnation, inertia, avoidance of effort
+
+dynamic_dependency:
+  mechanism: The Ace needs the 4 of Swords's stillness to begin from a recovered rather than depleted state; the rest needs the seed to give the recovery a purpose to return to
+  function: Pentacles-Ace supplies the worthwhile venture to resume into; Swords-4 supplies the restored clarity and strength to build it well
+  integration_outcome: a beginning launched from genuine recovery at the right moment; rest and provision timed so effort resumes renewed
+  key_terms: renewed effort, well-timed resumption, recovered-then-built, purposeful rest
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, 5 of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 1 + 5 = 6 (VI The Lovers; the new asset meets the hollow victor counting his spoils)
+elemental_bridge: Earth's clean coin meets Air's bitter blades; the honest beginning meets the win that cost more than it gained
+threshold_type: A fresh start offered to the hollow victor; opportunity set before someone who has won at too high a price
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles offers the hollow victor a clean way to build instead of merely to defeat; a real foundation redeems winning into making
+  process: the coin replaces the contested field as the object of effort; the energy spent on conquest is turned toward construction
+  outcome: a victor given something worth building rather than only opponents to beat; conflict converted into foundation
+  key_terms: build over conquer, clean object, redeemed energy, foundation from conflict
+
+dynamic_antagonism:
+  mechanism: The seed's cooperative, patient nature collides with the victor's habit of winning by taking from others
+  tension_axis: building one's own versus seizing another's
+  pentacles_position: Offers a foundation earned by labor; refuses the shortcut of taking what someone else built
+  swords_position: Trusts only what is won in contest; reads honest building as slower and weaker than seizing
+  key_terms: earn versus seize, the honest foundation, shortcut tempted, labor against conquest
+
+dynamic_inhibition:
+  mechanism: A mind set on contest cannot settle to build; the seed stalls before someone who only knows how to fight for things
+  blockade_nature: the beginning cannot start because every situation is read as a battle, not a foundation to lay
+  pentacles_state: the seed left unbuilt while its holder looks for an opponent, an opportunity wasted on a readiness to fight
+  consequence: the chance ignored in favor of conflict; potential lost to a temperament that prefers winning to having
+  key_terms: unbuilt seed, looking for opponents, conflict preferred, wasted readiness
+
+dynamic_devolution:
+  mechanism: The material seed becomes the next thing to win by cheating; the opportunity taken through a hollow, costly victory
+  mode: the foundation seized rather than built; provision acquired by defeating its rightful holder
+  loss: the cleanness of the beginning; substance won at a cost that poisons the having
+  key_terms: seized foundation, costly acquisition, poisoned having, cheated win
+
+dynamic_dependency:
+  mechanism: The Ace needs the 5 of Swords's hard edge to defend the foundation when it must be defended; the hollow victor needs the seed to give his fighting something worth winning that does not curdle
+  function: Pentacles-Ace supplies the honest thing worth building and keeping; Swords-5 supplies the willingness to fight for it when fighting is truly required
+  integration_outcome: a foundation built honestly and defended only when necessary; conflict put in service of something clean rather than for its own bitter sake
+  key_terms: built-then-defended, conflict in service, clean foundation, necessary fight
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, 6 of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Travel, transition, movement toward solution, passage, departure
+numerical_relation: 1 + 6 = 7 (VII The Chariot; the new ground meets the passage toward calmer water)
+elemental_bridge: Earth's fixed coin meets Air's moving boat; the foundation that asks to be settled meets the transition heading elsewhere
+threshold_type: A destination for the crossing; a foundation offered at the end of a passage
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the transition a solid shore to reach; concrete ground turns mere departure into arrival
+  process: the coin marks the far bank; the passage away from trouble becomes a journey toward a real new foundation
+  outcome: transition completed in something durable; movement resolved into a place to build
+  key_terms: shore to reach, arrival not just departure, durable destination, passage resolved
+
+dynamic_antagonism:
+  mechanism: The seed's call to stay and root collides with the transition's need to keep moving toward calmer water
+  tension_axis: settling here versus crossing onward
+  pentacles_position: Offers a foundation right here; reads continued travel as fleeing rather than arriving
+  swords_position: Is still in passage; insists the present ground is not yet the safe shore worth stopping at
+  key_terms: settle-here versus cross-onward, the premature shore, fleeing or arriving, travel defended
+
+dynamic_inhibition:
+  mechanism: Perpetual transition keeps the seed from ever being planted; the foundation stalls before someone always in passage
+  blockade_nature: the beginning cannot root because every shore is treated as another waystation, never the destination
+  pentacles_state: the seed carried from bank to bank, never set down, an opportunity that travels but never lands
+  consequence: a life of crossings with nothing built; potential kept perpetually in transit
+  key_terms: never-planted seed, endless waystation, perpetual transit, nothing built
+
+dynamic_devolution:
+  mechanism: The material seed funds an escape rather than a relocation; provision spent fleeing problems that travel along
+  mode: the flight; substance used to move away from trouble without ever arriving at anything
+  loss: the foundation a true crossing should reach; resources drained by departure that solves nothing
+  key_terms: funded flight, problems that follow, never arriving, drained by departure
+
+dynamic_dependency:
+  mechanism: The Ace needs the 6 of Swords's movement to carry the foundation away from untenable ground to better; the transition needs the seed to give the crossing a real destination
+  function: Pentacles-Ace supplies the solid shore worth crossing to; Swords-6 supplies the passage out of what no longer works
+  integration_outcome: a relocation that ends in a real new foundation; movement and substance resolved into a true fresh start
+  key_terms: true relocation, real destination, crossing that lands, fresh start founded
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, 7 of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Deception, theft, cunning, strategic secrecy, hidden strategy
+numerical_relation: 1 + 7 = 8 (VIII Justice; the honest seed meets the cunning that would take it)
+elemental_bridge: Earth's plain coin meets Air's slipping blades; the openly built thing meets the strategy that prefers to take by stealth
+threshold_type: The asset and the schemer; a foundation eyed by cunning rather than earned by labor
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives cunning an honest object to apply its cleverness to; strategy turned toward building rather than stealing
+  process: the coin offers a legitimate venture; the strategic mind invests its ingenuity in growing the asset instead of lifting it
+  outcome: cleverness made constructive; cunning grounded in an honest enterprise it can outwit problems for
+  key_terms: constructive cunning, honest object, ingenuity invested, strategy grounded
+
+dynamic_antagonism:
+  mechanism: The seed's openness and honest labor collide with the schemer's preference for the shortcut of stealth
+  tension_axis: building in the open versus taking in secret
+  pentacles_position: Earns and shows its work; trusts the slow honest foundation
+  swords_position: Prefers the clever theft to the patient build; reads open labor as naive and exposed
+  key_terms: open build versus secret take, naive labor charged, the clever shortcut, honesty exposed
+
+dynamic_inhibition:
+  mechanism: Suspicion and secrecy choke the trust a foundation needs; the seed stalls where everything is hidden and nothing shared
+  blockade_nature: the beginning cannot grow in a climate of concealment; collaboration impossible amid hidden strategies
+  pentacles_state: the seed locked away from view, guarded so secretly it can be tended by no one and grows not at all
+  consequence: the venture starves on suspicion; potential strangled by a secrecy that prevents real building
+  key_terms: choked trust, climate of concealment, locked-away seed, starved on suspicion
+
+dynamic_devolution:
+  mechanism: The material seed becomes the target of theft; cunning bent to lift the foundation someone else laid
+  mode: the heist; provision acquired by deception rather than earned by labor
+  loss: the honesty of the having; an asset whose ownership is a lie waiting to unravel
+  key_terms: the heist, stolen foundation, deceptive ownership, lie waiting to unravel
+
+dynamic_dependency:
+  mechanism: The Ace needs the 7 of Swords's strategic cleverness to protect and position the foundation; the schemer needs the seed to give his cunning an honest aim that does not corrode him
+  function: Pentacles-Ace supplies the legitimate asset and the labor to grow it; Swords-7 supplies the strategic wit to defend and place it shrewdly
+  integration_outcome: an enterprise both honestly built and cleverly steered; cunning protecting substance rather than stealing it
+  key_terms: shrewd protection, honest aim, cleverness in service, steered enterprise
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, 8 of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Imprisonment, constraint, mental bondage, restriction, entrapment
+numerical_relation: 1 + 8 = 9 (IX The Hermit; the freeing seed meets the self-bound mind)
+elemental_bridge: Earth's open coin meets Air's encircling blades; the real way out meets the mind that believes itself trapped
+threshold_type: The opportunity within reach of the bound; a foundation offered to someone who cannot see they could take it
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles offers the bound mind a concrete handhold out; a real, touchable opportunity is something a paralysis of thought cannot argue away
+  process: the coin is placed within the circle of swords; the trapped mind, met by something solid, finds one real action it can actually take
+  outcome: constraint loosened by a tangible first step; mental bondage interrupted by an undeniable fact
+  key_terms: concrete handhold, undeniable fact, one real action, bondage interrupted
+
+dynamic_antagonism:
+  mechanism: The seed's offer of a way forward collides with the trapped mind's conviction that no move is possible
+  tension_axis: the available opportunity versus the felt impossibility
+  pentacles_position: Points to the obvious open path; frustrated that a plain chance is treated as unreachable
+  swords_position: Insists the constraints are real and binding; reads the offered step as a trap or a taunt
+  key_terms: open path versus felt impossibility, the plain chance, step distrusted, constraint insisted
+
+dynamic_inhibition:
+  mechanism: Self-imposed restriction keeps the seed untaken; the opportunity stalls before a mind that cannot believe in its own freedom to act
+  blockade_nature: the beginning sits within reach but unreached; manifestation blocked by a bondage that is mental, not actual
+  pentacles_state: the seed inside the circle, available but unclaimed, awaiting a permission the trapped mind withholds from itself
+  consequence: the chance rots within arm's length; potential lost to a prison with an unlocked door
+  key_terms: unclaimed seed, prison unlocked, withheld permission, chance within reach
+
+dynamic_devolution:
+  mechanism: The material seed becomes proof of the trap; the opportunity reframed as one more thing that cannot be managed, deepening the bondage
+  mode: learned helplessness; provision experienced as another obligation the bound mind is sure to fail
+  loss: the freeing power of the chance; an exit turned into evidence of being stuck
+  key_terms: learned helplessness, exit as evidence, deepened bondage, opportunity as proof of trap
+
+dynamic_dependency:
+  mechanism: The Ace needs the 8 of Swords to recognize which constraints are real so the foundation is built within true limits; the bound mind needs the seed's concreteness to test which walls are actual and which imagined
+  function: Pentacles-Ace supplies the tangible action that disproves false limits; Swords-8 supplies the honest map of the constraints that genuinely bind
+  integration_outcome: a beginning built by testing the walls and finding the real door; constraint clarified into the actual space available to act
+  key_terms: walls tested, real door found, true limits, freed to build
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, 9 of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
+numerical_relation: 1 + 9 = 10 (X The Wheel of Fortune; the steadying seed meets the mind in night terror)
+elemental_bridge: Earth's solid coin meets Air's circling dread; the real ground meets the mind tormented by imagined ruin
+threshold_type: A solid fact offered to the anxious; a foundation held out against night terrors
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the tormented mind one solid fact to hold against the dread; a concrete foundation answers anxiety with something real
+  process: the coin is placed in the sleepless hand; the obsessive fears meet a tangible certainty that does not dissolve when examined
+  outcome: anxiety steadied by the real; dread bounded by a foundation that demonstrably holds
+  key_terms: solid fact against dread, steadying certainty, bounded anxiety, the real that holds
+
+dynamic_antagonism:
+  mechanism: The seed's calm concreteness collides with the mind's compulsion to imagine every way it could fail
+  tension_axis: the present real foundation versus the catastrophe imagined ahead
+  pentacles_position: Points to what is actually, presently secure; frustrated that real provision cannot quiet invented fears
+  swords_position: Cannot stop forecasting ruin; reads each reassurance as naive about the disaster surely coming
+  key_terms: present-real versus imagined-ruin, invented fears, reassurance rejected, catastrophe forecast
+
+dynamic_inhibition:
+  mechanism: Obsessive dread paralyzes action on the seed; the opportunity stalls before a mind too tormented to trust any step
+  blockade_nature: the foundation cannot be built because anxiety treats every move as the one that triggers collapse
+  pentacles_state: the seed clutched but never acted upon, frozen by a mind rehearsing failure instead of building
+  consequence: the chance immobilized by fear; potential lost to a torment that forbids the first move
+  key_terms: paralyzed by dread, rehearsed failure, immobilized chance, fear forbids action
+
+dynamic_devolution:
+  mechanism: The material seed becomes the focus of the obsession; the opportunity itself converted into a fresh source of catastrophic worry
+  mode: the asset as anxiety-object; provision feeding the very dread it could have eased
+  loss: the comfort the foundation should provide; security itself turned into one more thing to lie awake over
+  key_terms: asset as anxiety-object, fed dread, sleepless security, comfort inverted
+
+dynamic_dependency:
+  mechanism: The Ace needs the 9 of Swords's sensitivity to real risk so the foundation is built with genuine prudence; the tormented mind needs the seed's solidity to give its vigilance a real object instead of imagined ones
+  function: Pentacles-Ace supplies the tangible security that anchors a spinning mind; Swords-9 supplies the alertness that, aimed right, becomes useful caution
+  integration_outcome: a foundation built with prudence rather than panic; anxiety converted into careful provision against the risks that are actually real
+  key_terms: prudence not panic, anchored mind, useful caution, real risks provisioned
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, 10 of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Destruction, ending, inevitable pain, completion through ruin, death-knife
+numerical_relation: 1 + 10 = 11 (XI Strength; the first seed meets the final ruin)
+elemental_bridge: Earth's first coin meets Air's last blade; the new beginning meets the absolute ending it could follow
+threshold_type: The seed at the site of ruin; a beginning offered where everything has just collapsed
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the aftermath of ruin a concrete first thing to rebuild; a real seed turns an ending into the ground of a beginning
+  process: the coin is set among the wreckage; the completed destruction becomes cleared earth for a new foundation
+  outcome: ruin converted into rebuilding; the worst ending grounded as the start of the next thing
+  key_terms: rebuild from wreckage, cleared earth, ending into beginning, foundation after ruin
+
+dynamic_antagonism:
+  mechanism: The seed's insistence on starting again collides with the finality that wants the ending to be the last word
+  tension_axis: beginning anew versus letting the ruin stand
+  pentacles_position: Offers to rebuild immediately; treats the collapse as cleared ground, not a verdict
+  swords_position: Insists the destruction is complete and final; reads the quick new seed as denial of how total the ruin was
+  key_terms: rebuild-now versus let-it-stand, cleared ground or verdict, the rushed seed, finality insisted
+
+dynamic_inhibition:
+  mechanism: The totality of the ruin smothers any will to begin; the seed stalls before a devastation that sees no point in starting over
+  blockade_nature: the foundation cannot be laid where the ending has convinced everyone that building is futile
+  pentacles_state: the seed lying unsown in the rubble, present but unbelievable, awaiting a hope the ruin has crushed
+  consequence: the cleared ground left barren; potential abandoned to the conviction that all building ends in ruin anyway
+  key_terms: unsown seed, futility convinced, barren ground, crushed hope
+
+dynamic_devolution:
+  mechanism: The material seed is squandered repeating the pattern that led to ruin; provision sunk into rebuilding exactly what collapsed
+  mode: the doomed reconstruction; substance poured into a structure already proven to fall
+  loss: the seed and the lesson both; resources destroyed re-erecting what destruction already condemned
+  key_terms: doomed reconstruction, repeated pattern, condemned structure, lesson unlearned
+
+dynamic_dependency:
+  mechanism: The Ace needs the 10 of Swords's completed ending so the new foundation is built on cleared ground, not denial; the ruin needs the seed to make its ending the start of something rather than mere finality
+  function: Pentacles-Ace supplies the first real act of rebuilding; Swords-10 supplies the absolute clearing that makes a genuinely new foundation possible
+  integration_outcome: a beginning laid honestly on the ground that ruin cleared; ending and seed resolved into a true fresh start that learns from the collapse
+  key_terms: cleared-ground beginning, honest fresh start, ruin that teaches, rebuilt anew
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, Page of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
+numerical_relation: 1 + 11 = 12 (XII The Hanged Man; the solid seed meets the questioning young mind)
+elemental_bridge: Earth's grounded coin meets Air's darting questions; the practical beginning meets the curiosity that wants to understand everything
+threshold_type: A first venture handed to a sharp young inquirer; opportunity meeting restless intellectual potential
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives restless inquiry a concrete thing to investigate and improve; a real venture grounds curiosity in usable knowledge
+  process: the coin is handed to the young investigator; questions are pointed at an actual project that rewards understanding it
+  outcome: curiosity disciplined into practical knowledge; intellectual potential given a real object to master
+  key_terms: object to investigate, practical knowledge, grounded curiosity, potential applied
+
+dynamic_antagonism:
+  mechanism: The seed's demand for committed application collides with the young mind's preference for questioning over finishing
+  tension_axis: the patient build versus the endless inquiry
+  pentacles_position: Asks the inquirer to build, not just analyze; impatient with curiosity that never settles to work
+  swords_position: Would rather understand the venture than complete it; resists being pinned to a single task
+  key_terms: build versus inquire, the unfinished study, pinned curiosity, work against questioning
+
+dynamic_inhibition:
+  mechanism: Scattered curiosity skips off the seed before anything is built; the venture stalls under a mind that investigates each new thing and commits to none
+  blockade_nature: the foundation cannot mature under attention that keeps darting to the next interesting question
+  pentacles_state: the seed examined and set aside, a venture researched exhaustively but never actually undertaken
+  consequence: a heap of half-investigated chances; potential dispersed by curiosity that never lands on doing
+  key_terms: half-investigated, never undertaken, darting attention, dispersed potential
+
+dynamic_devolution:
+  mechanism: The material seed schools curiosity into mere acquisitiveness; the young mind's inquiry narrowed to scheming for advantage
+  mode: cleverness turned mercenary; investigation reduced to finding the angle for personal gain
+  loss: the open wonder of the inquiry; a curious mind turned calculating before it learned to build
+  key_terms: mercenary cleverness, narrowed inquiry, calculating young mind, wonder lost
+
+dynamic_dependency:
+  mechanism: The Ace needs the Page of Swords's inquiry to understand and improve the venture; the young mind needs the seed to give its questions a real thing to learn from and build
+  function: Pentacles-Ace supplies the steadying project and real stakes; Swords-Page supplies the investigative sharpness that keeps the building intelligent
+  integration_outcome: a beginner who builds something real and understands it deeply; curiosity and craft maturing together
+  key_terms: intelligent building, understood venture, maturing inquiry, grounded curiosity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, Knight of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
+numerical_relation: 1 + 12 = 13 (XIII Death; the grounding seed meets the charging intellect)
+elemental_bridge: Earth's anchoring coin meets Air's headlong blade; the foundation that needs care meets the mind that charges straight at its aim
+threshold_type: The venture given a driving force; relentless intellectual pursuit offered a foundation to advance
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the charging intellect a concrete objective worth its drive; substance turns headlong pursuit into decisive building
+  process: the coin becomes the target the Knight drives toward; aggressive intelligence is aimed at securing and growing a real asset
+  outcome: drive made productive; the relentless mind grounded in an objective it can actually take and hold
+  key_terms: decisive building, concrete objective, aimed drive, grounded pursuit
+
+dynamic_antagonism:
+  mechanism: The seed's need for patient, careful tending collides with the Knight's headlong refusal to slow for detail
+  tension_axis: careful cultivation versus headlong charge
+  pentacles_position: Insists the foundation be built with care; reads the Knight's haste as trampling what needs nurturing
+  swords_position: Will not slow to tend; insists momentum and force matter more than the seed's fussy patience
+  key_terms: cultivation versus charge, trampled care, haste insisted, patience dismissed
+
+dynamic_inhibition:
+  mechanism: The Knight's haste outruns the seed's growth; the foundation never sets because the charging mind has already moved to attack the next thing
+  blockade_nature: the beginning cannot mature under a force that confronts and abandons faster than anything can take root
+  pentacles_state: the seed flattened by the charge, a venture begun aggressively and left behind in the rush to the next target
+  consequence: a wake of trampled starts; potential destroyed by a drive that cannot tend what it begins
+  key_terms: flattened seed, trampled starts, abandoned in the rush, drive without tending
+
+dynamic_devolution:
+  mechanism: The material seed becomes something to seize by force; provision taken through aggression rather than built through labor
+  mode: the hostile takeover; substance acquired by confrontation and overrun rather than cultivation
+  loss: the soundness of the foundation; an asset taken by force that cannot be made to grow under it
+  key_terms: hostile takeover, seized by force, overrun foundation, force without growth
+
+dynamic_dependency:
+  mechanism: The Ace needs the Knight of Swords's drive to push the venture decisively forward; the charging mind needs the seed to give its force a real objective that lasts past the attack
+  function: Pentacles-Ace supplies the foundation worth securing; Swords-Knight supplies the decisive force that takes and defends it
+  integration_outcome: a venture advanced by drive and held by substance; aggressive intelligence aimed at building rather than merely conquering
+  key_terms: drive that builds, secured objective, force with foundation, decisive cultivation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, Queen of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
+numerical_relation: 1 + 13 = 14 (XIV Temperance; the material foundation meets discerning intellect)
+elemental_bridge: Earth's new coin meets Air's clear sharp eye; the practical beginning meets the discernment that sees exactly what it is worth
+threshold_type: The opportunity under scrutiny; a beginning weighed by a clear, unsentimental mind
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives sharp discernment a real thing to evaluate and steer; clear judgment turns the new seed toward its best possible use
+  process: the coin is examined by an unsentimental eye; the opportunity is stripped of illusion and built on its genuine merits
+  outcome: a beginning founded on clear-eyed assessment; provision directed by discernment rather than wishful thinking
+  key_terms: clear-eyed founding, stripped of illusion, genuine merits, discerning direction
+
+dynamic_antagonism:
+  mechanism: The seed's hopeful potential collides with the Queen's habit of cutting away every comforting illusion about it
+  tension_axis: the promising beginning versus the unsparing assessment
+  pentacles_position: Believes in what the opportunity could become; resents having its promise dissected to the bone
+  swords_position: Refuses to be charmed by potential; insists on naming every flaw before a coin is committed
+  key_terms: promise versus assessment, dissected potential, illusion cut, hope unsparing
+
+dynamic_inhibition:
+  mechanism: Unsparing discernment finds fault enough to forbid every move; the seed stalls before a judgment that no opportunity satisfies
+  blockade_nature: the beginning cannot start because perfect scrutiny rejects each version as not yet good enough
+  pentacles_state: the seed held under a cold clear eye, weighed and found wanting, never planted because never flawless
+  consequence: the chance dies of perfectionism; potential lost to a discernment that mistakes criticism for wisdom
+  key_terms: forbidden by fault-finding, weighed and wanting, perfectionism, criticism as wisdom
+
+dynamic_devolution:
+  mechanism: The material seed sharpens discernment into cold acquisitiveness; clear judgment bent solely to extract maximum advantage
+  mode: the calculating cut; bitter wisdom used to drive every bargain to another's loss
+  loss: the fairness of the judgment; discernment degraded into a blade that only takes
+  key_terms: calculating cut, advantage extracted, bargains to ruin, fairness lost
+
+dynamic_dependency:
+  mechanism: The Ace needs the Queen of Swords's discernment to build on real merit rather than illusion; the clear mind needs the seed to give its judgment a worthy thing to steward rather than only to criticize
+  function: Pentacles-Ace supplies the concrete venture and the labor to grow it; Swords-Queen supplies the discernment that keeps it honest and well-directed
+  integration_outcome: a venture both clearly judged and actually built; sharp perception steering substance toward its truest use
+  key_terms: judged-and-built, honest direction, well-stewarded venture, discernment that grows
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS
+
+---
+
+card_pair: Ace of Pentacles, King of Swords
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_swords: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
+numerical_relation: 1 + 14 = 15 (XV The Devil; the seed of substance meets the sovereign of mind)
+elemental_bridge: Earth's new coin meets Air's commanding blade; the raw beginning meets the supreme judgment that would rule on it
+threshold_type: The opportunity brought before the judge; a beginning subjected to commanding clarity
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives commanding judgment a real matter to rule on; the King's clear logic directs the new seed with authority and precision
+  process: the coin is brought before the throne of mind; provision is ordered into a sound, principled plan and decreed worth building
+  outcome: a beginning governed by clear law; material potential directed by authoritative, exact judgment
+  key_terms: principled plan, governed seed, exact direction, authoritative founding
+
+dynamic_antagonism:
+  mechanism: The seed's living, organic growth collides with the King's demand that everything submit to cold logic
+  tension_axis: the thing that must be grown versus the verdict that would command it
+  pentacles_position: Knows that real foundations take time and tending logic cannot rush; resists being ruled like an argument
+  swords_position: Insists the venture conform to his judgment; reads the seed's organic slowness as inefficiency to be corrected
+  key_terms: grown versus commanded, logic over tending, the ruled seed, slowness corrected
+
+dynamic_inhibition:
+  mechanism: Absolute judgment over-governs the seed into stillness; the foundation stalls under a clarity that decrees rather than cultivates
+  blockade_nature: the beginning cannot grow because supreme logic keeps ruling on it instead of letting it develop
+  pentacles_state: the seed held under perpetual judgment, legislated rather than planted, never allowed the untidy growth it needs
+  consequence: a perfectly reasoned venture that never lives; potential frozen by an authority that mistakes ruling for building
+  key_terms: over-governed seed, legislated growth, perfectly reasoned stall, ruling not building
+
+dynamic_devolution:
+  mechanism: The material seed turns commanding clarity into cold exploitation; supreme judgment used to structure the taking of substance
+  mode: the legalized seizure; provision concentrated by an authority that calls its taking justice
+  loss: the legitimacy of the judgment; clarity degraded into a cold logic that justifies stripping others
+  key_terms: legalized seizure, cold exploitation, justice as cover, clarity degraded
+
+dynamic_dependency:
+  mechanism: The Ace needs the King of Swords's commanding clarity to govern the venture wisely and justly; the King needs the seed to give his judgment a real domain to rule rather than only abstractions to decide
+  function: Pentacles-Ace supplies the concrete domain and the substance to govern; Swords-King supplies the clear, principled authority that orders it well
+  integration_outcome: a domain both wisely judged and substantially built; commanding clarity governing real provision into a sound, lasting order
+  key_terms: wisely governed, substantial order, principled authority, judgment that builds
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPS

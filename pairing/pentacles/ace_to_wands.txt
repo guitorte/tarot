@@ -1,0 +1,696 @@
+card_pair: Ace of Pentacles, Ace of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 1 + 1 = 2 (II The High Priestess; the material seed meets the creative spark, substance offered to fire)
+elemental_bridge: Earth's first coin meets Fire's first spark; the substance that can be built meets the inspiration that wants to burn
+threshold_type: The idea and its funding; raw potential meeting the means to become real
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the spark a material body; concrete means turn inspiration into a buildable enterprise
+  process: the coin is set under the flame; the idea, no longer abstract, acquires tools, ground, and a first step
+  outcome: vision made enactable; creative fire grounded in something it can actually shape
+  key_terms: embodied spark, funded enterprise, grounded inspiration, fire with tools
+
+dynamic_antagonism:
+  mechanism: The seed's demand for measured, costed building collides with the spark's impulse to ignite now
+  tension_axis: prudent foundation versus immediate ignition
+  pentacles_position: Insists on groundwork before flame; wants the venture costed before it starts
+  wands_position: Refuses to wait for accounting; insists the fire dies if it is not lit at once
+  key_terms: groundwork versus ignition, costed before lit, the impatient flame, prudence against spark
+
+dynamic_inhibition:
+  mechanism: Material over-caution smothers the spark before it catches; the enterprise stalls under endless preparation
+  blockade_nature: the inspiration cannot ignite because the ground is never declared ready enough to risk
+  pentacles_state: the seed kept as fuel that is never lit, hoarded against a launch that keeps being postponed
+  consequence: the spark gutters out unspent; potential preserved into uselessness by an excess of prudence
+  key_terms: smothered spark, endless preparation, unlit fuel, prudence into stall
+
+dynamic_devolution:
+  mechanism: The material seed degrades the vision into speculation; the spark burns the substance in a reckless gamble
+  mode: the foundation thrown on the fire; provision spent chasing a blaze with no plan to contain it
+  loss: both the seed and the idea; substance consumed and vision discredited in one flare
+  key_terms: burned foundation, reckless gamble, consumed seed, discredited vision
+
+dynamic_dependency:
+  mechanism: The Ace of Pentacles needs the Ace of Wands to know what the substance is for; the spark needs the seed to become more than a flash
+  function: Pentacles-Ace supplies the material body and first step; Wands-Ace supplies the vision that makes the building worth doing
+  integration_outcome: an enterprise both inspired and grounded; fire that builds and substance that means something
+  key_terms: inspired-and-grounded, fire that builds, meaningful substance, vision enacted
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, 2 of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 1 + 2 = 3 (III The Empress; the material seed meets the vision planning its expansion)
+elemental_bridge: Earth's coin meets Fire's surveying gaze; the actual resource meets the will charting where to grow
+threshold_type: The plan and its first asset; ambition's map meeting the means to take a step on it
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the expansion plan a real first asset; concrete means turn a vision of dominion into a buildable move
+  process: the coin is placed on the map; the surveyed possibility gains a starting capital and a true first holding
+  outcome: ambition made actionable; the planned reach grounded in one real foundation
+  key_terms: capitalized plan, first holding, grounded ambition, map with means
+
+dynamic_antagonism:
+  mechanism: The seed's modest single foothold collides with the plan's hunger for a whole horizon
+  tension_axis: the one real asset versus the imagined empire
+  pentacles_position: Offers exactly one solid beginning; resists being scaled up before it is secured
+  wands_position: Finds a single coin too small for its vision; wants to leverage the seed across the entire plan at once
+  key_terms: one foothold versus whole horizon, over-leverage, premature scaling, secure-first
+
+dynamic_inhibition:
+  mechanism: Grand planning postpones the first concrete act; the seed waits while the vision keeps redrawing its map
+  blockade_nature: the foundation goes unlaid because the plan is never finished enough to commit a coin to
+  pentacles_state: the seed held over an ever-expanding chart, never spent because a bigger version is always being imagined
+  consequence: the plan grows while nothing is built; potential consumed by the planning of it
+  key_terms: unlaid foundation, ever-expanding chart, planning over building, uncommitted seed
+
+dynamic_devolution:
+  mechanism: The material seed feeds an appetite for dominion that overruns its means; expansion built on substance it does not have
+  mode: overreach; the single coin leveraged into commitments the foundation cannot carry
+  loss: the solidity of the start; one real asset gambled into a sprawl that collapses
+  key_terms: overreach, overleveraged seed, collapsed sprawl, solidity lost
+
+dynamic_dependency:
+  mechanism: The Ace needs the 2 of Wands to give its asset a direction to grow; the plan needs the seed to make its first move real rather than imagined
+  function: Pentacles-Ace supplies the concrete starting capital; Wands-2 supplies the vision and the choice of where to extend it
+  integration_outcome: a planned expansion that begins from one secured foundation; ambition and asset advancing one true step at a time
+  key_terms: secured first step, directed growth, planned and grounded, real advance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, 3 of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 1 + 3 = 4 (IV The Emperor; the material seed meets the venture already underway)
+elemental_bridge: Earth's coin meets Fire's far horizon; the planted resource meets the enterprise watching its ships come in
+threshold_type: The venture launched; a foundation set under a forward-looking expansion
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the launched venture a home base; concrete means underwrite the enterprise's reach outward
+  process: the coin secures the harbor while the ships sail; growth is funded from a real holding rather than hope
+  outcome: expansion grounded in provision; foresight made solvent
+  key_terms: funded reach, secured harbor, solvent foresight, grounded expansion
+
+dynamic_antagonism:
+  mechanism: The seed's pull to consolidate the base collides with the venture's drive to keep reaching further
+  tension_axis: securing what is held versus extending toward more
+  pentacles_position: Wants gains banked and the foundation reinforced; wary of committing the asset to the next horizon
+  wands_position: Sees only the further shore; reads consolidation as stalling the enterprise's momentum
+  key_terms: bank versus reach, reinforced base, the further shore, momentum against caution
+
+dynamic_inhibition:
+  mechanism: Constant outward reaching leaves the seed's home base undeveloped; the foundation stalls while attention stays on the horizon
+  blockade_nature: the concrete holding cannot mature because every resource is pushed outward before it sets
+  pentacles_state: the seed perpetually shipped out, never allowed to take root at home, spread thin across distant prospects
+  consequence: a venture all reach and no root; potential dispersed before any of it is secured
+  key_terms: undeveloped base, all reach no root, spread thin, dispersed before set
+
+dynamic_devolution:
+  mechanism: The material seed is sunk into speculative expansion that returns nothing; foresight degrades into chasing every prospect
+  mode: overextension; the foundation mortgaged to fund ventures that never come in
+  loss: the secured holding; substance scattered across horizons that pay back smoke
+  key_terms: mortgaged foundation, ventures that never land, scattered substance, smoke returns
+
+dynamic_dependency:
+  mechanism: The Ace needs the 3 of Wands's foresight to point the foundation toward real growth; the venture needs the seed to give its reach a solvent base
+  function: Pentacles-Ace supplies the secured home holding; Wands-3 supplies the vision of where expansion genuinely pays
+  integration_outcome: an enterprise that reaches outward from a reinforced base; foresight and foundation growing together
+  key_terms: reinforced base, paying expansion, foresight made solvent, reach with root
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, 4 of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 1 + 4 = 5 (V The Pope; the material seed meets the community ready to celebrate it)
+elemental_bridge: Earth's coin meets Fire's festive hearth; the new asset meets the established home that would house it
+threshold_type: The cornerstone laid; a beginning offered to a community ready to build a home
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the community's celebration something durable to mark; concrete provision turns a gathering into an establishment
+  process: the coin is laid as cornerstone; the festival becomes the founding of a real, lasting home
+  outcome: harmony made permanent; communal joy grounded in a structure that will stand
+  key_terms: cornerstone laid, founded home, permanent harmony, joy made lasting
+
+dynamic_antagonism:
+  mechanism: The seed's lone, private beginning collides with the community's claim to celebrate and share it
+  tension_axis: the individual asset versus the communal home
+  pentacles_position: Holds the beginning as its own foundation; resists having it absorbed into the collective festivity
+  wands_position: Treats the new asset as everyone's to build on; reads private holding as refusing the community
+  key_terms: private foundation versus communal home, absorbed asset, the refused festival, ownership against belonging
+
+dynamic_inhibition:
+  mechanism: The settled harmony resists the disruption a new venture brings; the seed stalls against a community content with what it has
+  blockade_nature: the beginning cannot start where the establishment prefers its festival undisturbed by change
+  pentacles_state: the seed declined to keep the peace, an opportunity set aside so the harmony is not risked
+  consequence: the chance forgone for comfort; potential traded for an undisturbed hearth
+  key_terms: declined seed, undisturbed hearth, comfort over chance, harmony preserved
+
+dynamic_devolution:
+  mechanism: The material seed turns the home into a showpiece; establishment degraded into a display of having arrived
+  mode: the house as status; community courted for what it confers rather than what it shares
+  loss: the warmth of the home; belonging hollowed into a performance of success
+  key_terms: house as status, performed arrival, hollow belonging, displayed home
+
+dynamic_dependency:
+  mechanism: The Ace needs the 4 of Wands's communal warmth to make its foundation a home rather than a holding; the celebration needs the seed to give its joy a roof that lasts
+  function: Pentacles-Ace supplies the durable material base; Wands-4 supplies the belonging that makes the base worth establishing
+  integration_outcome: a home both materially founded and genuinely shared; provision and community raising one lasting house
+  key_terms: founded-and-shared home, lasting house, grounded belonging, provision into hearth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, 5 of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Conflict, competition, struggle, contested victory, clashing ambition
+numerical_relation: 1 + 5 = 6 (VI The Lovers; the single asset meets the scrum competing for it)
+elemental_bridge: Earth's one coin meets Fire's tangle of staves; the scarce opportunity meets the rivalry it provokes
+threshold_type: The contested prize; one real beginning fought over by many ambitions
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the competition a concrete stake worth disciplining itself for; a real prize turns chaotic struggle into productive contest
+  process: the coin is set as the object of the scrum; clashing energies organize around an actual, winnable thing
+  outcome: rivalry focused into effort; competition made fruitful by a tangible goal
+  key_terms: focused rivalry, real stake, productive contest, energy organized
+
+dynamic_antagonism:
+  mechanism: The seed's singularity collides with the many hands that each claim it; scarcity meets unbounded competing ambition
+  tension_axis: one foundation versus many claimants
+  pentacles_position: Can be founded by only one builder; resists being torn among rivals before it is laid
+  wands_position: Each contender insists the prize is theirs to take; refuses to yield the asset to another
+  key_terms: one builder versus many claimants, torn foundation, the disputed prize, scarcity contested
+
+dynamic_inhibition:
+  mechanism: Endless squabbling over the seed prevents anyone from actually building with it; the opportunity stalls in the deadlock of rivalry
+  blockade_nature: the foundation cannot be laid while every hand pulls the resource a different way
+  pentacles_state: the seed gripped by competing fists, immobilized, worked by none because contested by all
+  consequence: the prize spoils in the struggle; potential wasted in a contest that produces only the contest
+  key_terms: immobilized seed, deadlocked rivalry, spoiled prize, struggle for its own sake
+
+dynamic_devolution:
+  mechanism: The material seed turns honest competition into sabotage; the scarce asset makes rivals enemies
+  mode: the contest poisoned; provision pursued by undercutting rather than out-building
+  loss: the fairness of the struggle; competition degraded into mutual ruin over a single coin
+  key_terms: poisoned contest, sabotage over building, mutual ruin, fairness lost
+
+dynamic_dependency:
+  mechanism: The Ace needs the 5 of Wands's competitive energy to test which builder can truly use it; the rivalry needs the seed to give its struggle a worthwhile object
+  function: Pentacles-Ace supplies the real prize that makes contest meaningful; Wands-5 supplies the testing pressure that sharpens the eventual builder
+  integration_outcome: a competition that selects the best use of the foundation rather than wasting it; rivalry resolved into earned stewardship
+  key_terms: earned stewardship, testing pressure, best-use selected, contest resolved
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, 6 of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 1 + 6 = 7 (VII The Chariot; the quiet seed meets the public triumph)
+elemental_bridge: Earth's modest coin meets Fire's laurel and parade; the unshowy beginning meets the acclaim that craves display
+threshold_type: The substance behind the acclaim; a real foundation set under a public victory
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the public victory a real substance to rest on; concrete achievement makes the acclaim earned rather than hollow
+  process: the coin is the actual gain beneath the laurel; recognition is anchored to a foundation that genuinely exists
+  outcome: success made substantial; honor backed by something built
+  key_terms: earned acclaim, substance behind laurel, anchored recognition, real success
+
+dynamic_antagonism:
+  mechanism: The seed's quiet, unglamorous worth collides with the victory's appetite for visible display
+  tension_axis: the modest real gain versus the public show of it
+  pentacles_position: Values the foundation whether or not anyone sees it; distrusts a triumph that needs an audience
+  wands_position: Wants the win recognized and celebrated; reads quiet building as a victory wasted unsung
+  key_terms: unseen worth versus public show, the unsung gain, applause craved, modesty against parade
+
+dynamic_inhibition:
+  mechanism: The hunger for recognition diverts effort from the actual seed; the foundation stalls while energy chases applause
+  blockade_nature: the beginning cannot be built because the work of being seen crowds out the work of building
+  pentacles_state: the seed neglected for the parade, a real asset left half-laid while its owner courts acclaim
+  consequence: a celebrated venture with nothing under it; potential traded for an appearance of success
+  key_terms: neglected seed, courted applause, half-laid asset, appearance over substance
+
+dynamic_devolution:
+  mechanism: The material seed is faked to win the acclaim; an appearance of substance manufactured for recognition it has not earned
+  mode: the hollow triumph; provision counterfeited so the parade can go on
+  loss: the integrity of the achievement; honor degraded into a performance with no foundation
+  key_terms: counterfeit substance, hollow triumph, performed achievement, unearned honor
+
+dynamic_dependency:
+  mechanism: The Ace needs the 6 of Wands's recognition to give the foundation public standing and reach; the victory needs the seed to make the acclaim deserved
+  function: Pentacles-Ace supplies the real built thing; Wands-6 supplies the recognition that lets it be trusted and extended
+  integration_outcome: an achievement both substantial and acknowledged; quiet building given the standing it has earned
+  key_terms: deserved standing, acknowledged substance, earned and seen, trusted achievement
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, 7 of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 1 + 7 = 8 (VIII Justice; the new asset meets the defender holding the high ground)
+elemental_bridge: Earth's fresh coin meets Fire's braced stance; the thing worth keeping meets the will that guards its position
+threshold_type: The foundation worth defending; a beginning that gives the embattled something real to hold
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the defender a real position worth the stand; concrete substance turns mere resistance into the protection of something valuable
+  process: the coin is the ground beneath the braced feet; the struggle gains an object that justifies the holding
+  outcome: resilience given purpose; the defensive stance grounded in a foundation worth keeping
+  key_terms: ground worth holding, purposeful defense, justified stand, protected foundation
+
+dynamic_antagonism:
+  mechanism: The seed's openness to growth collides with the defender's instinct to guard and never yield
+  tension_axis: building outward versus holding the line
+  pentacles_position: Wants the foundation developed and extended; sees endless defense as squandering the chance to grow
+  wands_position: Trusts only the held position; reads any expansion of the asset as exposing it to attack
+  key_terms: grow versus guard, the locked position, exposure feared, development against defense
+
+dynamic_inhibition:
+  mechanism: Permanent defensiveness freezes the seed in place; the foundation cannot develop while all energy goes to guarding it
+  blockade_nature: the beginning is held but never built upon; resilience hardens into a siege that prevents growth
+  pentacles_state: the seed clutched on the high ground, defended into stasis, never risked toward anything more
+  consequence: a foundation kept but barren; potential preserved by a vigilance that forbids its use
+  key_terms: clutched seed, siege stasis, barren foundation, vigilance forbids growth
+
+dynamic_devolution:
+  mechanism: The material seed turns the defense into paranoid hoarding; the thing worth keeping becomes a fortress against all comers
+  mode: the bunker; provision walled off so thoroughly it serves no one, including its holder
+  loss: the use of the foundation; substance defended into uselessness, an asset that only costs to guard
+  key_terms: paranoid hoarding, the bunker, walled-off asset, defended into uselessness
+
+dynamic_dependency:
+  mechanism: The Ace needs the 7 of Wands's resolve to protect the new foundation while it is still vulnerable; the defender needs the seed to give its stand something worth all the holding
+  function: Pentacles-Ace supplies the asset that justifies the defense; Wands-7 supplies the resilience that keeps the young foundation from being taken
+  integration_outcome: a foundation both grown and guarded as it grows; substance protected without being imprisoned
+  key_terms: guarded growth, protected-not-imprisoned, justified resilience, asset and resolve
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, 8 of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 1 + 8 = 9 (IX The Hermit; the rooting seed meets the arrows already in flight)
+elemental_bridge: Earth's settling coin meets Fire's loosed volley; the foundation that needs time meets the momentum that will not slow
+threshold_type: The beginning at speed; a foundation asked to keep pace with rapid motion
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the rushing momentum a place to land; concrete ground turns speed into delivered progress
+  process: the coin marks the target the arrows are flying toward; swift action arrives at something solid rather than passing through
+  outcome: momentum made productive; rapid movement grounded in a real result
+  key_terms: landed momentum, target for speed, delivered progress, motion grounded
+
+dynamic_antagonism:
+  mechanism: The seed's need for patient settling collides with the volley's refusal to slow for anything
+  tension_axis: the foundation's slow set versus the rush's velocity
+  pentacles_position: Insists some things must take their time to hold; resists being hurried past the curing of the base
+  wands_position: Will not decelerate; reads the foundation's patience as drag on unstoppable momentum
+  key_terms: slow-set versus velocity, the hurried base, deceleration refused, patience as drag
+
+dynamic_inhibition:
+  mechanism: The rush moves on before the seed can root; the foundation never sets because momentum will not pause long enough
+  blockade_nature: the beginning is overtaken by the next thing before it can be finished
+  pentacles_state: the seed dropped at speed and left behind, a foundation begun and abandoned in the slipstream
+  consequence: a wake of unfinished starts; potential outrun by its own pace
+  key_terms: outrun seed, never-set foundation, abandoned in slipstream, unfinished starts
+
+dynamic_devolution:
+  mechanism: The material seed is rushed to market half-made; substance shipped before it is sound to keep up with the speed
+  mode: corner-cutting; the foundation faked solid so momentum is not broken
+  loss: the soundness of the build; a fast result that fails because it was never actually finished
+  key_terms: half-made shipped, corner-cutting, faked-solid base, fast failure
+
+dynamic_dependency:
+  mechanism: The Ace needs the 8 of Wands's momentum to keep the building from stalling; the rush needs the seed to give its speed a destination that holds
+  function: Pentacles-Ace supplies the solid result worth arriving at; Wands-8 supplies the velocity that gets there before the chance passes
+  integration_outcome: rapid progress that still lands on solid ground; speed and foundation timed so the build is both quick and sound
+  key_terms: quick-and-sound, timed building, momentum that lands, solid arrival
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, 9 of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 1 + 9 = 10 (X The Wheel of Fortune; the new seed meets the battle-worn endurance)
+elemental_bridge: Earth's fresh coin meets Fire's last reserve; the new beginning meets the strength that has held through many trials
+threshold_type: The new chance offered to the weary veteran; a beginning laid before tested endurance
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives hard-won endurance a fresh thing worth holding on for; a real new foundation renews the will to persevere
+  process: the coin is set before the weary guardian; the strength that nearly spent itself finds a concrete reason to stand again
+  outcome: perseverance renewed by a tangible stake; endurance given a future rather than only a siege
+  key_terms: renewed perseverance, concrete reason, future for endurance, second wind grounded
+
+dynamic_antagonism:
+  mechanism: The seed's call to trust and begin again collides with the veteran's bruised refusal to be exposed once more
+  tension_axis: opening to the new versus guarding against another wound
+  pentacles_position: Offers a fresh start; finds the veteran's wariness a barrier to obvious opportunity
+  wands_position: Has been hurt holding on; reads the new offer as one more thing that will demand defending
+  key_terms: fresh start versus bruised guard, exposure resisted, the wary veteran, opportunity distrusted
+
+dynamic_inhibition:
+  mechanism: Defensive exhaustion has no reserve to invest in the seed; the foundation stalls before a strength too depleted to build
+  blockade_nature: the beginning cannot be taken up by endurance that has spent itself merely surviving
+  pentacles_state: the seed offered to empty hands, present but un-actable, awaiting a vigor the veteran no longer has
+  consequence: the chance goes unworked for sheer depletion; potential lost to a strength used up by holding on
+  key_terms: depleted reserve, un-actable seed, spent strength, lost to exhaustion
+
+dynamic_devolution:
+  mechanism: The material seed becomes one more thing to grimly defend; the new asset absorbed into a siege mentality that trusts nothing
+  mode: the embattled hoard; provision held with clenched, suspicious endurance rather than built upon
+  loss: the openness a beginning needs; a fresh chance turned into another fortress to guard alone
+  key_terms: embattled hoard, clenched endurance, suspicious holding, fortress not foundation
+
+dynamic_dependency:
+  mechanism: The Ace needs the 9 of Wands's endurance to see the foundation through its hardest stretch; the veteran needs the seed to make all the holding-on lead somewhere worth it
+  function: Pentacles-Ace supplies the worthwhile new ground; Wands-9 supplies the disciplined stamina to build it despite fatigue
+  integration_outcome: a foundation carried through difficulty by tested strength; endurance spent on something that finally pays it back
+  key_terms: stamina rewarded, foundation seen through, tested-strength building, holding that pays
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, 10 of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 1 + 10 = 11 (XI Strength; the new seed meets the back already overloaded)
+elemental_bridge: Earth's light coin meets Fire's crushing bundle; the fresh opportunity meets the one already bent under too much
+threshold_type: One more thing to carry; a beginning offered to someone overwhelmed by existing weight
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the overburdened a foundation that could finally lighten the load; a real asset offers leverage where there was only weight
+  process: the coin is set down as a tool, not another bundle; the carried weight gains a base that can bear part of it
+  outcome: burden eased by a structure that holds it; responsibility made bearable by real provision
+  key_terms: leverage not load, eased burden, base that bears, bearable responsibility
+
+dynamic_antagonism:
+  mechanism: The seed's request to be taken up collides with hands already full beyond capacity
+  tension_axis: a new beginning versus no room to hold it
+  pentacles_position: Offers an opportunity that needs taking up; impatient that it is treated as one more burden
+  wands_position: Has nothing left to carry; reads even a gift as another weight it cannot lift
+  key_terms: new beginning versus full hands, the offered weight, no capacity, gift as burden
+
+dynamic_inhibition:
+  mechanism: Exhaustion under existing load leaves no strength to begin; the seed stalls before someone who cannot take on one more thing
+  blockade_nature: the foundation cannot be started by a back already breaking under what it carries
+  pentacles_state: the seed laid atop an overloaded pile, ignored not from refusal but from sheer incapacity
+  consequence: the chance crushed under prior obligations; potential lost to a load that leaves no margin
+  key_terms: no margin, overloaded pile, incapacity not refusal, crushed chance
+
+dynamic_devolution:
+  mechanism: The material seed becomes another obligation that deepens the overwhelm; provision taken on as duty rather than relief
+  mode: the asset as millstone; a beginning that should help instead piled onto an unsustainable load
+  loss: the relief the foundation could have brought; opportunity converted into more crushing responsibility
+  key_terms: asset as millstone, deeper overwhelm, duty not relief, opportunity as load
+
+dynamic_dependency:
+  mechanism: The Ace needs the 10 of Wands to set down some old weight before it can take up the new ground; the overburdened needs the seed to become a structure that carries instead of a thing to carry
+  function: Pentacles-Ace supplies the foundation that can hold weight; Wands-10 supplies the honest reckoning of what must be put down to build it
+  integration_outcome: a beginning that relieves rather than adds; provision restructured so the load is finally shared by a base that holds it
+  key_terms: load put down, structure carries, shared weight, relieving beginning
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, Page of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 1 + 11 = 12 (XII The Hanged Man; the solid seed meets the eager young spark)
+elemental_bridge: Earth's grounded coin meets Fire's bright kindling; the practical beginning meets the untrained enthusiasm
+threshold_type: The first real venture handed to an eager beginner; opportunity meeting raw creative energy
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives youthful enthusiasm a concrete project to burn into; a real task grounds the spark in something buildable
+  process: the coin is handed to the eager beginner; raw energy is pointed at an actual venture with a first step
+  outcome: enthusiasm disciplined into a first real result; potential given traction
+  key_terms: project for the spark, grounded enthusiasm, first result, energy with traction
+
+dynamic_antagonism:
+  mechanism: The seed's demand for steady follow-through collides with the young spark's love of the thrilling start over the dull finish
+  tension_axis: the patient build versus the exciting launch
+  pentacles_position: Asks the beginner to see the venture through; impatient with energy that fades after the kindling
+  wands_position: Lives for the ignition; resists the unglamorous discipline the foundation requires
+  key_terms: follow-through versus ignition, the fading energy, dull finish refused, discipline against thrill
+
+dynamic_inhibition:
+  mechanism: Unfocused enthusiasm leaps off the seed before it sets; the venture stalls for want of sustained attention
+  blockade_nature: the beginning cannot mature under energy that burns hottest at the start and gutters at the work
+  pentacles_state: the seed lit and left, a foundation begun in a flare of excitement and abandoned for the next bright thing
+  consequence: a string of half-built ventures; potential scattered by enthusiasm that never finishes
+  key_terms: lit and left, half-built ventures, scattered energy, never finished
+
+dynamic_devolution:
+  mechanism: The material seed schools the spark into early cynicism; raw enthusiasm narrowed to chasing quick money
+  mode: the young fire taught to count before it has learned to create; inspiration reduced to profit
+  loss: the enthusiasm itself; a creative beginner turned mercenary before its talent matured
+  key_terms: early cynicism, profit-narrowed, mercenary spark, enthusiasm lost
+
+dynamic_dependency:
+  mechanism: The Ace needs the Page of Wands's enthusiasm to keep the building lively and inventive; the young spark needs the seed to give its energy a lasting form
+  function: Pentacles-Ace supplies the steadying venture and real ground; Wands-Page supplies the eager energy that keeps the work from going lifeless
+  integration_outcome: a beginner who finishes something real without losing the fire that started it; enthusiasm and craft maturing together
+  key_terms: lively craft, finished and fiery, maturing energy, grounded enthusiasm
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, Knight of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 1 + 12 = 13 (XIII Death; the grounding seed meets the bold rider charging ahead)
+elemental_bridge: Earth's anchoring coin meets Fire's galloping charge; the foundation that needs tending meets the will that craves the next adventure
+threshold_type: The venture given a home; bold action offered a foundation to charge out from
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives bold action a base to launch from and return to; substance turns reckless charging into purposeful campaign
+  process: the coin anchors the adventure; passionate movement sets out from solid ground and brings its gains back to it
+  outcome: daring made sustainable; the bold pursuit provisioned and given somewhere to land
+  key_terms: anchored daring, provisioned campaign, base to return to, purposeful charge
+
+dynamic_antagonism:
+  mechanism: The seed's call to settle and tend collides with the Knight's need to charge at the next horizon
+  tension_axis: building a foundation versus riding to adventure
+  pentacles_position: Urges the rider to dismount and develop the ground; reads the constant charging as flight from real work
+  wands_position: Cannot abide being rooted; insists the adventure matters more than the foundation on offer
+  key_terms: settle versus charge, the spurned ground, constant motion, rooting refused
+
+dynamic_inhibition:
+  mechanism: The rider's haste leaves the seed untended; no foundation holds under a will forever galloping off
+  blockade_nature: the beginning cannot set because the one who would build it is already charging elsewhere
+  pentacles_state: the seed trampled in the rush, a foundation begun and left in dust as the Knight rides on
+  consequence: the opportunity abandoned at every turn; potential lost in a charge that never builds
+  key_terms: trampled seed, left in dust, forever galloping, never builds
+
+dynamic_devolution:
+  mechanism: The material seed funds reckless adventure; substance burned in a charge with no thought of return
+  mode: the gamble; provision flung into bold ventures that thrill more than they yield
+  loss: the foundation itself; substance consumed by a daring that never counts the cost
+  key_terms: funded recklessness, burned substance, uncounted cost, foundation consumed
+
+dynamic_dependency:
+  mechanism: The Ace needs the Knight of Wands's boldness to drive the venture forward with force; the rider needs the seed to keep his charge from dissolving into aimless motion
+  function: Pentacles-Ace supplies the solid base and real means; Wands-Knight supplies the bold drive that turns the base into advancing ground
+  integration_outcome: a campaign that charges from and builds upon a real foundation; daring and substance carried forward together
+  key_terms: building campaign, founded daring, force with ground, charge that holds
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, Queen of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 1 + 13 = 14 (XIV Temperance; the material foundation meets charismatic mastery)
+elemental_bridge: Earth's new coin meets Fire's magnetic warmth; the practical beginning meets the leader who draws others to a vision
+threshold_type: The venture given a leader; a foundation offered to charismatic creative authority
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives charismatic vision a real enterprise to lead; concrete means let inspired authority build something others can rally to
+  process: the coin founds the venture the Queen's magnetism gathers people around; leadership acquires a substance to organize
+  outcome: charisma made productive; passionate authority grounded in a real, growing concern
+  key_terms: led enterprise, grounded charisma, rallying substance, productive magnetism
+
+dynamic_antagonism:
+  mechanism: The seed's quiet, methodical worth collides with the Queen's preference for bold, magnetic gestures
+  tension_axis: patient building versus charismatic flourish
+  pentacles_position: Trusts the slow accumulation; wary of a leadership that prizes inspiration over bookkeeping
+  wands_position: Leads by vision and warmth; finds the seed's plodding caution beneath the scale of her ambition
+  key_terms: accumulation versus flourish, plodding caution, magnetic gesture, bookkeeping dismissed
+
+dynamic_inhibition:
+  mechanism: Charisma that needs an audience neglects the unglamorous tending the seed requires; the foundation stalls while leadership performs
+  blockade_nature: the beginning cannot develop because the work of inspiring crowds out the work of building
+  pentacles_state: the seed left to others while the Queen shines, a foundation underfed by a leader busy being magnetic
+  consequence: a venture with a brilliant face and no machinery; potential undercut by leadership that will not do the quiet work
+  key_terms: neglected machinery, performing leadership, underfed seed, brilliance without build
+
+dynamic_devolution:
+  mechanism: The material seed turns charisma into exploitation; magnetic authority used to extract substance from those it draws
+  mode: the cult of personality; provision funneled to the leader under cover of shared vision
+  loss: the integrity of the leadership; inspired authority degraded into a machine for taking
+  key_terms: exploited magnetism, funneled substance, cult of personality, taking under vision
+
+dynamic_dependency:
+  mechanism: The Ace needs the Queen of Wands's charisma to gather the people and energy a venture needs; the Queen needs the seed to give her leadership a real concern to build rather than only a following
+  function: Pentacles-Ace supplies the material enterprise and discipline; Wands-Queen supplies the magnetism that staffs and inspires it
+  integration_outcome: a venture both well-led and well-built; charisma organizing substance into a real, growing thing
+  key_terms: well-led-and-built, organized substance, inspired enterprise, magnetism with machinery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW
+
+---
+
+card_pair: Ace of Pentacles, King of Wands
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 1 + 14 = 15 (XV The Devil; the seed of substance meets the sovereign of fire)
+elemental_bridge: Earth's new coin meets Fire's commanding throne; the raw beginning meets the visionary authority that would direct it
+threshold_type: The opportunity brought before a visionary ruler; a beginning weighed by commanding fire
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives commanding vision a real domain to govern; the King's authority directs the new seed toward a large, coherent end
+  process: the coin is set before a ruler who sees what it could become; provision is commanded into a strategy worthy of it
+  outcome: a beginning placed within a grand design; material potential directed by visionary command
+  key_terms: directed seed, governed potential, grand design, commanded provision
+
+dynamic_antagonism:
+  mechanism: The seed's small, concrete scale collides with the King's appetite for sweeping dominion
+  tension_axis: the modest real start versus the commanding vision's reach
+  pentacles_position: Offers one solid, tendable beginning; resists being conscripted into a scheme too vast to secure
+  wands_position: Finds a single coin beneath his vision; wants the seed leveraged into an empire at once
+  key_terms: modest start versus sweeping reach, the conscripted seed, empire wanted, scale contested
+
+dynamic_inhibition:
+  mechanism: Sweeping command disdains the patient tending the seed needs; the foundation stalls under a vision too grand to bother with first steps
+  blockade_nature: the beginning cannot set because the ruler's eye is fixed on the empire, not the cornerstone
+  pentacles_state: the seed left unattended beneath a grand strategy, too small to interest the command that should plant it
+  consequence: a magnificent vision with no foundation laid; potential lost to an ambition that overlooks the actual start
+  key_terms: unattended seed, grand-strategy neglect, no cornerstone, ambition overlooks
+
+dynamic_devolution:
+  mechanism: The material seed turns commanding vision into tyranny; dominion used to seize substance rather than build it
+  mode: the conquering hand; provision extracted and concentrated to feed an appetite for power
+  loss: the legitimacy of the authority; vision degraded into domination that takes what it should have grown
+  key_terms: tyrannical seizure, concentrated substance, conquering hand, domination over building
+
+dynamic_dependency:
+  mechanism: The Ace needs the King of Wands's vision to set the foundation within a worthy large design; the King needs the seed to make his dominion rest on something built rather than merely seized
+  function: Pentacles-Ace supplies the real material base and the discipline to grow it; Wands-King supplies the commanding vision that gives the base a direction worth all the building
+  integration_outcome: a domain both visionary and substantially founded; command directing real provision into a coherent, lasting reign
+  key_terms: founded dominion, directed substance, visionary and built, lasting reign
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPW

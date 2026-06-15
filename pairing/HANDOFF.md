@@ -10,7 +10,7 @@ devolution, dependency (the source instructions in `pairing/context.md`: X engen
 conflicts-with / stagnates-before / reduces-to / needs Y). Output is a machine-readable
 `key: value` block format defined by `FORMAT_SPEC.md`.
 
-## CURRENT STATE — Phase 2 IN PROGRESS 🔄 (61/61, 5/14 major files done)
+## CURRENT STATE — Phase 2 IN PROGRESS 🔄 (65/65, 9/14 major files done)
 
 ### Phase 1 COMPLETE ✅ (56/56)
 All minor-suit Swords pairings are spec-conformant at v1.3.
@@ -21,8 +21,8 @@ All minor-suit Swords pairings are spec-conformant at v1.3.
 - Same-suit files (`*_to_swords`) use `archetype_swords_1/_2` and, for a card meeting itself,
   `swords_position_1/_2`.
 
-### Phase 2 IN PROGRESS 🔄 (5/14 major files)
-`python3 pairing/validate.py` → **`PASS: 61 file(s) conformant.`** (exit 0).
+### Phase 2 IN PROGRESS 🔄 (9/14 major files, 64% complete)
+`python3 pairing/validate.py` → **`PASS: 65 file(s) conformant.`** (exit 0).
 
 Major files completed (in `pairing/swords/`):
 - ✅ `ace_to_major.txt` — Ace of Swords × 22 Majors
@@ -30,18 +30,21 @@ Major files completed (in `pairing/swords/`):
 - ⚠️ `3_to_major.txt` — 3 of Swords × 22 Majors (**uses old perspective — see note below**)
 - ✅ `4_to_major.txt` — 4 of Swords × 22 Majors
 - ✅ `5_to_major.txt` — 5 of Swords × 22 Majors
+- ✅ `6_to_major.txt` — 6 of Swords × 22 Majors (The Traveler archetype)
+- ✅ `7_to_major.txt` — 7 of Swords × 22 Majors (The Thief archetype)
+- ✅ `8_to_major.txt` — 8 of Swords × 22 Majors (The Bound One archetype)
+- ✅ `9_to_major.txt` — 9 of Swords × 22 Majors (The Tormented archetype)
 
-Still to author (9 remaining):
-`6_to_major.txt`, `7_to_major.txt`, `8_to_major.txt`, `9_to_major.txt`, `10_to_major.txt`,
-`page_to_major.txt`, `knight_to_major.txt`, `queen_to_major.txt`, `king_to_major.txt`
+Still to author (5 remaining):
+`10_to_major.txt`, `page_to_major.txt`, `knight_to_major.txt`, `queen_to_major.txt`, `king_to_major.txt`
 
-**Verify before trusting this doc:** `python3 pairing/validate.py` should print 61/61.
+**Verify before trusting this doc:** `python3 pairing/validate.py` should print 65/65.
 
 ## NEXT — Phase 2: Swords × 22 Major Arcana (the current task)
-Author the remaining 9 `<card>_to_major.txt` files.
+Author the remaining 5 `<card>_to_major.txt` files: **10, Page, Knight, Queen, King**.
 **Format and rules are fully specified in `FORMAT_SPEC.md` §14 — read it.** Headlines:
 - New files `pairing/swords/<card>_to_major.txt`, **22 blocks** each (The Fool 0 → The World 21),
-  14 files, 308 blocks total. Structured format, same five dynamics, same §8 quality bar.
+  5 remaining files, 110 blocks total. Structured format, same five dynamics, same §8 quality bar.
 - Decisions locked: **structured format in `pairing/swords/`**; **numerical_relation =
   sum & reduce** (`<swords#> + <arcanum# 0–21> = <sum> (Trump; gloss)`, digit-reduce > 21).
 - `archetype_major` canonical table for all 22 arcana is in §14.5 (reuse verbatim).
@@ -118,11 +121,11 @@ can be a content/tone reference only.
     run, then deleted. The reusable normalizers were kept. Follow that convention.
 
 ## Recommended next flow
-1. `python3 pairing/validate.py` → confirm 61/61.
+1. `python3 pairing/validate.py` → confirm 65/65.
 2. Read `FORMAT_SPEC.md` §14 end-to-end (especially §14.5 for canonical `archetype_major` lines).
-3. Read an existing complete file (e.g. `4_to_major.txt` or `5_to_major.txt`) to internalize the
+3. Read an existing complete file (e.g. `6_to_major.txt`, `7_to_major.txt`, `8_to_major.txt`, or `9_to_major.txt`) to internalize the
    correct directional prose style before authoring.
-4. Author remaining `<card>_to_major.txt` files in sequence: 6, 7, 8, 9, 10, page, knight, queen,
-   king. Use `TEMPLATE_major.txt` as scaffold, validator after each, commit per file.
-5. Push to branch `claude/friendly-rubin-d8a20o`; do not open a PR unless asked.
+4. Author remaining `<card>_to_major.txt` files in sequence: **10, page, knight, queen, king**. 
+   Use `TEMPLATE_major.txt` as scaffold, validator after each, commit per file/small group.
+5. Push to branch `claude/quirky-meitner-j7ax41`; do not open a PR unless asked.
 6. Optional: rewrite `3_to_major.txt` with correct directional perspective (user must confirm).

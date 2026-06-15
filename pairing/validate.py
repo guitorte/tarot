@@ -43,6 +43,42 @@ RANK_UID = {"Ace": "A", "10": "X", "Page": "P", "Knight": "N", "Queen": "Q", "Ki
 TARGET_UID = {"pentacles": "P", "cups": "C", "wands": "W", "swords": "S"}
 SUIT_ELEMENT = {"pentacles": "earth", "cups": "water", "wands": "fire", "swords": "air"}
 
+# Major Arcana table (§14.5) — Marseille order 0-21.
+MAJORS = [
+    (0, "The Fool"), (1, "The Magician"), (2, "The High Priestess"),
+    (3, "The Empress"), (4, "The Emperor"), (5, "The Pope"),
+    (6, "The Lovers"), (7, "The Chariot"), (8, "Justice"),
+    (9, "The Hermit"), (10, "The Wheel of Fortune"), (11, "Strength"),
+    (12, "The Hanged Man"), (13, "Death"), (14, "Temperance"),
+    (15, "The Devil"), (16, "The Tower"), (17, "The Star"),
+    (18, "The Moon"), (19, "The Sun"), (20, "Judgement"), (21, "The World"),
+]
+ARCH_MAJOR = {
+    "The Fool": "The Free Wanderer, The Unbound Step, The Sacred Madness, Movement Without Map",
+    "The Magician": "The Willed Act, The Beginning Adept, The Focused Intention, Potential Taking Tools",
+    "The High Priestess": "The Silent Knowing, The Gestating Mystery, The Inner Reservoir, Wisdom Unspoken",
+    "The Empress": "The Generative Force, The Irrepressible Growth, The Abundant Creation, Life Without Permission",
+    "The Emperor": "The Established Order, The Stable Authority, The Structured Dominion, Power Made Solid",
+    "The Pope": "The Bridge-Builder, The Transmitted Meaning, The Sacred Mediator, Spirit Made Teaching",
+    "The Lovers": "The Decisive Bond, The Chosen Union, The Crossroads of the Heart, Love That Must Choose",
+    "The Chariot": "The Directed Triumph, The Mastered Motion, The Conquering Will, Victory In Movement",
+    "Justice": "The Exact Measure, The Balanced Verdict, The Impartial Blade, Equilibrium Enforced",
+    "The Hermit": "The Solitary Lantern, The Backward Walk, The Patient Reckoning, Wisdom Through Withdrawal",
+    "The Wheel of Fortune": "The Turning Cycle, The Impermanent Turn, The Fated Revolution, Change Beyond Control",
+    "Strength": "The Gentle Mastery, The Tamed Power, The Quiet Conquest, Force Through Softness",
+    "The Hanged Man": "The Suspended View, The Willing Reversal, The Fertile Surrender, Insight Through Inversion",
+    "Death": "The Necessary End, The Clearing Cut, The Transforming Threshold, Renewal Through Loss",
+    "Temperance": "The Patient Blend, The Flowing Synthesis, The Healing Measure, Harmony Through Mixing",
+    "The Devil": "The Binding Shadow, The Material Chain, The Seductive Trap, Bondage Through Desire",
+    "The Tower": "The Sudden Collapse, The Shattered Structure, The Liberating Catastrophe, Truth That Breaks",
+    "The Star": "The Renewed Hope, The Quiet Replenishment, The Guiding Light, Faith After Ruin",
+    "The Moon": "The Deceptive Night, The Unconscious Depth, The Uncertain Path, Illusion and Instinct",
+    "The Sun": "The Clear Joy, The Radiant Vitality, The Shared Light, Truth Made Warm",
+    "Judgement": "The Awakening Call, The Resurrected Self, The Reckoning Summons, Rebirth Through Reckoning",
+    "The World": "The Completed Whole, The Integrated Dance, The Achieved Totality, Fulfillment Realized",
+}
+ARCANUM_SLUG = {name: name.lower().replace(" ", "_") for _, name in MAJORS}
+
 # Target card order within every file (§11): Ace -> King.
 SEQUENCE = ["Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10",
             "Page", "Knight", "Queen", "King"]
@@ -189,13 +225,123 @@ def _norm(s):
     return re.sub(r"[^a-z]", "", s.lower().replace("the", ""))
 
 
+def _validate_major_file(path, primary_tok):
+    """Validate a <card>_to_major.txt file (22 blocks, Major Arcana branch §14)."""
+    errors = []
+    primary_disp = {"ace": "Ace", "page": "Page", "knight": "Knight",
+                    "queen": "Queen", "king": "King"}.get(primary_tok, primary_tok)
+    primary_val = rank_value(primary_disp)
+    uid_char = rank_uid(primary_disp)
+    expected_uid = uid_char + "OSM"
+    expected_elem = "air (swords) to major arcana"
+    n_str = str(primary_val) if primary_val is not None else primary_tok
+    expected_axis = f"{n_str}-0 through {n_str}-21"
+
+    with open(path, encoding="utf-8") as f:
+        text = f.read()
+    blocks = parse_blocks(text)
+
+    if len(blocks) != 22:
+        errors.append((None, f"expected 22 blocks, found {len(blocks)}"))
+
+    uids, elems, prim_arch = set(), set(), set()
+
+    for i, raw in enumerate(blocks):
+        top, sec = parse_block(raw)
+        tag = f"block {i + 1}"
+        expect_arcanum_num, expect_arcanum_name = MAJORS[i] if i < len(MAJORS) else (None, "?")
+
+        # header fields
+        for k in ["card_pair", "archetype_swords", "archetype_major",
+                   "numerical_relation", "elemental_bridge", "threshold_type"]:
+            if k not in top:
+                errors.append((i, f"{tag}: missing header field '{k}'"))
+
+        prim_arch.add(top.get("archetype_swords", ""))
+        canon = ARCH_SWORDS.get(primary_tok)
+        if canon and top.get("archetype_swords", "") not in ("", canon):
+            errors.append((i, f"{tag}: archetype_swords not canonical (§6); "
+                              f"expected '{canon}'"))
+
+        arch_maj = top.get("archetype_major", "")
+        canon_maj = ARCH_MAJOR.get(expect_arcanum_name, "")
+        if canon_maj and arch_maj not in ("", canon_maj):
+            errors.append((i, f"{tag}: archetype_major not canonical (§14.5); "
+                              f"expected '{canon_maj}'"))
+
+        # card_pair: "<rank> of Swords, <Arcanum name>"
+        v1 = v2 = None
+        cp = top.get("card_pair", "")
+        cpm = re.match(r"^(.+?)\s+of\s+Swords,\s*(.+?)\s*$", cp)
+        if cpm:
+            r1, arcanum_name = cpm.group(1).strip(), cpm.group(2).strip()
+            v1 = rank_value(r1)
+            v2 = expect_arcanum_num
+            if r1 != primary_disp and not (primary_tok.isdigit() and r1 == primary_tok):
+                errors.append((i, f"{tag}: card_pair primary '{r1}' != file card '{primary_disp}'"))
+            if arcanum_name != expect_arcanum_name:
+                errors.append((i, f"{tag}: card_pair arcanum '{arcanum_name}' != expected '{expect_arcanum_name}'"))
+        elif "card_pair" in top:
+            errors.append((i, f"{tag}: card_pair '{cp}' unparseable (expected '<rank> of Swords, <Arcanum>')"))
+
+        # numerical_relation
+        if "numerical_relation" in top:
+            for e in validate_numerical(top["numerical_relation"], v1, v2):
+                errors.append((i, f"{tag}: {e}"))
+
+        # dynamics
+        for dyn, required in DYNAMIC_FIELDS.items():
+            if dyn not in sec:
+                errors.append((i, f"{tag}: missing section '{dyn}'"))
+                continue
+            fields = [k for k, _ in sec[dyn]]
+            for rk in required:
+                if rk not in fields:
+                    errors.append((i, f"{tag}/{dyn}: missing field '{rk}'"))
+            if dyn == "dynamic_antagonism":
+                pos = [k for k in fields if k.endswith("_position")]
+                if len(pos) != 2:
+                    errors.append((i, f"{tag}/{dyn}: expected 2 *_position fields, found {len(pos)}"))
+            if len(fields) != DYNAMIC_COUNT[dyn]:
+                errors.append((i, f"{tag}/{dyn}: {len(fields)} fields, expected {DYNAMIC_COUNT[dyn]}"))
+
+        # structural_metadata
+        if "structural_metadata" not in sec:
+            errors.append((i, f"{tag}: missing structural_metadata"))
+        else:
+            meta = dict(sec["structural_metadata"])
+            for k, want in {"series_count": "22", "format_version": "1.3",
+                            "encoding": "UTF-8", "elemental_primary": expected_elem,
+                            "numerical_axis": expected_axis, "uid": expected_uid}.items():
+                got = meta.get(k)
+                if got is None:
+                    errors.append((i, f"{tag}/metadata: missing '{k}'"))
+                elif got != want:
+                    errors.append((i, f"{tag}/metadata: {k} = '{got}', expected '{want}'"))
+            if meta.get("uid"):
+                uids.add(meta["uid"])
+            if meta.get("elemental_primary"):
+                elems.add(meta["elemental_primary"])
+
+    if len(uids) > 1:
+        errors.append((None, f"inconsistent uids across blocks: {sorted(uids)}"))
+    if len(elems) > 1:
+        errors.append((None, f"inconsistent elemental_primary: {sorted(elems)}"))
+    if len([a for a in prim_arch if a]) and len(set(a for a in prim_arch if a)) > 1:
+        errors.append((None, "primary archetype line not identical across all blocks"))
+
+    return errors
+
+
 def validate_file(path, quiet=False):
     errors = []  # (block_index_or_None, message)
     fname = os.path.basename(path)
-    m = re.match(r"^([a-z0-9]+)_to_([a-z]+)\.txt$", fname)
+    m = re.match(r"^([a-z0-9]+)_to_([a-z_]+)\.txt$", fname)
     if not m:
         return [f"filename '{fname}' not in form <card>_to_<suit>.txt"]
     primary_tok, target = m.group(1), m.group(2)
+    if target == "major":
+        return _validate_major_file(path, primary_tok)
     if target not in TARGET_UID:
         return [f"unknown target suit '{target}'"]
 

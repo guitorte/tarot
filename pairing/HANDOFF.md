@@ -10,7 +10,7 @@ devolution, dependency (the source instructions in `pairing/context.md`: X engen
 conflicts-with / stagnates-before / reduces-to / needs Y). Output is a machine-readable
 `key: value` block format defined by `FORMAT_SPEC.md`.
 
-## CURRENT STATE — Phase 2 COMPLETE ✅ (79/79, 14/14 major files done)
+## CURRENT STATE — Phase 2 COMPLETE ✅ (70/70, 14/14 major files done)
 
 ### Phase 1 COMPLETE ✅ (56/56)
 All minor-suit Swords pairings are spec-conformant at v1.3.
@@ -22,7 +22,7 @@ All minor-suit Swords pairings are spec-conformant at v1.3.
   `swords_position_1/_2`.
 
 ### Phase 2 COMPLETE ✅ (14/14 major files)
-`python3 pairing/validate.py` → **`PASS: 79 file(s) conformant.`** (exit 0).
+`python3 pairing/validate.py` → **`PASS: 70 file(s) conformant.`** (exit 0).
 
 All Swords × Major Arcana files completed (in `pairing/swords/`):
 - ✅ `ace_to_major.txt` — Ace of Swords × 22 Majors
@@ -41,7 +41,7 @@ All Swords × Major Arcana files completed (in `pairing/swords/`):
 - ✅ `king_to_major.txt` — King of Swords × 22 Majors (The Enthroned Mind, Thought That Commands)
 
 **All 14 Swords cards now complete with full 22-block Major Arcana pairings (308 blocks total).**
-**Verify:** `python3 pairing/validate.py` prints 79/79.
+**Verify:** `python3 pairing/validate.py` prints 70/70 (56 Phase 1 + 14 Phase 2 Swords-to-Major).
 
 ## NEXT — Phase 3: Other Suits × Major Arcana (design phase)
 Remaining Swords Court card file (`3_to_major.txt`) uses inverted perspective and should be rewritten

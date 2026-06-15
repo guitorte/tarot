@@ -47,13 +47,17 @@ All Swords × Major Arcana files completed (in `pairing/swords/`):
 `python3 pairing/validate.py` now scans **every `pairing/*/*_to_*.txt`** (not just swords).
 The validator is **primary-suit-aware**: it derives the primary suit from the parent
 directory, so all suit-specific tokens (field names, uid infix, elemental_primary, card_pair)
-follow. The Swords 70 stay green; 4 new Pentacles files bring the total to **74/74**.
+follow. The Swords 70 stay green; 8 new Pentacles files bring the total to **78/78**.
 
 Pentacles-primary files completed (in `pairing/pentacles/`):
 - ✅ `ace_to_cups.txt` — Ace of Pentacles × 14 Cups (earth→water, uid AOPC)
 - ✅ `ace_to_wands.txt` — Ace of Pentacles × 14 Wands (earth→fire, uid AOPW)
 - ✅ `ace_to_swords.txt` — Ace of Pentacles × 14 Swords (earth→air, uid AOPS)
 - ✅ `ace_to_pentacles.txt` — Ace of Pentacles × 14 Pentacles (earth→earth, same-suit, uid AOPP)
+- ✅ `2_to_cups.txt` — 2 of Pentacles × 14 Cups (earth→water, uid 2OPC)
+- ✅ `2_to_wands.txt` — 2 of Pentacles × 14 Wands (earth→fire, uid 2OPW)
+- ✅ `2_to_swords.txt` — 2 of Pentacles × 14 Swords (earth→air, uid 2OPS)
+- ✅ `2_to_pentacles.txt` — 2 of Pentacles × 14 Pentacles (earth→earth, same-suit, uid 2OPP)
 
 **The full Pentacles-primary spec is now §15 of `FORMAT_SPEC.md`** (read it before authoring
 more): field renames (`archetype_pentacles`, `pentacles_state`, `<S>_position_*`),
@@ -62,10 +66,10 @@ target-element `ontology`, and the canonical §15.3 `archetype_pentacles` table.
 rule holds: **the Pentacles card is always X**, the generating force (Ace of Pentacles → Y,
 never Y → Ace of Pentacles).
 
-## NEXT — continue Phase 3 (Pentacles primary, 2 → King)
-1. `python3 pairing/validate.py` → confirm 74/74.
+## NEXT — continue Phase 3 (Pentacles primary, 3 → King)
+1. `python3 pairing/validate.py` → confirm 78/78.
 2. Read `FORMAT_SPEC.md` §15 (and §2/§8 for the skeleton and quality bar).
-3. Author the remaining Pentacles primaries: 2, 3, … 10, page, knight, queen, king — each
+3. Author the remaining Pentacles primaries: 3, 4, … 10, page, knight, queen, king — each
    four files (`_to_cups/_wands/_swords/_pentacles`), 14 blocks each. Validator after each;
    commit per card or small group. Secondary archetype lines come verbatim from the existing
    Swords pairing files (§15.2). Same-suit files: block 1 is the self-pairing.

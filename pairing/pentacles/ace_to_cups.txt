@@ -1,0 +1,697 @@
+card_pair: Ace of Pentacles, Ace of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Emotional opening, love, receptivity, new feeling, overflowing heart
+numerical_relation: 1 + 1 = 2 (II The High Priestess; the material seed meets the welling heart, substance offered to feeling)
+elemental_bridge: Earth's first coin meets Water's first welling; the substance offered meets the feeling that would receive it
+threshold_type: The gift and the open heart; opportunity meeting the capacity to be moved
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles supplies the stable ground on which a new feeling dares to surface; security underwrites vulnerability
+  process: the coin is laid down; the heart, no longer braced for scarcity, lets its first feeling well up
+  outcome: an emotional opening rooted in real safety; love that is not contingent on lack
+  key_terms: secured vulnerability, grounded feeling, provision before openness, safe welling
+
+dynamic_antagonism:
+  mechanism: The seed's insistence on practical return collides with the heart's gift-logic of pure receptivity
+  tension_axis: material worth versus uncosted feeling
+  pentacles_position: Asks what the feeling will yield; wants the opening to produce something real
+  cups_position: Refuses to be priced; insists the welling heart needs no justification
+  key_terms: priced feeling, the uncosted gift, return demanded, receptivity defended
+
+dynamic_inhibition:
+  mechanism: Material caution withholds the safety the feeling waits for; the opening stalls until the ground feels certain
+  blockade_nature: the new feeling will not surface until provision is guaranteed, and provision is never declared enough
+  pentacles_state: the seed kept in the purse, never planted; potential hoarded as security rather than spent on the opening
+  consequence: the heart stays braced; emotional opening postponed behind a wall of never-sufficient saving
+  key_terms: hoarded seed, deferred opening, never-enough security, braced heart
+
+dynamic_devolution:
+  mechanism: The material seed degrades the feeling into a transaction; affection is bought and therefore owned
+  mode: emotional bribery; the open heart paid for and thereby controlled
+  loss: the freeness of the feeling; love that was a gift becomes a debt
+  key_terms: bought affection, transactional love, owned heart, gift made debt
+
+dynamic_dependency:
+  mechanism: The Ace of Pentacles needs the Ace of Cups to give its provision a reason; the heart needs the coin to make its opening sustainable
+  function: Pentacles-Ace supplies the material ground feeling can rest on; Cups-Ace supplies the worth that makes the provision mean something
+  integration_outcome: a security that shelters real feeling and a feeling that justifies the security; substance and heart founding each other
+  key_terms: sheltered feeling, justified provision, mutual founding, substance with heart
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, 2 of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Partnership, duality, emotional connection, mutual feeling, balanced union
+numerical_relation: 1 + 2 = 3 (III The Empress; the seed of substance meets the bond it could provide for)
+elemental_bridge: Earth's lone coin meets Water's pairing; the single opportunity meets the union of two hearts
+threshold_type: The shared foundation; a new asset placed between two people
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the bond a concrete thing to build; shared substance turns feeling into partnership
+  process: the coin is set between the two; affection acquires a project, an asset, a household to tend together
+  outcome: a union grounded in something real; mutual feeling made durable by mutual stake
+  key_terms: shared stake, grounded bond, project for two, durable union
+
+dynamic_antagonism:
+  mechanism: The seed's single ownership collides with the bond's premise that everything is held in common
+  tension_axis: mine-first versus ours-from-the-start
+  pentacles_position: Holds the opportunity as its own to grant; wary of dissolving the asset into the pair
+  cups_position: Assumes the gift is shared the moment the bond exists; reads withholding as betrayal
+  key_terms: sole title versus common purse, guarded gift, assumed sharing, ownership in love
+
+dynamic_inhibition:
+  mechanism: The question of whose the asset is freezes the partnership before it can pool anything
+  blockade_nature: the bond cannot deepen while the coin stays titled to one; intimacy waits on an unsettled account
+  pentacles_state: the seed held back from the common ground, kept as private leverage inside the union
+  consequence: the partnership stalls at the threshold of real merger; two who feel joined but own separately
+  key_terms: unsettled title, withheld merger, private leverage, stalled pooling
+
+dynamic_devolution:
+  mechanism: The material seed turns the bond into an arrangement; partnership reduced to who brought what
+  mode: the love accounted; affection priced out as contributions and claims
+  loss: the gratuitousness of the union; two hearts become two ledgers
+  key_terms: the priced bond, contribution-counting, love as account, ledger union
+
+dynamic_dependency:
+  mechanism: The Ace needs the 2 of Cups to have someone to provide for; the bond needs the seed to give its feeling a body in the world
+  function: Pentacles-Ace supplies the asset a partnership can grow around; Cups-2 supplies the connection that makes the asset worth holding jointly
+  integration_outcome: a shared foundation neither hoarded nor squandered; feeling and substance held in one common hand
+  key_terms: common foundation, joint holding, provided-for bond, embodied union
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, 3 of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Celebration, joy, emotional communion, friendship, festive togetherness
+numerical_relation: 1 + 3 = 4 (IV The Emperor; the seed of substance meets the celebration it could host)
+elemental_bridge: Earth's provision meets Water's festivity; the material means meets the joy that would spend them
+threshold_type: The feast and its funding; communion meeting the resource that makes it possible
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles underwrites the celebration; concrete means let communion actually gather
+  process: the coin pays for the table; friends assemble because there is somewhere and something to share
+  outcome: joy made hospitable and recurring; festivity standing on a provided ground
+  key_terms: funded feast, hosted communion, provisioned joy, gathering with ground
+
+dynamic_antagonism:
+  mechanism: The seed's prudence collides with the celebration's impulse to pour everything out at once
+  tension_axis: saving the resource versus spending it in joy
+  pentacles_position: Counts the cost of the feast; resists draining the new asset for a single night
+  cups_position: Insists joy not be rationed; reads thrift at the table as meanness
+  key_terms: rationed feast, the drained purse, thrift versus pouring, counted celebration
+
+dynamic_inhibition:
+  mechanism: Anxious saving keeps the means locked while the moment for communion passes
+  blockade_nature: the celebration cannot begin because the resource is never released for it
+  pentacles_state: the seed withheld from the festival, guarded against a future that swallows every present
+  consequence: the friends drift; joy deferred until the provision is "safe," which is never
+  key_terms: locked means, missed gathering, deferred feast, guarded abundance
+
+dynamic_devolution:
+  mechanism: The material seed turns communion into display; the feast becomes a show of having
+  mode: hospitality weaponized as status; friendship courted for what it pays back
+  loss: the warmth of the togetherness; joy hollowed into a transaction of favors
+  key_terms: status feast, bought friends, displayed having, hollow communion
+
+dynamic_dependency:
+  mechanism: The Ace needs the 3 of Cups to give its abundance a use; communion needs the seed to have a table to gather around
+  function: Pentacles-Ace supplies the means that make joy possible; Cups-3 supplies the shared gladness that makes the means worth earning
+  integration_outcome: provision spent into real communion; abundance that returns as belonging rather than display
+  key_terms: abundance well-spent, provisioned belonging, means into joy, generous ground
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, 4 of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Apathy, emotional stagnation, dissatisfaction, withdrawn feeling, boredom
+numerical_relation: 1 + 4 = 5 (V The Pope; the offered opportunity meets the heart too jaded to see it)
+elemental_bridge: Earth's fresh coin meets Water's averted gaze; the real offer meets the feeling that has stopped wanting
+threshold_type: The unopened gift; opportunity held out to someone who will not look up
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives apathy a concrete reason to re-engage; a tangible offer reaches where abstract encouragement cannot
+  process: the coin is held out in plain sight; the bored eye, snagged by something real, lifts
+  outcome: withdrawal interrupted by an opportunity too solid to ignore; feeling re-anchored to a fact
+  key_terms: concrete re-engagement, the snag of the real, lifted gaze, fact over mood
+
+dynamic_antagonism:
+  mechanism: The seed's eagerness to be taken up collides with the apathy that finds no offer worth the effort
+  tension_axis: an opportunity insisting on response versus a heart refusing to be roused
+  pentacles_position: Presents the chance plainly; expects practical sense to overrule the sulk
+  cups_position: Sees the offer and remains unmoved; insists nothing on offer is what it actually wants
+  key_terms: the refused chance, unmoved by substance, insistence versus indifference, offer met by shrug
+
+dynamic_inhibition:
+  mechanism: Emotional flatness drains the seed of its appeal; the opportunity goes unworked for want of any desire to take it
+  blockade_nature: the chance sits open and untouched; manifestation needs a wanting the apathy will not supply
+  pentacles_state: the seed offered into a vacuum, neither refused nor accepted, simply ignored until it lapses
+  consequence: the opportunity rots on the table; potential wasted not by conflict but by indifference
+  key_terms: untouched chance, desire-vacuum, lapsed seed, wasted by indifference
+
+dynamic_devolution:
+  mechanism: The material seed becomes a substitute for the feeling that withdrew; things are accumulated where wanting died
+  mode: consumption as anesthetic; acquiring to avoid noticing the emptiness
+  loss: the chance to feel again; the offer used to numb rather than to begin
+  key_terms: anesthetic acquiring, numbed emptiness, things over feeling, substitute seed
+
+dynamic_dependency:
+  mechanism: The Ace needs the 4 of Cups's honesty about dissatisfaction to offer something actually wanted; the apathy needs the seed's concreteness to find a way back to desire
+  function: Pentacles-Ace supplies a real, touchable beginning; Cups-4 supplies the unflinching report of what no longer satisfies
+  integration_outcome: an offer shaped to the true lack rather than the assumed one; desire rekindled by a chance that fits the actual hunger
+  key_terms: offer fitted to lack, rekindled wanting, honest dissatisfaction, beginning that fits
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, 5 of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Loss, grief, heartbreak, mourning, emotional devastation
+numerical_relation: 1 + 5 = 6 (VI The Lovers; the new asset meets the grief still fixed on what spilled)
+elemental_bridge: Earth's standing coin meets Water's spilled cups; the fresh provision meets the gaze locked on loss
+threshold_type: The two cups still standing; a new beginning offered to someone counting what is gone
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives grief a concrete next thing; a real beginning turns the mourner toward what remains
+  process: the coin is set beside the spilled cups; the eye, drawn to something solid, registers the two still upright
+  outcome: mourning given a floor to stand on; loss bounded by a tangible new fact
+  key_terms: a floor under grief, the standing remainder, concrete next, bounded mourning
+
+dynamic_antagonism:
+  mechanism: The seed's call to begin again collides with grief's loyalty to what was lost
+  tension_axis: starting over versus honoring the loss
+  pentacles_position: Points to the new opportunity; treats continued mourning as waste of a chance
+  cups_position: Refuses to be hurried past the loss; reads the quick new offer as a denial of grief
+  key_terms: hurried beginning, loyal grief, the rushed chance, mourning defended
+
+dynamic_inhibition:
+  mechanism: Grief's fixation on the spilled drains all attention from the seed; the opportunity cannot be taken up by someone facing backward
+  blockade_nature: the new beginning is invisible to a gaze locked on what is gone; manifestation waits on an attention grief will not free
+  pentacles_state: the seed offered to a turned back, present but unseen, neither refused nor begun
+  consequence: the chance passes unworked while mourning continues; potential lost a second time, to inertia
+  key_terms: backward gaze, unseen seed, attention locked, second loss
+
+dynamic_devolution:
+  mechanism: The material seed is used to paper over grief rather than survive it; acquisition deployed to avoid mourning
+  mode: buying past the loss; substituting a new thing for the feeling owed to the old
+  loss: the grief unfelt and therefore unfinished; the new asset built on an un-mourned wound
+  key_terms: unmourned wound, bought-over grief, avoidance by acquiring, unfinished loss
+
+dynamic_dependency:
+  mechanism: The Ace needs the 5 of Cups to grieve honestly before the new thing can be wholehearted; the mourner needs the seed to prove the future is not empty
+  function: Pentacles-Ace supplies the tangible evidence that something remains to build; Cups-5 supplies the honest reckoning of what was actually lost
+  integration_outcome: a new beginning entered after the loss is felt, not instead of it; provision that honors grief by outlasting it
+  key_terms: beginning after grief, honored loss, remaining made real, wholehearted next
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, 6 of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Nostalgia, innocence, reunion, past tenderness, childhood wonder
+numerical_relation: 1 + 6 = 7 (VII The Chariot; the present opportunity meets the heart turned toward the past)
+elemental_bridge: Earth's new coin meets Water's old garden; the beginning at hand meets the tenderness for what was
+threshold_type: The gift remembered from childhood; a present chance colored by an old sweetness
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles roots nostalgia into a present project; old tenderness gives the new seed warmth and continuity
+  process: the coin is recognized as a kind once known; the beginning is taken up with the care learned long ago
+  outcome: a new foundation carrying forward an old gentleness; manifestation warmed by memory
+  key_terms: inherited gentleness, warmed beginning, continuity made real, memory grounded
+
+dynamic_antagonism:
+  mechanism: The seed's forward demand collides with nostalgia's pull back toward a vanished sweetness
+  tension_axis: building the present versus returning to the past
+  pentacles_position: Insists the opportunity is here and now; resents being measured against a remembered golden age
+  cups_position: Compares every new thing to the cherished past; finds the present coin colder than the remembered one
+  key_terms: now versus then, the golden-age measure, present discounted, forward against backward
+
+dynamic_inhibition:
+  mechanism: Longing for the past keeps the present seed from being valued; the opportunity stalls against a heart living elsewhere in time
+  blockade_nature: the new beginning cannot take hold while attention is spent on an irrecoverable then
+  pentacles_state: the seed held in the present's hand but unplanted, waiting for a feeling that is always somewhere earlier
+  consequence: the chance ages into another nostalgia; potential filed away as one more thing that might have been
+  key_terms: present unplanted, attention elsewhere, deferred to memory, might-have-been
+
+dynamic_devolution:
+  mechanism: The material seed is bent to recreate a past that cannot return; resources poured into a sentimental reconstruction
+  mode: buying back childhood; spending the new opportunity to furnish an unrecoverable then
+  loss: the present's own possibility; substance wasted restoring a vanished scene
+  key_terms: bought-back past, sentimental spending, wasted on then, restoration of the gone
+
+dynamic_dependency:
+  mechanism: The Ace needs the 6 of Cups's tenderness to give the new thing heart; nostalgia needs the seed to carry its sweetness into something that can still grow
+  function: Pentacles-Ace supplies the living present a beginning can take root in; Cups-6 supplies the inherited warmth that makes the beginning worth tending
+  integration_outcome: old tenderness planted in present ground; a new foundation that keeps the past as root, not cage
+  key_terms: past as root not cage, tenderness replanted, warmed foundation, memory carried forward
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, 7 of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Illusion, temptation, fantasy, confusion, delusional desire
+numerical_relation: 1 + 7 = 8 (VIII Justice; the one real coin meets seven imagined ones)
+elemental_bridge: Earth's single solid coin meets Water's floating visions; the one workable chance meets a sky full of fantasies
+threshold_type: The choice between substance and mirage; one real offer among seven dreamed
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles tests the fantasies against the real; one concrete opportunity gives the dreaming a ground to land
+  process: the seven visions are weighed against the one coin in hand; the workable option declares itself by being touchable
+  outcome: fantasy disciplined into a single actionable beginning; desire given a real object
+  key_terms: the touchable option, fantasy grounded, one over seven, desire made actionable
+
+dynamic_antagonism:
+  mechanism: The seed's demand to pick one real thing collides with the pleasure of keeping every dream open
+  tension_axis: committing to the actual versus savoring the possible
+  pentacles_position: Insists only the coin in hand is real; presses for a single concrete choice
+  cups_position: Resists narrowing; insists the unrealized dreams are richer than the modest real one
+  key_terms: commitment versus possibility, the modest real, refused narrowing, dreams over coin
+
+dynamic_inhibition:
+  mechanism: Endless fantasy keeps the real seed from being chosen; the opportunity waits while the dreamer browses mirages
+  blockade_nature: the concrete beginning cannot start because no fantasy is ever relinquished for it
+  pentacles_state: the seed held unspent beneath a cloud of options, kept "in reserve" against every imagined alternative
+  consequence: the real chance expires unchosen; potential dissolved into a haze of what could have been
+  key_terms: unchosen real, browsed mirages, reserve unspent, expired chance
+
+dynamic_devolution:
+  mechanism: The material seed is conscripted to fund the delusion; real resources spent chasing a fantasy
+  mode: the scheme dressed as opportunity; substance poured into a glittering nothing
+  loss: the seed itself; the one real thing squandered buying smoke
+  key_terms: funded delusion, glittering nothing, squandered seed, smoke bought
+
+dynamic_dependency:
+  mechanism: The Ace needs the 7 of Cups's imagination to see what the seed could become; the fantasy needs the coin to test which dream is real
+  function: Pentacles-Ace supplies the reality check and the single buildable start; Cups-7 supplies the vision of what is worth building toward
+  integration_outcome: imagination filtered through the real until one dream is chosen and grown; vision married to a workable first step
+  key_terms: vision filtered, chosen dream, workable first step, imagination grounded
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, 8 of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Abandonment, departure, walking away, chosen leaving, emotional departure
+numerical_relation: 1 + 8 = 9 (IX The Hermit; the offered foundation meets the one already walking away)
+elemental_bridge: Earth's planted coin meets Water's turned back; the beginning that asks to be stayed for meets the heart that has chosen to leave
+threshold_type: The foundation offered to the departing; a new ground laid before someone who is leaving
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the departure somewhere worth arriving; a real new ground turns leaving into seeking
+  process: the coin marks a destination ahead; the one walking away walks toward something solid rather than merely from
+  outcome: an exit redeemed by a concrete beginning; departure converted into pilgrimage with an end
+  key_terms: destination ahead, leaving-toward, redeemed exit, grounded pilgrimage
+
+dynamic_antagonism:
+  mechanism: The seed's call to stay and build collides with the soul's need to leave what no longer satisfies
+  tension_axis: rooting here versus walking on
+  pentacles_position: Holds out the foundation; reads the departure as throwing away a real chance
+  cups_position: Cannot be bought into staying; insists the search matters more than the offered security
+  key_terms: stay-and-build versus walk-on, the spurned foundation, security refused, the necessary leaving
+
+dynamic_inhibition:
+  mechanism: The pull to depart drains commitment from the seed; no foundation can set under a heart already gone
+  blockade_nature: the beginning cannot take root because the one who would tend it is leaving
+  pentacles_state: the seed laid in soil the planter is abandoning, present but soon untended
+  consequence: the opportunity is left half-begun; potential stranded by a departure that could not wait
+  key_terms: untended seed, half-begun, abandoned soil, stranded chance
+
+dynamic_devolution:
+  mechanism: The material seed becomes the excuse that traps; possessions used to guilt the leaver into staying
+  mode: the gift as shackle; provision wielded to forbid a needed departure
+  loss: the freedom of the leaving; a soul kept by what it owns rather than where it belongs
+  key_terms: gift as shackle, guilted staying, ownership as cage, forbidden departure
+
+dynamic_dependency:
+  mechanism: The Ace needs the 8 of Cups's willingness to leave wrong ground so the seed is planted somewhere true; the departure needs the seed to make the leaving lead somewhere
+  function: Pentacles-Ace supplies the worthy ground to arrive at; Cups-8 supplies the courage to abandon the unworthy and seek it
+  integration_outcome: a foundation chosen by someone who first dared to leave; provision and departure resolved into a true relocation
+  key_terms: worthy ground chosen, courage to relocate, leaving toward substance, true arrival
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, 9 of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Wish fulfillment, contentment, emotional satisfaction, satisfied desire, achieved happiness
+numerical_relation: 1 + 9 = 10 (X The Wheel of Fortune; the new seed meets the heart already satisfied)
+elemental_bridge: Earth's fresh coin meets Water's full cup; the beginning that wants effort meets the contentment that wants nothing more
+threshold_type: The new chance offered to the satisfied; opportunity laid before a fulfilled wish
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives contentment a concrete way to renew itself; a real new seed keeps satisfaction from souring into stasis
+  process: the full heart, secure, can afford to plant; the coin is taken up not from lack but from generous surplus
+  outcome: a beginning funded by contentment rather than need; satisfaction reinvested into the new
+  key_terms: surplus reinvested, contentment renewed, generous beginning, planting from fullness
+
+dynamic_antagonism:
+  mechanism: The seed's demand for further effort collides with the wish-fulfilled heart's reluctance to want anything more
+  tension_axis: striving onward versus resting in enough
+  pentacles_position: Presses the new opportunity; treats contentment as complacency
+  cups_position: Has what it wished for; reads the push to begin again as a refusal to let happiness be
+  key_terms: striving versus enough, the pressed contentment, complacency charged, happiness defended
+
+dynamic_inhibition:
+  mechanism: Satisfaction removes the hunger the seed needs; the opportunity goes unworked because nothing is wanting
+  blockade_nature: the new beginning finds no motive in a heart that already has its wish
+  pentacles_state: the seed held by someone with no reason to plant it, set aside as surplus to a finished desire
+  consequence: the chance lies fallow; potential idled by a contentment that will not stir
+  key_terms: fallow seed, motive removed, idled potential, finished desire
+
+dynamic_devolution:
+  mechanism: The material seed feeds an appetite that satisfaction was supposed to end; contentment curdles into the need for more
+  mode: surfeit; the full cup demanding refilling, the wish replaced by greed for the next wish
+  loss: the peace of enough; satisfaction destroyed by an acquiring that cannot stop
+  key_terms: surfeit, more-after-enough, peace destroyed, greed past wish
+
+dynamic_dependency:
+  mechanism: The Ace needs the 9 of Cups to know what fulfillment feels like so the new seed aims at more than accumulation; contentment needs the seed to keep its happiness from going stale
+  function: Pentacles-Ace supplies the renewing beginning; Cups-9 supplies the standard of true satisfaction the beginning should serve
+  integration_outcome: a new venture undertaken from fullness toward a known happiness; provision that deepens contentment rather than chasing past it
+  key_terms: fullness as starting point, known happiness aimed at, deepened contentment, renewing surplus
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, 10 of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Family harmony, happiness, love's fulfillment, emotional completeness, belonging
+numerical_relation: 1 + 10 = 11 (XI Strength; the first coin meets the fulfilled and belonging family)
+elemental_bridge: Earth's single seed meets Water's whole household; the beginning meets the completed belonging it could provide for
+threshold_type: The foundation under the home; a new asset offered to an already-loving family
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the family's harmony a material floor; a concrete provision lets belonging endure beyond feeling
+  process: the coin is laid under the household; love acquires a roof, a table, a continuity it can count on
+  outcome: emotional completeness made durable; belonging secured against the weather of circumstance
+  key_terms: floor under the home, secured belonging, durable harmony, love provisioned
+
+dynamic_antagonism:
+  mechanism: The seed's individual enterprise collides with the family's claim on every resource as common
+  tension_axis: the new private venture versus the household's shared purse
+  pentacles_position: Wants the beginning to be its own; resists the family's automatic claim on it
+  cups_position: Assumes the harmony entitles all to the gain; reads private holding as a breach of belonging
+  key_terms: private venture versus common claim, the contested gain, breached belonging, ownership in the home
+
+dynamic_inhibition:
+  mechanism: The settled harmony resists the disturbance any new venture brings; the seed stalls against a household that wants nothing to change
+  blockade_nature: the beginning cannot start where completeness has made everyone wary of risk
+  pentacles_state: the seed kept dormant to preserve the peace, an opportunity declined to avoid rocking the home
+  consequence: the chance forgone for comfort's sake; potential traded away to keep the harmony undisturbed
+  key_terms: dormant seed, risk declined, peace preserved, opportunity forgone
+
+dynamic_devolution:
+  mechanism: The material seed turns belonging into inheritance-anxiety; the loving home reduced to an estate to be divided
+  mode: the family priced; affection eroded by who will get what
+  loss: the freely given belonging; harmony soured into the politics of provision
+  key_terms: estate over home, inheritance-anxiety, priced family, soured belonging
+
+dynamic_dependency:
+  mechanism: The Ace needs the 10 of Cups to give its provision a family to serve; the household needs the seed to keep its happiness materially possible
+  function: Pentacles-Ace supplies the foundation a home rests on; Cups-10 supplies the belonging that makes the foundation worth laying
+  integration_outcome: a household whose love is both freely felt and materially secure; provision and belonging holding up one roof
+  key_terms: secure household, felt-and-funded love, one roof, provisioned belonging
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, Page of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Curiosity, emotional exploration, feeling-learning, youthful receptivity, openness
+numerical_relation: 1 + 11 = 12 (XII The Hanged Man; the solid seed meets the dreamy young feeler)
+elemental_bridge: Earth's grounded coin meets Water's wondering apprentice; the practical beginning meets the heart still learning to feel
+threshold_type: The first real task offered to a tender beginner; opportunity meeting untrained openness
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the young feeler a concrete thing to practice on; a real task grounds emotional curiosity in usable form
+  process: the coin is handed to the apprentice heart; wonder is given an object that can actually be built
+  outcome: receptivity disciplined into a first skill; tender openness given practical traction
+  key_terms: object for wonder, grounded curiosity, first skill, openness with traction
+
+dynamic_antagonism:
+  mechanism: The seed's demand for diligence collides with the young heart's preference for feeling over finishing
+  tension_axis: the steady task versus the wandering feeling
+  pentacles_position: Asks the apprentice to apply itself; impatient with daydream where work is needed
+  cups_position: Would rather explore the feeling than complete the task; resists being pinned to the practical
+  key_terms: diligence versus daydream, the unfinished task, pinned feeling, work against wonder
+
+dynamic_inhibition:
+  mechanism: Untrained receptivity drifts off the seed before anything sets; the opportunity stalls for want of steadiness
+  blockade_nature: the beginning cannot mature under attention that keeps wandering to the next feeling
+  pentacles_state: the seed picked up and put down, never worked long enough to root, scattered across half-starts
+  consequence: a trail of abandoned beginnings; potential dispersed by an openness too restless to commit
+  key_terms: scattered seed, half-starts, restless openness, nothing rooted
+
+dynamic_devolution:
+  mechanism: The material seed prematurely hardens the tender feeler into a calculator; wonder schooled out by early profit-thinking
+  mode: the young heart taught to price before it has learned to feel; curiosity narrowed to gain
+  loss: the openness itself; an apprentice feeler turned cynic before its time
+  key_terms: premature hardening, priced too early, narrowed wonder, lost openness
+
+dynamic_dependency:
+  mechanism: The Ace needs the Page of Cups's fresh receptivity to keep the work feeling rather than rote; the young heart needs the seed to give its wonder a form that lasts
+  function: Pentacles-Ace supplies the steadying task and real ground; Cups-Page supplies the openness that keeps the work alive and curious
+  integration_outcome: a beginner who builds something real without losing the wonder that began it; feeling and craft maturing together
+  key_terms: craft kept curious, grounded wonder, maturing together, real and alive
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, Knight of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Romance, emotional action, passionate pursuit, love-driven action, heart's quest
+numerical_relation: 1 + 12 = 13 (XIII Death; the grounded seed meets the romantic on his quest)
+elemental_bridge: Earth's anchoring coin meets Water's riding ardor; the practical beginning meets the heart galloping after its ideal
+threshold_type: The quest given a home base; passion offered a foundation to return to
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives the romantic's pursuit a base to set out from and return to; substance steadies ardor into something buildable
+  process: the coin anchors the quest; passion, no longer rootless, pursues its ideal from solid ground
+  outcome: love-driven action made sustainable; the heart's quest provisioned for the long ride
+  key_terms: anchored quest, provisioned ardor, base to return to, sustainable pursuit
+
+dynamic_antagonism:
+  mechanism: The seed's call to settle and build collides with the romantic's need to keep riding toward the ideal
+  tension_axis: founding something versus chasing the dream
+  pentacles_position: Urges the Knight to dismount and build; reads the endless pursuit as evasion of the real
+  cups_position: Will not be grounded; insists the quest matters more than any foundation offered
+  key_terms: settle versus chase, the spurned base, endless pursuit, grounding refused
+
+dynamic_inhibition:
+  mechanism: The romantic's restlessness keeps the seed from setting; no foundation roots under a heart always departing
+  blockade_nature: the beginning cannot take hold because the one offered it is forever about to ride off
+  pentacles_state: the seed handed to a passing rider, carried a little way and dropped at the next horizon
+  consequence: the opportunity left behind at every stage; potential scattered along a road that never arrives
+  key_terms: dropped seed, forever departing, nothing set, scattered along the road
+
+dynamic_devolution:
+  mechanism: The material seed turns romance into a purchase; the quest's ardor spent buying the beloved's regard
+  mode: love courted with provision; passion degraded into a transaction of gifts
+  loss: the sincerity of the pursuit; a quest that was for love reduced to a campaign of acquisition
+  key_terms: bought regard, courted with coin, transactional ardor, lost sincerity
+
+dynamic_dependency:
+  mechanism: The Ace needs the Knight of Cups's ardor to give the foundation a purpose worth riding for; the romantic needs the seed to keep his quest from dissolving into mere motion
+  function: Pentacles-Ace supplies the solid base and real provision; Cups-Knight supplies the passion that makes the base a home worth having
+  integration_outcome: a quest that builds as it rides, ardor that founds something real; passion and provision carried together
+  key_terms: building quest, founded ardor, home worth riding for, passion provisioned
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, Queen of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Emotional mastery, nurturing wisdom, intuitive understanding, emotional authority, compassion
+numerical_relation: 1 + 13 = 14 (XIV Temperance; the material foundation meets emotional mastery)
+elemental_bridge: Earth's new coin meets Water's deep still pool; the practical beginning meets the wisdom that feels what it cannot yet see
+threshold_type: The opportunity read by intuition; a beginning offered to one who senses its true shape
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives intuitive wisdom a concrete vessel; the Queen's feeling-sense finds in the seed a real thing to nurture
+  process: the coin is taken up by hands that sense what it could become; provision is tended with emotional intelligence
+  outcome: a beginning nurtured by understanding; material potential raised with care rather than mere calculation
+  key_terms: intuited potential, nurtured seed, feeling-led provision, care over calculation
+
+dynamic_antagonism:
+  mechanism: The seed's reliance on the measurable collides with the Queen's trust in what can only be felt
+  tension_axis: what the books show versus what the heart senses
+  pentacles_position: Wants the decision grounded in tangible figures; distrusts a feeling that cannot be counted
+  cups_position: Trusts the intuition over the ledger; insists the unmeasured sense knows the seed better than the numbers
+  key_terms: figures versus feeling, distrusted intuition, the unmeasured sense, ledger against heart
+
+dynamic_inhibition:
+  mechanism: Over-attunement to feeling postpones the concrete act; the seed waits while the Queen senses endlessly for the perfect moment
+  blockade_nature: the beginning cannot be enacted because intuition keeps it suspended, never quite ready
+  pentacles_state: the seed cradled and felt but not planted, held in a tending that never commits to soil
+  consequence: opportunity dissolved in attunement; potential mothered into permanent waiting
+  key_terms: suspended seed, endless sensing, never-quite-ready, mothered into waiting
+
+dynamic_devolution:
+  mechanism: The material seed corrupts the nurturing into control; care for the beginning curdles into emotional ownership of it
+  mode: provision used to bind; nurture weaponized so the tended thing cannot leave the tender
+  loss: the freedom of what was nurtured; compassion turned into a possessive hold
+  key_terms: nurture as binding, possessive care, owned by tending, compassion corrupted
+
+dynamic_dependency:
+  mechanism: The Ace needs the Queen of Cups's intuition to sense which beginning is truly worth raising; the Queen needs the seed to give her feeling-wisdom a real thing to nurture into being
+  function: Pentacles-Ace supplies the concrete potential and the discipline to grow it; Cups-Queen supplies the read on what it needs and when
+  integration_outcome: a venture both deeply felt and materially grown; intuition and provision raising the same thing well
+  key_terms: felt-and-grown venture, intuition with discipline, well-raised seed, sensed and built
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC
+
+---
+
+card_pair: Ace of Pentacles, King of Cups
+archetype_pentacles: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+archetype_cups: Emotional authority, heart's dominion, compassionate power, mastered feeling, authoritative love
+numerical_relation: 1 + 14 = 15 (XV The Devil; the seed of substance meets the sovereign of feeling)
+elemental_bridge: Earth's new coin meets Water's governed sea; the raw beginning meets the authority that rules its own depths
+threshold_type: The opportunity brought before emotional sovereignty; a beginning weighed by a master of feeling
+
+dynamic_genesis:
+  mechanism: The Ace of Pentacles gives mastered feeling a worthy material project; the King's composed heart governs the new seed without being swept by it
+  process: the coin is received by an authority that neither over-desires nor disdains it; provision is steered by steady feeling
+  outcome: a beginning governed with emotional poise; material potential held by a hand that will not grasp
+  key_terms: composed provision, steady stewardship, ungrasping hand, poised beginning
+
+dynamic_antagonism:
+  mechanism: The seed's concrete urgency collides with the King's refusal to be moved before he has weighed the feeling
+  tension_axis: the practical now versus the sovereign's measured pace
+  pentacles_position: Presses to act on the opportunity; chafes at deliberation while the chance is live
+  cups_position: Will not be hurried; insists the beginning be felt through before it is funded
+  key_terms: act-now versus weigh-first, the live chance, measured pace, deliberation defended
+
+dynamic_inhibition:
+  mechanism: Total emotional control holds the seed at arm's length; the opportunity stalls under an authority that masters feeling by withholding action
+  blockade_nature: the beginning cannot proceed because the King governs the impulse to begin out of existence
+  pentacles_state: the seed kept in a sovereign's reserve, mastered into stillness, never released into the soil
+  consequence: opportunity governed to death; potential frozen by a composure that mistakes restraint for wisdom
+  key_terms: governed-to-stillness, withheld action, sovereign reserve, restraint as freeze
+
+dynamic_devolution:
+  mechanism: The material seed turns compassionate power into patronage; provision used to make the beloved dependent
+  mode: generosity as dominion; the gift given so the giver may rule the one who receives
+  loss: the dignity of the receiver; compassion degraded into control through provision
+  key_terms: patronizing gift, dominion by giving, made dependent, compassion as control
+
+dynamic_dependency:
+  mechanism: The Ace needs the King of Cups's governed feeling to steward the beginning without being ruled by greed or fear; the King needs the seed to give his emotional mastery a real domain to provide for
+  function: Pentacles-Ace supplies the material substance and the chance to build; Cups-King supplies the steady heart that holds substance without being owned by it
+  integration_outcome: a venture provisioned and emotionally governed; substance stewarded by a heart that neither grasps nor neglects
+  key_terms: stewarded substance, ungoverned by greed, real domain provided for, mastery and means
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 1-1 through 1-14
+  uid: AOPC

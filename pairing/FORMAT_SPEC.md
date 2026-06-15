@@ -546,3 +546,87 @@ structural_metadata:
    telegraphic, concrete, semicolon-joined). `key_terms` hand-authored from the start.
 4. Definition of done for Phase 2: all 14 `<card>_to_major.txt` present and conformant
    (14 × 22 = 308 blocks), validator exit 0 across the whole `pairing/swords/` directory.
+
+---
+
+## 15. Other primary suits (Phase 3 — Pentacles primary and beyond)
+
+**Status:** IN PROGRESS. Phase 3 extends the project beyond Swords-as-primary. The first
+primary card authored is the **Ace of Pentacles** (`pairing/pentacles/ace_to_{cups,wands,swords,pentacles}.txt`).
+The structure is identical to Phases 1–2; only the suit-specific tokens change. The
+validator is now **primary-suit-aware**: it reads the primary suit from the file's parent
+directory (`pairing/<suit>/`), so the same logic checks every lineage. Keep this in mind —
+a pentacles file in the wrong directory will be validated as the wrong suit.
+
+### 15.1 What changes from the Swords spec
+For a primary suit S (here `pentacles`), in directory `pairing/<S>/`, with files
+`<card>_to_<target>.txt` (14 blocks, Ace→King of the target; same five dynamics; §8 bar):
+
+- **Primary archetype field:** `archetype_<S>` (e.g. `archetype_pentacles`) replaces
+  `archetype_swords`. Same rule as §6: fixed per card, identical in every block of every
+  file for that card. The canonical Pentacles table is §15.3.
+- **Same-suit file** (`<S>_to_<S>`, e.g. `ace_to_pentacles`): primary/target archetypes are
+  `archetype_<S>_1` / `archetype_<S>_2`; a card meeting itself uses
+  `<S>_position_1` / `<S>_position_2` in antagonism (e.g. `pentacles_position_1/_2`).
+  Differing same-suit cards use named labels (`ace_of_pentacles_position`,
+  `two_of_pentacles_position`, …).
+- **Cross-suit antagonism labels:** the short suit form is the established convention —
+  `<S>_position` + `<target>_position` (e.g. `pentacles_position` / `cups_position`). The
+  validator only requires two `*_position` fields for differing cards; keep the labels
+  concrete and consistent within a file.
+- **Inhibition state field:** `<S>_state` (e.g. `pentacles_state`) replaces `swords_state`.
+- **`numerical_relation`:** unchanged (§4). Card values and Marseille trumps are the same;
+  only the addends differ. For an Ace primary every sum is `1 + target` (2 → 15 across
+  Ace→King), so the trump column is fixed: II, III, IV, V, VI, VII, VIII, IX, X, XI, XII,
+  XIII, XIV, XV.
+- **`elemental_primary`:** `<element of S> (<S>) to <element of target> (<target>)`. Pentacles
+  is **earth**: `earth (pentacles) to water (cups)`, `… to fire (wands)`, `… to air (swords)`,
+  `… to earth (pentacles)`.
+- **`ontology`:** `jodorowskian numerological psychology with <target-element> graduation`
+  (target-suit element, per §2/§10 — water/fire/air/earth). NOTE: some legacy Swords files
+  drifted to "with pentacles graduation"; the validator does not check `ontology`, but new
+  files should use the documented target-element form.
+- **`uid`:** `<Rank><OS-infix><Target>` where the infix names the primary suit:
+  `OP` = Of Pentacles, `OC` = Of Cups, `OW` = Of Wands, `OS` = Of Swords. Target char per §7
+  (P/C/W/S). E.g. Ace of Pentacles → Cups = `AOPC`; → Pentacles = `AOPP`; → Swords = `AOPS`.
+- **Directional rule (CRITICAL, as §14):** the **primary suit card is always X**, the
+  generating force. It engenders / conflicts with / stagnates before / reduces into / needs
+  the target Y. Ace of Pentacles → 5 of Cups is NOT 5 of Cups → Ace of Pentacles.
+
+### 15.2 Secondary (target) archetype lines
+Reuse verbatim, identical across every block referencing that target card. Source them from
+the existing Swords pairing files, which already carry `archetype_cups`, `archetype_wands`,
+`archetype_swords` (secondary form), and `archetype_pentacles` for all 14 cards of each suit.
+The validator does NOT check the secondary line's content (only the primary line's), but the
+§6/§15.3 discipline of verbatim reuse still applies for consistency.
+
+### 15.3 `archetype_pentacles` canonical table (FIXED per card — copy, do not reinvent)
+Identical in all four files for a given Pentacles card and identical to the table below.
+
+| Card | `archetype_pentacles` |
+|---|---|
+| Ace of Pentacles | Manifestation, earthly foundation, material beginning, prosperity, practical potential |
+| 2 of Pentacles | Balance, juggling, flexibility, adaptive exchange, equilibrium |
+| 3 of Pentacles | Collaboration, skill, artisanship, mutual effort, crafted mastery |
+| 4 of Pentacles | Holding, security, control, possessiveness, guarded resources |
+| 5 of Pentacles | Hardship, poverty, material loss, deprivation, abandonment |
+| 6 of Pentacles | Sharing, generosity, fair exchange, reciprocal giving, balanced distribution |
+| 7 of Pentacles | Assessment, patience, long-term investment, paused evaluation, trust in process |
+| 8 of Pentacles | Mastery, skill-development, apprenticeship, dedication, refined craft |
+| 9 of Pentacles | Independence, luxury, earned abundance, self-sufficiency, prosperous solitude |
+| 10 of Pentacles | Legacy, inheritance, family wealth, generational continuity, established foundation |
+| Page of Pentacles | Curiosity, material learning, practical exploration, earthy apprentice, grounded potential |
+| Knight of Pentacles | Dedication, reliable service, steady work, methodical action, trustworthy effort |
+| Queen of Pentacles | Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management |
+| King of Pentacles | Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship |
+
+### 15.4 State of Phase 3
+- ✅ Ace of Pentacles: `ace_to_cups`, `ace_to_wands`, `ace_to_swords`, `ace_to_pentacles`
+  (4 files, 56 blocks). `python3 pairing/validate.py` → all `pairing/*/*_to_*.txt` green.
+- Remaining for the Pentacles primary: 2–King (13 cards × 4 target files = 52 files), then
+  optionally `<card>_to_major.txt` (Phase 3 majors, validator already generalized via the
+  parent-directory branch). Author from the §2 skeleton with the §15.1 substitutions; the
+  `TEMPLATE.txt` / `TEMPLATE_major.txt` scaffolds apply with the field renames above.
+- Cups-primary and Wands-primary lineages would follow the same pattern (`pairing/cups/`,
+  `pairing/wands/`), each needing its own §15.3-style canonical archetype table added here
+  first. The validator's `ARCH_PRIMARY` dict must gain the new suit's table before authoring.

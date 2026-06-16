@@ -1,0 +1,697 @@
+card_pair: 7 of Pentacles, Ace of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 7 + 1 = 8 (VIII Justice; patient assessment meets creative spark; the gardener meets the new fire)
+elemental_bridge: Earth's patient evaluation meets Fire's igniting spark; the assessing eye meets the new flame
+threshold_type: The spark weighed before kindling; assessment meeting creative fire
+
+dynamic_genesis:
+  mechanism: The 7's patience gives the Ace's spark the steady tending that turns a flash of inspiration into a lasting enterprise; assessment lets the fire be built rather than burned out
+  process: the long evaluation nurtures the spark toward sustainable flame; the patience guards the inspiration from flaring and dying; assessment becomes the tending that grows fire into enterprise
+  outcome: a spark grown into lasting enterprise; creative fire tended patiently into durable flame
+  key_terms: tended spark, lasting enterprise, durable flame, nurtured fire
+
+dynamic_antagonism:
+  mechanism: The 7's need to assess clashes with the Ace's urge to ignite now; patience meets a spark that wants to blaze before it is evaluated
+  tension_axis: the patient tending versus the immediate ignition; evaluation versus the flame that wants to leap
+  seven_of_pentacles_position: Wants to assess the spark before fanning it; fears igniting too soon
+  ace_of_wands_position: The spark must catch now; patient evaluation lets the fire die
+  key_terms: urged ignition, demanded assessment, insisted blaze, kept evaluation
+
+dynamic_inhibition:
+  mechanism: The endless assessment smothers the spark; the patient evaluation withholds the fuel the fire needed to catch
+  blockade_nature: the creative fire cannot ignite while the gardener stands back to evaluate it
+  pentacles_state: the patience becomes the damper; the assessment starves the spark of its moment
+  consequence: the Ace's fire dies unkindled; the inspiration is lost while the 7 deliberates
+  key_terms: smothered spark, withheld fuel, damping patience, lost ignition
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into perpetual delay that lets every spark die; patience becomes the caution that never dares to kindle
+  mode: the evaluation used to defer ignition forever; the waiting becomes the timidity that watches sparks gutter out
+  loss: the genuine enterprise the spark could have become; assessment becomes the caution that extinguishes all fire
+  key_terms: obsessive delay, guttered spark, timid patience, extinguished enterprise
+
+dynamic_dependency:
+  mechanism: The 7 needs the Ace to give its patience something worth tending; the spark needs the assessment to build it into something that lasts beyond the first flash
+  function: Pentacles-7 supplies the patience that grows a spark into durable enterprise; Wands-Ace supplies the fire that teaches assessment when to stop evaluating and kindle
+  integration_outcome: a creative fire both kindled and built to last; the spark grounded in patient tending toward enterprise
+  key_terms: lasting fire, kindled enterprise, grounded patience, tended spark
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, 2 of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 7 + 2 = 9 (IX The Hermit; patient assessment meets expanding vision; the gardener meets the planner)
+elemental_bridge: Earth's patient evaluation meets Fire's planning vision; the assessing eye meets the expanding plan
+threshold_type: The vision weighed for the long term; assessment meeting expansion
+
+dynamic_genesis:
+  mechanism: The 7's patience grounds the 2's expansive vision in realistic long-term assessment; evaluation tests the plan against what can actually be grown over time
+  process: the long evaluation pressure-tests the vision's ambitions; the patience asks whether the expansion can be sustained; assessment turns grand plans into achievable stages
+  outcome: an expansion grounded in patient assessment; the grand vision staged into what can really be sustained
+  key_terms: grounded vision, staged expansion, tested plan, sustainable ambition
+
+dynamic_antagonism:
+  mechanism: The 2's bold reach clashes with the 7's cautious evaluation; vision meets a patience that holds back its ambition for assessment
+  tension_axis: the bold expansion versus the cautious evaluation; reaching far versus assessing first
+  seven_of_pentacles_position: Wants to assess before committing to the grand expansion
+  two_of_wands_position: The vision must reach boldly; cautious assessment shrinks the ambition
+  key_terms: urged caution, demanded boldness, insisted assessment, kept vision
+
+dynamic_inhibition:
+  mechanism: The 7's caution shrinks the 2's vision; the patient evaluation trims the ambition until little reach remains
+  blockade_nature: the bold expansion cannot proceed while every reach is whittled down by assessment
+  pentacles_state: the patience becomes timidity; the assessment shrinks the vision to nothing
+  consequence: the expansion never reaches; the 7's caution dwarfs the 2's bold plan
+  key_terms: shrunken vision, trimmed ambition, timid patience, dwarfed expansion
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into endless planning that never expands; patience becomes the evaluation that studies the vision to death
+  mode: the evaluation used to plan and re-plan without ever committing; the waiting becomes the analysis-paralysis that never reaches
+  loss: the genuine expansion the vision promised; assessment becomes the paralysis that studies but never acts
+  key_terms: obsessive planning, analysis paralysis, studied vision, unreached expansion
+
+dynamic_dependency:
+  mechanism: The 7 needs the 2 to give its patience a vision worth assessing; the expansion needs the assessment to ground its reach in sustainable, staged reality
+  function: Pentacles-7 supplies the patient assessment that grounds the vision in reality; Wands-2 supplies the bold reach that teaches assessment to aim its evaluation at real expansion
+  integration_outcome: a bold vision staged into sustainable reality; expansion grounded in patient, realistic assessment
+  key_terms: staged vision, sustainable reach, grounded patience, realistic expansion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, 3 of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 7 + 3 = 10 (X The Wheel of Fortune; patient assessment meets forward enterprise; the gardener meets the venturer)
+elemental_bridge: Earth's patient evaluation meets Fire's outbound enterprise; the assessing eye meets the venture under sail
+threshold_type: The venture watched for its return; assessment meeting enterprise
+
+dynamic_genesis:
+  mechanism: The 7's patience suits the 3's long enterprise perfectly; both watch the horizon for a return that ripens slowly, and assessment tends the venture toward its harvest
+  process: the long evaluation waits for the ships to come in; the patience tends the enterprise across its long voyage; assessment and foresight together watch the slow return mature
+  outcome: a venture patiently tended toward its return; foresight and assessment aligned on the long harvest
+  key_terms: tended venture, watched return, aligned foresight, patient enterprise
+
+dynamic_antagonism:
+  mechanism: The 3's drive to keep moving forward clashes with the 7's pause to evaluate; enterprise meets a patience that would stop to assess what foresight wants to advance
+  tension_axis: moving the venture forward versus pausing to assess it; the outbound drive versus the evaluating halt
+  seven_of_pentacles_position: Wants to pause and assess the venture's progress before advancing further
+  three_of_wands_position: The enterprise must keep moving; pausing to assess lets the moment pass
+  key_terms: urged advance, demanded assessment, insisted movement, kept evaluation
+
+dynamic_inhibition:
+  mechanism: The 7's pauses to evaluate stall the 3's forward momentum; the assessment keeps halting the venture that needed to keep moving
+  blockade_nature: the enterprise cannot advance while every stage must stop for evaluation
+  pentacles_state: the patience becomes the anchor; the assessment keeps the venture from sailing forward
+  consequence: the enterprise stalls mid-voyage; the 7's evaluating halts strand the 3's forward venture
+  key_terms: stalled venture, halted momentum, anchoring patience, stranded enterprise
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into second-guessing every advance; patience becomes the evaluation that recalls the ships before they can return
+  mode: the evaluation used to abort each venture before it matures; the waiting becomes the second-guessing that never lets enterprise complete
+  loss: the genuine return the venture promised; assessment becomes the second-guessing that aborts every enterprise
+  key_terms: obsessive second-guessing, aborted venture, recalled ships, undermined enterprise
+
+dynamic_dependency:
+  mechanism: The 7 needs the 3 to give its patience a real venture to tend; the enterprise needs the assessment to evaluate its progress without halting its forward drive
+  function: Pentacles-7 supplies the patient assessment that watches the venture's return; Wands-3 supplies the foresight that teaches patience to keep the enterprise moving toward its harvest
+  integration_outcome: a venture both advancing and wisely assessed; enterprise grounded in a patience that evaluates without stalling the forward drive
+  key_terms: advancing venture, wise assessment, grounded foresight, tended enterprise
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, 4 of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 7 + 4 = 11 (XI Strength; patient assessment meets communal celebration; the gardener meets the harvest home)
+elemental_bridge: Earth's patient investment meets Fire's communal hearth; the assessing eye meets the festival
+threshold_type: The harvest home; assessment meeting celebration
+
+dynamic_genesis:
+  mechanism: The 4's celebration crowns the 7's patient investment with the festival of the harvest home; assessment's long work culminates in communal establishment
+  process: the long evaluation reaches the season of the harvest festival; the patience is rewarded with the established home; assessment becomes the foundation on which the celebrating community stands
+  outcome: patient investment crowned by communal celebration; the long work establishing a festive, settled home
+  key_terms: crowned investment, harvest home, established celebration, settled foundation
+
+dynamic_antagonism:
+  mechanism: The 7's habit of holding back clashes with the 4's call to establish and celebrate now; patience meets a celebration ready to settle before the assessment is satisfied
+  tension_axis: the deferring assessment versus the establishing festival; evaluating longer versus settling now
+  seven_of_pentacles_position: Wants to keep assessing before declaring the work established
+  four_of_wands_position: The time to establish and celebrate is now; endless assessment delays the home
+  key_terms: urged settling, demanded assessment, insisted celebration, kept evaluating
+
+dynamic_inhibition:
+  mechanism: The endless assessment defers the establishment; the patient evaluation cannot let the community settle and celebrate
+  blockade_nature: the festival of establishment cannot begin while the gardener keeps evaluating whether it is ready
+  pentacles_state: the patience prevents the settling; the assessment defers the home the community needs
+  consequence: the establishment never comes; the 7's deferral keeps the 4's home unbuilt
+  key_terms: deferred establishment, unbuilt home, evaluating delay, withheld celebration
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into never finding the work ready to establish; patience becomes the perpetual provisionality that never settles
+  mode: the evaluation used to keep everything provisional forever; the waiting becomes the rootlessness that never builds a home
+  loss: the genuine establishment patience earned; assessment becomes the rootlessness that never lets a community settle
+  key_terms: obsessive provisionality, never-settled, rootless patience, unbuilt home
+
+dynamic_dependency:
+  mechanism: The 7 needs the 4 to teach it that patient work is meant to establish a home; the celebration needs the assessment to ground its festival in real, lasting work
+  function: Pentacles-7 supplies the patient investment that earns a lasting home; Wands-4 supplies the establishment that teaches assessment that its work is meant to settle into communal celebration
+  integration_outcome: a home established on patient work and joyfully settled; communal celebration grounded in real, lasting investment
+  key_terms: established home, settled celebration, grounded patience, lasting investment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, 5 of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Conflict, competition, struggle, contested victory
+numerical_relation: 7 + 5 = 12 (XII The Hanged Man; patient assessment meets open conflict; the gardener meets the scramble)
+elemental_bridge: Earth's patient evaluation meets Fire's scrambling contest; the assessing eye meets the chaotic struggle
+threshold_type: The contest watched with patience; assessment meeting conflict
+
+dynamic_genesis:
+  mechanism: The 7's patience steadies the 5's chaotic struggle into measured strategy; assessment turns the scramble into a contest evaluated and timed
+  process: the long evaluation finds the moment to enter the fray; the patience reads the conflict before committing; assessment converts the wild scramble into strategic, well-timed effort
+  outcome: conflict made strategic by patience; the chaotic struggle steadied into measured, well-timed contest
+  key_terms: strategic conflict, timed entry, steadied struggle, measured contest
+
+dynamic_antagonism:
+  mechanism: The 5's immediate combat clashes with the 7's pause to assess; struggle meets a patience that evaluates while the contest rages
+  tension_axis: the immediate scramble versus the assessing pause; fighting now versus evaluating first
+  seven_of_pentacles_position: Wants to assess the contest before committing to the fight
+  five_of_wands_position: The scramble is now; those who pause to assess are pushed out of it
+  key_terms: urged combat, demanded assessment, insisted scramble, kept evaluation
+
+dynamic_inhibition:
+  mechanism: The 7's pause to evaluate leaves it shut out of the contest; the assessment hesitates while the scramble is decided by those who acted
+  blockade_nature: the contest cannot be entered from the sidelines of perpetual evaluation
+  pentacles_state: the patience becomes hesitation; the assessment watches the struggle pass it by
+  consequence: the contest is lost by default; the 7's evaluating keeps it out of the fight it might have won
+  key_terms: shut-out assessment, hesitant patience, lost contest, missed scramble
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into eternal sideline observation; patience becomes the evaluation that watches every contest without ever entering
+  mode: the evaluation used to justify never fighting; the waiting becomes the spectating that never competes
+  loss: the genuine contest patience could have won; assessment becomes the spectating that never enters the struggle
+  key_terms: obsessive spectating, sidelined patience, never-entering, watched contest
+
+dynamic_dependency:
+  mechanism: The 7 needs the 5 to teach it that some contests must be entered, not only assessed; the conflict needs the patience to time its entry strategically
+  function: Pentacles-7 supplies the patient assessment that times the entry well; Wands-5 supplies the conflict that teaches assessment that contests must finally be entered, not only watched
+  integration_outcome: a contest entered with strategic timing; struggle grounded in a patience that assesses and then commits
+  key_terms: strategic entry, committed contest, grounded patience, timed struggle
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, 6 of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 7 + 6 = 13 (XIII Death; patient assessment meets public victory; the gardener meets the triumphant)
+elemental_bridge: Earth's patient investment meets Fire's public triumph; the assessing eye meets the celebrated victor
+threshold_type: The victory that patience earned; assessment meeting recognition
+
+dynamic_genesis:
+  mechanism: The 6's victory rewards the 7's long patience with public recognition; assessment's quiet years of investment culminate in honored success
+  process: the long evaluation finally bears its public fruit; the patience is crowned with the recognition it earned; assessment learns that quiet investment can ripen into public triumph
+  outcome: patient investment rewarded with victory; the long quiet work crowned by honored, public success
+  key_terms: rewarded patience, honored success, public fruit, crowned investment
+
+dynamic_antagonism:
+  mechanism: The 7's quiet evaluating clashes with the 6's public display; patience meets a victory that wants acclaim where the gardener prefers to keep assessing in private
+  tension_axis: the quiet assessment versus the public triumph; private evaluation versus celebrated acclaim
+  seven_of_pentacles_position: Wants to keep assessing quietly; distrusts the public display of victory
+  six_of_wands_position: The triumph deserves public acclaim now; quiet assessment buries the success
+  key_terms: urged acclaim, defended privacy, insisted victory, kept assessing
+
+dynamic_inhibition:
+  mechanism: The 7's habit of private evaluation hides the victory the 6 would proclaim; the assessment keeps the success quiet when it deserved recognition
+  blockade_nature: the public honor cannot land while the gardener keeps the achievement under private evaluation
+  pentacles_state: the patience buries the success; the assessment denies the victory its recognition
+  consequence: the triumph goes unrecognized; the 7's privacy keeps the 6's victory from being honored
+  key_terms: buried victory, hidden success, private patience, denied recognition
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into refusing to ever claim success; patience becomes the false modesty that hoards its victories unacknowledged
+  mode: the evaluation used to perpetually defer claiming the win; the waiting becomes the self-effacement that never lets success be seen
+  loss: the genuine recognition the victory earned; assessment becomes the false modesty that hides every triumph
+  key_terms: obsessive modesty, hoarded victory, self-effacing patience, hidden triumph
+
+dynamic_dependency:
+  mechanism: The 7 needs the 6 to give its patient work its deserved recognition; the victory needs the assessment to make its triumph the fruit of real, patient investment
+  function: Pentacles-7 supplies the patient investment that earns real victory; Wands-6 supplies the public recognition that teaches assessment to let its earned success be honored
+  integration_outcome: a victory that is the honored fruit of patient work; public recognition grounded in real, long-tended investment
+  key_terms: honored victory, earned recognition, grounded patience, public fruit
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, 7 of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 7 + 7 = 14 (XIV Temperance; patient assessment meets defensive stand; the gardener meets the defender)
+elemental_bridge: Earth's patient investment meets Fire's defended position; the assessing eye meets the one who holds ground
+threshold_type: The investment worth defending; assessment meeting resilience
+
+dynamic_genesis:
+  mechanism: The 7 of Wands' resilience teaches the 7 of Pentacles to defend its long investment against threat; assessment gains the will to protect what patience has grown
+  process: the long evaluation is matched with the resolve to guard the harvest; the patience learns to stand its ground for what it has tended; assessment becomes the steady defense of the long investment
+  outcome: a patient investment defended with resolve; the long-tended harvest guarded against threat
+  key_terms: defended investment, guarded harvest, resolved patience, protected work
+
+dynamic_antagonism:
+  mechanism: The 7 of Pentacles' patient flexibility clashes with the 7 of Wands' rigid defense; assessment meets a resilience that would fight where evaluation would adapt
+  tension_axis: the adaptive assessment versus the rigid stand; reevaluating versus holding ground at all costs
+  seven_of_pentacles_position: Would reassess and adapt if the threat proves the investment unwise
+  seven_of_wands_position: The position must be held; reassessing under pressure is surrender
+  key_terms: urged adaptation, defended ground, insisted resilience, kept assessment
+
+dynamic_inhibition:
+  mechanism: The rigid defense blocks the patient reassessment; the unyielding stand will not let the assessment adapt when the investment should be changed
+  blockade_nature: the evaluation cannot adapt while the defender insists on holding every position
+  pentacles_state: the patience is locked into a defense it should reconsider; the assessment cannot adapt under the rigid stand
+  consequence: a losing position is defended past reason; the 7 of Pentacles cannot reassess what the 7 of Wands will not yield
+  key_terms: locked defense, blocked reassessment, rigid stand, defended loss
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into defending a failed investment to the bitter end; assessment becomes the stubbornness that fights for what it should have abandoned
+  mode: the resilience used to defend the indefensible; the patience becomes the obstinacy that guards a barren field against all reason
+  loss: the wisdom to adapt or abandon; the stand becomes the obstinate defense of what patience should have released
+  key_terms: obsessive obstinacy, defended failure, barren stand, refused adaptation
+
+dynamic_dependency:
+  mechanism: The 7 of Pentacles needs the 7 of Wands to defend its worthy investments; the resilience needs the assessment to judge which positions are truly worth the stand
+  function: Pentacles-7 supplies the assessment that judges what is worth defending; Wands-7 supplies the resilience that teaches patience to guard its worthy investments with resolve
+  integration_outcome: a worthy investment defended with judged resolve; resilience grounded in a patience that knows what is worth the stand
+  key_terms: judged defense, worthy stand, grounded resilience, guarded investment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, 8 of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 7 + 8 = 15 (XV The Devil; patient assessment meets swift momentum; the gardener meets the rushing arrows)
+elemental_bridge: Earth's slow evaluation meets Fire's rapid flight; the assessing eye meets the quickening rush
+threshold_type: The slow yield and the swift moment; assessment meeting momentum
+
+dynamic_genesis:
+  mechanism: The 8's momentum teaches the 7 that some ripened moments must be seized swiftly; assessment learns from speed when the long patience must give way to rapid action
+  process: the long evaluation recognizes the moment the fruit is ripe and acts before it falls; the patience yields to the swift harvest when the time is right; assessment learns to move fast at the ripe moment
+  outcome: a patient investment seized at the swift ripe moment; assessment that knows when to act fast
+  key_terms: seized moment, swift harvest, ripe timing, decisive assessment
+
+dynamic_antagonism:
+  mechanism: The 7's slow evaluation clashes with the 8's demand for speed; patience meets a momentum that will not wait for assessment to finish
+  tension_axis: the slow ripening versus the swift rush; patient evaluation versus rapid movement
+  seven_of_pentacles_position: Wants the slow assessment to complete before acting; distrusts the rush
+  eight_of_wands_position: The moment is now; the slow evaluation lets the swift opportunity pass
+  key_terms: urged speed, demanded patience, insisted rush, kept evaluation
+
+dynamic_inhibition:
+  mechanism: The 7's slow pace cannot keep the 8's swift momentum; the patient evaluation misses the rapid window the moment required
+  blockade_nature: the swift opportunity cannot be caught by an assessment that moves too slowly
+  pentacles_state: the patience lags behind the moment; the assessment misses the ripe window by deliberating
+  consequence: the swift opportunity is lost; the 7's slow evaluation lets the 8's moment pass
+  key_terms: missed window, lagging patience, lost moment, slow assessment
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into chronic lateness; patience becomes the slowness that always evaluates the moment after it has passed
+  mode: the evaluation used to deliberate until every opportunity is gone; the waiting becomes the chronic lateness that never catches the moment
+  loss: the swift harvests the ripe moments offered; assessment becomes the slowness that always arrives too late
+  key_terms: obsessive lateness, passed opportunity, chronic slowness, missed harvest
+
+dynamic_dependency:
+  mechanism: The 7 needs the 8 to teach it to act swiftly at the ripe moment; the momentum needs the patience to know which swift moments are truly ripe to seize
+  function: Pentacles-7 supplies the patient judgment of when the moment is ripe; Wands-8 supplies the speed that teaches assessment to seize the ripe moment before it passes
+  integration_outcome: a ripe moment seized swiftly; momentum grounded in a patience that knows precisely when to act fast
+  key_terms: ripe seizing, swift judgment, grounded patience, timely momentum
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, 9 of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 7 + 9 = 16 (XVI The Tower; patient assessment meets tested endurance; the gardener meets the weary defender)
+elemental_bridge: Earth's patient investment meets Fire's tested endurance; the assessing eye meets the worn perseverance
+threshold_type: The long haul endured; assessment meeting endurance
+
+dynamic_genesis:
+  mechanism: The 9's tested endurance gives the 7's patience the stamina to see the long investment through; assessment and perseverance together outlast the long haul
+  process: the long evaluation is sustained by the 9's disciplined endurance; the patience gains the staying power to wait out the longest ripening; assessment becomes the endurance that sees the investment to its harvest
+  outcome: a long investment sustained to its harvest by tested endurance; patience given the stamina to outlast the wait
+  key_terms: sustained investment, enduring patience, staying power, outlasted wait
+
+dynamic_antagonism:
+  mechanism: The 7's open-ended patience clashes with the 9's battle-weary readiness to be done; assessment meets an endurance worn thin by waiting
+  tension_axis: the open-ended evaluation versus the exhausted endurance; willing to wait longer versus worn past waiting
+  seven_of_pentacles_position: Willing to wait still longer for the investment to ripen
+  nine_of_wands_position: Worn thin by the long wait; cannot endure much more evaluation
+  key_terms: urged endurance, demanded conclusion, insisted patience, kept exhaustion
+
+dynamic_inhibition:
+  mechanism: The 9's exhaustion cannot sustain the 7's open-ended patience; the worn endurance fails before the long assessment completes
+  blockade_nature: the investment cannot be seen through when the endurance is too depleted to wait longer
+  pentacles_state: the patience outlasts the endurance; the assessment demands more waiting than the worn strength can give
+  consequence: the endurance collapses before the harvest; the 9's exhaustion fails the 7's long evaluation
+  key_terms: collapsed endurance, depleted strength, failed wait, exhausted patience
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the patience into grinding the endurance to nothing; assessment becomes the open-ended wait that wears the strength past all recovery
+  mode: the evaluation used to demand endless endurance; the waiting becomes the grind that exhausts perseverance into collapse
+  loss: the genuine harvest the endurance might have reached; assessment becomes the grind that breaks the strength before the yield
+  key_terms: obsessive grinding, exhausted endurance, broken perseverance, unreached harvest
+
+dynamic_dependency:
+  mechanism: The 7 needs the 9 to give its patience the stamina to endure the wait; the endurance needs the assessment to judge when the long haul is nearly done
+  function: Pentacles-7 supplies the patient judgment of how much longer the wait must last; Wands-9 supplies the tested endurance that teaches patience the stamina to see investment through
+  integration_outcome: a long investment endured to its harvest with judged stamina; perseverance grounded in a patience that knows when the wait is nearly won
+  key_terms: judged endurance, sustained harvest, grounded patience, won wait
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, 10 of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 7 + 10 = 17 (XVII The Star; patient assessment meets crushing burden; the gardener meets the overloaded)
+elemental_bridge: Earth's patient evaluation meets Fire's crushing load; the assessing eye meets the overburdened
+threshold_type: The load weighed for what is worth carrying; assessment meeting burden
+
+dynamic_genesis:
+  mechanism: The 7's patient assessment helps the 10 weigh which burdens are worth carrying; evaluation sorts the crushing load into what earns its weight and what should be set down
+  process: the long evaluation examines each burden's return; the patience distinguishes the productive load from the dead weight; assessment lightens the overloaded by judging what is worth the carrying
+  outcome: a load lightened by assessment; the crushing burden sorted into what earns its weight and what can be released
+  key_terms: weighed burden, sorted load, lightened carrying, judged weight
+
+dynamic_antagonism:
+  mechanism: The 7's call to pause and assess clashes with the 10's compulsion to keep carrying; evaluation meets a burden too driven to stop and weigh itself
+  tension_axis: pausing to assess the load versus carrying it without question; evaluating the weight versus shouldering on
+  seven_of_pentacles_position: Wants to stop and assess whether the load is worth carrying
+  ten_of_wands_position: Cannot stop to evaluate; the burden must be carried, questioning it only adds weight
+  key_terms: urged pause, demanded carrying, insisted assessment, kept burden
+
+dynamic_inhibition:
+  mechanism: The 10's compulsion to keep carrying refuses the 7's assessment; the driven burden will not pause to be evaluated and lightened
+  blockade_nature: the load cannot be sorted while the carrier refuses to stop and weigh it
+  pentacles_state: the patience cannot reach the overloaded; the assessment is refused by the burden that only carries on
+  consequence: the dead weight is carried needlessly; the 10's compulsion refuses the 7's lightening assessment
+  key_terms: refused assessment, needless weight, driven burden, unlightened load
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into endlessly cataloguing burdens without ever setting any down; patience becomes the audit that adds analysis to the load
+  mode: the evaluation used to study the burden without lightening it; the waiting becomes the cataloguing that only adds to the weight
+  loss: the genuine lightening assessment offered; patience becomes the audit that burdens the burden with more analysis
+  key_terms: obsessive cataloguing, studied burden, added weight, unlightened load
+
+dynamic_dependency:
+  mechanism: The 7 needs the 10 to show it which burdens are real; the overloaded carrier needs the patience to weigh which loads are worth keeping and which to set down
+  function: Pentacles-7 supplies the assessment that sorts the worthy load from the dead weight; Wands-10 supplies the felt burden that teaches assessment which weights are real and pressing
+  integration_outcome: a burden sorted and lightened by patient judgment; the overloaded relieved by an assessment that weighs what is truly worth carrying
+  key_terms: sorted burden, lightened load, grounded assessment, relieved carrying
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, Page of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 7 + 11 = 18 (XVIII The Moon; patient assessment meets youthful enthusiasm; the gardener meets the eager spark)
+elemental_bridge: Earth's patient evaluation meets Fire's eager young flame; the assessing eye meets the burning enthusiasm
+threshold_type: The young fire taught patience; assessment meeting enthusiasm
+
+dynamic_genesis:
+  mechanism: The 7's patience teaches the Page's eager enthusiasm to invest in the long game; assessment shows the young fire that potential rewards steady tending over time
+  process: the long evaluation tempers the burning eagerness with the wisdom of waiting; the patience teaches the Page that great things ripen slowly; assessment channels the enthusiasm into lasting investment
+  outcome: youthful enthusiasm channeled into patient investment; the eager fire taught to tend the long game
+  key_terms: channeled enthusiasm, patient investment, tempered fire, tended potential
+
+dynamic_antagonism:
+  mechanism: The 7's measured patience clashes with the Page's burning impatience; assessment meets an enthusiasm that wants results now, not in seasons
+  tension_axis: the long game versus the immediate blaze; patient investment versus eager impatience
+  seven_of_pentacles_position: Wants the Page to invest patiently and wait for the yield
+  page_of_wands_position: The enthusiasm wants to see results now; the long wait dampens the fire
+  key_terms: urged patience, demanded results, insisted investment, kept eagerness
+
+dynamic_inhibition:
+  mechanism: The 7's insistence on the long wait dampens the Page's burning enthusiasm; the patient evaluation cools the eager fire into discouragement
+  blockade_nature: the young enthusiasm cannot sustain itself under the counsel of endless waiting
+  pentacles_state: the patience smothers the spark; the assessment discourages the eagerness it meant to guide
+  consequence: the enthusiasm burns out in the waiting; the 7's patience extinguishes the Page's fire
+  key_terms: smothered enthusiasm, cooled fire, discouraged eagerness, burned-out spark
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the patience into teaching the young that nothing is ever worth starting; assessment becomes the counsel of delay that kills all enthusiasm
+  mode: the evaluation used to defer every project the Page proposes; the waiting becomes the discouragement that teaches the young to stop trying
+  loss: the genuine potential the enthusiasm carried; patience becomes the discouragement that snuffs young fire
+  key_terms: obsessive deferral, snuffed enthusiasm, discouraging patience, killed potential
+
+dynamic_dependency:
+  mechanism: The 7 needs the Page to keep its patience energized and hopeful; the enthusiasm needs the assessment to channel its fire into investments that last
+  function: Pentacles-7 supplies the patience that turns enthusiasm into lasting investment; Wands-Page supplies the eager fire that teaches assessment to keep its patience energized and hopeful
+  integration_outcome: enthusiasm channeled into patient, lasting investment; young fire grounded in the wisdom of tending the long game
+  key_terms: lasting enthusiasm, energized patience, grounded fire, tended investment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, Knight of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 7 + 12 = 19 (XIX The Sun; patient assessment meets bold action; the gardener meets the adventurer)
+elemental_bridge: Earth's patient evaluation meets Fire's bold charge; the assessing eye meets the headlong adventurer
+threshold_type: The charge tempered by patience; assessment meeting bold action
+
+dynamic_genesis:
+  mechanism: The 7's patience aims the Knight's bold action at the right moment and target; assessment turns headlong charge into well-timed, well-chosen adventure
+  process: the long evaluation chooses where the bold action should strike; the patience times the charge for greatest effect; assessment makes the adventure deliberate rather than reckless
+  outcome: bold action aimed and timed by patience; the headlong charge made deliberate and effective
+  key_terms: aimed charge, timed action, deliberate adventure, effective boldness
+
+dynamic_antagonism:
+  mechanism: The 7's pause to assess clashes with the Knight's headlong charge; patience meets an action that will not wait to be evaluated
+  tension_axis: the assessing pause versus the headlong charge; evaluating first versus acting now
+  seven_of_pentacles_position: Wants to assess before the bold action commits
+  knight_of_wands_position: The charge cannot wait for evaluation; bold action seizes what patience forfeits
+  key_terms: urged assessment, demanded charge, insisted patience, kept action
+
+dynamic_inhibition:
+  mechanism: The 7's evaluation stalls the Knight's bold charge; the assessment holds back the action until the adventurous moment is lost
+  blockade_nature: the bold charge cannot launch while every move must first be assessed
+  pentacles_state: the patience becomes the brake; the assessment stalls the action it meant to aim
+  consequence: the adventure stalls; the 7's evaluation forfeits the moment the Knight would have seized
+  key_terms: stalled charge, braking patience, forfeited moment, held action
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into perpetual hesitation that never charges; patience becomes the caution that watches every bold moment pass
+  mode: the evaluation used to defer all action forever; the waiting becomes the timidity that never dares the adventure
+  loss: the genuine boldness the charge could have spent well; assessment becomes the hesitation that never acts
+  key_terms: obsessive hesitation, deferred charge, timid patience, forfeited adventure
+
+dynamic_dependency:
+  mechanism: The 7 needs the Knight to spend its patience in decisive action; the bold charge needs the assessment to aim and time it for real effect
+  function: Pentacles-7 supplies the patient judgment that aims and times the charge; Wands-Knight supplies the bold action that teaches assessment to commit decisively once the target is clear
+  integration_outcome: bold action aimed and timed by patient judgment; adventure grounded in an assessment that commits decisively at the right moment
+  key_terms: aimed adventure, decisive charge, grounded patience, timed boldness
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, Queen of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 7 + 13 = 20 (XX Judgement; patient assessment meets magnetic leadership; the gardener meets the charismatic)
+elemental_bridge: Earth's patient evaluation meets Fire's radiant magnetism; the assessing eye meets the charismatic leader
+threshold_type: The long vision behind the charisma; assessment meeting magnetic leadership
+
+dynamic_genesis:
+  mechanism: The 7's patience gives the Queen's charisma the substance of long-tended results; assessment lends the magnetic leadership the credibility of demonstrated, patient achievement
+  process: the long evaluation backs the Queen's charisma with proven results; the patience gives the magnetism something real behind its shine; assessment becomes the substance that makes the leadership trustworthy
+  outcome: charisma made substantial by patient achievement; magnetic leadership grounded in long-tended, proven results
+  key_terms: substantial charisma, proven results, grounded leadership, patient achievement
+
+dynamic_antagonism:
+  mechanism: The 7's quiet patience clashes with the Queen's radiant immediacy; assessment meets a charisma that dazzles now while the gardener still evaluates
+  tension_axis: the quiet long evaluation versus the radiant immediate magnetism; patient substance versus dazzling presence
+  seven_of_pentacles_position: Wants results assessed and proven before they are presented with shine
+  queen_of_wands_position: Charisma inspires now; the slow assessment dims the radiance that leads
+  key_terms: urged substance, defended radiance, insisted assessment, kept magnetism
+
+dynamic_inhibition:
+  mechanism: The Queen's dazzling immediacy outshines the 7's slow substance; the charisma leads on shine before the patient results can be assessed
+  blockade_nature: the long evaluation cannot keep pace with a magnetism that wins on radiance alone
+  pentacles_state: the patience is eclipsed by the shine; the assessment's substance goes unseen beneath the charisma
+  consequence: the leadership runs on shine without proven substance; the 7's patient results are eclipsed by the Queen's dazzle
+  key_terms: eclipsed substance, unseen results, outshone patience, hollow shine
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into charisma with nothing behind it; the magnetism leads on dazzle while the assessment is abandoned, or the patience kills all the shine
+  mode: the evaluation discarded for pure radiance, or the radiance smothered by endless assessment; either the substance or the shine is lost
+  loss: the union of proven substance and inspiring shine; the leadership becomes either hollow dazzle or joyless evaluation
+  key_terms: obsessive dazzle, hollow charisma, smothered shine, lost substance
+
+dynamic_dependency:
+  mechanism: The 7 needs the Queen to give its patient results inspiring presentation; the charisma needs the assessment to back its magnetism with proven substance
+  function: Pentacles-7 supplies the patient substance that makes charisma credible; Wands-Queen supplies the magnetic leadership that teaches assessment to present its results with inspiring shine
+  integration_outcome: charisma grounded in proven substance and patient results presented with inspiring shine; leadership both radiant and real
+  key_terms: credible charisma, presented substance, grounded leadership, radiant results
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW
+
+---
+
+card_pair: 7 of Pentacles, King of Wands
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 7 + 14 = 21 (XXI The World; patient assessment meets commanding vision; the gardener meets the visionary king)
+elemental_bridge: Earth's patient evaluation meets Fire's commanding vision; the assessing eye serves the visionary king
+threshold_type: The long view in service of vision; assessment meeting commanding power
+
+dynamic_genesis:
+  mechanism: The King's commanding vision gives the 7's patient assessment a grand purpose to serve; evaluation becomes the long husbandry that builds the visionary's lasting realm
+  process: the long evaluation is marshaled to the King's vision; the patience tends the slow growth the vision requires; assessment becomes the patient strategy that realizes commanding dominion over time
+  outcome: a vision realized through patient assessment; commanding dominion built on long, evaluated husbandry
+  key_terms: realized vision, patient strategy, built dominion, tended realm
+
+dynamic_antagonism:
+  mechanism: The 7's cautious evaluation clashes with the King's decisive command; assessment meets an authority impatient with the gardener's endless weighing
+  tension_axis: the cautious evaluation versus the decisive command; weighing longer versus ruling now
+  seven_of_pentacles_position: Wants to assess thoroughly before the vision commits
+  king_of_wands_position: The vision commands decisively; endless assessment frustrates the realm's advance
+  key_terms: urged decision, defended evaluation, insisted command, kept assessment
+
+dynamic_inhibition:
+  mechanism: The King's decisive command overrides the 7's careful assessment; the authority commits the realm before the evaluation can complete
+  blockade_nature: the careful assessment cannot finish while command commits the vision prematurely
+  pentacles_state: the patience is overruled; the assessment is cut short by the King's impatient command
+  consequence: the realm commits on incomplete assessment; the 7's careful evaluation is overridden by the King's decisive vision
+  key_terms: overruled assessment, premature command, cut-short patience, hasty dominion
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into a vision pursued without grounded assessment, or a patience that paralyzes all command; either the realm overreaches blindly or it never advances
+  mode: the command discarding evaluation for blind ambition, or the assessment freezing the vision into endless study; either the dominion overreaches or it stalls
+  loss: the union of grand vision and patient grounding; the realm becomes either blind overreach or frozen evaluation
+  key_terms: obsessive overreach, blind command, frozen vision, ungrounded dominion
+
+dynamic_dependency:
+  mechanism: The 7 needs the King to give its assessment a commanding purpose; the vision needs the patience to ground its dominion in careful, sustainable evaluation
+  function: Pentacles-7 supplies the patient assessment that grounds the vision in sustainable reality; Wands-King supplies the commanding vision that teaches assessment to serve a grand, realizable dominion
+  integration_outcome: a commanding vision realized on patient, grounded assessment; dominion built through long, evaluated husbandry
+  key_terms: grounded vision, sustainable dominion, patient strategy, realized command
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPW

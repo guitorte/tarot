@@ -10,58 +10,36 @@ devolution, dependency (the source instructions in `pairing/context.md`: X engen
 conflicts-with / stagnates-before / reduces-to / needs Y). Output is a machine-readable
 `key: value` block format defined by `FORMAT_SPEC.md`.
 
-## CURRENT STATE — Phase 3 IN PROGRESS 🔄 (106/106; Pentacles Ace–9 complete)
+## CURRENT STATE — Phase 3 IN PROGRESS 🔄 (112/138 files conformant)
 
-### Phase 1 COMPLETE ✅ (56/56)
-All minor-suit Swords pairings are spec-conformant at v1.3.
+`python3 pairing/validate.py pairing/swords/*.txt pairing/pentacles/*.txt` → **`PASS: 112 file(s)`** (exit 0).
+Total target for Phase 3 completion: 70 Swords + 56 Pentacles = 126 (then optional Pentacles-majors).
 
-- 13 numbered+court primaries (2–King) × 4 target suits = 52 files.
-- 4 Ace-of-Swords-primary files (`ace_to_{pentacles,cups,wands,swords}`).
-- Each minor file = 14 blocks (Ace→King of the target suit).
-- Same-suit files (`*_to_swords`) use `archetype_swords_1/_2` and, for a card meeting itself,
-  `swords_position_1/_2`.
+### Phase 1 COMPLETE ✅ (56 Swords minor files)
+13 numbered+court primaries (2–King) × 4 target suits = 52, plus 4 Ace-of-Swords-primary files.
+Each = 14 blocks (Ace→King of the target suit). All spec-conformant at v1.3.
 
-### Phase 2 COMPLETE ✅ (14/14 major files)
-`python3 pairing/validate.py` → **`PASS: 70 file(s) conformant.`** (exit 0).
+### Phase 2 COMPLETE ✅ (14 Swords × Major files, 308 blocks)
+All `pairing/swords/<card>_to_major.txt` (ace, 2…10, page, knight, queen, king) done, 22 blocks
+each (The Fool 0 → The World 21). Swords total = **70 files**. (Note: `3_to_major.txt` still uses
+the old inverted perspective — see legacy note at end; rewrite only when user confirms.)
 
-All Swords × Major Arcana files completed (in `pairing/swords/`):
-- ✅ `ace_to_major.txt` — Ace of Swords × 22 Majors
-- ✅ `2_to_major.txt` — 2 of Swords × 22 Majors
-- ⚠️ `3_to_major.txt` — 3 of Swords × 22 Majors (**uses old perspective — see note below**)
-- ✅ `4_to_major.txt` — 4 of Swords × 22 Majors
-- ✅ `5_to_major.txt` — 5 of Swords × 22 Majors
-- ✅ `6_to_major.txt` — 6 of Swords × 22 Majors (The Traveler archetype)
-- ✅ `7_to_major.txt` — 7 of Swords × 22 Majors (The Thief archetype)
-- ✅ `8_to_major.txt` — 8 of Swords × 22 Majors (The Bound One archetype)
-- ✅ `9_to_major.txt` — 9 of Swords × 22 Majors (The Tormented archetype)
-- ✅ `10_to_major.txt` — 10 of Swords × 22 Majors (The Ruined, The Defeated Utterly, Final Devastation)
-- ✅ `page_to_major.txt` — Page of Swords × 22 Majors (The Messenger, The Youthful Truth, New Thought)
-- ✅ `queen_to_major.txt` — Queen of Swords × 22 Majors (The Discerning Mind, Sovereignty Clarity)
-- ✅ `knight_to_major.txt` — Knight of Swords × 22 Majors (The Pursuer, The Wind Rider, Truth In Motion)
-- ✅ `king_to_major.txt` — King of Swords × 22 Majors (The Enthroned Mind, Thought That Commands)
+### Phase 3 IN PROGRESS 🔄 — PENTACLES as a new primary suit (42 of 56 files)
+The validator is **primary-suit-aware**: it derives the primary suit from the parent directory
+(`pairing/<suit>/`), so all suit-specific tokens (field names, uid infix, elemental_primary,
+card_pair) follow. The 70 Swords files stay green.
 
-**All 14 Swords cards now complete with full 22-block Major Arcana pairings (308 blocks total).**
-**Verify:** `python3 pairing/validate.py` prints 70/70 (56 Phase 1 + 14 Phase 2 Swords-to-Major).
+Pentacles-primary files completed (in `pairing/pentacles/`):
+- ✅ **Ace–10 of Pentacles: ALL 40 files complete** (each card × 4 suits, 14 blocks/file).
+  UIDs follow `<Rank>OP<Target>`: e.g. AOPC…AOPP, 2OPC…2OPP, … XOPC/XOPW/XOPS/XOPP (10 = `X`).
+- 🔄 **Page of Pentacles: 1/4** — `page_to_cups.txt` only (uid `POPC`, 14 blocks).
+  Rank char = `P`. Still need: `page_to_wands` (POPW), `page_to_swords` (POPS), `page_to_pentacles` (POPP).
+- 🔄 **Knight of Pentacles: 1/4** — `knight_to_cups.txt` only (uid `NOPC`, 14 blocks).
+  Rank char = `N` (Knight, NOT `K`). Still need: `knight_to_wands` (NOPW), `knight_to_swords` (NOPS), `knight_to_pentacles` (NOPP).
+- ⬜ **Queen of Pentacles: 0/4** — rank char `Q` → QOPC/QOPW/QOPS/QOPP.
+- ⬜ **King of Pentacles: 0/4** — rank char `K` → KOPC/KOPW/KOPS/KOPP.
 
-### Phase 3 IN PROGRESS 🔄 — PENTACLES as a new primary suit
-`python3 pairing/validate.py` now scans **every `pairing/*/*_to_*.txt`** (not just swords).
-The validator is **primary-suit-aware**: it derives the primary suit from the parent
-directory, so all suit-specific tokens (field names, uid infix, elemental_primary, card_pair)
-follow. The Swords 70 stay green; 36 new Pentacles files bring the total to **106/106**.
-
-Pentacles-primary files completed (in `pairing/pentacles/`) — Ace through 9, each as a
-full four-file set (`_to_cups`/`_wands`/`_swords`/`_pentacles`), 14 blocks apiece:
-- ✅ Ace of Pentacles (uids AOPC / AOPW / AOPS / AOPP)
-- ✅ 2 of Pentacles (uids 2OPC / 2OPW / 2OPS / 2OPP)
-- ✅ 3 of Pentacles (uids 3OPC / 3OPW / 3OPS / 3OPP)
-- ✅ 4 of Pentacles (uids 4OPC / 4OPW / 4OPS / 4OPP)
-- ✅ 5 of Pentacles (uids 5OPC / 5OPW / 5OPS / 5OPP)
-- ✅ 6 of Pentacles (uids 6OPC / 6OPW / 6OPS / 6OPP)
-- ✅ 7 of Pentacles (uids 7OPC / 7OPW / 7OPS / 7OPP)
-- ✅ 8 of Pentacles (uids 8OPC / 8OPW / 8OPS / 8OPP)
-- ✅ 9 of Pentacles (uids 9OPC / 9OPW / 9OPS / 9OPP)
-
-**Remaining (5 cards, 20 files): 10, Page, Knight, Queen, King.**
+**Remaining to finish Pentacles primary: 14 files (196 blocks)** — Page 3/4, Knight 3/4, Queen 4/4, King 4/4.
 
 Same-suit (`*_to_pentacles`) note: the self-pairing block (e.g. 9+9) sits at its ordinal
 position (block 9 for the 9-card) and uses `pentacles_position_1/_2`; all other blocks use
@@ -81,26 +59,33 @@ target-element `ontology`, and the canonical §15.3 `archetype_pentacles` table.
 rule holds: **the Pentacles card is always X**, the generating force (Ace of Pentacles → Y,
 never Y → Ace of Pentacles).
 
-## NEXT — continue Phase 3 (Pentacles primary, 10 → King)
-1. `python3 pairing/validate.py` → confirm 106/106.
-2. Read `FORMAT_SPEC.md` §15 (and §2/§8 for the skeleton and quality bar).
-3. Author the remaining Pentacles primaries: 10, page, knight, queen, king — each
-   four files (`_to_cups/_wands/_swords/_pentacles`), 14 blocks each. Validator after each;
-   commit per card or small group. Secondary archetype lines come verbatim from the existing
-   Pentacles pairing files (grep `^archetype_<suit>:` in any completed `*_to_<suit>.txt`).
-   Same-suit files: the self-pairing block sits at the card's ordinal position, not block 1.
-   Workflow that's been working: author cups+wands → validate → commit+push; then
-   swords+pentacles → validate → commit+push. Each file is ~700 lines / 14 blocks.
-   The primary archetype line for the remaining cards (from §15.3 / existing files):
-   - 10 of Pentacles: `Legacy, inheritance, family wealth, generational continuity, established foundation`
-   - Page of Pentacles: `Curiosity, material learning, practical exploration, earthy apprentice, grounded potential`
-   - Knight of Pentacles: `Dedication, reliable service, steady work, methodical action, trustworthy effort`
-   - Queen of Pentacles: `Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management`
-   - King of Pentacles: `Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship`
-4. Optional later: Pentacles × Major Arcana, then Cups-primary / Wands-primary lineages (each
-   needs its own §15.3-style table added to the spec and to `validate.py`'s `ARCH_PRIMARY`).
-5. Legacy: Swords `3_to_major.txt` still uses the inverted perspective; rewrite only when the
-   user confirms.
+## NEXT — finish Phase 3 Pentacles courts (14 files: Page 3/4, Knight 3/4, Queen 4/4, King 4/4)
+1. Baseline check: `python3 pairing/validate.py pairing/swords/*.txt pairing/pentacles/*.txt` → should print 112.
+2. Read `FORMAT_SPEC.md` §15 (Pentacles spec) + §2/§8 (skeleton + quality bar) before authoring.
+3. Finish **Page** (3 files): `page_to_wands` (POPW), `page_to_swords` (POPS), `page_to_pentacles` (POPP).
+   - `archetype_pentacles`: `Curiosity, material learning, practical exploration, earthy apprentice, grounded potential`
+4. Finish **Knight** (3 files): `knight_to_wands` (NOPW), `knight_to_swords` (NOPS), `knight_to_pentacles` (NOPP).
+   - `archetype_pentacles`: `Dedication, reliable service, steady work, methodical action, trustworthy effort`
+5. **Queen** (4 files, QOP*): `Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management`
+6. **King** (4 files, KOP*): `Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship`
+7. Secondary (target) archetype lines: copy verbatim from any completed pairing file — e.g.
+   `grep '^archetype_wands:' pairing/pentacles/10_to_wands.txt` gives all 14 Wands lines in order; same for
+   `_swords` / `_cups`. Same-suit `_to_pentacles` uses `archetype_pentacles_1/_2` (grep `10_to_pentacles.txt`).
+8. **Court numerical_relation digit-reduction (CHECK EVERY ADDITION):** courts push sums past 21.
+   - Page = 11: `11 + 11 = 22 → 2+2=4 (IV)`, `11 + 12 = 23 → 2+3=5 (V)`, `11 + 13 = 24 → 2+4=6 (VI)`, `11 + 14 = 25 → 2+5=7 (VII)`.
+   - Knight = 12: `12 + 10 = 22 → 4`, `12 + 12 = 24 → 6`, `12 + 13 = 25 → 7`, `12 + 14 = 26 → 2+6=8 (VIII)`.
+   - Queen = 13: `13 + 9 = 22 → 4`, `13 + 11 = 24 → 6`, `13 + 13 = 26 → 8`, `13 + 14 = 27 → 2+7=9 (IX)`.
+   - King = 14: `14 + 8 = 22 → 4`, `14 + 10 = 24 → 6`, `14 + 12 = 26 → 8`, `14 + 14 = 28 → 2+8=10 (X)`.
+   Use Marseille trumps (§4.1): 8=Justice, 11=Strength. Validator enforces the reduction form.
+9. Same-suit files: the self-pairing block sits at the card's **ordinal** position (block 11 for Page,
+   12 Knight, 13 Queen, 14 King = the last block) and uses `pentacles_position_1/_2`; all other blocks
+   use named labels (`page_of_pentacles_position`, etc.). Every block uses `archetype_pentacles_1/_2`.
+10. Workflow that's worked: author one file → `python3 pairing/validate.py <file>` → fix uid/arith →
+    commit per file or pair → push `git push -u origin claude/quirky-davinci-n9f3p0`. Each file ~700 lines.
+11. After all 14: validator should read **126** across swords+pentacles. Then optionally Pentacles × Major
+    Arcana (validator already generalized via parent-dir branch), then Cups-/Wands-primary lineages
+    (each needs its own §15.3-style `archetype_<suit>` table added to the spec and `validate.py`'s `ARCH_PRIMARY`).
+12. Legacy: Swords `3_to_major.txt` uses the inverted perspective; rewrite only when the user confirms.
 
 ### ⚠️ CRITICAL — Directional Perspective Rule (locked after 2_to_major.txt rewrite)
 **The Swords card is ALWAYS the primary/generating force.** Order matters:

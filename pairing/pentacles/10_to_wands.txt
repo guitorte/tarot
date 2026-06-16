@@ -1,0 +1,697 @@
+card_pair: 10 of Pentacles, Ace of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 10 + 1 = 11 (XI Strength; legacy meets creative spark; the established foundation meets visionary fire)
+elemental_bridge: Earth's generational wealth meets Fire's creative potential; the inherited structure meets the inspired spark
+threshold_type: The legacy ignited by new vision; inheritance meeting creative fire
+
+dynamic_genesis:
+  mechanism: The Ace's creative spark revitalizes the 10's legacy; new enterprise offers the established foundation fresh direction and inspired purpose
+  process: the family inheritance is energized by the visionary fire; the generational wealth finds new applications and expressions; the solid structure becomes the foundation from which great new enterprises can launch
+  outcome: legacy revitalized by creative purpose; the inheritance given dynamic new direction through inspired vision
+  key_terms: revitalized legacy, inspired enterprise, dynamic inheritance, visionary foundation
+
+dynamic_antagonism:
+  mechanism: The 10's careful preservation clashes with the Ace's reckless creative impulse; the established foundation resists the transformative passion the spark demands
+  tension_axis: the conservative inheritance versus the revolutionary spark; the preservation of tradition versus the demand for creative transformation
+  ten_of_pentacles_position: The legacy must be carefully sustained; the passionate innovation threatens generational stability
+  ace_of_wands_position: Creation demands freedom; the rigid inheritance is a cage for creative fire
+  key_terms: urged innovation, defended tradition, insisted creation, kept stability
+
+dynamic_inhibition:
+  mechanism: The 10's rigid structures suffocate the Ace's creative fire; the legacy cannot be reorganized to accommodate visionary enterprise
+  blockade_nature: the creative spark cannot burn freely within the constraints of inherited protocol
+  pentacles_state: the foundation becomes stifling; the established structure turns into the restraint that dampens creative impulse
+  consequence: the inspiration is contained; the 10's legacy walls out the Ace's creative potential
+  key_terms: contained fire, stifled creation, dampened spark, caged inspiration
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a structure that enforces conformity against creative impulse; the inheritance becomes the weapon against innovation
+  mode: the established foundation used to punish those who would transform it; the legacy becomes the system that crushes visionary fire
+  loss: the genuine creative transformation the Ace offered; the inheritance becomes the dead structure that persecutes the spark
+  key_terms: persecuted creation, crushed vision, deadened tradition, enforced conformity
+
+dynamic_dependency:
+  mechanism: The 10 needs the Ace to revitalize its legacy with new creative direction; the spark needs the established foundation to provide material substance for ambitious vision
+  function: Pentacles-10 supplies the material foundation and stability that allows creative enterprise to flourish; Wands-Ace supplies the visionary inspiration that prevents the legacy from stagnating
+  integration_outcome: a legacy revitalized by new creative purpose; the inheritance that serves as both anchor and launching ground for inspired enterprise
+  key_terms: creative legacy, inspired enterprise, dynamic inheritance, visionary foundation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, 2 of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 10 + 2 = 12 (XII The Hanged Man; legacy meets personal power; the established foundation meets visionary dominion)
+elemental_bridge: Earth's generational structure meets Fire's expanding power; the inherited authority meets the visionary choice
+threshold_type: The legacy expanded by personal power; inheritance meeting expansive vision
+
+dynamic_genesis:
+  mechanism: The 2's visionary power shows the 10 that the legacy can expand beyond its original form; personal dominion offers the inheritance new territories to cultivate
+  process: the family wealth is directed toward new expansion; the generational structure provides the base from which ambitious vision can launch; the inheritance becomes the foundation for greater personal power
+  outcome: legacy expanded through visionary choice; the inheritance given new territories through personal dominion
+  key_terms: expanded legacy, visionary inheritance, ambitious foundation, powerful expansion
+
+dynamic_antagonism:
+  mechanism: The 10's obligation to preserve clashes with the 2's drive to expand and transform; the fixed inheritance seems too cautious for the ambitious vision
+  tension_axis: the preservation of legacy versus the expansion of dominion; the fixed duty versus the visionary choice
+  ten_of_pentacles_position: The inheritance must be carefully preserved; expansion threatens the integrity of what was built
+  two_of_wands_position: Vision demands expansion; the static inheritance is beneath the scope of personal power
+  key_terms: urged expansion, defended preservation, insisted vision, kept foundation
+
+dynamic_inhibition:
+  mechanism: The 10's structural constraints prevent the 2's full expansive power; the legacy's protocols limit the scope of personal dominion
+  blockade_nature: the visionary expansion cannot proceed while bound by inherited structures and obligations
+  pentacles_state: the foundation becomes restrictive; the established structure turns into the constraint that limits personal power
+  consequence: the expansion is thwarted; the 10's legacy prevents the 2's ambitious vision
+  key_terms: limited power, restricted vision, thwarted expansion, constrained ambition
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into an obstacle that blocks necessary expansion; the inheritance becomes the barrier to greater dominion
+  mode: the established foundation used to prevent growth; the legacy becomes the system that enforces stasis against natural expansion
+  loss: the genuine expansion the 2 offers; the inheritance becomes the dead weight that crushes visionary power
+  key_terms: blocking inheritance, crushed vision, thwarted dominion, stagnant legacy
+
+dynamic_dependency:
+  mechanism: The 10 needs the 2 to show that the legacy can expand and grow; the visionary power needs the inheritance to provide the foundation from which ambitious dominion can sustainably spread
+  function: Pentacles-10 supplies the established foundation and resources that allow visionary expansion to take root; Wands-2 supplies the ambitious vision that keeps the legacy from becoming static
+  integration_outcome: a legacy that expands while remaining grounded; the inheritance that serves as the foundation for greater personal power
+  key_terms: expanding legacy, grounded vision, ambitious inheritance, powerful foundation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, 3 of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 10 + 3 = 13 (XIII Death; legacy meets foresight; the established foundation meets visionary growth)
+elemental_bridge: Earth's generational continuity meets Fire's enterprising vision; the inherited foundation meets collaborative growth
+threshold_type: The legacy that grows through enterprise; inheritance meeting forward movement
+
+dynamic_genesis:
+  mechanism: The 3's enterprising foresight energizes the 10's legacy; collaborative vision shows how the inheritance can grow through coordinated effort
+  process: the family wealth is mobilized for shared enterprise; the generational structure becomes the vehicle for collaborative vision; the inheritance is reinvigorated through forward-looking growth
+  outcome: legacy energized by enterprising collaboration; the inheritance given dynamic direction through foresight
+  key_terms: enterprising legacy, collaborative inheritance, mobile wealth, visionary foundation
+
+dynamic_antagonism:
+  mechanism: The 10's focus on conservation clashes with the 3's drive toward growth; the established foundation seems too cautious for the demanded forward movement
+  tension_axis: the preservation of legacy versus the growth of enterprise; standing guard versus moving forward
+  ten_of_pentacles_position: The inheritance must be carefully guarded; growth threatens stability
+  three_of_wands_position: Vision demands growth; the static inheritance is incapable of forward movement
+  key_terms: urged growth, defended preservation, insisted movement, kept foundation
+
+dynamic_inhibition:
+  mechanism: The 10's structural constraints prevent the 3's growth; the protocols of inheritance block the forward momentum vision requires
+  blockade_nature: the enterprise cannot move forward while bound by inherited conservative practices
+  pentacles_state: the foundation becomes an anchor; the established structure turns into the weight that prevents growth
+  consequence: the movement stalls; the 10's legacy prevents the 3's visionary growth
+  key_terms: stalled growth, anchored enterprise, blocked movement, static inheritance
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a force that resists necessary change and growth; the inheritance becomes the rigid system that demands stasis
+  mode: the established foundation used to enforce conservative practices; the legacy becomes the ideology that punishes growth and forward movement
+  loss: the genuine collaborative growth the 3 offers; the inheritance becomes the dead weight that crushes future possibility
+  key_terms: enforced stasis, crushed growth, deadened vision, resistant legacy
+
+dynamic_dependency:
+  mechanism: The 10 needs the 3 to show that the legacy can grow while remaining continuous; the enterprise needs the inheritance to provide the foundation from which forward movement can sustainably build
+  function: Pentacles-10 supplies the stable foundation that allows growth to take root and continue; Wands-3 supplies the forward-looking vision that keeps the legacy from calcifying
+  integration_outcome: a legacy that grows while remaining rooted; the inheritance that continues into the future through collaborative enterprise
+  key_terms: growing legacy, grounded vision, continuous inheritance, enterprising foundation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, 4 of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 10 + 4 = 14 (XIV Temperance; legacy meets celebration; the established foundation meets joyful harmony)
+elemental_bridge: Earth's generational structure meets Fire's harmonious celebration; the inherited wealth meets communal joy
+threshold_type: The legacy celebrated; inheritance meeting establishment of harmony
+
+dynamic_genesis:
+  mechanism: The 4's celebratory harmony honors the 10's legacy; the established joy acknowledges the foundation that made community possible
+  process: the family inheritance provides the security for genuine celebration; the generational wealth is gathered for the feast; the legacy becomes the occasion for communal harmony
+  outcome: legacy celebrated and honored; the inheritance expressed through joyful community
+  key_terms: honored legacy, celebratory inheritance, communal wealth, established joy
+
+dynamic_antagonism:
+  mechanism: The 10's solemn guardianship clashes with the 4's festive lightness; the serious duty of preservation seems incompatible with uninhibited celebration
+  tension_axis: the serious preservation of legacy versus the festive joy of community; duty versus delight
+  ten_of_pentacles_position: The inheritance must be guarded vigilantly; the festive celebration risks squandering what generations built
+  four_of_wands_position: Joy and community are the purpose of establishment; the solemn inheritance kills the celebration it should enable
+  key_terms: urged celebration, defended duty, insisted joy, kept vigilance
+
+dynamic_inhibition:
+  mechanism: The 10's grave stewardship prevents the 4's full celebration; the legacy's weight constrains the joy that harmony requires
+  blockade_nature: the communal joy cannot flow freely while the inheritance is treated as a burden to guard
+  pentacles_state: the foundation becomes heavy; the established structure turns into the weight that crushes festive spirit
+  consequence: the celebration is constrained; the 10's seriousness prevents the 4's full joyful harmony
+  key_terms: constrained joy, heavy legacy, burdened inheritance, grave foundation
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a system so preoccupied with preservation that it cannot celebrate what it has; the inheritance becomes the burden that kills its own purpose
+  mode: the generational wealth used to create anxiety rather than security; the foundation becomes the source of the very insecurity it was meant to prevent
+  loss: the genuine joy and celebration the inheritance could enable; the legacy becomes the neurotic vigilance that extracts the celebration from community
+  key_terms: obsessive guardianship, extracted joy, anxious legacy, burdened abundance
+
+dynamic_dependency:
+  mechanism: The 10 needs the 4 to show that the legacy's purpose is joyful community; the celebration needs the inheritance to provide the foundation that makes true establishment possible
+  function: Pentacles-10 supplies the security and continuity that allows genuine celebration and community; Wands-4 supplies the harmonious joy that transforms the legacy from burden into gift
+  integration_outcome: a legacy celebrated and lived; the inheritance that enables both continuity and genuine communal joy
+  key_terms: celebratory legacy, joyful inheritance, communal foundation, established harmony
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, 5 of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Conflict, competition, struggle, contested victory
+numerical_relation: 10 + 5 = 15 (XV The Devil; legacy meets conflict; the established foundation meets contested struggle)
+elemental_bridge: Earth's stable inheritance meets Fire's combative struggle; the grounded foundation meets competitive conflict
+threshold_type: The legacy divided by conflict; inheritance meeting struggle
+
+dynamic_genesis:
+  mechanism: The 10's established foundation can contain the 5's conflict without being destroyed; solid structure provides the ground upon which struggle can be resolved
+  process: the family wealth is enough that competition can be aired without destroying the inheritance; the generational structure survives the conflict; the legacy becomes the container within which competing visions can eventually reconcile
+  outcome: conflict contained within legacy; the inheritance strong enough to survive internal struggle
+  key_terms: contained conflict, surviving legacy, grounded struggle, enduring foundation
+
+dynamic_antagonism:
+  mechanism: The 10's insistence on unity clashes with the 5's inevitable competition; the legacy demands everyone move together while struggle says some will contend
+  tension_axis: the unified legacy versus internal conflict; collective preservation versus individual competitive drive
+  ten_of_pentacles_position: The inheritance requires unity; internal conflict threatens continuity
+  five_of_wands_position: Competition is natural; the forced unity of legacy crushes individual strength
+  key_terms: urged unity, defended competition, insisted harmony, kept struggle
+
+dynamic_inhibition:
+  mechanism: The 10's demand for unity suppresses the 5's natural competition; the legacy cannot tolerate the conflict resolution requires
+  blockade_nature: the struggle cannot be openly addressed while the inheritance demands pretense of perfect harmony
+  pentacles_state: the foundation becomes brittle; the established structure turns into the fragile facade that will eventually shatter
+  consequence: the conflict festers; the 10's suppression prevents real resolution
+  key_terms: festering conflict, brittle facade, suppressed struggle, fragile inheritance
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a system that punishes internal competition; the inheritance becomes the weapon that enforces conformity against natural struggle
+  mode: the generational wealth used as leverage to crush dissent; the foundation becomes the system that uses inheritance as punishment
+  loss: the genuine resolution conflict could offer; the legacy becomes the system that perpetuates underlying competition through enforced silence
+  key_terms: weaponized legacy, enforced silence, perpetuated conflict, crushed competition
+
+dynamic_dependency:
+  mechanism: The 10 needs the 5 to show that the legacy can survive genuine internal conflict; the competition needs the inheritance to provide the ground upon which disputes can be resolved without destroying continuity
+  function: Pentacles-10 supplies the stable foundation that can contain conflict without being destroyed; Wands-5 supplies the honest struggle that keeps the legacy from becoming a facade
+  integration_outcome: a legacy that survives and transcends internal conflict; the inheritance strong enough to contain competition and emerge transformed
+  key_terms: surviving legacy, contained conflict, honest struggle, enduring foundation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, 6 of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 10 + 6 = 16 (XVI The Tower; legacy meets victory; the established foundation meets public achievement)
+elemental_bridge: Earth's generational continuity meets Fire's triumphant success; the inherited foundation meets recognized victory
+threshold_type: The legacy that achieves public honor; inheritance meeting worldly success
+
+dynamic_genesis:
+  mechanism: The 10's established foundation makes possible the 6's public achievement; the legacy provides the ground from which sustained success can be recognized and honored
+  process: the family inheritance enables the work that wins recognition; the generational structure provides the stability from which excellence can emerge; the legacy becomes the foundation that allows true achievement
+  outcome: legacy honored through genuine achievement; the inheritance proven through public success
+  key_terms: honored legacy, achieved inheritance, recognized foundation, successful family
+
+dynamic_antagonism:
+  mechanism: The 10's private stewardship clashes with the 6's public acclaim; the legacy must remain discreetly managed while success demands the light of recognition
+  tension_axis: the private inheritance versus public victory; stealth versus recognition
+  ten_of_pentacles_position: The legacy must be carefully managed away from public scrutiny; public achievement threatens privacy
+  six_of_wands_position: Success demands recognition; the hidden inheritance is ashamed of its own achievement
+  key_terms: urged recognition, defended privacy, insisted triumph, kept stealth
+
+dynamic_inhibition:
+  mechanism: The 10's secrecy prevents the 6's full recognition; the legacy's insistence on discretion dampens the light of genuine achievement
+  blockade_nature: the victory cannot be fully celebrated while the inheritance demands discretion and privacy
+  pentacles_state: the foundation becomes hidden; the established wealth turns into the secret shame that cannot acknowledge its own success
+  consequence: the recognition is muted; the 10's privacy prevents the 6's full triumph
+  key_terms: muted victory, hidden achievement, ashamed success, secret foundation
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a system that hides behind false humility; the inheritance becomes the secret shame that despises the very success it enables
+  mode: the generational wealth used to build from the shadows while despising those who step into public light; the foundation becomes the anonymous resentment of acknowledged achievement
+  loss: the genuine success the 6 represents; the legacy becomes the system that punishes visible achievement as vulgarity
+  key_terms: hidden resentment, despised triumph, shameful success, secret envy
+
+dynamic_dependency:
+  mechanism: The 10 needs the 6 to show that the legacy's success deserves acknowledgment; the recognition needs the inheritance to provide the foundation from which true achievement can endure
+  function: Pentacles-10 supplies the stable foundation that makes sustained public achievement possible; Wands-6 supplies the public recognition that honors what the legacy has enabled
+  integration_outcome: a legacy honored through genuine achievement; the inheritance publicly acknowledged through sustained success
+  key_terms: honored legacy, recognized foundation, acknowledged inheritance, public success
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, 7 of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 10 + 7 = 17 (XVII The Star; legacy meets challenge; the established foundation meets defensive stand)
+elemental_bridge: Earth's entrenched inheritance meets Fire's challenging resilience; the grounded foundation meets the tested stance
+threshold_type: The legacy under siege; inheritance meeting defensive necessity
+
+dynamic_genesis:
+  mechanism: The 10's established foundation gives the 7 the ground to stand upon; the legacy provides the secure position from which to defend what matters
+  process: the family inheritance creates the territory worth defending; the generational structure provides the resources for sustained resistance; the legacy becomes the ground that enables righteous challenge
+  outcome: legacy defended through resilient stance; the inheritance proven through the willingness to maintain its position
+  key_terms: defended legacy, grounded resilience, sustained stand, tested foundation
+
+dynamic_antagonism:
+  mechanism: The 10's desire for peace clashes with the 7's necessary antagonism; the legacy wants harmony while the challenge demands confrontation
+  tension_axis: the peaceful inheritance versus the combative necessity; acceptance versus defensive resistance
+  ten_of_pentacles_position: The legacy should not require constant defense; the challenge threatens peaceful succession
+  seven_of_wands_position: The position must be defended; the inherited peace is naive about the antagonisms that surround it
+  key_terms: urged defense, defended peace, insisted challenge, kept tranquility
+
+dynamic_inhibition:
+  mechanism: The 10's insistence on peaceful succession prevents the 7's necessary defensive stance; the legacy cannot admit the threats it actually faces
+  blockade_nature: the challenge cannot be fully engaged while the inheritance demands the pretense of security
+  pentacles_state: the foundation becomes vulnerable; the established structure turns into the naive trust that will eventually be overwhelmed
+  consequence: the position erodes; the 10's denial of threat prevents the 7's necessary defense
+  key_terms: eroding position, naive legacy, denied threat, vulnerable foundation
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a system that bitterly resents the defense it requires; the inheritance becomes the grievance that turns defense into paranoid aggression
+  mode: the generational wealth used to build defensiveness and suspicion; the foundation becomes the source of endless threat-perception
+  loss: the genuine security the legacy could provide; the inheritance becomes the paranoid system that manufactures enemies
+  key_terms: paranoid legacy, bitter defense, manufactured threats, resentful foundation
+
+dynamic_dependency:
+  mechanism: The 10 needs the 7 to teach that some inheritance requires active defense; the challenge needs the stable foundation to provide the ground upon which resilience can endure
+  function: Pentacles-10 supplies the solid foundation that can sustain a defensive position through sustained challenge; Wands-7 supplies the resilient courage that keeps the legacy from becoming complacently vulnerable
+  integration_outcome: a legacy that survives through active defense; the inheritance maintained through necessary vigilance and resilience
+  key_terms: defended legacy, resilient foundation, sustained stand, tested inheritance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, 8 of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 10 + 8 = 18 (XVIII The Moon; legacy meets speed; the established foundation meets rapid momentum)
+elemental_bridge: Earth's slow continuity meets Fire's accelerated motion; the grounded inheritance meets swift momentum
+threshold_type: The legacy accelerated; inheritance meeting rapid transformation
+
+dynamic_genesis:
+  mechanism: The 10's established foundation channels the 8's momentum into directed progress; the legacy provides the aim for the rapid action
+  process: the family wealth accelerates innovation and transformation; the generational structure provides the direction the speed needs; the inheritance becomes the launching pad for rapid development
+  outcome: legacy transformed through directed momentum; the inheritance given dynamic acceleration
+  key_terms: accelerated legacy, directed momentum, powered inheritance, rapid transformation
+
+dynamic_antagonism:
+  mechanism: The 10's measured pace clashes with the 8's impatient speed; the legacy wants careful stewardship while the momentum demands rapid change
+  tension_axis: the measured inheritance versus the accelerated progress; patient preservation versus swift action
+  ten_of_pentacles_position: The legacy cannot move this fast; rapid change threatens continuity
+  eight_of_wands_position: The moment demands speed; the slow inheritance will miss the opportunity
+  key_terms: urged speed, defended patience, insisted momentum, kept pace
+
+dynamic_inhibition:
+  mechanism: The 10's need for careful management prevents the 8's full momentum; the legacy's protocols slow the rapid progress
+  blockade_nature: the acceleration cannot proceed while bound by the inheritance's deliberate procedures
+  pentacles_state: the foundation becomes a drag; the established structure turns into the slow weight that resists necessary momentum
+  consequence: the speed is throttled; the 10's carefulness prevents the 8's rapid progress
+  key_terms: throttled momentum, slowed inheritance, resisted speed, dragging foundation
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a system that fears and punishes rapid change; the inheritance becomes the force that desperately clings to stasis
+  mode: the established foundation used to resist all change; the legacy becomes the system that uses tradition as a weapon against progress
+  loss: the genuine transformation the momentum offers; the inheritance becomes the death that suffocates living change
+  key_terms: death-grip tradition, feared progress, suffocated change, rigid legacy
+
+dynamic_dependency:
+  mechanism: The 10 needs the 8 to show that the legacy can change rapidly while maintaining continuity; the momentum needs the inheritance to provide the foundation that directs rapid change toward meaningful progress
+  function: Pentacles-10 supplies the direction and foundation that allows swift movement to be sustained and purposeful; Wands-8 supplies the momentum that keeps the legacy from calcifying
+  integration_outcome: a legacy that moves swiftly toward authentic transformation; the inheritance that maintains direction through accelerated change
+  key_terms: transforming legacy, directed momentum, progressive inheritance, vital change
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, 9 of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 10 + 9 = 19 (XIX The Sun; legacy meets endurance; the established foundation meets tested strength)
+elemental_bridge: Earth's lasting continuity meets Fire's proven resilience; the enduring inheritance meets the tested warrior
+threshold_type: The legacy proven through trials; inheritance meeting persevering strength
+
+dynamic_genesis:
+  mechanism: The 9's tested resilience honors the 10's legacy; the enduring strength proves the worth of what the inheritance has built
+  process: the family wealth is proven valuable through the trials the 9 has endured; the generational structure provides the foundation that allows such resilience; the legacy becomes the worth that the strength was fighting for
+  outcome: legacy honored through proven endurance; the inheritance validated by tested strength
+  key_terms: honored legacy, proven inheritance, validated strength, enduring foundation
+
+dynamic_antagonism:
+  mechanism: The 10's focus on comfort clashes with the 9's hard-won endurance; the legacy seems soft and unprepared compared to the strength demanded
+  tension_axis: the comfortable inheritance versus the tested resilience; ease versus trials
+  ten_of_pentacles_position: The wealth should provide comfort and safety; the constant trials suggest inadequacy
+  nine_of_wands_position: Strength has been tested in battle; the comfortable inheritance is naive about the world's harshness
+  key_terms: urged toughness, defended comfort, insisted strength, kept safety
+
+dynamic_inhibition:
+  mechanism: The 10's protective comfort prevents the 9's full development of strength; the legacy's safety limits the resilience that would be earned through hardship
+  blockade_nature: the strength cannot fully develop while the inheritance insists on protection from trial
+  pentacles_state: the foundation becomes soft; the established structure turns into the comfort that weakens necessary resilience
+  consequence: the strength remains undeveloped; the 10's protection prevents the 9's full testing
+  key_terms: untested strength, soft inheritance, weakened resilience, protected foundation
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a system that builds weakness through false protection; the inheritance becomes the comfort that destroys the capacity for resilience
+  mode: the generational wealth used to shield completely from all difficulty; the foundation becomes the source of dependency rather than independence
+  loss: the genuine strength that emerges through tested resilience; the legacy becomes the system that produces softness masked as safety
+  key_terms: false protection, produced weakness, masked dependency, enervating legacy
+
+dynamic_dependency:
+  mechanism: The 10 needs the 9 to teach that true inheritance includes capacity for endurance; the resilience needs the foundation to provide the security from which recovery from hardship becomes possible
+  function: Pentacles-10 supplies the security and resources that allow resilience to develop and recover; Wands-9 supplies the tested strength that prevents the legacy from becoming an enervating comfort
+  integration_outcome: a legacy that builds genuine resilience; the inheritance that provides both security and the strength to weather difficulty
+  key_terms: resilient legacy, secure strength, enduring inheritance, tested foundation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, 10 of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 10 + 10 = 20 (XX Judgement; legacy meets burden; the established foundation meets overwhelming responsibility)
+elemental_bridge: Earth's grounded foundation meets Fire's carrying weight; the inheritance meets the exhausting burden
+threshold_type: The legacy as burden; inheritance meeting overwhelming duty
+
+dynamic_genesis:
+  mechanism: The 10-Wands burden is the necessary result of the 10-Pentacles legacy; the weight is what it costs to carry forward what generations have built
+  process: the inheritance necessarily carries weight and responsibility; the burden is the price of stewardship; the legacy acknowledges that continuation requires the willingness to bear what the 10-Wands must carry
+  outcome: legacy accepted as burden; the inheritance understood as responsibility that demands cost
+  key_terms: accepted burden, acknowledged weight, necessary responsibility, costly legacy
+
+dynamic_antagonism:
+  mechanism: The 10-Pentacles offers rest while the 10-Wands demands continued labor; the legacy promises security while the burden insists on exhausting duty
+  tension_axis: the restful inheritance versus the exhausting responsibility; promised ease versus demanded effort
+  ten_of_pentacles_position: The inheritance should provide relief; the continued burden suggests the legacy has failed
+  ten_of_wands_position: The work continues; the inherited ease is a lie that masks ongoing labor
+  key_terms: urged rest, defended burden, insisted labor, kept carrying
+
+dynamic_inhibition:
+  mechanism: The 10-Pentacles insistence that the inheritance should be restful prevents the 10-Wands from openly acknowledging necessary burden; the legacy cannot admit its cost
+  blockade_nature: the burden cannot be set down while the inheritance demands that succession appear effortless
+  pentacles_state: the foundation becomes a lie; the established structure turns into the pretense that there is no continuing weight
+  consequence: the burden is hidden; the 10-Pentacles denial prevents the 10-Wands from being supported
+  key_terms: hidden burden, denied labor, masked weight, pretense of ease
+
+dynamic_devolution:
+  mechanism: The 10-Pentacles corrupts the legacy into a system that hides its burden while demanding the 10-Wands carry it in secret; the inheritance becomes the lie that extracts labor while denying its cost
+  mode: the generational structure used to demand invisible service; the foundation becomes the system that offers promise while extracting exhausting duty
+  loss: the genuine rest and ease the inheritance could provide; the legacy becomes the system that offers false security while demanding hidden labor
+  key_terms: hidden extraction, masked labor, false ease, denied burden
+
+dynamic_dependency:
+  mechanism: The 10-Pentacles needs the 10-Wands to show the true cost of inheritance; the burden needs the foundation to provide meaning and purpose for the carrying of weight
+  function: Pentacles-10 supplies the meaning and purpose that makes the burden bearable; Wands-10 supplies the honest acknowledgment of what inheritance actually costs
+  integration_outcome: a legacy that honestly acknowledges its burden while providing meaning for the carrying; the inheritance that makes its cost visible and purposeful
+  key_terms: purposeful burden, acknowledged legacy, supported weight, honest responsibility
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, Page of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 10 + 11 = 21 (XXI The World; legacy meets enthusiasm; the established foundation meets youthful fire)
+elemental_bridge: Earth's inheritance structure meets Fire's youthful spark; the grounded foundation meets creative enthusiasm
+threshold_type: The legacy energized by youth; inheritance meeting inspired potential
+
+dynamic_genesis:
+  mechanism: The Page's youthful enthusiasm revitalizes the 10's legacy; the young spark shows the inheritance fresh ways to express its values
+  process: the family wealth is re-enlivened by the young one's passion; the generational structure finds new energy through the Page's enthusiasm; the legacy becomes living and contemporary through youthful fire
+  outcome: legacy revitalized by youthful energy; the inheritance renewed through creative spark
+  key_terms: revitalized legacy, youthful inheritance, energized foundation, sparking tradition
+
+dynamic_antagonism:
+  mechanism: The 10's measured stewardship clashes with the Page's reckless enthusiasm; the careful inheritance seems dull compared to the unbridled youthful fire
+  tension_axis: the measured inheritance versus the untempered enthusiasm; wisdom versus recklessness
+  ten_of_pentacles_position: The legacy must be carefully preserved; the youth's enthusiasm threatens it with careless abandon
+  page_of_wands_position: The spirit demands expression; the measured inheritance suppresses youthful fire
+  key_terms: urged expression, defended wisdom, insisted enthusiasm, kept caution
+
+dynamic_inhibition:
+  mechanism: The 10's insistence on careful protocol prevents the Page's full enthusiastic expression; the legacy's conservatism dampens the youthful spark
+  blockade_nature: the enthusiasm cannot burn freely within the constraints of inherited prudence
+  pentacles_state: the foundation becomes suffocating; the established structure turns into the prison that confines youthful energy
+  consequence: the spark is dimmed; the 10's caution prevents the Page's full fire
+  key_terms: dimmed spark, suffocating structure, confined energy, dampened enthusiasm
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a system that punishes youthful enthusiasm; the inheritance becomes the force that crushes the young one's fire
+  mode: the established foundation used to enforce conformity against natural exuberance; the legacy becomes the system that makes youth ashamed of its own energy
+  loss: the genuine renewal the Page's enthusiasm offers; the inheritance becomes the death that suffocates living fire
+  key_terms: suffocated youth, crushed spirit, ashamed energy, deadened legacy
+
+dynamic_dependency:
+  mechanism: The 10 needs the Page to keep its legacy alive through new energy; the youthful enthusiasm needs the inheritance to provide the foundation from which genuine expression can endure
+  function: Pentacles-10 supplies the grounding and meaning that allows youthful enthusiasm to become sustained and purposeful; Wands-Page supplies the vital energy that keeps the legacy from becoming a museum of the past
+  integration_outcome: a legacy renewed through youthful fire; the inheritance made contemporary through inspired enthusiasm
+  key_terms: renewed legacy, grounded enthusiasm, vital inheritance, living tradition
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, Knight of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 10 + 12 = 22 → 2+2=4 (IV The Emperor; legacy meets passionate action; the established foundation meets bold movement)
+elemental_bridge: Earth's rooted inheritance meets Fire's adventurous movement; the grounded foundation meets the traveling quest
+threshold_type: The legacy left behind; inheritance meeting the adventurer's departure
+
+dynamic_genesis:
+  mechanism: The 10's secure foundation gives the Knight the freedom to pursue bold action; the legacy provides the home base from which daring adventure becomes possible
+  process: the family wealth funds the knight's journey; the generational structure provides the secure ground to return to; the inheritance becomes the secure base from which passionate action can be launched
+  outcome: adventure funded by legacy; the inheritance giving freedom to bold pursuit
+  key_terms: funded adventure, supported quest, secure legacy, grounded action
+
+dynamic_antagonism:
+  mechanism: The 10's call to responsibility clashes with the Knight's need for passionate departure; the legacy demands staying while the fire demands going
+  tension_axis: the inheritance's duty versus the adventurer's call; staying rooted versus bold movement
+  ten_of_pentacles_position: The family needs continuation; the reckless knight threatens the future
+  knight_of_wands_position: The passion demands action now; the inherited duty is a cage that suffocates the spirit
+  key_terms: urged staying, defended freedom, insisted duty, kept movement
+
+dynamic_inhibition:
+  mechanism: The 10's claims on the Knight prevent bold action; the legacy becomes the anchor that holds back the passionate pursuit
+  blockade_nature: the action cannot proceed with full fire while bound by family obligation and inheritance
+  pentacles_state: the foundation becomes a shackle; the inheritance transforms into the chain that prevents true freedom
+  consequence: the action is half-hearted; the 10's claims prevent the Knight's full passionate pursuit
+  key_terms: shackled fire, bound action, inhibited passion, anchored movement
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a system that punishes departure; the inheritance becomes the manipulative force that recaptures escaping passion
+  mode: the generational wealth used to emotionally control and bind; the foundation becomes the system through which guilt binds the wanderer to stasis
+  loss: the genuine freedom and authentic passion the Knight pursues; the legacy becomes the system that perpetuates obligation while resenting the call that generates it
+  key_terms: binding legacy, guilty obligation, resentful duty, perpetuated entrapment
+
+dynamic_dependency:
+  mechanism: The 10 needs the Knight to show that the legacy can survive necessary departure; the passionate action needs the inheritance to provide the secure foundation that allows adventure to remain rooted
+  function: Pentacles-10 supplies the home base and resources that make bold adventure possible and sustainable; Wands-Knight supplies the passionate action that keeps the legacy from becoming a prison
+  integration_outcome: a legacy that honors necessary adventure; the inheritance that provides secure foundation and celebrates bold action
+  key_terms: supported adventure, honored departure, secure legacy, rooted action
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, Queen of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 10 + 13 = 23 → 2+3=5 (V The Pope; legacy meets creative authority; the established foundation meets inspired leadership)
+elemental_bridge: Earth's structural inheritance meets Fire's charismatic power; the grounded foundation meets passionate mastery
+threshold_type: The legacy guided by inspired leadership; inheritance meeting creative authority
+
+dynamic_genesis:
+  mechanism: The Queen's inspired leadership gives the 10's legacy vision and charismatic direction; the inheritance becomes the vehicle for the Queen's passionate mastery
+  process: the family wealth is mobilized by the Queen's charisma; the generational structure becomes the expression of her creative authority; the legacy transforms from mere preservation into inspired ongoing creation
+  outcome: legacy led by inspired mastery; the inheritance given dynamic vision through charismatic power
+  key_terms: inspired legacy, creative inheritance, visionary authority, led foundation
+
+dynamic_antagonism:
+  mechanism: The 10's measured stewardship clashes with the Queen's passionate intensity; the careful inheritance seems cold compared to the burning creative fire
+  tension_axis: the measured inheritance versus passionate intensity; steady preservation versus inspired action
+  ten_of_pentacles_position: The legacy must be carefully managed; the Queen's intensity risks burning it away
+  queen_of_wands_position: Creation demands fire; the measured inheritance is too timid for genuine transformation
+  key_terms: urged passion, defended measure, insisted mastery, kept caution
+
+dynamic_inhibition:
+  mechanism: The 10's protocols prevent the Queen's full creative authority; the legacy's constraints limit the scope of her inspired leadership
+  blockade_nature: the creative authority cannot fully express while bound by inherited structural constraints
+  pentacles_state: the foundation becomes stifling; the established structure turns into the cage that confines creative power
+  consequence: the leadership is constrained; the 10's protocols prevent the Queen's full inspired mastery
+  key_terms: constrained power, stifled authority, confined fire, caged leadership
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a system that resists the Queen's creative vision; the inheritance becomes the force that crushes passionate leadership
+  mode: the established foundation used to enforce conformity against natural creative drive; the legacy becomes the system that makes the Queen ashamed of her fire
+  loss: the genuine creative transformation the Queen offers; the inheritance becomes the deadening force that smothers living vision
+  key_terms: smothered vision, crushed authority, ashamed fire, deadened legacy
+
+dynamic_dependency:
+  mechanism: The 10 needs the Queen to infuse its legacy with inspired vision; the creative authority needs the inheritance to provide the foundation from which passionate leadership can sustainably manifest
+  function: Pentacles-10 supplies the structural foundation that allows the Queen's creative vision to take root and endure; Wands-Queen supplies the inspired mastery that keeps the legacy from becoming a museum
+  integration_outcome: a legacy infused with inspired creative leadership; the inheritance given vision and vitality through the Queen's passionate mastery
+  key_terms: inspired legacy, creative foundation, visionary inheritance, led mastery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW
+
+---
+
+card_pair: 10 of Pentacles, King of Wands
+archetype_pentacles: Legacy, inheritance, family wealth, generational continuity, established foundation
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 10 + 14 = 24 → 2+4=6 (VI The Lovers; legacy meets authoritative power; the established foundation meets commanding vision)
+elemental_bridge: Earth's inherited structure meets Fire's authoritative dominion; the grounded foundation meets commanding presence
+threshold_type: The legacy ruled by inspiring authority; inheritance meeting visionary power
+
+dynamic_genesis:
+  mechanism: The King's authoritative vision gives the 10's legacy commanding direction; the inheritance becomes the kingdom through which the King's dominion is expressed
+  process: the family wealth is marshaled by the King's authority; the generational structure becomes the manifestation of his vision; the legacy transforms from passive preservation into actively commanded dynasty
+  outcome: legacy commanded by visionary authority; the inheritance given unified direction through authoritative power
+  key_terms: commanded legacy, authoritative inheritance, visionary foundation, led dynasty
+
+dynamic_antagonism:
+  mechanism: The 10's distributed stewardship clashes with the King's need for singular dominion; the legacy's complexity seems to resist the unified command
+  tension_axis: the distributed inheritance versus singular authority; collective governance versus commanding vision
+  ten_of_pentacles_position: The legacy belongs to the whole family; the King's singular dominion threatens collective ownership
+  king_of_wands_position: Leadership demands unified command; the distributed inheritance is too fragmented for true vision
+  key_terms: urged unification, defended distribution, insisted command, kept autonomy
+
+dynamic_inhibition:
+  mechanism: The 10's complex structure prevents the King's full command; the legacy's inherent distribution limits his authoritative dominion
+  blockade_nature: the vision cannot be unified while the inheritance insists on distributed authority
+  pentacles_state: the foundation becomes resistant; the established structure turns into the collective impediment to singular command
+  consequence: the authority is limited; the 10's distribution prevents the King's full visionary dominion
+  key_terms: limited authority, resistant foundation, fragmented command, disputed vision
+
+dynamic_devolution:
+  mechanism: The 10 corrupts the legacy into a system that enables the King's authoritarian control; the inheritance becomes the tool through which dominion becomes oppression
+  mode: the generational wealth used to enforce absolute compliance; the foundation becomes the system of control that uses authority as domination
+  loss: the genuine visionary leadership the King could offer; the legacy becomes the tool of tyranny masked as command
+  key_terms: tyrannical legacy, oppressive command, enforced dominion, corrupted authority
+
+dynamic_dependency:
+  mechanism: The 10 needs the King to unify its legacy under inspiring vision; the authoritative power needs the inheritance to provide the material foundation that allows dominion to become lasting rule
+  function: Pentacles-10 supplies the wealth and structure that allows the King's vision to become material reality; Wands-King supplies the commanding presence that unifies the legacy under visionary authority
+  integration_outcome: a legacy unified under visionary command; the inheritance ruled through inspired authority that serves the whole
+  key_terms: unified legacy, visionary rule, commanded foundation, authoritative dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 10-1 through 10-14
+  uid: XOPW

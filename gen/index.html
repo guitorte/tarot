@@ -265,8 +265,15 @@ function suitOf(name){
   return"Arcanos Maiores";
 }
 function cleanName(name){return name.replace(/^\d+\.\s*/,"");} // "16. Torre" -> "Torre"
-function pos(card){return (card.description.find(d=>d.title==="Positivo")||{}).points||[];}
-function neg(card){return (card.description.find(d=>d.title==="Negativo")||{}).points||[];}
+const SECTION=new Set(["positivo","negativo"]);
+function clean(arr){ // drop stray section labels + duplicates, trim
+  const seen=new Set(),out=[];
+  for(let w of arr||[]){if(!w)continue;w=w.trim();const k=w.toLowerCase();
+    if(SECTION.has(k)||seen.has(k))continue;seen.add(k);out.push(w);}
+  return out;
+}
+function pos(card){return clean((card.description.find(d=>d.title==="Positivo")||{}).points);}
+function neg(card){return clean((card.description.find(d=>d.title==="Negativo")||{}).points);}
 function byName(n){return DECK.find(c=>c.name===n);}
 
 /* ---- state ---- */
@@ -278,44 +285,76 @@ let pickerSlot=0;
 const LENSES=[
   {n:"1",name:"Engendra",ac:"var(--l1)",
    gloss:'uma faz a outra nascer. <span class="q">o que a origem faz brotar no destino?</span>',
-   build:(x,y)=>combine(pos(x),pos(y),(a,b)=>`${tag(a)} vira ${tag(b)}`)},
+   // growth along one axis: x's strength ripens into a kindred strength in y
+   build:(x,y)=>seeds(cross(pos(x),pos(y)),'same',(a,b)=>`${tag(a)} vira ${tag(b)}`)},
   {n:"2",name:"Conflito",ac:"var(--l2)",
    gloss:'as duas se chocam. <span class="q">onde elas brigam?</span>',
-   build:(x,y)=>combine(
-      pick(pos(x)).map(a=>[a,rand(neg(y))]).concat(pick(neg(x)).map(a=>[a,rand(pos(y))])),
-      null,(a,b)=>`${tag(a)} bate de frente com ${tag(b)}`,true)},
+   // real clash: pair a strength with the other's shadow on a *different* axis
+   build:(x,y)=>seeds(cross(pos(x),neg(y)).concat(cross(neg(x),pos(y))),'diff',
+      (a,b)=>`${tag(a)} bate de frente com ${tag(b)}`)},
   {n:"3",name:"Estagnado",ac:"var(--l3)",
    gloss:'uma trava diante da outra — por conforto, não por briga. <span class="q">o que faz a origem parar?</span>',
-   build:(x,y)=>combine(pos(x),pos(y),(a,b)=>`${tag(a)} estaciona no conforto de ${tag(b)}`)},
+   // comfort = sameness: x settles into a y that mirrors it
+   build:(x,y)=>seeds(cross(pos(x),pos(y)),'same',(a,b)=>`${tag(a)} estaciona no conforto de ${tag(b)}`)},
   {n:"4",name:"Reduz-se",ac:"var(--l4)",
    gloss:'a origem encolhe e vira uma versão menor. <span class="q">em que versão pequena ela cai?</span>',
-   build:(x,y)=>combine(pos(x),neg(y),(a,b)=>`${tag(a)} encolhe até virar ${tag(b)}`)},
+   // a virtue collapses into its adjacent vice — same axis, polarity flips
+   build:(x,y)=>seeds(cross(pos(x),neg(y)),'same',(a,b)=>`${tag(a)} encolhe até virar ${tag(b)}`)},
   {n:"5",name:"Necessita",ac:"var(--l5)",
    gloss:'uma precisa da outra pra se completar. <span class="q">o que falta na origem que o destino tem?</span>',
-   build:(x,y)=>combine(neg(x),pos(y),(a,b)=>`${tag(a)} pede ${tag(b)}`)},
+   // the lack and what fills it sit on the same axis (frieza pede calor)
+   build:(x,y)=>seeds(cross(neg(x),pos(y)),'same',(a,b)=>`${tag(a)} pede ${tag(b)}`)},
 ];
 
-/* sampling utilities */
-function rand(arr){return arr[Math.floor(Math.random()*arr.length)];}
-function pick(arr,n=3){ // up to n unique random items
-  const a=[...arr];const out=[];
-  while(a.length&&out.length<n){out.push(a.splice(Math.floor(Math.random()*a.length),1)[0]);}
-  return out;
-}
 function tag(w){return `<span class="a">${w}</span>`;}
-// combine: either two pools (x,y) sampled into 3 pairs, or a prebuilt pair list (poolA = array of [a,b], poolB=null)
-function combine(poolA,poolB,fmt,prebuilt){
-  let pairs;
-  if(prebuilt){pairs=poolA.filter(p=>p[0]&&p[1]);pairs=pick(pairs,3);}
-  else{
-    const xs=pick(poolA,3), ys=pick(poolB,3);
-    const k=Math.min(3,Math.max(xs.length,ys.length));
-    pairs=[];
-    for(let i=0;i<k;i++){pairs.push([xs[i%xs.length],ys[i%ys.length]]);}
+
+/* ---- thematic pairing ----
+   Instead of zipping keywords by random index, we pick the two keywords so they
+   land on the same axis (growth / stall / decay / need) or on crossed axes
+   (conflict). Themes are coarse on purpose — enough to make a phrase feel chosen,
+   not random, while staying fast and data-only. */
+function norm(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");}
+const THEMES=[
+  ["emocao",["amor","sentiment","emoc","afet","coraca","compaix","intuic","ternura","carinho","sensi","paix","romanc","calor","bondade","empat","devo","nutri","acolhe"]],
+  ["controle",["autoridad","controle","controla","discipl","poder","domin","comand","lider","estrutura","ordem","regra","rigid","rigor","contenc","limit","frontei","prote","seguranc","estabilidad","frugal","posse","mesquinh","reprimi"]],
+  ["conflito",["conflito","briga","agress","hostil","ataque","viol","raiva","bully","intimid","disput","rivalidad","guerra","competic","desacord","tensao","discuss","vingan","cruel","brutal","desafio","teimos","defensiv"]],
+  ["perda",["perda","luto","tristeza","dor","magoa","separac","abandon","decep","lament","vazio","solidao","isolament","desgost","desespero","ruina","fracasso","derrota","traum","sofr","amargura"]],
+  ["mente",["clareza","razao","logic","mente","ideia","verdade","foco","visao","analise","intelect","comunica","pensament","conheciment","perce","sabedoria","lucidez","discern","objetiv","critic","estrateg"]],
+  ["acao",["acao","energia","moviment","impuls","coragem","iniciativa","entusiasm","aventura","ousad","velocidad","progress","conquist","ambic","determin","vontade","paixao","vital","dinam","rapid"]],
+  ["material",["dinheiro","recurso","abundanc","prosperidad","riqueza","material","trabalho","financ","ganho","colheita","heranc","legado","economia","luxo","negocio","provedor","lucr"]],
+  ["medo",["medo","ansiedad","inseguranc","preocupac","panico","pesadelo","angust","duvida","hesitac","fragil","vulnerab","incerteza","confus"]],
+  ["estagnacao",["estagnac","bloqueio","preso","paralis","parad","inercia","restric","obstac","atraso","monoton","apatia","indecis","procrastin","tedio","impasse","limita","preguic","passiv"]],
+  ["crescimento",["cresciment","cura","renovac","esperanc","despertar","transformac","evoluc","amadurec","realizac","manifestac","conclusao","integrac","completude","aprend","perdao","aceitac"]],
+  ["uniao",["uniao","parceria","conexao","comunidade","amizade","grupo","colabora","equipe","vinculo","pertenc","harmonia","reuniao","celebrac","social","mediac","diploma"]],
+  ["liberdade",["liberdade","independ","autonomia","libertac","escapism","fuga","partir","deixar","espontane","rebel"]],
+  ["ilusao",["ilusao","engano","mentira","fantasia","manipula","mascara","segredo","astuc","trama","fraude","devaneio","sonhador","idealism","ingenu"]],
+];
+function themesOf(w){const n=norm(w);const t=[];
+  for(const[name,subs]of THEMES){for(const s of subs){if(n.includes(s)){t.push(name);break;}}}
+  return t;}
+function shuf(arr){const a=[...arr];
+  for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}
+  return a;}
+function cross(a,b){const out=[];for(const x of a)for(const y of b)if(x&&y&&x!==y)out.push([x,y]);return out;}
+// choose up to n pairs, preferring those that fit the lens; fall back to fill out the list
+function seeds(cands,mode,fmt,n=3){
+  const pref=[],rest=[];
+  for(const[a,b]of cands){
+    const ta=themesOf(a),tb=themesOf(b),shared=ta.some(t=>tb.includes(t));
+    const fits=mode==='same'?shared:(ta.length&&tb.length&&!shared);
+    (fits?pref:rest).push([a,b]);
   }
-  // de-dupe identical phrases
-  const seen=new Set(),out=[];
-  for(const [a,b] of pairs){const s=fmt(a,b);if(!seen.has(s)){seen.add(s);out.push(s);}}
+  const order=[...shuf(pref),...shuf(rest)];
+  const seen=new Set(),usedA=new Set(),usedB=new Set(),out=[];
+  // two passes: first avoid reusing either keyword, then relax to fill the quota
+  for(const relax of [false,true]){
+    for(const[a,b]of order){
+      const s=fmt(a,b);
+      if(seen.has(s)||(!relax&&(usedA.has(a)||usedB.has(b))))continue;
+      seen.add(s);usedA.add(a);usedB.add(b);out.push(s);
+      if(out.length>=n)return out;
+    }
+  }
   return out;
 }
 

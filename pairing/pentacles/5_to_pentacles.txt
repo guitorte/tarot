@@ -1,0 +1,697 @@
+card_pair: 5 of Pentacles, Ace of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: 5 + 1 = 6 (VI The Lovers; material loss meets new potential; hardship offered a fresh seed)
+elemental_bridge: Earth's barren ground meets Earth's fresh possibility; the deprived is offered a new beginning
+threshold_type: The seed in the empty field; hardship meeting new potential
+
+dynamic_genesis:
+  mechanism: The Ace's fresh potential offers the 5 a genuine new beginning; manifestation becomes the answer to deprivation's emptiness
+  process: the hardship's empty ground receives a new seed; the loss is offered a starting point; the deprivation discovers that even barren soil can be planted
+  outcome: hardship given a new beginning; deprivation offered the seed of recovery
+  key_terms: new seed, planted hardship, fresh beginning, recovered ground
+
+dynamic_antagonism:
+  mechanism: The 5's despair clashes with the Ace's promise of potential; hardship meets a beginning it cannot believe in
+  tension_axis: the conviction of barrenness versus the offer of new growth; defeated deprivation versus fresh potential
+  five_of_pentacles_position: The ground is too barren; nothing will grow from such loss
+  ace_of_pentacles_position: The seed asks only to be planted; potential does not judge the soil
+  key_terms: urged planting, defended barrenness, insisted potential, kept despair
+
+dynamic_inhibition:
+  mechanism: The despair of hardship cannot receive the seed; the deprivation's hopelessness leaves the potential unplanted
+  blockade_nature: the new beginning cannot take root where the 5 refuses to believe growth is possible
+  pentacles_state: the hardship leaves the seed on barren ground; the deprivation lets the potential die unsown
+  consequence: the Ace's gift goes to waste; the 5 stays empty by its own refusal
+  key_terms: unsown seed, wasted potential, refusing hardship, barren deprivation
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the potential into proof of its own failure; hardship becomes the squandering of every fresh start
+  mode: the deprivation used to sabotage each new beginning; the loss becomes the pattern that ruins every seed
+  loss: the genuine recovery the Ace offered; hardship becomes the serial destroyer of its own chances
+  key_terms: obsessive sabotage, squandered potential, self-ruining hardship, destroyed beginnings
+
+dynamic_dependency:
+  mechanism: The 5 needs the Ace to prove that recovery can begin; the potential needs the deprivation to know what it means to grow from nothing
+  function: Pentacles-5 supplies the barren honesty that makes new growth meaningful; Pentacles-Ace supplies the fresh seed that teaches hardship that loss is not the end of growing
+  integration_outcome: new beginning grounded in honest acknowledgment of loss; potential planted in soil that knows scarcity
+  key_terms: grounded beginning, honest recovery, planted hardship, meaningful growth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, 2 of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Balance, juggling, flexibility, adaptive exchange, equilibrium
+numerical_relation: 5 + 2 = 7 (VII The Chariot; material loss meets adaptive balance; hardship learning to juggle)
+elemental_bridge: Earth's rigid scarcity meets Earth's fluid adaptation; the deprived learns to make do
+threshold_type: The juggling of scarce resources; hardship meeting adaptive balance
+
+dynamic_genesis:
+  mechanism: The 2's adaptive balance teaches the 5 to juggle what little it has; flexibility becomes the survival skill of deprivation
+  process: the hardship learns to keep the few resources moving; the loss is met by nimble adaptation; the deprivation discovers that even scarcity can be juggled into sufficiency
+  outcome: hardship that adapts; deprivation made survivable by flexible balance
+  key_terms: adaptive hardship, juggled scarcity, flexible survival, balanced deprivation
+
+dynamic_antagonism:
+  mechanism: The 5's frozen despair clashes with the 2's restless motion; hardship meets a flexibility it is too defeated to attempt
+  tension_axis: the paralysis of loss versus the constant motion of balance; frozen deprivation versus restless juggling
+  five_of_pentacles_position: Too depleted to keep anything moving; the juggling will only drop what little remains
+  two_of_pentacles_position: Standing still guarantees loss; only motion keeps scarce things from falling
+  key_terms: urged motion, defended stillness, insisted juggling, kept paralysis
+
+dynamic_inhibition:
+  mechanism: The depletion of hardship cannot sustain the juggling; the deprivation lacks the energy for constant adaptation
+  blockade_nature: the balance collapses when the 5 has not even the strength to keep one thing aloft
+  pentacles_state: the hardship drops what it tries to juggle; the deprivation loses even the little it adapted
+  consequence: the 5 cannot maintain the motion; the scarce resources fall and scatter
+  key_terms: dropped juggling, collapsed balance, depleted hardship, scattered scarcity
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the juggling into frantic robbing-Peter-to-pay-Paul; hardship becomes the desperate shuffling that delays collapse
+  mode: the deprivation used to justify ever more frantic borrowing against itself; the loss becomes the doomed juggling of debts
+  loss: the genuine adaptation that might have stabilized; hardship becomes the shuffle that postpones but deepens ruin
+  key_terms: obsessive shuffling, frantic juggling, doomed adaptation, deepened hardship
+
+dynamic_dependency:
+  mechanism: The 5 needs the 2 to teach it to keep scarce resources alive through motion; the balance needs the deprivation to know how much depends on each juggled thing
+  function: Pentacles-5 supplies the stakes that make adaptation matter; Pentacles-2 supplies the flexibility that teaches hardship to survive scarcity by keeping it moving
+  integration_outcome: adaptation grounded in real scarcity; balance that keeps the deprived afloat through skillful juggling
+  key_terms: grounded balance, survival juggling, real scarcity, sustained hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, 3 of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Collaboration, skill, artisanship, mutual effort, crafted mastery
+numerical_relation: 5 + 3 = 8 (VIII Justice; material loss meets collaborative craft; hardship offered a trade)
+elemental_bridge: Earth's idle deprivation meets Earth's skilled workshop; the abandoned is offered a craft
+threshold_type: The trade offered to the destitute; hardship meeting collaboration
+
+dynamic_genesis:
+  mechanism: The 3's collaborative skill offers the 5 a way to earn through craft; mastery becomes the road out of deprivation
+  process: the hardship is invited into the workshop; the loss is offered a trade to learn; the deprivation gains skilled hands and a place in the work
+  outcome: hardship given a craft; deprivation offered a trade and a team
+  key_terms: offered craft, invited hardship, learned trade, joined workshop
+
+dynamic_antagonism:
+  mechanism: The 5's defeated isolation clashes with the 3's collaborative demand; hardship meets a teamwork it feels unworthy of
+  tension_axis: the isolation of the deprived versus the mutuality of craft; abandoned loss versus collaborative effort
+  five_of_pentacles_position: Has no skill to offer; would only burden the skilled team
+  three_of_pentacles_position: Every craft is learned; the workshop has room for willing hands
+  key_terms: urged joining, defended unworthiness, insisted welcome, kept isolation
+
+dynamic_inhibition:
+  mechanism: The shame of hardship cannot accept the collaboration; the deprivation refuses the trade it could learn
+  blockade_nature: the craft cannot be taught when the 5 will not enter the workshop
+  pentacles_state: the hardship stays idle and skill-less; the deprivation refuses the offered trade
+  consequence: the 5 remains outside the work; the craft that could have lifted it goes unlearned
+  key_terms: refused craft, idle hardship, unlearned trade, self-excluded deprivation
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the collaboration into resentful exploitation; hardship becomes the bitter laborer who poisons the team
+  mode: the deprivation used to justify sabotaging the work of others; the loss becomes the grievance that ruins the workshop
+  loss: the genuine skill and belonging the craft offered; hardship becomes the bitterness that destroys collaboration
+  key_terms: obsessive resentment, poisoned workshop, sabotaging hardship, ruined craft
+
+dynamic_dependency:
+  mechanism: The 5 needs the 3 to teach it a craft and a place; the collaboration needs the deprivation to remember why the workshop must welcome the willing
+  function: Pentacles-5 supplies the need that the craft answers; Pentacles-3 supplies the skill and mutuality that teaches hardship it can earn its way and belong
+  integration_outcome: craft that lifts the deprived into skilled belonging; collaboration grounded in welcoming those in need
+  key_terms: lifting craft, skilled belonging, welcomed hardship, grounded collaboration
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, 4 of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Holding, security, control, possessiveness, guarded resources
+numerical_relation: 5 + 4 = 9 (IX The Hermit; material loss meets guarded holding; hardship facing the hoarder)
+elemental_bridge: Earth's empty hands meet Earth's clenched fist; the deprived stands before the one who will not share
+threshold_type: The beggar before the hoard; hardship meeting possession
+
+dynamic_genesis:
+  mechanism: The 5's need reveals to the 4 the purpose of resources; deprivation teaches holding what its wealth is for
+  process: the hardship's empty hands are shown to the 4's full ones; the loss confronts the hoard with its meaning; the deprivation asks the question the holding had forgotten
+  outcome: holding awakened to purpose by hardship; the hoard reminded what wealth is for
+  key_terms: awakened holding, purposeful wealth, confronted hoard, meaningful resources
+
+dynamic_antagonism:
+  mechanism: The 5's need clashes with the 4's fear of loss; hardship meets the grip that tightens at the sight of want
+  tension_axis: the open need of the deprived versus the closed fist of the fearful; empty hands versus guarded hoard
+  five_of_pentacles_position: Asks only for a little of what the 4 holds in excess
+  four_of_pentacles_position: Sees in the 5 exactly what it most fears becoming; tightens its grip
+  key_terms: urged giving, defended hoard, insisted need, kept grip
+
+dynamic_inhibition:
+  mechanism: The 4's fear stops any sharing; the hoard tightens precisely when the 5's need is greatest
+  blockade_nature: the resources that could relieve the hardship are clenched beyond reach
+  pentacles_state: the hardship is refused at the door of plenty; the deprivation is denied by fearful holding
+  consequence: the 5 goes empty past the full hoard; the 4 keeps everything and shares nothing
+  key_terms: refused sharing, clenched hoard, denied hardship, fearful deprivation
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into theft answering hoarding; hardship becomes the thief, holding becomes the fortress
+  mode: the deprivation used to justify taking by force; the holding used to justify ever-crueler defense
+  loss: the genuine exchange that might have helped both; hardship and holding become locked enemies
+  key_terms: obsessive theft, fortressed hoard, predatory hardship, war of possession
+
+dynamic_dependency:
+  mechanism: The 5 needs the 4 to share what it guards; the holding needs the deprivation to remember that hoarded wealth is dead wealth
+  function: Pentacles-5 supplies the need that gives the hoard a purpose; Pentacles-4 supplies the resources that teach hardship that security shared is security multiplied
+  integration_outcome: holding that gives where there is need; resources grounded in serving the deprived rather than mere accumulation
+  key_terms: giving holding, served need, purposeful hoard, relieved hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, 5 of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Hardship, poverty, material loss, deprivation, abandonment
+numerical_relation: 5 + 5 = 10 (X The Wheel of Fortune; the deprived meets itself; hardship recognizing hardship)
+elemental_bridge: Earth's desolation discovers its mirror; the abandoned recognizes another abandoned
+threshold_type: Two beggars in the same storm; hardship meeting itself
+
+dynamic_genesis:
+  mechanism: Each 5 recognizes its own deprivation in the other; shared hardship becomes the ground of genuine solidarity
+  process: the two losses witness one another; each abandonment finds it is not alone; the deprivation discovers companionship in shared want
+  outcome: solidarity born of shared hardship; deprivation made bearable by mutual recognition
+  key_terms: shared solidarity, mutual recognition, companioned hardship, witnessed deprivation
+
+dynamic_antagonism:
+  mechanism: Each 5 competes with the other for the same scarce scraps; hardship meets its mirror as rival
+  tension_axis: solidarity in suffering versus competition for survival; shared want versus rivalry for crumbs
+  pentacles_position_1: Needs the scarce resource as desperately as the other; cannot afford to share
+  pentacles_position_2: Sees the first as competitor for the little that remains; survival forces rivalry
+  key_terms: urged sharing, forced rivalry, insisted survival, contested scraps
+
+dynamic_inhibition:
+  mechanism: The shared scarcity makes mutual help impossible; neither beggar can spare anything for the other
+  blockade_nature: the solidarity collapses under the weight of mutual need; both are too empty to give
+  pentacles_state: the two hardships deepen each other; the shared deprivation doubles the cold
+  consequence: both remain in want; the companionship cannot feed either
+  key_terms: doubled cold, collapsed solidarity, mutual emptiness, deepened hardship
+
+dynamic_devolution:
+  mechanism: The two 5s corrupt into predators of each other; hardship becomes the war of the destitute against the destitute
+  mode: the deprivation used to justify robbing the equally poor; the loss becomes the reason to prey on fellow sufferers
+  loss: the genuine solidarity their shared loss could have built; hardship becomes mutual cannibalism
+  key_terms: obsessive predation, destitute war, cannibal hardship, destroyed solidarity
+
+dynamic_dependency:
+  mechanism: Each 5 needs the other to know it is not alone in its loss; shared deprivation needs mutual witness to become bearable companionship
+  function: Each Pentacles-5 supplies the recognition that the other's suffering is real and shared; together they supply the solidarity that makes hardship survivable
+  integration_outcome: solidarity that shares warmth even in want; deprivation grounded in the truth that the suffering are not alone
+  key_terms: shared warmth, mutual solidarity, companioned deprivation, bearable hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, 6 of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+numerical_relation: 5 + 6 = 11 (XI Strength; material loss meets generous giving; hardship receiving charity)
+elemental_bridge: Earth's empty hands meet Earth's open hand; the deprived receives the gift
+threshold_type: The alms in the cold; hardship meeting generosity
+
+dynamic_genesis:
+  mechanism: The 6's generosity directly answers the 5's need; sharing becomes the open hand that relieves deprivation
+  process: the hardship receives what the generous freely give; the loss is met by reciprocal kindness; the deprivation is relieved by the open hand
+  outcome: hardship relieved by giving; deprivation answered by genuine generosity
+  key_terms: relieved hardship, received gift, answered need, open hand
+
+dynamic_antagonism:
+  mechanism: The 5's pride or shame clashes with the 6's giving; hardship meets a charity that wounds its dignity
+  tension_axis: the dignity of the deprived versus the position of receiving alms; proud loss versus the giver's hand above
+  five_of_pentacles_position: Shamed by needing charity; the gift underlines its fall
+  six_of_pentacles_position: Gives from a height; the hand that gives is above the hand that takes
+  key_terms: urged acceptance, defended dignity, insisted giving, kept shame
+
+dynamic_inhibition:
+  mechanism: The shame of hardship cannot receive the gift cleanly; the deprivation's pride blocks the generosity it needs
+  blockade_nature: the giving cannot land when the 5 is too ashamed to take, or the 6 gives with too much condescension
+  pentacles_state: the hardship refuses the alms; the deprivation stays empty rather than accept a wounding gift
+  consequence: the gift is refused or poisoned by condescension; the relief does not arrive cleanly
+  key_terms: refused alms, wounded dignity, condescending gift, blocked relief
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into dependency and condescension; hardship becomes the perpetual beggar, generosity becomes the self-congratulating patron
+  mode: the deprivation used to extract endless charity; the giving used to purchase superiority over the deprived
+  loss: the genuine fair exchange that dignifies both; hardship becomes dependence, generosity becomes domination
+  key_terms: obsessive dependency, condescending charity, beggared hardship, dominating gift
+
+dynamic_dependency:
+  mechanism: The 5 needs the 6 to give in a way that preserves dignity; the generosity needs the deprivation to receive in a way that completes the exchange
+  function: Pentacles-5 supplies the need that gives generosity its meaning; Pentacles-6 supplies the giving that teaches hardship that receiving with dignity completes a fair exchange
+  integration_outcome: giving and receiving that dignify both; generosity grounded in fair exchange rather than charity from above
+  key_terms: dignified exchange, grounded generosity, completed giving, relieved hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, 7 of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Assessment, patience, long-term investment, paused evaluation, trust in process
+numerical_relation: 5 + 7 = 12 (XII The Hanged Man; material loss meets patient assessment; hardship meeting the long view)
+elemental_bridge: Earth's panicked scarcity meets Earth's patient evaluation; the deprived meets the long view
+threshold_type: The long view from the bottom; hardship meeting patience
+
+dynamic_genesis:
+  mechanism: The 7's patience teaches the 5 that recovery takes time; assessment becomes the long view that deprivation can grow from
+  process: the hardship is shown that the harvest is not immediate; the loss is given a longer horizon; the deprivation learns to wait for what is slowly growing
+  outcome: hardship given patience; deprivation oriented toward the slow harvest of recovery
+  key_terms: patient hardship, long view, slow harvest, oriented deprivation
+
+dynamic_antagonism:
+  mechanism: The 5's urgent need clashes with the 7's call to wait; hardship meets a patience that survival cannot afford
+  tension_axis: the urgency of crisis versus the slowness of investment; immediate need versus patient assessment
+  five_of_pentacles_position: Cannot wait for a distant harvest; needs relief today
+  seven_of_pentacles_position: Premature harvest ruins the crop; patience is the only road to real plenty
+  key_terms: urged patience, demanded urgency, insisted waiting, kept crisis
+
+dynamic_inhibition:
+  mechanism: The urgency of hardship cannot afford the 7's patience; the deprivation must spend today what patience would have grown
+  blockade_nature: the long-term investment is impossible when survival demands everything now
+  pentacles_state: the hardship consumes the seed it should have planted; the deprivation cannot wait for the harvest
+  consequence: the 5 spends the future to survive the present; the patient harvest never comes
+  key_terms: consumed seed, spent future, impatient hardship, lost harvest
+
+dynamic_devolution:
+  mechanism: The 5 corrupts patience into passive resignation; hardship becomes the waiting that is really giving up
+  mode: the deprivation used to justify endless passivity disguised as patience; the loss becomes the excuse for never acting at all
+  loss: the genuine recovery patient investment could have grown; hardship becomes the stagnation that calls itself patience
+  key_terms: obsessive passivity, false patience, stagnant hardship, disguised surrender
+
+dynamic_dependency:
+  mechanism: The 5 needs the 7 to teach it that recovery grows slowly; the patience needs the deprivation to balance the long view with the urgency of real need
+  function: Pentacles-5 supplies the urgency that keeps patience from becoming passivity; Pentacles-7 supplies the long view that teaches hardship that recovery requires planting and waiting
+  integration_outcome: patience grounded in real urgency; long-term recovery that also meets immediate survival
+  key_terms: grounded patience, balanced urgency, planted recovery, sustained hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, 8 of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Mastery, skill-development, apprenticeship, dedication, refined craft
+numerical_relation: 5 + 8 = 13 (XIII Death; material loss meets dedicated mastery; hardship offered apprenticeship)
+elemental_bridge: Earth's idle deprivation meets Earth's diligent practice; the abandoned is offered an apprenticeship
+threshold_type: The bench offered to the destitute; hardship meeting apprenticeship
+
+dynamic_genesis:
+  mechanism: The 8's dedicated practice offers the 5 a path of skill out of deprivation; apprenticeship becomes the disciplined road from loss to mastery
+  process: the hardship is given tools and a bench; the loss is offered the dignity of learning a craft; the deprivation begins the patient work toward mastery
+  outcome: hardship given a discipline; deprivation set on the road of skilled apprenticeship
+  key_terms: offered apprenticeship, disciplined road, learned skill, dignified hardship
+
+dynamic_antagonism:
+  mechanism: The 5's exhausted despair clashes with the 8's demand for diligence; hardship meets a discipline it feels too broken to sustain
+  tension_axis: the depletion of loss versus the demand of practice; exhausted deprivation versus dedicated repetition
+  five_of_pentacles_position: Too depleted for the long discipline; the practice seems impossibly demanding
+  eight_of_pentacles_position: Only steady practice builds the skill that ends dependence; there is no shortcut
+  key_terms: urged diligence, defended exhaustion, insisted practice, kept depletion
+
+dynamic_inhibition:
+  mechanism: The depletion of hardship cannot sustain the discipline; the deprivation lacks the steadiness mastery requires
+  blockade_nature: the apprenticeship cannot proceed when the 5 has no reserves for patient practice
+  pentacles_state: the hardship abandons the bench; the deprivation gives up the craft before skill takes hold
+  consequence: the 5 quits the apprenticeship; the mastery that could have freed it goes undeveloped
+  key_terms: abandoned bench, quit apprenticeship, depleted hardship, undeveloped mastery
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the apprenticeship into joyless drudgery; hardship becomes the bitter grind that never becomes craft
+  mode: the deprivation used to drain all joy from the work; the loss becomes the resentment that poisons the practice
+  loss: the genuine mastery dedication could have yielded; hardship becomes the soulless grind
+  key_terms: obsessive drudgery, joyless grind, bitter hardship, poisoned practice
+
+dynamic_dependency:
+  mechanism: The 5 needs the 8 to teach it the discipline that ends dependence; the mastery needs the deprivation to remember why the skill matters
+  function: Pentacles-5 supplies the need that gives the practice its urgency and meaning; Pentacles-8 supplies the dedication that teaches hardship that skill, patiently built, is the road out
+  integration_outcome: apprenticeship grounded in the need to escape loss; mastery built from the discipline that deprivation makes meaningful
+  key_terms: grounded mastery, meaningful practice, escaping hardship, built skill
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, 9 of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+numerical_relation: 5 + 9 = 14 (XIV Temperance; material loss meets earned abundance; hardship facing the self-sufficient)
+elemental_bridge: Earth's destitution meets Earth's earned plenty; the abandoned faces the self-sufficient
+threshold_type: The garden seen from outside the gate; hardship meeting abundance
+
+dynamic_genesis:
+  mechanism: The 9's earned abundance shows the 5 what self-sufficiency can be built; independence becomes the proof that the deprived can rise to plenty
+  process: the hardship is shown a garden that was once also cultivated from nothing; the loss sees that abundance is earned, not given; the deprivation gains a model of self-sufficiency
+  outcome: hardship shown a possible future; deprivation given a model of earned independence
+  key_terms: shown abundance, possible future, earned model, cultivated independence
+
+dynamic_antagonism:
+  mechanism: The 5's destitution clashes with the 9's serene self-sufficiency; hardship meets a plenty that seems to owe it nothing
+  tension_axis: the need of the deprived versus the self-containment of the abundant; empty want versus earned solitude
+  five_of_pentacles_position: Resents the 9's ease; cannot see the labor that built it
+  nine_of_pentacles_position: Owes the 5 nothing; the garden was earned, not inherited
+  key_terms: urged sharing, defended self-sufficiency, insisted need, kept solitude
+
+dynamic_inhibition:
+  mechanism: The 9's self-sufficiency has no need to engage the 5; the abundance is complete without the deprived
+  blockade_nature: the independence is sealed; the garden's gate stays closed to the one outside
+  pentacles_state: the hardship stays outside the gate; the deprivation is excluded from the self-sufficient plenty
+  consequence: the 5 remains in want; the 9 enjoys its garden alone
+  key_terms: closed gate, sealed abundance, excluded hardship, solitary plenty
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into envious hatred of earned plenty; hardship becomes the resentment that would tear down the self-sufficient
+  mode: the deprivation used to despise all who have risen; the loss becomes the conviction that abundance is theft
+  loss: the genuine model the 9 offered; hardship becomes the envy that poisons aspiration
+  key_terms: obsessive envy, hated plenty, resentful hardship, poisoned aspiration
+
+dynamic_dependency:
+  mechanism: The 5 needs the 9 to show that abundance can be earned from nothing; the independence needs the deprivation to remember its own beginnings in want
+  function: Pentacles-5 supplies the reminder of where all abundance starts; Pentacles-9 supplies the proof that teaches hardship that self-sufficiency can be cultivated from loss
+  integration_outcome: abundance that remembers and aids the deprived; independence grounded in the memory of its own hard beginnings
+  key_terms: remembering abundance, aided hardship, grounded independence, shared model
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, 10 of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Legacy, inheritance, family wealth, generational continuity, established foundation
+numerical_relation: 5 + 10 = 15 (XV The Devil; material loss meets generational wealth; hardship facing the dynasty)
+elemental_bridge: Earth's disinherited loss meets Earth's established lineage; the abandoned faces the family wealth
+threshold_type: The disinherited at the estate gate; hardship meeting legacy
+
+dynamic_genesis:
+  mechanism: The 10's established legacy could fold the 5 back into the family foundation; inheritance becomes the lineage that takes back its lost member
+  process: the hardship is recognized as kin; the loss is offered a place in the generational foundation; the deprivation is brought back into the lineage's wealth
+  outcome: hardship reclaimed by lineage; deprivation folded back into the family foundation
+  key_terms: reclaimed hardship, family foundation, restored kin, generational welcome
+
+dynamic_antagonism:
+  mechanism: The 5's disinheritance clashes with the 10's established order; hardship meets a legacy that cast it out
+  tension_axis: the excluded member versus the closed dynasty; disinherited loss versus guarded lineage
+  five_of_pentacles_position: Was cast out from the very wealth it now begs near; the exclusion is a wound
+  ten_of_pentacles_position: The foundation must be guarded; the lost member threatens the established order
+  key_terms: urged restoration, defended lineage, insisted exclusion, kept foundation
+
+dynamic_inhibition:
+  mechanism: The dynasty's guardedness keeps the 5 out; the legacy will not reabsorb the disinherited
+  blockade_nature: the established foundation has closed its ranks; the lost member cannot return
+  pentacles_state: the hardship stays disinherited; the deprivation is permanently excluded from the family wealth
+  consequence: the 5 remains outside the estate; the 10 keeps its foundation intact and closed
+  key_terms: permanent exclusion, closed dynasty, disinherited hardship, guarded legacy
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into bitter feud over inheritance; hardship becomes the grievance that would burn the estate down
+  mode: the deprivation used to justify destroying the legacy that excluded it; the lineage used to justify ever-harsher exclusion
+  loss: the genuine reconciliation that might have restored the family; hardship becomes the feud that ruins the foundation
+  key_terms: obsessive feud, burned estate, vengeful hardship, ruined legacy
+
+dynamic_dependency:
+  mechanism: The 5 needs the 10 to remember it as kin and restore it; the legacy needs the deprivation to remind it that a foundation that excludes its own is already crumbling
+  function: Pentacles-5 supplies the reminder that a lineage is measured by how it treats its lost; Pentacles-10 supplies the foundation that teaches hardship it has roots and a place to return to
+  integration_outcome: legacy that restores its disinherited; foundation grounded in welcoming back rather than casting out
+  key_terms: restored kin, welcoming legacy, grounded foundation, reclaimed hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, Page of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+numerical_relation: 5 + 11 = 16 (XVI The Tower; material loss meets eager learning; hardship meeting the young student)
+elemental_bridge: Earth's defeated experience meets Earth's eager study; the abandoned meets the willing learner
+threshold_type: The student before the broken master; hardship meeting curiosity
+
+dynamic_genesis:
+  mechanism: The Page's eager learning gives the 5's hard experience a purpose; curiosity becomes the student to whom deprivation's lessons can be passed
+  process: the hardship finds a young mind eager for what loss has taught; the deprivation discovers its experience has value as teaching; the loss becomes a lesson worth passing on
+  outcome: hardship given a student; deprivation's bitter lessons made into useful teaching
+  key_terms: taught hardship, valued experience, passed lesson, purposeful deprivation
+
+dynamic_antagonism:
+  mechanism: The 5's defeated cynicism clashes with the Page's hopeful study; hardship meets a curiosity it might crush
+  tension_axis: the cynicism of the defeated versus the hope of the learner; bitter experience versus eager potential
+  five_of_pentacles_position: Would teach the Page only that effort ends in loss
+  page_of_pentacles_position: Wants to learn the practical skills that build, not absorb despair
+  key_terms: urged hope, defended cynicism, insisted learning, kept bitterness
+
+dynamic_inhibition:
+  mechanism: The cynicism of hardship poisons the young curiosity; the deprivation teaches the Page despair instead of skill
+  blockade_nature: the learning sours when the only lesson offered is that all effort fails
+  pentacles_state: the hardship spreads its defeat; the deprivation extinguishes the eager potential
+  consequence: the Page learns despair; the 5 makes another defeated soul instead of a builder
+  key_terms: poisoned curiosity, taught despair, spread defeat, extinguished potential
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the teaching into indoctrination of hopelessness; hardship becomes the master that breeds defeat
+  mode: the deprivation used to recruit the young into cynicism; the loss becomes the gospel preached to the eager
+  loss: the genuine practical wisdom hardship could have taught; deprivation becomes the breeder of defeatism
+  key_terms: obsessive indoctrination, bred defeat, recruiting hardship, preached hopelessness
+
+dynamic_dependency:
+  mechanism: The 5 needs the Page to give its hard experience a constructive purpose; the curiosity needs the deprivation's real lessons to ground its learning in truth
+  function: Pentacles-5 supplies the hard-won practical knowledge of scarcity and survival; Pentacles-Page supplies the eager learning that teaches hardship its experience can build rather than only warn
+  integration_outcome: hard experience taught as practical wisdom; curiosity grounded in the real lessons of survival without absorbing despair
+  key_terms: practical wisdom, grounded curiosity, constructive hardship, built learning
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, Knight of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Dedication, reliable service, steady work, methodical action, trustworthy effort
+numerical_relation: 5 + 12 = 17 (XVII The Star; material loss meets steady work; hardship meeting reliable labor)
+elemental_bridge: Earth's erratic desperation meets Earth's methodical labor; the abandoned meets steady work
+threshold_type: The steady hand offered to the desperate; hardship meeting reliable service
+
+dynamic_genesis:
+  mechanism: The Knight's steady reliable work offers the 5 a methodical road out of desperation; dedication becomes the dependable labor that slowly rebuilds
+  process: the hardship is offered honest steady work; the loss is met by the patience of methodical effort; the deprivation finds in reliable labor a slow but certain recovery
+  outcome: hardship given steady work; deprivation rebuilt by methodical reliable effort
+  key_terms: steady work, methodical recovery, reliable labor, rebuilt hardship
+
+dynamic_antagonism:
+  mechanism: The 5's panicked erraticism clashes with the Knight's plodding steadiness; hardship meets a slowness its desperation cannot bear
+  tension_axis: the panic of crisis versus the patience of steady work; erratic desperation versus methodical plodding
+  five_of_pentacles_position: Desperation demands quick relief; the slow steady work seems too gradual to save it
+  knight_of_pentacles_position: Only steady reliable effort rebuilds; panic accomplishes nothing
+  key_terms: urged steadiness, demanded speed, insisted method, kept panic
+
+dynamic_inhibition:
+  mechanism: The panic of hardship cannot sustain the steady work; the deprivation's desperation breaks the methodical rhythm
+  blockade_nature: the reliable labor cannot proceed when the 5 keeps abandoning it for the next desperate scheme
+  pentacles_state: the hardship cannot hold to steady work; the deprivation's panic ruins the methodical recovery
+  consequence: the 5 cannot stay the course; the steady road that would have saved it is abandoned
+  key_terms: broken rhythm, abandoned work, panicked hardship, ruined method
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the steady work into joyless servitude; hardship becomes the grinding labor that never lifts its head
+  mode: the deprivation used to chain itself to endless toil without hope; the loss becomes the treadmill of joyless work
+  loss: the genuine recovery steady work could have built; hardship becomes the servitude that grinds without rising
+  key_terms: obsessive toil, joyless servitude, grinding hardship, hopeless labor
+
+dynamic_dependency:
+  mechanism: The 5 needs the Knight to teach it the steadiness that rebuilds; the reliable work needs the deprivation to remember the urgency that makes the labor matter
+  function: Pentacles-5 supplies the need that gives steady work its purpose; Pentacles-Knight supplies the reliability that teaches hardship that methodical effort, sustained, rebuilds what panic cannot
+  integration_outcome: steady work grounded in real need; methodical recovery that holds its course toward escaping loss
+  key_terms: grounded steadiness, sustained recovery, purposeful labor, rebuilt hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, Queen of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+numerical_relation: 5 + 13 = 18 (XVIII The Moon; material loss meets nurturing abundance; hardship meeting the provider)
+elemental_bridge: Earth's depleted abandonment meets Earth's nurturing plenty; the deprived meets the one who provides
+threshold_type: The provider gathering the lost; hardship meeting nurturing mastery
+
+dynamic_genesis:
+  mechanism: The Queen's nurturing mastery gathers the 5 into practical care; abundant management becomes the providing hand that both feeds and restores
+  process: the hardship is taken in and provided for; the loss is met by competent generous care; the deprivation is not merely given alms but managed back toward sufficiency
+  outcome: hardship provided for and restored; deprivation gathered into practical nurturing mastery
+  key_terms: provided hardship, nurtured restoration, competent care, gathered deprivation
+
+dynamic_antagonism:
+  mechanism: The 5's broken self-reliance clashes with the Queen's managing care; hardship meets a provision that can feel like control
+  tension_axis: the autonomy of the deprived versus the management of the provider; broken self-reliance versus competent control
+  five_of_pentacles_position: Fears that being provided for means surrendering its last autonomy
+  queen_of_pentacles_position: Knows the 5 cannot recover alone; the care must include management
+  key_terms: urged surrender, defended autonomy, insisted care, kept independence
+
+dynamic_inhibition:
+  mechanism: The 5's fear of dependence resists the Queen's management; the deprivation refuses the very care that would restore it
+  blockade_nature: the nurturing cannot work when the 5 will not be managed even toward its own recovery
+  pentacles_state: the hardship rejects the providing hand; the deprivation refuses the care that requires submitting to guidance
+  consequence: the 5 stays broken rather than be managed; the Queen's mastery cannot restore the unwilling
+  key_terms: refused care, resisted management, broken hardship, rejected provision
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into infantilizing dependence; hardship becomes the perpetual ward, nurturing becomes the smothering control
+  mode: the deprivation used to surrender all agency; the care used to keep the 5 perpetually dependent
+  loss: the genuine restoration to sufficiency; hardship becomes permanent wardship, nurturing becomes domination
+  key_terms: obsessive dependence, smothering care, infantilized hardship, dominating provision
+
+dynamic_dependency:
+  mechanism: The 5 needs the Queen to provide and manage its recovery toward renewed sufficiency; the nurturing needs the deprivation to aim its care at restoring autonomy, not replacing it
+  function: Pentacles-5 supplies the need that competent care answers; Pentacles-Queen supplies the nurturing mastery that teaches hardship to be restored toward its own renewed self-sufficiency
+  integration_outcome: care that restores autonomy; nurturing grounded in managing the deprived back toward sufficiency rather than dependence
+  key_terms: restoring care, renewed autonomy, grounded nurturing, lifted hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP
+
+---
+
+card_pair: 5 of Pentacles, King of Pentacles
+archetype_pentacles_1: Hardship, poverty, material loss, deprivation, abandonment
+archetype_pentacles_2: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+numerical_relation: 5 + 14 = 19 (XIX The Sun; material loss meets prosperous rule; hardship meeting the steward)
+elemental_bridge: Earth's destitution meets Earth's prosperous dominion; the abandoned stands before the steward-king
+threshold_type: The pauper before the steward; hardship meeting material authority
+
+dynamic_genesis:
+  mechanism: The King's powerful stewardship can lift the 5 into the order of prosperity; material authority becomes the rule that finds a place for the deprived
+  process: the hardship is given a role in the King's prosperous domain; the loss is enlisted in productive stewardship; the deprivation is brought from the margins into the working order
+  outcome: hardship given a place in prosperity; deprivation enlisted in the steward-king's productive order
+  key_terms: given place, enlisted hardship, productive order, lifted deprivation
+
+dynamic_antagonism:
+  mechanism: The 5's powerlessness clashes with the King's dominion; hardship meets an authority that may use rather than uplift it
+  tension_axis: the powerlessness of the deprived versus the dominion of the steward; abandoned loss versus prosperous rule
+  five_of_pentacles_position: Fears the King's order has use only for the strong, not the broken
+  king_of_pentacles_position: The domain rewards productivity; the deprived must prove their worth to be raised
+  key_terms: urged inclusion, defended dominion, insisted worth, kept power
+
+dynamic_inhibition:
+  mechanism: The King's prosperous order overlooks the unproductive 5; the dominion has no role for the too-broken
+  blockade_nature: the stewardship measures by output; the deprived who cannot yet produce are left at the edge
+  pentacles_state: the hardship stays at the margin of the prosperous domain; the deprivation is excluded from productive rule
+  consequence: the 5 is left outside the order; the King's prosperity is built without the very ones it might raise
+  key_terms: overlooked hardship, marginal deprivation, productive exclusion, edge of prosperity
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into abject dependence on the King's power; hardship becomes the broken subject who serves dominion for scraps
+  mode: the deprivation used to make the 5 into a powerless retainer; the dominion used to exploit the desperate for cheap service
+  loss: the genuine stewardship that lifts; hardship becomes the exploited servant, dominion becomes extraction
+  key_terms: obsessive servitude, exploited hardship, extracting dominion, powerless retainer
+
+dynamic_dependency:
+  mechanism: The 5 needs the King to find it a productive place in the order; the stewardship needs the deprivation to remember that true prosperity raises the fallen into producers
+  function: Pentacles-5 supplies the reminder that a domain is judged by whether it lifts the deprived; Pentacles-King supplies the powerful stewardship that teaches hardship it can be raised into productive belonging
+  integration_outcome: dominion that lifts the deprived into producers; stewardship grounded in raising the fallen rather than merely using them
+  key_terms: lifting stewardship, productive belonging, grounded dominion, raised hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPP

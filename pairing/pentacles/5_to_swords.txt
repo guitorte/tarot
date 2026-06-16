@@ -1,0 +1,697 @@
+card_pair: 5 of Pentacles, Ace of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 5 + 1 = 6 (VI The Lovers; material loss meets arrived clarity; hardship seeing the truth)
+elemental_bridge: Earth's blind despair meets Air's cutting clarity; the abandoned is shown the truth of its state
+threshold_type: The truth about the loss; hardship meeting clarity
+
+dynamic_genesis:
+  mechanism: The Ace's clarity names the 5's situation honestly; insight gives deprivation the truth it needs to begin to change
+  process: the hardship is seen clearly for what it is; the loss is named without illusion; the deprivation gains the sharp truth that precedes any real solution
+  outcome: hardship clearly seen; deprivation named honestly enough to be addressed
+  key_terms: clear hardship, named loss, honest deprivation, seen truth
+
+dynamic_antagonism:
+  mechanism: The 5's need for comfort clashes with the Ace's merciless truth; hardship meets clarity that will not soften the blow
+  tension_axis: the desire for consolation versus the cut of truth; suffering's need for mercy versus insight's coldness
+  five_of_pentacles_position: Needs comfort, not more harsh truth about its condition
+  ace_of_swords_position: The truth cannot be softened; clarity serves no one by lying
+  key_terms: urged truth, demanded comfort, insisted clarity, kept consolation
+
+dynamic_inhibition:
+  mechanism: The rawness of hardship cannot bear the clarity; the deprivation is too wounded to receive sharp truth
+  blockade_nature: the insight wounds rather than helps when the 5 is already this broken
+  pentacles_state: the hardship recoils from the truth; the deprivation refuses the clarity that hurts
+  consequence: the truth is rejected as cruelty; the insight goes unreceived
+  key_terms: rejected truth, wounded hardship, refused clarity, recoiled insight
+
+dynamic_devolution:
+  mechanism: The 5 corrupts clarity into self-lacerating judgment; hardship becomes the weapon of relentless self-condemnation
+  mode: the deprivation used to wield truth against itself; the loss becomes the blade of merciless self-attack
+  loss: the genuine help clarity could have offered; hardship becomes the instrument of self-destruction
+  key_terms: obsessive self-judgment, lacerating truth, self-condemned hardship, weaponized clarity
+
+dynamic_dependency:
+  mechanism: The 5 needs the Ace to see its situation truly before it can change; the clarity needs the deprivation to aim its truth toward help rather than mere cutting
+  function: Pentacles-5 supplies the reality that makes clarity matter; Swords-Ace supplies the insight that teaches hardship the truth it must face to begin to rise
+  integration_outcome: clarity that serves recovery; truth grounded in compassion for the deprived
+  key_terms: helpful clarity, grounded truth, compassionate insight, faced hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, 2 of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 5 + 2 = 7 (VII The Chariot; material loss meets blocked choice; hardship facing paralysis)
+elemental_bridge: Earth's desolation meets Air's frozen indecision; the abandoned meets the one who will not choose
+threshold_type: The frozen choice in crisis; hardship meeting stalemate
+
+dynamic_genesis:
+  mechanism: The 5's crisis forces the 2 to finally choose; deprivation's urgency breaks the stalemate's paralysis
+  process: the hardship makes indecision a luxury that cannot be afforded; the loss demands a choice be made; the deprivation cuts through the false balance
+  outcome: choice forced by hardship; stalemate broken by the urgency of loss
+  key_terms: forced choice, broken stalemate, urgent hardship, ended paralysis
+
+dynamic_antagonism:
+  mechanism: The 5's desperate need for action clashes with the 2's refusal to decide; hardship meets paralysis that survival cannot afford
+  tension_axis: the urgency of crisis versus the safety of not choosing; desperate need versus protective indecision
+  five_of_pentacles_position: Cannot survive more delay; needs a decision now
+  two_of_swords_position: Will not choose; both options seem to lead to loss
+  key_terms: urged decision, demanded delay, insisted urgency, kept stalemate
+
+dynamic_inhibition:
+  mechanism: The 2's paralysis stops any response to the 5's crisis; the stalemate blocks the action deprivation needs
+  blockade_nature: the choice that could relieve hardship is endlessly deferred
+  pentacles_state: the hardship deepens while the decision is avoided; the deprivation worsens in the delay
+  consequence: the crisis is not addressed; the 5 sinks while the 2 refuses to act
+  key_terms: deferred relief, deepened hardship, blocked action, avoided rescue
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the stalemate into fatalistic resignation; hardship becomes the proof that no choice matters
+  mode: the deprivation used to justify never deciding; the loss becomes the argument that all choices lead to ruin anyway
+  loss: the genuine relief a choice could have brought; hardship becomes the rationale for eternal paralysis
+  key_terms: obsessive resignation, fatalist stalemate, hopeless hardship, justified paralysis
+
+dynamic_dependency:
+  mechanism: The 5 needs the 2 to finally make the choice that relief requires; the stalemate needs the deprivation to show what its indecision costs
+  function: Pentacles-5 supplies the urgency that makes decision necessary; Swords-2 supplies the careful weighing that teaches hardship not to act blindly in panic
+  integration_outcome: decision that is both urgent and considered; choice grounded in real stakes rather than endless deferral
+  key_terms: grounded decision, urgent clarity, considered choice, relieved hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, 3 of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 5 + 3 = 8 (VIII Justice; material loss meets heartbreak; hardship compounded by sorrow)
+elemental_bridge: Earth's deprivation meets Air's piercing sorrow; material loss and emotional pain combine
+threshold_type: The wound upon the wound; hardship meeting heartbreak
+
+dynamic_genesis:
+  mechanism: The 5 and the 3 acknowledge each other's wounds; material deprivation and emotional sorrow witness their shared pain
+  process: the hardship recognizes the heartbreak as kin; the loss and the sorrow honor one another; the deprivation finds that pain has many forms
+  outcome: shared acknowledgment of compounded wounds; material and emotional loss witnessed together
+  key_terms: shared wounds, witnessed sorrow, kindred pain, compounded loss
+
+dynamic_antagonism:
+  mechanism: The 5's material desperation clashes with the 3's emotional sorrow; each pain claims priority over the other
+  tension_axis: the urgency of the body versus the wound of the heart; physical deprivation versus emotional heartbreak
+  five_of_pentacles_position: The empty belly cannot wait for the heart to mend
+  three_of_swords_position: The broken heart cannot be fed; sorrow has its own absolute claim
+  key_terms: urged priority, defended sorrow, insisted hunger, kept heartbreak
+
+dynamic_inhibition:
+  mechanism: The two pains compound past bearing; neither wound can heal while the other bleeds
+  blockade_nature: the hardship and the heartbreak each block the other's healing
+  pentacles_state: the deprivation and the sorrow deepen together; the wound upon the wound festers
+  consequence: both pains worsen; neither finds relief
+  key_terms: compounded pain, festered wound, deepened hardship, blocked healing
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the heartbreak into total despair; hardship becomes the proof that life is only suffering
+  mode: the deprivation used to confirm that pain is all there is; the loss and the sorrow become a unified case for hopelessness
+  loss: the genuine healing each wound might have found; hardship becomes the gospel of despair
+  key_terms: obsessive despair, unified suffering, hopeless hardship, gospel of pain
+
+dynamic_dependency:
+  mechanism: The 5 needs the 3 to teach it that sorrow can be honored even amid hardship; the heartbreak needs the deprivation to ground its grief in shared survival
+  function: Pentacles-5 supplies the survival instinct that keeps grief from becoming total; Swords-3 supplies the emotional truth that teaches hardship that pain witnessed is pain made bearable
+  integration_outcome: pain that is shared and survivable; wounds grounded in mutual witness
+  key_terms: shared survival, witnessed pain, grounded grief, bearable hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, 4 of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Rest, truce, peace, mental stillness, respite
+numerical_relation: 5 + 4 = 9 (IX The Hermit; material loss meets needed rest; hardship offered respite)
+elemental_bridge: Earth's relentless struggle meets Air's stillness; the abandoned is offered a place to rest
+threshold_type: The sanctuary in the struggle; hardship meeting respite
+
+dynamic_genesis:
+  mechanism: The 4's rest offers the 5 a sanctuary from relentless struggle; stillness becomes the mercy deprivation desperately needs
+  process: the hardship is given permission to stop; the loss is offered a pause; the deprivation finds a quiet place to recover its strength
+  outcome: hardship given rest; deprivation offered the respite that makes survival possible
+  key_terms: offered sanctuary, permitted rest, recovered strength, merciful pause
+
+dynamic_antagonism:
+  mechanism: The 5's survival panic clashes with the 4's stillness; hardship meets a rest it dares not take
+  tension_axis: the relentlessness of crisis versus the need to stop; survival's vigilance versus the call to rest
+  five_of_pentacles_position: Cannot afford to rest; stopping feels like death
+  four_of_swords_position: Without rest, the struggle will kill what the hardship has not
+  key_terms: urged rest, demanded vigilance, insisted stillness, kept panic
+
+dynamic_inhibition:
+  mechanism: The panic of hardship cannot accept the stillness; the deprivation's terror makes rest impossible
+  blockade_nature: the respite cannot land when the 5 is too frightened to stop
+  pentacles_state: the hardship exhausts itself refusing rest; the deprivation burns out
+  consequence: the 5 collapses from the refusal to pause; the offered sanctuary goes unused
+  key_terms: refused rest, exhausted hardship, burned-out deprivation, unused sanctuary
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the rest into giving-up; hardship becomes the rest that is really surrender to death
+  mode: the deprivation used to make stillness into final collapse; the loss becomes the rest from which one does not rise
+  loss: the genuine recovery rest could have offered; hardship becomes the stillness of defeat
+  key_terms: obsessive collapse, surrendered rest, defeated stillness, final deprivation
+
+dynamic_dependency:
+  mechanism: The 5 needs the 4 to teach it that rest is part of survival; the respite needs the deprivation to remember what it is recovering for
+  function: Pentacles-5 supplies the stakes that make recovery matter; Swords-4 supplies the stillness that teaches hardship that endurance requires pause
+  integration_outcome: rest that restores rather than defeats; respite grounded in the need to survive and continue
+  key_terms: restorative rest, grounded respite, recovered hardship, sustained survival
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, 5 of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 5 + 5 = 10 (X The Wheel of Fortune; material loss meets hollow defeat; hardship meeting bitter conflict)
+elemental_bridge: Earth's deprivation meets Air's pyrrhic conflict; both have lost in the fighting
+threshold_type: The defeat that costs everything; hardship meeting hollow victory
+
+dynamic_genesis:
+  mechanism: The 5 and the 5 of Swords recognize the cost of their losses; deprivation and hollow defeat acknowledge what fighting has destroyed
+  process: the hardship sees in the hollow victory its own kind of loss; the deprivation and the defeat-at-cost witness their shared emptiness; both learn what winning and losing both took
+  outcome: shared recognition of cost; the emptiness of both deprivation and pyrrhic conflict witnessed together
+  key_terms: shared cost, recognized emptiness, witnessed defeat, acknowledged loss
+
+dynamic_antagonism:
+  mechanism: The 5's loss clashes with the 5 of Swords' contested victory; hardship meets the one who won and lost both
+  tension_axis: the cleanness of having nothing versus the dirtiness of hollow winning; honest deprivation versus tainted victory
+  five_of_pentacles_position: Lost everything but kept its integrity; has nothing to be ashamed of
+  five_of_swords_position: Won the field but lost its honor; carries the shame of how it fought
+  key_terms: urged honesty, defended victory, insisted integrity, kept shame
+
+dynamic_inhibition:
+  mechanism: Neither can console the other; the deprived has no spoils, the victor has only tainted ones
+  blockade_nature: the hollow victory cannot help the deprivation; the honest loss cannot redeem the tainted win
+  pentacles_state: the hardship and the hollow victory remain separately stuck in their losses
+  consequence: the 5 stays empty, the 5 of Swords stays ashamed; neither finds relief
+  key_terms: unrelieved hardship, tainted victory, stuck loss, separate emptiness
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into willingness to fight as dirtily as the 5 of Swords; hardship becomes the justification for hollow victory
+  mode: the deprivation used to excuse any tactic; the loss becomes the reason to win at any cost to integrity
+  loss: the genuine integrity hardship had preserved; deprivation becomes the path to its own hollow victories
+  key_terms: obsessive winning, corrupted hardship, tainted deprivation, lost integrity
+
+dynamic_dependency:
+  mechanism: The 5 needs the 5 of Swords to learn that some victories are not worth their cost; the hollow victory needs the deprivation to remember that integrity outlasts spoils
+  function: Pentacles-5 supplies the integrity that survives loss; Swords-5 supplies the warning that teaches hardship not to win at the cost of its soul
+  integration_outcome: a refusal to win hollow victories; conflict grounded in keeping integrity even in loss
+  key_terms: preserved integrity, grounded conflict, honest loss, soulful hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, 6 of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Travel, transition, movement toward solution, passage, departure
+numerical_relation: 5 + 6 = 11 (XI Strength; material loss meets healing passage; hardship offered a way across)
+elemental_bridge: Earth's stranded desolation meets Air's carrying passage; the abandoned is offered a way out
+threshold_type: The boat to a better shore; hardship meeting passage
+
+dynamic_genesis:
+  mechanism: The 6's passage offers the 5 a way out of its stranded deprivation; movement becomes the route away from loss
+  process: the hardship is offered a crossing; the loss is given a direction away from the painful shore; the deprivation boards the boat toward calmer waters
+  outcome: hardship given passage; deprivation carried toward a better shore
+  key_terms: offered crossing, carried hardship, route away, better shore
+
+dynamic_antagonism:
+  mechanism: The 5's attachment to the known clashes with the 6's departure into the unknown; hardship meets a passage it fears to take
+  tension_axis: the familiar misery versus the uncertain crossing; known deprivation versus unknown passage
+  five_of_pentacles_position: Even this misery is familiar; the crossing leads to the unknown
+  six_of_swords_position: The only healing is in leaving; staying is to drown
+  key_terms: urged departure, defended familiarity, insisted crossing, kept misery
+
+dynamic_inhibition:
+  mechanism: The fear of the unknown stops the passage; the deprivation clings to its familiar misery
+  blockade_nature: the crossing cannot begin when the 5 refuses to board
+  pentacles_state: the hardship stays stranded by choice; the deprivation refuses the offered escape
+  consequence: the 5 remains on the painful shore; the boat departs without it
+  key_terms: refused passage, stranded hardship, familiar misery, missed crossing
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the passage into endless flight; hardship becomes the perpetual fleeing that never arrives
+  mode: the deprivation used to justify never settling; the loss becomes the reason to keep running from every shore
+  loss: the genuine healing arrival could have brought; hardship becomes the eternal refugee
+  key_terms: obsessive flight, perpetual fleeing, never-arriving hardship, eternal refugee
+
+dynamic_dependency:
+  mechanism: The 5 needs the 6 to teach it that leaving the painful shore is possible; the passage needs the deprivation to know what it is carrying away from
+  function: Pentacles-5 supplies the weight of what is left behind that gives the passage meaning; Swords-6 supplies the movement that teaches hardship that misery is not the only shore
+  integration_outcome: passage grounded in real escape from loss; movement that carries the deprived toward genuine healing
+  key_terms: grounded passage, real escape, carried hardship, healing crossing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, 7 of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Deception, theft, cunning, strategic secrecy, hidden strategy
+numerical_relation: 5 + 7 = 12 (XII The Hanged Man; material loss meets cunning theft; hardship tempted to steal)
+elemental_bridge: Earth's desperation meets Air's cunning theft; the abandoned is tempted toward the strategic crime
+threshold_type: The theft born of need; hardship meeting cunning
+
+dynamic_genesis:
+  mechanism: The 7's cunning offers the 5 a strategic way to survive; deprivation finds in cleverness a means the honest road denied
+  process: the hardship is shown that wit can take what circumstance withheld; the loss is offered the thief's strategy; the deprivation learns to survive by guile
+  outcome: hardship surviving by cunning; deprivation given the thief's resourcefulness
+  key_terms: cunning survival, strategic hardship, resourceful deprivation, guileful means
+
+dynamic_antagonism:
+  mechanism: The 5's desperate honesty clashes with the 7's deception; hardship meets the cost of survival by theft
+  tension_axis: the integrity of the deprived versus the expedience of theft; honest suffering versus cunning crime
+  five_of_pentacles_position: Has kept its integrity through all the loss; the theft would cost its soul
+  seven_of_swords_position: Survival justifies the cunning; integrity is a luxury of the comfortable
+  key_terms: urged theft, defended integrity, insisted survival, kept honesty
+
+dynamic_inhibition:
+  mechanism: The integrity of hardship cannot accept the theft; the deprivation refuses the cunning that would save it
+  blockade_nature: the strategy cannot be executed when the 5 will not abandon its honesty
+  pentacles_state: the hardship starves rather than steal; the deprivation keeps its integrity at the cost of survival
+  consequence: the 5 may perish honest; the cunning escape goes unused
+  key_terms: refused theft, honest hardship, preserved integrity, unused cunning
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into a thief who steals from the equally desperate; hardship becomes the predator of fellow sufferers
+  mode: the deprivation used to justify preying on the weak; the loss becomes the excuse for victimizing other victims
+  loss: the genuine integrity hardship had kept; deprivation becomes the cunning that destroys solidarity
+  key_terms: obsessive predation, corrupted cunning, preying hardship, destroyed solidarity
+
+dynamic_dependency:
+  mechanism: The 5 needs the 7 to teach it resourcefulness within integrity; the cunning needs the deprivation to aim its strategy at survival without losing the soul
+  function: Pentacles-5 supplies the integrity that keeps cunning from becoming mere crime; Swords-7 supplies the resourcefulness that teaches hardship to survive by wit
+  integration_outcome: resourcefulness that keeps its integrity; cunning grounded in survival that harms no fellow sufferer
+  key_terms: ethical cunning, grounded resourcefulness, surviving integrity, witful hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, 8 of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Imprisonment, constraint, mental bondage, restriction, entrapment
+numerical_relation: 5 + 8 = 13 (XIII Death; material loss meets mental bondage; hardship meeting the trapped mind)
+elemental_bridge: Earth's deprivation meets Air's self-made prison; the abandoned meets the mentally bound
+threshold_type: The trap within the trap; hardship meeting imprisonment
+
+dynamic_genesis:
+  mechanism: The 5's material trap and the 8's mental bondage recognize each other; deprivation and entrapment witness their shared captivity
+  process: the hardship sees that its prison is partly in the mind; the loss recognizes the 8's self-made bonds; the deprivation learns how much of its trap it built itself
+  outcome: recognition of the prison's nature; hardship seeing how much captivity is mental
+  key_terms: recognized prison, mental bondage, witnessed trap, shared captivity
+
+dynamic_antagonism:
+  mechanism: The 5's real material walls clash with the 8's imagined ones; hardship meets a bondage that is partly chosen
+  tension_axis: the reality of material deprivation versus the illusion of mental bonds; the true cage versus the believed one
+  five_of_pentacles_position: Its walls are real; poverty is no illusion to think one's way out of
+  eight_of_swords_position: The bonds are real to the one who feels them; the mind makes its own prison
+  key_terms: urged seeing, defended reality, insisted illusion, kept bondage
+
+dynamic_inhibition:
+  mechanism: The combined trap blinds both; neither can see the way out the other might have shown
+  blockade_nature: the material walls and the mental bonds reinforce one another into a total prison
+  pentacles_state: the hardship and the imprisonment compound; the deprivation cannot see past its bonds
+  consequence: both remain trapped, each confirming the other's captivity
+  key_terms: total prison, compounded trap, blinded hardship, confirmed bondage
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into total surrender to the prison; hardship becomes the conviction that escape is impossible
+  mode: the deprivation used to prove the bonds are unbreakable; the loss becomes the gospel that no one ever escapes
+  loss: the genuine freedom that seeing clearly might have offered; hardship becomes the warden of its own cell
+  key_terms: obsessive surrender, unbreakable bonds, imprisoned hardship, self-warden
+
+dynamic_dependency:
+  mechanism: The 5 needs the 8 to see which walls are real and which are mental; the imprisonment needs the deprivation to ground its sense of the trap in honest assessment
+  function: Pentacles-5 supplies the honest reckoning of real constraints; Swords-8 supplies the recognition that teaches hardship how much of its prison is in the mind
+  integration_outcome: clear sight of which bonds can be broken; captivity grounded in honest distinction of real and imagined walls
+  key_terms: clear sight, broken bonds, honest reckoning, freed hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, 9 of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
+numerical_relation: 5 + 9 = 14 (XIV Temperance; material loss meets mental anguish; hardship meeting the tormented mind)
+elemental_bridge: Earth's real deprivation meets Air's tormenting dread; the abandoned meets endless anxiety
+threshold_type: The dread that haunts the loss; hardship meeting anguish
+
+dynamic_genesis:
+  mechanism: The 9's anguish gives voice to the 5's silent suffering; the tormented mind articulates the dread deprivation carries
+  process: the hardship finds its fears named by the 9's nightmares; the loss recognizes its own anxiety in the tormented mind; the deprivation's silent dread is given form
+  outcome: hardship's dread articulated; deprivation's anxiety given voice and witness
+  key_terms: voiced dread, named anxiety, witnessed anguish, articulated fear
+
+dynamic_antagonism:
+  mechanism: The 5's real cause for fear clashes with the 9's exaggerating torment; hardship meets anxiety that multiplies the actual loss
+  tension_axis: the real basis of dread versus the mind's amplification; genuine hardship versus tormenting exaggeration
+  five_of_pentacles_position: Its fears are grounded in real loss; the 9 makes them monstrous
+  nine_of_swords_position: The mind sees the full horror the deprivation dares not face
+  key_terms: urged proportion, defended terror, insisted reality, kept torment
+
+dynamic_inhibition:
+  mechanism: The 9's torment amplifies the 5's hardship past bearing; the anxiety makes the real loss unendurable
+  blockade_nature: the anguish multiplies the deprivation until no action seems possible
+  pentacles_state: the hardship is paralyzed by amplified dread; the deprivation drowns in nightmare
+  consequence: the 5 cannot act for the terror; the real loss is made infinite by the tormented mind
+  key_terms: amplified dread, paralyzed hardship, infinite terror, drowned deprivation
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into total surrender to the nightmare; hardship becomes the conviction that the worst is certain
+  mode: the deprivation used to feed endless catastrophizing; the loss becomes the seed of unending dread
+  loss: the genuine proportion that might have made the loss bearable; hardship becomes the nightmare that never ends
+  key_terms: obsessive dread, endless nightmare, catastrophized hardship, unbearable loss
+
+dynamic_dependency:
+  mechanism: The 5 needs the 9 to voice the fears so they can be faced; the anguish needs the deprivation to ground its dread in what is real and what is not
+  function: Pentacles-5 supplies the reality check that distinguishes real loss from amplified terror; Swords-9 supplies the voicing that teaches hardship to face rather than bury its dread
+  integration_outcome: dread that is faced and proportioned; anxiety grounded in honest assessment of real loss
+  key_terms: faced dread, proportioned anxiety, grounded fear, bearable hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, 10 of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Destruction, ending, inevitable pain, completion through ruin, death-knife
+numerical_relation: 5 + 10 = 15 (XV The Devil; material loss meets total ruin; hardship meeting the final end)
+elemental_bridge: Earth's deprivation meets Air's complete destruction; the abandoned meets the utterly finished
+threshold_type: The bottom beneath the bottom; hardship meeting ruin
+
+dynamic_genesis:
+  mechanism: The 10's complete ending offers the 5 the strange mercy of the bottom; total ruin becomes the ground from which the only direction is up
+  process: the hardship reaches the absolute floor; the loss completes itself entirely; the deprivation discovers that having nothing left to lose is a kind of freedom
+  outcome: hardship at the true bottom; deprivation freed by having reached the end
+  key_terms: absolute floor, completed loss, freed hardship, final bottom
+
+dynamic_antagonism:
+  mechanism: The 5's clinging to remnants clashes with the 10's total ending; hardship meets the destruction it still resists
+  tension_axis: the desire to save scraps versus the completeness of ruin; partial loss versus total ending
+  five_of_pentacles_position: Still has a little left to lose; clings to the last remnants
+  ten_of_swords_position: The ending must be complete; half-deaths only prolong the agony
+  key_terms: urged ending, defended remnants, insisted completion, kept scraps
+
+dynamic_inhibition:
+  mechanism: The clinging to remnants stops the completion the 5 needs; the deprivation cannot reach the freeing bottom while it clutches the last scraps
+  blockade_nature: the ending cannot complete while the 5 refuses to let the last thing go
+  pentacles_state: the hardship is suspended in partial ruin; the deprivation neither recovers nor truly ends
+  consequence: the 5 hangs in endless dying; the completion that might free it is refused
+  key_terms: suspended ruin, partial ending, clutched scraps, endless dying
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the ending into nihilistic embrace of destruction; hardship becomes the worship of ruin itself
+  mode: the deprivation used to seek destruction as relief; the loss becomes the longing for total annihilation
+  loss: the genuine new beginning the bottom could have offered; hardship becomes the love of the abyss
+  key_terms: obsessive nihilism, worshipped ruin, annihilated hardship, loved abyss
+
+dynamic_dependency:
+  mechanism: The 5 needs the 10 to teach it that the bottom is also a beginning; the destruction needs the deprivation to remember that endings make room for what comes next
+  function: Pentacles-5 supplies the survival instinct that finds the floor to push off from; Swords-10 supplies the completion that teaches hardship that the worst, once arrived, can only improve
+  integration_outcome: ruin that becomes foundation; ending grounded in the truth that the bottom is where rebuilding starts
+  key_terms: grounded ending, new foundation, rebuilt hardship, completed bottom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, Page of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
+numerical_relation: 5 + 11 = 16 (XVI The Tower; material loss meets youthful inquiry; hardship meeting the questioner)
+elemental_bridge: Earth's resigned despair meets Air's restless questioning; the abandoned meets one who asks why
+threshold_type: The question that pierces resignation; hardship meeting inquiry
+
+dynamic_genesis:
+  mechanism: The Page's inquiry asks why the 5 must suffer; questioning becomes the first crack in resigned deprivation
+  process: the hardship is asked questions it had stopped asking; the loss is examined rather than merely endured; the deprivation begins to investigate its own causes
+  outcome: hardship that questions its condition; deprivation that begins to investigate the way out
+  key_terms: questioned hardship, examined loss, investigated deprivation, cracked resignation
+
+dynamic_antagonism:
+  mechanism: The 5's weary resignation clashes with the Page's relentless questioning; hardship meets inquiry that will not accept "this is just how it is"
+  tension_axis: the resignation of the defeated versus the persistence of inquiry; settled despair versus restless questioning
+  five_of_pentacles_position: Has stopped asking why; the questions only reopen the wounds
+  page_of_swords_position: The questions must be asked; resignation is the death of the mind
+  key_terms: urged inquiry, defended resignation, insisted questioning, kept despair
+
+dynamic_inhibition:
+  mechanism: The weight of hardship silences the questions; the deprivation teaches the Page that asking changes nothing
+  blockade_nature: the inquiry dies against the wall of resigned suffering
+  pentacles_state: the hardship spreads its resignation; the deprivation kills the young curiosity
+  consequence: the Page stops asking; the 5 makes another resigned soul
+  key_terms: silenced inquiry, killed curiosity, spread resignation, defeated questioning
+
+dynamic_devolution:
+  mechanism: The 5 corrupts inquiry into bitter rumination; hardship becomes the endless asking of "why me" without seeking answers
+  mode: the deprivation used to fuel self-pitying questions; the loss becomes the obsessive rehearsal of grievance
+  loss: the genuine investigation that might have found a way out; hardship becomes the loop of bitter wondering
+  key_terms: obsessive rumination, self-pitying inquiry, bitter hardship, looped grievance
+
+dynamic_dependency:
+  mechanism: The 5 needs the Page to ask the questions that begin escape; the inquiry needs the deprivation to ground its curiosity in real stakes
+  function: Pentacles-5 supplies the real conditions that give inquiry something worth investigating; Swords-Page supplies the questioning that teaches hardship that resignation is not the only response
+  integration_outcome: inquiry that seeks real ways out; curiosity grounded in the genuine puzzle of how to escape loss
+  key_terms: grounded inquiry, real investigation, escaping curiosity, questioned hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, Knight of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
+numerical_relation: 5 + 12 = 17 (XVII The Star; material loss meets aggressive action; hardship meeting the charging mind)
+elemental_bridge: Earth's stuck despair meets Air's headlong assault; the abandoned meets relentless drive
+threshold_type: The charge against the cause; hardship meeting aggressive action
+
+dynamic_genesis:
+  mechanism: The Knight's aggressive drive attacks the causes of the 5's hardship; direct confrontation becomes the assault on deprivation's sources
+  process: the hardship is offered a champion who charges its enemies; the loss is met by one who attacks its causes directly; the deprivation gains a fighter against its conditions
+  outcome: hardship given a champion; deprivation's causes confronted directly
+  key_terms: charged causes, confronted deprivation, direct assault, championed hardship
+
+dynamic_antagonism:
+  mechanism: The 5's depleted caution clashes with the Knight's reckless charge; hardship meets aggression that ignores the cost of failure
+  tension_axis: the carefulness of the depleted versus the recklessness of the charge; loss-taught caution versus headlong assault
+  five_of_pentacles_position: Cannot afford a failed charge; has nothing left to risk on aggression
+  knight_of_swords_position: Only the direct assault breaks the conditions; caution is surrender
+  key_terms: urged charge, demanded caution, insisted assault, kept care
+
+dynamic_inhibition:
+  mechanism: The fear of total loss stops the charge; the deprivation cannot risk its last reserves on aggressive action
+  blockade_nature: the assault cannot launch when the 5 is too depleted to survive its failure
+  pentacles_state: the hardship paralyzes the Knight's drive; the deprivation makes aggression impossible
+  consequence: the charge is never made; the causes of hardship go unconfronted
+  key_terms: stalled charge, paralyzed drive, unconfronted causes, frozen hardship
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the charge into self-destructive rage; hardship becomes the blind lashing-out at everything
+  mode: the deprivation used to fuel indiscriminate aggression; the loss becomes the rage that attacks even allies
+  loss: the genuine confrontation that might have changed conditions; hardship becomes the fury that destroys what little remains
+  key_terms: obsessive rage, blind lashing, self-destructive hardship, destroyed remnants
+
+dynamic_dependency:
+  mechanism: The 5 needs the Knight to attack the real causes of its loss; the aggression needs the deprivation to aim its charge at conditions rather than scapegoats
+  function: Pentacles-5 supplies the knowledge of what truly causes the hardship; Swords-Knight supplies the drive that teaches hardship that some conditions must be actively fought
+  integration_outcome: aggression aimed at real causes; direct action grounded in confronting the genuine sources of deprivation
+  key_terms: aimed assault, grounded action, confronted causes, championed hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, Queen of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
+numerical_relation: 5 + 13 = 18 (XVIII The Moon; material loss meets bitter wisdom; hardship meeting the discerning mind)
+elemental_bridge: Earth's deprivation meets Air's hard-won discernment; the abandoned meets one who has learned through loss
+threshold_type: The wisdom that came through loss; hardship meeting discernment
+
+dynamic_genesis:
+  mechanism: The Queen's bitter wisdom recognizes the 5's hardship as a teacher; discernment honors what loss has taught
+  process: the deprivation is met by one who has learned through her own losses; the hardship is shown that suffering can yield clear sight; the loss is honored as a source of hard wisdom
+  outcome: hardship recognized as teacher; deprivation honored for the discernment it can yield
+  key_terms: honored hardship, hard wisdom, learned discernment, taught loss
+
+dynamic_antagonism:
+  mechanism: The 5's raw suffering clashes with the Queen's distanced clarity; hardship meets a wisdom that can seem cold
+  tension_axis: the heat of present suffering versus the cool of detached wisdom; raw loss versus distanced discernment
+  five_of_pentacles_position: The suffering is too present for clear-eyed analysis; needs warmth, not cold sight
+  queen_of_swords_position: Only clear sight, however cold, will show the way; sentiment clouds judgment
+  key_terms: urged clarity, defended warmth, insisted discernment, kept rawness
+
+dynamic_inhibition:
+  mechanism: The rawness of hardship cannot receive the cool wisdom; the deprivation's pain rejects the Queen's distance
+  blockade_nature: the discernment cannot land when the 5 is too wounded for cold clarity
+  pentacles_state: the hardship rejects the wisdom as heartless; the deprivation refuses the clear sight it needs
+  consequence: the Queen's hard-won wisdom goes unreceived; the 5 stays in its raw suffering
+  key_terms: rejected wisdom, raw hardship, refused clarity, unreceived discernment
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the wisdom into bitter cynicism; hardship becomes the cold conviction that all is loss
+  mode: the deprivation used to fuel universal distrust; the loss becomes the basis for rejecting all warmth and hope
+  loss: the genuine discernment that might have lit a path; hardship becomes the bitterness that sees only darkness
+  key_terms: obsessive cynicism, cold bitterness, distrustful hardship, darkened wisdom
+
+dynamic_dependency:
+  mechanism: The 5 needs the Queen to turn its loss into clear sight; the wisdom needs the deprivation to keep its discernment warm with compassion
+  function: Pentacles-5 supplies the raw experience that wisdom must honor; Swords-Queen supplies the discernment that teaches hardship to convert loss into clear sight
+  integration_outcome: wisdom that is both clear and warm; discernment grounded in compassion for the suffering it understands
+  key_terms: warm wisdom, grounded discernment, compassionate clarity, learned hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS
+
+---
+
+card_pair: 5 of Pentacles, King of Swords
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_swords: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
+numerical_relation: 5 + 14 = 19 (XIX The Sun; material loss meets supreme judgment; hardship meeting absolute authority)
+elemental_bridge: Earth's desolation meets Air's commanding judgment; the abandoned stands before the cold judge
+threshold_type: The judgment upon the fallen; hardship meeting authority
+
+dynamic_genesis:
+  mechanism: The King's clear judgment can name the truth of the 5's condition without illusion or false comfort; supreme clarity gives deprivation an honest verdict
+  process: the hardship is judged truly, neither excused nor condemned; the loss is assessed with cold accuracy; the deprivation is given the dignity of honest judgment
+  outcome: hardship truly judged; deprivation given the clarity of an honest verdict
+  key_terms: honest judgment, true verdict, clear assessment, dignified hardship
+
+dynamic_antagonism:
+  mechanism: The 5's need for mercy clashes with the King's cold logic; hardship meets a judgment that weighs without warmth
+  tension_axis: the plea for mercy versus the demand for justice; suffering's need for compassion versus authority's cold scales
+  five_of_pentacles_position: Begs for mercy, not the cold weighing of its failures
+  king_of_swords_position: Justice cannot bend to pity; the truth must be spoken whatever it costs
+  key_terms: urged mercy, defended logic, insisted justice, kept coldness
+
+dynamic_inhibition:
+  mechanism: The coldness of judgment crushes the already-broken 5; the supreme clarity becomes condemnation rather than help
+  blockade_nature: the judgment offers truth but no path; the verdict names the loss but offers no mercy to bear it
+  pentacles_state: the hardship is condemned by clarity; the deprivation is crushed under cold judgment
+  consequence: the 5 is judged but not helped; the truth becomes another weight upon the fallen
+  key_terms: crushing judgment, cold condemnation, weighted hardship, merciless verdict
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the judgment into self-condemnation as absolute law; hardship becomes the internalized cold judge that permits no forgiveness
+  mode: the deprivation used to pronounce eternal sentence on itself; the loss becomes the supreme court that finds it forever guilty
+  loss: the genuine clarity that might have guided recovery; hardship becomes the tyranny of self-judgment
+  key_terms: obsessive condemnation, internalized judge, sentenced hardship, merciless self
+
+dynamic_dependency:
+  mechanism: The 5 needs the King to judge the truth so it can be faced; the authority needs the deprivation to temper its judgment with mercy for the broken
+  function: Pentacles-5 supplies the human suffering that judgment must account for; Swords-King supplies the clear judgment that teaches hardship the honest truth of its condition
+  integration_outcome: judgment that is both true and merciful; clarity grounded in justice tempered for the suffering it judges
+  key_terms: just mercy, grounded judgment, honest clarity, faced hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPS

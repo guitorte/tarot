@@ -10,7 +10,7 @@ devolution, dependency (the source instructions in `pairing/context.md`: X engen
 conflicts-with / stagnates-before / reduces-to / needs Y). Output is a machine-readable
 `key: value` block format defined by `FORMAT_SPEC.md`.
 
-## CURRENT STATE — Phase 3 IN PROGRESS 🔄 (74/74; Pentacles primary started)
+## CURRENT STATE — Phase 3 IN PROGRESS 🔄 (90/90; Pentacles Ace–5 complete)
 
 ### Phase 1 COMPLETE ✅ (56/56)
 All minor-suit Swords pairings are spec-conformant at v1.3.
@@ -47,17 +47,20 @@ All Swords × Major Arcana files completed (in `pairing/swords/`):
 `python3 pairing/validate.py` now scans **every `pairing/*/*_to_*.txt`** (not just swords).
 The validator is **primary-suit-aware**: it derives the primary suit from the parent
 directory, so all suit-specific tokens (field names, uid infix, elemental_primary, card_pair)
-follow. The Swords 70 stay green; 8 new Pentacles files bring the total to **78/78**.
+follow. The Swords 70 stay green; 20 new Pentacles files bring the total to **90/90**.
 
-Pentacles-primary files completed (in `pairing/pentacles/`):
-- ✅ `ace_to_cups.txt` — Ace of Pentacles × 14 Cups (earth→water, uid AOPC)
-- ✅ `ace_to_wands.txt` — Ace of Pentacles × 14 Wands (earth→fire, uid AOPW)
-- ✅ `ace_to_swords.txt` — Ace of Pentacles × 14 Swords (earth→air, uid AOPS)
-- ✅ `ace_to_pentacles.txt` — Ace of Pentacles × 14 Pentacles (earth→earth, same-suit, uid AOPP)
-- ✅ `2_to_cups.txt` — 2 of Pentacles × 14 Cups (earth→water, uid 2OPC)
-- ✅ `2_to_wands.txt` — 2 of Pentacles × 14 Wands (earth→fire, uid 2OPW)
-- ✅ `2_to_swords.txt` — 2 of Pentacles × 14 Swords (earth→air, uid 2OPS)
-- ✅ `2_to_pentacles.txt` — 2 of Pentacles × 14 Pentacles (earth→earth, same-suit, uid 2OPP)
+Pentacles-primary files completed (in `pairing/pentacles/`) — Ace through 5, each as a
+full four-file set (`_to_cups`/`_wands`/`_swords`/`_pentacles`), 14 blocks apiece:
+- ✅ Ace of Pentacles (uids AOPC / AOPW / AOPS / AOPP)
+- ✅ 2 of Pentacles (uids 2OPC / 2OPW / 2OPS / 2OPP)
+- ✅ 3 of Pentacles (uids 3OPC / 3OPW / 3OPS / 3OPP)
+- ✅ 4 of Pentacles (uids 4OPC / 4OPW / 4OPS / 4OPP)
+- ✅ 5 of Pentacles (uids 5OPC / 5OPW / 5OPS / 5OPP)
+
+Same-suit (`*_to_pentacles`) note: the self-pairing block (e.g. 5+5) sits at its ordinal
+position (block 5 for the 5-card) and uses `pentacles_position_1/_2`; all other blocks use
+named position labels (e.g. `five_of_pentacles_position`). Every block uses
+`archetype_pentacles_1/_2`. Validator enforces Ace→King block order.
 
 **The full Pentacles-primary spec is now §15 of `FORMAT_SPEC.md`** (read it before authoring
 more): field renames (`archetype_pentacles`, `pentacles_state`, `<S>_position_*`),
@@ -66,13 +69,14 @@ target-element `ontology`, and the canonical §15.3 `archetype_pentacles` table.
 rule holds: **the Pentacles card is always X**, the generating force (Ace of Pentacles → Y,
 never Y → Ace of Pentacles).
 
-## NEXT — continue Phase 3 (Pentacles primary, 3 → King)
-1. `python3 pairing/validate.py` → confirm 78/78.
+## NEXT — continue Phase 3 (Pentacles primary, 6 → King)
+1. `python3 pairing/validate.py` → confirm 90/90.
 2. Read `FORMAT_SPEC.md` §15 (and §2/§8 for the skeleton and quality bar).
-3. Author the remaining Pentacles primaries: 3, 4, … 10, page, knight, queen, king — each
+3. Author the remaining Pentacles primaries: 6, 7, … 10, page, knight, queen, king — each
    four files (`_to_cups/_wands/_swords/_pentacles`), 14 blocks each. Validator after each;
    commit per card or small group. Secondary archetype lines come verbatim from the existing
-   Swords pairing files (§15.2). Same-suit files: block 1 is the self-pairing.
+   Pentacles pairing files (grep `^archetype_<suit>:` in any completed `*_to_<suit>.txt`).
+   Same-suit files: the self-pairing block sits at the card's ordinal position, not block 1.
 4. Optional later: Pentacles × Major Arcana, then Cups-primary / Wands-primary lineages (each
    needs its own §15.3-style table added to the spec and to `validate.py`'s `ARCH_PRIMARY`).
 5. Legacy: Swords `3_to_major.txt` still uses the inverted perspective; rewrite only when the

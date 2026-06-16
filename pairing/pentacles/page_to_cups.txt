@@ -1,0 +1,697 @@
+card_pair: Page of Pentacles, Ace of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Emotional opening, love, receptivity, new feeling, overflowing heart
+numerical_relation: 11 + 1 = 12 (XII The Hanged Man; apprentice meets new feeling; the curious learner meets the overflowing heart)
+elemental_bridge: Earth's practical curiosity meets Water's opening heart; the apprentice meets the newly opened feeling
+threshold_type: The learner opened by new emotion; potential meeting overflowing heart
+
+dynamic_genesis:
+  mechanism: The Ace's opening heart shows the Page that learning includes emotional understanding; the new feeling gives the apprenticeship warmth and human meaning
+  process: the curious learner discovers emotional depth through the heart's opening; the material study gains living feeling; the apprenticeship becomes a human enterprise, not merely intellectual
+  outcome: learning enriched by new emotional opening; the apprentice given human warmth through opened feeling
+  key_terms: humanized learning, opened apprentice, enriched curiosity, felt potential
+
+dynamic_antagonism:
+  mechanism: The Page's intellectual curiosity clashes with the Ace's emotional demand; the learner sees feelings as distraction from practical understanding
+  tension_axis: intellectual learning versus emotional opening; objective study versus feeling-based wisdom
+  page_of_pentacles_position: Feelings complicate clear learning; the emotional opening is a distraction from practical knowledge
+  ace_of_cups_position: The heart's opening is the deepest learning; the intellectual curiosity denies the wisdom of feeling
+  key_terms: urged feeling, defended intellect, insisted emotion, kept objectivity
+
+dynamic_inhibition:
+  mechanism: The Page's focus on objective learning prevents the Ace's full emotional opening; the apprentice cannot receive the feeling the heart offers
+  blockade_nature: the emotional opening cannot proceed while the learner insists on maintaining emotional distance
+  pentacles_state: the apprentice becomes cold; the curious mind turns into the intellect that refuses the warmth of feeling
+  consequence: the feeling is rejected; the Page's objectivity prevents the Ace's opening
+  key_terms: rejected feeling, cold learning, refused emotion, defended distance
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into cynical skepticism; the apprentice uses knowledge to dismiss the heart's opening as naive
+  mode: the curiosity weaponized to discredit emotion; the learning becomes the tool that ridicules and rejects authentic feeling
+  loss: the genuine wisdom emotional opening could bring; the apprentice becomes the smart cynic who has learned to despise the heart
+  key_terms: cynical learning, weaponized intellect, despised feeling, hardened apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the Ace to show that true learning includes emotional intelligence; the opening heart needs the apprentice's willingness to learn from feeling
+  function: Pentacles-Page supplies the intellectual foundation that can make emotional wisdom comprehensive; Cups-Ace supplies the opened heart that teaches the deepest learning
+  integration_outcome: an apprentice learning to integrate emotion and intellect; the curious mind opened to wisdom that comes through the heart
+  key_terms: integrated learning, opened apprentice, felt wisdom, whole understanding
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, 2 of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Partnership, duality, emotional connection, mutual feeling, balanced union
+numerical_relation: 11 + 2 = 13 (XIII Death; apprentice meets partnership; the curious learner meets mutual feeling)
+elemental_bridge: Earth's practical study meets Water's mutual bond; the apprentice meets the offered partnership
+threshold_type: The learner learning partnership; potential meeting mutual union
+
+dynamic_genesis:
+  mechanism: The 2's partnership teaches the Page its greatest subject: how to relate; the mutual feeling shows the apprentice that connection is itself profound learning
+  process: the curious learner discovers partnership as a field of study; the apprenticeship finds its deepest meaning in the mutual bond; the learner becomes the student of relationship
+  outcome: apprenticeship deepened by partnership; the learner discovering connection as the ultimate subject
+  key_terms: learned partnership, mutual apprentice, deepened learning, relational wisdom
+
+dynamic_antagonism:
+  mechanism: The Page's need to maintain objective distance clashes with the 2's demand for mutual vulnerability; the learner wants to observe, not participate
+  tension_axis: objective study versus mutual participation; observation versus shared feeling
+  page_of_pentacles_position: Partnership complicates clear observation; the mutual feeling threatens analytical distance
+  two_of_cups_position: True partnership requires full participation; the apprentice's observation keeps them separate
+  key_terms: urged participation, defended observation, insisted connection, kept distance
+
+dynamic_inhibition:
+  mechanism: The Page's fear of being wrong prevents full partnership; the apprentice cannot risk the vulnerability true union requires
+  blockade_nature: the mutual feeling cannot deepen while the learner must maintain the safety of objectivity
+  pentacles_state: the apprentice becomes isolated; the learning turns into the lonely study that cannot join with others
+  consequence: the partnership is prevented; the Page's need for safe distance blocks the 2's union
+  key_terms: lonely learning, isolated apprentice, prevented partnership, defended separation
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into instrumental use of others; the apprentice learns partnership only as a means to advancement
+  mode: the curiosity weaponized to extract value from relationships; the apprenticeship becomes the study of how to use others
+  loss: the genuine mutual feeling partnership offers; the apprentice becomes the calculating mind that learns to exploit connection
+  key_terms: instrumental learning, exploited partnership, calculating apprentice, corrupted union
+
+dynamic_dependency:
+  mechanism: The Page needs the 2 to teach that the deepest learning is relational; the partnership needs the apprentice's genuine curiosity to learn from the other
+  function: Pentacles-Page supplies the willingness to learn; Cups-2 supplies the mutual teaching that shows learning is deepest in connection
+  integration_outcome: an apprentice learning through partnership; the mutual bond itself becoming the subject of profound study
+  key_terms: mutual learning, relational apprentice, connected wisdom, taught partnership
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, 3 of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Celebration, joy, emotional communion, friendship, festive togetherness
+numerical_relation: 11 + 3 = 14 (XIV Temperance; apprentice meets celebration; the curious learner meets festive joy)
+elemental_bridge: Earth's focused study meets Water's festive communion; the apprentice meets the celebrating circle
+threshold_type: The learner invited to celebration; potential meeting communal joy
+
+dynamic_genesis:
+  mechanism: The 3's celebration shows the Page that learning is a social joy; the festive communion invites the apprentice into shared discovery
+  process: the curious learner joins the celebrating circle; the apprenticeship becomes a shared journey; the learning is discovered through communal joy
+  outcome: apprenticeship enriched by celebration; the learner discovering joy in shared discovery
+  key_terms: joyful learning, celebrating apprentice, shared discovery, communal wisdom
+
+dynamic_antagonism:
+  mechanism: The Page's focused study clashes with the 3's insistence on celebration; the learner sees festive distraction as incompatible with serious work
+  tension_axis: focused learning versus festive joy; serious work versus celebratory community
+  page_of_pentacles_position: The work requires focus; celebration is distraction from proper study
+  three_of_cups_position: Joy is the point of everything; the serious learner misses the celebration that makes learning alive
+  key_terms: urged celebration, defended focus, insisted joy, kept work
+
+dynamic_inhibition:
+  mechanism: The Page's seriousness prevents the 3's full celebration; the apprentice cannot relax into the joy festive community requires
+  blockade_nature: the celebration cannot fully include one who insists on maintaining serious boundaries
+  pentacles_state: the apprentice becomes isolated; the focused study turns into the lonely work that cannot join the festive circle
+  consequence: the joy is diminished; the Page's seriousness prevents the 3's full celebration
+  key_terms: diminished joy, isolated apprentice, prevented celebration, serious exclusion
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into joyless grinding; the apprentice uses work as an excuse to avoid the vulnerability celebration requires
+  mode: the curiosity turned into obsessive study; the learning becomes the escape from the communal joy that might require genuine connection
+  loss: the genuine joy shared learning could offer; the apprentice becomes the driven student who has forgotten why learning matters
+  key_terms: joyless learning, obsessive study, avoided celebration, driven loneliness
+
+dynamic_dependency:
+  mechanism: The Page needs the 3 to show that learning is ultimately joyful; the celebration needs the apprentice's genuine curiosity to discover together
+  function: Pentacles-Page supplies the sincere pursuit of knowledge; Cups-3 supplies the shared joy that makes learning a communal treasure
+  integration_outcome: an apprentice learning through celebrating community; the shared discovery made possible through festive connection
+  key_terms: joyful learning, celebrating apprentice, shared discovery, communal wisdom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, 4 of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Apathy, emotional stagnation, dissatisfaction, withdrawn feeling, boredom
+numerical_relation: 11 + 4 = 15 (XV The Devil; apprentice meets apathy; the curious learner meets listless withdrawal)
+elemental_bridge: Earth's eager study meets Water's listless boredom; the apprentice meets the disengaged feeling
+threshold_type: The learner confronting meaninglessness; potential meeting apathetic emptiness
+
+dynamic_genesis:
+  mechanism: The Page's curiosity can reignite the 4's lost desire; the sincere learning shows that there is something worth wanting beyond the boredom
+  process: the apprentice's genuine pursuit awakens the 4 to new possibility; the focused learning demonstrates that engagement is possible; the apprentice becomes the model of meaningful pursuit
+  outcome: apathy challenged by genuine curiosity; the learner showing that desire can be reborn
+  key_terms: reawakened desire, engaged apprentice, meaningful pursuit, revived learning
+
+dynamic_antagonism:
+  mechanism: The Page's eager curiosity clashes with the 4's listless certainty; the learner's enthusiasm seems naive to the withdrawn one
+  tension_axis: eager learning versus apathetic certainty; meaningful pursuit versus proven meaninglessness
+  page_of_pentacles_position: There is something worth learning; the apathy is a trap to escape
+  four_of_cups_position: The enthusiasm is denial; nothing is worth wanting; the learner simply hasn't learned yet
+  key_terms: urged engagement, defended withdrawal, insisted meaning, kept apathy
+
+dynamic_inhibition:
+  mechanism: The 4's apathy poisons the Page's curiosity; the meaninglessness seeps into the apprenticeship
+  blockade_nature: the learning cannot sustain its meaning while surrounded by the 4's profound doubt
+  pentacles_state: the apprentice becomes infected; the curiosity turns into mechanical study without genuine engagement
+  consequence: the learning dies; the 4's apathy prevents the Page's genuine curiosity
+  key_terms: infected learning, mechanical study, poisoned curiosity, deadened apprentice
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into competitive achievement; the apprentice learns to pursue success as a way to deny the emptiness the 4 feels
+  mode: the curiosity weaponized against the self; the learning becomes the frantic pursuit that masks underlying meaninglessness
+  loss: the genuine engagement that learning once offered; the apprentice becomes the driven student pursuing achievement to prove life has meaning
+  key_terms: competitive learning, frantic pursuit, denied emptiness, driven achievement
+
+dynamic_dependency:
+  mechanism: The Page needs the 4 to teach that learning must address genuine meaninglessness; the apathy needs the apprentice to show that curiosity can be real
+  function: Pentacles-Page supplies the genuine engagement that can begin to address the 4's withdrawal; Cups-4 supplies the honest recognition that not all learning is meaningful
+  integration_outcome: an apprentice learning what truly matters; the curiosity grounded in genuine engagement rather than mechanical pursuit
+  key_terms: meaningful learning, engaged apprentice, genuine curiosity, vital study
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, 5 of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Loss, grief, heartbreak, mourning, emotional devastation
+numerical_relation: 11 + 5 = 16 (XVI The Tower; apprentice meets grief; the curious learner meets deep loss)
+elemental_bridge: Earth's eager study meets Water's spilled sorrow; the apprentice meets the grieving heart
+threshold_type: The learner confronting loss; potential meeting devastating grief
+
+dynamic_genesis:
+  mechanism: The Page's willingness to learn includes learning grief; the apprentice becomes the student of how loss shapes and deepens us
+  process: the curious learner studies the 5's sorrow with compassion; the apprenticeship expands to include emotional wisdom; the learning becomes the way to honor what has been lost
+  outcome: learning deepened by grief; the apprentice discovering wisdom in sorrow
+  key_terms: compassionate learning, deepened apprentice, honored loss, wisdom through sorrow
+
+dynamic_antagonism:
+  mechanism: The Page's practical learning clashes with the 5's insistence that some things cannot be studied; the learner wants solutions while grief demands witness
+  tension_axis: practical learning versus honoring loss; problem-solving versus bearing witness
+  page_of_pentacles_position: Loss can be understood and learned from; the study will help recovery
+  five_of_cups_position: This loss is beyond learning; the apprentice's study trivializes what is irreplaceable
+  key_terms: urged study, defended grief, insisted meaning, kept loss
+
+dynamic_inhibition:
+  mechanism: The Page's need for progress prevents genuine mourning; the apprentice cannot stay with the grief long enough to truly understand it
+  blockade_nature: the mourning cannot be complete while the learner insists on moving toward understanding and recovery
+  pentacles_state: the apprentice becomes callous; the eager study turns into the mechanical processing of loss
+  consequence: the grief is not truly honored; the Page's pace prevents the 5's necessary mourning
+  key_terms: callous learning, processed grief, trivialized loss, hurried apprentice
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into using grief as a subject of study; the apprentice learns to intellectualize sorrow to avoid feeling it
+  mode: the curiosity weaponized against the heart; the learning becomes the study that replaces genuine mourning with intellectual engagement
+  loss: the genuine compassion that learning could offer; the apprentice becomes the student who has learned to use intellect to avoid the heart
+  key_terms: intellectualized grief, avoided mourning, weaponized learning, hardened apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the 5 to teach that learning includes sitting with what cannot be solved; the grief needs the apprentice's compassionate attention
+  function: Pentacles-Page supplies the caring attention that can honor loss; Cups-5 supplies the depth that shows not all learning is about solutions
+  integration_outcome: an apprentice learning to honor grief; the study that includes mourning as a form of wisdom
+  key_terms: compassionate learning, mourned loss, deepened apprentice, honored sorrow
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, 6 of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Nostalgia, innocence, reunion, past tenderness, childhood wonder
+numerical_relation: 11 + 6 = 17 (XVII The Star; apprentice meets nostalgia; the curious learner meets remembered innocence)
+elemental_bridge: Earth's eager learning meets Water's tender memory; the apprentice meets the innocent past
+threshold_type: The learner encountering lost innocence; potential meeting remembered wonder
+
+dynamic_genesis:
+  mechanism: The 6's tender memory shows the Page that learning includes reconnecting with wonder; the innocence of approach can be recovered
+  process: the curious learner remembers the simple joy of discovery; the apprenticeship is reborn with childlike wonder; the learning becomes the recovery of innocence
+  outcome: learning renewed by innocence; the apprentice remembering why discovery matters
+  key_terms: renewed learning, innocent apprentice, recovered wonder, joyful discovery
+
+dynamic_antagonism:
+  mechanism: The Page's serious study clashes with the 6's insistence on tender simplicity; the apprentice sees the innocence as naive compared to real knowledge
+  tension_axis: serious learning versus innocent wonder; sophisticated knowledge versus simple tenderness
+  page_of_pentacles_position: Real learning requires moving beyond childhood innocence; the nostalgia is a barrier to genuine understanding
+  six_of_cups_position: The learning has lost the wonder that made it beautiful; the serious study is a corruption of discovery
+  key_terms: urged innocence, defended seriousness, insisted wonder, kept sophistication
+
+dynamic_inhibition:
+  mechanism: The Page's sophisticated approach prevents the 6's tender innocence; the apprentice cannot return to the wonder required for true reunion
+  blockade_nature: the innocence cannot be recovered while the learner insists on maintaining analytical distance
+  pentacles_state: the apprentice becomes cynical; the eager learning turns into the jaded study that cannot reconnect with wonder
+  consequence: the innocence is lost; the Page's seriousness prevents the 6's tender reunion
+  key_terms: lost innocence, cynical learning, jaded study, prevented reunion
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into nostalgic wasting; the apprentice uses memory to avoid present learning
+  mode: the curiosity turned toward the past; the learning becomes the dwelling in what was rather than pursuing what could be
+  loss: the genuine forward learning that discovery offers; the apprentice becomes the nostalgic student unable to move beyond remembered innocence
+  key_terms: nostalgic wasting, backward learning, avoided discovery, stuck apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the 6 to show that genuine learning recovers the wonder of discovery; the innocence needs the apprentice's willingness to relearn with fresh eyes
+  function: Pentacles-Page supplies the earnest pursuit that recovers innocence; Cups-6 supplies the tender wisdom that learning's deepest gift is recovered wonder
+  integration_outcome: an apprentice learning with recovered innocence; the study that becomes a joyful reunion with wonder
+  key_terms: innocent learning, recovered wonder, joyful apprentice, renewed discovery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, 7 of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Illusion, temptation, fantasy, confusion, delusional desire
+numerical_relation: 11 + 7 = 18 (XVIII The Moon; apprentice meets illusion; the curious learner meets seductive fantasy)
+elemental_bridge: Earth's grounded study meets Water's illusory dreams; the apprentice meets the seductive fantasy
+threshold_type: The learner seduced by false knowledge; potential meeting delusional desire
+
+dynamic_genesis:
+  mechanism: The Page's genuine learning keeps the 7's illusions at bay; the sincere pursuit of truth reveals what is false
+  process: the curious apprentice questions the seductive illusions; the earnest study penetrates the 7's confusion; the learning becomes the way to discern truth from illusion
+  outcome: illusion exposed by genuine study; the learner discovering truth through earnest pursuit
+  key_terms: discerned truth, grounded learning, exposed illusion, genuine apprentice
+
+dynamic_antagonism:
+  mechanism: The Page's earnest study clashes with the 7's seductive appeal; the learner sees dull truth while the illusion glitters
+  tension_axis: earnest truth versus seductive illusion; grounded study versus dazzling fantasy
+  page_of_pentacles_position: The real learning, though less glamorous, is worth pursuing
+  seven_of_cups_position: The illusion is more beautiful; the earnest apprentice is willfully blind to greater possibility
+  key_terms: urged vision, defended truth, insisted illusion, kept reality
+
+dynamic_inhibition:
+  mechanism: The 7's seductive illusions tempt the Page away from genuine learning; the apprentice cannot maintain focus while surrounded by false promises
+  blockade_nature: the sincere study cannot continue while the illusions pull constantly toward easier paths
+  pentacles_state: the apprentice becomes distracted; the eager learning turns into scattered pursuit of false knowledge
+  consequence: the learning fails; the 7's seduction prevents the Page's genuine study
+  key_terms: scattered learning, broken focus, seduced apprentice, failed pursuit
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into the sophisticated study of illusions; the apprentice becomes the master of false knowledge
+  mode: the curiosity weaponized to elaborate beautiful lies; the learning becomes the construction of increasingly elaborate deceptions
+  loss: the genuine truth that learning could uncover; the apprentice becomes the intelligent person who has learned to be brilliantly deceived
+  key_terms: sophisticated deception, elaborate illusion, false mastery, corrupted apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the 7 to learn to distinguish truth from illusion; the seductive fantasy needs the apprentice's genuine questioning to expose itself
+  function: Pentacles-Page supplies the honest pursuit that tests and discerns truth; Cups-7 supplies the warning that even learning can be seductive illusion
+  integration_outcome: an apprentice learning to discern truth from illusion; the study grounded in reality even while understanding the seductive power of false knowledge
+  key_terms: discerned learning, grounded apprentice, exposed illusion, genuine truth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, 8 of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Abandonment, departure, walking away, chosen leaving, emotional departure
+numerical_relation: 11 + 8 = 19 (XIX The Sun; apprentice meets departure; the curious learner meets necessary leaving)
+elemental_bridge: Earth's grounded study meets Water's walking away; the apprentice meets the chosen departure
+threshold_type: The learner abandoned by the teacher; potential meeting necessary departure
+
+dynamic_genesis:
+  mechanism: The Page accepts the 8's necessary leaving; the apprentice learns that some teachers must depart, and this too is part of the education
+  process: the curious learner understands the 8's need to go; the apprenticeship teaches that growth sometimes means releasing what nurtured us; the learning becomes the practice of letting go
+  outcome: apprenticeship deepened by acceptance; the learner discovering that release is part of wisdom
+  key_terms: accepted leaving, mature apprentice, learned release, deepened understanding
+
+dynamic_antagonism:
+  mechanism: The Page's desire for continued instruction clashes with the 8's need to depart; the learner wants to keep the teacher while departure demands release
+  tension_axis: continued learning versus necessary departure; holding on versus letting go
+  page_of_pentacles_position: The teacher is essential; the departure threatens the apprenticeship
+  eight_of_cups_position: The departure is necessary; the apprentice's need to hold on prevents growth
+  key_terms: urged release, defended need, insisted departure, kept holding
+
+dynamic_inhibition:
+  mechanism: The Page's clinging prevents the 8's full departure; the apprentice cannot release the teacher enough to allow true leaving
+  blockade_nature: the necessary journey cannot be completed while the learner insists on maintaining the connection
+  pentacles_state: the apprentice becomes a chain; the learning turns into the anchor that prevents necessary movement
+  consequence: the departure is incomplete; the Page's resistance prevents the 8's full transition
+  key_terms: resisted departure, holding chain, prevented journey, incomplete leaving
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into resentful attachment; the apprentice uses knowledge as a way to keep the teacher bound
+  mode: the curiosity weaponized to guilt the departing one; the learning becomes the claim that holds and accuses
+  loss: the genuine understanding that release is part of wisdom; the apprentice becomes the bitter student who learned only to control
+  key_terms: resentful learning, bitter attachment, controlling apprentice, weaponized knowledge
+
+dynamic_dependency:
+  mechanism: The Page needs the 8 to teach that some learning only happens through necessary separation; the departure needs the apprentice's acceptance to be a clean release
+  function: Pentacles-Page supplies the mature understanding that release is part of the journey; Cups-8 supplies the model of necessary departure
+  integration_outcome: an apprentice who understands that growth requires releasing teachers; the learning that transforms through accepted departure
+  key_terms: mature learning, accepted departure, released apprentice, completed education
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, 9 of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Wish fulfillment, contentment, emotional satisfaction, satisfied desire, achieved happiness
+numerical_relation: 11 + 9 = 20 (XX Judgement; apprentice meets fulfillment; the curious learner meets achieved happiness)
+elemental_bridge: Earth's eager study meets Water's satisfied heart; the apprentice meets the fulfilled desire
+threshold_type: The learner discovering that learning leads to satisfaction; potential meeting achieved happiness
+
+dynamic_genesis:
+  mechanism: The Page's sincere study finds its reward in the 9's satisfaction; the learning leads to genuine fulfillment
+  process: the curious apprentice pursues knowledge and discovers that the journey itself brings happiness; the learning becomes the path to contentment; the 9 proves the study was worthwhile
+  outcome: apprenticeship validated by satisfaction; the learner discovering that genuine pursuit leads to true happiness
+  key_terms: validated learning, satisfied apprentice, pursued happiness, fulfilled discovery
+
+dynamic_antagonism:
+  mechanism: The Page's unending curiosity clashes with the 9's contentment; the learner sees the satisfaction as complacency while the 9 sees the study as never enough
+  tension_axis: continued pursuit versus satisfied completion; endless learning versus achieved happiness
+  page_of_pentacles_position: The study must continue; satisfaction is giving up the pursuit
+  nine_of_cups_position: The learning is enough; the endless pursuit prevents happiness
+  key_terms: urged satisfaction, defended pursuit, insisted completion, kept learning
+
+dynamic_inhibition:
+  mechanism: The Page's restless learning prevents the 9's full satisfaction; the apprentice cannot rest in the happiness the study achieved
+  blockade_nature: the satisfaction cannot be complete while the learner insists there is always more to study
+  pentacles_state: the apprentice becomes restless; the satisfied heart cannot settle while the eager mind demands new pursuits
+  consequence: the happiness is incomplete; the Page's endless curiosity prevents the 9's contentment
+  key_terms: incomplete happiness, restless apprentice, unsettled satisfaction, endless study
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into the addiction to acquisition; the apprentice uses study to chase happiness endlessly
+  mode: the curiosity weaponized into compulsive accumulation; the learning becomes the frantic pursuit that mistakes getting more for achieving happiness
+  loss: the genuine satisfaction that true learning leads to; the apprentice becomes the driven student who has learned only to want more
+  key_terms: compulsive learning, driven accumulation, chased happiness, endless pursuit
+
+dynamic_dependency:
+  mechanism: The Page needs the 9 to show that genuine study leads to satisfaction; the contentment needs the apprentice's willingness to learn to fully appreciate what has been achieved
+  function: Pentacles-Page supplies the sincere pursuit that earns happiness; Cups-9 supplies the proof that the learning was worthwhile
+  integration_outcome: an apprentice discovering that genuine study leads to true satisfaction; the learning that fulfills rather than frustrates
+  key_terms: satisfied learning, achieved apprentice, fulfilled discovery, earned happiness
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, 10 of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Family harmony, happiness, love's fulfillment, emotional completeness, belonging
+numerical_relation: 11 + 10 = 21 (XXI The World; apprentice meets family; the curious learner meets family belonging)
+elemental_bridge: Earth's eager learning meets Water's family harmony; the apprentice meets the family bond
+threshold_type: The learner finding home through learning; potential meeting complete belonging
+
+dynamic_genesis:
+  mechanism: The Page's sincere learning helps build and maintain the 10's family harmony; the apprentice becomes the student who honors the family through dedicated study
+  process: the curious learner contributes to the family through earnest knowledge-seeking; the apprenticeship is lived within the family context; the learning becomes the expression of belonging
+  outcome: family enriched by the apprentice's learning; the learner discovering belonging through sincere study
+  key_terms: family learning, belonging apprentice, honored study, integrated potential
+
+dynamic_antagonism:
+  mechanism: The Page's individual pursuit clashes with the 10's family obligation; the learner wants to pursue their own path while the family demands participation
+  tension_axis: individual curiosity versus family duty; personal pursuit versus family obligation
+  page_of_pentacles_position: The learning must come first; family expectations constrain discovery
+  ten_of_cups_position: The family is what matters; the individual pursuit threatens belonging
+  key_terms: urged obligation, defended pursuit, insisted family, kept independence
+
+dynamic_inhibition:
+  mechanism: The 10's family demands prevent the Page's full development; the apprentice cannot pursue their learning while constrained by family expectation
+  blockade_nature: the genuine curiosity cannot flourish while the family insists the learning serve family purposes
+  pentacles_state: the apprentice becomes trapped; the potential turns into the constrained learner who cannot grow freely
+  consequence: the learning is limited; the 10's family demands prevent the Page's full development
+  key_terms: limited learning, trapped apprentice, constrained potential, compromised discovery
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into either bitter resentment of the family or loss of individual voice; the apprentice either rebels or becomes absorbed
+  mode: the curiosity either weaponized against the family or completely surrendered to family purposes; the learning becomes either rebellion or loss of self
+  loss: the genuine integration that learning could offer the family; the apprentice becomes either the rebel who has lost belonging or the absorbed one who has lost themselves
+  key_terms: bitter learning, lost voice, absorbed apprentice, family conflict
+
+dynamic_dependency:
+  mechanism: The Page needs the 10 to show that true learning includes honoring belonging; the family harmony needs the apprentice's genuine curiosity to remain alive and growing
+  function: Pentacles-Page supplies the vital energy that keeps the family from becoming static; Cups-10 supplies the belonging that makes the learning meaningful
+  integration_outcome: an apprentice learning within family belonging; the discovery honored and integrated into the family harmony
+  key_terms: family learning, integrated apprentice, vital belonging, honored potential
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, Page of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Curiosity, emotional exploration, feeling-learning, youthful receptivity, openness
+numerical_relation: 11 + 11 = 22 → 2+2=4 (IV The Emperor; apprentice meets apprentice; the curious learner meets emotional learner)
+elemental_bridge: Earth's practical curiosity meets Water's emotional openness; the earthly apprentice meets the heart's apprentice
+threshold_type: The two learners meeting; potential meeting receptive potential
+
+dynamic_genesis:
+  mechanism: The two Pages learn differently but can teach each other; material curiosity enriches emotional learning and vice versa
+  process: the earthly apprentice learns the depths of feeling from the water apprentice; the emotional learner discovers the grounding material wisdom provides; they become teachers to each other
+  outcome: mutual learning enriched; each apprentice discovering the wisdom the other carries
+  key_terms: mutual learning, enriched apprentices, integrated wisdom, complementary discovery
+
+dynamic_antagonism:
+  mechanism: The Page of Pentacles' practical focus clashes with the Page of Cups' emotional depth; they disagree on what matters in learning
+  tension_axis: practical knowledge versus emotional wisdom; material study versus feeling-based learning
+  page_of_pentacles_position: Emotions complicate real learning; stick to what can be studied objectively
+  page_of_cups_position: Material learning without feeling is empty; the heart must be open to true understanding
+  key_terms: urged feeling, defended practicality, insisted emotion, kept objectivity
+
+dynamic_inhibition:
+  mechanism: The Pentacles Page's focus prevents the Cups Page's full emotional expression; the practical learner cannot hear the emotional wisdom
+  blockade_nature: the emotional learning cannot proceed while the practical apprentice insists on objective distance
+  pentacles_state: the earthly learner becomes isolated; the practical study turns into lonely objectivity
+  consequence: the emotional wisdom is missed; the Pentacles Page's practicality prevents the Cups Page's full expression
+  key_terms: isolated learning, missed wisdom, blocked emotion, separated discovery
+
+dynamic_devolution:
+  mechanism: The Pentacles Page corrupts its learning into cynicism; the Cups Page corrupts into sentimental escape; they teach each other distortion
+  mode: the earthly learner weaponizes objectivity against feeling; the emotional learner weaponizes feeling against truth; they become corrupted teachers
+  loss: the genuine mutual learning that could enrich both; they become models of corruption to each other
+  key_terms: corrupted learning, cynical objectivity, sentimental escape, distorted wisdom
+
+dynamic_dependency:
+  mechanism: Each Page needs the other to become whole; the Pentacles Page needs emotional depth, the Cups Page needs material grounding
+  function: Pentacles-Page supplies the practical grounding that makes feeling genuine; Cups-Page supplies the emotional depth that makes learning alive
+  integration_outcome: two apprentices learning to integrate practical wisdom and emotional intelligence; the discovery made complete through mutual teaching
+  key_terms: integrated learning, enriched apprentices, complementary wisdom, mutual growth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, Knight of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Romance, emotional action, passionate pursuit, love-driven action, heart's quest
+numerical_relation: 11 + 12 = 23 → 2+3=5 (V The Pope; apprentice meets passionate pursuit; the curious learner meets the romantic knight)
+elemental_bridge: Earth's grounded learning meets Water's passionate movement; the apprentice meets the love-driven seeker
+threshold_type: The learner inspired by passionate pursuit; potential meeting romantic action
+
+dynamic_genesis:
+  mechanism: The Knight's passionate pursuit shows the Page that learning can be driven by love; the romantic quest makes study meaningful and alive
+  process: the curious apprentice is inspired by the Knight's conviction; the learning becomes a pursuit with heart; the study discovers passion as its deepest fuel
+  outcome: apprenticeship infused with passion; the learner discovering that love can drive learning
+  key_terms: inspired learning, passionate apprentice, heart-driven study, alive discovery
+
+dynamic_antagonism:
+  mechanism: The Page's careful study clashes with the Knight's reckless passion; the learner sees the emotional action as ungrounded while the Knight sees study as missing the point
+  tension_axis: careful study versus passionate action; grounded learning versus love-driven quest
+  page_of_pentacles_position: Passion without study is recklessness; the quest needs grounding in knowledge
+  knight_of_cups_position: Study without passion is dead; the Knight's quest honors what the learner misses
+  key_terms: urged passion, defended study, insisted action, kept learning
+
+dynamic_inhibition:
+  mechanism: The Page's careful pace prevents the Knight's full passionate movement; the apprentice cannot move fast enough to accompany the quest
+  blockade_nature: the passionate pursuit cannot proceed while the learner insists on careful deliberation
+  pentacles_state: the apprentice becomes static; the learning turns into the cautious study that cannot match the Knight's speed
+  consequence: the quest moves on without the learner; the Page's caution prevents the Knight's full momentum
+  key_terms: static learning, cautious apprentice, abandoned quest, slowed movement
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into excuse-making for not following the Knight; the apprentice uses study as a way to avoid the vulnerability the quest requires
+  mode: the curiosity weaponized to explain why passionate pursuit is impossible; the learning becomes the rationalization of fear
+  loss: the genuine passion that could animate study; the apprentice becomes the careful student who has learned to be afraid of living fully
+  key_terms: rationalizing learning, excused caution, avoided passion, fearful apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the Knight to show that learning is ultimately in service of living passionately; the passionate pursuit needs the apprentice's groundedness to sustain the journey
+  function: Pentacles-Page supplies the careful knowledge that makes the passionate quest sustainable; Cups-Knight supplies the passionate conviction that keeps study from becoming mere accumulation
+  integration_outcome: an apprentice learning in service of passionate pursuit; the knowledge that empowers the quest to continue
+  key_terms: inspired learning, sustained pursuit, passionate apprentice, lived discovery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, Queen of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Emotional mastery, nurturing wisdom, intuitive understanding, emotional authority, compassion
+numerical_relation: 11 + 13 = 24 → 2+4=6 (VI The Lovers; apprentice meets emotional mastery; the curious learner meets nurturing wisdom)
+elemental_bridge: Earth's eager study meets Water's nurturing wisdom; the apprentice meets the compassionate master
+threshold_type: The learner guided by emotional wisdom; potential meeting nurturing mastery
+
+dynamic_genesis:
+  mechanism: The Queen's nurturing wisdom guides the Page's learning in the deepest way; the apprentice discovers that the most important knowledge comes through the heart
+  process: the curious learner is taught by the Queen's compassionate presence; the apprenticeship becomes a relationship of caring guidance; the study includes the development of emotional wisdom
+  outcome: learning transformed by nurturing mastery; the apprentice discovering that the Queen teaches through presence as much as through knowledge
+  key_terms: nurtured learning, guided apprentice, heartfelt study, compassionate discovery
+
+dynamic_antagonism:
+  mechanism: The Page's intellectual curiosity clashes with the Queen's insistence on feeling-based wisdom; the learner wants to understand while the Queen asks for receptivity
+  tension_axis: intellectual understanding versus emotional receptivity; study-based knowledge versus wisdom from the heart
+  page_of_pentacles_position: Understanding requires study; the emotional approach is vague and unreliable
+  queen_of_cups_position: The deepest wisdom comes through the heart; the study-focused apprentice cannot receive what the Queen offers
+  key_terms: urged receptivity, defended study, insisted feeling, kept learning
+
+dynamic_inhibition:
+  mechanism: The Page's need to comprehend prevents full receptivity to the Queen's guidance; the apprentice cannot relax into the nurturing the Queen offers
+  blockade_nature: the true learning cannot proceed while the apprentice insists on understanding everything intellectually
+  pentacles_state: the apprentice becomes hardened; the eager study turns into the defended intellect that cannot receive compassion
+  consequence: the nurturing is rejected; the Page's intellectual demands prevent the Queen's true teaching
+  key_terms: hardened learning, rejected nurturing, defended intellect, closed apprentice
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into using the Queen's compassion to advance itself; the apprentice learns emotional manipulation while pretending to study
+  mode: the curiosity weaponized to extract care and favor; the learning becomes the calculated cultivation of the Queen's affection
+  loss: the genuine wisdom the Queen offers; the apprentice becomes the clever student who has learned to exploit emotional intelligence
+  key_terms: manipulative learning, exploited nurturing, calculated apprentice, weaponized compassion
+
+dynamic_dependency:
+  mechanism: The Page needs the Queen to teach that learning is ultimately relational; the nurturing wisdom needs the apprentice's genuine openness to be received
+  function: Pentacles-Page supplies the sincere desire to learn that makes the Queen's teaching meaningful; Cups-Queen supplies the compassionate presence that transforms learning into wisdom
+  integration_outcome: an apprentice learning to integrate study and emotional wisdom; the discovery made whole through nurturing guidance
+  key_terms: wise learning, nurtured apprentice, compassionate study, heartfelt discovery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC
+
+---
+
+card_pair: Page of Pentacles, King of Cups
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_cups: Emotional authority, heart's dominion, compassionate power, mastered feeling, authoritative love
+numerical_relation: 11 + 14 = 25 → 2+5=7 (VII The Chariot; apprentice meets emotional authority; the curious learner meets mastered feeling)
+elemental_bridge: Earth's grounded learning meets Water's emotional dominion; the apprentice meets compassionate authority
+threshold_type: The learner commanded by emotional authority; potential meeting mastered feeling
+
+dynamic_genesis:
+  mechanism: The King's emotional authority gives the Page's learning purpose and direction; the apprentice discovers that knowledge serves love
+  process: the curious learner studies under the King's guidance; the apprenticeship becomes a training in wisdom that serves compassionate power; the study finds its highest expression in service
+  outcome: learning directed by emotional authority; the apprentice discovering that knowledge serves love
+  key_terms: directed learning, guided apprentice, purposeful study, sovereign discovery
+
+dynamic_antagonism:
+  mechanism: The Page's independent curiosity clashes with the King's demand for direction; the learner wants freedom while the King requires obedience
+  tension_axis: independent learning versus commanded direction; self-directed study versus directed service
+  page_of_pentacles_position: The learning must be free; the King's authority constrains discovery
+  king_of_cups_position: Learning without direction wastes itself; the apprentice must be guided by higher wisdom
+  key_terms: urged obedience, defended freedom, insisted direction, kept independence
+
+dynamic_inhibition:
+  mechanism: The Page's resistance to authority prevents full apprenticeship under the King; the learner cannot fully commit to the direction offered
+  blockade_nature: the true teaching cannot proceed while the apprentice resists the authority's guidance
+  pentacles_state: the apprentice becomes rebellious; the curious study turns into the defensive learning that questions every direction
+  consequence: the wisdom is missed; the Page's resistance prevents the King's true teaching
+  key_terms: rebellious learning, resisted direction, defended independence, blocked wisdom
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into either servile obedience or bitter rebellion; the apprentice loses genuine agency
+  mode: the curiosity either completely surrendered to authority or weaponized against it; the learning becomes either loss of self or destructive defiance
+  loss: the genuine development the King's guidance could offer; the apprentice becomes either the slave or the rebel, but not the true student
+  key_terms: lost agency, servile submission, bitter rebellion, corrupted learning
+
+dynamic_dependency:
+  mechanism: The Page needs the King to teach that true learning requires accepting wise direction; the emotional authority needs the apprentice's genuine respect to teach fully
+  function: Pentacles-Page supplies the sincere desire to learn that makes accepting direction possible; Cups-King supplies the wisdom that makes the direction worth following
+  integration_outcome: an apprentice learning to accept the guidance of emotional wisdom; the discovery deepened through respected authority
+  key_terms: respected learning, guided apprentice, accepted direction, deepened wisdom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 11-1 through 11-14
+  uid: POPC

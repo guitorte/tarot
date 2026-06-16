@@ -1,0 +1,697 @@
+card_pair: 5 of Pentacles, Ace of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 5 + 1 = 6 (VI The Lovers; material loss meets creative spark; hardship discovering fire)
+elemental_bridge: Earth's cold desolation meets Fire's igniting spark; the destitute discovers it can still create
+threshold_type: The spark in the ashes; hardship meeting creative fire
+
+dynamic_genesis:
+  mechanism: The Ace's spark ignites precisely because the 5 has nothing left to lose; deprivation becomes the ground where pure creation can begin
+  process: the hardship clears away all that was; the empty hands are free to hold the new flame; the loss becomes the blank canvas
+  outcome: creative fire born from having nothing; inspiration rooted in the freedom of loss
+  key_terms: liberated spark, fertile emptiness, ignited hardship, freed creation
+
+dynamic_antagonism:
+  mechanism: The 5's exhaustion clashes with the Ace's demand for energy; hardship meets what requires fuel it does not have
+  tension_axis: depleted reserves versus the spark's hunger for fuel; survival mode versus creative fire
+  five_of_pentacles_position: Has no strength left to feed a fire; survival consumes everything
+  ace_of_wands_position: The spark must be fed now; potential withers without immediate energy
+  key_terms: urged creation, demanded fuel, insisted survival, offered spark
+
+dynamic_inhibition:
+  mechanism: The depletion of deprivation smothers the spark; the hardship has no fuel to feed the inspiration
+  blockade_nature: the creative fire cannot catch when every resource goes to mere survival
+  pentacles_state: the abandonment deepens; even the spark of hope cannot warm the cold
+  consequence: the inspiration arrives but dies for lack of fuel
+  key_terms: smothered spark, starved fire, depleted hardship, extinguished hope
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into bitter mockery of creative hope; hardship becomes the reason to despise the spark
+  mode: the deprivation used to prove inspiration is a cruel joke; the loss becomes the argument against creating anything
+  loss: the genuine fire deprivation could have kindled; hardship becomes the tomb of inspiration
+  key_terms: obsessive cynicism, mocked spark, bitter hardship, despised fire
+
+dynamic_dependency:
+  mechanism: The 5 needs the Ace to teach it that creation costs nothing but courage; the spark needs the hardship to know what it means to create from nothing
+  function: Pentacles-5 supplies the emptiness that makes pure creation possible; Wands-Ace supplies the spark that teaches deprivation that fire can be made from will alone
+  integration_outcome: creative fire grounded in the freedom of loss; inspiration that needs no wealth to begin
+  key_terms: grounded spark, free creation, willed fire, kindled hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, 2 of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 5 + 2 = 7 (VII The Chariot; material loss meets visionary power; hardship glimpsing dominion)
+elemental_bridge: Earth's desolation meets Fire's expansive vision; the abandoned glimpses a wider world
+threshold_type: The vision beyond the wall; hardship meeting possibility
+
+dynamic_genesis:
+  mechanism: The 2's vision shows the 5 there is a world beyond the present desolation; hardship gains a horizon
+  process: the deprivation is reframed as a starting point; the loss becomes the lowest place from which the only direction is up; the vision lifts the eyes from the cold ground
+  outcome: hardship given a horizon; deprivation that can now see beyond itself
+  key_terms: lifted horizon, reframed hardship, glimpsed dominion, possible expansion
+
+dynamic_antagonism:
+  mechanism: The 5's immediate need clashes with the 2's distant planning; hardship meets what looks too far ahead
+  tension_axis: the urgency of survival versus the luxury of long vision; present hunger versus future dominion
+  five_of_pentacles_position: Cannot afford to dream of expansion; needs bread today
+  two_of_wands_position: The vision must be held even now; without it, there is no escape from the present
+  key_terms: urged vision, demanded survival, insisted planning, kept hunger
+
+dynamic_inhibition:
+  mechanism: The weight of present hardship stops the vision; the deprivation cannot lift its eyes to the horizon
+  blockade_nature: the planning becomes impossible when every moment is consumed by survival
+  pentacles_state: the hardship narrows the world to the next meal; the vision collapses
+  consequence: the 5 cannot see beyond its loss; the 2's horizon is invisible
+  key_terms: narrowed world, collapsed vision, consuming hardship, lost horizon
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the vision into bitter fantasy of revenge or grandiosity; hardship becomes the seed of delusion
+  mode: the deprivation used to fuel impossible dreams of dominion; the loss becomes the engine of compensatory grandiosity
+  loss: the genuine planning the vision could have offered; hardship becomes the root of delusion
+  key_terms: obsessive grandiosity, deluded vision, bitter hardship, compensatory fantasy
+
+dynamic_dependency:
+  mechanism: The 5 needs the 2 to teach it that vision is the first step out of hardship; the planning needs the deprivation to keep it grounded in real need
+  function: Pentacles-5 supplies the honesty of need that keeps vision practical; Wands-2 supplies the horizon that teaches hardship that the present is not the whole story
+  integration_outcome: vision grounded in real hardship; planning that addresses genuine need
+  key_terms: grounded vision, practical planning, real horizon, honest dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, 3 of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 5 + 3 = 8 (VIII Justice; material loss meets forward enterprise; hardship learning to move)
+elemental_bridge: Earth's stuck desolation meets Fire's forward motion; the abandoned learns to walk out
+threshold_type: The road out of poverty; hardship meeting forward motion
+
+dynamic_genesis:
+  mechanism: The 3's forward enterprise shows the 5 the road out; hardship discovers that movement is possible
+  process: the deprivation is shown the ships on the horizon; the loss becomes the departure point; the hardship begins to move toward what waits beyond
+  outcome: hardship given direction; deprivation become the start of a journey
+  key_terms: directed hardship, departure point, forward motion, possible journey
+
+dynamic_antagonism:
+  mechanism: The 5's exhaustion clashes with the 3's demand to move; hardship meets what will not wait
+  tension_axis: the weariness of loss versus the call to advance; depleted stillness versus forward enterprise
+  five_of_pentacles_position: Too broken to begin a journey; the road seems impossibly long
+  three_of_wands_position: The ships are already out; standing still is to be left behind
+  key_terms: urged movement, demanded rest, insisted enterprise, kept stillness
+
+dynamic_inhibition:
+  mechanism: The depletion of hardship stops the forward motion; the deprivation has no strength to begin the journey
+  blockade_nature: the enterprise cannot launch when the 5 cannot even rise
+  pentacles_state: the hardship becomes paralysis; the road remains untraveled
+  consequence: the 5 stays where it fell; the ships sail without it
+  key_terms: paralyzed hardship, untraveled road, abandoned enterprise, left behind
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the enterprise into doomed schemes; hardship becomes the engine of reckless desperation
+  mode: the deprivation used to justify any gamble; the loss becomes the reason to risk everything on false hopes
+  loss: the genuine enterprise foresight could have built; hardship becomes the root of ruin
+  key_terms: obsessive gambling, doomed schemes, desperate hardship, reckless ruin
+
+dynamic_dependency:
+  mechanism: The 5 needs the 3 to teach it that the road out begins with one step; the enterprise needs the deprivation to keep it honest about the cost
+  function: Pentacles-5 supplies the honesty that grounds the enterprise; Wands-3 supplies the foresight that teaches hardship that a journey out is possible
+  integration_outcome: enterprise grounded in real need; forward motion that knows the cost of where it came from
+  key_terms: grounded enterprise, honest journey, real foresight, departed hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, 4 of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 5 + 4 = 9 (IX The Hermit; material loss meets joyful homecoming; hardship facing the lit house)
+elemental_bridge: Earth's homelessness meets Fire's warm hearth; the abandoned stands before the lit home
+threshold_type: The hearth seen from the cold; hardship meeting belonging
+
+dynamic_genesis:
+  mechanism: The 4's warm home offers shelter to the 5's homelessness; celebration becomes the door opened to the deprived
+  process: the hardship is welcomed across the threshold; the deprivation finds a hearth; the loss is answered by the warmth of community
+  outcome: hardship given a home; deprivation answered by belonging
+  key_terms: opened door, welcomed hardship, warm hearth, answered loss
+
+dynamic_antagonism:
+  mechanism: The 5's homelessness clashes with the 4's settled joy; hardship meets the celebration it cannot join
+  tension_axis: the cold outside versus the warm inside; the deprived stranger versus the established home
+  five_of_pentacles_position: Stands in the snow, looking in at the light; does not belong
+  four_of_wands_position: The celebration is whole and settled; the stranger is outside the circle
+  key_terms: urged welcome, defended hearth, insisted exclusion, kept warmth
+
+dynamic_inhibition:
+  mechanism: The settled completeness of the home leaves no room for the stranger; the celebration cannot include the deprived
+  blockade_nature: the hardship remains at the window; the warmth never reaches the cold
+  pentacles_state: the abandonment intensifies; the lit home makes the darkness colder
+  consequence: the 5 remains outside; the home remains closed
+  key_terms: closed home, excluded hardship, intensified cold, barred warmth
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into envious resentment of the home; hardship becomes the desire to extinguish the hearth
+  mode: the deprivation used to hate the warmth of others; the loss becomes the wish that all homes burn
+  loss: the genuine welcome the home could have offered; hardship becomes arsonist envy
+  key_terms: obsessive envy, hated hearth, resentful hardship, wished ruin
+
+dynamic_dependency:
+  mechanism: The 5 needs the 4 to open its door; the home needs the deprived to remember what its warmth is for
+  function: Pentacles-5 supplies the reminder of why shelter matters; Wands-4 supplies the hearth that teaches hardship that homes exist to take in the cold
+  integration_outcome: a home that welcomes the stranger; belonging grounded in remembering homelessness
+  key_terms: welcoming home, remembered cold, opened hearth, grounded belonging
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, 5 of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Conflict, competition, struggle, contested victory
+numerical_relation: 5 + 5 = 10 (X The Wheel of Fortune; material loss meets open conflict; hardship forced to fight)
+elemental_bridge: Earth's depletion meets Fire's chaotic struggle; the abandoned is thrown into the fray
+threshold_type: The fight over scraps; hardship meeting competition
+
+dynamic_genesis:
+  mechanism: The 5's hardship is given a focus through the 5's struggle; deprivation channels its desperation into the fight
+  process: the loss becomes fuel for the contest; the desperation sharpens into competitive will; the hardship finds in struggle a reason to rise
+  outcome: hardship given fight; deprivation that struggles rather than surrenders
+  key_terms: channeled desperation, fighting hardship, focused struggle, risen deprivation
+
+dynamic_antagonism:
+  mechanism: The 5's depletion clashes with the 5's demand for combative energy; hardship meets a fight it cannot afford
+  tension_axis: exhausted scarcity versus the energy of struggle; depleted survival versus competitive war
+  five_of_pentacles_position: Has nothing left to fight with; the contest will only deepen the loss
+  five_of_wands_position: The struggle is unavoidable; only those who fight survive
+  key_terms: urged combat, demanded energy, insisted survival, kept depletion
+
+dynamic_inhibition:
+  mechanism: The exhaustion of deprivation stops the fight; the hardship cannot summon the energy to compete
+  blockade_nature: the struggle becomes impossible when there is nothing left to fight for or with
+  pentacles_state: the hardship is trampled in the fray; the deprivation loses even the scraps
+  consequence: the 5 is crushed by competitors who have more to spend
+  key_terms: trampled hardship, lost scraps, crushed deprivation, depleted defeat
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the struggle into vicious scrabbling; hardship becomes the war of the desperate against the desperate
+  mode: the deprivation used to justify any cruelty in the fight; the loss becomes the reason to tear down fellow sufferers
+  loss: the genuine struggle that might have lifted all; hardship becomes the war of all against all
+  key_terms: obsessive scrabbling, vicious struggle, desperate hardship, mutual ruin
+
+dynamic_dependency:
+  mechanism: The 5 needs the 5 of Wands to teach it that struggle can be transformative; the conflict needs the deprivation to remember what is truly worth fighting for
+  function: Pentacles-5 supplies the gravity of real stakes; Wands-5 supplies the energy that teaches hardship that struggle, rightly aimed, can liberate
+  integration_outcome: struggle grounded in real need; conflict that fights for genuine survival rather than mere dominance
+  key_terms: grounded struggle, meaningful conflict, real stakes, transformed hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, 6 of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 5 + 6 = 11 (XI Strength; material loss meets public victory; hardship facing the triumphant)
+elemental_bridge: Earth's defeat meets Fire's triumphant parade; the abandoned watches the victor pass
+threshold_type: The parade past the beggar; hardship meeting triumph
+
+dynamic_genesis:
+  mechanism: The 6's victory shows the 5 that triumph is possible; recognition becomes proof that the fallen can rise
+  process: the deprivation witnesses success and learns it is achievable; the loss sees the victor and understands the road exists; the hardship gains a model of redemption
+  outcome: hardship inspired by witnessed triumph; deprivation that knows victory is possible
+  key_terms: witnessed victory, inspired hardship, possible triumph, modeled redemption
+
+dynamic_antagonism:
+  mechanism: The 5's defeat clashes with the 6's celebrated success; hardship meets the triumph that ignores it
+  tension_axis: the invisibility of the fallen versus the visibility of the victor; ignored loss versus celebrated success
+  five_of_pentacles_position: Unseen beneath the victor's horse; the triumph passes over without notice
+  six_of_wands_position: The crowd's eyes are on the laurel; the fallen are beneath attention
+  key_terms: urged notice, defended glory, insisted invisibility, kept triumph
+
+dynamic_inhibition:
+  mechanism: The victor's glory blinds it to the fallen; the success cannot see the hardship beneath it
+  blockade_nature: the recognition flows only to the triumphant; the deprived remain invisible
+  pentacles_state: the hardship is made smaller by the contrast; the abandonment deepens in the victor's shadow
+  consequence: the 5 is invisible; the 6 never sees who it passed
+  key_terms: invisible hardship, blind victory, deepened shadow, unseen loss
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into bitter hatred of all success; hardship becomes the wish to drag down every victor
+  mode: the deprivation used to despise achievement; the loss becomes the engine of resentment against the risen
+  loss: the genuine inspiration victory could have offered; hardship becomes the poison of envy
+  key_terms: obsessive resentment, hated victory, bitter hardship, poisoned envy
+
+dynamic_dependency:
+  mechanism: The 5 needs the 6 to remember the cost of the road it traveled; victory needs the deprivation to keep its triumph humble
+  function: Pentacles-5 supplies the memory of the bottom that keeps victory grounded; Wands-6 supplies the proof that teaches hardship that the road up exists
+  integration_outcome: victory that remembers the fallen; triumph grounded in compassion for those still down
+  key_terms: humble victory, remembered fall, grounded triumph, compassionate success
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, 7 of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 5 + 7 = 12 (XII The Hanged Man; material loss meets defensive resilience; hardship learning to stand)
+elemental_bridge: Earth's collapse meets Fire's defiant stand; the abandoned learns to hold its ground
+threshold_type: The last stand of the destitute; hardship meeting defiance
+
+dynamic_genesis:
+  mechanism: The 7's defiant resilience teaches the 5 to stand even in deprivation; hardship discovers it can hold ground
+  process: the loss is reframed as a position worth defending; the deprivation finds dignity in refusing to be moved; the hardship learns that survival itself is resistance
+  outcome: hardship that stands; deprivation that refuses to surrender
+  key_terms: defiant hardship, held ground, dignified resistance, refused surrender
+
+dynamic_antagonism:
+  mechanism: The 5's depletion clashes with the 7's demand for endless defense; hardship meets a stand it lacks strength to hold
+  tension_axis: exhausted scarcity versus the energy of resistance; depleted collapse versus defiant standing
+  five_of_pentacles_position: Has no strength to defend anything; the position is already lost
+  seven_of_wands_position: The ground must be held at all costs; to yield is to be destroyed
+  key_terms: urged defense, demanded strength, insisted collapse, kept ground
+
+dynamic_inhibition:
+  mechanism: The depletion of hardship makes the defense impossible; the deprivation cannot summon the resilience to stand
+  blockade_nature: the position cannot be held when there is no strength left to hold it
+  pentacles_state: the hardship is overrun; the deprivation loses the last ground
+  consequence: the 5 falls; the position is taken
+  key_terms: overrun hardship, lost ground, fallen deprivation, broken defense
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the defense into paranoid hoarding; hardship becomes the war against every approach
+  mode: the deprivation used to justify treating all as enemies; the loss becomes the fortress against help itself
+  loss: the genuine resilience that might have endured; hardship becomes the bunker of isolation
+  key_terms: obsessive defense, paranoid hoarding, walled hardship, isolated bunker
+
+dynamic_dependency:
+  mechanism: The 5 needs the 7 to teach it that even the destitute can hold dignity; the defense needs the deprivation to know what is truly worth defending
+  function: Pentacles-5 supplies the knowledge of what bare survival means; Wands-7 supplies the resilience that teaches hardship that standing is itself a victory
+  integration_outcome: resilience grounded in real stakes; a stand that defends genuine dignity rather than mere pride
+  key_terms: grounded resilience, defended dignity, real stakes, standing hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, 8 of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 5 + 8 = 13 (XIII Death; material loss meets swift momentum; hardship swept into motion)
+elemental_bridge: Earth's stuck deprivation meets Fire's rushing speed; the abandoned is swept up suddenly
+threshold_type: The sudden change; hardship meeting acceleration
+
+dynamic_genesis:
+  mechanism: The 8's swift momentum lifts the 5 out of its stuck deprivation; speed becomes the sudden change of fortune
+  process: the hardship is caught in a rush of events; the loss is left behind by rapid change; the deprivation is swept toward something new
+  outcome: hardship transformed by sudden movement; deprivation overtaken by swift change
+  key_terms: swept hardship, sudden change, rapid rescue, accelerated escape
+
+dynamic_antagonism:
+  mechanism: The 5's stuckness clashes with the 8's velocity; hardship meets a speed it cannot match
+  tension_axis: the inertia of depletion versus the rush of momentum; stuck loss versus swift movement
+  five_of_pentacles_position: Too weighed down to move quickly; the speed leaves it behind
+  eight_of_wands_position: Events move fast; those who cannot keep up are lost
+  key_terms: urged speed, demanded pace, insisted inertia, kept stuckness
+
+dynamic_inhibition:
+  mechanism: The weight of hardship cannot accelerate; the deprivation is too heavy for the swift current
+  blockade_nature: the momentum passes the 5 by; the speed cannot carry such weight
+  pentacles_state: the hardship is left further behind; the deprivation watches the world rush past
+  consequence: the 5 is stranded; the moment of change passes without it
+  key_terms: stranded hardship, passed moment, heavy deprivation, lost current
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the speed into frantic panic; hardship becomes the headlong rush toward worse ruin
+  mode: the deprivation used to justify reckless haste; the loss becomes the engine of panicked flight into disaster
+  loss: the genuine change momentum could have brought; hardship becomes the stampede into the abyss
+  key_terms: obsessive panic, frantic flight, headlong hardship, stampeded ruin
+
+dynamic_dependency:
+  mechanism: The 5 needs the 8 to teach it that fortune can change swiftly; the momentum needs the deprivation to remember where it is rushing from
+  function: Pentacles-5 supplies the gravity that keeps speed from becoming recklessness; Wands-8 supplies the velocity that teaches hardship that stuck conditions can suddenly break
+  integration_outcome: swift change grounded in real circumstance; momentum that carries the deprived toward genuine relief
+  key_terms: grounded momentum, real change, carried hardship, swift relief
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, 9 of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 5 + 9 = 14 (XIV Temperance; material loss meets tested endurance; hardship meeting perseverance)
+elemental_bridge: Earth's depletion meets Fire's battered endurance; both have been worn thin by struggle
+threshold_type: The wounded who will not fall; hardship meeting perseverance
+
+dynamic_genesis:
+  mechanism: The 9's tested endurance teaches the 5 that survival is itself strength; hardship discovers its own perseverance
+  process: the deprivation recognizes its own endurance in the 9's wounds; the loss becomes proof of survival; the hardship learns it has already endured the unendurable
+  outcome: hardship that knows its own strength; deprivation that recognizes its perseverance
+  key_terms: recognized endurance, surviving hardship, tested strength, proven perseverance
+
+dynamic_antagonism:
+  mechanism: The 5's despair clashes with the 9's grim determination; hardship meets what refuses to lie down
+  tension_axis: the surrender of deprivation versus the stubbornness of endurance; broken collapse versus battered standing
+  five_of_pentacles_position: Wants to finally rest from the endless struggle; the endurance is exhausted
+  nine_of_wands_position: Cannot afford to rest; the next blow is always coming
+  key_terms: urged endurance, demanded rest, insisted vigilance, kept exhaustion
+
+dynamic_inhibition:
+  mechanism: The exhaustion of both stops any further endurance; hardship and perseverance are worn past their limit
+  blockade_nature: the strength cannot be summoned when both are this depleted
+  pentacles_state: the hardship and the endurance collapse together; the wall finally falls
+  consequence: the 5 cannot endure; the 9's last strength fails
+  key_terms: collapsed endurance, fallen wall, exhausted hardship, failed strength
+
+dynamic_devolution:
+  mechanism: The 5 corrupts endurance into grim joyless survival; hardship becomes mere stubborn suffering without purpose
+  mode: the deprivation used to justify endless meaningless persistence; the loss becomes survival for its own bitter sake
+  loss: the genuine strength that endures toward something; hardship becomes suffering without redemption
+  key_terms: obsessive survival, joyless endurance, grim hardship, purposeless persistence
+
+dynamic_dependency:
+  mechanism: The 5 needs the 9 to teach it that it has already survived more than it knows; endurance needs the deprivation to remember what it is enduring for
+  function: Pentacles-5 supplies the knowledge of how much has been lost and survived; Wands-9 supplies the disciplined power that teaches hardship that it is stronger than its despair
+  integration_outcome: endurance grounded in survived loss; perseverance that knows its own hard-won strength
+  key_terms: grounded endurance, survived strength, proven hardship, redemptive perseverance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, 10 of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 5 + 10 = 15 (XV The Devil; material loss meets crushing burden; hardship meeting the overloaded)
+elemental_bridge: Earth's deprivation meets Fire's exhausted load; both are crushed beneath weight
+threshold_type: The doubly burdened; hardship meeting overload
+
+dynamic_genesis:
+  mechanism: The 5 and the 10 recognize each other's crushing weight; deprivation and burden witness one another's exhaustion
+  process: the hardship sees its own struggle mirrored in the overloaded; the loss and the burden acknowledge their shared crushing; the deprivation finds company in exhaustion
+  outcome: shared recognition of being crushed; mutual witness of overwhelming weight
+  key_terms: shared crushing, mutual exhaustion, witnessed burden, recognized weight
+
+dynamic_antagonism:
+  mechanism: The 5's emptiness clashes with the 10's overload; hardship meets the one buried under what the 5 lacks
+  tension_axis: having nothing versus carrying everything; the empty hands versus the breaking back
+  five_of_pentacles_position: Would give anything to have what the 10 carries
+  ten_of_wands_position: Would give anything to be free of the weight the 5 lacks
+  key_terms: urged exchange, defended having, insisted lacking, kept burden
+
+dynamic_inhibition:
+  mechanism: Neither can help the other; the empty cannot lift the overloaded, the overloaded cannot spare the empty
+  blockade_nature: both are too consumed by their own extremity to bridge the gap
+  pentacles_state: the hardship and the burden each deepen, unrelieved
+  consequence: the 5 stays empty, the 10 stays crushed; neither finds relief
+  key_terms: unrelieved hardship, unshared burden, deepened extremity, isolated weight
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the meeting into mutual resentment; hardship becomes the envy of even the overburdened
+  mode: the deprivation used to covet the 10's load; the loss becomes the bitter wish for any weight at all
+  loss: the genuine solidarity their shared crushing could have built; hardship becomes envious of suffering itself
+  key_terms: obsessive envy, coveted burden, resentful hardship, poisoned solidarity
+
+dynamic_dependency:
+  mechanism: The 5 needs the 10 to learn that some burdens are a kind of wealth; the burden needs the deprivation to learn what it would mean to carry nothing
+  function: Pentacles-5 supplies the perspective that having something to carry is not the worst fate; Wands-10 supplies the load that teaches hardship the cost of what it lacks
+  integration_outcome: each reframing the other's extremity; perspective grounded in the contrast of empty and overfull
+  key_terms: reframed burden, grounded perspective, balanced weight, mutual teaching
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, Page of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 5 + 11 = 16 (XVI The Tower; material loss meets youthful enthusiasm; hardship breaking into fire)
+elemental_bridge: Earth's cold despair meets Fire's eager young flame; the abandoned meets undefeated energy
+threshold_type: The young flame in the cold; hardship meeting enthusiasm
+
+dynamic_genesis:
+  mechanism: The Page's undefeated enthusiasm warms the 5's despair; youthful energy insists that hope survives even loss
+  process: the deprivation is met by a flame that does not yet know defeat; the hardship is offered energy it had forgotten; the loss is challenged by irrepressible spark
+  outcome: hardship rekindled by young fire; deprivation reminded that enthusiasm exists
+  key_terms: rekindled hardship, young fire, remembered enthusiasm, challenged despair
+
+dynamic_antagonism:
+  mechanism: The 5's weary despair clashes with the Page's naive eagerness; hardship meets energy that has not learned to fear
+  tension_axis: the wisdom of defeat versus the ignorance of enthusiasm; weathered loss versus untested spark
+  five_of_pentacles_position: Knows how the world crushes hope; the Page's eagerness seems foolish
+  page_of_wands_position: Refuses to believe in defeat; the deprivation's despair seems like surrender
+  key_terms: urged hope, defended caution, insisted eagerness, kept despair
+
+dynamic_inhibition:
+  mechanism: The weight of hardship smothers the young enthusiasm; the deprivation teaches the Page despair too soon
+  blockade_nature: the spark cannot survive the cold reality of loss; enthusiasm is extinguished by hard experience
+  pentacles_state: the hardship spreads its despair to the young flame; the deprivation propagates
+  consequence: the Page's fire goes out; the 5 makes another like itself
+  key_terms: smothered enthusiasm, extinguished spark, propagated despair, taught hardship
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the Page's energy into reckless desperation; hardship becomes the corruption of young hope into doomed schemes
+  mode: the deprivation used to channel enthusiasm into self-destruction; the loss becomes the manipulation of youthful fire
+  loss: the genuine potential the Page carried; hardship becomes the destroyer of young hope
+  key_terms: obsessive corruption, doomed enthusiasm, manipulated spark, destroyed potential
+
+dynamic_dependency:
+  mechanism: The 5 needs the Page's enthusiasm to remember that hope is possible; the spark needs the deprivation's wisdom to temper its naivety
+  function: Pentacles-5 supplies the hard wisdom that grounds enthusiasm; Wands-Page supplies the irrepressible energy that teaches hardship that despair is not the only truth
+  integration_outcome: enthusiasm grounded in hard reality; hope that survives because it knows what it faces
+  key_terms: grounded enthusiasm, tempered spark, wise hope, rekindled hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, Knight of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 5 + 12 = 17 (XVII The Star; material loss meets bold action; hardship meeting the adventurer)
+elemental_bridge: Earth's stuck despair meets Fire's bold charge; the abandoned meets one who acts
+threshold_type: The bold rescue; hardship meeting decisive action
+
+dynamic_genesis:
+  mechanism: The Knight's bold action offers the 5 a way out through sheer decisive movement; passion becomes the force that breaks deprivation's paralysis
+  process: the hardship is offered action where it had only stagnation; the loss is met by one willing to charge; the deprivation is swept into bold pursuit
+  outcome: hardship moved by bold action; deprivation broken open by decisive passion
+  key_terms: bold rescue, decisive action, broken paralysis, passionate pursuit
+
+dynamic_antagonism:
+  mechanism: The 5's caution born of loss clashes with the Knight's reckless haste; hardship meets action that does not count the cost
+  tension_axis: the carefulness of the deprived versus the recklessness of passion; loss-taught caution versus heedless charge
+  five_of_pentacles_position: Has learned what loss costs; the Knight's haste threatens what little remains
+  knight_of_wands_position: Action cannot wait for caution; the bold seize what the timid lose
+  key_terms: urged caution, demanded action, insisted recklessness, kept care
+
+dynamic_inhibition:
+  mechanism: The fear born of hardship stops the bold action; the deprivation cannot risk what little it has
+  blockade_nature: the charge cannot launch when the 5 clutches its remaining scraps in terror
+  pentacles_state: the hardship freezes the action; the deprivation makes boldness impossible
+  consequence: the Knight's energy is wasted against the 5's paralysis; nothing moves
+  key_terms: frozen action, terrified hardship, wasted passion, impossible boldness
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the Knight's action into reckless gambling of the last resources; hardship becomes the engine of catastrophic risk
+  mode: the deprivation used to justify betting everything on a wild charge; the loss becomes the reason to risk total ruin
+  loss: the genuine rescue bold action could have brought; hardship becomes the cause of final catastrophe
+  key_terms: obsessive gambling, catastrophic risk, reckless hardship, total ruin
+
+dynamic_dependency:
+  mechanism: The 5 needs the Knight to teach it that sometimes only bold action escapes deprivation; the action needs the hardship to aim its passion at real need
+  function: Pentacles-5 supplies the gravity of stakes that gives action meaning; Wands-Knight supplies the bold movement that teaches hardship that paralysis is its own kind of death
+  integration_outcome: bold action grounded in real need; passion aimed at genuine escape from loss
+  key_terms: grounded action, aimed passion, real escape, moved hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, Queen of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 5 + 13 = 18 (XVIII The Moon; material loss meets magnetic leadership; hardship meeting radiant warmth)
+elemental_bridge: Earth's cold isolation meets Fire's radiant magnetism; the abandoned is drawn toward warmth
+threshold_type: The warm leader gathering the lost; hardship meeting magnetism
+
+dynamic_genesis:
+  mechanism: The Queen's magnetic warmth draws the 5 in from the cold; charisma becomes the gravity that gathers the abandoned
+  process: the deprivation is drawn toward the Queen's radiant confidence; the loss is warmed by her presence; the hardship is gathered into the circle of her warmth
+  outcome: hardship gathered by warmth; deprivation drawn from isolation into belonging
+  key_terms: gathered hardship, radiant warmth, drawn-in deprivation, magnetic belonging
+
+dynamic_antagonism:
+  mechanism: The 5's shrunken self-worth clashes with the Queen's radiant confidence; hardship meets a brightness it feels unworthy of
+  tension_axis: the smallness of the deprived versus the largeness of charisma; shamed loss versus confident warmth
+  five_of_pentacles_position: Feels too small and shabby to stand in her light
+  queen_of_wands_position: Draws all toward her warmth; cannot understand the 5's retreat into shadow
+  key_terms: urged approach, defended shame, insisted warmth, kept shadow
+
+dynamic_inhibition:
+  mechanism: The shame of hardship cannot bear the Queen's brightness; the deprivation flees the warmth it most needs
+  blockade_nature: the magnetism cannot draw what is determined to hide; the warmth cannot reach the one who flees
+  pentacles_state: the hardship retreats deeper into shadow; the deprivation refuses the offered warmth
+  consequence: the 5 stays cold by choice; the Queen's warmth reaches everyone but the one most in need
+  key_terms: fled warmth, hidden hardship, refused magnetism, chosen shadow
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the Queen's warmth into a thing to leech parasitically; hardship becomes the draining of charisma without reciprocity
+  mode: the deprivation used to feed on the Queen's energy; the loss becomes the bottomless hunger that exhausts her warmth
+  loss: the genuine belonging the warmth could have offered; hardship becomes the parasite of charisma
+  key_terms: obsessive leeching, drained warmth, parasitic hardship, exhausted magnetism
+
+dynamic_dependency:
+  mechanism: The 5 needs the Queen to teach it that it is worthy of warmth; the charisma needs the deprivation to keep its warmth genuinely giving
+  function: Pentacles-5 supplies the reminder of who most needs warmth; Wands-Queen supplies the magnetic warmth that teaches hardship that it deserves to be gathered in
+  integration_outcome: warmth that reaches the most deprived; belonging grounded in radiant inclusion of the lost
+  key_terms: inclusive warmth, gathered hardship, worthy deprivation, genuine magnetism
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW
+
+---
+
+card_pair: 5 of Pentacles, King of Wands
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 5 + 14 = 19 (XIX The Sun; material loss meets commanding vision; hardship meeting the visionary king)
+elemental_bridge: Earth's desolation meets Fire's commanding dominion; the abandoned is summoned to purpose
+threshold_type: The king calling up the fallen; hardship meeting visionary command
+
+dynamic_genesis:
+  mechanism: The King's visionary command summons the 5 to a purpose larger than its loss; leadership becomes the call that lifts the deprived into meaning
+  process: the hardship is given a role in a larger vision; the loss is enlisted in a great enterprise; the deprivation is summoned from the margins into service of something worthy
+  outcome: hardship given purpose; deprivation enlisted in a vision larger than itself
+  key_terms: summoned hardship, given purpose, enlisted deprivation, visionary call
+
+dynamic_antagonism:
+  mechanism: The 5's defeated smallness clashes with the King's grand vision; hardship meets a dominion that seems to have no place for the broken
+  tension_axis: the marginality of the deprived versus the grandeur of command; defeated loss versus visionary dominion
+  five_of_pentacles_position: Has no place in grand visions; is the refuse the dominion steps over
+  king_of_wands_position: The vision commands the worthy; the fallen must first prove their use
+  key_terms: urged service, defended grandeur, insisted marginality, kept dominion
+
+dynamic_inhibition:
+  mechanism: The grandeur of the vision has no room for the broken; the command cannot enlist what it does not see
+  blockade_nature: the dominion overlooks the deprived; the vision is too elevated to include the fallen
+  pentacles_state: the hardship remains beneath notice; the deprivation is excluded from the great enterprise
+  consequence: the 5 is left in the margins; the King's vision proceeds without the very ones it might have saved
+  key_terms: overlooked hardship, excluded deprivation, elevated vision, marginal loss
+
+dynamic_devolution:
+  mechanism: The 5 corrupts the King's vision into a tyranny it serves abjectly; hardship becomes the broken tool of cold dominion
+  mode: the deprivation used to make the 5 into a servile instrument; the loss becomes the leverage that enslaves it to power
+  loss: the genuine purpose the vision could have given; hardship becomes the raw material of tyranny
+  key_terms: obsessive servility, enslaved hardship, tyrannical vision, broken instrument
+
+dynamic_dependency:
+  mechanism: The 5 needs the King to give its loss a larger meaning; the vision needs the deprivation to remember whom dominion exists to serve
+  function: Pentacles-5 supplies the reminder that true leadership lifts the fallen; Wands-King supplies the commanding vision that teaches hardship it can serve something worthy
+  integration_outcome: vision that enlists and lifts the deprived; dominion grounded in raising the fallen to purpose
+  key_terms: lifted hardship, worthy purpose, inclusive vision, grounded dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPW

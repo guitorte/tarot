@@ -10,24 +10,21 @@ devolution, dependency (the source instructions in `pairing/context.md`: X engen
 conflicts-with / stagnates-before / reduces-to / needs Y). Output is a machine-readable
 `key: value` block format defined by `FORMAT_SPEC.md`.
 
-## CURRENT STATE — Phase 3 IN PROGRESS 🔄 (124/124; Pentacles Ace–10 complete + Page 1/4)
+## CURRENT STATE — Phase 3 IN PROGRESS 🔄 (128/138; Pentacles Ace–10 complete + Page/Knight 1/4 each)
 
-### Phase 1 COMPLETE ✅ (56/56)
-All minor-suit Swords pairings are spec-conformant at v1.3.
+Pentacles-primary files completed (in `pairing/pentacles/`):
+- ✅ Ace–10 of Pentacles: ALL 40 files complete (560 blocks: Ace through 10, each ×4 suits)
+- 🔄 Page of Pentacles: 1/4 (cups only, 14 blocks)
+- 🔄 Knight of Pentacles: 1/4 (cups only, 14 blocks)
 
-- 13 numbered+court primaries (2–King) × 4 target suits = 52 files.
-- 4 Ace-of-Swords-primary files (`ace_to_{pentacles,cups,wands,swords}`).
-- Each minor file = 14 blocks (Ace→King of the target suit).
-- Same-suit files (`*_to_swords`) use `archetype_swords_1/_2` and, for a card meeting itself,
-  `swords_position_1/_2`.
+**Progress: 42 blocks done, 54 remaining for Page/Knight + all of Queen/King.**
+**Total validated this session: 6 Pentacles files (128 blocks).**
 
-### Phase 2 COMPLETE ✅ (14/14 major files)
-`python3 pairing/validate.py` → **`PASS: 70 file(s) conformant.`** (exit 0).
-
-All Swords × Major Arcana files completed (in `pairing/swords/`):
-- ✅ `ace_to_major.txt` — Ace of Swords × 22 Majors
-- ✅ `2_to_major.txt` — 2 of Swords × 22 Majors
-- ⚠️ `3_to_major.txt` — 3 of Swords × 22 Majors (**uses old perspective — see note below**)
+Remaining (3 cards + 3/4 of 2 cards = 19 files, 266 blocks):
+- Page: wands / swords / pentacles (3 files, 42 blocks)
+- Knight: wands / swords / pentacles (3 files, 42 blocks)
+- Queen: all 4 files (4 files, 56 blocks)
+- King: all 4 files (4 files, 56 blocks)
 - ✅ `4_to_major.txt` — 4 of Swords × 22 Majors
 - ✅ `5_to_major.txt` — 5 of Swords × 22 Majors
 - ✅ `6_to_major.txt` — 6 of Swords × 22 Majors (The Traveler archetype)

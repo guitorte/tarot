@@ -1,0 +1,697 @@
+card_pair: 6 of Pentacles, Ace of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: 6 + 1 = 7 (VII The Chariot; fair giving meets new potential; generosity seeding manifestation)
+elemental_bridge: Earth's distributed plenty meets Earth's fresh seed; the giving hand plants what it shares
+threshold_type: The gift that seeds; generosity meeting new potential
+
+dynamic_genesis:
+  mechanism: The 6's generosity plants the Ace's seed in fertile shared ground; fair giving becomes the act that turns potential into manifest growth
+  process: the balanced distribution is invested as seed; the generosity gives the Ace the ground to root; giving becomes the planting that grows new prosperity
+  outcome: potential manifested through generosity; the seed of prosperity planted by fair, generous giving
+  key_terms: planting gift, seeded prosperity, investing generosity, rooted potential
+
+dynamic_antagonism:
+  mechanism: The 6's impulse to distribute clashes with the Ace's need to concentrate in one seed; generosity meets a potential that wants gathering, not spreading
+  tension_axis: spreading distribution versus concentrated seeding; the even hand versus the single rooted seed
+  six_of_pentacles_position: Wants to distribute the resource widely and fairly
+  ace_of_pentacles_position: The seed needs concentrated ground to root; spreading thin lets nothing grow
+  key_terms: urged distribution, demanded concentration, insisted fairness, kept seed
+
+dynamic_inhibition:
+  mechanism: The even spreading prevents the seed from rooting; the fair distribution scatters what manifestation needed concentrated
+  blockade_nature: the new potential cannot grow when the resource is spread too thin to root
+  pentacles_state: the generosity dilutes the seed; the fair giving scatters what should have been planted deep
+  consequence: nothing takes root; the 6's spreading prevents the Ace's manifestation
+  key_terms: scattered seed, diluted potential, spread-thin giving, unrooted manifestation
+
+dynamic_devolution:
+  mechanism: The 6 corrupts the seeding into reckless overgiving; generosity becomes the giving away of the very seed needed to grow
+  mode: the fair exchange used to distribute the seed itself; the giving consumes the potential it should have planted
+  loss: the genuine manifestation the seed promised; generosity becomes the squandering of future growth
+  key_terms: obsessive overgiving, squandered seed, consuming generosity, lost manifestation
+
+dynamic_dependency:
+  mechanism: The 6 needs the Ace to give its distribution something to grow into; the potential needs the generosity to plant it in fertile, fairly tended ground
+  function: Pentacles-6 supplies the giving that plants and tends; Pentacles-Ace supplies the seed that teaches generosity that some resource must be planted, not distributed
+  integration_outcome: distribution that knows when to plant; manifestation grounded in a generosity that seeds future prosperity
+  key_terms: planted growth, seeded prosperity, grounded generosity, tended potential
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, 2 of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Balance, juggling, flexibility, adaptive exchange, equilibrium
+numerical_relation: 6 + 2 = 8 (VIII Justice; fair giving meets adaptive balance; generosity learning flexibility)
+elemental_bridge: Earth's steady distribution meets Earth's juggling motion; the giving hand learns to adapt its flow
+threshold_type: The gift that adapts; generosity meeting flexible balance
+
+dynamic_genesis:
+  mechanism: The 2's flexibility teaches the 6 to adapt its giving to changing need; fair distribution learns to flow where the moment requires
+  process: the balanced giving gains the 2's juggling responsiveness; the generosity adjusts its flow to shifting circumstance; giving becomes a living, adaptive distribution
+  outcome: generosity made flexible; fair giving that adapts its flow to where need shifts
+  key_terms: adaptive giving, flexible distribution, responsive generosity, living flow
+
+dynamic_antagonism:
+  mechanism: The 6's fixed sense of fair shares clashes with the 2's constant readjustment; generosity meets a flexibility that will not hold to set portions
+  tension_axis: fixed fair allotment versus constant readjustment; the set portion versus the juggling flow
+  six_of_pentacles_position: Wants the shares set and stable; distrusts the constant shifting
+  two_of_pentacles_position: Need shifts constantly; fixed shares become unfair as circumstances change
+  key_terms: urged stability, demanded adjustment, insisted fairness, kept motion
+
+dynamic_inhibition:
+  mechanism: The 2's constant readjustment unsettles the 6's fair distribution; the juggling makes the shares impossible to fix
+  blockade_nature: the fair allotment cannot hold while the flexibility keeps shifting the portions
+  pentacles_state: the generosity loses its stable fairness; the giving becomes too unsettled to feel just
+  consequence: the distribution feels arbitrary; the 6's fairness dissolves in the 2's constant motion
+  key_terms: unsettled shares, dissolved fairness, arbitrary giving, restless distribution
+
+dynamic_devolution:
+  mechanism: The 6 corrupts the flexibility into capricious favoritism; generosity becomes the giving that shifts to favor whomever it pleases
+  mode: the fair exchange used to justify ever-shifting partiality; the giving becomes the caprice that rewards favorites under cover of adapting
+  loss: the genuine fairness generosity stood for; giving becomes the arbitrary favoritism that calls itself flexible
+  key_terms: obsessive caprice, favoring gift, partial generosity, arbitrary shifting
+
+dynamic_dependency:
+  mechanism: The 6 needs the 2 to teach it to adapt its giving fairly to change; the flexibility needs the generosity to keep its adaptive flow grounded in fairness
+  function: Pentacles-6 supplies the fairness that keeps flexible giving just; Pentacles-2 supplies the adaptive balance that teaches generosity to flow toward shifting need
+  integration_outcome: giving that adapts while staying fair; flexibility grounded in a generosity that shifts justly with changing need
+  key_terms: fair adaptation, grounded flexibility, just flow, responsive generosity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, 3 of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Collaboration, skill, artisanship, mutual effort, crafted mastery
+numerical_relation: 6 + 3 = 9 (IX The Hermit; fair giving meets collaborative craft; generosity funding the workshop)
+elemental_bridge: Earth's distributed resource meets Earth's skilled workshop; the giving hand supplies the craft
+threshold_type: The gift that supplies the craft; generosity meeting collaboration
+
+dynamic_genesis:
+  mechanism: The 6's generosity supplies the 3's workshop with what it needs to create; fair giving becomes the patronage that sustains skilled collaboration
+  process: the balanced distribution provisions the craftsmen; the generosity backs the mutual effort; giving becomes the supply that lets the workshop produce
+  outcome: craft sustained by generosity; the collaborative workshop supplied by fair, steady giving
+  key_terms: supplying gift, sustained craft, provisioning generosity, backed workshop
+
+dynamic_antagonism:
+  mechanism: The 6's distributing role clashes with the 3's producing role; generosity meets a craft that wants to keep what it makes
+  tension_axis: distributing the output versus the makers keeping it; the sharing hand versus the producing workshop
+  six_of_pentacles_position: Wants to distribute the craft's output fairly to all
+  three_of_pentacles_position: The makers earned the work; distributing it away discounts their effort
+  key_terms: urged distribution, defended making, insisted fairness, kept output
+
+dynamic_inhibition:
+  mechanism: The 6's claim to distribute the output discourages the 3's making; the craftsmen lose heart when their work is given away
+  blockade_nature: the workshop cannot thrive while its output is redistributed before the makers are honored
+  pentacles_state: the generosity demoralizes the craft; the fair distribution discounts the makers' effort
+  consequence: the workshop's spirit flags; the 6's distributing undermines the 3's mastery
+  key_terms: demoralized craft, discounted effort, undermining distribution, flagging workshop
+
+dynamic_devolution:
+  mechanism: The 6 corrupts into expropriating the workshop's output; generosity becomes the giving away of what others made without their consent
+  mode: the fair exchange used to seize and redistribute the craft's products; the giving becomes the expropriation dressed as charity
+  loss: the genuine collaboration generosity should sustain; giving becomes the expropriation that destroys the workshop
+  key_terms: obsessive expropriation, seized output, expropriating generosity, destroyed craft
+
+dynamic_dependency:
+  mechanism: The 6 needs the 3 to make what generosity distributes; the craft needs the generosity to supply and fairly reward its mutual effort
+  function: Pentacles-6 supplies the provision and fair distribution that sustains the workshop; Pentacles-3 supplies the skilled making that teaches generosity to honor the makers as it shares the output
+  integration_outcome: a workshop supplied and fairly rewarded; collaboration grounded in a generosity that distributes while honoring those who make
+  key_terms: honored making, sustained workshop, grounded generosity, fair reward
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, 4 of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Holding, security, control, possessiveness, guarded resources
+numerical_relation: 6 + 4 = 10 (X The Wheel of Fortune; fair giving meets guarded holding; generosity meeting the keeper)
+elemental_bridge: Earth's open hand meets Earth's closed fist; the giving hand meets the one that holds tight
+threshold_type: The open hand and the closed fist; generosity meeting holding
+
+dynamic_genesis:
+  mechanism: The 6's generosity teaches the 4 that held resources are meant to flow; giving shows holding the purpose of what it guards
+  process: the open hand demonstrates to the closed fist; the generosity models that sharing multiplies; giving teaches the keeper that resources alive are resources flowing
+  outcome: holding loosened by generosity; the guarded resources shown the purpose of giving
+  key_terms: loosening gift, taught flow, modeling generosity, opened fist
+
+dynamic_antagonism:
+  mechanism: The 6's open giving clashes with the 4's fearful holding; generosity meets a security that sees giving as loss
+  tension_axis: open distribution versus fearful retention; the flowing hand versus the guarding fist
+  six_of_pentacles_position: Gives freely, trusting that sharing sustains
+  four_of_pentacles_position: Holds tight, certain that giving depletes; fears the open hand
+  key_terms: urged giving, defended holding, insisted flow, kept security
+
+dynamic_inhibition:
+  mechanism: The 4's fearful holding refuses the 6's example; the closed fist will not learn from the open hand
+  blockade_nature: the giving cannot teach a holding determined to see only loss in flow
+  pentacles_state: the generosity's example is rejected; the guarded resources stay locked against the open hand
+  consequence: the holding stays closed; the 6's giving cannot loosen the 4's fearful grip
+  key_terms: rejected example, locked resources, refused flow, closed holding
+
+dynamic_devolution:
+  mechanism: the pairing corrupts into the giver enabling the hoarder; generosity becomes the giving that covers for the fist's accumulation
+  mode: the fair exchange used to let the holder take freely while never giving; the giving becomes the subsidy of the hoard
+  loss: the genuine flow generosity stood for; giving becomes the one-way subsidy that feeds the closed fist
+  key_terms: obsessive subsidy, feeding gift, enabling generosity, fed hoard
+
+dynamic_dependency:
+  mechanism: The 6 needs the 4 to provide the secure base from which giving can flow; the holding needs the generosity to remember that guarded resources must finally circulate
+  function: Pentacles-6 supplies the flow that gives holding its purpose; Pentacles-4 supplies the security that teaches generosity to give from a stable base rather than recklessly
+  integration_outcome: giving grounded in secure holding; holding loosened into purposeful flow; the open hand and the steady base in balance
+  key_terms: secure giving, purposeful flow, balanced holding, grounded generosity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, 5 of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Hardship, poverty, material loss, deprivation, abandonment
+numerical_relation: 6 + 5 = 11 (XI Strength; fair giving meets hardship; generosity meeting the deprived)
+elemental_bridge: Earth's open hand meets Earth's empty hands; the giving hand reaches the destitute
+threshold_type: The alms to the deprived; generosity meeting hardship
+
+dynamic_genesis:
+  mechanism: The 6's generosity directly relieves the 5's deprivation; fair giving becomes the open hand that answers empty hands
+  process: the balanced distribution reaches the destitute; the generosity gives where need is deepest; giving becomes the relief that lifts the deprived
+  outcome: hardship relieved by generosity; the deprived answered by the open, giving hand
+  key_terms: relieving gift, answered need, lifting generosity, eased hardship
+
+dynamic_antagonism:
+  mechanism: The 6's giving-from-above clashes with the 5's wounded dignity; generosity meets a deprivation that the charity itself shames
+  tension_axis: the giver's hand above versus the receiver's wounded pride; the alms versus the dignity of the deprived
+  six_of_pentacles_position: Gives from a position of plenty; the hand that gives is above
+  five_of_pentacles_position: Shamed by needing alms; the gift underlines its fall
+  key_terms: urged acceptance, defended dignity, insisted giving, kept shame
+
+dynamic_inhibition:
+  mechanism: The shame of the deprived cannot receive the gift cleanly; the charity from above wounds the dignity it meant to help
+  blockade_nature: the giving cannot land cleanly when it comes with condescension
+  pentacles_state: the generosity's gift is refused or received with humiliation; the relief is poisoned by the giver's height
+  consequence: the alms shame as much as they help; the 6's giving wounds the 5's dignity
+  key_terms: shaming alms, wounded dignity, condescending generosity, poisoned relief
+
+dynamic_devolution:
+  mechanism: The 6 corrupts the giving into the purchase of superiority; generosity becomes the alms that buy the giver's sense of virtue over the poor
+  mode: the fair exchange used to display magnanimity; the giving becomes the means of feeling above the deprived
+  loss: the genuine relief generosity offered; giving becomes the self-congratulation that needs the poor to stay below
+  key_terms: obsessive superiority, virtue-buying alms, condescending generosity, needed poverty
+
+dynamic_dependency:
+  mechanism: The 6 needs the 5 to teach it to give in ways that preserve dignity; the deprivation needs the generosity to relieve it as fair exchange, not charity from above
+  function: Pentacles-6 supplies the relief that answers real need; Pentacles-5 supplies the wounded dignity that teaches generosity to give as equal, not as patron
+  integration_outcome: relief that preserves dignity; hardship answered by a generosity that gives as fair exchange between equals
+  key_terms: dignified relief, equal giving, grounded generosity, eased hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, 6 of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+numerical_relation: 6 + 6 = 12 (XII The Hanged Man; the giver meets itself; generosity recognizing generosity)
+elemental_bridge: Earth's open hand discovers its mirror; the giving hand meets another giving hand
+threshold_type: Two open hands; generosity meeting itself
+
+dynamic_genesis:
+  mechanism: Each 6 recognizes its own giving in the other; mutual generosity becomes the reciprocal exchange where both give and both receive
+  process: the two open hands meet; each giver becomes also a receiver; the generosity completes itself in genuine mutual exchange
+  outcome: a true reciprocal exchange; giving made whole by meeting another who also gives
+  key_terms: mutual giving, reciprocal exchange, completed generosity, two open hands
+
+dynamic_antagonism:
+  mechanism: Each 6 wants to be the giver, not the receiver; generosity meets a mirror that also insists on giving rather than taking
+  tension_axis: the wish to give versus the discomfort of receiving; each insisting on the giver's role
+  pentacles_position_1: Wants to be the one who gives; uncomfortable accepting from the other
+  pentacles_position_2: Equally insists on giving; refuses to be merely the recipient
+  key_terms: urged receiving, contested roles, insisted giving, mutual refusal
+
+dynamic_inhibition:
+  mechanism: Both insisting on giving leaves neither able to receive; the exchange stalls when both hands offer and neither takes
+  blockade_nature: the reciprocity cannot complete while each refuses the receiver's role
+  pentacles_state: the generosity becomes a standoff of offered gifts; both hands extend, neither accepts
+  consequence: the exchange freezes; both givers stand with gifts unreceived
+  key_terms: stalled exchange, refused receiving, frozen generosity, standoff giving
+
+dynamic_devolution:
+  mechanism: The two 6s corrupt into competitive giving; generosity becomes the contest of who can give more grandly
+  mode: the fair exchange used to outdo the other in magnanimity; the giving becomes the rivalry of conspicuous generosity
+  loss: the genuine reciprocity that giving and receiving make; generosity becomes the contest that loses the mutuality
+  key_terms: obsessive competition, outdoing gift, rival generosity, lost mutuality
+
+dynamic_dependency:
+  mechanism: Each 6 needs the other to teach it to receive as gracefully as it gives; mutual generosity needs each to take the receiver's role for the exchange to complete
+  function: Each Pentacles-6 supplies the giving that the other can receive; together they supply the reciprocity that makes generosity a true exchange
+  integration_outcome: a generosity that both gives and receives; reciprocal exchange grounded in each hand learning to take as well as give
+  key_terms: graceful receiving, reciprocal generosity, completed exchange, mutual giving
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, 7 of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Assessment, patience, long-term investment, paused evaluation, trust in process
+numerical_relation: 6 + 7 = 13 (XIII Death; fair giving meets patient assessment; generosity meeting the long view)
+elemental_bridge: Earth's immediate giving meets Earth's patient evaluation; the giving hand meets the long-term gaze
+threshold_type: The gift weighed for the long term; generosity meeting patience
+
+dynamic_genesis:
+  mechanism: The 7's patience teaches the 6 to give as long-term investment; fair giving becomes the patient sowing whose return comes in time
+  process: the immediate distribution gains the 7's long view; the generosity learns to give where the yield ripens slowly; giving becomes the investment that pays over seasons
+  outcome: generosity made patient; giving that invests for the long return rather than the immediate effect
+  key_terms: investing gift, patient giving, long-term generosity, sown return
+
+dynamic_antagonism:
+  mechanism: The 6's wish to give now clashes with the 7's call to wait for the right moment; generosity meets a patience that holds back the immediate gift
+  tension_axis: immediate giving versus patient timing; the gift now versus the gift that waits for its season
+  six_of_pentacles_position: Wants to give now where need is visible; distrusts holding back
+  seven_of_pentacles_position: The gift given too soon is wasted; patience times the giving for real effect
+  key_terms: urged immediacy, demanded patience, insisted giving, kept timing
+
+dynamic_inhibition:
+  mechanism: The 7's insistence on waiting holds back the giving past the moment of need; the patience defers the gift until the need has passed
+  blockade_nature: the generosity cannot help while patience defers it indefinitely
+  pentacles_state: the giving is held back too long; the fair distribution waits while the need goes unmet
+  consequence: the gift comes too late; the 6's giving is deferred past the moment it mattered
+  key_terms: deferred gift, missed moment, withheld generosity, late giving
+
+dynamic_devolution:
+  mechanism: The 6 corrupts the patience into a pretext for never giving; generosity becomes the giving forever postponed to a better time
+  mode: the fair exchange used to delay every gift indefinitely; the giving becomes the patience that is really refusal
+  loss: the genuine giving patience should have timed; generosity becomes the endless deferral that never gives
+  key_terms: obsessive deferral, postponed gift, withholding generosity, disguised refusal
+
+dynamic_dependency:
+  mechanism: The 6 needs the 7 to teach it to time its giving for real effect; the patience needs the generosity to keep its long view from becoming mere withholding
+  function: Pentacles-6 supplies the giving impulse that patience times well; Pentacles-7 supplies the long view that teaches generosity to invest its giving for lasting return
+  integration_outcome: giving that is both timely and patient; generosity grounded in a patience that times its gifts for real, lasting effect
+  key_terms: timely giving, grounded patience, invested generosity, lasting return
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, 8 of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Mastery, skill-development, apprenticeship, dedication, refined craft
+numerical_relation: 6 + 8 = 14 (XIV Temperance; fair giving meets dedicated mastery; generosity funding the apprentice)
+elemental_bridge: Earth's distributed resource meets Earth's diligent practice; the giving hand sponsors the apprentice
+threshold_type: The gift that trains; generosity meeting mastery
+
+dynamic_genesis:
+  mechanism: The 6's generosity sponsors the 8's apprenticeship; fair giving becomes the support that lets dedicated practice build mastery
+  process: the balanced distribution funds the long training; the generosity sustains the apprentice through years of practice; giving becomes the investment in developing skill
+  outcome: mastery funded by generosity; the apprentice's dedication sustained by fair, patient giving
+  key_terms: sponsoring gift, funded apprenticeship, sustaining generosity, supported mastery
+
+dynamic_antagonism:
+  mechanism: The 6's wish to give widely clashes with the 8's need for sustained focused support; generosity meets a mastery that needs deep investment in one, not thin spreading among many
+  tension_axis: broad distribution versus deep sustained support; many small gifts versus one long investment
+  six_of_pentacles_position: Wants to spread support among many; distrusts pouring all into one apprentice
+  eight_of_pentacles_position: Mastery needs sustained deep support; spread-thin giving cannot build real skill
+  key_terms: urged breadth, demanded depth, insisted fairness, kept focus
+
+dynamic_inhibition:
+  mechanism: The broad thin spreading starves the apprentice's need for sustained support; the fair distribution cannot fund the deep training mastery requires
+  blockade_nature: the skill cannot develop on support spread too thin to sustain the long practice
+  pentacles_state: the generosity's breadth underfunds the depth; the apprentice cannot be sustained to mastery
+  consequence: the training falters for want of sustained support; the 6's breadth defeats the 8's depth
+  key_terms: starved apprentice, underfunded depth, thin support, faltered mastery
+
+dynamic_devolution:
+  mechanism: The 6 corrupts the sponsorship into ownership of the apprentice's future skill; generosity becomes the funding that indentures the developing master
+  mode: the fair exchange used to claim the apprentice's future mastery; the giving becomes the bond that owns the skill it funded
+  loss: the genuine development generosity should sustain; giving becomes the indenture of the apprentice
+  key_terms: obsessive ownership, indenturing gift, claiming generosity, owned mastery
+
+dynamic_dependency:
+  mechanism: The 6 needs the 8 to give its support a worthy depth; the mastery needs the generosity to sustain its long apprenticeship without owning the skill
+  function: Pentacles-6 supplies the sustained support that funds the training; Pentacles-8 supplies the dedication that teaches generosity that real mastery needs deep, patient investment
+  integration_outcome: mastery sustained by deep generous support; apprenticeship grounded in a generosity that invests deeply without owning what it funds
+  key_terms: deep support, sustained mastery, grounded generosity, freed apprentice
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, 9 of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+numerical_relation: 6 + 9 = 15 (XV The Devil; fair giving meets earned abundance; generosity meeting self-sufficiency)
+elemental_bridge: Earth's distributing hand meets Earth's earned plenty; the giving hand meets the self-sufficient
+threshold_type: The gift to the self-sufficient; generosity meeting independence
+
+dynamic_genesis:
+  mechanism: The 9's earned abundance becomes the source from which the 6's generosity can flow; self-sufficiency provides the surplus that giving distributes
+  process: the earned plenty overflows into the 6's distribution; the generosity channels the 9's abundance to others; giving becomes the way self-sufficiency shares its surplus
+  outcome: abundance shared through generosity; the self-sufficient's surplus distributed by fair giving
+  key_terms: shared surplus, channeled abundance, distributing generosity, overflowing plenty
+
+dynamic_antagonism:
+  mechanism: The 6's impulse to distribute clashes with the 9's self-contained enjoyment; generosity meets an abundance content to enjoy itself alone
+  tension_axis: the distributing hand versus the self-contained garden; sharing the surplus versus enjoying it in solitude
+  six_of_pentacles_position: Wants the abundance shared with those in need
+  nine_of_pentacles_position: Earned the plenty alone; enjoys it in self-sufficient solitude, owing no one
+  key_terms: urged sharing, defended solitude, insisted distribution, kept abundance
+
+dynamic_inhibition:
+  mechanism: The 9's self-contained solitude refuses the 6's call to share; the earned abundance stays enjoyed alone, undistributed
+  blockade_nature: the giving cannot flow from a plenty that insists on enjoying itself in solitude
+  pentacles_state: the generosity finds no surplus released; the abundance stays sealed in its garden
+  consequence: the surplus goes unshared; the 6's distribution has nothing to distribute while the 9 enjoys alone
+  key_terms: sealed abundance, undistributed surplus, refused sharing, solitary plenty
+
+dynamic_devolution:
+  mechanism: The 6 corrupts into pressuring the self-sufficient out of guilt; generosity becomes the giving demanded of those who earned their plenty
+  mode: the fair exchange used to shame the abundant into surrendering what they earned; the giving becomes the guilt-extraction from the self-sufficient
+  loss: the genuine voluntary sharing generosity should invite; giving becomes the coerced extraction that resents the earned
+  key_terms: obsessive guilting, coerced gift, extracting generosity, resented abundance
+
+dynamic_dependency:
+  mechanism: The 6 needs the 9 to provide the surplus generosity distributes; the abundance needs the generosity to give its solitary plenty a purpose beyond itself
+  function: Pentacles-6 supplies the distribution that gives abundance a wider purpose; Pentacles-9 supplies the earned surplus that teaches generosity it has real plenty to share
+  integration_outcome: abundance that shares its surplus willingly; self-sufficiency grounded in a generosity that channels earned plenty to wider good
+  key_terms: willing surplus, purposeful abundance, grounded generosity, shared plenty
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, 10 of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Legacy, inheritance, family wealth, generational continuity, established foundation
+numerical_relation: 6 + 10 = 16 (XVI The Tower; fair giving meets generational wealth; generosity meeting legacy)
+elemental_bridge: Earth's distributing hand meets Earth's established lineage; the giving hand meets the dynasty's wealth
+threshold_type: The gift across generations; generosity meeting legacy
+
+dynamic_genesis:
+  mechanism: The 6's generosity turns the 10's accumulated wealth into a flowing legacy of giving; fair distribution becomes the tradition the dynasty passes down
+  process: the balanced distribution becomes the family's established practice; the generosity makes giving the inheritance itself; giving becomes the legacy carried across generations
+  outcome: legacy become generosity; the dynasty's wealth flowing as an inherited tradition of fair giving
+  key_terms: inherited giving, flowing legacy, traditional generosity, generational distribution
+
+dynamic_antagonism:
+  mechanism: The 6's impulse to distribute clashes with the 10's drive to preserve and accumulate; generosity meets a legacy bent on keeping the wealth in the family
+  tension_axis: distributing the wealth versus preserving the inheritance; the giving hand versus the accumulating dynasty
+  six_of_pentacles_position: Wants the family wealth to flow outward in giving
+  ten_of_pentacles_position: The wealth must be preserved and passed to heirs; distributing it dissipates the legacy
+  key_terms: urged distribution, defended inheritance, insisted giving, kept wealth
+
+dynamic_inhibition:
+  mechanism: The 10's drive to preserve blocks the 6's distribution; the legacy's accumulation will not let the wealth flow outward
+  blockade_nature: the giving cannot flow while the dynasty hoards its wealth for heirs alone
+  pentacles_state: the generosity is locked out of the family wealth; the fair distribution is blocked by the drive to preserve
+  consequence: the wealth stays in the family, ungiven; the 6's distribution cannot move the 10's hoarded legacy
+  key_terms: locked wealth, blocked distribution, preserved legacy, hoarded inheritance
+
+dynamic_devolution:
+  mechanism: The 6 corrupts into dynastic philanthropy as self-perpetuation; generosity becomes the giving that buys the family's name and power
+  mode: the fair exchange used to entrench the dynasty's prestige through showy charity; the giving becomes the instrument of generational self-glorification
+  loss: the genuine flowing generosity legacy could carry; giving becomes the dynasty's self-perpetuating prestige
+  key_terms: obsessive prestige, self-glorifying charity, entrenching generosity, bought name
+
+dynamic_dependency:
+  mechanism: The 6 needs the 10 to give its distribution durable, generational form; the legacy needs the generosity to keep the inherited wealth flowing rather than merely hoarded
+  function: Pentacles-6 supplies the giving that keeps the legacy alive and flowing; Pentacles-10 supplies the established foundation that teaches generosity to make giving a durable, generational tradition
+  integration_outcome: a legacy that flows as inherited generosity; generational wealth grounded in a giving tradition passed down rather than merely accumulated
+  key_terms: flowing legacy, durable giving, grounded generosity, generational tradition
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, Page of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+numerical_relation: 6 + 11 = 17 (XVII The Star; fair giving meets eager learning; generosity meeting the young student)
+elemental_bridge: Earth's giving hand meets Earth's eager study; the giving hand teaches the young learner
+threshold_type: The gift that teaches giving; generosity meeting curiosity
+
+dynamic_genesis:
+  mechanism: The 6's generosity teaches the Page the practice of fair giving; sharing becomes the lesson the eager student learns by example
+  process: the fair distribution is modeled for the curious learner; the giving teaches the Page how exchange and generosity work; giving becomes the practical education in fairness
+  outcome: the young learner taught generosity; fair giving passed on as a learned practice
+  key_terms: teaching gift, modeled generosity, learned giving, taught fairness
+
+dynamic_antagonism:
+  mechanism: The 6's established practice clashes with the Page's experimental learning; generosity meets a curiosity that wants to test rather than simply copy the rules of giving
+  tension_axis: established giving practice versus experimental learning; the modeled rule versus the testing student
+  six_of_pentacles_position: Wants the Page to learn fair giving by following the established model
+  page_of_pentacles_position: Wants to experiment and test how giving works, not just copy the rules
+  key_terms: urged copying, demanded experiment, insisted practice, kept curiosity
+
+dynamic_inhibition:
+  mechanism: The 6's insistence on the established model stifles the Page's experimental learning; the fixed practice leaves no room to test and discover
+  blockade_nature: the learning cannot deepen when only copying the model is allowed
+  pentacles_state: the generosity teaches by rote; the giving becomes a fixed lesson the Page cannot truly absorb
+  consequence: the Page learns the form but not the spirit; the 6's rigid model blocks real understanding
+  key_terms: rote lesson, stifled experiment, rigid model, shallow learning
+
+dynamic_devolution:
+  mechanism: The 6 corrupts the teaching into indoctrinating obligation; generosity becomes the lesson that giving is a duty owed, draining its joy
+  mode: the fair exchange used to drill obligation into the young; the teaching becomes the joyless catechism of duty
+  loss: the genuine joy of giving the Page might have learned; generosity becomes the burden taught as obligation
+  key_terms: obsessive indoctrination, joyless duty, draining lesson, burdened giving
+
+dynamic_dependency:
+  mechanism: The 6 needs the Page to keep its giving fresh through curious testing; the learning needs the generosity to model fair giving it can explore and make its own
+  function: Pentacles-6 supplies the model of fair giving the young learn from; Pentacles-Page supplies the curiosity that teaches generosity to let its practice be explored and renewed
+  integration_outcome: giving taught as a living practice the young explore and make their own; curiosity grounded in a generosity open to being tested and renewed
+  key_terms: living practice, explored giving, grounded generosity, renewed learning
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, Knight of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Dedication, reliable service, steady work, methodical action, trustworthy effort
+numerical_relation: 6 + 12 = 18 (XVIII The Moon; fair giving meets reliable service; generosity meeting steady labor)
+elemental_bridge: Earth's distributing hand meets Earth's methodical labor; the giving hand meets the steady worker
+threshold_type: The gift carried by reliable hands; generosity meeting service
+
+dynamic_genesis:
+  mechanism: The Knight's reliable service carries the 6's giving steadily to where it is needed; methodical labor becomes the dependable delivery of fair distribution
+  process: the balanced distribution is carried out by steady, trustworthy work; the generosity is enacted through reliable service; giving becomes the dependable system the Knight sustains
+  outcome: generosity made reliable; fair giving delivered steadily by dependable, methodical service
+  key_terms: reliable delivery, steady giving, dependable generosity, methodical distribution
+
+dynamic_antagonism:
+  mechanism: The 6's responsiveness to changing need clashes with the Knight's fixed routine; generosity meets a service so methodical it cannot adapt the giving
+  tension_axis: responsive giving versus fixed routine; the adapting distribution versus the unvarying method
+  six_of_pentacles_position: Wants giving to respond to shifting need; finds the rigid routine unresponsive
+  knight_of_pentacles_position: Reliability requires fixed method; constant change makes service undependable
+  key_terms: urged responsiveness, defended routine, insisted adaptation, kept method
+
+dynamic_inhibition:
+  mechanism: The Knight's rigid routine cannot adapt the 6's giving to changing need; the methodical service delivers the same regardless of shifting circumstance
+  blockade_nature: the responsive distribution cannot flex while bound to an unvarying routine
+  pentacles_state: the generosity becomes mechanical delivery; the giving cannot respond to where need has shifted
+  consequence: the gift arrives by rote, missing the changed need; the 6's responsiveness is frozen by the Knight's routine
+  key_terms: mechanical delivery, frozen responsiveness, rote giving, missed need
+
+dynamic_devolution:
+  mechanism: The 6 corrupts the service into bureaucratic distribution; generosity becomes the unfeeling routine that delivers without seeing whom it serves
+  mode: the fair exchange used to run an unfeeling delivery machine; the giving becomes the bureaucracy that forgets the people behind the routine
+  loss: the genuine care generosity carried; giving becomes the bureaucratic routine blind to real need
+  key_terms: obsessive routine, bureaucratic gift, unfeeling generosity, mechanical service
+
+dynamic_dependency:
+  mechanism: The 6 needs the Knight to deliver its giving dependably; the service needs the generosity to keep its method responsive to real, changing need
+  function: Pentacles-6 supplies the responsive giving that keeps service meaningful; Pentacles-Knight supplies the reliable labor that teaches generosity to deliver dependably and steadily
+  integration_outcome: giving that is both reliable and responsive; steady service grounded in a generosity that delivers dependably while adapting to real need
+  key_terms: reliable responsiveness, steady giving, grounded generosity, dependable service
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, Queen of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+numerical_relation: 6 + 13 = 19 (XIX The Sun; fair giving meets nurturing mastery; generosity meeting abundant care)
+elemental_bridge: Earth's distributing hand meets Earth's nurturing plenty; the giving hand meets the wise provider
+threshold_type: The gift guided by nurturing wisdom; generosity meeting abundant care
+
+dynamic_genesis:
+  mechanism: The Queen's nurturing mastery makes the 6's giving wise and sustaining; abundant care guides generosity to provide in ways that truly nourish
+  process: the fair distribution is shaped by the Queen's practical wisdom; the giving learns to nourish rather than merely hand out; generosity becomes the wise provision that sustains and grows those it serves
+  outcome: generosity made nourishing; fair giving guided by nurturing wisdom into provision that truly sustains
+  key_terms: nourishing gift, wise provision, sustaining generosity, guided giving
+
+dynamic_antagonism:
+  mechanism: The 6's even-handed distribution clashes with the Queen's discerning care for what each truly needs; generosity meets a mastery that nurtures unequally by real need
+  tension_axis: even fair distribution versus need-attuned nurturing; equal shares versus the wise unequal gift
+  six_of_pentacles_position: Wants to give all an equal fair share
+  queen_of_pentacles_position: True nurture gives each what it needs to grow, not equal measure
+  key_terms: urged equality, demanded attunement, insisted fairness, kept nurture
+
+dynamic_inhibition:
+  mechanism: The 6's rigid equality blocks the Queen's attuned nurturing; the equal shares cannot meet the unequal needs the Queen's wisdom perceives
+  blockade_nature: the nourishing care cannot flow while the giving insists on identical portions
+  pentacles_state: the generosity gives equally where it should nurture wisely; the gift fails to sustain what each truly needs
+  consequence: the giving is fair but not nourishing; the 6's equality overrules the Queen's nurturing wisdom
+  key_terms: rigid equality, blocked nurture, unsustaining gift, overruled wisdom
+
+dynamic_devolution:
+  mechanism: The 6 corrupts the nurturing into smothering control; generosity becomes the provision that manages and dominates those it claims to nourish
+  mode: the fair exchange used to make recipients dependent on the nurturing hand; the giving becomes the managing control that keeps them beholden
+  loss: the genuine nourishment generosity could give; giving becomes the smothering management that dominates
+  key_terms: obsessive control, smothering provision, dominating generosity, beholden recipients
+
+dynamic_dependency:
+  mechanism: The 6 needs the Queen to make its giving truly nourishing; the nurturing mastery needs the generosity to give its wise care concrete, fair, sustainable form
+  function: Pentacles-6 supplies the fair distribution that makes nurture sustainable; Pentacles-Queen supplies the nurturing wisdom that teaches generosity to give in ways that truly sustain and grow
+  integration_outcome: giving that is both fair and nourishing; nurturing mastery grounded in a generosity that provides wisely and sustainably
+  key_terms: nourishing fairness, sustainable nurture, grounded generosity, wise provision
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP
+
+---
+
+card_pair: 6 of Pentacles, King of Pentacles
+archetype_pentacles_1: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+archetype_pentacles_2: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+numerical_relation: 6 + 14 = 20 (XX Judgement; fair giving meets prosperous rule; generosity meeting stewardship)
+elemental_bridge: Earth's distributing hand meets Earth's commanding stewardship; the giving hand serves the prosperous ruler
+threshold_type: The gift in service of stewardship; generosity meeting material authority
+
+dynamic_genesis:
+  mechanism: The King's powerful stewardship gives the 6's distribution the reach of a prosperous realm; generosity becomes the policy by which abundant rule provides for all
+  process: the fair distribution is marshaled into the King's stewardship; the giving becomes the realm's provision; generosity becomes the institution through which prosperous rule sustains its people
+  outcome: generosity become stewardship; fair giving made the policy of a prosperous, provident realm
+  key_terms: institutional giving, provident stewardship, marshaled generosity, realm's provision
+
+dynamic_antagonism:
+  mechanism: The 6's independent fairness clashes with the King's commanding authority; generosity meets a stewardship that would govern all giving by its rule
+  tension_axis: independent fair giving versus governed provision; the autonomous gift versus the ruler's policy
+  six_of_pentacles_position: Wants to give by its own fair judgment; resists total subordination to rule
+  king_of_pentacles_position: The realm's giving is the steward's to direct; independent giving fragments the policy
+  key_terms: urged governance, defended autonomy, insisted authority, kept independence
+
+dynamic_inhibition:
+  mechanism: The 6's independence resists the King's governing; the autonomous giving will not be marshaled into the realm's policy
+  blockade_nature: the generosity cannot become institutional while it insists on giving only by its own measure
+  pentacles_state: the giving stays scattered and personal; the fair distribution will not serve the realm's stewardship
+  consequence: the realm's provision goes unmarshaled; the King's stewardship cannot institutionalize the 6's scattered giving
+  key_terms: scattered giving, unmarshaled generosity, resisted governance, fragmented provision
+
+dynamic_devolution:
+  mechanism: The 6 corrupts into administering a ruler's self-serving largesse; generosity becomes the policy that distributes to entrench the steward's power
+  mode: the fair exchange used to buy the realm's loyalty; the giving becomes the patronage machine of self-serving rule
+  loss: the genuine fair provision generosity stood for; giving becomes the patronage that entrenches power
+  key_terms: obsessive patronage, loyalty-buying gift, entrenching generosity, self-serving rule
+
+dynamic_dependency:
+  mechanism: The 6 needs the King to give its distribution the reach of prosperous stewardship; the authority needs the generosity to keep its rule's provision genuinely fair
+  function: Pentacles-6 supplies the fair giving that keeps stewardship just; Pentacles-King supplies the powerful stewardship that teaches generosity to provide for all with the reach of prosperous rule
+  integration_outcome: giving made institutional and just; prosperous stewardship grounded in a generosity that provides fairly across the whole realm
+  key_terms: just stewardship, institutional fairness, grounded generosity, provident rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 6-1 through 6-14
+  uid: 6OPP

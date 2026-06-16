@@ -1,0 +1,697 @@
+card_pair: 9 of Pentacles, Ace of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: 9 + 1 = 10 (X The Wheel of Fortune; self-sufficiency meets new potential; the solitary meets the fresh seed)
+elemental_bridge: Earth's earned abundance meets Earth's fresh seed; the self-sufficient meets the new beginning
+threshold_type: The abundance that plants anew; independence meeting new potential
+
+dynamic_genesis:
+  mechanism: The 9's earned abundance gives the Ace's fresh potential the resources to grow without struggle; self-sufficiency funds a new beginning from a base of plenty
+  process: the prosperous independence plants the new seed from its surplus; the self-sufficiency funds the fresh start without precarity; the abundance gives the potential a fertile, well-resourced ground
+  outcome: a fresh beginning funded by earned abundance; the new potential planted in the fertile ground of self-sufficiency
+  key_terms: funded beginning, fertile ground, resourced potential, planted abundance
+
+dynamic_antagonism:
+  mechanism: The 9's contentment with what it has clashes with the Ace's urge to begin again; independence meets a fresh potential that disturbs the prosperous solitude's settled satisfaction
+  tension_axis: the contentment with what is built versus the urge to begin anew; the settled abundance versus the fresh seed
+  nine_of_pentacles_position: Is content with the abundance it built; the new beginning disturbs the satisfaction it earned
+  ace_of_pentacles_position: There is more to grow; the settled contentment has stopped planting
+  key_terms: urged beginning, defended contentment, insisted planting, kept settled
+
+dynamic_inhibition:
+  mechanism: The 9's settled contentment refuses the Ace's new seed; the prosperous self-sufficiency will not disturb its satisfaction to begin again
+  blockade_nature: the new potential cannot be planted while the abundance insists it already has enough
+  pentacles_state: the prosperity stops planting; the self-sufficiency refuses the fresh seed to protect its settled contentment
+  consequence: the new potential goes unplanted; the 9's contentment refuses the Ace's beginning
+  key_terms: unplanted seed, settled contentment, refused beginning, satisfied stasis
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the contentment into a complacency that never grows anything new; independence becomes the abundance so satisfied it lets every fresh potential go unplanted
+  mode: the self-sufficiency used to rest so completely nothing new is ever begun; the abundance becomes the complacency that plants no new seed
+  loss: the genuine growth the new seed offered; independence becomes the complacency that has confused having enough with having nothing left to grow
+  key_terms: obsessive complacency, unplanted potential, satisfied stasis, ungrown abundance
+
+dynamic_dependency:
+  mechanism: The 9 needs the Ace to keep its abundance growing rather than merely settled; the new potential needs the independence to fund its fresh beginning from a base of plenty
+  function: Pentacles-9 supplies the abundant resources that fund a fresh beginning without precarity; Pentacles-Ace supplies the new potential that teaches independence to keep planting rather than merely resting
+  integration_outcome: a fresh beginning funded richly from earned abundance; the new potential grounded in an independence prosperous enough to keep growing
+  key_terms: funded beginning, growing abundance, grounded independence, planted potential
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, 2 of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Balance, juggling, flexibility, adaptive exchange, equilibrium
+numerical_relation: 9 + 2 = 11 (XI Strength; self-sufficiency meets adaptive balance; the solitary meets the juggler)
+elemental_bridge: Earth's settled abundance meets Earth's juggling motion; the self-sufficient meets the adaptive flow
+threshold_type: The settled wealth and the nimble juggling; independence meeting flexible balance
+
+dynamic_genesis:
+  mechanism: The 2's flexibility keeps the 9's settled abundance adaptive to change; the juggling teaches the self-sufficiency to manage its wealth nimbly rather than let it ossify
+  process: the earned independence gains the 2's adaptive flexibility; the self-sufficiency learns to manage its abundance nimbly; the settled wealth stays responsive to changing circumstances
+  outcome: a settled abundance kept adaptively managed; the self-sufficient wealth made nimble by flexible juggling
+  key_terms: adaptive management, nimble wealth, flexible abundance, responsive independence
+
+dynamic_antagonism:
+  mechanism: The 9's wish for settled ease clashes with the 2's constant juggling; independence meets a flexibility that will not let the prosperous solitude simply rest in its abundance
+  tension_axis: the wish for settled ease versus the constant juggling; the restful abundance versus the adaptive motion
+  nine_of_pentacles_position: Wants to rest in its settled abundance; the constant juggling denies the ease it earned
+  two_of_pentacles_position: Wealth requires constant nimble management; resting in settled ease lets it slip away
+  key_terms: urged juggling, defended ease, insisted management, kept settled
+
+dynamic_inhibition:
+  mechanism: The 9's wish for settled ease refuses the 2's constant management; the abundance left to rest without nimble juggling slowly slips from disuse
+  blockade_nature: the wealth cannot stay managed while the prosperity insists on resting in undisturbed ease
+  pentacles_state: the abundance ossifies; the self-sufficiency's wish for ease lets the wealth slip from want of nimble management
+  consequence: the abundance erodes untended; the 9's wish for settled ease refuses the 2's necessary juggling
+  key_terms: ossified wealth, eroded abundance, refused management, settled neglect
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into either an abundance left to rot in idle ease or a juggling so frantic the ease is never enjoyed; either the wealth ossifies or the rest is never had
+  mode: the self-sufficiency resting so idly the wealth rots, or the flexibility juggling so frantically the earned ease is never enjoyed; either the abundance ossifies or the rest is lost
+  loss: the union of restful ease and nimble management; the abundance becomes either the idle rot or the frantic juggling
+  key_terms: obsessive extremes, idle rot, frantic juggling, lost balance
+
+dynamic_dependency:
+  mechanism: The 9 needs the 2 to keep its abundance nimbly managed; the flexibility needs the independence to give its juggling a settled abundance worth keeping aloft
+  function: Pentacles-9 supplies the settled abundance worth managing nimbly; Pentacles-2 supplies the adaptive flexibility that teaches independence to keep its wealth responsive rather than ossified
+  integration_outcome: a settled abundance kept nimbly managed while still enjoyed in ease; flexibility grounded in an independence prosperous enough to manage its wealth without frantic anxiety
+  key_terms: managed ease, nimble abundance, grounded independence, enjoyed wealth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, 3 of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Collaboration, skill, artisanship, mutual effort, crafted mastery
+numerical_relation: 9 + 3 = 12 (XII The Hanged Man; self-sufficiency meets collaborative craft; the solitary meets the workshop)
+elemental_bridge: Earth's prosperous solitude meets Earth's collaborative workshop; the self-sufficient meets the shared craft
+threshold_type: The solitary abundance and the shared workshop; independence meeting collaboration
+
+dynamic_genesis:
+  mechanism: The 3's collaboration shows the 9 that its abundance could be enriched by shared work; the workshop offers the prosperous solitude the deeper satisfaction of creating with others
+  process: the earned independence is drawn into collaborative craft; the self-sufficiency discovers the richer satisfaction of shared work; the solitary abundance is enriched by the workshop's mutual effort
+  outcome: a solitary abundance enriched by collaborative craft; the self-sufficient prosperity finding the deeper satisfaction of shared work
+  key_terms: enriched abundance, collaborative craft, shared satisfaction, joined solitude
+
+dynamic_antagonism:
+  mechanism: The 9's self-sufficient independence clashes with the 3's collaborative interdependence; independence meets a workshop that asks the self-made to depend on others' skill
+  tension_axis: the self-sufficient independence versus the collaborative interdependence; the self-made abundance versus the shared craft
+  nine_of_pentacles_position: Made its abundance alone; the collaboration asks it to depend on others' contributions
+  three_of_pentacles_position: The richest craft is shared; the self-made solitude misses the mastery collaboration creates
+  key_terms: urged collaboration, defended self-made, insisted interdependence, kept solitude
+
+dynamic_inhibition:
+  mechanism: The 9's pride in its self-made abundance refuses the 3's collaboration; the self-sufficiency will not depend on others' skill to enrich its work
+  blockade_nature: the shared craft cannot form while the prosperity insists on making everything alone
+  pentacles_state: the abundance stays solitary; the self-sufficiency refuses the collaboration that would enrich its work
+  consequence: the shared mastery goes uncreated; the 9's self-made pride refuses the 3's collaboration
+  key_terms: refused collaboration, solitary abundance, self-made pride, uncreated mastery
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the self-made pride into a refusal to ever work with anyone; independence becomes the abundance that mistakes doing everything alone for self-sufficiency
+  mode: the self-sufficiency used to refuse all collaboration; the self-made pride becomes the isolation that will never share the work that would enrich it
+  loss: the richer mastery collaboration offered; independence becomes the isolation that has confused doing everything alone with being self-sufficient
+  key_terms: obsessive isolation, refused collaboration, self-made pride, lonely abundance
+
+dynamic_dependency:
+  mechanism: The 9 needs the 3 to enrich its abundance through shared craft; the collaboration needs the independence to bring a self-sufficient fullness to the workshop rather than a needy dependence
+  function: Pentacles-9 supplies the self-sufficient fullness that makes collaboration a free choice rather than a need; Pentacles-3 supplies the collaborative craft that teaches independence the richer satisfaction of shared work
+  integration_outcome: a self-sufficient abundance enriched by freely chosen collaboration; the shared craft grounded in an independence whole enough to contribute without depending neediy
+  key_terms: enriched collaboration, free contribution, grounded independence, shared craft
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, 4 of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Holding, security, control, possessiveness, guarded resources
+numerical_relation: 9 + 4 = 13 (XIII Death; self-sufficiency meets guarded holding; the solitary meets the keeper)
+elemental_bridge: Earth's earned abundance meets Earth's guarded hold; the self-sufficient meets the closed fist
+threshold_type: The enjoyed abundance and the guarded hoard; independence meeting holding
+
+dynamic_genesis:
+  mechanism: The 4's security gives the 9's abundance the protection it needs; guarded holding shields the earned prosperity so the independence can enjoy it without fear of loss
+  process: the earned abundance is given secure protection; the self-sufficiency is shielded by prudent guarding; the prosperity is protected enough to be enjoyed without anxiety
+  outcome: an abundance protected enough to be enjoyed; the self-sufficient prosperity shielded by prudent, secure holding
+  key_terms: protected abundance, secure holding, shielded prosperity, fearless enjoyment
+
+dynamic_antagonism:
+  mechanism: The 9's open enjoyment of its abundance clashes with the 4's anxious guarding; independence meets a holding that would lock away the prosperity the self-sufficient wants to enjoy freely
+  tension_axis: the open enjoyment versus the anxious guarding; the freely enjoyed abundance versus the locked-away hoard
+  nine_of_pentacles_position: Wants to enjoy its abundance freely; the anxious guarding locks away the prosperity it earned to enjoy
+  four_of_pentacles_position: The abundance must be guarded; the open enjoyment risks the loss the holding fears
+  key_terms: urged enjoyment, defended guarding, insisted security, kept locked
+
+dynamic_inhibition:
+  mechanism: The 4's anxious guarding prevents the 9's enjoyment; the locked-away holding will not release the abundance the prosperity wants to enjoy
+  blockade_nature: the abundance cannot be enjoyed while the holding locks it away in anxious security
+  pentacles_state: the prosperity is locked from enjoyment; the self-sufficiency cannot enjoy what the anxious guarding has hoarded away
+  consequence: the abundance goes unenjoyed; the 4's anxious guarding prevents the 9's free enjoyment
+  key_terms: locked abundance, anxious guarding, unenjoyed prosperity, hoarded enjoyment
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into a prosperity so guarded it is never enjoyed, or an enjoyment so careless the abundance is lost; either the wealth is hoarded unenjoyed or it is squandered
+  mode: the holding guarding so anxiously the abundance is never enjoyed, or the enjoyment so careless the prosperity is squandered; either the wealth is hoarded or it is lost
+  loss: the union of secure protection and free enjoyment; the abundance becomes either the unenjoyed hoard or the squandered carelessness
+  key_terms: obsessive extremes, unenjoyed hoard, squandered carelessness, lost balance
+
+dynamic_dependency:
+  mechanism: The 9 needs the 4 to protect its abundance enough to enjoy it without fear; the holding needs the independence to give its guarding an abundance worth protecting for enjoyment, not mere hoarding
+  function: Pentacles-9 supplies the enjoyable abundance that gives guarding its purpose; Pentacles-4 supplies the secure holding that teaches independence to protect its prosperity enough to enjoy it without fear
+  integration_outcome: an abundance protected enough to be enjoyed freely and without anxiety; holding grounded in an independence that guards its prosperity for enjoyment rather than mere hoarding
+  key_terms: protected enjoyment, secure abundance, grounded independence, fearless prosperity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, 5 of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Hardship, poverty, material loss, deprivation, abandonment
+numerical_relation: 9 + 5 = 14 (XIV Temperance; self-sufficiency meets hardship; the solitary meets the deprived)
+elemental_bridge: Earth's earned abundance meets Earth's empty hands; the self-sufficient meets the destitute
+threshold_type: The abundance that remembers poverty; independence meeting hardship
+
+dynamic_genesis:
+  mechanism: The 5's deprivation reminds the 9 of the poverty its abundance overcame; the hardship keeps the self-sufficiency humble and moves it to share with the destitute
+  process: the earned independence remembers the poverty it overcame; the self-sufficiency is humbled by the sight of deprivation; the abundance is moved to share with those still in want
+  outcome: an abundance humbled and made generous by remembering poverty; the self-sufficient prosperity moved to share with the destitute
+  key_terms: humbled abundance, remembered poverty, generous independence, shared prosperity
+
+dynamic_antagonism:
+  mechanism: The 9's enjoyment of its abundance clashes with the 5's reproachful need; independence meets a deprivation that makes the prosperous solitude's comfort feel like indifference
+  tension_axis: the enjoyment of abundance versus the reproachful need; the comfortable prosperity versus the destitute want
+  nine_of_pentacles_position: Earned its abundance and would enjoy it; the deprivation's need reproaches its comfort
+  five_of_pentacles_position: The want is real and reproachful; the comfortable abundance enjoys what the deprived lack
+  key_terms: urged sharing, defended enjoyment, insisted need, kept comfort
+
+dynamic_inhibition:
+  mechanism: The 9's enjoyment of its earned abundance hardens against the 5's need; the self-sufficiency insists it earned its comfort and owes the destitute nothing
+  blockade_nature: the sharing cannot flow while the abundance insists its comfort is earned and owes nothing to the deprived
+  pentacles_state: the prosperity hardens; the self-sufficiency refuses the deprived, insisting its comfort was earned
+  consequence: the deprivation goes unrelieved; the 9's insistence that it earned its comfort refuses the 5's need
+  key_terms: hardened abundance, refused sharing, earned-comfort, unrelieved need
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the earned comfort into a contempt for the poor; independence becomes the abundance that despises the deprived as having failed where it succeeded
+  mode: the self-sufficiency used to despise those who did not earn what it did; the abundance becomes the contempt that blames the deprived for their want
+  loss: the genuine generosity remembering poverty would move; independence becomes the contempt that has confused earning its abundance with deserving to keep it all
+  key_terms: obsessive contempt, despised poor, blamed deprived, hardened comfort
+
+dynamic_dependency:
+  mechanism: The 9 needs the 5 to keep its abundance humble and generous; the deprivation needs the independence to share from a surplus that remembers what poverty was
+  function: Pentacles-9 supplies the surplus abundance that can relieve the deprived; Pentacles-5 supplies the remembered poverty that teaches independence to stay humble and share rather than despise
+  integration_outcome: an abundance kept humble by memory and moved to share with the deprived; the hardship relieved by an independence that remembers poverty and gives from its surplus
+  key_terms: humble sharing, remembered poverty, grounded independence, relieved hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, 6 of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+numerical_relation: 9 + 6 = 15 (XV The Devil; self-sufficiency meets fair giving; the solitary meets the giver)
+elemental_bridge: Earth's earned abundance meets Earth's open hand; the self-sufficient meets the giving hand
+threshold_type: The surplus and the giving; independence meeting generosity
+
+dynamic_genesis:
+  mechanism: The 6's generosity gives the 9's surplus abundance a purpose beyond itself; the giving turns the self-sufficient prosperity outward into shared, fair distribution
+  process: the earned surplus is turned outward through generous giving; the self-sufficiency finds purpose in sharing its abundance fairly; the prosperity becomes a source of fair distribution
+  outcome: a surplus abundance given a purpose through generosity; the self-sufficient prosperity turned outward into fair, shared giving
+  key_terms: purposeful surplus, generous abundance, fair distribution, outward prosperity
+
+dynamic_antagonism:
+  mechanism: The 9's enjoyment of its self-sufficiency clashes with the 6's call to give; independence meets a generosity that would have the prosperous solitude give away what it earned to enjoy
+  tension_axis: the enjoyment of self-sufficiency versus the call to give; keeping the abundance versus sharing it
+  nine_of_pentacles_position: Earned its abundance to enjoy; the call to give threatens the prosperity it wants to keep
+  six_of_pentacles_position: Abundance is meant to be shared; the self-sufficient enjoyment hoards what could do good
+  key_terms: urged giving, defended enjoyment, insisted sharing, kept abundance
+
+dynamic_inhibition:
+  mechanism: The 9's enjoyment of its self-sufficiency refuses the 6's call to give; the prosperity keeps its abundance for its own enjoyment rather than sharing it
+  blockade_nature: the generosity cannot flow while the self-sufficiency keeps its abundance for its own enjoyment
+  pentacles_state: the prosperity stays self-enclosed; the self-sufficiency refuses to turn its surplus outward into giving
+  consequence: the surplus does no good; the 9's self-enjoyment refuses the 6's call to share
+  key_terms: refused giving, self-enclosed prosperity, kept surplus, enjoyed abundance
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the self-sufficiency into a miserliness that gives nothing; independence becomes the abundance that enjoys its surplus while giving none of it away
+  mode: the self-sufficiency used to justify keeping every bit of the surplus; the abundance becomes the miserliness that enjoys its plenty and shares nothing
+  loss: the good the surplus could do; independence becomes the miserliness that has confused enjoying its abundance with deserving to keep it all
+  key_terms: obsessive miserliness, kept surplus, refused giving, self-enclosed abundance
+
+dynamic_dependency:
+  mechanism: The 9 needs the 6 to give its surplus a purpose beyond itself; the generosity needs the independence to provide the self-sufficient surplus from which fair giving can flow
+  function: Pentacles-9 supplies the self-sufficient surplus from which generosity can give freely; Pentacles-6 supplies the generosity that teaches independence to turn its surplus outward into fair, purposeful giving
+  integration_outcome: a self-sufficient surplus turned outward into fair, purposeful giving; generosity grounded in an independence whose abundance gives freely from its plenty
+  key_terms: purposeful giving, shared surplus, grounded independence, fair generosity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, 7 of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Assessment, patience, long-term investment, paused evaluation, trust in process
+numerical_relation: 9 + 7 = 16 (XVI The Tower; self-sufficiency meets patient assessment; the solitary meets the gardener)
+elemental_bridge: Earth's earned abundance meets Earth's patient evaluation; the self-sufficient meets the assessing gardener
+threshold_type: The harvest and the patience that grew it; independence meeting patience
+
+dynamic_genesis:
+  mechanism: The 7's patient assessment is the long investment that grew the 9's abundance; the patience and the prosperity reveal themselves as the labor and the harvest of the same long process
+  process: the earned independence recognizes the patient investment that built it; the self-sufficiency honors the long assessment it required; the abundance is seen as the harvest of patient, long-tended work
+  outcome: an abundance recognized as the harvest of patient investment; the self-sufficient prosperity honoring the long assessment that grew it
+  key_terms: harvested abundance, patient investment, honored process, grown prosperity
+
+dynamic_antagonism:
+  mechanism: The 9's enjoyment of the finished harvest clashes with the 7's habit of always assessing for more; independence meets a patience that cannot stop evaluating where the prosperity wants to rest
+  tension_axis: the enjoyment of the finished harvest versus the habit of assessing for more; resting in abundance versus always evaluating
+  nine_of_pentacles_position: Wants to enjoy the harvest it grew; the constant assessment cannot let it rest in the abundance
+  seven_of_pentacles_position: There is always more to assess and grow; resting in the harvest stops the process that made it
+  key_terms: urged assessment, defended enjoyment, insisted evaluating, kept resting
+
+dynamic_inhibition:
+  mechanism: The 7's habit of always assessing prevents the 9 from enjoying its harvest; the constant evaluation denies the prosperity the rest in the abundance it grew
+  blockade_nature: the enjoyment cannot settle while the patience keeps assessing whether more could be grown
+  pentacles_state: the abundance cannot be enjoyed; the self-sufficiency is denied its harvest by the patience that always evaluates more
+  consequence: the harvest goes unenjoyed; the 7's constant assessment denies the 9 the rest its abundance earned
+  key_terms: denied harvest, constant assessment, unenjoyed abundance, restless evaluation
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into either an abundance that can never be enjoyed for always assessing more or a complacency that stops all further growth; either the harvest is never enjoyed or the process dies
+  mode: the patience assessing so endlessly the harvest is never enjoyed, or the abundance resting so completely the investing process dies; either the harvest is unenjoyed or the growth stops
+  loss: the union of enjoyed harvest and continued patient growth; the prosperity becomes either the restless assessment or the complacent stasis
+  key_terms: obsessive extremes, restless assessment, complacent stasis, lost balance
+
+dynamic_dependency:
+  mechanism: The 9 needs the 7 to keep its abundance growing rather than merely resting; the patience needs the independence to let it enjoy the harvest its long investment grew
+  function: Pentacles-9 supplies the enjoyed harvest that is the reward of the patient investment; Pentacles-7 supplies the patient assessment that teaches independence to keep its abundance growing while also enjoying what it grew
+  integration_outcome: an abundance enjoyed as the harvest of patient investment while still tended toward further growth; patience grounded in an independence that both enjoys its harvest and keeps it growing
+  key_terms: enjoyed harvest, continued growth, grounded independence, patient abundance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, 8 of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Mastery, skill-development, apprenticeship, dedication, refined craft
+numerical_relation: 9 + 8 = 17 (XVII The Star; self-sufficiency meets dedicated mastery; the solitary meets the craftsman)
+elemental_bridge: Earth's earned abundance meets Earth's refined craft; the self-sufficient meets the dedicated skill
+threshold_type: The abundance and the mastery that earned it; independence meeting mastery
+
+dynamic_genesis:
+  mechanism: The 8's dedicated mastery is the skill that earned the 9's abundance; the craft and the prosperity reveal themselves as the means and the fruit of the same dedication
+  process: the earned independence recognizes the mastery that built it; the self-sufficiency honors the refined skill it required; the abundance is seen as the fruit of dedicated, skilled work
+  outcome: an abundance recognized as the fruit of mastery; the self-sufficient prosperity honoring the refined skill that earned it
+  key_terms: skilled abundance, honored mastery, fruit of dedication, earned prosperity
+
+dynamic_antagonism:
+  mechanism: The 9's comfortable enjoyment clashes with the 8's drive to keep honing; independence meets a mastery that cannot stop refining where the prosperity wants to rest in what it earned
+  tension_axis: the comfortable enjoyment versus the drive to keep honing; resting in the abundance versus perfecting the skill further
+  nine_of_pentacles_position: Wants to enjoy the abundance its mastery earned; the drive to keep honing denies the rest it won
+  eight_of_pentacles_position: The skill must keep developing; resting in the abundance lets the mastery that earned it decay
+  key_terms: urged honing, defended enjoyment, insisted refining, kept resting
+
+dynamic_inhibition:
+  mechanism: The 9's comfortable enjoyment dulls the 8's drive to keep honing; the earned ease saps the dedication that built the abundance, letting the skill decay
+  blockade_nature: the mastery cannot keep refining while the comfortable abundance removes the drive that built it
+  pentacles_state: the skill decays; the self-sufficiency's comfortable enjoyment dulls the dedication that earned its abundance
+  consequence: the mastery rots in comfort; the 9's enjoyment dulls the 8's drive to keep honing
+  key_terms: decayed mastery, dulled dedication, comfortable rot, lost drive
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into either an abundance that lets the skill that earned it rot, or a honing so relentless the abundance is never enjoyed; either the mastery decays or the rest is never had
+  mode: the comfortable abundance letting the mastery decay, or the dedication honing so relentlessly the abundance is never enjoyed; either the skill rots or the rest is lost
+  loss: the union of earned enjoyment and maintained mastery; the prosperity becomes either the decaying comfort or the joyless honing
+  key_terms: obsessive extremes, decaying comfort, joyless honing, lost balance
+
+dynamic_dependency:
+  mechanism: The 9 needs the 8 to maintain the mastery that earned its abundance; the mastery needs the independence to be the reward that justifies enjoying the skill's fruit
+  function: Pentacles-9 supplies the earned abundance that is the reward justifying the mastery's enjoyment; Pentacles-8 supplies the dedicated skill that teaches independence to maintain the mastery that earned its prosperity
+  integration_outcome: an earned abundance enjoyed while the mastery that built it is maintained; mastery grounded in an independence whose prosperity is the just reward of the skill it keeps alive
+  key_terms: maintained mastery, enjoyed abundance, grounded independence, earned reward
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, 9 of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+numerical_relation: 9 + 9 = 18 (XVIII The Moon; the solitary meets itself; self-sufficiency recognizing self-sufficiency)
+elemental_bridge: Earth's prosperous solitude discovers its mirror; the self-sufficient meets another self-sufficient
+threshold_type: Two prosperous solitudes; independence meeting itself
+
+dynamic_genesis:
+  mechanism: Each 9 recognizes its own self-sufficiency in the other; two whole, independent selves meet as equals who enrich each other precisely because neither needs the other
+  process: the two self-sufficiencies recognize each other as equals; each independence is enriched by a company that needs nothing from it; the mirrored solitude becomes a friendship of two whole selves
+  outcome: a friendship of two self-sufficient equals; each independence enriched by a company that needs nothing and gives freely
+  key_terms: equal friendship, mutual self-sufficiency, free company, mirrored wholeness
+
+dynamic_antagonism:
+  mechanism: Each 9 prizes its own solitude over the other's company; independence meets a mirror equally unwilling to compromise its self-sufficiency for connection
+  tension_axis: each prizing its own solitude versus the other's company; both self-sufficiencies unwilling to compromise
+  pentacles_position_1: Prizes its own solitude; will not compromise its self-sufficiency even for the other's company
+  pentacles_position_2: Equally guards its own independence; refuses to need the first any more than it needs anyone
+  key_terms: contested solitudes, guarded independence, mutual unwillingness, prized self-sufficiency
+
+dynamic_inhibition:
+  mechanism: The two self-sufficiencies, each needing nothing, never bridge to each other; the mutual independence leaves both whole but unconnected
+  blockade_nature: the friendship cannot form while each guards its solitude so completely it lets nothing in
+  pentacles_state: the two solitudes stay parallel; the mutual self-sufficiency leaves both whole but never touching
+  consequence: the company never forms; the two 9s remain whole and parallel, neither needing nor knowing the other
+  key_terms: parallel solitudes, unbridged independence, untouching wholeness, unconnected self-sufficiency
+
+dynamic_devolution:
+  mechanism: The two 9s corrupt into a competition of self-sufficiencies, each proving it needs the other less; independence becomes the contest of who can be the most aloof
+  mode: the self-sufficiency turned to proving who needs the other least; the solitude becomes the contest of aloofness that mistakes coldness for strength
+  loss: the friendship two whole selves could freely share; independence becomes the competition of aloofness that confuses needing no one with being superior
+  key_terms: obsessive competition, contested aloofness, proven independence, lost friendship
+
+dynamic_dependency:
+  mechanism: Each 9 needs the other to discover that two whole selves can freely choose each other; mutual self-sufficiency needs each to open to a company it does not need but freely values
+  function: Each Pentacles-9 supplies the whole self that makes the other's company a free choice rather than a need; together they supply the friendship of two self-sufficient equals
+  integration_outcome: a friendship of two whole selves who freely choose each other precisely because neither needs the other; self-sufficiency grounded in an independence secure enough to value free company
+  key_terms: free friendship, chosen company, grounded independence, mutual wholeness
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, 10 of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Legacy, inheritance, family wealth, generational continuity, established foundation
+numerical_relation: 9 + 10 = 19 (XIX The Sun; self-sufficiency meets generational wealth; the solitary meets the legacy)
+elemental_bridge: Earth's earned abundance meets Earth's established lineage; the self-sufficient meets the generational foundation
+threshold_type: The self-made wealth and the inherited legacy; independence meeting legacy
+
+dynamic_genesis:
+  mechanism: The 10's legacy offers the 9's self-made abundance a generational continuity; the earned prosperity can become the foundation of a lasting family inheritance
+  process: the self-made independence becomes the seed of a generational legacy; the self-sufficiency's abundance founds a lasting inheritance; the earned prosperity is passed into generational continuity
+  outcome: a self-made abundance become the foundation of a generational legacy; the self-sufficient prosperity passed into lasting inheritance
+  key_terms: founding abundance, generational legacy, lasting inheritance, passed prosperity
+
+dynamic_antagonism:
+  mechanism: The 9's self-made independence clashes with the 10's inherited continuity; the prosperity that owes nothing to anyone meets a legacy built on what was handed down
+  tension_axis: the self-made independence versus the inherited continuity; the prosperity owing nothing versus the legacy built on inheritance
+  nine_of_pentacles_position: Made its abundance alone, owing nothing to inheritance; distrusts wealth that was handed down
+  ten_of_pentacles_position: The greatest wealth is generational; the self-made solitude refuses the continuity that outlasts a single life
+  key_terms: urged continuity, defended self-made, insisted inheritance, kept independence
+
+dynamic_inhibition:
+  mechanism: The 9's pride in its self-made independence refuses the 10's generational continuity; the self-sufficiency will not bind its abundance into an inheritance that outlasts and obligates it
+  blockade_nature: the generational legacy cannot form while the prosperity insists on owing nothing and binding itself to no continuity
+  pentacles_state: the abundance dies with its maker; the self-sufficiency refuses the continuity that would make it a lasting legacy
+  consequence: the legacy goes unfounded; the 9's self-made pride refuses the 10's generational continuity
+  key_terms: refused continuity, self-made pride, unfounded legacy, perishing abundance
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the self-made pride into a refusal to build anything beyond itself, or the 10's legacy smothers the self-made independence into a mere inheritor; either the abundance perishes or the independence is lost
+  mode: the self-sufficiency refusing all continuity until the abundance perishes with it, or the legacy absorbing the independence into a mere link in the chain; either the prosperity dies or the self-made spirit is lost
+  loss: the union of self-made independence and generational continuity; the abundance becomes either the perishing self-made wealth or the smothered inheritance
+  key_terms: obsessive extremes, perishing abundance, smothered independence, lost continuity
+
+dynamic_dependency:
+  mechanism: The 9 needs the 10 to give its self-made abundance a continuity beyond its own life; the legacy needs the independence to found it on a genuinely self-made, owned prosperity
+  function: Pentacles-9 supplies the self-made abundance that founds a genuine, owned legacy; Pentacles-10 supplies the generational continuity that teaches independence to pass its prosperity into a lasting inheritance
+  integration_outcome: a self-made abundance founding a generational legacy while keeping its self-made spirit; legacy grounded in an independence whose owned prosperity becomes a continuity beyond a single life
+  key_terms: founded legacy, generational abundance, grounded independence, lasting continuity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, Page of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+numerical_relation: 9 + 11 = 20 (XX Judgement; self-sufficiency meets eager learning; the solitary meets the young student)
+elemental_bridge: Earth's earned abundance meets Earth's eager study; the self-sufficient meets the learning apprentice
+threshold_type: The settled abundance and the eager learner; independence meeting curiosity
+
+dynamic_genesis:
+  mechanism: The 9's earned abundance mentors the Page's grounded potential, showing the young learner what self-sufficiency can be built; the prosperity models the independence the apprentice aspires to
+  process: the earned independence shows the young learner the abundance patient effort can build; the self-sufficiency models for the apprentice the prosperity it aspires to; the abundance mentors the grounded potential
+  outcome: a young potential mentored by the model of earned abundance; the apprentice shown the self-sufficiency that patient effort can build
+  key_terms: mentored potential, modeled abundance, shown self-sufficiency, aspiring apprentice
+
+dynamic_antagonism:
+  mechanism: The 9's settled comfort clashes with the Page's hungry exploration; independence meets a curiosity that finds the prosperous solitude's settledness a discouraging endpoint
+  tension_axis: the settled comfort versus the hungry exploration; the arrived abundance versus the eager learning
+  nine_of_pentacles_position: Has arrived at its settled comfort; the hungry exploration seems naive about the rest it will reach
+  page_of_pentacles_position: Wants to explore and learn everything; the settled comfort looks like a discouraging place to stop
+  key_terms: urged exploration, defended comfort, insisted learning, kept settled
+
+dynamic_inhibition:
+  mechanism: The 9's settled comfort discourages the Page's eager exploration; the arrived abundance models stopping as the goal, dampening the young curiosity
+  blockade_nature: the eager learning cannot stay hungry against a prosperity that models settling as the endpoint
+  pentacles_state: the abundance models stopping; the settled self-sufficiency teaches the Page that the goal is to arrive and rest
+  consequence: the curiosity is dampened; the 9's settled comfort discourages the Page's eager exploration
+  key_terms: dampened curiosity, modeled stopping, settled comfort, discouraged exploration
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the comfort into a complacency that teaches the young to aim only at arriving and stopping; independence becomes the abundance that models settledness as the death of curiosity
+  mode: the self-sufficiency used to teach the young that the goal is to arrive and rest; the comfort becomes the complacency that dampens the eager curiosity it should have mentored
+  loss: the genuine grounded potential the Page brought; independence becomes the complacency that teaches the young to confuse arriving with the end of learning
+  key_terms: obsessive complacency, dampened curiosity, modeled stopping, settled death
+
+dynamic_dependency:
+  mechanism: The 9 needs the Page to keep its abundance curious and learning; the curiosity needs the independence to show what self-sufficiency patient learning can build
+  function: Pentacles-9 supplies the model of earned abundance that shows curiosity what it can build; Pentacles-Page supplies the eager learning that teaches independence to keep its prosperity curious rather than complacent
+  integration_outcome: a young potential mentored by earned abundance while keeping its curiosity, and a prosperity kept curious by the apprentice's hunger; curiosity grounded in an independence that models building without modeling stopping
+  key_terms: mentored curiosity, kept learning, grounded independence, aspiring potential
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, Knight of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Dedication, reliable service, steady work, methodical action, trustworthy effort
+numerical_relation: 9 + 12 = 21 (XXI The World; self-sufficiency meets reliable service; the solitary meets the steady worker)
+elemental_bridge: Earth's earned abundance meets Earth's methodical labor; the self-sufficient meets the steady worker
+threshold_type: The abundance and the steady work that sustains it; independence meeting service
+
+dynamic_genesis:
+  mechanism: The Knight's reliable steadiness is the methodical work that sustains the 9's abundance; the steady labor and the prosperity reveal themselves as the daily upkeep and the fruit of the same reliable effort
+  process: the earned independence is sustained by the Knight's methodical daily labor; the self-sufficiency is maintained by reliable, steady work; the abundance is kept by the daily upkeep of trustworthy effort
+  outcome: an abundance sustained by reliable steady work; the self-sufficient prosperity maintained by the methodical daily labor that upholds it
+  key_terms: sustained abundance, reliable upkeep, steady maintenance, methodical prosperity
+
+dynamic_antagonism:
+  mechanism: The 9's enjoyment of leisure clashes with the Knight's tireless work ethic; independence meets a steadiness that keeps laboring where the prosperity wants to rest in its earned leisure
+  tension_axis: the enjoyment of leisure versus the tireless work ethic; resting in the abundance versus the steady labor that sustains it
+  nine_of_pentacles_position: Wants to enjoy the leisure its abundance earned; the tireless work ethic denies the rest it won
+  knight_of_pentacles_position: The abundance must be steadily maintained; resting in leisure lets the upkeep lapse and the prosperity decay
+  key_terms: urged working, defended leisure, insisted upkeep, kept resting
+
+dynamic_inhibition:
+  mechanism: The 9's enjoyment of leisure lets the Knight's steady upkeep lapse; the earned ease neglects the methodical work that sustains the abundance
+  blockade_nature: the prosperity cannot be sustained while the leisure neglects the steady upkeep that maintains it
+  pentacles_state: the abundance decays untended; the self-sufficiency's leisure lets the steady maintenance lapse
+  consequence: the prosperity erodes; the 9's enjoyment of leisure neglects the Knight's steady upkeep
+  key_terms: lapsed upkeep, neglected maintenance, eroded abundance, idle leisure
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into either an abundance left to decay in idle leisure or a labor so tireless the leisure is never enjoyed; either the prosperity erodes or the rest is never had
+  mode: the self-sufficiency enjoying leisure so idly the upkeep lapses, or the steady work laboring so tirelessly the leisure is never enjoyed; either the abundance erodes or the rest is lost
+  loss: the union of earned leisure and reliable upkeep; the prosperity becomes either the idle decay or the tireless drudgery
+  key_terms: obsessive extremes, idle decay, tireless drudgery, lost balance
+
+dynamic_dependency:
+  mechanism: The 9 needs the Knight to maintain the abundance with steady upkeep; the service needs the independence to be the earned leisure that the reliable work justifies and sustains
+  function: Pentacles-9 supplies the earned abundance that the steady upkeep sustains and justifies; Pentacles-Knight supplies the reliable labor that teaches independence to maintain its prosperity with methodical daily work
+  integration_outcome: an earned abundance sustained by reliable upkeep while its leisure is genuinely enjoyed; steady service grounded in an independence whose prosperity is maintained by the methodical work that upholds it
+  key_terms: sustained leisure, reliable upkeep, grounded independence, maintained abundance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, Queen of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+numerical_relation: 9 + 13 = 22 → 2+2=4 (IV The Emperor; self-sufficiency meets nurturing mastery; the solitary meets the wise provider)
+elemental_bridge: Earth's prosperous solitude meets Earth's nurturing plenty; the self-sufficient meets the wise provider
+threshold_type: The self-sufficient abundance and the nurturing provider; independence meeting nurturing mastery
+
+dynamic_genesis:
+  mechanism: The Queen's nurturing mastery shows the 9 that self-sufficient abundance can become a provision that nurtures others; the prosperity learns to manage its plenty as generous care
+  process: the earned independence learns to nurture from its plenty; the self-sufficiency discovers it can provide for others through wise management; the abundance becomes a nurturing provision
+  outcome: a self-sufficient abundance become nurturing provision; the prosperous independence managing its plenty as generous, wise care
+  key_terms: nurturing abundance, wise provision, generous management, caring independence
+
+dynamic_antagonism:
+  mechanism: The 9's self-contained solitude clashes with the Queen's nurturing engagement; independence meets a provider whose care draws the prosperous solitude into responsibilities for others it kept at bay
+  tension_axis: the self-contained solitude versus the nurturing engagement; providing only for itself versus caring for others
+  nine_of_pentacles_position: Provides for itself alone; the nurturing engagement draws it into caring for others it kept at a distance
+  queen_of_pentacles_position: Abundance is meant to nurture; the self-contained solitude hoards a plenty that could care for many
+  key_terms: urged nurturing, defended solitude, insisted care, kept self-contained
+
+dynamic_inhibition:
+  mechanism: The 9's self-contained solitude refuses the Queen's nurturing engagement; the self-sufficiency keeps its abundance for itself rather than managing it as care for others
+  blockade_nature: the nurturing provision cannot flow while the self-sufficiency keeps its plenty self-contained
+  pentacles_state: the abundance stays self-enclosed; the self-sufficiency refuses to manage its plenty as nurturing care for others
+  consequence: the nurturing goes ungiven; the 9's self-contained solitude refuses the Queen's nurturing engagement
+  key_terms: refused nurturing, self-enclosed abundance, kept plenty, ungiven care
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the self-sufficiency into a solitude indifferent to all it could nurture; independence becomes the abundance that hoards its plenty against the care it could provide
+  mode: the self-sufficiency used to keep its abundance entirely for itself; the solitude becomes the indifference that hoards a plenty it refuses to manage as care
+  loss: the nurturing the abundance could provide; independence becomes the indifferent hoarding that has confined its plenty to itself alone
+  key_terms: obsessive hoarding, indifferent solitude, refused care, self-enclosed plenty
+
+dynamic_dependency:
+  mechanism: The 9 needs the Queen to teach it to manage its abundance as nurturing care; the nurturing mastery needs the independence to give its care the self-sufficient plenty from which to provide generously
+  function: Pentacles-9 supplies the self-sufficient plenty from which generous nurturing can flow; Pentacles-Queen supplies the nurturing mastery that teaches independence to manage its abundance as wise, generous care
+  integration_outcome: a self-sufficient abundance managed as generous nurturing provision; nurturing mastery grounded in an independence whose plenty becomes wise care for others
+  key_terms: nurturing provision, wise management, grounded independence, generous abundance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP
+
+---
+
+card_pair: 9 of Pentacles, King of Pentacles
+archetype_pentacles_1: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_pentacles_2: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+numerical_relation: 9 + 14 = 23 → 2+3=5 (V The Pope; self-sufficiency meets prosperous rule; the solitary meets the steward-king)
+elemental_bridge: Earth's earned abundance meets Earth's commanding stewardship; the self-sufficient meets the prosperous ruler
+threshold_type: The self-made abundance and the commanding stewardship; independence meeting material authority
+
+dynamic_genesis:
+  mechanism: The King's powerful stewardship offers the 9's self-made abundance a wider dominion to steward; the earned prosperity can grow from personal self-sufficiency into a managed domain
+  process: the self-made independence grows into a stewarded dominion; the self-sufficiency's abundance becomes the foundation of a wider prosperous rule; the earned prosperity scales into managed authority
+  outcome: a self-made abundance grown into a stewarded dominion; the self-sufficient prosperity scaled into a wider, managed authority
+  key_terms: stewarded dominion, scaled abundance, managed authority, grown prosperity
+
+dynamic_antagonism:
+  mechanism: The 9's prized personal independence clashes with the King's expansive stewardship; the self-sufficiency content with its own domain meets a dominion that would have it rule and provide for many
+  tension_axis: the prized personal independence versus the expansive stewardship; the contained self-sufficiency versus the wider dominion
+  nine_of_pentacles_position: Is content with its own personal domain; the expansive stewardship would burden it with ruling and providing for many
+  king_of_pentacles_position: The abundance should steward a wider dominion; the contained self-sufficiency wastes the rule it could exercise
+  key_terms: urged stewardship, defended independence, insisted dominion, kept contained
+
+dynamic_inhibition:
+  mechanism: The 9's contentment with its personal domain refuses the King's expansive stewardship; the self-sufficiency will not take on the burden of ruling and providing for a wider dominion
+  blockade_nature: the wider dominion cannot be stewarded while the prosperity insists on the comfort of its own contained domain
+  pentacles_state: the abundance stays personal; the self-sufficiency refuses the stewardship that would scale it into a wider rule
+  consequence: the wider dominion goes unstewarded; the 9's contentment with its personal domain refuses the King's expansive stewardship
+  key_terms: refused stewardship, personal domain, contained abundance, unruled dominion
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the contained independence into a refusal of all responsibility for others, or the King's stewardship burdens the self-sufficiency until its personal freedom is lost; either the abundance rules nothing or the independence is consumed by rule
+  mode: the self-sufficiency refusing all wider responsibility into a selfish contentment, or the stewardship expanding until the personal independence is consumed by the dominion; either the abundance rules nothing or the freedom is lost
+  loss: the union of self-made independence and wider stewardship; the abundance becomes either the selfish contained domain or the freedom consumed by rule
+  key_terms: obsessive extremes, selfish containment, consumed freedom, lost balance
+
+dynamic_dependency:
+  mechanism: The 9 needs the King to grow its abundance into a wider stewardship when it is ready; the stewardship needs the independence to keep its dominion grounded in a self-made, genuinely owned prosperity
+  function: Pentacles-9 supplies the self-made foundation that grounds the wider stewardship in genuinely owned abundance; Pentacles-King supplies the powerful stewardship that teaches independence to scale its prosperity into a managed dominion that provides for many
+  integration_outcome: a self-made abundance grown into a wider stewardship while keeping its personal freedom; commanding stewardship grounded in an independence whose owned prosperity it expands without consuming
+  key_terms: grounded stewardship, scaled abundance, kept freedom, managed dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPP

@@ -1,0 +1,697 @@
+card_pair: 7 of Pentacles, Ace of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 7 + 1 = 8 (VIII Justice; patient assessment meets arrived clarity; the gardener meets the cutting insight)
+elemental_bridge: Earth's patient evaluation meets Air's cutting clarity; the assessing eye meets the sudden insight
+threshold_type: The clarity that resolves the assessment; patience meeting insight
+
+dynamic_genesis:
+  mechanism: The Ace's clarity resolves the 7's long evaluation with a decisive insight; sharp truth cuts through what patience had been weighing for seasons
+  process: the long assessment is answered by a clarifying insight; the patient weighing is resolved by a truth that cuts clean; assessment and clarity together reach the decision
+  outcome: a long assessment resolved by decisive clarity; patient weighing crowned with the insight that decides
+  key_terms: resolved assessment, decisive clarity, cutting insight, settled weighing
+
+dynamic_antagonism:
+  mechanism: The 7's slow weighing clashes with the Ace's immediate verdict; patience meets a clarity that decides at a stroke what assessment wanted to weigh over time
+  tension_axis: the slow weighing versus the immediate verdict; patient evaluation versus the cutting truth
+  seven_of_pentacles_position: Wants to keep weighing all the factors; distrusts the snap verdict
+  ace_of_swords_position: The truth is clear now; the endless weighing only delays what is already evident
+  key_terms: urged decision, defended weighing, insisted clarity, kept assessment
+
+dynamic_inhibition:
+  mechanism: The 7's endless weighing refuses the Ace's clear verdict; the patient assessment will not accept the insight that would resolve it
+  blockade_nature: the clarity cannot settle the matter while the gardener insists on weighing further
+  pentacles_state: the patience smothers the insight; the assessment defers the verdict clarity already reached
+  consequence: the clear decision goes unmade; the 7's weighing buries the Ace's resolving insight
+  key_terms: refused verdict, smothered clarity, deferred decision, endless weighing
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into refusing every clear conclusion; patience becomes the weighing that distrusts all decisive insight
+  mode: the evaluation used to second-guess every clarity; the waiting becomes the doubt that no insight can resolve
+  loss: the genuine decision clarity offered; assessment becomes the perpetual weighing that never concludes
+  key_terms: obsessive weighing, distrusted clarity, unconcluded assessment, refused decision
+
+dynamic_dependency:
+  mechanism: The 7 needs the Ace to bring its long weighing to a clear decision; the clarity needs the patience to ground its insight in carefully weighed factors
+  function: Pentacles-7 supplies the patient weighing that grounds the insight in real factors; Swords-Ace supplies the clarity that teaches assessment when the weighing is done and the decision is clear
+  integration_outcome: a decision both carefully weighed and decisively clear; patient assessment grounded in the insight that resolves it
+  key_terms: weighed clarity, grounded decision, resolved assessment, decisive patience
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, 2 of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 7 + 2 = 9 (IX The Hermit; patient assessment meets blocked choice; the gardener meets the deadlock)
+elemental_bridge: Earth's patient evaluation meets Air's frozen indecision; the assessing eye meets the blindfolded stalemate
+threshold_type: The patient pause and the frozen one; assessment meeting stalemate
+
+dynamic_genesis:
+  mechanism: The 7's purposeful patience can give the 2's frozen stalemate a productive direction; assessment turns the paralyzed deadlock into a deliberate evaluation moving toward decision
+  process: the long evaluation reframes the stalled deadlock as time being used to gather what the decision needs; the patience gives the frozen choice a purpose; assessment turns paralysis into productive waiting
+  outcome: a stalemate turned into purposeful assessment; the frozen deadlock given the direction of patient evaluation
+  key_terms: purposeful pause, directed deadlock, productive waiting, reframed stalemate
+
+dynamic_antagonism:
+  mechanism: The 7's patient pause risks blurring into the 2's avoidant freeze; assessment meets a stalemate that looks exactly like its own deliberation
+  tension_axis: the purposeful evaluation versus the avoidant freeze; productive patience versus decision-avoidance
+  seven_of_pentacles_position: Insists its pause is purposeful evaluation, not avoidance
+  two_of_swords_position: The pause is just avoidance dressed as assessment; the decision is being dodged
+  key_terms: urged decision, defended evaluation, insisted purpose, kept avoidance
+
+dynamic_inhibition:
+  mechanism: The 2's decision-avoidance infects the 7's assessment; the patient evaluation becomes indistinguishable from the avoidant freeze
+  blockade_nature: the evaluation cannot move toward decision when it has become a way of avoiding it
+  pentacles_state: the patience curdles into avoidance; the assessment becomes the excuse for never deciding
+  consequence: the decision is endlessly dodged; the 7's evaluation dissolves into the 2's stalemate
+  key_terms: avoidant assessment, dodged decision, frozen evaluation, dissolved purpose
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into permanent decision-avoidance; patience becomes the evaluation that exists only to never choose
+  mode: the evaluation used as the permanent alibi for not deciding; the waiting becomes the avoidance that calls itself thoroughness
+  loss: the genuine decision assessment should reach; patience becomes the avoidance masquerading as diligence
+  key_terms: obsessive avoidance, permanent stalemate, alibi assessment, dodged choice
+
+dynamic_dependency:
+  mechanism: The 7 needs the 2 to confront whether its patience is avoidance; the stalemate needs the assessment to give its freeze a real, decision-bound purpose
+  function: Pentacles-7 supplies the purposeful evaluation that moves toward decision; Swords-2 supplies the honest confrontation that teaches assessment to tell evaluation from avoidance
+  integration_outcome: a pause that genuinely moves toward decision; assessment grounded in the honest distinction from avoidance
+  key_terms: honest assessment, decision-bound pause, grounded patience, purposeful evaluation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, 3 of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 7 + 3 = 10 (X The Wheel of Fortune; patient assessment meets painful truth; the gardener meets the sorrow)
+elemental_bridge: Earth's patient evaluation meets Air's piercing sorrow; the assessing eye meets the painful truth
+threshold_type: The hard verdict the assessment feared; patience meeting painful truth
+
+dynamic_genesis:
+  mechanism: The 3's painful truth delivers the hard verdict the 7's assessment had been circling; sorrow names what the long evaluation feared to conclude
+  process: the long evaluation arrives at the painful conclusion; the assessment accepts the hard truth it had been deferring; patience and sorrow together face what must be acknowledged
+  outcome: the painful verdict honestly faced; the long assessment brought to its hard but necessary conclusion
+  key_terms: faced verdict, hard truth, honest conclusion, accepted sorrow
+
+dynamic_antagonism:
+  mechanism: The 7's hope that more time will change the verdict clashes with the 3's unavoidable truth; assessment meets a pain that says the conclusion will not improve with waiting
+  tension_axis: hoping more evaluation changes the verdict versus accepting the unavoidable pain; deferring the truth versus facing it
+  seven_of_pentacles_position: Hopes more assessment will yield a less painful conclusion
+  three_of_swords_position: The truth is unavoidable; no further waiting will soften it
+  key_terms: urged acceptance, defended hope, insisted truth, kept evaluating
+
+dynamic_inhibition:
+  mechanism: The 7's hope of a better verdict refuses the 3's painful truth; the assessment keeps evaluating to avoid the conclusion sorrow already knows
+  blockade_nature: the hard truth cannot be accepted while the gardener keeps hoping more time will change it
+  pentacles_state: the patience becomes denial; the assessment defers the painful verdict indefinitely
+  consequence: the unavoidable truth goes unaccepted; the 7's evaluation becomes the flight from the 3's sorrow
+  key_terms: deferred truth, hopeful denial, refused verdict, fled sorrow
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into endless evaluation to avoid a painful truth; patience becomes the analysis that flees the conclusion it dreads
+  mode: the evaluation used to postpone the painful verdict forever; the waiting becomes the denial that calls itself thoroughness
+  loss: the honest acceptance the truth required; assessment becomes the flight from the unavoidable pain
+  key_terms: obsessive postponement, fled conclusion, denying patience, avoided truth
+
+dynamic_dependency:
+  mechanism: The 7 needs the 3 to deliver the painful verdict its assessment has confirmed; the sorrow needs the patience to be sure the painful conclusion is truly warranted
+  function: Pentacles-7 supplies the careful assessment that confirms the hard verdict is real; Swords-3 supplies the painful truth that teaches assessment to accept the conclusion it has confirmed
+  integration_outcome: a painful verdict carefully confirmed and honestly accepted; sorrow grounded in an assessment that does not flee its own conclusion
+  key_terms: confirmed verdict, accepted sorrow, grounded assessment, honest truth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, 4 of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Rest, truce, peace, mental stillness, respite
+numerical_relation: 7 + 4 = 11 (XI Strength; patient assessment meets needed rest; the gardener meets stillness)
+elemental_bridge: Earth's patient evaluation meets Air's stillness; the assessing eye meets the quiet of rest
+threshold_type: The pause that is also rest; assessment meeting respite
+
+dynamic_genesis:
+  mechanism: The 4's rest gives the 7's pause the quality of true stillness; assessment learns that the patient wait can also be a restorative respite
+  process: the long evaluation becomes a time of genuine quiet; the patience gains the restfulness of stillness; assessment and rest together make the pause restorative as well as productive
+  outcome: a pause that both evaluates and restores; patient assessment given the quality of true rest
+  key_terms: restful pause, restorative evaluation, quiet assessment, still patience
+
+dynamic_antagonism:
+  mechanism: The 7's working evaluation clashes with the 4's complete rest; assessment meets a stillness that wants no evaluating at all
+  tension_axis: the working pause versus the complete rest; evaluating quietly versus resting fully
+  seven_of_pentacles_position: Wants to keep evaluating even in the quiet; the mind stays at work
+  four_of_swords_position: Rest means stopping the evaluation entirely; even quiet assessment is not rest
+  key_terms: urged rest, defended evaluation, insisted stillness, kept working
+
+dynamic_inhibition:
+  mechanism: The 7's restless evaluating cannot accept the 4's complete rest; the working assessment will not let the stillness be truly restful
+  blockade_nature: the rest cannot deepen while the gardener keeps the mind at work evaluating
+  pentacles_state: the patience cannot rest; the assessment turns the quiet into more work
+  consequence: the rest is denied; the 7's evaluating keeps the 4's stillness from becoming true respite
+  key_terms: denied rest, restless evaluation, working stillness, unrestful patience
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the rest into compulsive evaluation that never stops; patience becomes the working mind that cannot allow itself stillness
+  mode: the evaluation used to fill every quiet moment with work; the waiting becomes the restlessness that never truly rests
+  loss: the genuine restoration rest offered; assessment becomes the compulsion that denies itself all stillness
+  key_terms: obsessive working, denied stillness, compulsive evaluation, unrested patience
+
+dynamic_dependency:
+  mechanism: The 7 needs the 4 to teach it that the patient pause must sometimes be true rest; the rest needs the assessment to give its stillness a quiet purpose
+  function: Pentacles-7 supplies the patient pause that can become restful; Swords-4 supplies the stillness that teaches assessment to let its waiting be genuine rest
+  integration_outcome: a pause that both restores and quietly evaluates; patience grounded in the stillness that makes waiting true rest
+  key_terms: restful evaluation, restorative pause, grounded patience, quiet assessment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, 5 of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 7 + 5 = 12 (XII The Hanged Man; patient assessment meets hollow victory; the gardener meets the costly win)
+elemental_bridge: Earth's patient evaluation meets Air's pyrrhic conflict; the assessing eye meets the costly victory
+threshold_type: The cost weighed against the win; assessment meeting hollow victory
+
+dynamic_genesis:
+  mechanism: The 7's patient assessment weighs the true cost of the 5's victory; evaluation reveals whether the win was worth what it took, before the next such fight
+  process: the long evaluation tallies the real price of the contested victory; the patience reckons whether the win paid for its cost; assessment exposes the hollowness or worth of the triumph
+  outcome: a victory's true cost honestly assessed; the patient reckoning of whether the win was worth its price
+  key_terms: cost-reckoned victory, weighed price, honest tally, assessed win
+
+dynamic_antagonism:
+  mechanism: The 5's drive to claim the win clashes with the 7's insistence on counting its cost; conflict meets a patience that questions whether the victory was worth it
+  tension_axis: claiming the victory versus counting its cost; the won contest versus the patient reckoning
+  seven_of_pentacles_position: Wants to assess whether the win was worth its price before celebrating
+  five_of_swords_position: The victory is won; counting the cost only sours the triumph
+  key_terms: urged reckoning, defended victory, insisted assessment, kept triumph
+
+dynamic_inhibition:
+  mechanism: The 5's refusal to count costs blocks the 7's assessment; the hollow victory will not let its true price be tallied
+  blockade_nature: the reckoning cannot proceed while the victor insists on celebrating without counting the cost
+  pentacles_state: the patience is refused its tally; the assessment cannot weigh what the victor will not examine
+  consequence: the true cost goes unreckoned; the 5's triumph refuses the 7's sobering assessment
+  key_terms: refused reckoning, uncounted cost, blocked tally, unweighed victory
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into souring every victory with cost-counting; patience becomes the reckoning that can never let any win be enjoyed
+  mode: the evaluation used to find every triumph too costly; the waiting becomes the cynicism that begrudges all victory
+  loss: the genuine worth some victories truly hold; assessment becomes the cynicism that sours every win
+  key_terms: obsessive cost-counting, soured victory, cynical patience, begrudged win
+
+dynamic_dependency:
+  mechanism: The 7 needs the 5 to teach it that some victories must be won despite cost; the conflict needs the assessment to reckon whether the cost was worth it before the next fight
+  function: Pentacles-7 supplies the patient reckoning of a victory's true cost; Swords-5 supplies the hard experience of cost that teaches assessment which wins are worth their price
+  integration_outcome: victories chosen by an honest reckoning of cost; conflict grounded in a patience that weighs whether the win is worth its price
+  key_terms: reckoned victory, worthwhile cost, grounded assessment, weighed win
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, 6 of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Travel, transition, movement toward solution, passage, departure
+numerical_relation: 7 + 6 = 13 (XIII Death; patient assessment meets healing passage; the gardener meets the crossing)
+elemental_bridge: Earth's patient evaluation meets Air's carrying passage; the assessing eye meets the journey toward calmer water
+threshold_type: The crossing weighed before departure; assessment meeting passage
+
+dynamic_genesis:
+  mechanism: The 7's patience chooses the right moment and route for the 6's passage; assessment turns the transition into a well-judged, well-timed crossing
+  process: the long evaluation weighs when and how to make the passage; the patience picks the route most likely to reach calm water; assessment makes the transition deliberate rather than desperate
+  outcome: a passage well-judged and well-timed; the transition made on careful assessment rather than panic
+  key_terms: judged passage, timed crossing, deliberate transition, assessed route
+
+dynamic_antagonism:
+  mechanism: The 7's wish to assess longer clashes with the 6's need to depart now; patience meets a passage that must leave before the evaluation is finished
+  tension_axis: assessing the crossing versus making it now; weighing the route versus departing while the water allows
+  seven_of_pentacles_position: Wants to assess the route fully before committing to the crossing
+  six_of_swords_position: The passage must be made now while it is possible; endless assessment misses the window
+  key_terms: urged departure, demanded assessment, insisted crossing, kept weighing
+
+dynamic_inhibition:
+  mechanism: The 7's prolonged assessment delays the 6's passage past its window; the evaluation keeps weighing the route while the moment to cross slips away
+  blockade_nature: the crossing cannot be made while the gardener keeps assessing whether to make it
+  pentacles_state: the patience misses the tide; the assessment delays the departure past its possibility
+  consequence: the passage window closes; the 7's evaluation strands the 6 on the painful shore
+  key_terms: missed tide, delayed passage, stranded crossing, prolonged assessment
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into never being ready to cross; patience becomes the evaluation that keeps the boat forever at the dock
+  mode: the evaluation used to defer every departure; the waiting becomes the paralysis that never makes the crossing
+  loss: the genuine passage to calmer water; assessment becomes the paralysis that never leaves the painful shore
+  key_terms: obsessive deferral, docked boat, paralyzed patience, unmade crossing
+
+dynamic_dependency:
+  mechanism: The 7 needs the 6 to make the crossing its assessment has judged wise; the passage needs the patience to choose the route and time well
+  function: Pentacles-7 supplies the assessment that judges the route and timing; Swords-6 supplies the passage that teaches assessment to commit to the crossing once it is judged wise
+  integration_outcome: a crossing made on careful assessment and committed in time; passage grounded in a patience that judges well and then departs
+  key_terms: committed crossing, judged route, grounded assessment, timed passage
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, 7 of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Deception, theft, cunning, strategic secrecy, hidden strategy
+numerical_relation: 7 + 7 = 14 (XIV Temperance; patient assessment meets cunning strategy; the gardener meets the strategist)
+elemental_bridge: Earth's patient evaluation meets Air's hidden strategy; the assessing eye meets the cunning plan
+threshold_type: The long game and the hidden gambit; assessment meeting cunning
+
+dynamic_genesis:
+  mechanism: The 7 of Swords' strategic cunning sharpens the 7 of Pentacles' patient assessment into shrewd long-game strategy; evaluation gains the cunning to play the long con of patient investment
+  process: the long evaluation gains strategic subtlety; the patience learns to conceal its moves and time its plays; assessment becomes the shrewd strategy that wins the long game
+  outcome: patient assessment made strategically shrewd; the long investment played with cunning, well-concealed timing
+  key_terms: shrewd assessment, strategic patience, concealed timing, long-game cunning
+
+dynamic_antagonism:
+  mechanism: The 7 of Pentacles' honest patience clashes with the 7 of Swords' deceptive cunning; assessment meets a strategy that would win by hidden trickery rather than honest evaluation
+  tension_axis: honest patient assessment versus deceptive cunning; the open long game versus the hidden gambit
+  seven_of_pentacles_position: Wants to win by honest patient assessment; distrusts the hidden trickery
+  seven_of_swords_position: The cunning gambit wins faster; honest patience leaves advantage on the table
+  key_terms: urged honesty, defended cunning, insisted assessment, kept strategy
+
+dynamic_inhibition:
+  mechanism: The 7 of Swords' cunning corrupts the honesty of the 7 of Pentacles' assessment; the deception undermines the patient evaluation's integrity
+  blockade_nature: the honest assessment cannot trust itself once it has taken up deceptive strategy
+  pentacles_state: the patience becomes scheming; the assessment loses its honest grounding in hidden gambits
+  consequence: the evaluation turns to manipulation; the 7 of Pentacles' honest patience is corrupted by the 7 of Swords' cunning
+  key_terms: corrupted assessment, scheming patience, lost honesty, manipulative evaluation
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into patient manipulation; assessment becomes the long con that uses careful evaluation only to deceive
+  mode: the evaluation used to plan elaborate deceptions; the patience becomes the long con that betrays trust for advantage
+  loss: the honest investment patience could have grown; assessment becomes the patient manipulation that poisons every relationship
+  key_terms: obsessive scheming, long con, manipulative patience, poisoned trust
+
+dynamic_dependency:
+  mechanism: The 7 of Pentacles needs the 7 of Swords to give its assessment strategic shrewdness; the cunning needs the patience to keep its strategy honest and grounded in real evaluation
+  function: Pentacles-7 supplies the honest patient assessment that keeps strategy grounded; Swords-7 supplies the strategic cunning that teaches assessment to play its long game shrewdly
+  integration_outcome: a long game both shrewd and honest; strategic patience grounded in real assessment rather than deception
+  key_terms: shrewd honesty, grounded strategy, honest cunning, strategic assessment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, 8 of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Imprisonment, constraint, mental bondage, restriction, entrapment
+numerical_relation: 7 + 8 = 15 (XV The Devil; patient assessment meets mental bondage; the gardener meets the trapped)
+elemental_bridge: Earth's patient evaluation meets Air's self-made prison; the assessing eye meets the bound mind
+threshold_type: The trap seen clearly over time; assessment meeting imprisonment
+
+dynamic_genesis:
+  mechanism: The 7's patient assessment helps the 8 see over time which bonds are real and which imagined; evaluation slowly distinguishes the true constraints from the self-made ones
+  process: the long evaluation examines each supposed restriction; the patience tests which bonds actually hold; assessment patiently reveals the self-made prison for what it is
+  outcome: the trap distinguished from the imagined by patient assessment; the bound mind shown which constraints are truly real
+  key_terms: distinguished bonds, revealed prison, tested constraint, patient seeing
+
+dynamic_antagonism:
+  mechanism: The 7's call to patiently examine the bonds clashes with the 8's conviction of helpless entrapment; assessment meets a mind too convinced of its prison to evaluate it
+  tension_axis: patiently testing the constraints versus believing them absolute; the assessing eye versus the conviction of entrapment
+  seven_of_pentacles_position: Wants to patiently test which bonds are real before despairing
+  eight_of_swords_position: Believes the bonds are absolute; the patient testing is pointless against a real prison
+  key_terms: urged testing, defended helplessness, insisted assessment, kept bondage
+
+dynamic_inhibition:
+  mechanism: The 8's conviction of entrapment refuses the 7's patient examination; the bound mind will not let the assessment test which bonds are real
+  blockade_nature: the constraints cannot be distinguished while the trapped mind refuses to examine them
+  pentacles_state: the patience cannot reach the bound mind; the assessment is refused by the conviction of helplessness
+  consequence: the imagined bonds hold as fast as real ones; the 8's conviction refuses the 7's freeing assessment
+  key_terms: refused examination, held bondage, untested constraint, refused freeing
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into endlessly studying the bonds without ever testing escape; patience becomes the evaluation that maps the prison but never tries the door
+  mode: the evaluation used to catalogue the constraints forever; the waiting becomes the study that mistakes mapping the prison for escaping it
+  loss: the genuine freedom patient testing could find; assessment becomes the endless mapping of a cell never escaped
+  key_terms: obsessive mapping, studied prison, untried door, cataloged bondage
+
+dynamic_dependency:
+  mechanism: The 7 needs the 8 to take the bonds seriously enough to test them; the imprisonment needs the patience to distinguish real constraints from imagined ones over time
+  function: Pentacles-7 supplies the patient testing that distinguishes real bonds from imagined; Swords-8 supplies the felt constraint that teaches assessment to take the prison seriously while testing it
+  integration_outcome: bonds distinguished and the real ones worked free over time; imprisonment grounded in a patient assessment that tests rather than merely studies
+  key_terms: tested freedom, distinguished bonds, grounded assessment, worked-free constraint
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, 9 of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
+numerical_relation: 7 + 9 = 16 (XVI The Tower; patient assessment meets mental anguish; the gardener meets the tormented mind)
+elemental_bridge: Earth's patient evaluation meets Air's tormenting dread; the assessing eye meets the anxious mind
+threshold_type: The waiting that breeds anxiety; assessment meeting torment
+
+dynamic_genesis:
+  mechanism: The 7's patient assessment can ground the 9's spiraling anxiety in realistic appraisal; evaluation tests the dreaded outcomes against what is actually likely
+  process: the long evaluation examines the feared scenarios soberly; the patience tests the anxious projections against realistic odds; assessment grounds the torment in measured appraisal
+  outcome: anxiety grounded by realistic assessment; the tormented projections tested against measured, sober appraisal
+  key_terms: grounded anxiety, sober appraisal, tested dread, measured assessment
+
+dynamic_antagonism:
+  mechanism: The 7's patient waiting feeds the 9's anxious rumination; the long unresolved evaluation becomes the empty time the tormented mind fills with dread
+  tension_axis: the patient unresolved wait versus the anxiety it breeds; evaluation's open question versus the mind's catastrophizing
+  seven_of_pentacles_position: Wants to wait and assess; the unresolved waiting is its method
+  nine_of_swords_position: The waiting is unbearable; the unresolved evaluation feeds endless nightmare
+  key_terms: urged resolution, defended waiting, insisted appraisal, kept torment
+
+dynamic_inhibition:
+  mechanism: The 9's spiraling anxiety overwhelms the 7's sober assessment; the torment outruns every realistic appraisal with new dread
+  blockade_nature: the measured evaluation cannot keep pace with an anxiety that manufactures fears faster than they can be assessed
+  pentacles_state: the patience is consumed by dread; the assessment cannot ground a torment that always finds new fears
+  consequence: the anxiety overwhelms the appraisal; the 9's torment drowns the 7's sober assessment
+  key_terms: overwhelmed assessment, outrun appraisal, drowned patience, spiraling dread
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into anxious rumination; patience becomes the endless evaluation that is really the mind churning its dread
+  mode: the evaluation used to rehearse every catastrophe; the waiting becomes the rumination that mistakes anxiety for thoroughness
+  loss: the genuine sober appraisal assessment offered; patience becomes the rumination that feeds the torment it meant to calm
+  key_terms: obsessive rumination, churned dread, anxious patience, fed torment
+
+dynamic_dependency:
+  mechanism: The 7 needs the 9 to surface the real fears its assessment must address; the anguish needs the patience to ground its dread in sober, realistic appraisal
+  function: Pentacles-7 supplies the sober appraisal that tests the feared outcomes; Swords-9 supplies the surfaced dread that teaches assessment which fears must be realistically addressed
+  integration_outcome: anxiety addressed by sober, realistic assessment; torment grounded in a patience that appraises the feared outcomes honestly
+  key_terms: addressed dread, sober assessment, grounded patience, realistic appraisal
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, 10 of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Destruction, ending, inevitable pain, completion through ruin, death-knife
+numerical_relation: 7 + 10 = 17 (XVII The Star; patient assessment meets total ruin; the gardener meets the finished)
+elemental_bridge: Earth's patient investment meets Air's complete ruin; the assessing eye meets the utterly finished
+threshold_type: The investment that came to nothing; assessment meeting ruin
+
+dynamic_genesis:
+  mechanism: The 10's total ending forces the 7 to face that the investment has wholly failed; ruin delivers the final verdict the patient assessment must accept
+  process: the long evaluation confronts the complete failure of what it tended; the patience accepts the ending and mines it for what the next investment must avoid; assessment learns from total ruin
+  outcome: a failed investment fully accepted and learned from; the patient assessment freed by acknowledging total ruin
+  key_terms: accepted failure, learned ruin, freed assessment, final verdict
+
+dynamic_antagonism:
+  mechanism: The 7's hope that the investment might yet recover clashes with the 10's complete ending; assessment meets a ruin that says nothing can be salvaged
+  tension_axis: hoping for recovery versus accepting total ruin; the lingering assessment versus the absolute end
+  seven_of_pentacles_position: Hopes some part of the investment might still be recovered
+  ten_of_swords_position: The ending is total; nothing remains to assess or recover
+  key_terms: urged acceptance, defended hope, insisted ruin, kept assessing
+
+dynamic_inhibition:
+  mechanism: The 7's hope of recovery refuses the 10's total ending; the assessment keeps evaluating a ruin that offers nothing left to weigh
+  blockade_nature: the ending cannot be accepted while the gardener keeps assessing for a recovery that is impossible
+  pentacles_state: the patience clings to a dead investment; the assessment refuses the ruin that is complete
+  consequence: the failure goes unaccepted; the 7's evaluation lingers over what the 10 knows is wholly finished
+  key_terms: refused ending, clung investment, lingering assessment, denied ruin
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into picking endlessly over the ruins; patience becomes the obsessive post-mortem that never moves on from total loss
+  mode: the evaluation used to relive the ruined investment forever; the waiting becomes the obsession that cannot leave the wreckage
+  loss: the freedom to invest anew; assessment becomes the obsession that haunts the ruin it should leave behind
+  key_terms: obsessive post-mortem, haunted ruin, lingering patience, unmoved-on loss
+
+dynamic_dependency:
+  mechanism: The 7 needs the 10 to teach it to accept total failure and move on; the ruin needs the patient assessment to extract the lesson before leaving the wreckage
+  function: Pentacles-7 supplies the assessment that extracts the lesson from the ruin; Swords-10 supplies the complete ending that teaches assessment to accept total failure and begin anew
+  integration_outcome: a total failure accepted, learned from, and left behind; ruin grounded in an assessment that mines the lesson and moves on
+  key_terms: learned ruin, accepted ending, grounded assessment, moved-on loss
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, Page of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
+numerical_relation: 7 + 11 = 18 (XVIII The Moon; patient assessment meets youthful inquiry; the gardener meets the questioner)
+elemental_bridge: Earth's patient evaluation meets Air's restless questioning; the assessing eye meets the eager investigator
+threshold_type: The long evaluation sharpened by inquiry; assessment meeting investigation
+
+dynamic_genesis:
+  mechanism: The Page's sharp inquiry sharpens the 7's assessment with probing questions; investigation gives the patient evaluation the curiosity to examine what it might have taken for granted
+  process: the long evaluation is probed by the Page's questions; the patience gains the investigator's curiosity; assessment becomes the inquiry that examines its own assumptions
+  outcome: assessment sharpened by curious inquiry; patient evaluation made keener by probing questions
+  key_terms: sharpened assessment, probing inquiry, curious evaluation, examined assumptions
+
+dynamic_antagonism:
+  mechanism: The 7's settled patience clashes with the Page's restless questioning; assessment meets an inquiry too impatient for the long evaluation's slow pace
+  tension_axis: the slow patient evaluation versus the restless quick inquiry; deliberate assessment versus eager questioning
+  seven_of_pentacles_position: Wants to evaluate slowly and thoroughly; finds the rapid questioning hasty
+  page_of_swords_position: Wants quick answers to its questions; the slow assessment frustrates the eager inquiry
+  key_terms: urged speed, defended thoroughness, insisted inquiry, kept patience
+
+dynamic_inhibition:
+  mechanism: The Page's restless quick questions outrun the 7's slow assessment; the eager inquiry demands answers faster than patient evaluation can give them
+  blockade_nature: the thorough evaluation cannot keep pace with questions that want immediate answers
+  pentacles_state: the patience is rushed; the assessment is harried by inquiry into hasty, shallow answers
+  consequence: the evaluation is hurried into shallowness; the 7's thoroughness is undone by the Page's impatience
+  key_terms: rushed assessment, harried patience, shallow answers, hasty inquiry
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into restless questioning that never lets an assessment complete; the inquiry darts away before any evaluation matures
+  mode: the questioning used to abandon every line of assessment before it concludes; the patience becomes scattered by inquiries it never finishes
+  loss: the thorough understanding patient assessment could reach; the evaluation becomes the scattered darting that never completes a question
+  key_terms: obsessive darting, scattered inquiry, abandoned assessment, unfinished questions
+
+dynamic_dependency:
+  mechanism: The 7 needs the Page to sharpen its assessment with fresh questions; the inquiry needs the patience to pursue its questions through to thorough, evaluated answers
+  function: Pentacles-7 supplies the patient thoroughness that pursues questions to real answers; Swords-Page supplies the sharp inquiry that teaches assessment to keep examining its assumptions
+  integration_outcome: an assessment both thorough and sharply questioning; inquiry grounded in a patience that pursues its questions to evaluated conclusions
+  key_terms: thorough inquiry, sharpened assessment, grounded patience, pursued questions
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, Knight of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
+numerical_relation: 7 + 12 = 19 (XIX The Sun; patient assessment meets aggressive action; the gardener meets the charging mind)
+elemental_bridge: Earth's patient evaluation meets Air's headlong assault; the assessing eye meets the relentless charge
+threshold_type: The charge aimed by assessment; patience meeting aggressive action
+
+dynamic_genesis:
+  mechanism: The 7's patient assessment aims the Knight's aggressive charge at the right target; evaluation gives the headlong assault a well-chosen objective
+  process: the long evaluation identifies where the decisive strike should fall; the patience aims the aggression at the worthy target; assessment makes the charge precise rather than wild
+  outcome: an aggressive charge precisely aimed by assessment; the headlong assault given a well-evaluated target
+  key_terms: aimed charge, evaluated target, precise assault, directed aggression
+
+dynamic_antagonism:
+  mechanism: The 7's deliberate assessment clashes with the Knight's headlong haste; patience meets an aggression that charges before the evaluation can aim it
+  tension_axis: the deliberate evaluation versus the headlong charge; aiming first versus charging now
+  seven_of_pentacles_position: Wants to assess the target before the charge commits
+  knight_of_swords_position: The charge cannot wait for assessment; hesitation forfeits the assault's force
+  key_terms: urged aiming, demanded charge, insisted assessment, kept haste
+
+dynamic_inhibition:
+  mechanism: The 7's deliberation stalls the Knight's charge; the assessment holds back the assault until its aggressive force is lost
+  blockade_nature: the charge cannot strike with force while every move waits on evaluation
+  pentacles_state: the patience drains the assault's momentum; the assessment stalls the charge into hesitation
+  consequence: the aggressive force dissipates; the 7's deliberation robs the Knight's charge of its impact
+  key_terms: stalled charge, drained force, hesitant assault, dissipated aggression
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into either reckless unaimed charging or paralytic over-assessment; the aggression strikes blindly or never strikes at all
+  mode: the charge discarding all assessment for blind aggression, or the evaluation freezing the assault into permanent hesitation; either the strike is wild or it never lands
+  loss: the union of force and precision; the action becomes either the blind charge or the paralytic evaluation
+  key_terms: obsessive extremes, blind charge, paralytic assessment, lost precision
+
+dynamic_dependency:
+  mechanism: The 7 needs the Knight to strike with the force its assessment has aimed; the aggression needs the patience to choose its target before charging
+  function: Pentacles-7 supplies the assessment that aims the charge at the worthy target; Swords-Knight supplies the aggressive force that teaches assessment to strike decisively once the target is chosen
+  integration_outcome: an aggressive charge precisely aimed and forcefully struck; assault grounded in an assessment that aims before it commits
+  key_terms: aimed force, decisive strike, grounded assessment, precise charge
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, Queen of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
+numerical_relation: 7 + 13 = 20 (XX Judgement; patient assessment meets discerning wisdom; the gardener meets the clear mind)
+elemental_bridge: Earth's patient evaluation meets Air's sharp discernment; the assessing eye meets the clear-sighted mind
+threshold_type: The long view sharpened by discernment; assessment meeting clear judgment
+
+dynamic_genesis:
+  mechanism: The Queen's sharp discernment sharpens the 7's patient assessment into clear, incisive judgment; bitter wisdom gives the slow evaluation its decisive edge
+  process: the long evaluation gains the Queen's incisive clarity; the patience is sharpened by hard-won discernment; assessment becomes the clear judgment that sees precisely what its slow weighing confirmed
+  outcome: patient assessment sharpened into incisive clarity; the long evaluation given the decisive edge of discernment
+  key_terms: incisive assessment, sharpened judgment, decisive clarity, discerning evaluation
+
+dynamic_antagonism:
+  mechanism: The 7's patient open-endedness clashes with the Queen's decisive discernment; assessment meets a clarity that cuts to judgment where the gardener still weighs
+  tension_axis: the open-ended weighing versus the decisive discernment; patient evaluation versus incisive judgment
+  seven_of_pentacles_position: Wants to keep weighing the factors; resists the Queen's quick cut to judgment
+  queen_of_swords_position: The discernment already sees clearly; the endless weighing only blurs what is evident
+  key_terms: urged judgment, defended weighing, insisted discernment, kept evaluation
+
+dynamic_inhibition:
+  mechanism: The Queen's decisive discernment cuts off the 7's patient weighing prematurely; the sharp judgment concludes before the slow assessment has gathered all it needs
+  blockade_nature: the patient evaluation cannot complete while discernment insists it has already seen the answer
+  pentacles_state: the patience is cut short; the assessment is concluded by discernment before it has weighed enough
+  consequence: the judgment is reached too soon; the Queen's quick discernment forecloses the 7's thorough weighing
+  key_terms: cut-short assessment, premature judgment, foreclosed weighing, hasty discernment
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into bitter snap judgment, or into weighing so endless no discernment can land; either the assessment is cut to cynical verdict or it never concludes
+  mode: the discernment hardening into cynical snap judgment, or the weighing dissolving all clarity into endless doubt; either the judgment is bitter or it never comes
+  loss: the union of thorough weighing and incisive clarity; the assessment becomes either the bitter verdict or the endless doubt
+  key_terms: obsessive cynicism, snap judgment, dissolved clarity, bitter assessment
+
+dynamic_dependency:
+  mechanism: The 7 needs the Queen to sharpen its weighing into clear judgment; the discernment needs the patience to ground its incisive clarity in thorough evaluation
+  function: Pentacles-7 supplies the thorough weighing that grounds discernment in real factors; Swords-Queen supplies the incisive clarity that teaches assessment to cut to clear judgment
+  integration_outcome: a judgment both thoroughly weighed and incisively clear; discernment grounded in patient, complete assessment
+  key_terms: incisive evaluation, grounded discernment, clear judgment, thorough assessment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS
+
+---
+
+card_pair: 7 of Pentacles, King of Swords
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_swords: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
+numerical_relation: 7 + 14 = 21 (XXI The World; patient assessment meets supreme judgment; the gardener meets the master of clarity)
+elemental_bridge: Earth's patient evaluation meets Air's commanding judgment; the assessing eye serves the supreme judge
+threshold_type: The long view brought before the law; assessment meeting supreme judgment
+
+dynamic_genesis:
+  mechanism: The King's supreme judgment gives the 7's patient assessment the authority of decisive verdict; commanding clarity turns long evaluation into binding, final judgment
+  process: the long evaluation is brought before the King's clear logic; the patience gains the authority to render verdict; assessment becomes the supreme judgment its careful weighing earned
+  outcome: patient assessment rendered as authoritative verdict; the long evaluation given the binding force of supreme judgment
+  key_terms: authoritative verdict, binding judgment, decisive assessment, supreme clarity
+
+dynamic_antagonism:
+  mechanism: The 7's tentative weighing clashes with the King's absolute verdict; assessment meets a judgment that decides with finality where the gardener still deliberates
+  tension_axis: the tentative weighing versus the absolute verdict; patient deliberation versus commanding judgment
+  seven_of_pentacles_position: Wants to keep weighing; resists the King's demand for a final verdict
+  king_of_swords_position: The judgment must be decisive and final; endless weighing is the failure to rule
+  key_terms: urged verdict, defended weighing, insisted judgment, kept deliberation
+
+dynamic_inhibition:
+  mechanism: The King's absolute verdict overrides the 7's careful weighing; the commanding judgment decides before the patient assessment has finished
+  blockade_nature: the careful evaluation cannot complete while supreme judgment commands a final verdict
+  pentacles_state: the patience is overruled; the assessment is concluded by command before its weighing is done
+  consequence: the verdict is rendered on incomplete assessment; the King's command overrides the 7's careful weighing
+  key_terms: overruled assessment, commanded verdict, incomplete weighing, premature judgment
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into cold absolute verdict without grounded weighing, or into weighing that never rules; either the judgment is tyrannically hasty or it never comes
+  mode: the command discarding careful assessment for absolute decree, or the weighing dissolving all authority into endless deliberation; either the verdict is tyrannical or it is never rendered
+  loss: the union of careful weighing and authoritative verdict; the judgment becomes either cold decree or paralytic deliberation
+  key_terms: obsessive decree, tyrannical verdict, paralytic weighing, ungrounded judgment
+
+dynamic_dependency:
+  mechanism: The 7 needs the King to render its weighing as authoritative verdict; the supreme judgment needs the patience to ground its commanding clarity in thorough, careful assessment
+  function: Pentacles-7 supplies the thorough weighing that grounds the verdict in real evaluation; Swords-King supplies the supreme judgment that teaches assessment to render its weighing as authoritative, final verdict
+  integration_outcome: a verdict both carefully weighed and authoritatively rendered; supreme judgment grounded in patient, thorough assessment
+  key_terms: grounded verdict, authoritative assessment, careful judgment, weighed clarity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPS

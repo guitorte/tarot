@@ -1,0 +1,697 @@
+card_pair: 7 of Pentacles, Ace of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Emotional opening, love, receptivity, new feeling, overflowing heart
+numerical_relation: 7 + 1 = 8 (VIII Justice; patient assessment meets emotional opening; the waiting gardener meets the overflowing heart)
+elemental_bridge: Earth's patient evaluation meets Water's overflowing heart; the assessing eye meets the open feeling
+threshold_type: The pause that opens to love; assessment meeting the new heart
+
+dynamic_genesis:
+  mechanism: The Ace's overflowing heart teaches the 7 that some openings cannot be evaluated, only received; love rewards the patient gardener with sudden bloom
+  process: the long evaluation gives way to a feeling that arrives all at once; the patient waiting is answered by an unmeasured opening; assessment learns that the heart's harvest comes on its own time
+  outcome: patience rewarded by sudden love; the long investment answered by an overflowing heart
+  key_terms: rewarded patience, sudden bloom, received opening, answered waiting
+
+dynamic_antagonism:
+  mechanism: The 7's need to evaluate clashes with the Ace's demand to be felt now; patience meets a love that will not wait to be assessed
+  tension_axis: the measuring pause versus the immediate overflow; evaluation versus the feeling that floods
+  seven_of_pentacles_position: Wants to assess the new feeling before trusting it; fears acting before the evaluation is done
+  ace_of_cups_position: Love overflows now; the heart cannot be put on hold for assessment
+  key_terms: urged feeling, demanded assessment, insisted overflow, kept evaluation
+
+dynamic_inhibition:
+  mechanism: The endless assessment chills the overflowing heart; the patient evaluation withholds the response love needed now
+  blockade_nature: the opening cannot be met while the gardener stands back to evaluate
+  pentacles_state: the patience curdles into hesitation; the assessment becomes the wall against feeling
+  consequence: the Ace's overflow goes unmet; the heart cools while the 7 deliberates
+  key_terms: chilled overflow, withheld response, hesitant assessment, unmet heart
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into perpetual doubt of the feeling; patience becomes the suspicion that love must be tested forever
+  mode: the evaluation used to defer every emotional commitment; the waiting becomes the refusal to ever simply feel
+  loss: the genuine love patience could have ripened; assessment becomes the doubt that strangles the heart
+  key_terms: obsessive doubt, deferred feeling, suspicious patience, strangled love
+
+dynamic_dependency:
+  mechanism: The 7 needs the Ace to teach it that some openings are received, not assessed; the overflow needs the patience to give its sudden feeling time to root
+  function: Pentacles-7 supplies the patience that lets new love ripen into something lasting; Cups-Ace supplies the overflow that teaches assessment when to stop evaluating and simply receive
+  integration_outcome: a love both felt and given time to root; the open heart grounded in patient tending
+  key_terms: rooted love, received overflow, grounded patience, ripened feeling
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, 2 of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Partnership, duality, emotional connection, mutual feeling, balanced union
+numerical_relation: 7 + 2 = 9 (IX The Hermit; patient assessment meets mutual feeling; the gardener meets the partner)
+elemental_bridge: Earth's patient evaluation meets Water's mutual bond; the assessing eye meets the offered partnership
+threshold_type: The partnership weighed over time; assessment meeting union
+
+dynamic_genesis:
+  mechanism: The 7's patience lets the 2's partnership deepen into something lasting; assessment becomes the steady tending that grows a bond worth keeping
+  process: the long evaluation tends the connection through its seasons; the patience lets the mutual feeling prove itself over time; assessment becomes the trust that a real partnership is forming
+  outcome: a partnership ripened by patience; mutual feeling deepened by the willingness to let it grow
+  key_terms: ripened partnership, tended bond, patient union, deepened feeling
+
+dynamic_antagonism:
+  mechanism: The 7's evaluating reserve clashes with the 2's desire for present mutuality; patience meets a partnership that wants to be felt now, not assessed over time
+  tension_axis: the long evaluation versus the present bond; tending toward the future versus connecting in the now
+  seven_of_pentacles_position: Wants to see whether the partnership lasts before fully committing
+  two_of_cups_position: The bond is here now; endless evaluation keeps it from being lived
+  key_terms: urged presence, demanded assessment, insisted mutuality, kept reserve
+
+dynamic_inhibition:
+  mechanism: The constant evaluation prevents the partnership from being lived; the assessing reserve keeps the bond perpetually on probation
+  blockade_nature: the mutual feeling cannot deepen while it is always being tested rather than trusted
+  pentacles_state: the patience becomes withholding; the assessment keeps the partner at arm's length
+  consequence: the bond stalls on probation; the 2's mutuality cools under the 7's endless evaluation
+  key_terms: probationary bond, withholding patience, stalled union, tested feeling
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into perpetual scorekeeping; patience becomes the ledger that never lets the partnership rest
+  mode: the evaluation used to keep tallying the partner's worth; the waiting becomes the audit that the bond can never pass
+  loss: the genuine partnership patience could have grown; assessment becomes the scorekeeping that erodes the union
+  key_terms: obsessive scorekeeping, audited partner, eroding patience, distrusted bond
+
+dynamic_dependency:
+  mechanism: The 7 needs the 2 to teach it that a bond must be lived, not only assessed; the partnership needs the patience to let it prove and deepen over time
+  function: Pentacles-7 supplies the patience that lets a partnership ripen and prove itself; Cups-2 supplies the mutual feeling that teaches assessment that a bond is lived, not only evaluated
+  integration_outcome: a partnership both lived and given time to deepen; mutual feeling grounded in patient, trusting tending
+  key_terms: lived partnership, trusting patience, grounded union, deepened bond
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, 3 of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Celebration, joy, emotional communion, friendship, festive togetherness
+numerical_relation: 7 + 3 = 10 (X The Wheel of Fortune; patient assessment meets joyful communion; the gardener meets the feast)
+elemental_bridge: Earth's patient evaluation meets Water's festive joy; the assessing eye meets the celebration
+threshold_type: The harvest feast; assessment meeting celebration
+
+dynamic_genesis:
+  mechanism: The 3's celebration honors the 7's long patience with the joy of harvest; assessment's waiting culminates in festive communion
+  process: the long evaluation reaches its ripe moment; the patience is rewarded with the feast; assessment learns that the harvest is meant to be celebrated, not only counted
+  outcome: patience crowned with celebration; the long investment honored by joyful communion
+  key_terms: harvest feast, crowned patience, joyful reward, celebrated waiting
+
+dynamic_antagonism:
+  mechanism: The 7's habit of holding back clashes with the 3's call to celebrate now; patience meets a joy that will not wait for the evaluation to finish
+  tension_axis: the deferring pause versus the present feast; counting the harvest versus celebrating it
+  seven_of_pentacles_position: Wants to keep assessing before allowing the celebration
+  three_of_cups_position: The joy is now; the harvest is enough to celebrate without further counting
+  key_terms: urged celebration, demanded assessment, insisted joy, kept counting
+
+dynamic_inhibition:
+  mechanism: The endless counting defers the celebration; the assessing habit cannot let the joy arrive
+  blockade_nature: the feast cannot begin while the gardener keeps tallying what is not yet enough
+  pentacles_state: the patience sours into joylessness; the assessment forbids the harvest its celebration
+  consequence: the celebration never comes; the 7 counts while the 3's joy waits unfeasted
+  key_terms: deferred feast, joyless counting, forbidden celebration, soured patience
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into denying every harvest its joy; patience becomes the grim refusal to ever celebrate enough
+  mode: the evaluation used to find every harvest insufficient; the waiting becomes the joylessness that no yield can satisfy
+  loss: the genuine celebration patience earned; assessment becomes the grimness that strangles all joy
+  key_terms: obsessive insufficiency, grim refusal, joyless patience, strangled celebration
+
+dynamic_dependency:
+  mechanism: The 7 needs the 3 to teach it that the harvest is meant to be celebrated; the celebration needs the patience to make the joy the fruit of real, ripened work
+  function: Pentacles-7 supplies the patient work that earns a real harvest; Cups-3 supplies the celebration that teaches assessment that the ripened yield is meant for joy
+  integration_outcome: a celebration that is the fruit of patient work; joy grounded in a harvest genuinely earned and then truly feasted
+  key_terms: earned celebration, ripened joy, grounded feast, crowned patience
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, 4 of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Apathy, emotional stagnation, dissatisfaction, withdrawn feeling, boredom
+numerical_relation: 7 + 4 = 11 (XI Strength; patient assessment meets withdrawn apathy; the gardener meets the listless)
+elemental_bridge: Earth's patient waiting meets Water's listless stagnation; the assessing pause meets the bored withdrawal
+threshold_type: The wait that risks becoming apathy; assessment meeting stagnation
+
+dynamic_genesis:
+  mechanism: The 7's patience can give the 4's stagnation the meaning of a fertile pause; assessment reframes the listless wait as a season of necessary fallow
+  process: the patient evaluation distinguishes idle apathy from fruitful waiting; the assessment shows the bored withdrawal that its pause can have purpose; patience lends meaning to the stillness
+  outcome: stagnation reframed as fertile pause; apathy given the meaning of patient, purposeful waiting
+  key_terms: fertile pause, reframed stillness, purposeful waiting, meaningful patience
+
+dynamic_antagonism:
+  mechanism: The 7's patient waiting risks blurring into the 4's idle apathy; assessment meets a stagnation that looks exactly like its own pause
+  tension_axis: fruitful patience versus idle apathy; the purposeful wait versus the listless withdrawal
+  seven_of_pentacles_position: Insists its waiting is purposeful, not idle; defends the pause as productive
+  four_of_cups_position: The waiting is just dressed-up apathy; the pause hides a withdrawal
+  key_terms: urged distinction, defended pause, insisted purpose, kept stagnation
+
+dynamic_inhibition:
+  mechanism: The patient pause and the listless apathy reinforce each other; the assessment cannot tell its own waiting from mere stagnation
+  blockade_nature: the evaluation cannot proceed when it has become indistinguishable from idle withdrawal
+  pentacles_state: the patience decays into apathy; the assessment loses its purpose in the stagnation
+  consequence: the waiting becomes idleness; the 7's pause dissolves into the 4's listless inaction
+  key_terms: decayed patience, dissolved purpose, idle assessment, blurred stagnation
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the patient pause into permanent inertia; assessment becomes the excuse that dresses apathy as wisdom
+  mode: the evaluation used to justify never acting; the waiting becomes the apathy that calls its inertia patience
+  loss: the genuine purposeful waiting assessment offered; patience becomes the inertia masquerading as wisdom
+  key_terms: obsessive inertia, dressed-up apathy, justified withdrawal, masquerading patience
+
+dynamic_dependency:
+  mechanism: The 7 needs the 4 to teach it to tell purposeful waiting from idle stagnation; the apathy needs the patience to give its stillness real, fertile purpose
+  function: Pentacles-7 supplies the purposeful patience that redeems the pause; Cups-4 supplies the honest stagnation that teaches assessment to test whether its waiting is fruitful or idle
+  integration_outcome: a waiting that knows itself to be fertile, not idle; patience grounded in the honest distinction from mere apathy
+  key_terms: honest patience, fertile waiting, grounded purpose, redeemed pause
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, 5 of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Loss, grief, heartbreak, mourning, emotional devastation
+numerical_relation: 7 + 5 = 12 (XII The Hanged Man; patient assessment meets deep grief; the gardener meets the mourner)
+elemental_bridge: Earth's patient evaluation meets Water's spilled sorrow; the assessing eye meets the grieving heart
+threshold_type: The harvest that failed; assessment meeting grief
+
+dynamic_genesis:
+  mechanism: The 7's patience helps the 5 see that even a failed harvest holds seed for the future; assessment finds in the loss what can still be learned and grown
+  process: the long evaluation surveys the wreckage and finds the salvageable; the patience teaches the mourner that loss is one season, not all of them; assessment turns grief toward the next planting
+  outcome: grief given a future by patient assessment; the failed harvest mined for the seed of recovery
+  key_terms: salvaged seed, future-turned grief, patient recovery, learned loss
+
+dynamic_antagonism:
+  mechanism: The 7's forward-looking assessment clashes with the 5's fixation on what was lost; patience meets a grief that cannot yet look past the spilled cups
+  tension_axis: the eye on the next season versus the gaze fixed on loss; assessing the future versus mourning the past
+  seven_of_pentacles_position: Wants to assess what can still be grown from here; looks past the loss
+  five_of_cups_position: Sees only what is spilled; cannot yet turn toward any future
+  key_terms: urged future, defended mourning, insisted assessment, kept grief
+
+dynamic_inhibition:
+  mechanism: The grief's fixation halts the assessment; the mourning cannot let the patient eye turn toward the next season
+  blockade_nature: the forward evaluation cannot proceed while the gaze stays fixed on the loss
+  pentacles_state: the patience is stalled by sorrow; the assessment cannot move past the failed harvest
+  consequence: the future goes unplanted; the 7's forward look is held fast by the 5's mourning
+  key_terms: stalled assessment, fixed grief, unplanted future, halted patience
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into endless post-mortem of the loss; patience becomes the obsessive autopsy that never plants again
+  mode: the evaluation used to relive the failure forever; the waiting becomes the rumination that mistakes grief for analysis
+  loss: the genuine recovery patience could have grown; assessment becomes the endless autopsy of what died
+  key_terms: obsessive autopsy, relived failure, ruminating patience, unplanted recovery
+
+dynamic_dependency:
+  mechanism: The 7 needs the 5 to honor the loss before rushing to the next season; the grief needs the patience to find in the loss the seed of what can still grow
+  function: Pentacles-7 supplies the patient eye that finds the salvageable seed; Cups-5 supplies the honest grief that teaches assessment to honor the loss before planting again
+  integration_outcome: grief honored and then turned toward future planting; loss grounded in a patience that mourns truly and recovers wisely
+  key_terms: honored loss, future planting, grounded patience, salvaged seed
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, 6 of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Nostalgia, innocence, reunion, past tenderness, childhood wonder
+numerical_relation: 7 + 6 = 13 (XIII Death; patient assessment meets tender memory; the gardener meets the remembered past)
+elemental_bridge: Earth's patient evaluation meets Water's remembered tenderness; the assessing eye meets the nostalgic gaze
+threshold_type: The long view back; assessment meeting nostalgia
+
+dynamic_genesis:
+  mechanism: The 6's tender memory gives the 7's assessment the long perspective of how far the garden has come; nostalgia lets patience measure growth across the years
+  process: the long evaluation gains a remembered baseline; the patience sees the slow ripening against the tender past; assessment learns to measure the harvest against where it began
+  outcome: growth measured against tender memory; patient assessment enriched by the long view of how far things have come
+  key_terms: measured growth, long perspective, remembered baseline, enriched patience
+
+dynamic_antagonism:
+  mechanism: The 7's forward assessment clashes with the 6's pull toward the idealized past; patience meets a nostalgia that prefers the remembered garden to the present one
+  tension_axis: assessing the present growth versus longing for the past; the forward eye versus the backward gaze
+  seven_of_pentacles_position: Wants to assess what is growing now; the past is only a baseline
+  six_of_cups_position: The old garden was sweeter; the present assessment misses what was lost
+  key_terms: urged presence, defended memory, insisted assessment, kept nostalgia
+
+dynamic_inhibition:
+  mechanism: The pull of idealized memory distorts the assessment; the nostalgia makes the present harvest seem poorer than the remembered one
+  blockade_nature: the evaluation cannot judge fairly while measuring against an idealized past
+  pentacles_state: the patience is clouded by longing; the assessment undervalues the present growth
+  consequence: the present harvest is dismissed as lesser; the 7's evaluation is warped by the 6's nostalgia
+  key_terms: distorted assessment, idealized past, undervalued growth, clouded patience
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into pining for an irrecoverable past; patience becomes the longing that abandons the present garden
+  mode: the evaluation used to mourn a past that was never as perfect as remembered; the waiting becomes the pining that neglects what grows now
+  loss: the genuine present growth patience should tend; assessment becomes the nostalgia that neglects the living garden
+  key_terms: obsessive pining, idealized loss, neglectful patience, abandoned present
+
+dynamic_dependency:
+  mechanism: The 7 needs the 6 to give its assessment the long memory of how far things have come; the nostalgia needs the patience to measure the present growth fairly against the past
+  function: Pentacles-7 supplies the patient assessment that values present growth; Cups-6 supplies the tender memory that teaches assessment to see how far the garden has come
+  integration_outcome: present growth valued against a true long memory; patience grounded in honest perspective rather than idealized longing
+  key_terms: honest perspective, valued growth, grounded patience, true memory
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, 7 of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Illusion, temptation, fantasy, confusion, delusional desire
+numerical_relation: 7 + 7 = 14 (XIV Temperance; patient assessment meets seductive illusion; the gardener meets the mirage)
+elemental_bridge: Earth's grounded evaluation meets Water's tempting fantasy; the assessing eye meets the gleaming mirage
+threshold_type: The real yield among the dreamed ones; assessment meeting illusion
+
+dynamic_genesis:
+  mechanism: The 7's grounded assessment sorts the 7 of Cups' fantasies into what can really be grown; patience tests the dreams against what the garden can actually yield
+  process: the long evaluation weighs each gleaming vision against the soil's real capacity; the assessment distinguishes the achievable dream from the mirage; patience grounds the fantasy in what can truly ripen
+  outcome: fantasy tested into real possibility; the dreams sorted by patience into what can actually be grown
+  key_terms: tested dreams, grounded fantasy, sorted visions, real possibility
+
+dynamic_antagonism:
+  mechanism: The 7 of Pentacles' patient realism clashes with the 7 of Cups' seductive dreaming; assessment meets a fantasy that prefers the gleaming vision to the slow real yield
+  tension_axis: the grounded evaluation versus the seductive mirage; the real harvest versus the dreamed one
+  seven_of_pentacles_position: Assesses what the garden can truly yield; distrusts the gleaming visions
+  seven_of_cups_position: The dreamed harvests gleam brighter; the real slow yield seems poor beside them
+  key_terms: urged realism, defended fantasy, insisted assessment, kept illusion
+
+dynamic_inhibition:
+  mechanism: The seduction of the dreamed harvest stops the patient assessment; the fantasy makes the real evaluation seem dull beside the gleaming visions
+  blockade_nature: the grounded assessment cannot hold attention against the brighter mirages
+  pentacles_state: the patience is lured from its work; the assessment abandons the real garden for the dreamed one
+  consequence: the real harvest is neglected for fantasies; the 7's patience is seduced from its grounded work
+  key_terms: seduced patience, neglected harvest, lured assessment, gleaming distraction
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into chasing one fantasy after another; patience becomes the endless dreaming that never tends a real crop
+  mode: the evaluation used to plan harvests that are never planted; the waiting becomes the fantasy that mistakes dreaming for cultivation
+  loss: the genuine yield patient work could grow; assessment becomes the dreaming that abandons the real garden
+  key_terms: obsessive dreaming, unplanted fantasy, abandoned cultivation, lured patience
+
+dynamic_dependency:
+  mechanism: The 7 of Pentacles needs the 7 of Cups to keep its assessment imaginative and hopeful; the fantasy needs the patience to test which dreams can really be grown
+  function: Pentacles-7 supplies the grounded assessment that tests the dreams; Cups-7 supplies the imagination that teaches patience to aim its cultivation at real, hopeful possibility
+  integration_outcome: dreams tested and grown into real harvests; fantasy grounded in a patience that cultivates the achievable vision
+  key_terms: grown dreams, tested possibility, grounded patience, cultivated vision
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, 8 of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Abandonment, departure, walking away, chosen leaving, emotional departure
+numerical_relation: 7 + 8 = 15 (XV The Devil; patient assessment meets chosen departure; the gardener meets the leaver)
+elemental_bridge: Earth's patient investment meets Water's walking away; the assessing eye meets the one who leaves
+threshold_type: The choice to abandon the field; assessment meeting departure
+
+dynamic_genesis:
+  mechanism: The 8's departure teaches the 7 that some investments must be abandoned; assessment learns through the leaver that walking away can be the wisest evaluation
+  process: the long evaluation faces the hard verdict that this field will not yield; the patience accepts the 8's wisdom that some plantings must be left; assessment learns to cut its losses and move on
+  outcome: a wise abandonment of the failing field; patient assessment freed by the courage to walk away
+  key_terms: wise abandonment, cut losses, freed assessment, accepted departure
+
+dynamic_antagonism:
+  mechanism: The 7's commitment to its investment clashes with the 8's readiness to leave; patience meets a departure that abandons what assessment is still tending
+  tension_axis: staying to tend the investment versus walking away from it; patient commitment versus chosen leaving
+  seven_of_pentacles_position: Has invested too long to walk away; insists the field may yet yield
+  eight_of_cups_position: This field will not bear fruit; the only wisdom is to leave it
+  key_terms: urged departure, defended investment, insisted leaving, kept commitment
+
+dynamic_inhibition:
+  mechanism: The 7's attachment to its investment blocks the 8's wise departure; the sunk patience cannot accept that the field should be left
+  blockade_nature: the assessment cannot deliver the verdict to abandon while it clings to what it has invested
+  pentacles_state: the patience becomes the sunk-cost that will not let go; the assessment refuses the departure it knows is wise
+  consequence: the failing field is tended past all reason; the 7 cannot walk away from what the 8 knows must be left
+  key_terms: sunk-cost patience, clung investment, refused departure, tended failure
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into endless justification of a doomed investment; patience becomes the sunk-cost trap that pours years into the barren field
+  mode: the evaluation used to rationalize never abandoning; the waiting becomes the trap that throws good seasons after bad
+  loss: the freedom to plant elsewhere; assessment becomes the sunk-cost obsession that wastes all on the barren field
+  key_terms: obsessive justification, sunk-cost trap, wasted seasons, doomed investment
+
+dynamic_dependency:
+  mechanism: The 7 needs the 8 to teach it when an investment must be abandoned; the departure needs the patience to be sure the field truly cannot yield before leaving
+  function: Pentacles-7 supplies the patient assessment that confirms the field is truly barren; Cups-8 supplies the courage to leave that teaches assessment to abandon what cannot bear fruit
+  integration_outcome: a departure made on sound assessment; the wise abandonment of a field patiently confirmed barren
+  key_terms: sound abandonment, confirmed barren, grounded departure, freed patience
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, 9 of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Wish fulfillment, contentment, emotional satisfaction, satisfied desire, achieved happiness
+numerical_relation: 7 + 9 = 16 (XVI The Tower; patient assessment meets satisfied desire; the gardener meets contentment)
+elemental_bridge: Earth's patient investment meets Water's full contentment; the assessing eye meets the satisfied heart
+threshold_type: The harvest finally enjoyed; assessment meeting fulfillment
+
+dynamic_genesis:
+  mechanism: The 9's contentment shows the 7 that the patient investment has paid off; assessment's long waiting culminates in satisfied fulfillment
+  process: the long evaluation reaches the moment the yield is enough; the patience is answered by contentment; assessment learns to recognize when the harvest has come and let satisfaction settle
+  outcome: patience fulfilled in contentment; the long investment answered by genuine satisfaction
+  key_terms: fulfilled patience, paid-off investment, settled contentment, recognized harvest
+
+dynamic_antagonism:
+  mechanism: The 7's habit of always assessing more clashes with the 9's settled satisfaction; patience meets a contentment that says the harvest is already enough
+  tension_axis: always evaluating for more versus resting in enough; the restless assessment versus settled contentment
+  seven_of_pentacles_position: Wants to keep assessing whether more could be grown; cannot rest in the yield
+  nine_of_cups_position: The harvest is enough; the satisfaction is complete and asks no further evaluation
+  key_terms: urged rest, demanded assessment, insisted enough, kept evaluating
+
+dynamic_inhibition:
+  mechanism: The restless assessment prevents the contentment from settling; the habit of evaluating more keeps satisfaction from ever arriving
+  blockade_nature: the fulfillment cannot settle while the gardener keeps asking whether more could be had
+  pentacles_state: the patience becomes restlessness; the assessment denies itself the satisfaction it earned
+  consequence: the contentment never settles; the 7 keeps evaluating while the 9's satisfaction goes unenjoyed
+  key_terms: denied contentment, restless assessment, unsettled satisfaction, withheld enough
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into never being satisfied; patience becomes the endless dissatisfaction that no harvest can fulfill
+  mode: the evaluation used to always find the yield wanting; the waiting becomes the discontent that ruins every fulfillment
+  loss: the genuine contentment the harvest earned; assessment becomes the dissatisfaction that can never rest
+  key_terms: obsessive dissatisfaction, ruined fulfillment, restless patience, unsatisfied harvest
+
+dynamic_dependency:
+  mechanism: The 7 needs the 9 to teach it when to rest in the harvest; the contentment needs the patience to have grown a satisfaction genuinely earned
+  function: Pentacles-7 supplies the patient work that earns real fulfillment; Cups-9 supplies the contentment that teaches assessment when the harvest is enough to enjoy
+  integration_outcome: a fulfillment both earned and genuinely enjoyed; contentment grounded in patient work that knows when to rest
+  key_terms: earned fulfillment, enjoyed harvest, grounded patience, settled contentment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, 10 of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Family harmony, happiness, love's fulfillment, emotional completeness, belonging
+numerical_relation: 7 + 10 = 17 (XVII The Star; patient assessment meets family belonging; the gardener meets the harvest home)
+elemental_bridge: Earth's patient investment meets Water's gathered family; the assessing eye meets the fulfilled belonging
+threshold_type: The harvest that feeds the family; assessment meeting belonging
+
+dynamic_genesis:
+  mechanism: The 10's belonging shows the 7 the deepest meaning of its patient investment — a harvest that sustains a whole family; assessment finds its purpose in lasting belonging
+  process: the long evaluation aims at a yield that nourishes the family; the patience tends what will hold the household for years; assessment becomes the husbandry that feeds belonging
+  outcome: patient investment fulfilled in family belonging; the long harvest sustaining a whole household
+  key_terms: family harvest, sustained belonging, purposeful patience, lasting investment
+
+dynamic_antagonism:
+  mechanism: The 7's solitary evaluating habit clashes with the 10's communal fulfillment; patience meets a belonging that wants the harvest enjoyed together now, not assessed alone
+  tension_axis: the solitary assessment versus the shared belonging; tending alone versus harvesting together
+  seven_of_pentacles_position: Wants to keep assessing alone before sharing the harvest with the family
+  ten_of_cups_position: The harvest is meant to be enjoyed together; solitary assessment keeps it from the family
+  key_terms: urged sharing, defended solitude, insisted assessment, kept belonging
+
+dynamic_inhibition:
+  mechanism: The solitary assessment keeps the harvest from the family; the lone evaluating habit cannot let the belonging share in the yield
+  blockade_nature: the family's belonging cannot be fed while the gardener keeps the harvest under solitary assessment
+  pentacles_state: the patience isolates the yield; the assessment withholds the harvest from the household
+  consequence: the family goes unfed by the harvest; the 7's solitary evaluation starves the 10's belonging
+  key_terms: withheld harvest, isolated patience, starved belonging, solitary assessment
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into hoarding the harvest from the family; patience becomes the solitary husbandry that never shares the yield
+  mode: the evaluation used to keep the harvest forever under personal control; the waiting becomes the hoarding that denies the family its belonging
+  loss: the genuine belonging the harvest could sustain; assessment becomes the hoarding that isolates the gardener from the family
+  key_terms: obsessive hoarding, isolated harvest, withholding patience, denied belonging
+
+dynamic_dependency:
+  mechanism: The 7 needs the 10 to give its patient investment the purpose of family belonging; the belonging needs the patience to grow the lasting harvest that sustains it
+  function: Pentacles-7 supplies the patient husbandry that grows a lasting harvest; Cups-10 supplies the belonging that teaches assessment that its yield is meant to feed a whole family
+  integration_outcome: a harvest grown patiently and shared into lasting belonging; family fulfillment grounded in patient, purposeful investment
+  key_terms: shared harvest, lasting belonging, grounded patience, family fulfillment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, Page of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Curiosity, emotional exploration, feeling-learning, youthful receptivity, openness
+numerical_relation: 7 + 11 = 18 (XVIII The Moon; patient assessment meets youthful openness; the gardener meets the open learner)
+elemental_bridge: Earth's patient evaluation meets Water's open young heart; the assessing eye meets the eager feeler
+threshold_type: The young heart taught patience; assessment meeting openness
+
+dynamic_genesis:
+  mechanism: The 7's patience teaches the Page's eager openness to let feelings ripen; assessment shows the young heart that emotions, like crops, reward tending over time
+  process: the long evaluation models for the Page that feeling deepens with patience; the assessment tempers the eager openness with the wisdom of waiting; patience teaches the young heart to let its feelings grow
+  outcome: youthful openness tempered by patience; the eager heart taught to let its feelings ripen
+  key_terms: tempered openness, ripened feeling, taught patience, deepened heart
+
+dynamic_antagonism:
+  mechanism: The 7's measured patience clashes with the Page's immediate openness; assessment meets a young heart that wants to feel everything now, not wait
+  tension_axis: the patient ripening versus the immediate feeling; measured assessment versus eager openness
+  seven_of_pentacles_position: Wants the Page to let its feelings develop before acting on them
+  page_of_cups_position: Feels openly and now; the patient waiting dampens the fresh feeling
+  key_terms: urged patience, demanded feeling, insisted ripening, kept openness
+
+dynamic_inhibition:
+  mechanism: The 7's insistence on patient ripening dampens the Page's fresh openness; the measured assessment teaches caution where the young heart needed to feel freely
+  blockade_nature: the eager openness cannot flourish under constant counsel to wait and assess
+  pentacles_state: the patience chills the young feeling; the assessment teaches the open heart to distrust its own impulses
+  consequence: the fresh openness is dampened into caution; the 7's patience cools the Page's eager heart
+  key_terms: dampened openness, chilled feeling, cautious heart, cooled eagerness
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the patience into teaching the young heart never to trust a feeling; assessment becomes the counsel that strangles openness with endless waiting
+  mode: the evaluation used to make the Page doubt every feeling; the waiting becomes the suspicion that closes the young heart
+  loss: the genuine openness the Page offered; patience becomes the counsel that teaches the young to stop feeling
+  key_terms: obsessive caution, strangled openness, suspicious counsel, closed heart
+
+dynamic_dependency:
+  mechanism: The 7 needs the Page to keep its assessment open and feeling; the openness needs the patience to learn that feelings deepen when given time
+  function: Pentacles-7 supplies the patience that lets young feeling ripen; Cups-Page supplies the openness that teaches assessment to keep feeling fresh while it waits
+  integration_outcome: a young heart both open and patient; eager feeling grounded in the wisdom of letting it ripen
+  key_terms: patient openness, ripened feeling, grounded heart, tempered eagerness
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, Knight of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Romance, emotional action, passionate pursuit, love-driven action, heart's quest
+numerical_relation: 7 + 12 = 19 (XIX The Sun; patient assessment meets passionate pursuit; the gardener meets the romantic)
+elemental_bridge: Earth's patient evaluation meets Water's passionate quest; the assessing eye meets the ardent heart
+threshold_type: The quest tempered by patience; assessment meeting romance
+
+dynamic_genesis:
+  mechanism: The 7's patience tempers the Knight's romantic haste into a love that lasts; assessment teaches the passionate quest to build something durable rather than chase the moment
+  process: the long evaluation steadies the ardent pursuit; the patience teaches the romantic to invest in a love that ripens; assessment turns passion into lasting devotion
+  outcome: passion tempered into durable love; the romantic quest grounded in patient, lasting investment
+  key_terms: tempered passion, durable love, steadied quest, lasting devotion
+
+dynamic_antagonism:
+  mechanism: The 7's patient evaluation clashes with the Knight's headlong romance; assessment meets a passion that will not wait to be evaluated
+  tension_axis: the patient ripening versus the headlong pursuit; measured assessment versus passionate haste
+  seven_of_pentacles_position: Wants to assess the love before committing the quest; counsels patience
+  knight_of_cups_position: Love demands action now; the patient assessment kills the romance
+  key_terms: urged patience, demanded action, insisted assessment, kept passion
+
+dynamic_inhibition:
+  mechanism: The 7's insistence on assessment stalls the Knight's passionate pursuit; the measured evaluation cools the ardor the quest required
+  blockade_nature: the romantic pursuit cannot move while every step must be assessed first
+  pentacles_state: the patience smothers the passion; the assessment cools the quest into hesitation
+  consequence: the romance stalls; the 7's evaluation extinguishes the Knight's ardent pursuit
+  key_terms: stalled pursuit, cooled ardor, smothered passion, hesitant quest
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the patience into endless evaluation that never lets love act; assessment becomes the caution that strangles every romantic impulse
+  mode: the evaluation used to defer the quest forever; the waiting becomes the timidity that never dares to love
+  loss: the genuine passion the quest carried; patience becomes the caution that kills romance before it begins
+  key_terms: obsessive caution, deferred quest, timid patience, killed romance
+
+dynamic_dependency:
+  mechanism: The 7 needs the Knight to give its patience the fire of a real quest; the passion needs the assessment to build a love that lasts beyond the first ardor
+  function: Pentacles-7 supplies the patience that turns passion into lasting love; Cups-Knight supplies the ardent quest that teaches assessment to commit and act, not only evaluate
+  integration_outcome: a romance both passionate and lasting; the ardent quest grounded in patient investment that endures
+  key_terms: lasting romance, committed quest, grounded passion, enduring love
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, Queen of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Emotional mastery, nurturing wisdom, intuitive understanding, emotional authority, compassion
+numerical_relation: 7 + 13 = 20 (XX Judgement; patient assessment meets nurturing wisdom; the gardener meets the wise heart)
+elemental_bridge: Earth's patient evaluation meets Water's deep compassion; the assessing eye meets the intuitive heart
+threshold_type: The harvest read by wisdom; assessment meeting compassion
+
+dynamic_genesis:
+  mechanism: The Queen's intuitive wisdom deepens the 7's assessment with compassionate understanding; nurturing insight reads what the patient evaluation alone could not feel
+  process: the long evaluation gains the Queen's intuitive depth; the patience learns to read with the heart as well as the eye; assessment becomes the wise reading that feels what is truly ripening
+  outcome: assessment deepened by intuitive wisdom; patient evaluation enriched by compassionate understanding
+  key_terms: intuitive assessment, compassionate reading, deepened patience, wise evaluation
+
+dynamic_antagonism:
+  mechanism: The 7's analytic evaluation clashes with the Queen's intuitive knowing; assessment meets a wisdom that feels the answer the patient analysis is still calculating
+  tension_axis: analytic assessment versus intuitive knowing; the measured evaluation versus the felt understanding
+  seven_of_pentacles_position: Trusts only what patient evaluation can confirm; distrusts intuitive leaps
+  queen_of_cups_position: Knows by feeling what the slow assessment is still calculating; trusts the heart's reading
+  key_terms: urged intuition, defended analysis, insisted feeling, kept evaluation
+
+dynamic_inhibition:
+  mechanism: The 7's distrust of intuition blocks the Queen's wisdom; the analytic assessment refuses the felt knowing it cannot measure
+  blockade_nature: the deeper reading cannot inform the assessment while only measurable evaluation is trusted
+  pentacles_state: the patience stays shallow and analytic; the assessment refuses the intuitive depth that would enrich it
+  consequence: the evaluation misses what only feeling could read; the 7's analysis rejects the Queen's compassionate wisdom
+  key_terms: shallow assessment, refused intuition, analytic patience, missed depth
+
+dynamic_devolution:
+  mechanism: The 7 corrupts the assessment into cold calculation that ignores the heart; patience becomes the analysis that refuses all feeling
+  mode: the evaluation used to reduce everything to measurable factors; the waiting becomes the coldness that excludes compassion
+  loss: the genuine wisdom intuition offered; assessment becomes the cold calculation blind to what only the heart reads
+  key_terms: obsessive calculation, cold assessment, heartless patience, excluded wisdom
+
+dynamic_dependency:
+  mechanism: The 7 needs the Queen to deepen its assessment with feeling; the wisdom needs the patience to ground its intuition in careful, real evaluation
+  function: Pentacles-7 supplies the patient evaluation that grounds intuition in reality; Cups-Queen supplies the intuitive wisdom that teaches assessment to read with the heart as well as the eye
+  integration_outcome: an assessment both careful and intuitive; patient evaluation grounded in compassionate, felt wisdom
+  key_terms: intuitive evaluation, grounded wisdom, deepened patience, felt assessment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC
+
+---
+
+card_pair: 7 of Pentacles, King of Cups
+archetype_pentacles: Assessment, patience, long-term investment, paused evaluation, trust in process
+archetype_cups: Emotional authority, heart's dominion, compassionate power, mastered feeling, authoritative love
+numerical_relation: 7 + 14 = 21 (XXI The World; patient assessment meets emotional authority; the gardener meets the master of feeling)
+elemental_bridge: Earth's patient evaluation meets Water's commanding compassion; the assessing eye serves the masterful heart
+threshold_type: The long view in service of compassionate rule; assessment meeting authority
+
+dynamic_genesis:
+  mechanism: The King's mastered feeling gives the 7's patience the steadiness of emotional authority; compassionate power lends assessment the calm to evaluate without anxiety
+  process: the long evaluation is steadied by the King's emotional mastery; the patience gains the authority's calm command; assessment becomes the unhurried wisdom of one who has mastered his own feeling
+  outcome: assessment steadied by emotional mastery; patient evaluation given the calm authority of the mastered heart
+  key_terms: steadied assessment, calm authority, masterful patience, unhurried evaluation
+
+dynamic_antagonism:
+  mechanism: The 7's tentative evaluation clashes with the King's settled command; assessment meets an authority that has already mastered the patience it is still practicing
+  tension_axis: the tentative evaluating versus the settled command; the still-assessing gardener versus the mastered heart
+  seven_of_pentacles_position: Is still evaluating, still unsure; resents the King's settled certainty
+  king_of_cups_position: Has long since mastered this patience; the gardener's tentativeness seems unripe
+  key_terms: urged mastery, defended evaluation, insisted command, kept tentativeness
+
+dynamic_inhibition:
+  mechanism: The King's settled authority overrides the 7's still-forming assessment; the mastered command dismisses the patient evaluation as not yet ripe
+  blockade_nature: the tentative assessment cannot mature while the authority decides it has already concluded
+  pentacles_state: the patience is overruled before it ripens; the assessment is dismissed by the King's settled certainty
+  consequence: the evaluation is cut short by command; the 7's patient process is overridden by the King's authority
+  key_terms: overruled assessment, cut-short patience, dismissed evaluation, premature command
+
+dynamic_devolution:
+  mechanism: The 7 corrupts into surrendering all judgment to the King's authority; patience becomes the deference that stops evaluating for itself
+  mode: the assessment abandoned in favor of the authority's verdict; the waiting becomes the deference that never reaches its own conclusion
+  loss: the genuine patient judgment assessment could form; patience becomes the surrender that lets authority think for it
+  key_terms: obsessive deference, surrendered judgment, abandoned assessment, ceded patience
+
+dynamic_dependency:
+  mechanism: The 7 needs the King to lend its assessment the calm of emotional mastery; the authority needs the patience to keep its command grounded in genuine, careful evaluation
+  function: Pentacles-7 supplies the patient evaluation that keeps authority's command grounded; Cups-King supplies the mastered feeling that teaches assessment to evaluate with calm, steady authority
+  integration_outcome: an assessment both careful and masterfully calm; emotional authority grounded in patient, genuine evaluation
+  key_terms: calm evaluation, grounded authority, masterful patience, steady assessment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 7-1 through 7-14
+  uid: 7OPC

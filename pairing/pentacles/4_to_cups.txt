@@ -1,0 +1,697 @@
+card_pair: 4 of Pentacles, Ace of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Emotional opening, love, receptivity, new feeling, overflowing heart
+numerical_relation: 4 + 1 = 5 (V The Pope; guarded holding meets emotional opening; the grip learns to receive)
+elemental_bridge: Earth's firm grasp meets Water's openness; the possessive one discovers what wants to flow in
+threshold_type: The grip that opens; holding learning to receive
+
+dynamic_genesis:
+  mechanism: The 4's guard discovers that some things are meant to be received rather than grasped; the holding learns that emotional opening is not loss
+  process: the resources held tight enough to control find themselves also held safe enough to soften; the grip loosens not into carelessness but into welcome
+  outcome: security that includes vulnerability; holding that is both protective and receptive
+  key_terms: protective openness, held vulnerability, secure welcome, guarded receptivity
+
+dynamic_antagonism:
+  mechanism: The 4's need to control clashes with the Ace's demand for surrender; the grasp meets what cannot be clutched
+  tension_axis: controlling the resource versus receiving it freely; guarding against loss versus embracing arrival
+  four_of_pentacles_position: Wants to understand and protect the new feeling; fears that true emotion will overwhelm the boundary
+  ace_of_cups_position: Insists on flowing into the heart freely; refuses the grip that would shape it
+  key_terms: urged surrender, demanded protection, insisted control, offered opening
+
+dynamic_inhibition:
+  mechanism: The fear of loss stops the opening; the grip becomes so tight that nothing emotional can enter
+  blockade_nature: the Ace cannot find welcome in a heart so defended; the resource that is held too tightly becomes a prison
+  pentacles_state: security becomes isolation; holding ceases to be safe and becomes only constrictive
+  consequence: the heart remains guarded; the emotional opening never arrives
+  key_terms: blocked opening, isolated holding, defended heart, unmet Ace
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive protection of what it already possesses; the holding becomes a refusal of anything new
+  mode: the grip used to ensure nothing changes; the control becomes defensive fortification
+  loss: the genuine welcome emotional opening could have offered; the holding becomes a tomb
+  key_terms: obsessive guarding, defensive holding, fortified walls, imprisoned security
+
+dynamic_dependency:
+  mechanism: The 4 needs the Ace to teach it that some resources are gifts meant to arrive; the opening needs the holding to provide safe ground for the heart to land
+  function: Pentacles-4 supplies the security that makes emotional opening feel safe; Cups-Ace supplies the arrival that teaches the grip that receiving is not losing
+  integration_outcome: a heart held securely enough to open; resources guarded well enough to welcome what arrives
+  key_terms: safe opening, secure arrival, held welcome, guarded receptivity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, 2 of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Partnership, duality, emotional connection, mutual feeling, balanced union
+numerical_relation: 4 + 2 = 6 (VI The Lovers; possessive holding meets mutual feeling; the grip discovers partnership)
+elemental_bridge: Earth's firm possession meets Water's shared emotion; the hold discovers what cannot be claimed alone
+threshold_type: The grip before the union; holding meeting what joins
+
+dynamic_genesis:
+  mechanism: The 4 learns that some things are stronger when shared; the holding discovers that partnership offers security deeper than solitude
+  process: the grasp opens wide enough to include another; the resources held become the foundation for mutual feeling; the grip becomes the container for the union
+  outcome: possession that strengthens through partnership; holding that is secure because it is shared
+  key_terms: shared security, partnered holding, grounded union, contained feeling
+
+dynamic_antagonism:
+  mechanism: The 4's possessiveness clashes with the partnership's need for mutuality; the grip meets what will not belong to one alone
+  tension_axis: controlling what is mine versus joining what is ours; individual holding versus shared feeling
+  four_of_pentacles_position: Fears that partnership will cost what it has secured; wants to protect both itself and what it holds
+  two_of_cups_position: Needs to feel the equality of the union; reads possession as threat to the balance
+  key_terms: urged mutuality, demanded protection, insisted equality, kept control
+
+dynamic_inhibition:
+  mechanism: The demand for equal partnership stops the possessiveness; the grip cannot maintain control while truly joining the other
+  blockade_nature: the holding becomes impossible when it must account for another's equal claim
+  pentacles_state: security becomes uncertain when power must be shared; the grip loses its certainty
+  consequence: either the partnership fails or the control releases
+  key_terms: lost control, weakened grip, threatened security, unequal union
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive control of the partnership; the holding becomes the prison of the union
+  mode: the grip used to enforce loyalty; the possession becomes possessive dominance
+  loss: the genuine partnership the holding could have protected; the union becomes ownership
+  key_terms: obsessive control, enslaved partnership, possessed union, tyrannical holding
+
+dynamic_dependency:
+  mechanism: The 4 needs the 2 to teach it that security multiplies in true partnership; the union needs the grip to protect it from dissolution
+  function: Pentacles-4 supplies the commitment that makes the partnership lasting; Cups-2 supplies the mutuality that teaches the grip that power is shared, not taken
+  integration_outcome: a partnership held secure together; holding that strengthens through union
+  key_terms: secure partnership, mutual holding, lasting union, shared commitment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, 3 of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Celebration, joy, emotional communion, friendship, festive togetherness
+numerical_relation: 4 + 3 = 7 (VII The Chariot; possessive holding meets emotional celebration; the grip learns to gather)
+elemental_bridge: Earth's territorial possession meets Water's open communion; the holder discovers what is meant to be shared
+threshold_type: The grip that gathers; holding learning communal joy
+
+dynamic_genesis:
+  mechanism: The 4 learns that celebration strengthens community; the holding discovers that opening the doors makes what is held more valuable, not less
+  process: the resources secured become the feast that brings others; the grip widens enough to make space; the possessive heart discovers the abundance of giving
+  outcome: security that comes from community; holding that celebrates rather than excludes
+  key_terms: communal holding, celebrated security, gathering grip, generous possession
+
+dynamic_antagonism:
+  mechanism: The 4's need for exclusivity clashes with the celebration's invitation to all; the grip meets what will not stay private
+  tension_axis: keeping what is mine versus sharing the feast; controlled access versus open invitation
+  four_of_pentacles_position: Fears that sharing will dilute what is special; wants to keep the communion intimate
+  three_of_cups_position: Wants the joy to be public; refuses the boundary of the held
+  key_terms: urged sharing, defended intimacy, insisted celebration, kept private
+
+dynamic_inhibition:
+  mechanism: The need to keep what is held private stops the celebration; the grip cannot remain closed while the gathering wants to open
+  blockade_nature: the communion becomes impossible when the grip will not include; the joy cannot arrive where the doors are barred
+  pentacles_state: isolation becomes the cost of possession; holding prevents the very connection it sought to secure
+  consequence: the celebration never happens; the hold remains lonely
+  key_terms: barred doors, isolated holding, private possession, unkept feast
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive guarding of what is held; the holding becomes resentful exclusion of others
+  mode: the grip used to prevent the gathering; the possession becomes the reason for the refusal
+  loss: the genuine communal joy the holding could have expressed; the celebration becomes bitterness
+  key_terms: obsessive exclusion, resentful holding, barred communion, denied feast
+
+dynamic_dependency:
+  mechanism: The 4 needs the celebration to teach it that abundance multiplies in sharing; the joy needs the holding to create the feast that brings it forth
+  function: Pentacles-4 supplies the resources that make the celebration possible; Cups-3 supplies the openness that teaches the grip that what is shared multiplies
+  integration_outcome: a celebration grounded in secure abundance; holding that gives generously
+  key_terms: abundant celebration, generous holding, secure feast, open communion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, 4 of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Apathy, emotional stagnation, dissatisfaction, withdrawn feeling, boredom
+numerical_relation: 4 + 4 = 8 (VIII Justice; possessive holding meets emotional stagnation; the grip meets what refuses to move)
+elemental_bridge: Earth's firm grasp meets Water's stillness; the holder discovers emptiness where feeling should be
+threshold_type: The grip that stagnates; holding meeting refusal
+
+dynamic_genesis:
+  mechanism: The 4's security becomes a prison when the held thing becomes bored; the control over stagnation teaches that possession cannot prevent dissatisfaction
+  process: the grip so tight it stops all motion discovers there is no life in what is held; the control becomes the cage; the holding teaches that stagnation is the cost of control
+  outcome: a grim security; possession that realizes what it has captured is emotionally dead
+  key_terms: deadened holding, stagnant security, grimaced possession, realized emptiness
+
+dynamic_antagonism:
+  mechanism: The 4's demand for gratitude clashes with the 4's withdrawal; the grip meets what has stopped feeling anything about being held
+  tension_axis: maintaining the possession versus releasing the empty thing; keeping control versus accepting the loss of warmth
+  four_of_pentacles_position: Wants to resurrect feeling from what is held; fears that releasing will mean admitting defeat
+  four_of_cups_position: Has no energy for the grip; is numb to both holding and freedom
+  key_terms: urged resurrection, demanded gratitude, insisted numbness, kept withdrawal
+
+dynamic_inhibition:
+  mechanism: The apathy stops the grip's effort; the holding cannot compel feeling that is not there
+  blockade_nature: the control becomes pointless when what is controlled is empty
+  pentacles_state: the security becomes a hollow thing; the holding loses all purpose
+  consequence: the grip continues not from hope but from habit
+  key_terms: hollow holding, pointless grip, habitual possession, deadened security
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive attempts to resurrect feeling from what is numb; the holding becomes desperate
+  mode: the grip used to force response from the dead thing; the possession becomes necromantic
+  loss: the genuine security the holding could have offered; the control becomes torture
+  key_terms: obsessive grasping, desperate holding, necromantic control, tortured possession
+
+dynamic_dependency:
+  mechanism: The 4 needs the 4 to teach it that not everything can be held; the withdrawal needs the grip to finally let go
+  function: Pentacles-4 supplies the holding that recognizes when release is the only mercy; Cups-4 supplies the deadness that teaches the grip that love cannot be forced
+  integration_outcome: a wisdom that knows when to hold and when to release; security that accepts loss
+  key_terms: merciful release, accepting grip, wise holding, known letting-go
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, 5 of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Loss, grief, heartbreak, mourning, emotional devastation
+numerical_relation: 4 + 5 = 9 (IX The Hermit; possessive holding meets profound loss; the grip faces what cannot be kept)
+elemental_bridge: Earth's firm grasp meets Water's dissolution; the holder discovers what it was holding is gone
+threshold_type: The grip at loss; holding meeting irretrievable absence
+
+dynamic_genesis:
+  mechanism: The 4 learns that some losses cannot be prevented by holding tighter; the grief teaches that the best security cannot hold what is meant to leave
+  process: the resources held become poor comfort against the magnitude of loss; the grip remains but what is held is taken; the security becomes knowledge of what was
+  outcome: a holding that honors what has been lost; possession become memory
+  key_terms: honoring loss, secure memory, respected departure, grieving grip
+
+dynamic_antagonism:
+  mechanism: The 4's refusal to lose clashes with the 5's absolute reality of devastation; the grip meets what slips away no matter how tightly it is held
+  tension_axis: controlling what stays versus accepting what must leave; maintaining security versus surrendering to loss
+  four_of_pentacles_position: Insists the holding could have prevented this; refuses to accept the loss
+  five_of_cups_position: The loss is absolute and no grip can undo it
+  key_terms: urged acceptance, demanded prevention, insisted loss, kept grasping
+
+dynamic_inhibition:
+  mechanism: The force of the loss stops the grip's operation; the holding cannot maintain its illusion when devastation is complete
+  blockade_nature: the control becomes useless when what is controlled is gone
+  pentacles_state: security dissolves in the face of true loss; the grip learns its limitations
+  consequence: the holding becomes only the memory of what was held
+  key_terms: powerless grip, dissolved security, useless holding, learned limitation
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive attempts to recover what is lost; the holding becomes a reaching for ghosts
+  mode: the grip refuses to release even the corpse; the possession becomes morbid attachment
+  loss: the genuine grieving the holding could have facilitated; the control becomes torture
+  key_terms: obsessive grasping, morbid holding, reaching grip, haunted possession
+
+dynamic_dependency:
+  mechanism: The 4 needs the 5 to teach it that some things cannot be kept; the grief needs the holding to finally honor what is gone
+  function: Pentacles-4 supplies the steadiness that lets grief be witnessed; Cups-5 supplies the loss that teaches the grip that love means sometimes letting go
+  integration_outcome: a holding that becomes a shrine; security that is found in acceptance of loss
+  key_terms: honored memory, accepting grip, sacred holding, peaceful grieving
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, 6 of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Nostalgia, innocence, reunion, past tenderness, childhood wonder
+numerical_relation: 4 + 6 = 10 (X The Wheel of Fortune; possessive holding meets nostalgic memory; the grip holds what was)
+elemental_bridge: Earth's firm grasp meets Water's tender past; the holder discovers what is safest is what was
+threshold_type: The grip on memory; holding becoming the keeper of innocence
+
+dynamic_genesis:
+  mechanism: The 4's security becomes the shelter for memory; the holding preserves what was with tender care
+  process: the grip learns that some things are meant to be held as they were, unchanged; the possession becomes the protection of the innocent time; the control becomes the guardian of wonder
+  outcome: a holding that is also a blessing; possession that honors the past without imprisoning it
+  key_terms: honored memory, protective holding, blessed past, guarded innocence
+
+dynamic_antagonism:
+  mechanism: The 4's need to keep things unchanging clashes with time's movement; the grip meets what cannot be held still
+  tension_axis: preserving the past as it was versus accepting that time moves; controlling memory versus letting it live
+  four_of_pentacles_position: Wants to keep the past perfect and pure; fears that change will spoil the memory
+  six_of_cups_position: The memory is alive precisely because it can change and grow
+  key_terms: urged change, demanded preservation, insisted growth, kept static
+
+dynamic_inhibition:
+  mechanism: The demand to keep things unchanged stops the memory from living; the grip becomes a museum, a preservation that is also a death
+  blockade_nature: the nostalgia cannot deepen when it is held in perfect stasis
+  pentacles_state: the holding becomes sad; security becomes the guard against life
+  consequence: the memory is preserved but the wonder is gone
+  key_terms: deadened memory, preserved deadness, static innocence, museum holding
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive protection of the past; the holding becomes a refusal of the present
+  mode: the grip used to enforce purity; the possession becomes the reason for the rejection of now
+  loss: the genuine honoring the memory could have been; the past becomes a prison
+  key_terms: obsessive preservation, rigid memory, enforced purity, imprisoned past
+
+dynamic_dependency:
+  mechanism: The 4 needs the 6 to teach it that memories live because they change; the nostalgia needs the holding to protect it while it evolves
+  function: Pentacles-4 supplies the steadiness that makes memory safe; Cups-6 supplies the living past that teaches the grip that love for what was can allow what is now
+  integration_outcome: a memory held tenderly but alive; security that honors the past while allowing the present
+  key_terms: living memory, protected growth, honored past, alive innocence
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, 7 of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Illusion, temptation, fantasy, confusion, delusional desire
+numerical_relation: 4 + 7 = 11 (XI Strength; possessive holding meets seductive fantasy; the grip faces what is not real)
+elemental_bridge: Earth's firm substance meets Water's mirage; the holder discovers what it holds is not solid
+threshold_type: The grip on illusion; holding what cannot be held
+
+dynamic_genesis:
+  mechanism: The 4 learns that some things cannot be held because they are not real; the holding discovers that the firmest grip cannot catch a dream
+  process: the control and security that work on substance fail utterly on fantasy; the grip discovers that possession of illusion is itself illusion
+  outcome: a holding that learns its own falseness; security that realizes it was always grasping at air
+  key_terms: recognized illusion, released grip, false security, known mirage
+
+dynamic_antagonism:
+  mechanism: The 4's demand for control clashes with the fantasy's refusal to be pinned down; the grip meets what dissolves at the touch
+  tension_axis: holding the real versus chasing the illusory; maintaining security versus pursuing desire
+  four_of_pentacles_position: Tries to grasp and control the fantasy; believes if it could just hold it tight enough, it would become real
+  seven_of_cups_position: The illusion is seductive precisely because it cannot be held
+  key_terms: urged surrender, demanded possession, insisted holding, offered illusion
+
+dynamic_inhibition:
+  mechanism: The pursuit of the unreal stops the 4 from securing what is; the grip's energy goes into grasping at phantoms
+  blockade_nature: the real security becomes impossible when all effort goes to holding what cannot be held
+  pentacles_state: the holding becomes frantic, desperate, increasingly futile
+  consequence: exhaustion and the slow realization that there is nothing in the fist
+  key_terms: empty grip, frantic holding, futile possession, exhausted security
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive pursuit of what is not there; the holding becomes madness
+  mode: the grip tightens around emptiness; the possession becomes the refusal of what is real
+  loss: the genuine security the holding could have offered; reality itself is abandoned
+  key_terms: obsessive grasping, delusional holding, rejected reality, mad possession
+
+dynamic_dependency:
+  mechanism: The 4 needs the 7 to teach it the difference between substance and shadow; the illusion needs the grip to finally recognize the difference between what is and what seems
+  function: Pentacles-4 supplies the reality check that recognizes illusion; Cups-7 supplies the seductive dream that teaches the grip that not everything can or should be held
+  integration_outcome: a clarity that knows what is worth holding; security grounded in what is real
+  key_terms: grounded clarity, real security, released illusion, true possession
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, 8 of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Abandonment, departure, walking away, chosen leaving, emotional departure
+numerical_relation: 4 + 8 = 12 (XII The Hanged Man; possessive holding meets chosen departure; the grip faces what chooses to leave)
+elemental_bridge: Earth's firm possession meets Water's chosen flowing away; the holder is abandoned
+threshold_type: The grip abandoned; holding meeting the chosen departure
+
+dynamic_genesis:
+  mechanism: The 4 learns that possession does not ensure loyalty; the holding discovers that what is held may choose to leave
+  process: the resources secured and the control maintained are not enough to keep what wants to go; the grip discovers that love cannot be forced to stay
+  outcome: a holding made wise by abandonment; security that learned it cannot demand love
+  key_terms: learned wisdom, released grip, accepted departure, humbled holding
+
+dynamic_antagonism:
+  mechanism: The 4's insistence on permanence clashes with the 8's choice to walk away; the grip meets what has already let go internally
+  tension_axis: keeping what is held versus honoring the choice to depart; demanding loyalty versus accepting freedom
+  four_of_pentacles_position: Insists that leaving is betrayal; believes the held thing should be grateful for security
+  eight_of_cups_position: The resources held are not worth staying for; the heart must follow what it needs
+  key_terms: urged gratitude, refused obligation, insisted leaving, demanded loyalty
+
+dynamic_inhibition:
+  mechanism: The departure stops the grip's operation; the holding cannot maintain possession of what is no longer there
+  blockade_nature: the control becomes irrelevant when the controlled has already chosen to go
+  pentacles_state: the security becomes a shell; the holding is empty
+  consequence: the grip remains but there is nothing in it; the abandonment is total
+  key_terms: abandoned grip, empty holding, pointless possession, hollow security
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive attempts to prevent the departure; the holding becomes a pursuit of what is leaving
+  mode: the grip used to chain what wants to go; the possession becomes the reason it must escape
+  loss: the genuine love the holding could have expressed; the security becomes the prison that necessitates escape
+  key_terms: obsessive pursuit, enslaving holding, imprisoned escape, necessary departure
+
+dynamic_dependency:
+  mechanism: The 4 needs the 8 to teach it that love must choose to stay; the departure needs the holding to finally let go with grace
+  function: Pentacles-4 supplies the steadiness that can face abandonment; Cups-8 supplies the courage to leave that teaches the grip that some things must be released
+  integration_outcome: a wisdom that knows when to hold and when to bless the departure; security found in letting go
+  key_terms: graceful release, blessed departure, accepted leaving, wise holding
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, 9 of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Wish fulfillment, contentment, emotional satisfaction, satisfied desire, achieved happiness
+numerical_relation: 4 + 9 = 13 (XIII Death; possessive holding meets satisfied desire; the grip meets what is finally complete)
+elemental_bridge: Earth's firm possession meets Water's contentment; the holder discovers what is held is finally enough
+threshold_type: The grip satisfied; holding meeting fulfillment
+
+dynamic_genesis:
+  mechanism: The 4's holding finally achieves its goal; the security has preserved what was worth preserving, and the possession has yielded contentment
+  process: the resources held become the foundation for wish fulfillment; the grip's steadiness creates the stability where desire can rest; the control finally shows its wisdom
+  outcome: a holding that is justified; security that is proven by the happiness it has made possible
+  key_terms: justified holding, proven security, preserved happiness, grounded contentment
+
+dynamic_antagonism:
+  mechanism: The 4's demand for continued control clashes with the wish's satisfaction; the grip meets what no longer feels need
+  tension_axis: maintaining the grip versus allowing the wish to complete itself; control versus contentment
+  four_of_pentacles_position: Wants to keep the wish fulfilled and stable; fears that releasing will undo the achievement
+  nine_of_cups_position: The desire is satisfied; the wish is complete; further holding is unnecessary
+  key_terms: urged release, demanded maintenance, insisted completion, kept control
+
+dynamic_inhibition:
+  mechanism: The urge to keep holding onto the wish stops the contentment from fully settling; the grip prevents the wish from becoming rest
+  blockade_nature: the happiness cannot deepen when it is still being grasped rather than lived
+  pentacles_state: the holding becomes anxious; security becomes vigilance
+  consequence: the wish is fulfilled but never truly enjoyed because it is constantly defended
+  key_terms: anxious holding, defended happiness, unenjoyable wish, guarded contentment
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive preservation of the wish fulfillment; the holding becomes the destruction of what it achieved
+  mode: the grip used to ensure the happiness stays frozen forever; the possession becomes the bars of the paradise
+  loss: the genuine contentment the holding could have enabled; the wish becomes a cage
+  key_terms: obsessive preservation, frozen happiness, barred paradise, caged wish
+
+dynamic_dependency:
+  mechanism: The 4 needs the 9 to teach it that the goal of holding is not to keep forever but to allow the wish to be lived; the contentment needs the grip to have created the safety where happiness could arrive
+  function: Pentacles-4 supplies the persistence that makes wish fulfillment possible; Cups-9 supplies the contentment that teaches the grip that its work is done and the wish is now meant to be lived
+  integration_outcome: a holding that knows when it has succeeded and can release into joy; security that culminates in contentment
+  key_terms: fulfilled holding, lived wish, released joy, enjoyed security
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, 10 of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Family harmony, happiness, love's fulfillment, emotional completeness, belonging
+numerical_relation: 4 + 10 = 14 (XIV Temperance; possessive holding meets familial belonging; the grip learns to steward community)
+elemental_bridge: Earth's firm grasp meets Water's gathered love; the holder discovers what is held together is home
+threshold_type: The grip that shelters; holding becoming stewardship of family
+
+dynamic_genesis:
+  mechanism: The 4's holding becomes the shelter where family is safe; the grip discovers that its greatest power is creating the home where all can belong
+  process: the resources held become the foundation of family; the control exercised becomes the protection that allows intimacy; the possession becomes the stewardship of belonging
+  outcome: a holding that is generous; security that is also invitation; possession that creates home
+  key_terms: sheltered family, steward holding, created home, generous grip
+
+dynamic_antagonism:
+  mechanism: The 4's need for exclusive control clashes with the family's need for shared belonging; the grip meets what must be held collectively
+  tension_axis: controlling the family versus allowing it to be itself; individual possession versus collective home
+  four_of_pentacles_position: Wants to protect and control the family; fears that loosening grip will destroy what was built
+  ten_of_cups_position: The family is strong precisely because it is freely chosen and mutually held
+  key_terms: urged collective, demanded protection, insisted control, offered belonging
+
+dynamic_inhibition:
+  mechanism: The demand for absolute control stops the family from being truly whole; the grip that is too tight prevents the free movement of love
+  blockade_nature: the belonging becomes impossible when all power must flow through the holder
+  pentacles_state: the home becomes a hierarchy rather than a haven; holding becomes rule
+  consequence: the family is controlled but not truly united; belonging is enforced, not felt
+  key_terms: controlled family, forced belonging, hierarchical home, ruled household
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive control of the family; the holding becomes tyranny
+  mode: the grip used to enforce obedience; the possession becomes the reason the family must serve
+  loss: the genuine family love the holding could have sheltered; the home becomes a prison
+  key_terms: obsessive control, tyrannical holding, enslaved family, imprisoned belonging
+
+dynamic_dependency:
+  mechanism: The 4 needs the 10 to teach it that family is strong because it is freely held together; the family needs the grip to create the secure foundation where belonging can flourish
+  function: Pentacles-4 supplies the commitment that makes family endure; Cups-10 supplies the collective love that teaches the grip that power is strongest when it is shared
+  integration_outcome: a home held securely but freely; family stewardship that is both strong and tender
+  key_terms: secure family, shared stewardship, tender holding, lived belonging
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, Page of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Curiosity, emotional exploration, feeling-learning, youthful receptivity, openness
+numerical_relation: 4 + 11 = 15 (XV The Devil; possessive holding meets youthful curiosity; the grip holds what wants to explore)
+elemental_bridge: Earth's firm grasp meets Water's eager opening; the holder meets what is restless in its confinement
+threshold_type: The grip on the curious; holding meeting the urge to explore
+
+dynamic_genesis:
+  mechanism: The 4's security teaches the Page that exploration needs a safe base; the holding provides the foundation from which to venture
+  process: the grip becomes the home the Page returns to; the control becomes the reassurance that permits risk; the security allows genuine exploration because there is a shelter
+  outcome: a holding that enables adventure; security that makes curiosity possible
+  key_terms: enabled exploration, secure adventure, grounded curiosity, sheltered opening
+
+dynamic_antagonism:
+  mechanism: The 4's need to keep things controlled clashes with the Page's need to venture into the unknown; the grip meets what is restless
+  tension_axis: keeping close versus letting explore; maintaining control versus allowing discovery
+  four_of_pentacles_position: Wants to keep the Page safe and under watch; fears that exploration will lead to loss
+  page_of_cups_position: The world calls; the curiosity must be explored or it will fester
+  key_terms: urged security, demanded exploration, insisted safety, offered discovery
+
+dynamic_inhibition:
+  mechanism: The refusal to let go stops the exploration; the grip becomes the cage around curiosity
+  blockade_nature: the Page cannot grow when confined to the safe known; the grip prevents the very learning that would deepen
+  pentacles_state: the holding becomes imprisoning; security becomes stagnation
+  consequence: the Page remains safely ignorant; curiosity becomes resentment
+  key_terms: imprisoned curiosity, stagnant security, confined grip, frustrated opening
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive control of the Page; the holding becomes the reason for rebellion
+  mode: the grip so tight it drives the Page to desperate escape; the possession becomes the enemy
+  loss: the genuine mentorship the holding could have offered; the security becomes the prison
+  key_terms: obsessive grip, driven rebellion, necessary escape, imprisoned youth
+
+dynamic_dependency:
+  mechanism: The 4 needs the Page's openness to teach it that not all security requires control; the curiosity needs the grip to know where home is when the world becomes overwhelming
+  function: Pentacles-4 supplies the safety that makes true exploration possible; Cups-Page supplies the openness that teaches the grip that its greatest strength is creating a place to return to
+  integration_outcome: a holding that is home base rather than cage; security that enables discovery
+  key_terms: safe base, enabled exploration, rooted curiosity, held opening
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, Knight of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Romance, emotional action, passionate pursuit, love-driven action, heart's quest
+numerical_relation: 4 + 12 = 16 (XVI The Tower; possessive holding meets passionate pursuit; the grip faces the quest)
+elemental_bridge: Earth's firm possession meets Water's passionate movement; the holder meets what cannot be still
+threshold_type: The grip against motion; holding meeting active desire
+
+dynamic_genesis:
+  mechanism: The 4's holding is tested by the Knight's passion; the grip discovers that some things are stronger than control
+  process: the resources held become the knight's quest; the control becomes the ground from which the passion launches; the security becomes the reason the Knight can risk
+  outcome: a holding that is dynamically engaged; security that fuels rather than restrains
+  key_terms: engaged holding, passionate security, fueled grip, dynamic possession
+
+dynamic_antagonism:
+  mechanism: The 4's demand for stability clashes with the Knight's passion that will not settle; the grip meets what is in constant motion
+  tension_axis: maintaining control versus allowing the quest; secure stability versus passionate movement
+  four_of_pentacles_position: Wants the Knight to stay and settle; fears that the quest is recklessness
+  knight_of_cups_position: The heart demands to move; to stay is death
+  key_terms: urged stillness, demanded motion, insisted stability, offered quest
+
+dynamic_inhibition:
+  mechanism: The demand for control stops the quest; the grip becomes the chain around the passion
+  blockade_nature: the Knight cannot move while so tightly grasped; the quest cannot happen when the resource is held too close
+  pentacles_state: the holding becomes constraint; security becomes imprisonment
+  consequence: the passion is frustrated; the Knight is bound
+  key_terms: bound Knight, constrained passion, frustrated quest, imprisoning grip
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive control of the Knight; the holding becomes the reason for the passionate rebellion
+  mode: the grip so tight it forces the Knight into desperate flight; the possession becomes the enemy
+  loss: the genuine partnership the holding could have offered; the security becomes betrayal
+  key_terms: obsessive grip, enslaved passion, necessary rebellion, rejected holding
+
+dynamic_dependency:
+  mechanism: The 4 needs the Knight to teach it that passion is not recklessness if the base is secure; the quest needs the grip to provide the resources and courage for the adventure
+  function: Pentacles-4 supplies the security that makes the passionate quest possible; Cups-Knight supplies the courage that teaches the grip that its greatest gift is enabling the beloved's journey
+  integration_outcome: a holding that supports the quest; security that is both ground and inspiration
+  key_terms: supported quest, inspired grip, resourced passion, enabled adventure
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, Queen of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Emotional mastery, nurturing wisdom, intuitive understanding, emotional authority, compassion
+numerical_relation: 4 + 13 = 17 (XVII The Star; possessive holding meets nurturing mastery; the grip meets the mother)
+elemental_bridge: Earth's firm control meets Water's intuitive wisdom; the holder faces what is held with understanding
+threshold_type: The grip before wisdom; holding meeting understanding
+
+dynamic_genesis:
+  mechanism: The 4's holding becomes wise when informed by the Queen's intuition; the grip discovers that the best security includes tenderness
+  process: the resources held become the foundation for the Queen's care; the control becomes the steadiness that allows wisdom to flow; the security supports her work
+  outcome: a holding that is both firm and tender; security that includes compassion
+  key_terms: tender holding, supported wisdom, firm compassion, nurturing grip
+
+dynamic_antagonism:
+  mechanism: The 4's demand for control clashes with the Queen's need to give freely; the grip meets what must release to nurture
+  tension_axis: controlling the resource versus trusting it to be used wisely; maintaining possession versus allowing generous giving
+  four_of_pentacles_position: Wants to manage how the resources are used; fears that giving will waste what was built
+  queen_of_cups_position: The resources are meant to flow through her in service of care; control stops the giving
+  key_terms: urged trust, demanded management, insisted giving, kept control
+
+dynamic_inhibition:
+  mechanism: The demand for control stops the Queen's giving; the grip prevents the flow of care
+  blockade_nature: the nurturing becomes impossible when all resource must be managed and protected
+  pentacles_state: the holding becomes miserly; security becomes withholding
+  consequence: the Queen's wisdom goes untended; care cannot express itself
+  key_terms: withheld care, prevented giving, constrained wisdom, blocked nurture
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive control of the resources; the holding becomes the reason the Queen must rebel
+  mode: the grip so tight it chokes off the flow of care; the possession becomes the barrier to giving
+  loss: the genuine nurture the holding could have enabled; the security becomes the obstacle to compassion
+  key_terms: obsessive control, choked giving, enslaved care, blocked wisdom
+
+dynamic_dependency:
+  mechanism: The 4 needs the Queen to teach it that the greatest security is creating safety for others to give; the wisdom needs the grip to hold steady so care can flow
+  function: Pentacles-4 supplies the steadiness that makes the Queen's care sustainable; Cups-Queen supplies the wisdom that teaches the grip that power is expressed through supporting the giver
+  integration_outcome: a holding that enables generosity; security that supports compassionate action
+  key_terms: generous holding, enabled wisdom, supported care, flowing grip
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC
+
+---
+
+card_pair: 4 of Pentacles, King of Cups
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_cups: Emotional authority, heart's dominion, compassionate power, mastered feeling, authoritative love
+numerical_relation: 4 + 14 = 18 (XVIII The Moon; possessive holding meets emotional authority; the grip meets what commands)
+elemental_bridge: Earth's firm grasp meets Water's mastery; the holder encounters what cannot be dominated
+threshold_type: The grip before dominion; holding meeting rule
+
+dynamic_genesis:
+  mechanism: The 4's holding serves the King's emotional authority; the grip becomes the instrument of rule
+  process: the resources held become the foundation of the King's dominion; the control becomes the means through which his mastery is expressed; the security serves his command
+  outcome: a holding that is wielded by power; possession that implements rule
+  key_terms: wielded holding, implemented rule, served dominion, executed grip
+
+dynamic_antagonism:
+  mechanism: The 4's need for independent control clashes with the King's demand for total mastery; the grip meets what will dominate all things
+  tension_axis: maintaining personal power versus surrendering to the King's authority; independent control versus submitted grip
+  four_of_pentacles_position: Wants to maintain its own power; resists becoming only the instrument of another's will
+  king_of_cups_position: All resources are his to command; the grip is nothing but an extension of his rule
+  key_terms: urged submission, demanded independence, insisted command, offered power
+
+dynamic_inhibition:
+  mechanism: The demand for absolute submission stops the grip's independent operation; the holding becomes only what the King wills
+  blockade_nature: the control cannot remain one's own when the King commands all
+  pentacles_state: the holding becomes enslaved; the grip loses its own consciousness
+  consequence: the grip executes but does not choose
+  key_terms: enslaved grip, lost autonomy, demanded submission, empty holding
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive enforcement of the King's commands; the holding becomes tyranny
+  mode: the grip used to punish any resistance to the King's rule; the possession becomes the machinery of oppression
+  loss: the genuine security the holding could have offered; the control becomes the tool of another's tyranny
+  key_terms: obsessive obedience, enforced rule, enslaved grip, tyrannical holding
+
+dynamic_dependency:
+  mechanism: The 4 needs the King to teach it that ultimate power requires ultimate submission; the dominion needs the grip to hold steady so command can be executed
+  function: Pentacles-4 supplies the steadiness that implements the King's rule; Cups-King supplies the mastery that teaches the grip that true power is found in service to what is greater
+  integration_outcome: a holding that serves wise rule with full commitment; security that implements compassionate authority
+  key_terms: wise service, committed holding, implemented mastery, steady grip
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPC

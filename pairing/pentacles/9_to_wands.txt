@@ -1,0 +1,697 @@
+card_pair: 9 of Pentacles, Ace of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 9 + 1 = 10 (X The Wheel of Fortune; self-sufficiency meets creative spark; the solitary meets the new fire)
+elemental_bridge: Earth's prosperous solitude meets Fire's igniting spark; the self-sufficient meets the new flame of inspiration
+threshold_type: The abundance that funds the spark; independence meeting creative fire
+
+dynamic_genesis:
+  mechanism: The 9's earned abundance gives the Ace's spark the freedom to ignite without precarity; self-sufficiency funds the new fire from a base that needs no immediate return
+  process: the prosperous independence backs the spark from its own security; the self-sufficiency lets the inspiration kindle without the pressure of survival; the abundance funds the creative fire freely
+  outcome: a spark funded by self-sufficient abundance; the creative fire free to ignite from a secure, independent base
+  key_terms: funded spark, free ignition, secure base, backed inspiration
+
+dynamic_antagonism:
+  mechanism: The 9's settled contentment clashes with the Ace's restless urge to create; independence meets a spark that disturbs the prosperous peace with the demand to begin anew
+  tension_axis: the settled contentment versus the restless urge to create; the secure abundance versus the spark that wants to start
+  nine_of_pentacles_position: Is content with what it has built; the spark's restless urge threatens the settled peace
+  ace_of_wands_position: The fire wants to create now; the settled contentment has grown too comfortable to kindle
+  key_terms: urged creation, defended contentment, insisted ignition, kept peace
+
+dynamic_inhibition:
+  mechanism: The 9's settled comfort smothers the Ace's restless spark; the prosperous contentment has no hunger left to feed the creative fire
+  blockade_nature: the spark cannot ignite from a contentment too comfortable to want anything new
+  pentacles_state: the abundance smothers the spark; the self-sufficiency's comfort leaves no hunger to fuel the fire
+  consequence: the inspiration dies unkindled; the 9's settled comfort smothers the Ace's restless spark
+  key_terms: smothered spark, comfortable contentment, unkindled fire, settled abundance
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the abundance into a complacency that creates nothing new; independence becomes the prosperity so comfortable it lets every creative spark die
+  mode: the self-sufficiency used to rest so comfortably nothing new is ever begun; the abundance becomes the complacency that smothers all creative fire
+  loss: the genuine creation the spark offered; independence becomes the complacency that has confused settled comfort with fulfillment
+  key_terms: obsessive complacency, smothered creation, comfortable stagnation, killed spark
+
+dynamic_dependency:
+  mechanism: The 9 needs the Ace to keep its abundance creatively alive; the spark needs the independence to fund it from a secure base free of survival pressure
+  function: Pentacles-9 supplies the secure abundance that funds creation without survival pressure; Wands-Ace supplies the spark that teaches independence to keep its prosperity creatively alive
+  integration_outcome: a secure abundance that keeps creating from its freedom; the creative fire grounded in an independence prosperous enough to fund it freely
+  key_terms: creative abundance, funded fire, grounded independence, alive prosperity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, 2 of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 9 + 2 = 11 (XI Strength; self-sufficiency meets expanding vision; the solitary meets the planner)
+elemental_bridge: Earth's prosperous solitude meets Fire's expansive vision; the self-sufficient meets the planning ambition
+threshold_type: The abundance and the vision of more; independence meeting expansion
+
+dynamic_genesis:
+  mechanism: The 2's vision shows the 9 that its earned abundance could be the base for a greater dominion; ambition offers the self-sufficient prosperity a vision of expansion
+  process: the earned independence is shown how its abundance could expand; the self-sufficiency becomes the secure base from which a wider dominion is planned; the prosperity grounds the vision of more
+  outcome: an abundance become the base for expansion; the self-sufficient prosperity grounding a vision of greater dominion
+  key_terms: expanding abundance, grounded vision, secure base, planned dominion
+
+dynamic_antagonism:
+  mechanism: The 9's contentment with enough clashes with the 2's hunger for more; independence meets a vision that finds the prosperous solitude's contentment a failure of ambition
+  tension_axis: contentment with enough versus the hunger for more; the satisfied abundance versus the expanding vision
+  nine_of_pentacles_position: Is content with the abundance it earned; the hunger for more risks the peace it has won
+  two_of_wands_position: Contentment is stagnation; the abundance should be the base for far greater dominion
+  key_terms: urged expansion, defended contentment, insisted ambition, kept enough
+
+dynamic_inhibition:
+  mechanism: The 9's contentment refuses the 2's expansion; the satisfied self-sufficiency will not risk its won peace for a greater dominion
+  blockade_nature: the vision cannot expand while the abundance insists it already has enough
+  pentacles_state: the prosperity stays put; the self-sufficiency refuses the vision's expansion to protect its won contentment
+  consequence: the dominion goes unbuilt; the 9's contentment refuses the 2's vision of more
+  key_terms: refused expansion, satisfied stasis, protected contentment, unbuilt dominion
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the contentment into a fear of risking anything; independence becomes the prosperity so afraid of loss it can never grow
+  mode: the self-sufficiency used to refuse every risk that growth requires; the abundance becomes the fearful contentment that can never expand
+  loss: the genuine dominion the vision offered; independence becomes the fearful contentment that hoards its peace against all growth
+  key_terms: obsessive fear, refused risk, fearful contentment, hoarded peace
+
+dynamic_dependency:
+  mechanism: The 9 needs the 2 to keep its abundance from stagnating into mere contentment; the vision needs the independence to ground its expansion in a secure, earned base
+  function: Pentacles-9 supplies the secure earned base that grounds the vision's expansion; Wands-2 supplies the ambition that teaches independence to keep its abundance growing rather than stagnant
+  integration_outcome: an abundance that expands from its secure base without risking its peace recklessly; vision grounded in an independence prosperous enough to grow wisely
+  key_terms: wise expansion, secure growth, grounded independence, ambitious abundance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, 3 of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 9 + 3 = 12 (XII The Hanged Man; self-sufficiency meets forward enterprise; the solitary meets the venturer)
+elemental_bridge: Earth's prosperous solitude meets Fire's outbound enterprise; the self-sufficient meets the venture seeking horizons
+threshold_type: The abundance that ventures outward; independence meeting enterprise
+
+dynamic_genesis:
+  mechanism: The 3's outbound enterprise carries the 9's abundance into ventures beyond the solitude; foresight gives the self-sufficient prosperity a reach toward distant returns
+  process: the earned independence backs an enterprise reaching for distant horizons; the self-sufficiency funds the venture from its secure base; the abundance reaches outward through foresight
+  outcome: an abundance reaching outward through enterprise; the self-sufficient prosperity venturing toward distant returns
+  key_terms: venturing abundance, outbound enterprise, distant reach, funded foresight
+
+dynamic_antagonism:
+  mechanism: The 9's settled solitude clashes with the 3's outbound reach; independence meets an enterprise that would risk the won peace on distant, uncertain horizons
+  tension_axis: the settled solitude versus the outbound venture; the secure home versus the distant horizon
+  nine_of_pentacles_position: Has built its settled prosperity; the outbound venture risks the peace for uncertain distant returns
+  three_of_wands_position: The horizon calls; the settled solitude forgoes the greater returns waiting beyond
+  key_terms: urged venturing, defended settlement, insisted reach, kept solitude
+
+dynamic_inhibition:
+  mechanism: The 9's attachment to its settled prosperity refuses the 3's outbound venture; the won solitude will not risk itself on distant horizons
+  blockade_nature: the enterprise cannot reach outward while the abundance clings to its settled home
+  pentacles_state: the prosperity stays home; the self-sufficiency refuses the venture's reach to protect its settled peace
+  consequence: the distant returns go unsought; the 9's settled prosperity refuses the 3's outbound enterprise
+  key_terms: refused venture, settled prosperity, protected home, unsought returns
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the solitude into a prosperity that hoards itself and ventures nothing; independence becomes the abundance walled into a home it never leaves
+  mode: the self-sufficiency used to refuse every outbound risk; the prosperity becomes the walled home that ventures nothing and grows nowhere
+  loss: the genuine reach enterprise offered; independence becomes the hoarded home that has confused settled safety with a full life
+  key_terms: obsessive hoarding, walled home, ventured nothing, settled stagnation
+
+dynamic_dependency:
+  mechanism: The 9 needs the 3 to give its abundance an outbound reach; the enterprise needs the independence to fund its venture from a secure base it can afford to risk
+  function: Pentacles-9 supplies the secure base from which a venture can be afforded; Wands-3 supplies the foresight that teaches independence to reach its abundance outward toward distant returns
+  integration_outcome: an abundance that ventures outward from a secure base it can afford to risk; enterprise grounded in an independence prosperous enough to reach without ruin
+  key_terms: afforded venture, secure reach, grounded independence, outbound abundance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, 4 of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 9 + 4 = 13 (XIII Death; self-sufficiency meets communal celebration; the solitary meets the established home)
+elemental_bridge: Earth's prosperous solitude meets Fire's communal hearth; the self-sufficient meets the festival of establishment
+threshold_type: The solitary abundance and the communal hearth; independence meeting celebration
+
+dynamic_genesis:
+  mechanism: The 4's communal celebration opens the 9's solitary abundance into a shared establishment; the festival shows the self-sufficient the joy of a prosperity celebrated in company
+  process: the earned independence is opened to communal celebration; the self-sufficiency shares its abundance in the festival of establishment; the solitude becomes a hearth others gather around
+  outcome: a solitary abundance become a shared hearth; the self-sufficient prosperity celebrated in communal establishment
+  key_terms: shared hearth, communal establishment, celebrated abundance, opened solitude
+
+dynamic_antagonism:
+  mechanism: The 9's private prosperity clashes with the 4's communal celebration; independence meets a festival that would open the solitude's abundance to the demands of community
+  tension_axis: the private prosperity versus the communal celebration; the self-sufficient solitude versus the festival's demands
+  nine_of_pentacles_position: Prizes its private prosperity; the communal celebration brings demands the solitude prefers to avoid
+  four_of_wands_position: The hearth is for sharing; private prosperity celebrated alone is no celebration at all
+  key_terms: urged sharing, defended privacy, insisted celebration, kept solitude
+
+dynamic_inhibition:
+  mechanism: The 9's private solitude refuses the 4's communal celebration; the self-sufficiency declines the festival that would open its abundance to community
+  blockade_nature: the communal hearth cannot form while the prosperity guards its privacy against the festival
+  pentacles_state: the abundance stays private; the self-sufficiency keeps the celebration from opening its solitude to community
+  consequence: the shared hearth never forms; the 9's private prosperity refuses the 4's communal celebration
+  key_terms: refused celebration, private abundance, guarded solitude, unformed hearth
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the privacy into a prosperity that shuts out all community; independence becomes the abundance walled against the festival it could have hosted
+  mode: the self-sufficiency used to refuse every communal claim; the prosperity becomes the walled privacy that hosts no one and celebrates nothing
+  loss: the genuine communal joy the festival offered; independence becomes the walled privacy that has confused guarding its abundance with enjoying it
+  key_terms: obsessive privacy, walled prosperity, refused community, unhosted hearth
+
+dynamic_dependency:
+  mechanism: The 9 needs the 4 to open its abundance into shared celebration; the celebration needs the independence to provide the prosperous hearth a community can gather around
+  function: Pentacles-9 supplies the prosperous abundance that makes a hearth worth gathering around; Wands-4 supplies the communal celebration that teaches independence to open its prosperity into a shared establishment
+  integration_outcome: a prosperous abundance become a shared hearth a community celebrates; communal establishment grounded in an independence whole enough to host without losing itself
+  key_terms: hosting abundance, shared celebration, grounded independence, communal hearth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, 5 of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Conflict, competition, struggle, contested victory
+numerical_relation: 9 + 5 = 14 (XIV Temperance; self-sufficiency meets open conflict; the solitary meets the competition)
+elemental_bridge: Earth's prosperous solitude meets Fire's competitive scramble; the self-sufficient meets the contest of rivals
+threshold_type: The abundance withdrawn from the fray; independence meeting competition
+
+dynamic_genesis:
+  mechanism: The 9's self-sufficiency gives it the freedom to decline the 5's pointless scrambles; the earned abundance lets the independence choose which contests are worth entering
+  process: the prosperous independence picks its battles from a secure base; the self-sufficiency declines the contests it need not enter; the abundance frees it from the scramble for scraps
+  outcome: a freedom to choose its contests; the self-sufficient abundance declining the scrambles it need not enter
+  key_terms: chosen contests, declined scramble, free choice, secure abundance
+
+dynamic_antagonism:
+  mechanism: The 9's withdrawal from the fray clashes with the 5's insistence that all must compete; independence meets a competition that reads the self-sufficient's aloofness as cowardice
+  tension_axis: the freedom to decline contests versus the insistence that all must compete; aloof abundance versus the scramble
+  nine_of_pentacles_position: Need not scramble for what it already has; declines the pointless contest
+  five_of_wands_position: All must compete; the aloof withdrawal is cowardice dressed as self-sufficiency
+  key_terms: urged competing, defended withdrawal, insisted scramble, kept aloof
+
+dynamic_inhibition:
+  mechanism: The 5's scramble cannot draw the 9 in; the self-sufficiency declines the contest, leaving the competition unable to engage it
+  blockade_nature: the competition cannot pull in one whose abundance makes the scramble unnecessary
+  pentacles_state: the prosperity stays aloof; the self-sufficiency declines the contest the 5 cannot make it enter
+  consequence: the contest passes the 9 by; the self-sufficiency's aloofness leaves the 5's scramble unable to engage it
+  key_terms: declined contest, aloof prosperity, ungaged competition, unscrambled abundance
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the self-sufficiency into a smug refusal to ever compete or be tested; independence becomes the abundance that mistakes never striving for being above striving
+  mode: the prosperity used to look down on all who must compete; the self-sufficiency becomes the smugness that never tests itself against anyone
+  loss: the genuine sharpening contest can give; independence becomes the smug aloofness that has confused never competing with being superior
+  key_terms: obsessive smugness, refused testing, aloof superiority, untested abundance
+
+dynamic_dependency:
+  mechanism: The 9 needs the 5 to teach it which contests are genuinely worth entering; the competition needs the independence to compete from choice rather than desperation
+  function: Pentacles-9 supplies the secure base that lets contests be chosen rather than forced; Wands-5 supplies the competition that teaches independence which fights are genuinely worth its strength
+  integration_outcome: contests chosen wisely from a secure base rather than declined from smugness or forced by desperation; competition grounded in an independence that fights from choice
+  key_terms: chosen contest, secure choice, grounded independence, wise competition
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, 6 of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 9 + 6 = 15 (XV The Devil; self-sufficiency meets public victory; the solitary meets the triumphant)
+elemental_bridge: Earth's prosperous solitude meets Fire's public triumph; the self-sufficient meets the laurel of recognition
+threshold_type: The quiet abundance and the public laurel; independence meeting recognition
+
+dynamic_genesis:
+  mechanism: The 6's public victory offers the 9's quiet abundance the recognition it never sought; triumph honors the self-sufficient prosperity that earned its success without acclaim
+  process: the earned independence is offered public recognition; the self-sufficiency that built quietly is honored with the laurel; the prosperity's achievement is acknowledged
+  outcome: a quiet abundance offered public recognition; the self-sufficient prosperity's achievement honored with deserved acclaim
+  key_terms: recognized abundance, honored prosperity, deserved acclaim, acknowledged achievement
+
+dynamic_antagonism:
+  mechanism: The 9's private contentment clashes with the 6's public acclaim; independence meets a victory that wants display where the self-sufficient solitude is content without recognition
+  tension_axis: the private contentment versus the public acclaim; the self-sufficient quiet versus the displayed triumph
+  nine_of_pentacles_position: Is content without acclaim; the public display threatens the quiet it prizes
+  six_of_wands_position: The achievement deserves recognition; quiet contentment buries a success worth displaying
+  key_terms: urged display, defended privacy, insisted acclaim, kept quiet
+
+dynamic_inhibition:
+  mechanism: The 9's private contentment refuses the 6's acclaim; the self-sufficiency declines the recognition it does not need
+  blockade_nature: the public honor cannot land while the prosperity is content to remain unrecognized
+  pentacles_state: the achievement stays private; the self-sufficiency declines the acclaim the 6 would give it
+  consequence: the recognition is declined; the 9's private contentment refuses the 6's public acclaim
+  key_terms: declined acclaim, private achievement, refused recognition, quiet prosperity
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the privacy into a false modesty that secretly craves the acclaim it refuses; independence becomes the prosperity that performs humility while resenting being overlooked
+  mode: the self-sufficiency used to refuse acclaim while secretly resenting its absence; the privacy becomes the false modesty that craves the recognition it pretends to decline
+  loss: the genuine contentment privacy could give; independence becomes the false modesty that neither enjoys its quiet nor accepts its acclaim
+  key_terms: obsessive false-modesty, secret craving, performed humility, resented obscurity
+
+dynamic_dependency:
+  mechanism: The 9 needs the 6 to let its achievement be recognized when recognition serves; the victory needs the independence to make its acclaim the honoring of real, quietly earned achievement
+  function: Pentacles-9 supplies the quietly earned achievement worthy of recognition; Wands-6 supplies the public acclaim that teaches independence to let its real achievement be honored when it serves
+  integration_outcome: a quietly earned achievement honored with recognition it can accept gracefully; acclaim grounded in an independence content enough to neither crave nor refuse it
+  key_terms: graceful recognition, honored achievement, grounded independence, accepted acclaim
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, 7 of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 9 + 7 = 16 (XVI The Tower; self-sufficiency meets defensive stand; the solitary meets the defender)
+elemental_bridge: Earth's prosperous solitude meets Fire's defended position; the self-sufficient meets the one who holds ground
+threshold_type: The abundance that must be defended; independence meeting resilience
+
+dynamic_genesis:
+  mechanism: The 7's resilience teaches the 9 to defend the independence it earned; standing ground guards the prosperous solitude against those who would encroach on it
+  process: the earned abundance learns to defend its hard-won independence; the self-sufficiency gains the resilience to guard what it built; the prosperity holds its ground against encroachment
+  outcome: an independence defended with resilience; the self-sufficient abundance guarding the solitude it earned
+  key_terms: defended independence, guarded abundance, resilient solitude, held ground
+
+dynamic_antagonism:
+  mechanism: The 9's peaceable contentment clashes with the 7's embattled vigilance; independence meets a resilience that sees threats where the prosperous solitude wants only peace
+  tension_axis: the peaceable contentment versus the embattled vigilance; the wish for peace versus the constant defense
+  nine_of_pentacles_position: Wants only to enjoy its peace; the constant vigilance poisons the contentment it earned
+  seven_of_wands_position: The independence must be defended; peaceable contentment invites the encroachment that will take it
+  key_terms: urged vigilance, defended peace, insisted defense, kept contentment
+
+dynamic_inhibition:
+  mechanism: The 7's embattled vigilance poisons the 9's peace; the constant defense leaves no room for the contentment the abundance was meant to provide
+  blockade_nature: the peaceable enjoyment cannot settle while every moment is given to defending against encroachment
+  pentacles_state: the prosperity is consumed by vigilance; the self-sufficiency cannot enjoy what it must constantly defend
+  consequence: the peace is poisoned; the 7's embattled vigilance denies the 9 the contentment its abundance earned
+  key_terms: poisoned peace, embattled vigilance, consumed contentment, defended abundance
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the defense into paranoid hoarding; independence becomes the prosperity so afraid of losing its abundance it can never enjoy it
+  mode: the self-sufficiency defended so paranoidly it becomes a siege; the abundance becomes the hoarding that guards against everyone and enjoys nothing
+  loss: the genuine peace the abundance was meant to give; independence becomes the paranoid siege that defends a prosperity it has forgotten how to enjoy
+  key_terms: obsessive paranoia, hoarding siege, guarded abundance, unenjoyed prosperity
+
+dynamic_dependency:
+  mechanism: The 9 needs the 7 to defend its independence when it is genuinely threatened; the resilience needs the independence to know what is worth defending and when to rest in peace
+  function: Pentacles-9 supplies the prosperous peace that resilience defends and the judgment of when defense is needed; Wands-7 supplies the resilience that teaches independence to guard its hard-won abundance against genuine threat
+  integration_outcome: an independence defended when genuinely threatened and enjoyed in peace otherwise; resilience grounded in a prosperity that knows when to guard and when to rest
+  key_terms: judged defense, enjoyed peace, grounded independence, guarded contentment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, 8 of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 9 + 8 = 17 (XVII The Star; self-sufficiency meets swift momentum; the solitary meets the rushing arrows)
+elemental_bridge: Earth's prosperous solitude meets Fire's rapid flight; the self-sufficient meets the quickening rush
+threshold_type: The settled abundance and the swift rush; independence meeting momentum
+
+dynamic_genesis:
+  mechanism: The 8's momentum offers the 9's settled abundance the freedom to move swiftly when opportunity arrives; self-sufficiency provides the secure base from which rapid action can be taken without recklessness
+  process: the earned independence acts swiftly from its secure base; the self-sufficiency seizes swift opportunity without risking everything; the prosperity moves fast because it can afford to
+  outcome: swift action from a secure base; the self-sufficient abundance able to move rapidly because its security affords the speed
+  key_terms: swift action, secure base, afforded speed, momentum from abundance
+
+dynamic_antagonism:
+  mechanism: The 9's settled pace clashes with the 8's demand for speed; independence meets a momentum that disturbs the prosperous solitude's measured ease
+  tension_axis: the settled measured pace versus the swift rush; the prosperous ease versus the accelerated movement
+  nine_of_pentacles_position: Has earned the right to a measured pace; the swift rush disturbs the ease it worked for
+  eight_of_wands_position: The moment demands speed; the settled measured pace lets the swift opportunity pass
+  key_terms: urged speed, defended ease, insisted momentum, kept measured
+
+dynamic_inhibition:
+  mechanism: The 9's settled ease cannot match the 8's swift momentum; the measured prosperity misses the rapid opportunity by moving at its earned, unhurried pace
+  blockade_nature: the swift opportunity cannot be caught by a prosperity content to move at its measured ease
+  pentacles_state: the abundance moves too slowly; the self-sufficiency's earned ease misses the rapid moment
+  consequence: the swift opportunity passes; the 9's settled ease cannot match the 8's momentum
+  key_terms: missed opportunity, settled ease, slow abundance, passed moment
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the earned ease into a sloth that lets every opportunity pass; independence becomes the prosperity so settled it can no longer move at all
+  mode: the self-sufficiency used to justify never hurrying for anything; the ease becomes the sloth that lets all momentum and opportunity pass
+  loss: the genuine opportunities swift action could seize; independence becomes the sloth that has confused earned ease with the inability to move
+  key_terms: obsessive sloth, settled inertia, passed opportunity, immobile abundance
+
+dynamic_dependency:
+  mechanism: The 9 needs the 8 to keep its abundance able to move when it must; the momentum needs the independence to ground its speed in a security that affords decisive action
+  function: Pentacles-9 supplies the secure base that affords decisive swift action; Wands-8 supplies the momentum that teaches independence to move swiftly when opportunity genuinely calls
+  integration_outcome: a settled abundance that can still move swiftly when opportunity calls; momentum grounded in an independence secure enough to afford decisive speed
+  key_terms: decisive speed, afforded momentum, grounded independence, mobile abundance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, 9 of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 9 + 9 = 18 (XVIII The Moon; self-sufficiency meets tested endurance; the solitary meets the weathered defender)
+elemental_bridge: Earth's prosperous solitude meets Fire's tested endurance; the self-sufficient meets the weathered perseverance
+threshold_type: The abundance that endurance earned; independence meeting endurance
+
+dynamic_genesis:
+  mechanism: The 9 of Wands' tested endurance is the discipline that earned the 9 of Pentacles' abundance; the perseverance and the prosperity reveal themselves as the labor and the reward of the same long effort
+  process: the earned independence recognizes the endurance that built it; the self-sufficiency honors the perseverance it required; the abundance is seen as the fruit of the long, disciplined effort
+  outcome: an abundance recognized as the fruit of endurance; the self-sufficient prosperity honoring the perseverance that earned it
+  key_terms: earned abundance, honored endurance, fruit of perseverance, disciplined prosperity
+
+dynamic_antagonism:
+  mechanism: The 9 of Pentacles' enjoyment of its rest clashes with the 9 of Wands' inability to stop being vigilant; independence meets an endurance still braced for a struggle the prosperity has already won
+  tension_axis: the enjoyment of earned rest versus the endurance still braced for struggle; resting in the abundance versus the unrelenting vigilance
+  nine_of_pentacles_position: Has won its abundance and wants to rest in it; the unrelenting vigilance refuses the rest it earned
+  nine_of_wands_position: Cannot stop bracing for the next blow; resting in the abundance feels like dropping the guard
+  key_terms: urged rest, defended vigilance, insisted enjoyment, kept braced
+
+dynamic_inhibition:
+  mechanism: The 9 of Wands' inability to stop bracing prevents the 9 of Pentacles from enjoying its rest; the endurance's vigilance refuses the prosperity the rest it has earned
+  blockade_nature: the earned rest cannot settle while the endurance remains braced for a struggle already won
+  pentacles_state: the abundance cannot be enjoyed; the self-sufficiency is denied its rest by the endurance that will not stand down
+  consequence: the earned rest is refused; the 9 of Wands' bracing denies the 9 of Pentacles the enjoyment its abundance won
+  key_terms: refused rest, braced vigilance, denied enjoyment, unrested abundance
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into a prosperity that cannot stop working for fear of losing it, or a rest so complete the discipline that earned it decays; either the abundance never rests or the endurance rots
+  mode: the endurance unable to stop working even in abundance, or the rest so total the disciplined strength decays; either the prosperity never rests or the endurance that earned it rots
+  loss: the union of earned rest and maintained discipline; the prosperity becomes either the restless overwork or the decaying ease
+  key_terms: obsessive extremes, restless overwork, decaying ease, lost balance
+
+dynamic_dependency:
+  mechanism: The 9 of Pentacles needs the 9 of Wands to recognize the struggle is won and the rest is earned; the endurance needs the abundance to be the reward that finally justifies standing down
+  function: Pentacles-9 supplies the earned abundance that is the reward justifying the endurance's rest; Wands-9 supplies the tested perseverance that teaches independence the abundance was genuinely earned and may be enjoyed
+  integration_outcome: an earned abundance enjoyed as the just reward of tested endurance; perseverance grounded in a prosperity that finally justifies standing down to rest
+  key_terms: earned rest, justified abundance, grounded endurance, enjoyed prosperity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, 10 of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 9 + 10 = 19 (XIX The Sun; self-sufficiency meets crushing burden; the solitary meets the overloaded)
+elemental_bridge: Earth's prosperous solitude meets Fire's crushing load; the self-sufficient meets the overburdened
+threshold_type: The abundance and the burden it could lift; independence meeting burden
+
+dynamic_genesis:
+  mechanism: The 9's abundance can lift the 10's crushing load; the self-sufficient prosperity has the means to relieve the burden that exhausts the overloaded
+  process: the earned independence uses its abundance to lighten the crushing load; the self-sufficiency relieves the burden from its secure surplus; the prosperity has the means to share the weight
+  outcome: a crushing burden lightened by abundance; the self-sufficient prosperity relieving the load from its surplus
+  key_terms: lightened burden, relieving abundance, shared load, surplus relief
+
+dynamic_antagonism:
+  mechanism: The 9's reluctance to take on others' burdens clashes with the 10's crushing need; independence meets a load that would draw the self-sufficient solitude into responsibilities it prefers to avoid
+  tension_axis: the reluctance to take on burdens versus the crushing need; the unencumbered solitude versus the load that asks for help
+  nine_of_pentacles_position: Prizes its unencumbered solitude; taking on the burden threatens the freedom it earned
+  ten_of_wands_position: The load is crushing; the abundance that could lift it stands aloof in its freedom
+  key_terms: urged helping, defended freedom, insisted burden, kept unencumbered
+
+dynamic_inhibition:
+  mechanism: The 9's prizing of its unencumbered freedom refuses the 10's crushing need; the self-sufficiency will not take on the burden that would compromise its solitude
+  blockade_nature: the burden cannot be lifted while the abundance guards its unencumbered freedom against all responsibility
+  pentacles_state: the prosperity stays aloof; the self-sufficiency refuses the load to protect its freedom from encumbrance
+  consequence: the burden goes unlightened; the 9's prized freedom refuses the 10's crushing need
+  key_terms: refused burden, aloof freedom, guarded solitude, unlightened load
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the freedom into an indifference to others' burdens; independence becomes the abundance that prides itself on owing no one anything while others are crushed
+  mode: the self-sufficiency used to justify never lifting another's load; the freedom becomes the indifference that watches others be crushed while guarding its own ease
+  loss: the genuine relief the abundance could give; independence becomes the indifference that has confused owing nothing with owing no compassion
+  key_terms: obsessive indifference, guarded ease, refused relief, unfelt burden
+
+dynamic_dependency:
+  mechanism: The 9 needs the 10 to teach it that abundance is also the means to relieve others; the burden needs the independence to share its surplus without losing the freedom that makes the sharing a gift
+  function: Pentacles-9 supplies the surplus abundance that can relieve a crushing load; Wands-10 supplies the felt burden that teaches independence that its freedom includes the means to lighten others' weight
+  integration_outcome: a crushing burden lightened by surplus abundance freely given; the load relieved by an independence whole enough to help without being encumbered
+  key_terms: freely lightened, surplus relief, grounded independence, shared weight
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, Page of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 9 + 11 = 20 (XX Judgement; self-sufficiency meets youthful enthusiasm; the solitary meets the eager spark)
+elemental_bridge: Earth's prosperous solitude meets Fire's eager young flame; the self-sufficient meets the burning enthusiasm
+threshold_type: The settled abundance and the eager spark; independence meeting enthusiasm
+
+dynamic_genesis:
+  mechanism: The Page's eager enthusiasm reminds the 9 of the fire that first built its abundance; youthful energy rekindles the drive beneath the settled prosperity
+  process: the earned independence is rekindled by the Page's eager fire; the self-sufficiency remembers the enthusiasm that built it; the settled prosperity is reanimated by youthful energy
+  outcome: a settled abundance rekindled by eager enthusiasm; the prosperous solitude reanimated by the fire that first built it
+  key_terms: rekindled abundance, eager fire, reanimated prosperity, remembered drive
+
+dynamic_antagonism:
+  mechanism: The 9's settled comfort clashes with the Page's restless enthusiasm; independence meets an eagerness that finds the prosperous contentment a betrayal of the fire that built it
+  tension_axis: the settled comfort versus the restless enthusiasm; the earned ease versus the burning eagerness
+  nine_of_pentacles_position: Has earned the right to settle; the restless enthusiasm seems naive about the rest it won
+  page_of_wands_position: The fire should never settle; the comfortable contentment has betrayed the eagerness that built it
+  key_terms: urged enthusiasm, defended comfort, insisted fire, kept settled
+
+dynamic_inhibition:
+  mechanism: The 9's settled comfort dampens the Page's eager fire; the prosperous contentment teaches the young enthusiasm that the goal is to stop striving
+  blockade_nature: the eager fire cannot stay alive against a prosperity that models settling as the goal
+  pentacles_state: the abundance dampens the spark; the settled self-sufficiency teaches the Page's fire to aim only at rest
+  consequence: the enthusiasm is dampened; the 9's settled comfort teaches the Page's eager fire to stop striving
+  key_terms: dampened enthusiasm, settled comfort, modeled rest, cooled fire
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the abundance into a complacency that teaches the young to aim only at comfortable stopping; independence becomes the prosperity that models settling as the death of all fire
+  mode: the self-sufficiency used to teach the young that the goal is to stop and rest; the abundance becomes the complacency that snuffs the eager fire it should have rekindled
+  loss: the genuine enthusiasm the Page brought; independence becomes the complacency that teaches the young to confuse settling with arriving
+  key_terms: obsessive complacency, snuffed enthusiasm, modeled stopping, settled death
+
+dynamic_dependency:
+  mechanism: The 9 needs the Page to keep its abundance from settling into complacency; the enthusiasm needs the independence to show that its eager fire can build something lasting and secure
+  function: Pentacles-9 supplies the secure abundance that shows enthusiasm what its fire can build and keep; Wands-Page supplies the eager fire that teaches independence to keep its prosperity from settling into complacency
+  integration_outcome: a settled abundance kept alive by eager fire and an enthusiasm shown what it can build; the young fire grounded in an independence that proves striving can earn a lasting security
+  key_terms: alive abundance, building fire, grounded independence, lasting enthusiasm
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, Knight of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 9 + 12 = 21 (XXI The World; self-sufficiency meets bold action; the solitary meets the adventurer)
+elemental_bridge: Earth's prosperous solitude meets Fire's bold charge; the self-sufficient meets the headlong adventurer
+threshold_type: The settled abundance and the bold adventure; independence meeting bold action
+
+dynamic_genesis:
+  mechanism: The Knight's bold action offers the 9's settled abundance the adventure its security can afford; self-sufficiency funds the bold pursuit from a base it can risk
+  process: the earned independence funds a bold adventure from its secure surplus; the self-sufficiency can afford the risk the boldness requires; the prosperity backs the headlong pursuit
+  outcome: a bold adventure funded by secure abundance; the self-sufficient prosperity affording the risk that boldness requires
+  key_terms: funded adventure, afforded boldness, secure risk, backed pursuit
+
+dynamic_antagonism:
+  mechanism: The 9's prized stability clashes with the Knight's reckless boldness; independence meets an action that would risk the won security on a headlong adventure
+  tension_axis: the prized stability versus the reckless boldness; the secure prosperity versus the headlong risk
+  nine_of_pentacles_position: Prizes the stability it earned; the reckless boldness risks the security it worked for
+  knight_of_wands_position: The adventure cannot wait; the prized stability is the cage that boldness must break
+  key_terms: urged boldness, defended stability, insisted adventure, kept security
+
+dynamic_inhibition:
+  mechanism: The 9's prized stability refuses the Knight's bold risk; the won security will not be staked on a headlong adventure
+  blockade_nature: the bold adventure cannot launch while the prosperity guards its hard-won stability against all risk
+  pentacles_state: the abundance stays safe; the self-sufficiency refuses the bold risk to protect its won stability
+  consequence: the adventure goes untaken; the 9's prized stability refuses the Knight's bold pursuit
+  key_terms: refused risk, guarded stability, safe abundance, untaken adventure
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the stability into a timidity that never risks anything; independence becomes the prosperity so afraid of losing its security it never lives boldly
+  mode: the self-sufficiency used to refuse every bold risk; the stability becomes the timidity that hoards its security and never adventures
+  loss: the genuine living bold adventure offered; independence becomes the timidity that has confused guarding its security with living
+  key_terms: obsessive timidity, hoarded security, refused adventure, guarded stability
+
+dynamic_dependency:
+  mechanism: The 9 needs the Knight to spend some of its security on bold living; the bold action needs the independence to fund its adventure from a base it can genuinely afford to risk
+  function: Pentacles-9 supplies the secure base that can afford a measured bold risk; Wands-Knight supplies the bold action that teaches independence to spend some of its security on genuinely living
+  integration_outcome: a bold adventure funded from a security it can afford to risk; boldness grounded in an independence prosperous enough to live adventurously without ruin
+  key_terms: afforded adventure, measured risk, grounded independence, bold living
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, Queen of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 9 + 13 = 22 → 2+2=4 (IV The Emperor; self-sufficiency meets magnetic leadership; the solitary meets the charismatic)
+elemental_bridge: Earth's prosperous solitude meets Fire's radiant magnetism; the self-sufficient meets the charismatic leader
+threshold_type: The quiet abundance and the radiant leader; independence meeting magnetic leadership
+
+dynamic_genesis:
+  mechanism: The Queen's charisma offers the 9's quiet abundance a magnetic presence; self-sufficiency given charisma draws others to the independence it built
+  process: the earned independence is given charismatic presence; the self-sufficiency learns to draw and inspire others toward its prosperity; the quiet abundance becomes magnetic
+  outcome: a quiet abundance given magnetic presence; the self-sufficient prosperity drawing others through charismatic leadership
+  key_terms: magnetic abundance, charismatic independence, drawing prosperity, inspiring solitude
+
+dynamic_antagonism:
+  mechanism: The 9's contented privacy clashes with the Queen's radiant need to be seen; independence meets a charisma that would draw the self-sufficient solitude into a spotlight it does not want
+  tension_axis: the contented privacy versus the radiant need to be seen; the quiet self-sufficiency versus the magnetic spotlight
+  nine_of_pentacles_position: Is content in its private prosperity; the magnetic spotlight threatens the quiet it prizes
+  queen_of_wands_position: Charisma draws and inspires; the quiet privacy wastes the magnetism the abundance could have
+  key_terms: urged magnetism, defended privacy, insisted radiance, kept quiet
+
+dynamic_inhibition:
+  mechanism: The 9's contented privacy refuses the Queen's radiant magnetism; the self-sufficiency declines the spotlight it does not need
+  blockade_nature: the magnetic presence cannot draw others while the prosperity guards its contented privacy
+  pentacles_state: the abundance stays quiet; the self-sufficiency declines the charisma that would draw others to it
+  consequence: the magnetism goes unused; the 9's contented privacy refuses the Queen's radiant leadership
+  key_terms: declined magnetism, quiet privacy, refused spotlight, unused charisma
+
+dynamic_devolution:
+  mechanism: The pairing corrupts into either a charisma with no substance behind its draw or a substance so private it inspires no one; either the magnetism is hollow or the abundance is hidden
+  mode: the charisma drawing others on radiance with no real abundance behind it, or the self-sufficiency so private it inspires no one; either the magnetism is hollow or the substance is hidden
+  loss: the union of real abundance and inspiring magnetism; the leadership becomes either the hollow charisma or the hidden prosperity
+  key_terms: obsessive extremes, hollow charisma, hidden abundance, lost inspiration
+
+dynamic_dependency:
+  mechanism: The 9 needs the Queen to give its abundance an inspiring presence when it serves; the charisma needs the independence to give its magnetism the real substance of earned prosperity
+  function: Pentacles-9 supplies the real earned substance that makes charisma inspiring rather than hollow; Wands-Queen supplies the magnetic leadership that teaches independence to inspire others with the abundance it built
+  integration_outcome: a real abundance given inspiring magnetic presence when it serves; charisma grounded in an independence whose earned prosperity gives the magnetism genuine substance
+  key_terms: substantial charisma, inspiring abundance, grounded independence, magnetic substance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW
+
+---
+
+card_pair: 9 of Pentacles, King of Wands
+archetype_pentacles: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 9 + 14 = 23 → 2+3=5 (V The Pope; self-sufficiency meets commanding vision; the solitary meets the visionary king)
+elemental_bridge: Earth's prosperous solitude meets Fire's commanding vision; the self-sufficient meets the visionary king
+threshold_type: The self-made abundance and the commanding vision; independence meeting commanding power
+
+dynamic_genesis:
+  mechanism: The King's commanding vision offers the 9's self-made abundance a dominion to build; self-sufficiency becomes the foundation from which a visionary's wider rule is established
+  process: the earned independence becomes the base for a commanding dominion; the self-sufficiency funds and grounds the visionary's rule; the abundance becomes the foundation of a wider realm
+  outcome: a self-made abundance become the foundation of dominion; the self-sufficient prosperity grounding a visionary's commanding rule
+  key_terms: founding abundance, grounded dominion, base of rule, self-made foundation
+
+dynamic_antagonism:
+  mechanism: The 9's self-made independence clashes with the King's commanding authority; the self-sufficient solitude that answers to no one meets a vision that would have it serve a dominion
+  tension_axis: the self-made independence answering to no one versus the commanding dominion; serving only itself versus serving the vision
+  nine_of_pentacles_position: Answers to no one; the commanding vision would subordinate the independence it built alone
+  king_of_wands_position: The abundance should serve a wider dominion; the self-made independence wastes itself answering only to itself
+  key_terms: urged service, defended independence, insisted dominion, kept self-made
+
+dynamic_inhibition:
+  mechanism: The 9's self-made independence refuses the King's commanding vision; the self-sufficiency that answers to no one will not subordinate itself to a wider dominion
+  blockade_nature: the commanding vision cannot enlist an abundance that insists on answering only to itself
+  pentacles_state: the prosperity stays its own; the self-sufficiency refuses the vision that would have it serve a dominion beyond itself
+  consequence: the wider dominion goes unbuilt; the 9's self-made independence refuses the King's commanding vision
+  key_terms: refused service, self-made independence, unbuilt dominion, answered-to-none
+
+dynamic_devolution:
+  mechanism: The 9 corrupts the independence into a solipsism that serves nothing beyond itself, or the King's vision absorbs the abundance until no independence remains; either the prosperity serves nothing or it is enslaved
+  mode: the self-sufficiency refusing all wider purpose into solipsism, or the vision absorbing the abundance until the independence is enslaved; either the prosperity serves nothing or it is consumed
+  loss: the union of self-made independence and wider commanding purpose; the abundance becomes either the solipsistic self-service or the enslaved instrument
+  key_terms: obsessive extremes, solipsistic self-service, enslaved instrument, lost independence
+
+dynamic_dependency:
+  mechanism: The 9 needs the King to give its abundance a purpose beyond itself; the vision needs the independence to keep its dominion grounded in a self-made, genuinely owned foundation
+  function: Pentacles-9 supplies the self-made foundation that grounds the vision in genuinely owned abundance; Wands-King supplies the commanding vision that teaches independence to serve a purpose wider than itself
+  integration_outcome: a self-made abundance serving a wider commanding vision while keeping its genuine ownership; dominion grounded in an independence whose self-made foundation it builds upon without enslaving
+  key_terms: purposeful abundance, owned foundation, grounded independence, served vision
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 9-1 through 9-14
+  uid: 9OPW

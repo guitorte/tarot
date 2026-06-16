@@ -1,0 +1,697 @@
+card_pair: 3 of Pentacles, Ace of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Emotional opening, love, receptivity, new feeling, overflowing heart
+numerical_relation: 3 + 1 = 4 (IV The Emperor; the shared workbench meets the welling heart; craft offered to feeling)
+elemental_bridge: Earth's joined hands meet Water's first opening; the work made together meets the feeling that would soften it
+threshold_type: The crafted gift and the open heart; skill meeting the capacity to be moved
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 makes the new feeling something real hands can build; shared skill gives the opening a body
+  process: the artisans turn from the work to each other; the labor itself becomes the first language of a feeling none had named
+  outcome: an emotional opening born of working side by side; love that grew where hands met over a task
+  key_terms: feeling built together, craft into opening, shared-labor love, working tenderness
+
+dynamic_antagonism:
+  mechanism: The craft's demand for skilled discipline collides with the heart's wish to simply feel, untaught
+  tension_axis: earned competence versus uncosted feeling
+  pentacles_position: Wants the feeling to be worked, refined, made well; distrusts the raw welling
+  cups_position: Refuses to be a project; insists the opening needs no apprenticeship
+  key_terms: refined feeling, raw opening, the unschooled heart, craft pressing on emotion
+
+dynamic_inhibition:
+  mechanism: The collaboration's absorption in the task leaves no hand free for the feeling; the opening waits while the work goes on
+  blockade_nature: the heart cannot surface through people who only speak the language of the job
+  pentacles_state: the workshop closed around its own labor; mastery pursued where a feeling asked to be met
+  consequence: the opening stays unwitnessed; the new feeling shut out by the closed circle of craft
+  key_terms: closed circle, unmet feeling, labor over heart, shut-out opening
+
+dynamic_devolution:
+  mechanism: The collaboration degrades the feeling into a commission; affection turned into another piece of work to deliver
+  mode: love managed like a project; the open heart scheduled, scoped, and quality-controlled
+  loss: the spontaneity of the feeling; what welled freely becomes a task with a deadline
+  key_terms: commissioned love, scoped feeling, managed heart, deliverable affection
+
+dynamic_dependency:
+  mechanism: The 3 needs the Ace of Cups to give the shared work a heart; the opening needs the collaboration to make its feeling into something lasting
+  function: Pentacles-3 supplies the skilled hands that build feeling into form; Cups-Ace supplies the welling that gives the work a reason beyond competence
+  integration_outcome: a craft warmed by real feeling and a feeling given lasting shape; skill and heart raising one thing together
+  key_terms: warmed craft, embodied feeling, heart in the work, lasting tenderness
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, 2 of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Partnership, duality, emotional connection, mutual feeling, balanced union
+numerical_relation: 3 + 2 = 5 (V The Pope; the working guild meets the bonded pair; shared craft meeting shared heart)
+elemental_bridge: Earth's mutual effort meets Water's mutual feeling; the partnership of the bench meets the partnership of the heart
+threshold_type: The shared task becoming a shared bond; co-workers discovering they are also a pair
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the bond a project; shared craft turns working-together into loving-together
+  process: the two who built side by side look up and find the work has made them partners; the task forged the tie
+  outcome: a union grown from labor; mutual feeling rooted in mutual making
+  key_terms: bond from labor, partnered making, the tie forged at work, love that built something
+
+dynamic_antagonism:
+  mechanism: The craft's standard of competence collides with the bond's wish to be loved for itself, not its usefulness
+  tension_axis: valued for contribution versus valued for being
+  pentacles_position: Measures the partner by the work shared; weighs the bond in delivered effort
+  cups_position: Wants to be loved apart from any task; reads the measuring as conditional love
+  key_terms: conditional bond, measured partner, love weighed in work, contribution counted
+
+dynamic_inhibition:
+  mechanism: The shared task swallows the relationship; the partners become only collaborators, never lovers
+  blockade_nature: the bond cannot deepen while every meeting is about the work
+  pentacles_state: the collaboration so total it leaves no room outside the job; the pair fused at the bench, strangers off it
+  consequence: the union stalls at the workshop door; two who build well but cannot simply be together
+  key_terms: collaborators not lovers, work-bound pair, fused at the bench, stalled union
+
+dynamic_devolution:
+  mechanism: The collaboration reduces the partnership to a working arrangement; love accounted as a division of labor
+  mode: the bond turned into a contract; affection priced as roles, tasks, and contributions
+  loss: the gratuitous tie; two hearts become two job descriptions
+  key_terms: the working marriage, divided labor, contracted love, role over feeling
+
+dynamic_dependency:
+  mechanism: The 3 needs the 2 of Cups to give the shared work a heart between the workers; the bond needs the collaboration to give its feeling something to build
+  function: Pentacles-3 supplies the joint task that makes partnership concrete; Cups-2 supplies the feeling that makes the partners more than co-workers
+  integration_outcome: a pair who both build well and love truly; craft and bond holding each other up
+  key_terms: lovers who build, bonded craft, feeling and task joined, partnered mastery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, 3 of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Celebration, joy, emotional communion, friendship, festive togetherness
+numerical_relation: 3 + 3 = 6 (VI The Lovers; the working circle meets the celebrating circle; the guild becomes the feast)
+elemental_bridge: Earth's joined labor meets Water's joined joy; the workshop's company meets the festival's company
+threshold_type: The raising and the feast; the build that earns its celebration
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the celebration a reason and the celebration crowns the collaboration; work and feast become one company
+  process: the last beam set, the makers turn to gladness; the shared labor flows straight into shared joy
+  outcome: a communion earned through making; friendship deepened by having built together
+  key_terms: earned feast, the raising celebrated, makers' gladness, joy from finished work
+
+dynamic_antagonism:
+  mechanism: The craft's discipline of unfinished work collides with the celebration's pull to stop and rejoice now
+  tension_axis: the work not yet done versus the joy that will not wait
+  pentacles_position: Holds the company to the task; refuses to break for festivity while the build stands open
+  cups_position: Insists on celebrating the milestone; reads the relentless work as joylessness
+  key_terms: deferred feast, unfinished build, joy made to wait, relentless task
+
+dynamic_inhibition:
+  mechanism: The collaboration's endless next task forecloses the celebration; there is always more to make, so the feast never comes
+  blockade_nature: communion cannot gather while the workshop refuses to declare anything finished
+  pentacles_state: the work treated as permanently unfinished; mastery as a horizon that voids every milestone
+  consequence: the friends never feast; joy postponed behind a craft that will not call itself done
+  key_terms: never finished, foreclosed feast, voided milestone, joyless mastery
+
+dynamic_devolution:
+  mechanism: The collaboration turns the celebration into a company event; communion staged as a reward to extract more work
+  mode: festivity weaponized for morale; friendship deployed to keep the crew producing
+  loss: the gratuitous joy; the feast becomes a tool, the gladness a tactic
+  key_terms: staged communion, morale feast, joy as tactic, instrumentalized friendship
+
+dynamic_dependency:
+  mechanism: The 3 needs the 3 of Cups to let the work end in gladness; the celebration needs the collaboration to have something worth celebrating
+  function: Pentacles-3 supplies the achievement the feast can honor; Cups-3 supplies the joy that gives the labor its human point
+  integration_outcome: work that knows how to finish in joy; communion that stands on real accomplishment
+  key_terms: finished in gladness, honored work, joy on accomplishment, the feast earned
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, 4 of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Apathy, emotional stagnation, dissatisfaction, withdrawn feeling, boredom
+numerical_relation: 3 + 4 = 7 (VII The Chariot; the shared work meets the withdrawn heart; craft held out to the disengaged)
+elemental_bridge: Earth's eager collaboration meets Water's averted gaze; the invitation to build meets the one who will not look up
+threshold_type: The open bench and the turned back; the work offered to someone past wanting it
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives apathy a concrete role to fill; being needed at the shared task can rouse what no encouragement reached
+  process: a place is left open at the bench; the withdrawn one, finding the work depends on their hand, leans back in
+  outcome: disengagement broken by belonging to a task; the bored eye lifted by being counted on
+  key_terms: roused by being needed, place at the bench, work that re-engages, belonging over boredom
+
+dynamic_antagonism:
+  mechanism: The collaboration's need for every hand collides with the apathy that will lend none; mutual effort meets the one who has opted out
+  tension_axis: the task that requires participation versus the heart that refuses to join
+  pentacles_position: Calls the absent one to their share; expects the common work to overrule the withdrawal
+  cups_position: Sees the open place and stays seated; insists nothing in the work is worth rejoining for
+  key_terms: refused share, the empty stool, called and unmoved, opted-out hand
+
+dynamic_inhibition:
+  mechanism: The apathy drains the collaboration of one whole part; the build needs a hand that will not be lifted
+  blockade_nature: mutual effort cannot proceed with a member who is present but absent
+  pentacles_state: the workshop carrying dead weight; the shared task degraded by a partner who only attends
+  consequence: the collaboration limps; craft suffers for the missing engagement it cannot compel
+  key_terms: dead weight, the absent member, hobbled effort, attendance without work
+
+dynamic_devolution:
+  mechanism: The collaboration turns the disengaged one into a tolerated passenger; the workshop carries them as cover for its own quiet rot
+  mode: busywork given to the bored to keep up appearances; mutual effort hollowed to a performance of cooperation
+  loss: the genuine joint mastery; the circle keeps its shape while its substance dies
+  key_terms: tolerated passenger, busywork cover, hollow cooperation, performed circle
+
+dynamic_dependency:
+  mechanism: The 3 needs the 4 of Cups's honesty about what fails to engage it, to offer a task that might; the apathy needs the collaboration to find a way back through being useful
+  function: Pentacles-3 supplies the real, needed role; Cups-4 supplies the truthful report of what has stopped mattering
+  integration_outcome: a part of the work shaped to the actual person, not the assumed one; re-engagement through a task that genuinely fits
+  key_terms: role fitted to the person, honest disengagement, useful re-entry, work that fits
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, 5 of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Loss, grief, heartbreak, mourning, emotional devastation
+numerical_relation: 3 + 5 = 8 (VIII Justice; the shared work meets the grieving heart; craft offered to one counting what is gone)
+elemental_bridge: Earth's joined hands meet Water's spilled cups; the work to be done together meets the gaze fixed on loss
+threshold_type: The bench beside the mourner; a task held out to grief
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives grief a place to put its hands; shared work offers the mourner a structure to move within
+  process: the others keep the task going and make room; the grieving one, drawn into the rhythm of joint labor, is carried for a while
+  outcome: mourning held inside a working company; loss borne up by hands that keep building beside it
+  key_terms: carried by the work, company in grief, structure for mourning, hands that hold
+
+dynamic_antagonism:
+  mechanism: The craft's call to keep building collides with grief's need to stop and face the spilled; mutual effort meets the loyalty to loss
+  tension_axis: the work that must go on versus the mourning that will not move
+  pentacles_position: Urges the mourner back to the shared task; treats grief as a stoppage to be worked through
+  cups_position: Cannot lift its hands; reads the insistence on work as a refusal to let it grieve
+  key_terms: work pressed on grief, refused task, mourning vs. the build, hands that will not rise
+
+dynamic_inhibition:
+  mechanism: The grief withdraws one set of hands the collaboration counted on; the build stalls around an absence it cannot fill
+  blockade_nature: mutual effort cannot close the gap a mourner leaves; the work waits on a return that grief will not hurry
+  pentacles_state: the workshop holding a place open indefinitely; the task suspended around real sorrow
+  consequence: the collaboration stalls; craft and mourner both held at the threshold of a loss
+  key_terms: the held-open place, stalled build, suspended task, gap of grief
+
+dynamic_devolution:
+  mechanism: The collaboration uses busyness to bury the loss; shared work weaponized so no one has to sit with the grief
+  mode: the crew kept working to avoid the wake; mutual effort as anesthetic against mourning
+  loss: the grief unfelt and the company that would not feel it; sorrow papered over with productivity
+  key_terms: busyness as burial, the avoided wake, anesthetic labor, unfelt loss
+
+dynamic_dependency:
+  mechanism: The 3 needs the 5 of Cups to teach it that some losses must be sat with, not worked past; the grief needs the collaboration to prove the company remains, that hands still wait
+  function: Pentacles-3 supplies the steady company and structure grief can return to; Cups-5 supplies the honest reckoning the work must not rush
+  integration_outcome: a workshop that holds its grieving member without abandoning or hurrying them; mourning honored within a company that endures
+  key_terms: company that waits, honored mourning, structure without rush, held member
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, 6 of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Nostalgia, innocence, reunion, past tenderness, childhood wonder
+numerical_relation: 3 + 6 = 9 (IX The Hermit; the working company meets the remembered one; craft meeting the tender past)
+elemental_bridge: Earth's present collaboration meets Water's gentle remembering; the work at hand meets the workshop of memory
+threshold_type: The old workshop recalled; present craft meeting the tenderness of how it was learned
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 carries forward what was tenderly handed down; the remembered teacher lives on in the shared method
+  process: the makers work the way they were once taught; memory and skill move the same hands; the past is honored in the doing
+  outcome: a craft that carries its lineage with affection; the work a living reunion with those who taught it
+  key_terms: handed-down method, lineage in the hands, the teacher remembered, tender craft
+
+dynamic_antagonism:
+  mechanism: The collaboration's drive to improve the work collides with nostalgia's loyalty to the old way; present skill meets cherished memory
+  tension_axis: the better method now versus the way it was always done
+  pentacles_position: Wants to refine, update, surpass; treats the old way as a stage to grow past
+  cups_position: Clings to how it was; reads every improvement as a small betrayal of the ones who taught it
+  key_terms: the old way defended, improvement as betrayal, refinement vs. reverence, surpassed teaching
+
+dynamic_inhibition:
+  mechanism: Reverence for how it was done freezes the collaboration; the work cannot evolve while bound to a remembered form
+  blockade_nature: mutual effort hardens into ritual repetition of the inherited method
+  pentacles_state: the workshop preserving technique as relic; skill mistaken for the unchanging copying of the past
+  consequence: the craft stops growing; the company keeps a museum where a workshop should be
+  key_terms: relic technique, ritual repetition, frozen method, the museum workshop
+
+dynamic_devolution:
+  mechanism: The collaboration sentimentalizes the lineage into a closed guild; the tender past becomes a wall against newcomers
+  mode: "this is how we have always done it" turned into exclusion; reunion narrowed to those who were there
+  loss: the living transmission; nostalgia curdled into a clique that admits no new hands
+  key_terms: closed guild, exclusionary lineage, curdled nostalgia, walled-off craft
+
+dynamic_dependency:
+  mechanism: The 3 needs the 6 of Cups to keep its method warm with the affection that first taught it; the nostalgia needs the collaboration to carry the past into living work rather than embalming it
+  function: Pentacles-3 supplies the active craft that keeps the lineage alive; Cups-6 supplies the tenderness that remembers why the work is loved
+  integration_outcome: a craft that honors its teachers by evolving their gift; memory carried forward in living hands
+  key_terms: lineage evolved, warm transmission, the gift carried on, living memory
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, 7 of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Illusion, temptation, fantasy, confusion, delusional desire
+numerical_relation: 3 + 7 = 10 (X The Wheel of Fortune; the working craft meets the swarm of fantasies; skill set against the mist)
+elemental_bridge: Earth's tested skill meets Water's seductive visions; the buildable meets the seven impossible cups
+threshold_type: The plan among the phantoms; craft asked to choose one real thing from the dream
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 turns one fantasy into a buildable plan; skilled hands give a dream the only test that matters — can it be made
+  process: the visions are laid before the workshop; the makers pick the one that can take form and begin to draft it
+  outcome: a dream rescued into reality by craft; fantasy disciplined into a plan many hands can raise
+  key_terms: dream made buildable, fantasy drafted, the chosen vision, craft as reality-test
+
+dynamic_antagonism:
+  mechanism: The craft's insistence on the makeable collides with the fantasy's love of the unmakeable; skill meets the cup that only enchants
+  tension_axis: what hands can actually build versus what the dream prefers to keep impossible
+  pentacles_position: Refuses to commit effort to a vision that cannot be built; demands a real specification
+  cups_position: Resents the narrowing; insists the magic dies the moment it is made practical
+  key_terms: the makeable demanded, magic narrowed, spec vs. spell, refused phantom
+
+dynamic_inhibition:
+  mechanism: The swarm of visions paralyzes the collaboration; the workshop cannot start while the plan keeps changing into another fantasy
+  blockade_nature: mutual effort needs a fixed object, and the dream will not hold still long enough to be built
+  pentacles_state: the crew forever drafting, never raising; skill burned in endless re-planning of shifting dreams
+  consequence: nothing is built; the collaboration dissolves into competing fantasies of what to build
+  key_terms: endless drafting, the shifting plan, unbuilt swarm, dissolved into dreams
+
+dynamic_devolution:
+  mechanism: The collaboration sells the fantasy it cannot build; craft conscripted to fake the impossible into a convincing illusion
+  mode: a polished mockup standing in for a real thing; skill spent making the undeliverable look deliverable
+  loss: the integrity of the work; mastery turned to the manufacture of a lie
+  key_terms: faked mockup, conscripted craft, manufactured illusion, the deliverable lie
+
+dynamic_dependency:
+  mechanism: The 3 needs the 7 of Cups to dream wider than the safely makeable; the fantasy needs the collaboration to find which of its visions can actually be raised
+  function: Pentacles-3 supplies the skilled judgment that tests what can be built; Cups-7 supplies the abundance of vision that keeps the craft from building only the obvious
+  integration_outcome: ambitious dreams disciplined into real work; a workshop that reaches for the visionary and still finishes it
+  key_terms: disciplined ambition, the buildable dream, vision met by skill, reached and raised
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, 8 of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Abandonment, departure, walking away, chosen leaving, emotional departure
+numerical_relation: 3 + 8 = 11 (XI Strength; the shared work meets the one who leaves; the company facing a departure)
+elemental_bridge: Earth's joined effort meets Water's turning away; the collaboration meets the maker who sets down their tools and goes
+threshold_type: The empty place at the bench; the build that loses a hand it was counting on
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 lets a departure be clean; the work can be handed on, the knowledge left behind, the leaver released without rupture
+  process: the one leaving teaches what they know to the others; the craft is transferred before the tools are set down
+  outcome: a departure the company survives; the work continues because the leaving was made into a handover
+  key_terms: knowledge handed on, clean departure, the build survives, released into transfer
+
+dynamic_antagonism:
+  mechanism: The collaboration's claim on every hand collides with the 8's resolve to walk away; mutual effort meets the chosen leaving
+  tension_axis: the company that needs you versus the soul that must go
+  pentacles_position: Invokes duty to the shared work; treats the departure as desertion of the team
+  cups_position: Has already gone in spirit; refuses to let the unfinished build hold a life hostage
+  key_terms: invoked duty, the desertion charge, held by the work, the leaving chosen
+
+dynamic_inhibition:
+  mechanism: The collaboration cannot release the leaver, and the leaver cannot fully go; the work and the departure jam each other
+  blockade_nature: a half-present member, neither committed nor gone, leaves the build neither staffed nor free to restaff
+  pentacles_state: the workshop staffed by a ghost; the task carried by someone whose hands have already left
+  consequence: the collaboration neither finishes nor reforms; suspended on a departure no one will complete
+  key_terms: the half-present member, jammed departure, ghost-staffed work, neither staffed nor free
+
+dynamic_devolution:
+  mechanism: The collaboration punishes the leaver to deter others; the departure turned into a cautionary humiliation
+  mode: the one walking away made an example; mutual effort soured into a loyalty test no one passes cleanly
+  loss: the dignity of the leaving and the trust of those who stay; the company becomes a trap dressed as a team
+  key_terms: the made example, soured loyalty, punished departure, the team as trap
+
+dynamic_dependency:
+  mechanism: The 3 needs the 8 of Cups's courage to admit when a member must go; the departure needs the collaboration to make leaving a handover, not a wound
+  function: Pentacles-3 supplies the structure that absorbs and transfers what the leaver knew; Cups-8 supplies the honesty that names when it is time to walk
+  integration_outcome: a leaving that strengthens rather than breaks the company; craft preserved across a departure honestly made
+  key_terms: departure as handover, preserved craft, honest leaving, the company that endures
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, 9 of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Wish fulfillment, contentment, emotional satisfaction, satisfied desire, achieved happiness
+numerical_relation: 3 + 9 = 12 (XII The Hanged Man; the shared work meets satisfied desire; craft meeting the contentment it earned)
+elemental_bridge: Earth's mutual effort meets Water's full cup; the finished collaboration meets the satisfaction of having made it
+threshold_type: The work admired and the wish met; the company standing back, content
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 produces the satisfaction the 9 enjoys; shared mastery earns a contentment no solitary wish could
+  process: the makers step back from the finished thing; the deep ease of having built it well settles over the whole company
+  outcome: a satisfaction grounded in real accomplishment; contentment shared among the hands that earned it
+  key_terms: earned contentment, the company's ease, satisfaction in the made thing, shared fulfillment
+
+dynamic_antagonism:
+  mechanism: The 9's wish to rest in the achievement collides with the craft's pull toward the next, better work; contentment meets the restless maker
+  tension_axis: enjoying what was made versus already wanting to surpass it
+  pentacles_position: Cannot sit still in the satisfaction; sees flaws to fix, a finer version to attempt
+  cups_position: Wants to savor the achieved happiness; reads the restlessness as inability to be content
+  key_terms: restless mastery, savored achievement, the next better thing, contentment refused
+
+dynamic_inhibition:
+  mechanism: The complacency of the 9 stalls the collaboration; satisfied, the company stops sharpening, stops striving
+  blockade_nature: mutual effort slackens when everyone is content; the edge of the craft dulls in the warmth of enough
+  pentacles_state: the workshop resting on its finished piece; skill no longer pushed because the wish is already met
+  consequence: the collaboration coasts; mastery plateaus in the comfort of past success
+  key_terms: coasting company, dulled edge, the plateau, comfort over craft
+
+dynamic_devolution:
+  mechanism: The collaboration's pride in its work hardens into self-satisfied display; the achievement becomes a trophy the company exists only to admire
+  mode: the finished thing endlessly shown off; mutual effort replaced by mutual congratulation
+  loss: the living craft; a workshop that made one good thing and now only points at it
+  key_terms: the trophy, mutual congratulation, self-satisfied display, the pointed-at past
+
+dynamic_dependency:
+  mechanism: The 3 needs the 9 of Cups to let the work be enough sometimes, to grant the company its earned rest; the contentment needs the collaboration to have built something real to be content about
+  function: Pentacles-3 supplies the genuine accomplishment that makes satisfaction honest; Cups-9 supplies the capacity to stop and be fulfilled by it
+  integration_outcome: a company that can both strive and savor; mastery that knows when the wish is well and truly met
+  key_terms: strive and savor, honest satisfaction, earned rest, fulfillment that holds
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, 10 of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Family harmony, happiness, love's fulfillment, emotional completeness, belonging
+numerical_relation: 3 + 10 = 13 (XIII Death; the working company meets the whole family; the guild meeting belonging)
+elemental_bridge: Earth's mutual effort meets Water's complete circle; the company of makers meets the company of love
+threshold_type: The workshop and the household; the team discovering it has become a family
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 deepens into the belonging of the 10; long working-together ripens into a family of the craft
+  process: the years at the shared bench make kin of colleagues; the company becomes a home you are raised within
+  outcome: a belonging built through labor; the workshop become a hearth, the craft a lineage of love
+  key_terms: kin of the craft, the workshop hearth, belonging built, colleagues become family
+
+dynamic_antagonism:
+  mechanism: The craft's standard of merit collides with the family's logic of unconditional belonging; skill meets kinship
+  tension_axis: earning your place versus belonging no matter what
+  pentacles_position: Holds each member to the work's standard; would keep only those who can do the craft
+  cups_position: Insists the family includes the unskilled, the struggling, the ones who cannot keep up
+  key_terms: merit vs. kinship, the standard held, belonging unconditional, the kept and the carried
+
+dynamic_inhibition:
+  mechanism: The demand for total family harmony smothers the collaboration's honest standards; no one can be told their work is poor without breaking the kin-bond
+  blockade_nature: mutual effort cannot correct itself where every critique reads as rejection from the family
+  pentacles_state: the workshop unable to hold its craft accountable; skill sacrificed to keep the peace of belonging
+  consequence: the collaboration's quality decays; the family preserved at the cost of the work that made it
+  key_terms: uncorrectable kin, critique as rejection, decayed quality, peace over craft
+
+dynamic_devolution:
+  mechanism: The collaboration becomes a dynasty closed to outsiders; the family-feeling hardens into nepotism and inherited place
+  mode: positions handed down by blood not skill; the workshop a closed house admitting only its own
+  loss: the open craft; mastery replaced by membership, the guild become a clan
+  key_terms: the dynasty, inherited place, nepotist workshop, membership over mastery
+
+dynamic_dependency:
+  mechanism: The 3 needs the 10 of Cups to make the company a home, not just a labor pool; the belonging needs the collaboration to give the family something real to build and be proud of together
+  function: Pentacles-3 supplies the shared work that binds the family with purpose; Cups-10 supplies the love that makes the company worth belonging to
+  integration_outcome: a workshop that is both excellent and a home; belonging that does not excuse poor work, craft that does not forget it is among kin
+  key_terms: excellent and a home, purposeful belonging, kin who build well, the workshop-family
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, Page of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Curiosity, emotional exploration, feeling-learning, youthful receptivity, openness
+numerical_relation: 3 + 11 = 14 (XIV Temperance; the master company meets the young heart; craft meeting the apprentice's openness)
+elemental_bridge: Earth's skilled hands meet Water's first wondering; the workshop meets the youth who feels their way toward it
+threshold_type: The bench and the newcomer; mastery meeting the one still learning how to feel the work
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 takes the Page's open wonder and gives it a craft to grow into; receptivity finds a workshop to be shaped by
+  process: the young one is set among the makers; their fresh feeling for the work meets hands that can teach it form
+  outcome: an apprentice drawn into mastery; openness given a discipline, wonder given skilled hands
+  key_terms: wonder apprenticed, the newcomer shaped, feeling given form, drawn into the craft
+
+dynamic_antagonism:
+  mechanism: The craft's demand for disciplined method collides with the Page's wish to explore and feel freely; rigor meets receptivity
+  tension_axis: the way it must be done versus the way the young heart wants to discover
+  pentacles_position: Insists on the proven method; distrusts the apprentice's untrained feeling for the work
+  cups_position: Wants to explore, to feel its own way in; reads the method as a cage on its curiosity
+  key_terms: method vs. wonder, the proven way, caged curiosity, untrained feeling
+
+dynamic_inhibition:
+  mechanism: The collaboration's formality shuts out the Page's tentative openness; the newcomer cannot find a hand to hold in a workshop that only speaks expertise
+  blockade_nature: mutual effort, pitched at masters, leaves no rung for a beginner's first feeling
+  pentacles_state: the workshop closed to learners; skill hoarded, the apprentice left at the edge
+  consequence: the young receptivity withers unmet; the craft fails to make the heir it needs
+  key_terms: no rung for beginners, hoarded skill, the apprentice at the edge, withered wonder
+
+dynamic_devolution:
+  mechanism: The collaboration exploits the Page's eagerness; the open newcomer worked as cheap, grateful labor
+  mode: enthusiasm mined for unpaid effort; the apprentice's wonder spent and never repaid in real teaching
+  loss: the genuine transmission; the young heart used up where it should have been raised
+  key_terms: mined enthusiasm, unpaid wonder, the used apprentice, transmission betrayed
+
+dynamic_dependency:
+  mechanism: The 3 needs the Page of Cups to keep the craft fed with fresh feeling and new hands; the openness needs the collaboration to turn its wonder into real skill
+  function: Pentacles-3 supplies the discipline and company that grow a beginner into a maker; Cups-Page supplies the receptive wonder that keeps the craft from hardening
+  integration_outcome: an apprentice who learns the craft without losing their feeling for it; a workshop kept young by the ones it raises
+  key_terms: skilled and still feeling, the raised apprentice, craft kept young, wonder made able
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, Knight of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Romance, emotional action, passionate pursuit, love-driven action, heart's quest
+numerical_relation: 3 + 12 = 15 (XV The Devil; the patient workshop meets the romantic quest; craft meeting passion in motion)
+elemental_bridge: Earth's steady collaboration meets Water's ardent pursuit; the long build meets the lover who wants it now and grand
+threshold_type: The workmanlike and the romantic; mutual effort meeting the gesture of passion
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the Knight's romantic impulse something real to make; passion finds hands that can build the grand gesture true
+  process: the lover's vision is brought to the workshop; the ardor that would burn out alone is built into something that lasts
+  outcome: romance made durable by craft; the passionate gesture given skilled, lasting form
+  key_terms: passion built true, the made gesture, ardor given form, durable romance
+
+dynamic_antagonism:
+  mechanism: The craft's patient pace collides with the Knight's demand for the immediate grand act; mutual effort meets the lover who will not wait for it
+  tension_axis: the work that takes time versus the gesture that wants to happen now
+  pentacles_position: Insists the thing be made well, which is slow; distrusts the romantic rush
+  cups_position: Cannot bear the delay; reads careful craft as passion gone cold
+  key_terms: slow craft vs. the rush, the impatient gesture, delay as coldness, passion unwilling to wait
+
+dynamic_inhibition:
+  mechanism: The Knight's solo ardor will not submit to the collaboration; the quest is too personal to share with a workshop
+  blockade_nature: mutual effort needs a shared object, and the romantic insists the gesture be his alone
+  pentacles_state: the workshop offering hands the lover will not use; skill idle before a passion that refuses help
+  consequence: the gesture stays unmade or is botched solo; craft and romance never meet
+  key_terms: the unshared quest, refused hands, the botched solo gesture, idle skill
+
+dynamic_devolution:
+  mechanism: The collaboration becomes a machine for manufacturing false romance; the grand gesture mass-produced, the passion counterfeited at scale
+  mode: skilled hands making the appearance of ardor; the heart's quest reduced to a product line
+  loss: the truth of the passion; romance industrialized into a hollow, repeatable gesture
+  key_terms: counterfeit ardor, the product line, industrialized romance, hollow gesture
+
+dynamic_dependency:
+  mechanism: The 3 needs the Knight of Cups to give the work passion and reach; the romance needs the collaboration to make its gesture more than a fading impulse
+  function: Pentacles-3 supplies the skilled hands that make the gesture last; Cups-Knight supplies the ardor that gives the work a heart's reason
+  integration_outcome: a passion that builds something real and a craft fired by genuine ardor; the grand gesture made well and made true
+  key_terms: ardor that builds, fired craft, the lasting gesture, passion and skill joined
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, Queen of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Emotional mastery, nurturing wisdom, intuitive understanding, emotional authority, compassion
+numerical_relation: 3 + 13 = 16 (XVI The Tower; the working company meets emotional mastery; craft meeting the wisdom that holds it)
+elemental_bridge: Earth's mutual effort meets Water's deep understanding; the workshop meets the one who knows its people
+threshold_type: The craft and the one who tends its makers; skill meeting the wisdom that keeps a company whole
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 is held together by the Queen's emotional wisdom; her understanding keeps the company of makers from fracturing
+  process: she reads the strains beneath the work; the friction that would break the team is met and softened before it spreads
+  outcome: a collaboration sustained by care; mutual effort that endures because someone tends its hearts
+  key_terms: the tended company, friction softened, care beneath the craft, endurance through wisdom
+
+dynamic_antagonism:
+  mechanism: The craft's focus on the work collides with the Queen's focus on the workers; the task meets the tending of those who do it
+  tension_axis: the thing being made versus the people making it
+  pentacles_position: Wants the work served first; sees the attention to feelings as a drag on production
+  cups_position: Insists the makers be cared for; reads the relentless task-focus as a quiet cruelty
+  key_terms: task vs. the people, production over care, the cruelty of focus, makers unminded
+
+dynamic_inhibition:
+  mechanism: The Queen's tending, overextended, drowns the collaboration in feeling; the work stalls while every mood is processed
+  blockade_nature: mutual effort cannot proceed when each session becomes a tending of hearts
+  pentacles_state: the workshop become a circle of care that never builds; skill suspended in endless emotional attention
+  consequence: the craft halts; the company is well-tended and produces nothing
+  key_terms: care that drowns the work, endless processing, the unbuilding circle, suspended craft
+
+dynamic_devolution:
+  mechanism: The collaboration uses the Queen's empathy to manipulate; her reading of feeling turned into a tool for managing the crew
+  mode: compassion weaponized into emotional management; the makers handled rather than cared for
+  loss: the genuine tending; wisdom degraded into a technique for extracting compliant work
+  key_terms: weaponized empathy, emotional management, handled makers, compliance extracted
+
+dynamic_dependency:
+  mechanism: The 3 needs the Queen of Cups to keep its company human under the pressure of the work; the mastery needs the collaboration to give its care a real company to tend
+  function: Pentacles-3 supplies the shared craft that gives the Queen's wisdom a body to keep whole; Cups-Queen supplies the understanding that keeps the makers from breaking
+  integration_outcome: a workshop both productive and humane; care and craft sustaining one another
+  key_terms: productive and humane, sustained makers, care that builds, whole company
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC
+
+---
+
+card_pair: 3 of Pentacles, King of Cups
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_cups: Emotional authority, heart's dominion, compassionate power, mastered feeling, authoritative love
+numerical_relation: 3 + 14 = 17 (XVII The Star; the working company meets emotional authority; craft meeting the steady heart that governs)
+elemental_bridge: Earth's mutual effort meets Water's governed depth; the workshop meets the one whose calm authority steadies it
+threshold_type: The craft and its steady governor; skill meeting the mastered feeling that leads without storm
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 is steadied by the King's emotional command; his governed calm gives the company a center that does not panic
+  process: when the work goes wrong and tempers rise, his mastered feeling holds; the crew steadies on his steadiness
+  outcome: a collaboration that survives crisis; mutual effort anchored by a leader who governs his own heart first
+  key_terms: the steadied crew, a center that holds, governed calm, anchored effort
+
+dynamic_antagonism:
+  mechanism: The craft's distributed, peer collaboration collides with the King's seated authority; mutual effort meets the one who would govern it
+  tension_axis: the company of equals versus the heart that rules them
+  pentacles_position: Works as a guild of peers; resents a single emotional authority set over the bench
+  cups_position: Holds the governing calm; reads the flat collaboration as leaderless drift
+  key_terms: peers vs. the ruler, leaderless drift, governed bench, authority over the guild
+
+dynamic_inhibition:
+  mechanism: The King's controlled feeling, overdone, freezes the collaboration's honest friction; nothing heated can be said before his unflappable calm
+  blockade_nature: mutual effort needs real disagreement, and the governed atmosphere makes all heat unspeakable
+  pentacles_state: the workshop gone quiet and careful; skill muffled under a calm that permits no storm
+  consequence: the craft loses its edge; a company too composed to fight for the better work
+  key_terms: muffled friction, the unspeakable heat, careful quiet, edge lost to calm
+
+dynamic_devolution:
+  mechanism: The collaboration becomes the instrument of a benign autocrat; the King's compassionate authority hardens into a rule that brooks no peer
+  mode: the guild reduced to staff; mutual effort replaced by service to one governing heart
+  loss: the company of equals; craft subordinated to a single sovereign feeling
+  key_terms: the benign autocrat, guild become staff, sovereign feeling, subordinated craft
+
+dynamic_dependency:
+  mechanism: The 3 needs the King of Cups to hold the company steady through what would shatter a leaderless crew; the authority needs the collaboration to give its governance a worthy work and real peers
+  function: Pentacles-3 supplies the shared craft that keeps the King's authority earthed in real making; Cups-King supplies the governed heart that steadies the company in crisis
+  integration_outcome: a workshop that is both a guild of equals and steadily led; craft and calm authority holding through every storm
+  key_terms: led and equal, steadied craft, earthed authority, the company that holds
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with water graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPC

@@ -1,0 +1,697 @@
+card_pair: 3 of Pentacles, Ace of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 3 + 1 = 4 (IV The Emperor; the shared workshop meets the first spark; craft offered a new fire to build with)
+elemental_bridge: Earth's joined hands meet Fire's first ignition; the company of makers meets the inspiration that wants a form
+threshold_type: The spark and the workshop ready to build it; ignition meeting skilled hands
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the spark a workshop to become real in; skilled hands keep the new fire from burning out unbuilt
+  process: the inspiration is carried to the bench; many hands take it up before it fades and begin to give it form
+  outcome: a spark that survives into a made thing; inspiration grounded by a company ready to build
+  key_terms: the built spark, inspiration grounded, fire given form, the workshop catches it
+
+dynamic_antagonism:
+  mechanism: The craft's deliberate method collides with the spark's urge to ignite immediately; mutual effort meets the fire that will not wait for process
+  tension_axis: the careful build versus the spark that wants to blaze now
+  pentacles_position: Wants the inspiration drafted, planned, made well; distrusts the raw flare
+  wands_position: Refuses the delay; insists the fire be acted on before it cools
+  key_terms: drafted spark, the impatient flare, process vs. ignition, fire made to wait
+
+dynamic_inhibition:
+  mechanism: The collaboration's procedure smothers the spark; the new fire is committee-d to death before any hand acts on it
+  blockade_nature: mutual effort buries the ignition in planning until nothing is left to burn
+  pentacles_state: the workshop deliberating over a spark that needed only to be lit; skill spent on process while the fire dies
+  consequence: the inspiration goes cold unbuilt; the company plans a flame it never kindles
+  key_terms: committee-d to death, the smothered spark, planned cold, unkindled fire
+
+dynamic_devolution:
+  mechanism: The collaboration strips the spark of its fire and keeps only the procedure; the new thing made the same dead way as everything before it
+  mode: inspiration processed into routine; the flare flattened into another standard job
+  loss: the original fire; what could have been new becomes one more competent, lifeless build
+  key_terms: processed spark, flattened fire, the routine kill, competent and lifeless
+
+dynamic_dependency:
+  mechanism: The 3 needs the Ace of Wands to keep its craft from making only the expected; the spark needs the collaboration to turn its fire into something that lasts
+  function: Pentacles-3 supplies the skilled hands that build the inspiration true; Wands-Ace supplies the fire that keeps the craft from mere repetition
+  integration_outcome: a workshop fired by real inspiration; a spark built into something that endures past its first blaze
+  key_terms: fired craft, the enduring spark, inspiration built, fire and skill joined
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, 2 of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 3 + 2 = 5 (V The Pope; the working company meets the planning visionary; craft meeting the will to expand)
+elemental_bridge: Earth's mutual effort meets Fire's surveying gaze; the workshop meets the one mapping where to grow
+threshold_type: The crew and the planner; skilled hands meeting the vision of dominion
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the 2's expansion-vision a company that can actually execute it; many skilled hands make the plan buildable
+  process: the visionary lays out the territory to claim; the workshop turns the plan into divided, achievable work
+  outcome: an expansion made real by a crew; dominion grounded in a company that can build to the map
+  key_terms: the executed vision, dominion built, plan into work, the crew that can claim it
+
+dynamic_antagonism:
+  mechanism: The 2's solitary command collides with the 3's peer collaboration; the lone planner meets the guild of equals
+  tension_axis: one will directing versus many hands deciding together
+  pentacles_position: Works by shared judgment; resents a vision handed down without consultation
+  wands_position: Holds the plan as its own to set; reads the collaboration's debate as drag on its dominion
+  key_terms: handed-down plan, the guild's debate, one will vs. many, consultation refused
+
+dynamic_inhibition:
+  mechanism: The 2's grand plan outruns what the collaboration can build; the vision expands faster than the hands can keep up
+  blockade_nature: mutual effort cannot match a dominion that keeps claiming more than it can make
+  pentacles_state: the workshop perpetually behind the plan; skill exhausted chasing an expansion it cannot ground
+  consequence: the vision overreaches the company; built work falls ever further behind the map
+  key_terms: the overreaching plan, hands left behind, exhausted chase, vision outrunning craft
+
+dynamic_devolution:
+  mechanism: The collaboration is conscripted into one person's empire; the guild's skill annexed to serve a private dominion
+  mode: shared craft expropriated for a single will's expansion; the makers reduced to instruments of a plan they do not own
+  loss: the company of equals; mutual effort become the engine of another's power
+  key_terms: annexed guild, the private empire, expropriated craft, makers as instruments
+
+dynamic_dependency:
+  mechanism: The 3 needs the 2 of Wands to give its work direction and reach; the vision needs the collaboration to make its dominion more than a map
+  function: Pentacles-3 supplies the company that can build the vision; Wands-2 supplies the plan that gives the craft somewhere to expand
+  integration_outcome: an expansion both visionary and buildable; a guild whose shared skill claims real ground
+  key_terms: buildable expansion, grounded dominion, vision and crew joined, claimed ground
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, 3 of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 3 + 3 = 6 (VI The Lovers; the working company meets the far-seeing enterprise; craft meeting forward vision)
+elemental_bridge: Earth's mutual effort meets Fire's long view; the present workshop meets the enterprise watching its ships come in
+threshold_type: The build now and the horizon ahead; skilled hands meeting the vision of what they grow toward
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the 3 of Wands's foresight a present body; the far enterprise is built one skilled stage at a time
+  process: the vision of growth is broken into the work of now; the company builds toward the horizon it can see
+  outcome: an enterprise advancing on real foundations; foresight made into staged, mastered work
+  key_terms: the staged enterprise, foresight grounded, horizon into work, built toward growth
+
+dynamic_antagonism:
+  mechanism: The craft's attention to the piece in hand collides with the enterprise's gaze on the far prospect; present mastery meets distant vision
+  tension_axis: the quality of the work now versus the reach of the venture ahead
+  pentacles_position: Wants this stage made well before the next is dreamed; distrusts the eyes on the horizon
+  wands_position: Presses toward the larger venture; reads the focus on present craft as small thinking
+  key_terms: this stage vs. the horizon, small thinking charged, present craft defended, the far prospect
+
+dynamic_inhibition:
+  mechanism: The enterprise's restless forward gaze never lets the collaboration finish anything; always the next venture, never the present build completed
+  blockade_nature: mutual effort cannot master a stage while the vision keeps moving the goal outward
+  pentacles_state: the workshop starting everything and finishing nothing; skill scattered across ventures none of which is brought home
+  consequence: the enterprise stays perpetually approaching; built work left as a trail of half-things
+  key_terms: the moved goal, scattered skill, nothing finished, the perpetual approach
+
+dynamic_devolution:
+  mechanism: The collaboration's growth becomes growth for its own sake; the enterprise expands the company past any craft it can sustain
+  mode: scaling beyond skill; mutual effort diluted across a venture grown too fast to build well
+  loss: the mastery; the enterprise becomes large and bad, foresight spent reaching past the hands' reach
+  key_terms: growth for its own sake, scaled past skill, diluted effort, large and bad
+
+dynamic_dependency:
+  mechanism: The 3 of Pentacles needs the 3 of Wands to lift its eyes past the bench to the venture; the foresight needs the collaboration to make its horizon out of finished stages
+  function: Pentacles-3 supplies the staged, mastered building; Wands-3 supplies the long view that gives the work a direction worth its skill
+  integration_outcome: an enterprise built well at every stage toward a horizon worth reaching; foresight and craft advancing together
+  key_terms: well-built venture, the reached horizon, staged mastery, vision and craft advancing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, 4 of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 3 + 4 = 7 (VII The Chariot; the working company meets the raised home; craft meeting the established threshold)
+elemental_bridge: Earth's mutual effort meets Fire's warm hearth; the labor of building meets the joy of the finished house
+threshold_type: The raising and the housewarming; the work that becomes a home
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 builds the very home the 4 celebrates; mutual effort raises the structure that becomes the community's hearth
+  process: the framework goes up by many hands; the finished building opens its doors and the labor turns to festival
+  outcome: a home founded on shared skill; the establishment standing on work the whole community made
+  key_terms: the raised home, founded on craft, labor into hearth, community-built
+
+dynamic_antagonism:
+  mechanism: The craft's standard for the structure collides with the celebration's eagerness to move in and rejoice; mutual effort meets the rush to call it done
+  tension_axis: the building made sound versus the home declared finished
+  pentacles_position: Wants the structure truly complete and safe before any festival; distrusts the early housewarming
+  wands_position: Wants to settle, celebrate, belong now; reads the insistence on more work as withholding the home
+  key_terms: sound vs. settled, the early housewarming, home withheld, more work demanded
+
+dynamic_inhibition:
+  mechanism: The collaboration never lets the home be finished enough to live in; the work keeps the establishment perpetually under construction
+  blockade_nature: the celebration cannot begin while the workshop declares the house still unsound
+  pentacles_state: the building kept in scaffolding; skill used to defer the threshold indefinitely
+  consequence: the community never moves in; the home deferred behind a craft that will not call it done
+  key_terms: perpetual scaffolding, deferred threshold, the unmovable-in house, never sound enough
+
+dynamic_devolution:
+  mechanism: The collaboration's pride builds a monument instead of a home; mutual effort poured into impressive structure no one can warmly live in
+  mode: craft serving grandeur over belonging; the establishment built to be admired, not inhabited
+  loss: the home; skill raises a showpiece where a hearth was wanted
+  key_terms: monument over home, the admired showpiece, grandeur over belonging, the cold edifice
+
+dynamic_dependency:
+  mechanism: The 3 needs the 4 of Wands to remember the work is for living in, not just building; the celebration needs the collaboration to give it a home worth establishing
+  function: Pentacles-3 supplies the skilled raising of the structure; Wands-4 supplies the warmth that makes the built thing a home
+  integration_outcome: a home both well-built and warmly lived in; craft and celebration founding a community's hearth
+  key_terms: well-built hearth, lived-in craft, founded community, the warm establishment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, 5 of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Conflict, competition, struggle, contested victory
+numerical_relation: 3 + 5 = 8 (VIII Justice; the working company meets open conflict; mutual effort meeting the clash of wills)
+elemental_bridge: Earth's joined hands meet Fire's contention; the collaboration meets the friction of rivals working the same ground
+threshold_type: The shared bench and the brawl; cooperation meeting the competition inside it
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 turns competition into productive friction; rival skill, set in a shared structure, sharpens the work instead of wrecking it
+  process: the contenders are given a common task and clear roles; the clash becomes a contest of craft, each pushing the others higher
+  outcome: rivalry made generative; the conflict's heat tempered into better work by a structure that holds it
+  key_terms: productive friction, rivalry harnessed, the clash that sharpens, contest of craft
+
+dynamic_antagonism:
+  mechanism: The craft's need for cooperation collides directly with the 5's drive to compete and win; mutual effort meets the will to beat the others
+  tension_axis: building together versus contending to prevail
+  pentacles_position: Demands the work be served above any rivalry; subordinates winning to the shared build
+  wands_position: Insists the contest be decided; reads the call to cooperate as a refusal to let it win
+  key_terms: build vs. win, the contest demanded, cooperation refused, rivalry over craft
+
+dynamic_inhibition:
+  mechanism: The competition fractures the collaboration; the contenders sabotage each other and the shared work stops
+  blockade_nature: mutual effort cannot proceed where every hand is also trying to undercut the others
+  pentacles_state: the workshop turned arena; skill spent on rivalry rather than the build
+  consequence: the collaboration dissolves into faction; the work abandoned to the fight over it
+  key_terms: the workshop arena, sabotaged effort, faction over build, abandoned work
+
+dynamic_devolution:
+  mechanism: The collaboration is hollowed into a permanent contest of credit; mutual effort soured into endless jockeying for whose work it was
+  mode: cooperation faked while everyone competes for recognition; the shared build a battlefield of claimed credit
+  loss: the genuine joint mastery; craft consumed by the struggle over who gets named for it
+  key_terms: the credit war, faked cooperation, claimed recognition, consumed by jockeying
+
+dynamic_dependency:
+  mechanism: The 3 needs the 5 of Wands's competitive fire to keep the work from comfortable mediocrity; the conflict needs the collaboration to make its struggle build rather than destroy
+  function: Pentacles-3 supplies the structure that turns rivalry into better craft; Wands-5 supplies the contending heat that keeps the company striving
+  integration_outcome: a workshop where rivalry sharpens the work instead of breaking it; conflict made into a forge for shared mastery
+  key_terms: rivalry as forge, sharpened collaboration, contained conflict, striving company
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, 6 of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 3 + 6 = 9 (IX The Hermit; the working company meets public honor; mutual effort meeting the crown of recognition)
+elemental_bridge: Earth's joined hands meet Fire's laurel; the company that built it meets the acclaim for what was built
+threshold_type: The makers and the applause; shared labor meeting the public credit
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 earns the recognition the 6 receives; the public honor lands on real, jointly-made achievement
+  process: the work is finished and seen; the acclaim is taken up by the whole company that raised it
+  outcome: a victory shared among its makers; recognition resting on genuine collaborative mastery
+  key_terms: shared laurel, honor on real work, the company acclaimed, earned recognition
+
+dynamic_antagonism:
+  mechanism: The 6's single figure of victory collides with the 3's many hands; the one who takes the credit meets the company that did the work
+  tension_axis: the lone honoree versus the collaboration behind them
+  pentacles_position: Insists the credit belongs to all the hands; resents one face taking the public honor
+  wands_position: Stands forward to receive the acclaim; reads the call to share it as diminishing the win
+  key_terms: the lone honoree, credit to all hands, public face vs. company, shared win refused
+
+dynamic_inhibition:
+  mechanism: The hunger for recognition warps the collaboration; the work is shaped to win applause rather than to be well made
+  blockade_nature: mutual effort bends toward the visible and the impressive, neglecting the unseen craft that matters
+  pentacles_state: the workshop building for the audience; skill diverted to what shows rather than what holds
+  consequence: the craft hollows beneath its acclaim; a celebrated work that is poorer than its praise
+  key_terms: built for applause, the unseen neglected, acclaim over craft, hollow beneath praise
+
+dynamic_devolution:
+  mechanism: The collaboration is reduced to credit-theft; one figure harvests the honor of the many, erasing the hands that built it
+  mode: the company's work claimed by a single name; mutual effort airbrushed out of its own achievement
+  loss: the makers' due; recognition severed from the collaboration that earned it
+  key_terms: harvested credit, erased hands, the single name, makers airbrushed out
+
+dynamic_dependency:
+  mechanism: The 3 needs the 6 of Wands to let its work be seen and honored; the recognition needs the collaboration to have built something genuinely worth the acclaim
+  function: Pentacles-3 supplies the real achievement under the honor; Wands-6 supplies the public recognition that gives the work its due
+  integration_outcome: a victory that names all its makers; acclaim resting honestly on shared mastery
+  key_terms: honor that names the makers, deserved acclaim, shared victory, recognition earned together
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, 7 of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 3 + 7 = 10 (X The Wheel of Fortune; the working company meets the defended position; mutual effort meeting the stand)
+elemental_bridge: Earth's joined hands meet Fire's held ground; the collaboration meets the resolve to defend what was built
+threshold_type: The built work and its defense; the company standing to keep what it made
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the 7's lone defense a company at its back; what one defended alone, many now hold together
+  process: the threatened position is reinforced by the whole workshop; the stand becomes a shared wall, not a solitary fight
+  outcome: a defense made durable by numbers and skill; the ground held by a company, not a single exhausted hand
+  key_terms: the shared wall, defense reinforced, company at the back, held together
+
+dynamic_antagonism:
+  mechanism: The 7's solitary, embattled stance collides with the 3's cooperative openness; the defender who trusts no one meets the company that works in the open
+  tension_axis: the lone guarded position versus the open collaboration
+  pentacles_position: Works in trust and shared view; resents the defender's siege-mentality secrecy
+  wands_position: Holds its ground alone, suspicious; reads the open collaboration as a breach in the wall
+  key_terms: siege mentality, the open bench, trust vs. suspicion, the breached wall
+
+dynamic_inhibition:
+  mechanism: The defensive crouch freezes the collaboration; the company stops building and only guards what it already made
+  blockade_nature: mutual effort cannot advance while every hand is committed to holding the line
+  pentacles_state: the workshop become a fortress; skill spent on defense, no new work begun
+  consequence: the craft stagnates behind its walls; a company that defends a past achievement and makes nothing new
+  key_terms: the fortress workshop, frozen on defense, walls over work, stagnant behind the line
+
+dynamic_devolution:
+  mechanism: The collaboration's defensiveness curdles into paranoid exclusion; the company walls out every new hand and idea as a threat
+  mode: the workshop turned bunker; mutual effort spent guarding against the very newcomers it needs
+  loss: the living craft; resilience hardened into a refusal that slowly starves the work
+  key_terms: the bunker, paranoid exclusion, walled-out renewal, starved craft
+
+dynamic_dependency:
+  mechanism: The 3 needs the 7 of Wands's resolve to protect what the collaboration built; the defense needs the company to share a burden no one can hold alone
+  function: Pentacles-3 supplies the company that makes the stand sustainable; Wands-7 supplies the resolve that keeps the built work from being lost
+  integration_outcome: a defense held by a whole company that still keeps building; resilience that protects without freezing the craft
+  key_terms: sustainable stand, protected and building, shared resolve, the held and growing work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, 8 of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 3 + 8 = 11 (XI Strength; the working company meets swift momentum; mutual effort meeting the rush of speed)
+elemental_bridge: Earth's deliberate hands meet Fire's acceleration; the careful collaboration meets the demand to build fast
+threshold_type: The build and the deadline; skilled effort meeting the pressure of speed
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 lets the 8's speed be sustained; many trained hands turn momentum into rapid, coordinated output
+  process: the work is parallelized across the crew; the rush, channeled through skill, becomes fast progress that still holds together
+  outcome: speed made safe by competence; momentum carried by a company that can build quickly and well
+  key_terms: fast and sound, parallel hands, momentum channeled, swift coordinated work
+
+dynamic_antagonism:
+  mechanism: The craft's pace of doing-it-right collides with the 8's demand for doing-it-now; mutual effort meets the acceleration that will not slow for quality
+  tension_axis: the time good work needs versus the speed the moment demands
+  pentacles_position: Insists on the care that takes time; distrusts the rush as the enemy of craft
+  wands_position: Presses for velocity; reads the careful pace as a brake the moment cannot afford
+  key_terms: care vs. velocity, the rush resisted, time good work needs, the demanded now
+
+dynamic_inhibition:
+  mechanism: The speed overruns the collaboration's coordination; the crew, pushed too fast, loses the synchrony skilled joint work requires
+  blockade_nature: mutual effort needs alignment, and the acceleration shakes the company out of step
+  pentacles_state: the workshop building faster than it can coordinate; skill scattered into a fast, incoherent rush
+  consequence: the work fragments at speed; haste shatters the very collaboration that made the pace possible
+  key_terms: lost synchrony, the incoherent rush, shaken out of step, fragmented at speed
+
+dynamic_devolution:
+  mechanism: The collaboration sacrifices all craft to velocity; the company ships fast garbage and calls the speed a virtue
+  mode: corners cut at scale; mutual effort degraded into a race that abandons the standard it was built on
+  loss: the mastery; speed kept and craft thrown away, a fast company making worse and worse work
+  key_terms: fast garbage, cut corners, the abandoned standard, speed without craft
+
+dynamic_dependency:
+  mechanism: The 3 needs the 8 of Wands to break its tendency toward endless polishing; the speed needs the collaboration to keep its rush coordinated and sound
+  function: Pentacles-3 supplies the skilled coordination that keeps fast work whole; Wands-8 supplies the momentum that gets the craft finished and out
+  integration_outcome: a company that builds both quickly and well; speed disciplined by craft, craft kept moving by momentum
+  key_terms: quick and whole, disciplined speed, coordinated rush, craft kept moving
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, 9 of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 3 + 9 = 12 (XII The Hanged Man; the working company meets tested endurance; mutual effort meeting the last reserve of strength)
+elemental_bridge: Earth's joined hands meet Fire's battered persistence; the collaboration meets the strength that has been tested to its edge
+threshold_type: The long build and the worn defender; shared effort meeting endurance nearly spent
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 renews the 9's depleted strength; a company shares the load the lone endurer could no longer carry alone
+  process: the others take up the weight the tested one has borne; perseverance becomes a relay, not a solitary last stand
+  outcome: endurance made sustainable; the long effort carried by a company that spells its weariest hands
+  key_terms: the shared load, endurance relayed, weariness spelled, sustainable perseverance
+
+dynamic_antagonism:
+  mechanism: The 9's scarred self-reliance collides with the 3's offered help; the one who has held alone too long meets the hands that would share the burden
+  tension_axis: the endurance that trusts only itself versus the collaboration that would lighten it
+  pentacles_position: Offers to take part of the weight; presses the worn one to let the company in
+  wands_position: Grips the burden alone, braced for betrayal; reads the offered help as a prelude to being failed again
+  key_terms: scarred self-reliance, refused help, braced for betrayal, the burden gripped alone
+
+dynamic_inhibition:
+  mechanism: The 9's exhaustion drags on the collaboration; one depleted hand, unable to keep pace and unwilling to rest, slows the whole company
+  blockade_nature: mutual effort cannot carry a member who will neither recover nor let go
+  pentacles_state: the workshop laboring around a spent hand; skill held back to the pace of the worn-out
+  consequence: the collaboration grinds; the build slowed to the limp of an endurance that will not yield
+  key_terms: the spent hand, the company's limp, neither rest nor release, ground to a crawl
+
+dynamic_devolution:
+  mechanism: The collaboration runs on the burnout of its strongest; mutual effort sustained by working its most enduring members to ruin
+  mode: the resilient ones spent until they break; the company quietly consuming the strength it depends on
+  loss: the durable craft; endurance mined until the best hands are wrecked and the work collapses with them
+  key_terms: mined endurance, the wrecked best hands, burnout sustained, the consumed strong
+
+dynamic_dependency:
+  mechanism: The 3 needs the 9 of Wands's tested strength to carry the work through its hardest stretch; the endurance needs the collaboration so it no longer has to hold alone
+  function: Pentacles-3 supplies the company that shares and renews the burden; Wands-9 supplies the disciplined strength that does not quit when the work is hard
+  integration_outcome: a perseverance carried by many, renewed instead of spent; tested strength given a company so it endures rather than breaks
+  key_terms: endurance shared, renewed strength, the carried burden, perseverance that holds
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, 10 of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 3 + 10 = 13 (XIII Death; the working company meets the crushing load; mutual effort meeting the weight one cannot carry)
+elemental_bridge: Earth's joined hands meet Fire's overload; the collaboration meets the burden that has broken a single back
+threshold_type: The shared lifting and the lone overload; the company meeting a weight meant to be divided
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 distributes the 10's crushing burden; what flattened one is divided into loads many hands can carry
+  process: the impossible weight is broken into shares; the responsibility, parceled across the company, becomes bearable
+  outcome: a burden made survivable by division; the load that ruined one carried lightly by many
+  key_terms: the divided burden, shared load, weight parceled out, the company carries it
+
+dynamic_antagonism:
+  mechanism: The 10's hoarded responsibility collides with the 3's shared effort; the one who carries everything alone meets the hands that would take a share
+  tension_axis: the burden gripped alone versus the load there to be divided
+  pentacles_position: Insists the weight be shared; presses the overloaded one to delegate
+  wands_position: Will not hand off the burden; reads delegation as failure, holds the whole load as proof of worth
+  key_terms: hoarded responsibility, refused delegation, the load as proof, the grip that will not open
+
+dynamic_inhibition:
+  mechanism: The 10's refusal to share jams the collaboration; the company stands ready to help and is given nothing to carry
+  blockade_nature: mutual effort cannot lighten a burden its bearer will not release
+  pentacles_state: the workshop idle beside an overloaded hand; skill unused while one back breaks under what all could lift
+  consequence: the burden crushes its bearer and the collaboration both; help present, refused, and wasted
+  key_terms: the idle company, the unreleased load, wasted help, the breaking back
+
+dynamic_devolution:
+  mechanism: The collaboration becomes a machine for dumping its burdens on the willing; mutual effort perverted into loading every weight onto whoever cannot say no
+  mode: the responsible ones buried under what others shed; the company's loads quietly piled on its most dutiful
+  loss: the fair division; collaboration become a conspiracy to exhaust the conscientious
+  key_terms: the dumped-on dutiful, shed weight piled, buried under others' loads, exhausted by duty
+
+dynamic_dependency:
+  mechanism: The 3 needs the 10 of Wands's hard truth about how much weight there really is; the burden needs the collaboration so no single back has to break beneath it
+  function: Pentacles-3 supplies the many hands that make the load bearable; Wands-10 supplies the honest measure of the responsibility to be shared
+  integration_outcome: a burden honestly weighed and fairly divided; responsibility carried by a company instead of crushing one
+  key_terms: fairly divided, honest weight, no broken backs, the burden borne together
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, Page of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 3 + 11 = 14 (XIV Temperance; the master company meets the eager newcomer; craft meeting youthful fire)
+elemental_bridge: Earth's skilled hands meet Fire's young flame; the workshop meets the apprentice burning to begin
+threshold_type: The bench and the eager beginner; mastery meeting raw creative energy
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the Page's untrained fire a craft to burn within; eager energy finds a workshop to make it skilled
+  process: the young flame is set among makers; the enthusiasm that would scatter is gathered into real, learnable work
+  outcome: energy apprenticed into skill; a beginner's fire grounded by a company that can teach it form
+  key_terms: fire apprenticed, energy gathered, enthusiasm skilled, the workshop catches the flame
+
+dynamic_antagonism:
+  mechanism: The craft's patient discipline collides with the Page's impatient eagerness; mastery's slow method meets the energy that wants to make now
+  tension_axis: the long apprenticeship versus the fire that will not wait to be trained
+  pentacles_position: Holds the beginner to the slow learning; distrusts the unskilled enthusiasm
+  wands_position: Wants to leap in and make; reads the disciplined method as a smothering of its fire
+  key_terms: slow learning vs. the leap, smothered fire, the patient method, eagerness restrained
+
+dynamic_inhibition:
+  mechanism: The collaboration's expert formality has no place for the Page's raw energy; the eager one is sidelined until the fire gutters
+  blockade_nature: mutual effort, pitched at the skilled, gives the beginner no real task to burn on
+  pentacles_state: the workshop benching its newest; skill withheld until the young energy dims from disuse
+  consequence: the enthusiasm dies untrained; the craft loses the fire it needed to renew itself
+  key_terms: the benched beginner, withheld skill, energy dimmed, untrained fire lost
+
+dynamic_devolution:
+  mechanism: The collaboration burns the Page out for its own ends; the eager newcomer worked hard on grunt tasks, their fire spent and never grown into craft
+  mode: enthusiasm exploited as cheap fuel; the young energy consumed without ever being taught
+  loss: the future maker; a fire used up where it should have been forged into skill
+  key_terms: exploited enthusiasm, cheap fuel, the burnt-out beginner, fire spent untaught
+
+dynamic_dependency:
+  mechanism: The 3 needs the Page of Wands's fresh fire to keep the craft from going stale; the enthusiasm needs the collaboration to forge its raw energy into real ability
+  function: Pentacles-3 supplies the discipline and company that turn energy into skill; Wands-Page supplies the fire that keeps the workshop alive and renewing
+  integration_outcome: a beginner whose fire becomes craft; a workshop kept burning by the energy it trains
+  key_terms: fire forged to skill, the trained flame, craft renewed, energy made able
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, Knight of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 3 + 12 = 15 (XV The Devil; the patient company meets the charging knight; craft meeting bold haste)
+elemental_bridge: Earth's steady collaboration meets Fire's headlong charge; the methodical workshop meets the one who acts before he plans
+threshold_type: The deliberate build and the bold rush; mutual effort meeting the charge
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the Knight's bold action a structure to drive; reckless energy, set in a skilled company, becomes decisive forward work
+  process: the charger's drive is aimed at the shared task; the company's craft turns his haste into momentum that actually builds
+  outcome: bold action made productive; the charge harnessed by a workshop that points it at real work
+  key_terms: the harnessed charge, bold action structured, haste aimed, decisive building
+
+dynamic_antagonism:
+  mechanism: The craft's deliberate cooperation collides with the Knight's solo headlong action; mutual effort meets the one who charges off without the company
+  tension_axis: the coordinated build versus the bold individual rush
+  pentacles_position: Needs the work planned and shared; resents the charger who acts without the team
+  wands_position: Will not wait to coordinate; reads the collaboration's planning as cowardice before bold action
+  key_terms: coordinate vs. charge, the solo rush, planning called cowardice, the team left behind
+
+dynamic_inhibition:
+  mechanism: The Knight's headlong haste shatters the collaboration's coordination; the company cannot keep formation around someone who keeps charging off
+  blockade_nature: mutual effort needs alignment, and the bold solo action keeps breaking the line
+  pentacles_state: the workshop forever regrouping after the charger; skill spent cleaning up bold action no one planned
+  consequence: the collaboration cannot hold; the build undone by a boldness that will not coordinate
+  key_terms: broken formation, the constant regroup, cleanup after the charge, coordination undone
+
+dynamic_devolution:
+  mechanism: The collaboration is dragged into reckless adventurism; the company's skill spent on bold doomed charges instead of sound work
+  mode: the workshop chasing the Knight's impulses; mutual effort squandered on action for its own thrill
+  loss: the mastery; craft burned on bravado, a skilled company wrecked on one bold fool's haste
+  key_terms: reckless adventurism, doomed charges, bravado over craft, skill squandered
+
+dynamic_dependency:
+  mechanism: The 3 needs the Knight of Wands's boldness to break its caution and act; the action needs the collaboration to make its charge land somewhere real
+  function: Pentacles-3 supplies the structure that turns bold haste into built work; Wands-Knight supplies the decisive drive that keeps the craft from over-deliberating
+  integration_outcome: a company that acts boldly and builds well; the charge given craft, the craft given drive
+  key_terms: bold and built, decisive craft, the aimed charge, drive and skill joined
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, Queen of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 3 + 13 = 16 (XVI The Tower; the working company meets the magnetic leader; craft meeting charismatic authority)
+elemental_bridge: Earth's mutual effort meets Fire's compelling presence; the workshop meets the one whose charisma gathers and drives it
+threshold_type: The crew and the magnetic leader; skilled hands meeting the fire that rallies them
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 is rallied and lifted by the Queen's charisma; her magnetic leadership gives the company a fire to build around
+  process: she draws the makers toward a shared vision; her presence turns a set of skilled hands into an inspired company
+  outcome: a collaboration energized by leadership; mutual effort raised higher by a magnetism that believes in the work
+  key_terms: rallied company, inspired effort, charisma around the craft, the lifted crew
+
+dynamic_antagonism:
+  mechanism: The 3's peer cooperation collides with the Queen's magnetic centrality; the guild of equals meets the leader everyone orbits
+  tension_axis: the flat company of makers versus the single charismatic center
+  pentacles_position: Works as equals by shared judgment; resents the gravitational pull toward one leading figure
+  wands_position: Leads by magnetism, expects to be the center; reads the peer structure as a refusal to be inspired
+  key_terms: equals vs. the center, the gravitational leader, peer judgment, inspiration refused
+
+dynamic_inhibition:
+  mechanism: The Queen's magnetism overwhelms the collaboration's shared craft; the makers build for her approval rather than the work's quality
+  blockade_nature: mutual effort bends toward pleasing the charismatic center, and honest craft-judgment falls silent
+  pentacles_state: the workshop orbiting a personality; skill subordinated to a leader's favor rather than the work
+  consequence: the craft warps around the charisma; a company that builds to be loved by its leader, not to build well
+  key_terms: built for approval, the orbited personality, silenced judgment, charisma over craft
+
+dynamic_devolution:
+  mechanism: The collaboration becomes a personality cult; the Queen's magnetism hardens into a court where the work serves only her glory
+  mode: the guild reduced to courtiers; mutual effort spent burnishing a single inspired figure
+  loss: the shared mastery; craft become flattery, the workshop a stage for one star
+  key_terms: the personality cult, courtiers not makers, burnished glory, craft as flattery
+
+dynamic_dependency:
+  mechanism: The 3 needs the Queen of Wands's charisma to inspire and unite what cold competence cannot; the magnetism needs the collaboration to make its inspiration into real built work
+  function: Pentacles-3 supplies the skilled company that turns inspiration into craft; Wands-Queen supplies the charismatic fire that lifts the work above the merely competent
+  integration_outcome: a company both inspired and genuinely skilled; charisma that serves the craft, craft that carries the fire
+  key_terms: inspired and skilled, charisma serving craft, the lifted and grounded company, fire that builds
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW
+
+---
+
+card_pair: 3 of Pentacles, King of Wands
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 3 + 14 = 17 (XVII The Star; the working company meets commanding vision; craft meeting the authority that directs it)
+elemental_bridge: Earth's mutual effort meets Fire's sovereign command; the workshop meets the leader whose vision sets its course
+threshold_type: The crew and the commander; skilled hands meeting the authority that aims them
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 is given direction by the King's commanding vision; his leadership aims the company's skill at a worthy end
+  process: the leader sets the course and the makers build it; vision and craft align into a company that knows where it is going
+  outcome: a collaboration with direction; mutual effort made purposeful by an authority that points it true
+  key_terms: aimed company, directed craft, vision and effort aligned, purposeful building
+
+dynamic_antagonism:
+  mechanism: The 3's peer collaboration collides with the King's sovereign command; the guild of equals meets the one who rules them
+  tension_axis: the company that decides together versus the authority that commands it
+  pentacles_position: Works by shared craft-judgment; resents a command that overrides the bench's knowledge
+  wands_position: Rules by vision and expects obedience; reads the collaboration's deliberation as insubordinate drift
+  key_terms: command vs. consensus, overridden judgment, the ruling vision, deliberation as drift
+
+dynamic_inhibition:
+  mechanism: The King's commanding vision, imposed too hard, silences the collaboration's craft-knowledge; the hands that know the work dare not correct the leader who does not
+  blockade_nature: mutual effort cannot inform the command when the authority brooks no contradiction
+  pentacles_state: the workshop executing a flawed order in silence; skill suppressed beneath a vision it cannot question
+  consequence: the work fails to the leader's blind spot; a company too commanded to save the build from its commander
+  key_terms: silenced craft-knowledge, the unquestioned order, suppressed skill, failure to the blind spot
+
+dynamic_devolution:
+  mechanism: The collaboration is reduced to the instrument of a single will's dominion; the guild's mastery annexed entirely to the King's command
+  mode: the makers become tools of one vision; mutual effort stripped of judgment, kept only for its hands
+  loss: the company of equals; craft severed from the knowledge that should guide it, made pure obedience
+  key_terms: the annexed guild, tools of one will, obedience without judgment, severed mastery
+
+dynamic_dependency:
+  mechanism: The 3 needs the King of Wands's commanding vision to give its skill a worthy direction; the authority needs the collaboration's craft-knowledge to keep its command from building the wrong thing
+  function: Pentacles-3 supplies the skilled company that realizes the vision and knows when it errs; Wands-King supplies the commanding direction that aims the craft at something worth making
+  integration_outcome: a company directed by vision yet trusted to inform it; command and craft governing the work together
+  key_terms: directed yet heeded, vision informed by craft, the aimed and trusted company, command and skill joined
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPW

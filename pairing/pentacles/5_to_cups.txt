@@ -1,0 +1,697 @@
+card_pair: 5 of Pentacles, Ace of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Emotional opening, love, receptivity, new feeling, overflowing heart
+numerical_relation: 5 + 1 = 6 (VI The Lovers; material loss meets emotional opening; hardship learning to love)
+elemental_bridge: Earth's deprivation meets Water's overflowing heart; the abandoned one discovers love arrives anyway
+threshold_type: The opening despite loss; hardship learning to receive love
+
+dynamic_genesis:
+  mechanism: The Ace's love arrives precisely when the 5 is most vulnerable; emotional opening becomes the answer to material despair
+  process: the hardship opens the heart to receiving; the deprivation teaches readiness to accept what is freely given; love arrives as salvation
+  outcome: love grounded in vulnerability; emotional opening rooted in having nothing else
+  key_terms: salvific love, opened vulnerability, grounded emotion, received grace
+
+dynamic_antagonism:
+  mechanism: The 5's despair clashes with the Ace's insistence that love is still possible; hardship meets redemptive feeling
+  tension_axis: the reality of loss versus the promise of feeling; material devastation versus emotional resurrection
+  five_of_pentacles_position: The loss is absolute; love cannot fill the empty belly
+  ace_of_cups_position: Love heals even the deepest wounds; feeling can transform despair
+  key_terms: urged surrender, denied redemption, insisted hardship, offered love
+
+dynamic_inhibition:
+  mechanism: The numbness of deprivation stops the opening; the heart cannot feel when survival is uncertain
+  blockade_nature: the emotional opening becomes impossible when basic needs are unmet
+  pentacles_state: the abandonment becomes total; even love cannot penetrate
+  consequence: the Ace arrives but finds no place to land in the hardened heart
+  key_terms: closed heart, unmet love, hardened deprivation, impossible opening
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into bitter refusal of love; the hardship becomes the reason to reject the Ace
+  mode: the deprivation used to prove love is a lie; the loss becomes the argument against hope
+  loss: the genuine healing love could have offered; hardship becomes the prison of cynicism
+  key_terms: obsessive despair, refused love, bitter hardship, enslaved numbness
+
+dynamic_dependency:
+  mechanism: The 5 needs the Ace to teach it that feeling can survive deprivation; love needs the hardship to understand its own necessity
+  function: Pentacles-5 supplies the depth of need that makes love precious; Cups-Ace supplies the grace that teaches deprivation that love still exists
+  integration_outcome: love grounded in shared vulnerability; emotional opening rooted in acceptance of loss
+  key_terms: grounded love, vulnerable opening, precious feeling, accepted hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, 2 of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Partnership, duality, emotional connection, mutual feeling, balanced union
+numerical_relation: 5 + 2 = 7 (VII The Chariot; material loss meets partnership; hardship learning to unite)
+elemental_bridge: Earth's isolated loss meets Water's mutual bond; the abandoned discovers belonging
+threshold_type: The union despite separation; hardship learning togetherness
+
+dynamic_genesis:
+  mechanism: The partnership becomes the answer to the isolation of hardship; togetherness heals what material loss could not
+  process: the deprivation opens to mutual feeling; the loss teaches the value of connection; the hardship discovers that being with another is the only real wealth
+  outcome: partnership grounded in shared loss; union made precious by deprivation
+  key_terms: shared loss, precious union, grounded partnership, rooted togetherness
+
+dynamic_antagonism:
+  mechanism: The 5's destitution clashes with the 2's requirement for balanced exchange; hardship meets what demands equality
+  tension_axis: the reality of unequal need versus the promise of equal partnership; poverty versus balanced union
+  five_of_pentacles_position: Has nothing to offer; needs everything
+  two_of_cups_position: Partnership requires balance; one cannot give while the other only takes
+  key_terms: urged equality, demanded receptivity, insisted balance, offered generosity
+
+dynamic_inhibition:
+  mechanism: The inequality stops the partnership from forming; the union cannot be balanced when one is in such need
+  blockade_nature: the partnership becomes impossible when the 5 is too depleted to reciprocate
+  pentacles_state: the isolation deepens; the 5 remains alone even as the 2 extends
+  consequence: the connection fails; the 5 remains abandoned
+  key_terms: failed union, deepened isolation, unmet partnership, broken bond
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into the degradation of dependency; the hardship becomes the reason for self-erasure
+  mode: the deprivation so complete it destroys capacity for healthy relationship; need becomes consuming hunger
+  loss: the genuine partnership that could have healed; hardship becomes the reason for further abandonment
+  key_terms: obsessive need, enslaved dependency, degraded hardship, consumed self
+
+dynamic_dependency:
+  mechanism: The 5 needs the 2 to teach it that being together is itself healing; partnership needs the 5's vulnerability to know its own depth
+  function: Pentacles-5 supplies the honesty that makes true mutual feeling possible; Cups-2 supplies the acceptance that teaches hardship that it is worthy of love
+  integration_outcome: partnership grounded in shared vulnerability; union that honors both struggle and strength
+  key_terms: vulnerable union, grounded partnership, mutual hardship, accepted love
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, 3 of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Celebration, joy, emotional communion, friendship, festive togetherness
+numerical_relation: 5 + 3 = 8 (VIII Justice; material loss meets celebration; hardship facing joy)
+elemental_bridge: Earth's desolation meets Water's festive gathering; the abandoned watches the feast
+threshold_type: The outcast before the feast; hardship facing celebration
+
+dynamic_genesis:
+  mechanism: The 5's deprivation teaches the depth of celebration; hardship shows why gathering matters
+  process: the loss teaches value; the abandonment shows what community means; the hardship becomes the ground for profound gratitude for togetherness
+  outcome: celebration made sacred by knowing loss; joy earned through deprivation
+  key_terms: earned joy, sacred celebration, rooted gratitude, grounded communion
+
+dynamic_antagonism:
+  mechanism: The 5's destitution clashes with the 3's unconscious abundance; hardship meets celebration that ignores suffering
+  tension_axis: the reality of despair versus the bliss of the feast; excluded poverty versus included joy
+  five_of_pentacles_position: Outside in the cold; watching the warmth from afar
+  three_of_cups_position: Gathered in warmth; unaware of the suffering outside
+  key_terms: urged inclusion, defended gathering, insisted poverty, offered feast
+
+dynamic_inhibition:
+  mechanism: The exclusion stops the hardship from joining; the celebration cannot include deprivation without ceasing to be festive
+  blockade_nature: the hardship remains outside; the celebration remains incomplete and somewhat obscene
+  pentacles_state: the abandonment deepens; watching others celebrate intensifies the isolation
+  consequence: the 5 remains excluded; the 3 remains blind to the suffering
+  key_terms: excluded hardship, blind celebration, deepened isolation, severed bond
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into bitter envy of the celebration; hardship becomes the reason for resentment
+  mode: the deprivation used to poison the joy of others; the abandonment becomes the source of malice
+  loss: the genuine connection celebration could have offered; hardship becomes the reason for hostility
+  key_terms: obsessive envy, poisoned joy, bitter hardship, enslaved resentment
+
+dynamic_dependency:
+  mechanism: The 5 needs the 3 to include it in the gathering; celebration needs the 5's honesty to become truly sacred
+  function: Pentacles-5 supplies the depth that makes joy meaningful; Cups-3 supplies the willingness to gather that teaches hardship that community must be inclusive
+  integration_outcome: celebration that includes all; joy grounded in solidarity with suffering
+  key_terms: inclusive joy, shared hardship, sacred celebration, grounded communion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, 4 of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Apathy, emotional stagnation, dissatisfaction, withdrawn feeling, boredom
+numerical_relation: 5 + 4 = 9 (IX The Hermit; material loss meets emotional withdrawal; hardship facing numbness)
+elemental_bridge: Earth's cold desolation meets Water's numb apathy; both have given up
+threshold_type: The mutual withdrawal; hardship meeting apathy
+
+dynamic_genesis:
+  mechanism: The 5's deprivation and the 4's withdrawal reinforce each other; both agree that nothing matters
+  process: the loss confirms the apathy; the numbness allows the hardship to be unbearable; together they create complete surrender
+  outcome: mutual acceptance of despair; both giving up together
+  key_terms: shared despair, mutual surrender, confirmed apathy, accepted hardship
+
+dynamic_antagonism:
+  mechanism: The 5's active suffering clashes with the 4's passive withdrawal; hardship meets what has stopped feeling
+  tension_axis: the acute pain of loss versus the numb resignation of apathy; desperate hardship versus resigned numbness
+  five_of_pentacles_position: The suffering is raw and urgent; something must change
+  four_of_cups_position: Nothing will change; resignation is the only peace
+  key_terms: urged feeling, demanded numbness, insisted urgency, offered resignation
+
+dynamic_inhibition:
+  mechanism: The shared despair stops all movement toward change; neither can rouse the other from despair
+  blockade_nature: the suffering is mutual and total; no exit is possible
+  pentacles_state: the hardship becomes eternal; withdrawal becomes absolute
+  consequence: both remain locked in shared despair
+  key_terms: shared despair, mutual paralysis, eternal hardship, locked numbness
+
+dynamic_devolution:
+  mechanism: The mutual despair corrupts into obsessive confirmation of hopelessness; both become convinced nothing can change
+  mode: the hardship used to prove the apathy's wisdom; the withdrawal used to deepen the loss
+  loss: the genuine solidarity that suffering could have created; despair becomes the machinery of mutual destruction
+  key_terms: obsessive despair, mutual destruction, enslaved hardship, poisoned numbness
+
+dynamic_dependency:
+  mechanism: The 5 needs the 4 to finally move; the apathy needs the hardship to feel something again
+  function: Pentacles-5 supplies the urgency that might break the numbness; Cups-4 supplies the peace that teaches hardship when rest is truly needed
+  integration_outcome: honest acceptance of difficulty; compassionate rest from struggle
+  key_terms: honest hardship, compassionate rest, accepted difficulty, grounded peace
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, 5 of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Loss, grief, heartbreak, mourning, emotional devastation
+numerical_relation: 5 + 5 = 10 (X The Wheel of Fortune; material loss meets emotional loss; hardship meeting grief)
+elemental_bridge: Earth's deprivation meets Water's dissolving sorrow; both are broken
+threshold_type: The mutual ruin; hardship meeting heartbreak
+
+dynamic_genesis:
+  mechanism: The 5's hardship and grief acknowledge each other; both losses are witnessed and honored together
+  process: the material deprivation is recognized alongside the emotional devastation; neither is isolated; both losses combine into profound sorrow
+  outcome: profound grief that includes all loss; sorrow that is complete and shared
+  key_terms: profound sorrow, witnessed loss, shared grief, complete devastation
+
+dynamic_antagonism:
+  mechanism: The 5's material deprivation clashes with the 5's emotional loss; one hardship compounds the other
+  tension_axis: the need to survive materially versus the need to grieve emotionally; hunger versus heartbreak
+  five_of_pentacles_position: The belly is empty; there is nothing left
+  five_of_cups_position: The heart is broken; there is nothing worth living for
+  key_terms: urged survival, demanded mourning, insisted emptiness, offered death
+
+dynamic_inhibition:
+  mechanism: The combined loss becomes total; neither can move past their own devastation to help the other
+  blockade_nature: the suffering is too complete; there is nowhere to stand
+  pentacles_state: the hardship becomes final; survival is impossible
+  consequence: both remain in complete devastation
+  key_terms: total loss, complete devastation, final hardship, absolute grief
+
+dynamic_devolution:
+  mechanism: The combined losses corrupt into complete dissolution; both become willing to disappear
+  mode: the material loss and emotional death reinforce each other; life itself becomes unbearable
+  loss: the possibility of recovery; both losses become the reason for giving up entirely
+  key_terms: obsessive dissolution, mutual death, enslaved hardship, consumed grief
+
+dynamic_dependency:
+  mechanism: The two 5s need each other to survive the devastation; together they can witness what neither could bear alone
+  function: Pentacles-5 supplies the grounding that allows grief to be felt safely; Cups-5 supplies the emotional truth that teaches hardship that loss can be borne
+  integration_outcome: grief that honors both material and emotional loss; acceptance of devastation
+  key_terms: honored loss, accepted grief, witnessed devastation, grounded sorrow
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, 6 of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Nostalgia, innocence, reunion, past tenderness, childhood wonder
+numerical_relation: 5 + 6 = 11 (XI Strength; material loss meets innocent memory; hardship learning from the past)
+elemental_bridge: Earth's present desolation meets Water's tender memory; the abandoned recalls safety
+threshold_type: The memory before loss; hardship meeting innocence
+
+dynamic_genesis:
+  mechanism: The memory of innocent times teaches the hardship what was once possible; nostalgia becomes the proof that deprivation is not permanent
+  process: the tender past shows the 5 that it was not always destitute; the memory permits hope that change is possible; innocence becomes the ground for future redemption
+  outcome: hardship grounded in memory of better times; loss made bearable by recall of abundance
+  key_terms: grounded memory, bearable hardship, recalled abundance, hopeful deprivation
+
+dynamic_antagonism:
+  mechanism: The 5's present devastation clashes with the memory of innocence; hardship meets what is painfully past
+  tension_axis: the current reality of loss versus the memory of plenty; present deprivation versus past wonder
+  five_of_pentacles_position: Now is unbearable; the past cannot be recovered
+  six_of_cups_position: Innocence cannot be returned to; the past is gone
+  key_terms: urged acceptance, guarded memory, insisted loss, offered tenderness
+
+dynamic_inhibition:
+  mechanism: The memory becomes torture rather than comfort; recalling innocence intensifies the loss
+  blockade_nature: nostalgia prevents moving forward; the past becomes the reason for despair
+  pentacles_state: the hardship is made worse by memory; the deprivation is more bitter knowing what was
+  consequence: the 5 cannot recover; the memory wounds more than it heals
+  key_terms: tortured memory, wounded hardship, bitter loss, intensified deprivation
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into obsessive attachment to the past; hardship becomes the reason for refusing the present
+  mode: the memory used to escape unbearable reality; the nostalgia becomes the machinery of denial
+  loss: the possibility of moving forward; hardship becomes the prison of the past
+  key_terms: obsessive memory, enslaved nostalgia, imprisoned hardship, refused present
+
+dynamic_dependency:
+  mechanism: The 5 needs the 6 to teach it that innocence can be recovered in different form; the memory needs the hardship to understand its own value
+  function: Pentacles-5 supplies the honesty that makes memory real; Cups-6 supplies the tenderness that teaches hardship that some innocence endures
+  integration_outcome: hardship informed by memory; loss grounded in understanding of what mattered
+  key_terms: grounded loss, informed hardship, bearable memory, recovered tenderness
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, 7 of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Illusion, temptation, fantasy, confusion, delusional desire
+numerical_relation: 5 + 7 = 12 (XII The Hanged Man; material loss meets seductive escape; hardship tempted by fantasy)
+elemental_bridge: Earth's brutal reality meets Water's seductive mirage; the destitute discovers escape
+threshold_type: The illusion before hunger; hardship meeting temptation
+
+dynamic_genesis:
+  mechanism: The fantasy becomes the escape from unbearable deprivation; illusion is the mercy that permits endurance
+  process: the hardship finds comfort in dreams that are not real; the deprivation permits escape into what never was; illusion becomes necessary medicine
+  outcome: hardship sustained through fantasy; loss made bearable by delusion
+  key_terms: necessary illusion, endured hardship, escaped deprivation, sustained fantasy
+
+dynamic_antagonism:
+  mechanism: The 5's need for escape clashes with the 7's tormenting nature; the fantasy offers and withdraws
+  tension_axis: hunger for the mirage versus the cruelty of illusion; the need for escape versus the lie it perpetuates
+  five_of_pentacles_position: Grasps at the fantasy as the only hope
+  seven_of_cups_position: The illusion deepens the despair when the awakening comes
+  key_terms: urged reality, grasped fantasy, insisted truth, offered escape
+
+dynamic_inhibition:
+  mechanism: The attachment to illusion prevents real change; the fantasy stops the hardship from seeking true solutions
+  blockade_nature: as long as the fantasy offers false hope, real help cannot arrive
+  pentacles_state: the hardship worsens while energy goes to maintaining the illusion
+  consequence: the deprivation deepens; the fantasy becomes more necessary and more destructive
+  key_terms: destructive fantasy, worsened hardship, prevented help, enslaved hope
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into obsessive pursuit of the mirage; hardship becomes the machinery of delusion
+  mode: the deprivation used as justification for the fantasy; the loss becomes the reason for deeper denial
+  loss: the possibility of genuine recovery; hardship becomes the pathway into madness
+  key_terms: obsessive fantasy, enslaved hardship, deepened delusion, descended madness
+
+dynamic_dependency:
+  mechanism: The 5 needs the 7 to finally show it the truth; the illusion needs the hardship to understand its own cruelty
+  function: Pentacles-5 supplies the grounding that eventually pierces the delusion; Cups-7 supplies the temptation that teaches hardship about the difference between escape and healing
+  integration_outcome: hardship that knows when illusion is kindness and when it is destruction; discernment in choosing escape
+  key_terms: discerning hardship, understood illusion, grounded truth, awakened fantasy
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, 8 of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Abandonment, departure, walking away, chosen leaving, emotional departure
+numerical_relation: 5 + 8 = 13 (XIII Death; material loss meets chosen departure; hardship meeting rejection)
+elemental_bridge: Earth's abandonment meets Water's chosen leaving; both are alone
+threshold_type: The double abandonment; hardship meeting departure
+
+dynamic_genesis:
+  mechanism: The 5's hardship teaches the 8 the price of leaving; the abandonment makes the departure seem necessary
+  process: the material deprivation is seen as confirmation that staying is impossible; the loss justifies the choice to go; hardship becomes the reason for the escape
+  outcome: departure grounded in desperation; leaving that is both escape and tragedy
+  key_terms: desperate departure, justified leaving, tragic escape, grounded abandonment
+
+dynamic_antagonism:
+  mechanism: The 5's destitution clashes with the 8's freedom of choice; hardship meets what chooses to leave anyway
+  tension_axis: the reality of being trapped versus the illusion of freedom; forced loss versus chosen departure
+  five_of_pentacles_position: Abandoned and desperate; wants someone to stay
+  eight_of_cups_position: Chooses to leave despite the suffering; the heart demands departure
+  key_terms: urged staying, demanded freedom, insisted need, offered wings
+
+dynamic_inhibition:
+  mechanism: The departure confirms the abandonment; the loss becomes final and irreversible
+  blockade_nature: as the 8 leaves, the hardship deepens; the choice to depart is the last blow
+  pentacles_state: the hardship becomes total; there is now no one and nothing left
+  consequence: the 5 remains alone; the 8 leaves carrying nothing but regret
+  key_terms: final abandonment, deepened hardship, chosen loss, completed solitude
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into obsessive clinging to the departing one; hardship becomes the machinery of guilt
+  mode: the deprivation used to bind the 8; the loss becomes the reason for the emotional weight of leaving
+  loss: the possibility of parting with grace; hardship becomes the reason for tortured departure
+  key_terms: obsessive clinging, enslaved departure, tortured leaving, enslaved 8
+
+dynamic_dependency:
+  mechanism: The 5 needs the 8 to teach it that some departures are necessary even amid hardship; the leaving needs the hardship to understand that staying would be worse
+  function: Pentacles-5 supplies the grounding that makes departure possible; Cups-8 supplies the courage that teaches hardship that sometimes love means accepting abandonment
+  integration_outcome: hardship that permits necessary departure; departure grounded in honest recognition of limit
+  key_terms: honored departure, accepted loss, grounded leaving, understood abandonment
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, 9 of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Wish fulfillment, contentment, emotional satisfaction, satisfied desire, achieved happiness
+numerical_relation: 5 + 9 = 14 (XIV Temperance; material loss meets wish fulfillment; hardship meeting grace)
+elemental_bridge: Earth's deprivation meets Water's contentment; the abandoned receives the gift
+threshold_type: The grace before the 5; hardship meeting undeserved gift
+
+dynamic_genesis:
+  mechanism: The wish fulfillment arrives as pure grace; the hardship receives what it did not earn and does not deserve
+  process: the contentment comes without cause; the satisfaction arrives despite the deprivation; the abandoned is shown that grace exists
+  outcome: gratitude rooted in deprivation; joy made precious by hardship
+  key_terms: graced wish, earned gratitude, precious joy, redeemed hardship
+
+dynamic_antagonism:
+  mechanism: The 5's belief in hopelessness clashes with the 9's satisfaction; hardship meets what it did not know was possible
+  tension_axis: the conviction that nothing can improve versus the reality of fulfillment; despair versus joy
+  five_of_pentacles_position: Doesn't believe this is real; fears the fulfillment will be taken
+  nine_of_cups_position: The wish is achieved; contentment is present
+  key_terms: urged trust, feared loss, insisted joy, doubted grace
+
+dynamic_inhibition:
+  mechanism: The fear that the gift will be lost stops the joy from settling in; the hardship prevents the wish from being truly fulfilling
+  blockade_nature: the contentment cannot be complete when the 5 is certain it will vanish
+  pentacles_state: the hardship prevents receiving; the deprivation becomes the obstacle to happiness
+  consequence: the wish is fulfilled but not truly enjoyed
+  key_terms: unmet joy, doubted fulfillment, prevented happiness, conditional gift
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into obsessive protection of the gift; hardship becomes the reason for destroying the wish
+  mode: the deprivation used to justify hoarding the gift; the fear of loss becomes the reason for losing it
+  loss: the genuine joy the wish could have offered; hardship becomes the machinery of sabotage
+  key_terms: obsessive protection, self-sabotaged wish, enslaved joy, destroyed gift
+
+dynamic_dependency:
+  mechanism: The 5 needs the 9 to teach it that grace is real and is meant to be enjoyed; the wish needs the hardship to understand its own preciousness
+  function: Pentacles-5 supplies the understanding that makes joy precious; Cups-9 supplies the fulfillment that teaches hardship that grace exists
+  integration_outcome: wish fulfillment grounded in gratitude; joy earned through deprivation
+  key_terms: grateful joy, graced wish, earned happiness, received gift
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, 10 of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Family harmony, happiness, love's fulfillment, emotional completeness, belonging
+numerical_relation: 5 + 10 = 15 (XV The Devil; material loss meets family belonging; hardship meeting acceptance)
+elemental_bridge: Earth's isolation meets Water's gathered family; the outcast is invited home
+threshold_type: The family finding the lost one; hardship meeting belonging
+
+dynamic_genesis:
+  mechanism: The family accepts the 5 despite its deprivation; belonging becomes the answer to abandonment
+  process: the family does not require wholeness; the 5 is accepted in brokenness; the loss is honored within the circle; hardship becomes the entry point to true belonging
+  outcome: belonging grounded in acceptance of loss; family that includes the broken
+  key_terms: accepted hardship, grounded belonging, included deprivation, whole family
+
+dynamic_antagonism:
+  mechanism: The 5's shame about deprivation clashes with the family's insistence on acceptance; hardship meets what will not let it be hidden
+  tension_axis: the shame of poverty versus the family's love; rejection of belonging versus forced acceptance
+  five_of_pentacles_position: Doesn't deserve to belong; the shame is too great
+  ten_of_cups_position: The shame is irrelevant; you belong here
+  key_terms: urged belonging, defended shame, insisted love, kept deprivation
+
+dynamic_inhibition:
+  mechanism: The shame prevents entry into family; the hardship becomes the reason for remaining outside
+  blockade_nature: the family cannot fully include the 5 when the 5 refuses to be included
+  pentacles_state: the hardship becomes choice; the deprivation becomes protective
+  consequence: the 5 remains outside by choice; the family cannot bridge this gap
+  key_terms: resistant hardship, chosen isolation, maintained shame, defended separation
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into obsessive proof that it is unworthy of belonging; hardship becomes the reason for self-exile
+  mode: the deprivation used to justify isolation; the loss becomes the proof that the family would be wrong to accept
+  loss: the genuine belonging the family offers; hardship becomes the machinery of self-rejection
+  key_terms: obsessive shame, enslaved rejection, self-exiled hardship, destroyed belonging
+
+dynamic_dependency:
+  mechanism: The 5 needs the family to teach it that belonging is not earned; the family needs the 5's honesty to deepen its understanding of love
+  function: Pentacles-5 supplies the grounding that makes family real and practical; Cups-10 supplies the acceptance that teaches hardship that it is worthy of belonging
+  integration_outcome: family that includes the broken; belonging grounded in acceptance of loss
+  key_terms: accepted belonging, whole family, grounded love, included hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, Page of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Curiosity, emotional exploration, feeling-learning, youthful receptivity, openness
+numerical_relation: 5 + 11 = 16 (XVI The Tower; material loss meets youthful feeling; hardship breaking through walls)
+elemental_bridge: Earth's closed deprivation meets Water's open curiosity; the abandoned learns to feel again
+threshold_type: The breaking of walls; hardship meeting openness
+
+dynamic_genesis:
+  mechanism: The Page's openness breaks through the hardship's defensive numbness; curiosity becomes the way back to feeling
+  process: the deprivation had closed the heart; the youthful openness insists that feeling is still possible; the hardship discovers emotion beneath the frozen surface
+  outcome: feeling recovered through childlike openness; hardship learning to be vulnerable again
+  key_terms: recovered feeling, vulnerable hardship, opened curiosity, broken walls
+
+dynamic_antagonism:
+  mechanism: The 5's protective numbness clashes with the Page's demand to feel everything; hardship meets what will not be defended
+  tension_axis: necessary numbness versus insisted openness; protective closure versus forced opening
+  five_of_pentacles_position: The numbness is necessary protection; feeling is too dangerous
+  page_of_cups_position: Life requires feeling; numbness is a death in itself
+  key_terms: urged opening, defended numbness, insisted feeling, kept walls
+
+dynamic_inhibition:
+  mechanism: The demand to feel overpowers the defenses; the hardship becomes flooded with unprocessed emotion
+  blockade_nature: the numbness breaks too suddenly; the deprivation cannot handle the rush of feeling
+  pentacles_state: the hardship is overwhelmed; the walls collapse without protection
+  consequence: the opening becomes trauma; feeling arrives as assault
+  key_terms: traumatic opening, overwhelmed hardship, broken walls, flooded heart
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into oscillation between numbness and emotional flooding; hardship becomes unstable
+  mode: the deprivation alternates between frozen and raw; the loss becomes the machinery of emotional volatility
+  loss: the possibility of integrated feeling; hardship becomes emotional chaos
+  key_terms: obsessive oscillation, enslaved feeling, chaotic hardship, broken stability
+
+dynamic_dependency:
+  mechanism: The 5 needs the Page to teach it that feeling is possible again; curiosity needs the hardship to teach it about boundaries and protection
+  function: Pentacles-5 supplies the grounding that makes safe feeling possible; Cups-Page supplies the openness that teaches hardship that healing begins with wanting to feel
+  integration_outcome: hardship that can feel safely; openness grounded in protection
+  key_terms: safe feeling, grounded curiosity, protected openness, integrated hardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, Knight of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Romance, emotional action, passionate pursuit, love-driven action, heart's quest
+numerical_relation: 5 + 12 = 17 (XVII The Star; material loss meets passionate pursuit; hardship learning from love)
+elemental_bridge: Earth's desolation meets Water's passionate movement; the abandoned is pursued
+threshold_type: The rescuer arriving; hardship meeting passionate care
+
+dynamic_genesis:
+  mechanism: The Knight's passionate pursuit arrives as rescue; the hardship is chosen and pursued despite deprivation
+  process: the Knight sees the 5's worth beneath the loss; the pursuit is despite the hardship; the passionate care becomes the answer to abandonment
+  outcome: hardship made meaningful by being chosen; loss transformed by love
+  key_terms: chosen hardship, meaningful loss, rescued deprivation, passionate care
+
+dynamic_antagonism:
+  mechanism: The 5's belief that love will not come clashes with the Knight's insistence; hardship meets what refuses to believe the loss is final
+  tension_axis: the reality of abandonment versus the promise of passionate care; despair versus hope
+  five_of_pentacles_position: Doesn't believe the pursuit is real; expects to be abandoned again
+  knight_of_cups_position: The heart cannot be stopped; the pursuit continues regardless of obstacle
+  key_terms: urged trust, defended despair, insisted love, maintained pursuit
+
+dynamic_inhibition:
+  mechanism: The fear of hope stops the rescue from being received; the hardship prevents the care from landing
+  blockade_nature: the deprivation is too complete to believe rescue is possible
+  pentacles_state: the hardship becomes the obstacle to its own salvation
+  consequence: the Knight must fight the 5's refusal even as rescuing
+  key_terms: resisted rescue, defended despair, prevented hope, feared care
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into sabotage of the rescue; hardship becomes the machinery of its own continued suffering
+  mode: the deprivation used to prove the care is false; the loss becomes the reason for rejecting help
+  loss: the genuine rescue the Knight offers; hardship becomes the reason for isolation
+  key_terms: obsessive sabotage, enslaved despair, self-rejected care, enslaved Knight
+
+dynamic_dependency:
+  mechanism: The 5 needs the Knight to teach it that love can arrive; the care needs the hardship to understand its own worth
+  function: Pentacles-5 supplies the grounding that proves the rescue is real; Cups-Knight supplies the passionate pursuit that teaches hardship that it is worthy of love despite everything
+  integration_outcome: hardship made meaningful through love; pursuit that honors the depth of loss
+  key_terms: honored hardship, meaningful rescue, grounded love, received care
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, Queen of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Emotional mastery, nurturing wisdom, intuitive understanding, emotional authority, compassion
+numerical_relation: 5 + 13 = 18 (XVIII The Moon; material loss meets nurturing wisdom; hardship meeting the mother)
+elemental_bridge: Earth's desolation meets Water's abundant nurture; the abandoned is gathered in
+threshold_type: The mother finding the lost child; hardship meeting compassion
+
+dynamic_genesis:
+  mechanism: The Queen's compassionate understanding sees through the hardship to the worth beneath; the deprivation is met with unconditional care
+  process: the wisdom knows what the loss has taught; the nurturing accepts the brokenness; the compassion becomes the answer to abandonment
+  outcome: hardship honored by wise understanding; deprivation made bearable through compassion
+  key_terms: honored hardship, wise compassion, grounded nurturing, understood loss
+
+dynamic_antagonism:
+  mechanism: The 5's pride or shame clashes with the Queen's insistence on care; hardship meets what will not let it suffer alone
+  tension_axis: the demand for independence versus insisted-upon care; needing nothing versus needing everything
+  five_of_pentacles_position: Will not accept that it needs care; the pride is too great
+  queen_of_cups_position: Compassion cannot be refused; the wisdom insists on nurturing
+  key_terms: urged surrender, defended independence, insisted care, offered wisdom
+
+dynamic_inhibition:
+  mechanism: The hardship becomes too proud or too broken to accept the nurturing; the deprivation prevents receiving care
+  blockade_nature: the Queen's compassion cannot penetrate the walls of deprivation
+  pentacles_state: the hardship remains isolated despite the offered wisdom
+  consequence: the Queen remains outside; the 5 remains alone
+  key_terms: resisted care, defended isolation, prevented wisdom, refused nurturing
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into resentment of the Queen's care; hardship becomes the reason for bitterness
+  mode: the deprivation used to prove care is pity; the loss becomes the reason for rejecting compassion
+  loss: the genuine healing the Queen could have offered; hardship becomes the machinery of continued suffering
+  key_terms: obsessive resentment, enslaved hardship, rejected wisdom, bitter loss
+
+dynamic_dependency:
+  mechanism: The 5 needs the Queen to teach it that accepting care is not weakness; the wisdom needs the hardship to show what compassion truly means
+  function: Pentacles-5 supplies the honesty that makes compassion real and practical; Cups-Queen supplies the nurturing that teaches hardship that being cared for is itself a gift
+  integration_outcome: hardship that permits nurturing; compassion grounded in real understanding of loss
+  key_terms: accepted care, grounded compassion, understood hardship, lived wisdom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC
+
+---
+
+card_pair: 5 of Pentacles, King of Cups
+archetype_pentacles: Hardship, poverty, material loss, deprivation, abandonment
+archetype_cups: Emotional authority, heart's dominion, compassionate power, mastered feeling, authoritative love
+numerical_relation: 5 + 14 = 19 (XIX The Sun; material loss meets emotional authority; hardship meeting redemptive power)
+elemental_bridge: Earth's desolation meets Water's commanding presence; the abandoned is commanded to rise
+threshold_type: The king demanding the 5's resurrection; hardship meeting authoritative love
+
+dynamic_genesis:
+  mechanism: The King's authority is expressed through compassion; the command is that the 5 rise and be healed
+  process: the deprivation is not ignored but transformed; the hardship is commanded into meaningfulness; the authority becomes the force that permits recovery
+  outcome: hardship transformed through being claimed by love; loss made meaningful by being witnessed
+  key_terms: meaningful hardship, witnessed loss, claimed deprivation, redemptive power
+
+dynamic_antagonism:
+  mechanism: The 5's resistance to authority clashes with the King's command to heal; hardship meets what will not permit continued suffering
+  tension_axis: the right to remain broken versus the demand to be healed; the comfort of despair versus the demand for resurrection
+  five_of_pentacles_position: The suffering is self-owned; this authority has no right
+  king_of_cups_position: The heart's dominion includes the power to demand healing; the command is love
+  key_terms: urged healing, demanded autonomy, insisted resurrection, kept control
+
+dynamic_inhibition:
+  mechanism: The refusal of the King's command stops the healing; the hardship prevents the transformation that authority offers
+  blockade_nature: the 5 remains broken even as commanded to rise; the authority cannot force healing that the 5 will not accept
+  pentacles_state: the hardship becomes entrenched; the deprivation becomes chosen identity
+  consequence: the King's command goes unheeded; both remain incomplete
+  key_terms: resisted healing, defended hardship, ignored command, chosen suffering
+
+dynamic_devolution:
+  mechanism: The 5 corrupts into obsessive resistance to the King's redemptive power; hardship becomes the reason for rebellion
+  mode: the deprivation used to prove the King's love is conditional; the loss becomes the reason for refusing his authority
+  loss: the genuine redemption the King could have offered; hardship becomes the machinery of eternal isolation
+  key_terms: obsessive rebellion, enslaved deprivation, refused redemption, eternal loss
+
+dynamic_dependency:
+  mechanism: The 5 needs the King to teach it that healing is possible through surrender; the authority needs the hardship to understand what compassion truly means
+  function: Pentacles-5 supplies the grounding that makes healing real and practical; Cups-King supplies the redemptive power that teaches deprivation that resurrection is possible
+  integration_outcome: hardship transformed through surrender to compassionate authority; redemption grounded in loss
+  key_terms: redeemed hardship, surrendered healing, meaningful loss, transformed deprivation
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to water (cups)
+  numerical_axis: 5-1 through 5-14
+  uid: 5OPC

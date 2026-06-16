@@ -1,0 +1,697 @@
+card_pair: 4 of Pentacles, Ace of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 4 + 1 = 5 (V The Pope; guarded holding meets creative spark; the grip learns to kindle)
+elemental_bridge: Earth's firm grasp meets Fire's volatile beginning; the holder discovers what cannot be controlled but can be tended
+threshold_type: The grip on fire; holding learning to nurture flame
+
+dynamic_genesis:
+  mechanism: The 4's security becomes the kindling ground where the Ace's spark can catch; the holding discovers that some resources must be protected differently to grow
+  process: the firm grasp becomes gentle enough to shield the spark from wind; the control becomes the tending; the grip provides the shelter where the fire can gather strength
+  outcome: a holding that is guardianship of the flame; security that enables rather than constrains
+  key_terms: sheltered spark, tended fire, guarded flame, protected potential
+
+dynamic_antagonism:
+  mechanism: The 4's desire to contain clashes with the Ace's need to ignite; the grip meets what wants to burn free
+  tension_axis: holding and protecting versus letting the fire spread; careful containment versus wild ignition
+  four_of_pentacles_position: Wants to keep the spark controlled so it becomes useful; fears that unleashed it will burn everything
+  ace_of_wands_position: The spark wants to ignite into flame; the grip that controls it smothers it
+  key_terms: urged containment, demanded freedom, insisted control, offered ignition
+
+dynamic_inhibition:
+  mechanism: The fear of chaos stops the ignition; the grip becomes the extinguisher of the spark
+  blockade_nature: the fire cannot kindle when the grip is too tight; the holding prevents the very growth it sought to ensure
+  pentacles_state: the security becomes dead ash; holding ceases to warm
+  consequence: the spark is smothered; the potential never kindles
+  key_terms: smothered spark, dead holding, controlled stagnation, extinguished fire
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive control of the spark; the holding becomes the cage of the flame
+  mode: the grip tightens to prevent any possibility of burning; the possession becomes the reason the fire cannot grow
+  loss: the genuine warming the spark could have brought; the resource becomes useless
+  key_terms: obsessive control, dead spark, barred flame, useless fire
+
+dynamic_dependency:
+  mechanism: The 4 needs the Ace to teach it that some things grow precisely because they burn; the spark needs the grip to provide the shelter where it can kindle into sustained flame
+  function: Pentacles-4 supplies the care that protects the growing fire; Wands-Ace supplies the spark that teaches the grip that growth requires some risk
+  integration_outcome: a holding that tends the flame; security that enables the fire to grow
+  key_terms: tended flame, enabled growth, sheltered fire, guarded spark
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, 2 of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 4 + 2 = 6 (VI The Lovers; possessive holding meets expanding vision; the grip meets choice)
+elemental_bridge: Earth's firm control meets Fire's growing dominion; the holder discovers what builds itself
+threshold_type: The grip on vision; holding meeting expansion
+
+dynamic_genesis:
+  mechanism: The 4's security becomes the foundation for the 2's vision; the holding discovers that some power is built on secure ground
+  process: the resources held become the capital for expansion; the control becomes the framework within which the vision is built; the security enables the visionary to choose wisely
+  outcome: a holding that supports growth; security that is dynamic
+  key_terms: supported growth, dynamic security, built vision, grounded expansion
+
+dynamic_antagonism:
+  mechanism: The 4's desire to maintain what is clashes with the 2's hunger to expand; the grip meets what strains against its boundaries
+  tension_axis: keeping what is secured versus expanding into the new; consolidating versus exploring
+  four_of_pentacles_position: Wants to strengthen what is held; fears that expansion will dilute what was built
+  two_of_wands_position: The vision calls to expand; the grip holding the resources becomes a limitation
+  key_terms: urged consolidation, demanded expansion, insisted holding, offered vision
+
+dynamic_inhibition:
+  mechanism: The refusal to let go stops the expansion; the grip becomes the boundary the vision cannot cross
+  blockade_nature: the vision cannot expand when all resources are held too tightly
+  pentacles_state: the security becomes static; holding prevents growth
+  consequence: the vision remains a dream; the resources remain locked
+  key_terms: locked vision, static holding, prevented growth, bounded dreaming
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive resistance to the vision; the holding becomes the opponent of growth
+  mode: the grip used to prevent any expansion; the possession becomes the enemy of what could be built
+  loss: the genuine partnership the holding could have offered; the security becomes imprisonment
+  key_terms: obsessive resistance, enslaved vision, imprisoned growth, blocked expansion
+
+dynamic_dependency:
+  mechanism: The 4 needs the 2 to teach it that true security multiplies through growth; the vision needs the grip to ground it in what is real and buildable
+  function: Pentacles-4 supplies the foundation that makes the vision buildable; Wands-2 supplies the expansive dream that teaches the grip that its purpose is to enable, not limit
+  integration_outcome: a vision built on secure ground; growth that is grounded in what is held
+  key_terms: grounded vision, supported growth, buildable dream, enabled expansion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, 3 of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 4 + 3 = 7 (VII The Chariot; possessive holding meets collaborative enterprise; the grip meets what moves)
+elemental_bridge: Earth's firm grasp meets Fire's forward motion; the holder faces what is already moving
+threshold_type: The grip on motion; holding meeting forward thrust
+
+dynamic_genesis:
+  mechanism: The 4's security provides the base camp for the 3's expansion; the holding becomes the headquarters from which to explore
+  process: the resources held are the supplies for the journey; the control becomes the organization that permits the enterprise; the grip learns that holding can enable moving forward
+  outcome: a holding that supports the adventure; security that is both home base and catalyst
+  key_terms: mobile security, supported enterprise, grounded expansion, enabling holding
+
+dynamic_antagonism:
+  mechanism: The 4's resistance to change clashes with the 3's demand for forward movement; the grip meets what will not wait
+  tension_axis: maintaining what is held versus letting it move; stasis versus progress
+  four_of_pentacles_position: Wants to keep what it has secured; fears that motion will scatter the resources
+  three_of_wands_position: The way forward is clear; standing still is stagnation
+  key_terms: urged caution, demanded motion, insisted stillness, offered advancement
+
+dynamic_inhibition:
+  mechanism: The fear of loss stops the movement; the grip becomes the anchor holding back the enterprise
+  blockade_nature: the expansion cannot happen when all resources are held too tightly
+  pentacles_state: the security becomes paralyzing; holding prevents action
+  consequence: the resources stay safe but useless; the adventure never launches
+  key_terms: grounded enterprise, locked resources, paralyzed motion, held expansion
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive prevention of the venture; the holding becomes sabotage
+  mode: the grip used to stop the forward motion; the possession becomes the enemy of enterprise
+  loss: the genuine partnership the holding could have offered; the security becomes betrayal
+  key_terms: obsessive prevention, sabotaged motion, enslaved enterprise, blocked advancement
+
+dynamic_dependency:
+  mechanism: The 4 needs the 3 to teach it that security is worthless if it prevents living; the enterprise needs the grip to provide the resources and backing for real expansion
+  function: Pentacles-4 supplies the resources and stability that make the venture possible; Wands-3 supplies the vision that teaches the grip that holding is only meaningful when it enables something greater
+  integration_outcome: a venture grounded in real resources; movement that has solid backing
+  key_terms: backed enterprise, resourced movement, grounded expansion, enabling holding
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, 4 of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 4 + 4 = 8 (VIII Justice; possessive holding meets communal celebration; the grip learns to gather)
+elemental_bridge: Earth's territorial possession meets Fire's warming hearth; the holder discovers what binds community together
+threshold_type: The grip that gathers; holding meeting assembly
+
+dynamic_genesis:
+  mechanism: The 4's resources become the abundance that permits celebration; the holding discovers that its greatest value is in creating the feast
+  process: the grip opens wide enough to host; the control becomes the organization that permits gathering; the possession becomes the foundation of community
+  outcome: a holding that creates abundance; security that is also festive
+  key_terms: abundant holding, festive security, created feast, generous grip
+
+dynamic_antagonism:
+  mechanism: The 4's desire for privacy clashes with the celebration's invitation to all; the grip meets what wants to be public
+  tension_axis: keeping what is held private versus sharing it publicly; exclusive possession versus communal feast
+  four_of_pentacles_position: Wants to keep the abundance controlled; fears that public celebration will cheapen what was built
+  four_of_wands_position: The joy is meant to be shared; holding it private makes it less
+  key_terms: urged sharing, demanded privacy, insisted feast, kept exclusive
+
+dynamic_inhibition:
+  mechanism: The desire for exclusivity stops the celebration; the grip prevents the gathering from happening
+  blockade_nature: the feast cannot occur when the abundance is held too tightly
+  pentacles_state: the holding becomes miserly; security becomes stinginess
+  consequence: the resources stay safe but joyless; the celebration never occurs
+  key_terms: joyless holding, prevented feast, miserly grip, ungathered abundance
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive protection of what is held; the holding becomes the obstacle to community
+  mode: the grip used to prevent the celebration; the possession becomes the reason for isolation
+  loss: the genuine warmth the holding could have shared; the security becomes loneliness
+  key_terms: obsessive protection, isolated holding, lonely security, prevented joy
+
+dynamic_dependency:
+  mechanism: The 4 needs the 4 to teach it that the true purpose of holding is to make gathering possible; the celebration needs the grip to provide the abundance that makes the feast real
+  function: Pentacles-4 supplies the resources and stability that permit gathering; Wands-4 supplies the joy that teaches the grip that what is held is only truly alive when shared
+  integration_outcome: an abundant gathering grounded in secure resources; celebration that is also stable
+  key_terms: abundant feast, grounded joy, secure celebration, shared holding
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, 5 of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Conflict, competition, struggle, contested victory
+numerical_relation: 4 + 5 = 9 (IX The Hermit; possessive holding meets contested conflict; the grip meets resistance)
+elemental_bridge: Earth's firm position meets Fire's competitive clash; the holder faces what will not submit
+threshold_type: The grip on conflict; holding meeting opposition
+
+dynamic_genesis:
+  mechanism: The 4's hold becomes the contested resource; the security discovered through struggle; the grip learns what it must defend
+  process: the resources held are desired by others; the control is tested in conflict; the possession becomes the reason for the struggle
+  outcome: a holding proven in contest; security that is earned through resistance
+  key_terms: contested holding, earned security, defended grip, tested possession
+
+dynamic_antagonism:
+  mechanism: The 4's need for total control clashes with the 5's competitive challenge; the grip meets what will not yield
+  tension_axis: maintaining the hold versus yielding to the challenge; refusing to surrender versus accepting defeat
+  four_of_pentacles_position: Will not relinquish what is held; fights to maintain control
+  five_of_wands_position: The challenge is real; the grip must be overcome or it must yield
+  key_terms: urged surrender, demanded resistance, insisted victory, offered challenge
+
+dynamic_inhibition:
+  mechanism: The conflict becomes endless; neither the grip nor the challenge can prevail completely
+  blockade_nature: the holding cannot be fully maintained while under constant assault
+  pentacles_state: the grip becomes exhausted; the security becomes precarious
+  consequence: the struggle continues without resolution; the hold weakens
+  key_terms: exhausted grip, weakened holding, endless conflict, precarious security
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive defense of what is held; the grip becomes tyrannical
+  mode: the hold becomes oppressive; the possession becomes the justification for the struggle
+  loss: the genuine power the holding could have offered; the security becomes the cause of the conflict
+  key_terms: obsessive defense, tyrannical grip, enslaved opposition, endless struggle
+
+dynamic_dependency:
+  mechanism: The 4 needs the 5 to teach it that not all challenges can be dominated; the conflict needs the grip to finally choose whether to hold or to release
+  function: Pentacles-4 supplies the steadiness that can face opposition; Wands-5 supplies the challenge that teaches the grip that true victory sometimes means choosing what to surrender
+  integration_outcome: a holding that is neither tyrannical nor weak; security that knows its own strength
+  key_terms: wise holding, grounded victory, just grip, balanced security
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, 6 of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 4 + 6 = 10 (X The Wheel of Fortune; possessive holding meets public victory; the grip meets recognition)
+elemental_bridge: Earth's private possession meets Fire's public acknowledgment; the holder discovers what cannot stay hidden
+threshold_type: The grip on acclaim; holding meeting public recognition
+
+dynamic_genesis:
+  mechanism: The 4's security provides the ground where the 6's victory can be achieved; the holding becomes the foundation of public success
+  process: the resources held become the capital that permits the victory; the control becomes the discipline that ensures success; the grip provides the steadiness that permits recognition
+  outcome: a holding that generates success; security that is publicly acknowledged
+  key_terms: successful holding, recognized security, achieved grip, validated possession
+
+dynamic_antagonism:
+  mechanism: The 4's desire for privacy clashes with the 6's public victory; the grip meets what will be seen and known
+  tension_axis: keeping what is held private versus being publicly recognized; hidden possession versus open achievement
+  four_of_pentacles_position: Wants to keep the resources and even the success private; fears exposure
+  six_of_wands_position: The victory must be public; the achievement demands acknowledgment
+  key_terms: urged privacy, demanded exposure, insisted secrecy, offered recognition
+
+dynamic_inhibition:
+  mechanism: The fear of exposure stops the public recognition; the grip prevents the achievement from being claimed
+  blockade_nature: the victory cannot be openly celebrated when the holder insists on privacy
+  pentacles_state: the success becomes hollow; the holding prevents the fruits of success from being enjoyed
+  consequence: the achievement is real but unacknowledged; the grip reaps no reward
+  key_terms: unrecognized achievement, hollow success, hidden victory, unclaimed grip
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive hoarding of success; the holding becomes the refusal of recognition
+  mode: the grip used to prevent others from knowing of the achievement; the possession becomes the reason for isolation
+  loss: the genuine honor the achievement could have brought; the success becomes meaningless
+  key_terms: obsessive secrecy, refused recognition, hidden success, denied honor
+
+dynamic_dependency:
+  mechanism: The 4 needs the 6 to teach it that success is only complete when it is recognized; the victory needs the grip to provide the resources that make the achievement possible
+  function: Pentacles-4 supplies the discipline and resources that make success possible; Wands-6 supplies the public acknowledgment that teaches the grip that its greatest reward is being recognized
+  integration_outcome: a success that is both solid and honored; holding that permits public achievement
+  key_terms: honored success, recognized holding, grounded achievement, public grip
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, 7 of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 4 + 7 = 11 (XI Strength; possessive holding meets defensive resilience; the grip meets what stands firm)
+elemental_bridge: Earth's steady grip meets Fire's determined stand; the holder discovers a kindred firmness
+threshold_type: The grip standing; holding meeting resilient defense
+
+dynamic_genesis:
+  mechanism: The 4's control mirrors the 7's determination; the holding and the stand teach each other; the grip discovers its own resilience
+  process: the resources held are defended with equal passion to the 7's stance; the control becomes unwavering; the grip learns the strength of its own commitment
+  outcome: a holding that is resolute; security that stands firm
+  key_terms: resolute holding, firm grip, steadfast control, unwavering security
+
+dynamic_antagonism:
+  mechanism: The 4's passive control clashes with the 7's active defense; the grip meets what fights back harder
+  tension_axis: maintaining what is held versus actively fighting for it; passive security versus active struggle
+  four_of_pentacles_position: Holds what it has but prefers not to fight; wants peace
+  seven_of_wands_position: The position must be fought for; passivity will cost the ground
+  key_terms: urged defense, demanded peace, insisted struggle, kept position
+
+dynamic_inhibition:
+  mechanism: The refusal to fight stops the defense; the grip cannot maintain the position if it will not engage
+  blockade_nature: the standing ground becomes impossible when the holder refuses to actively defend
+  pentacles_state: the security becomes uncertain; the holding weakens
+  consequence: the position is lost; the grip learns too late the cost of passivity
+  key_terms: lost position, weakened grip, surrendered ground, abandoned security
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive holding while refusing to fight; the grip becomes useless
+  mode: the holding becomes a prayer for mercy; the possession becomes the reason for defeat
+  loss: the genuine strength the holding could have offered; the security becomes vulnerable
+  key_terms: obsessive holding, praying grip, useless security, defeated possession
+
+dynamic_dependency:
+  mechanism: The 4 needs the 7 to teach it that true security requires willingness to defend; the stand needs the grip to provide the ground from which resistance is possible
+  function: Pentacles-4 supplies the steadiness that grounds the defense; Wands-7 supplies the willingness to fight that teaches the grip that holding requires courage
+  integration_outcome: a holding that will defend itself; security grounded in resolute stance
+  key_terms: defended holding, courageous grip, grounded stand, secure resistance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, 8 of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 4 + 8 = 12 (XII The Hanged Man; possessive holding meets accelerating momentum; the grip meets what moves too fast)
+elemental_bridge: Earth's slow grip meets Fire's rapid acceleration; the holder faces what cannot be slowed
+threshold_type: The grip overtaken; holding meeting swift motion
+
+dynamic_genesis:
+  mechanism: The 4's resources enable the 8's swift movement; the holding provides the supplies for rapid progress
+  process: the grip lets go just enough to permit acceleration; the control becomes the launch pad for speed; the security enables the momentum to build
+  outcome: a holding that launches; security that catalyzes speed
+  key_terms: launching grip, catalyzing security, enabled speed, accelerated holding
+
+dynamic_antagonism:
+  mechanism: The 4's desire to slow and control clashes with the 8's demand for speed; the grip meets what will not be restrained
+  tension_axis: slowing to maintain control versus accelerating freely; careful management versus rapid movement
+  four_of_pentacles_position: Wants to control the pace; fears that speed will cause loss
+  eight_of_wands_position: The momentum must build; slowness is death
+  key_terms: urged caution, demanded speed, insisted control, offered acceleration
+
+dynamic_inhibition:
+  mechanism: The grip becomes the brake on the accelerating motion; the holding stops the speed
+  blockade_nature: the momentum cannot build when the grip holds back
+  pentacles_state: the security becomes a chain; the holding prevents the movement
+  consequence: the speed never reaches its potential; the grip exhausts the motion
+  key_terms: braked motion, exhausted speed, slowed momentum, chained acceleration
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive slowing of the momentum; the holding becomes the destruction of progress
+  mode: the grip used to stop what is moving; the possession becomes the enemy of advancement
+  loss: the genuine progress the motion could have made; the security becomes the obstacle
+  key_terms: obsessive slowing, destroyed momentum, enslaved speed, blocked progress
+
+dynamic_dependency:
+  mechanism: The 4 needs the 8 to teach it that speed sometimes requires releasing control; the momentum needs the grip to provide the ground from which to launch
+  function: Pentacles-4 supplies the resources and stability that permit safe speed; Wands-8 supplies the acceleration that teaches the grip that true control sometimes means letting go
+  integration_outcome: a motion that is both swift and grounded; speed that has solid backing
+  key_terms: grounded speed, backed momentum, secure acceleration, enabled motion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, 9 of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 4 + 9 = 13 (XIII Death; possessive holding meets tested endurance; the grip meets what is worn but unbroken)
+elemental_bridge: Earth's steady grasp meets Fire's burning resilience; the holder discovers what cannot be exhausted
+threshold_type: The grip tested; holding meeting endurance
+
+dynamic_genesis:
+  mechanism: The 4's holding provides the foundation for the 9's endurance; the grip and the strength teach each other
+  process: the resources held sustain the struggle; the control becomes the discipline that permits perseverance; the security becomes the reason the strength can endure
+  outcome: a holding that endures; security that is tested and proven
+  key_terms: proven holding, tested security, enduring grip, sustained resilience
+
+dynamic_antagonism:
+  mechanism: The 4's passive holding clashes with the 9's active struggle; the grip meets what has worn itself thin
+  tension_axis: maintaining ease versus enduring hardship; comfortable holding versus tested strength
+  four_of_pentacles_position: Wants comfort and ease; does not want struggle
+  nine_of_wands_position: The struggle is necessary; comfort would be betrayal of what has been endured
+  key_terms: urged struggle, demanded ease, insisted endurance, offered comfort
+
+dynamic_inhibition:
+  mechanism: The refusal to struggle stops the strength from being tested; the grip becomes the reason the endurance fails
+  blockade_nature: the true strength cannot develop when the grip protects too much
+  pentacles_state: the security becomes weakness; the holding becomes fragile
+  consequence: the strength is never tested; it remains untested and fragile
+  key_terms: untested strength, fragile grip, weak security, failed endurance
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive comfort-seeking while the struggle continues; the holding becomes indifference
+  mode: the grip focused on ease while the strength is exhausted; the possession becomes the reason for the weakness
+  loss: the genuine support the holding could have offered; the security becomes betrayal
+  key_terms: obsessive comfort, indifferent grip, exhausted strength, failed security
+
+dynamic_dependency:
+  mechanism: The 4 needs the 9 to teach it that true security is proven through hardship; the endurance needs the grip to provide the ground and resources for the struggle
+  function: Pentacles-4 supplies the steadiness and resources that make endurance possible; Wands-9 supplies the tested strength that teaches the grip that security is only real when it has been proven
+  integration_outcome: a holding that supports the long struggle; security grounded in tested resilience
+  key_terms: supportive holding, proven security, grounded strength, sustained grip
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, 10 of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 4 + 10 = 14 (XIV Temperance; possessive holding meets carried burden; the grip meets what is heavy)
+elemental_bridge: Earth's steady grasp meets Fire's burning load; the holder discovers what cannot be lightened
+threshold_type: The grip on burden; holding meeting weight
+
+dynamic_genesis:
+  mechanism: The 4's control becomes the structure that permits the burden to be carried; the holding discovers that it can support what is heavy
+  process: the grip becomes strong enough to help bear the load; the resources held are made available to assist; the security becomes the shoulder to lean on
+  outcome: a holding that is supportive; security that is strength
+  key_terms: strong holding, supportive security, bearing grip, offered shoulder
+
+dynamic_antagonism:
+  mechanism: The 4's desire for ease clashes with the burden's refusal to lighten; the grip meets what will not become less heavy
+  tension_axis: maintaining lightness versus bearing the weight; avoiding burden versus accepting responsibility
+  four_of_pentacles_position: Wants to remain light and free; does not want additional weight
+  ten_of_wands_position: The burden is there; it must be carried; denial will not lighten it
+  key_terms: urged acceptance, demanded freedom, insisted burden, offered help
+
+dynamic_inhibition:
+  mechanism: The refusal to help stops the burden from being bearable; the grip becomes useless
+  blockade_nature: the burden cannot be borne alone when the grip refuses to assist
+  pentacles_state: the holding becomes isolating; the security becomes selfish
+  consequence: the burden becomes crushing; the grip watches from safety
+  key_terms: isolated burden, selfish grip, crushing weight, unshared holding
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive avoidance of the burden; the holding becomes abandonment
+  mode: the grip used to escape; the possession becomes the excuse for refusal
+  loss: the genuine help the holding could have offered; the security becomes heartlessness
+  key_terms: obsessive avoidance, abandoned burden, heartless grip, cruel security
+
+dynamic_dependency:
+  mechanism: The 4 needs the burden to teach it that true security includes sharing the weight; the load needs the grip to finally help carry it
+  function: Pentacles-4 supplies the strength and steadiness that makes the burden bearable; Wands-10 supplies the weight that teaches the grip that its purpose includes support and aid
+  integration_outcome: a holding that shares the burden; security that is also strength
+  key_terms: shared burden, supportive grip, helping holding, strong security
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, Page of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 4 + 11 = 15 (XV The Devil; possessive holding meets enthusiastic spark; the grip meets youthful fire)
+elemental_bridge: Earth's careful grasp meets Fire's eager beginning; the holder meets what is restless
+threshold_type: The grip on enthusiasm; holding meeting youthful fire
+
+dynamic_genesis:
+  mechanism: The 4's security becomes the home base for the Page's exploration; the holding provides the foundation from which to venture
+  process: the grip becomes the safety net; the resources held become the supplies for adventure; the control becomes the permission to risk
+  outcome: a holding that enables adventure; security that makes exploration possible
+  key_terms: secure base, enabled exploration, grounded spark, sheltered enthusiasm
+
+dynamic_antagonism:
+  mechanism: The 4's desire to keep things controlled clashes with the Page's need to explore freely; the grip meets what is restless
+  tension_axis: maintaining control versus allowing exploration; keeping near versus letting venture
+  four_of_pentacles_position: Wants to keep the Page under supervision; fears that freedom will cause loss
+  page_of_wands_position: The world calls; the grip becomes the cage
+  key_terms: urged caution, demanded freedom, insisted control, offered adventure
+
+dynamic_inhibition:
+  mechanism: The demand for control stops the exploration; the grip becomes the chain around enthusiasm
+  blockade_nature: the spark cannot kindle when the grip is too tight; the Page cannot venture when watched
+  pentacles_state: the holding becomes constraining; security becomes imprisonment
+  consequence: the enthusiasm dies; the Page becomes resentful
+  key_terms: chained enthusiasm, dying spark, imprisoned Page, resentful youth
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive control of the Page; the holding becomes the reason for rebellion
+  mode: the grip so tight it forces the Page to desperate escape; the possession becomes the enemy
+  loss: the genuine mentorship the holding could have offered; the security becomes tyranny
+  key_terms: obsessive control, enslaved youth, necessary rebellion, tyrannical grip
+
+dynamic_dependency:
+  mechanism: The 4 needs the Page's enthusiasm to remind it that security is meant to enable living; the spark needs the grip to know where home is when the adventure becomes overwhelming
+  function: Pentacles-4 supplies the foundation and security that make exploration safe; Wands-Page supplies the enthusiasm that teaches the grip that its purpose is to enable, not limit
+  integration_outcome: a home that is safe base for adventure; security that permits exploration
+  key_terms: safe base, enabled adventure, grounded spark, held enthusiasm
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, Knight of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 4 + 12 = 16 (XVI The Tower; possessive holding meets passionate action; the grip meets bold motion)
+elemental_bridge: Earth's careful control meets Fire's bold action; the holder faces what will not wait
+threshold_type: The grip on passion; holding meeting adventure
+
+dynamic_genesis:
+  mechanism: The 4's resources enable the Knight's bold action; the holding becomes the capital for adventure
+  process: the grip opens just enough to provide what is needed; the resources become supplies for the quest; the security becomes the assurance that permits risk
+  outcome: a holding that fuels action; security that enables boldness
+  key_terms: enabled action, funded quest, assured grip, supported boldness
+
+dynamic_antagonism:
+  mechanism: The 4's need for caution clashes with the Knight's passionate haste; the grip meets what will not slow
+  tension_axis: maintaining careful control versus allowing passionate action; prudent planning versus bold movement
+  four_of_pentacles_position: Wants the Knight to be more cautious; fears that passion will waste the resources
+  knight_of_wands_position: The heart calls to action now; caution is cowardice
+  key_terms: urged caution, demanded action, insisted care, offered boldness
+
+dynamic_inhibition:
+  mechanism: The demand for caution stops the action; the grip becomes the brake on the quest
+  blockade_nature: the adventure cannot happen when the grip holds back
+  pentacles_state: the holding becomes paralyzing; security becomes risk-aversion
+  consequence: the quest is never undertaken; the resources remain unused
+  key_terms: unused resources, paralyzed action, prevented quest, braked passion
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive control of the Knight; the holding becomes the reason for abandonment
+  mode: the grip so tight it forces the Knight to steal and flee; the possession becomes the enemy
+  loss: the genuine partnership the holding could have offered; the security becomes the reason for loss
+  key_terms: obsessive control, enslaved passion, necessary theft, abandoned holding
+
+dynamic_dependency:
+  mechanism: The 4 needs the Knight to teach it that security is worthless if it prevents living; the action needs the grip to provide the resources and backing for the quest
+  function: Pentacles-4 supplies the resources and steadiness that make the action possible; Wands-Knight supplies the passion that teaches the grip that its greatest wealth is enabling the beloved's journey
+  integration_outcome: an adventure grounded in real resources; action that has solid backing
+  key_terms: backed action, resourced quest, grounded adventure, enabled passion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, Queen of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 4 + 13 = 17 (XVII The Star; possessive holding meets passionate leadership; the grip meets visionary power)
+elemental_bridge: Earth's firm control meets Fire's inspired mastery; the holder discovers what leads through magnetic vision
+threshold_type: The grip on vision; holding meeting leadership
+
+dynamic_genesis:
+  mechanism: The 4's resources support the Queen's vision; the holding becomes the foundation of inspired leadership
+  process: the grip becomes steady enough to support the vision; the resources become the means through which the vision is manifested; the security enables the Queen to lead with confidence
+  outcome: a holding that supports inspiration; security that enables visionary power
+  key_terms: visionary holding, inspired security, supported leadership, grounded vision
+
+dynamic_antagonism:
+  mechanism: The 4's need for control clashes with the Queen's charismatic authority; the grip meets what leads through magnetism
+  tension_axis: maintaining personal control versus supporting the Queen's leadership; individual power versus shared vision
+  four_of_pentacles_position: Wants to control the direction; fears that the Queen's magnetism will overshadow its authority
+  queen_of_wands_position: The vision is clear; the resources are meant to manifest it; the grip is an obstacle
+  key_terms: urged support, demanded control, insisted leadership, offered vision
+
+dynamic_inhibition:
+  mechanism: The demand for control stops the vision from being manifested; the grip prevents the leadership from leading
+  blockade_nature: the vision cannot spread when all resources are held tightly
+  pentacles_state: the holding becomes stingy; security becomes selfishness
+  consequence: the vision remains a private dream; the leadership is constrained
+  key_terms: constrained vision, prevented leadership, stingy grip, private dream
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive control of the Queen; the holding becomes tyranny
+  mode: the grip used to limit the leadership; the possession becomes the reason the vision cannot spread
+  loss: the genuine power the Queen could have wielded; the security becomes imprisonment
+  key_terms: obsessive control, tyrannical grip, enslaved vision, imprisoned power
+
+dynamic_dependency:
+  mechanism: The 4 needs the Queen to teach it that security multiplies when it serves vision; the leadership needs the grip to provide the resources that make the vision real
+  function: Pentacles-4 supplies the resources and steadiness that make the vision buildable; Wands-Queen supplies the charismatic vision that teaches the grip that its greatest strength is supporting what is greater than itself
+  integration_outcome: a vision manifested through secure resources; leadership grounded in real means
+  key_terms: grounded vision, resourced leadership, supported power, manifest dream
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW
+
+---
+
+card_pair: 4 of Pentacles, King of Wands
+archetype_pentacles: Holding, security, control, possessiveness, guarded resources
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 4 + 14 = 18 (XVIII The Moon; possessive holding meets commanding power; the grip meets dominion)
+elemental_bridge: Earth's firm grasp meets Fire's commanding presence; the holder discovers what cannot be denied
+threshold_type: The grip serving; holding meeting absolute rule
+
+dynamic_genesis:
+  mechanism: The 4's resources become the instrument of the King's dominion; the holding serves his vision
+  process: the grip learns to obey the King's direction; the control becomes the execution of his will; the security supports his rule
+  outcome: a holding that serves absolute vision; security that implements power
+  key_terms: serving holding, implemented rule, obedient grip, executed dominion
+
+dynamic_antagonism:
+  mechanism: The 4's need for independent control clashes with the King's demand for total obedience; the grip meets what will dominate all
+  tension_axis: maintaining personal power versus surrendering to the King; independent control versus commanded grip
+  four_of_pentacles_position: Wants to maintain its own authority; resists becoming only the instrument of another
+  king_of_wands_position: All power flows through the King's vision; the grip is nothing but an extension of his rule
+  key_terms: urged submission, demanded independence, insisted command, offered dominion
+
+dynamic_inhibition:
+  mechanism: The demand for absolute submission stops the grip's independent operation; the holding becomes only what the King wills
+  blockade_nature: the control cannot remain one's own when the King commands all
+  pentacles_state: the holding becomes enslaved; the grip loses its own consciousness
+  consequence: the grip executes but does not choose
+  key_terms: enslaved grip, lost autonomy, demanded submission, empty holding
+
+dynamic_devolution:
+  mechanism: The 4 corrupts into obsessive enforcement of the King's commands; the holding becomes tyranny
+  mode: the grip used to punish any resistance to the King's rule; the possession becomes the machinery of oppression
+  loss: the genuine security the holding could have offered; the control becomes the tool of another's tyranny
+  key_terms: obsessive obedience, enforced rule, enslaved grip, tyrannical holding
+
+dynamic_dependency:
+  mechanism: The 4 needs the King to teach it that ultimate power requires ultimate service; the dominion needs the grip to hold steady so command can be executed
+  function: Pentacles-4 supplies the steadiness and resources that implement the King's rule; Wands-King supplies the commanding vision that teaches the grip that true power is found in serving what is greater
+  integration_outcome: a holding that serves visionary rule with full commitment; security that implements authoritative power
+  key_terms: wise service, committed holding, implemented mastery, steady grip
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 4-1 through 4-14
+  uid: 4OPW

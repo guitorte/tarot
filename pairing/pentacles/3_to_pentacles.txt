@@ -1,0 +1,697 @@
+card_pair: 3 of Pentacles, Ace of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: 3 + 1 = 4 (IV The Emperor; established craft meets new possibility; the workshop receives seed)
+elemental_bridge: Earth's collaborative effort meets Earth's fresh ground; the craft learns what new possibility looks like
+threshold_type: The craft that opens; collaboration welcoming the new beginning
+
+dynamic_genesis:
+  mechanism: The 3's established workshop receives the Ace with full attention; the craft teaches how to honor the new without losing focus
+  process: the artisans gather around the seed; the collaborative effort makes space for what is arriving; the skill learns the first gesture of integration
+  outcome: new beginning rooted in established mastery; the Ace planted in soil prepared by long craft
+  key_terms: prepared ground, honored beginning, integrated seed, received potential
+
+dynamic_antagonism:
+  mechanism: The 3's commitment to the current work clashes with the Ace's demand for immediate engagement; the craft meets what insists on starting now
+  tension_axis: deepening existing work versus beginning the new; collaborative focus versus pulling attention elsewhere
+  three_of_pentacles_position: Wants to finish what the team is working on; fears interruption will ruin the flow
+  ace_of_pentacles_position: Insists on being worked now; refuses to wait for the team's current rhythm to complete
+  key_terms: urged completion, demanded engagement, insisted waiting, kept focus
+
+dynamic_inhibition:
+  mechanism: The need to tend the Ace prevents the 3 from finishing the current work; the workshop loses its rhythm when split between what is and what is arriving
+  blockade_nature: the collaboration stalls when effort must divide; the craft cannot deepen because attention must go to the new seed
+  pentacles_state: the team's momentum broken; the established work frozen mid-gesture
+  consequence: neither work completes nor does the Ace find full welcome
+  key_terms: stalled craft, divided effort, frozen team, unfinished work
+
+dynamic_devolution:
+  mechanism: The 3 corrupts into obsessive tending of the Ace while the current work decays; the workshop becomes caretaking without purpose
+  mode: the craft turns to maintenance only; the collaboration used to preserve what is failing rather than to create
+  loss: the genuine new beginning the craft could have enabled; the work becomes burial of the old
+  key_terms: obsessive tending, decaying craft, abandoned work, caretaking effort
+
+dynamic_dependency:
+  mechanism: The 3 needs the Ace to renew what the craft has built; the new potential needs the workshop's skill to actually manifest
+  function: Pentacles-3 supplies the collaborative mastery that makes the Ace real; Pentacles-Ace supplies the fresh ground that prevents the craft from calcifying
+  integration_outcome: continuing craft that integrates the new; beginning that is grounded in established skill
+  key_terms: integrated beginning, continuing craft, grounded potential, renewed mastery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, 2 of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Balance, juggling, flexibility, adaptive exchange, equilibrium
+numerical_relation: 3 + 2 = 5 (V The Pope; established craft meets adaptive motion; the workshop meets the dancer)
+elemental_bridge: Earth's collaborative focus meets Earth's flexible rhythm; the craft learns what responsive motion looks like
+threshold_type: The craft that dances; collaboration learning flexibility
+
+dynamic_genesis:
+  mechanism: The 3's skilled team learns from the 2's adaptive motion; the craft discovers how to remain responsive without losing its focus
+  process: the collaborative effort becomes supple enough to adjust while maintaining direction; the team learns that flexibility and mastery are not opposed
+  outcome: craft that is both dedicated and responsive; collaboration that is firm and flowing
+  key_terms: responsive craft, supple focus, flowing mastery, adaptive team
+
+dynamic_antagonism:
+  mechanism: The 3's commitment to complete the work clashes with the 2's need to remain in motion; the craft meets what will not settle
+  tension_axis: finishing the project versus continuing to move; dedicated focus versus adaptive flow
+  three_of_pentacles_position: Wants the team to complete what they started; seeks depth through continued effort
+  two_of_pentacles_position: Wants to keep adjusting and moving; fears that finishing will end the motion
+  key_terms: urged completion, insisted motion, demanded focus, kept dance
+
+dynamic_inhibition:
+  mechanism: The need for completion stops the team's adaptability; the craft cannot continue evolving while seeking to finish
+  blockade_nature: the flexibility becomes impossible when the project must be brought to conclusion
+  pentacles_state: the collaboration becomes static trying to finalize; the team loses its responsiveness
+  consequence: either the work never completes or the flexibility ceases
+  key_terms: stopped motion, static craft, ceased dance, incomplete focus
+
+dynamic_devolution:
+  mechanism: The craft corrupts into obsessive motion that never settles into real work; the team becomes perpetually unsettled
+  mode: the collaboration becomes a treadmill of adjustment; the effort used to stay busy without accomplishing
+  loss: the genuine mastery the craft could have built; the work becomes mere motion
+  key_terms: obsessive motion, circular craft, unfinished effort, busy team
+
+dynamic_dependency:
+  mechanism: The 3 needs the 2 to teach it that flexibility serves the work; the motion needs the craft's focus to give the dance real purpose
+  function: Pentacles-3 supplies the commitment that makes the 2's motion purposeful; Pentacles-2 supplies the responsiveness that keeps the craft alive
+  integration_outcome: craft that moves; collaboration that is both dedicated and flowing
+  key_terms: flowing craft, moving mastery, dedicated dance, adaptive focus
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, 3 of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Collaboration, skill, artisanship, mutual effort, crafted mastery
+numerical_relation: 3 + 3 = 6 (VI The Lovers; the craft meets itself; the workshop recognizes itself)
+elemental_bridge: Earth's collaborative effort discovers its mirror; the artisans recognize themselves in the other's hands
+threshold_type: The craft that knows itself; collaboration understanding its own mastery
+
+dynamic_genesis:
+  mechanism: Each 3 teaches the other through perfect recognition; the workshop discovers what it truly is by seeing itself reflected in the other team
+  process: the collaborative effort meets its mirror; each artisan recognizes skill in the other that mirrors their own; mastery becomes mutual understanding
+  outcome: shared work deepened by mutual recognition; each craft enlightened by knowing itself through the other
+  key_terms: mutual mastery, recognized skill, mirrored craft, knowing collaboration
+
+dynamic_antagonism:
+  mechanism: Each team wants to lead; the mirror refuses to follow; the craft meets resistance from its own reflection
+  tension_axis: guiding the collaboration versus being guided; offering the vision versus receiving it
+  pentacles_position_1: Offers its mastery; expects the other team to follow the established pattern
+  pentacles_position_2: Meets the offering with its own equal skill; refuses subordination
+  key_terms: offered mastery, resisted following, equal skill, mutual resistance
+
+dynamic_inhibition:
+  mechanism: The need to establish who guides stops the mutual recognition; the craft becomes a power struggle rather than a dance of equals
+  blockade_nature: the collaboration locks into opposition rather than integration; two skilled teams cannot coordinate because both demand to lead
+  pentacles_state: the workshop fractured by the need to determine dominance; the mutual effort lost in the assertion of skill
+  consequence: the mirror shatters; instead of recognition, opposition
+  key_terms: shattered mirror, locked opposition, contested mastery, fractured craft
+
+dynamic_devolution:
+  mechanism: The collaboration corrupts into obsessive competition; each team tries to out-craft the other
+  mode: the mastery becomes a display of superiority; the skill used to assert dominance over its mirror
+  loss: the genuine teaching the reflection could have offered; the craft becomes mere competition
+  key_terms: competitive mastery, asserted superiority, obsessive skill, mirrored struggle
+
+dynamic_dependency:
+  mechanism: Each 3 needs the other to know what true collaboration is; neither can stand alone and understand its own mastery
+  function: Pentacles-3 supplies the skill that both teaches and learns; the mirror supplies the recognition that shows what the craft truly is
+  integration_outcome: a harmony of equal artisans; mastery that knows itself through the other
+  key_terms: equal harmony, knowing recognition, mutual teaching, balanced collaboration
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, 4 of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Holding, security, control, possessiveness, guarded resources
+numerical_relation: 3 + 4 = 7 (VII The Chariot; collaborative craft meets protective holding; the workshop meets the guardian)
+elemental_bridge: Earth's mutual effort meets Earth's firm grip; the collaboration encounters what will not share
+threshold_type: The craft before the held; collaboration meeting what is defended
+
+dynamic_genesis:
+  mechanism: The 3's open workshop learns that some things are worth protecting; the collaboration discovers where its generosity must pause
+  process: the team slows and circles around what is being guarded; the mutual effort learns to respect what cannot be shared; the craft becomes the guardian of what is held
+  outcome: collaboration that includes boundaries; mutual effort that respects the protected
+  key_terms: respectful craft, guarded collaboration, boundaried team, protected mastery
+
+dynamic_antagonism:
+  mechanism: The 3's openness clashes with the 4's need to control and secure; the collaboration meets the fist that will not release
+  tension_axis: open sharing versus guarded possession; giving skill freely versus demanding control over output
+  three_of_pentacles_position: Wants knowledge and effort to circulate freely; trusts the craft itself
+  four_of_pentacles_position: Fears the work will be stolen if shared; guards the methods and the output
+  key_terms: urged sharing, demanded hoarding, offered openness, defended possession
+
+dynamic_inhibition:
+  mechanism: The fear of loss stops the collaboration; the grip becomes so tight that the team cannot work together
+  blockade_nature: the mutual effort breaks when it tries to flow past the guarded resources; the craft is blocked by the wall of protection
+  pentacles_state: the workshop interrupted by the force of the grip; the collaboration ceases at the boundary of the held
+  consequence: the team scatters; the grip tightens further
+  key_terms: scattered team, tightened grip, blocked collaboration, ceased effort
+
+dynamic_devolution:
+  mechanism: The craft corrupts into obsessive guarding of what has been made; the collaboration becomes the machinery that maintains control
+  mode: the mutual effort becomes servile to the holding; the team used to reinforce possession
+  loss: the open workshop the craft could have been; the collaboration becomes the guard of the hoard
+  key_terms: servile effort, obsessive guarding, reinforced control, enslaved craft
+
+dynamic_dependency:
+  mechanism: The 3 needs the 4 to teach it that some work is truly worth protecting; the holding needs the craft to remain alive rather than becoming pure possession
+  function: Pentacles-3 supplies the collaboration that keeps even guarded things alive and useful; Pentacles-4 supplies the commitment that gives craft its ground and value
+  integration_outcome: collaboration that respects what is precious; holding that serves the work
+  key_terms: respected protection, living holding, bounded craft, valued collaboration
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, 5 of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Hardship, poverty, material loss, deprivation, abandonment
+numerical_relation: 3 + 5 = 8 (VIII Justice; collaborative craft meets material loss; the team must navigate destitution)
+elemental_bridge: Earth's mutual effort meets Earth's hollow ground; the workshop learns to work where there is nothing to hold
+threshold_type: The craft through loss; collaboration facing empty hands
+
+dynamic_genesis:
+  mechanism: The 3's established team can remain working even when material circumstance strips away; the craft survives deprivation
+  process: the collaboration continues without resources; the mutual effort learns that the skill itself is the only true possession; the team becomes the workshop itself
+  outcome: craft that does not depend on material abundance; collaboration that is alive even in scarcity
+  key_terms: essential craft, surviving effort, mobile team, skill-based mastery
+
+dynamic_antagonism:
+  mechanism: The 3's faith in the work clashes with the 5's material reality of loss; the collaboration meets the empty hand
+  tension_axis: believing in craft versus facing actual deprivation; faith in mutual effort versus the reality of nothing
+  three_of_pentacles_position: Insists the craft continues even in hardship; maintains the team's commitment
+  five_of_pentacles_position: The loss is absolute; the resources have vanished
+  key_terms: urged faith, demanded realism, kept effort, faced loss
+
+dynamic_inhibition:
+  mechanism: The weight of loss stops the collaboration; the team cannot continue when there is literally nothing to work with
+  blockade_nature: the craft becomes impossible when deprivation is absolute; the mutual effort requires some ground to push against
+  pentacles_state: the workshop scattered by the reality of abandonment; the team dissolves
+  consequence: complete collapse; the collaboration ceases
+  key_terms: scattered team, absolute loss, ceased effort, shattered craft
+
+dynamic_devolution:
+  mechanism: The craft corrupts into obsessive cycling of the same motions with no purpose and no materials; the collaboration becomes haunting repetition
+  mode: the team becomes a ghost workshop; the mutual effort persists without direction or end
+  loss: the meaningful work the craft could have been; the collaboration becomes mere animation
+  key_terms: haunting effort, obsessive cycling, meaningless craft, spiraling loss
+
+dynamic_dependency:
+  mechanism: The 3 needs the 5 to teach it that some material loss is real and cannot be worked away; the hardship needs the craft to prevent its becoming total death
+  function: Pentacles-3 supplies the collaboration that keeps the team alive even in deprivation; Pentacles-5 supplies the honest knowledge of what truly cannot be changed
+  integration_outcome: craft that continues despite loss; collaboration that honors what has been lost while staying alive
+  key_terms: honored loss, continuing craft, surviving team, living effort
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, 6 of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+numerical_relation: 3 + 6 = 9 (IX The Hermit; collaborative craft meets fair sharing; the team learns generosity)
+elemental_bridge: Earth's mutual effort becomes Earth's gift; the workshop learns to share what it has made
+threshold_type: The craft that gives; collaboration teaching generosity
+
+dynamic_genesis:
+  mechanism: The 3's established workshop teaches the 6 how to give without losing the quality of the work; the craft becomes an offering rather than a transaction
+  process: the team shows that true sharing comes from collaborative mastery; the effort itself becomes the gift; the mutual work creates what is worth giving
+  outcome: sharing that is rooted in genuine skill; offering that is valuable because the team made it well
+  key_terms: skilled offering, generous craft, valued gift, shared mastery
+
+dynamic_antagonism:
+  mechanism: The 3's focus on the craft clashes with the 6's need to distribute fairly; the collaboration meets the scales
+  tension_axis: deepening the work versus sharing the output; crafting excellence versus dividing it equally
+  three_of_pentacles_position: Wants to perfect the work before sharing; believes the craft comes first
+  six_of_pentacles_position: Needs the work to be shared fairly; insists on proper distribution
+  key_terms: urged distribution, insisted perfection, demanded fairness, kept focus
+
+dynamic_inhibition:
+  mechanism: The demand to share equally stops the craft; the team cannot deepen the work while every effort must be immediately distributed
+  blockade_nature: the mastery becomes impossible when creation must yield to equal division; the collaboration cannot focus while sharing must be constant
+  pentacles_state: the workshop interrupted by the scales; the mutual effort frozen by the need to keep distribution fair
+  consequence: nothing is made well; the effort becomes paralysis
+  key_terms: stopped craft, frozen effort, distributed attention, ceased work
+
+dynamic_devolution:
+  mechanism: The craft corrupts into obsessive calculation of fairness; the collaboration becomes the machinery of equitable but meaningless production
+  mode: the team becomes compulsive distributors; the mutual effort used to ensure equal shares at the expense of quality
+  loss: the genuine mastery the craft could have achieved; the collaboration becomes accounting
+  key_terms: obsessive dividing, calculated effort, mechanical craft, obligated work
+
+dynamic_dependency:
+  mechanism: The 3 needs the 6 to teach it that fair sharing matters; the generosity needs the craft to have something genuine to give
+  function: Pentacles-3 supplies the mastery that makes sharing valuable; Pentacles-6 supplies the fairness that ensures the offering serves all equally
+  integration_outcome: craft that is shared; collaboration that is both excellent and generous
+  key_terms: shared excellence, generous craft, equitable mastery, flowing effort
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, 7 of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Assessment, patience, long-term investment, paused evaluation, trust in process
+numerical_relation: 3 + 7 = 10 (X The Wheel of Fortune; collaborative craft meets patient assessment; the team learns to wait)
+elemental_bridge: Earth's constant effort meets Earth's still evaluation; the collaboration learns to pause and see
+threshold_type: The craft that pauses; team learning patience
+
+dynamic_genesis:
+  mechanism: The 3 learns to pause for genuine assessment rather than rushing to the next commission; the collaboration discovers the power of patient evaluation
+  process: the team slows without stopping; the mutual effort becomes the foundation that allows true sight; the craft learns when the time has come to step back
+  outcome: assessment grounded in the team's own work; collaboration that has the courage to pause
+  key_terms: grounded assessment, courageous pause, patient craft, evaluated effort
+
+dynamic_antagonism:
+  mechanism: The 3's eagerness to complete clashes with the 7's need to pause and assess; the team meets the gardener who must wait
+  tension_axis: finishing the work versus evaluating it; moving to the next piece versus trusting in process
+  three_of_pentacles_position: Keeps the effort flowing; fears that pausing will disrupt the team's momentum
+  seven_of_pentacles_position: Must know if the work is bearing real fruit; reads constant motion as denial of reality
+  key_terms: urged evaluation, insisted motion, demanded assessment, kept effort
+
+dynamic_inhibition:
+  mechanism: The need to stop and assess stops the collaboration; the team cannot continue while evaluation demands stillness
+  blockade_nature: the craft becomes impossible when the mutual effort must freeze for judgment
+  pentacles_state: the workshop interrupted by the need to evaluate; the team ceases while the gardener waits
+  consequence: the work stops; the waiting becomes obsessive
+  key_terms: stopped effort, obsessive waiting, ceased craft, stalled team
+
+dynamic_devolution:
+  mechanism: The craft corrupts into anxious cycling of the same evaluation; the team becomes obsessive self-examination
+  mode: the collaboration becomes a treadmill of doubt; the mutual effort used to reinforce anxiety about the work's value
+  loss: the genuine patience the craft could have expressed; the team becomes nervous repetition
+  key_terms: anxious cycling, nervous effort, obsessive assessment, spiraling doubt
+
+dynamic_dependency:
+  mechanism: The 3 needs the 7 to teach it that some things genuinely require patience and honest evaluation; the assessment needs the craft to give it something real to judge
+  function: Pentacles-3 supplies the effort that makes waiting alive and purposeful; Pentacles-7 supplies the patient vision that guides the craft toward true value
+  integration_outcome: a craft that can pause; collaboration that trusts in process
+  key_terms: trusting craft, patient team, vital waiting, assessed effort
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, 8 of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Mastery, skill-development, apprenticeship, dedication, refined craft
+numerical_relation: 3 + 8 = 11 (XI Strength; collaborative craft meets dedicated mastery; the team and the apprentice learning their dance)
+elemental_bridge: Earth's mutual effort meets Earth's committed practice; the workshop becomes the path to mastery
+threshold_type: The craft that learns; collaboration teaching dedication
+
+dynamic_genesis:
+  mechanism: The 3's established team teaches the apprentice how to develop skill without losing the joy of collaborative learning; the craft becomes teaching
+  process: the mutual effort shows the dedicated student that mastery is not solitary; the team becomes the context in which skill is refined; the workshop itself is the curriculum
+  outcome: mastery that is alive because it is learned in community; skill earned through shared dedication
+  key_terms: shared mastery, community craft, learned dedication, alive apprenticeship
+
+dynamic_antagonism:
+  mechanism: The 3's openness to many approaches clashes with the apprentice's need to master one form; the team meets the student who must focus
+  tension_axis: exploring many methods versus perfecting one; collaborative experiment versus dedicated repetition
+  three_of_pentacles_position: Offers many ways to work; wants the student to learn the full breadth of the craft
+  eight_of_pentacles_position: Needs to master one form deeply; reads openness as dilution of real skill
+  key_terms: urged breadth, demanded focus, offered paths, insisted mastery
+
+dynamic_inhibition:
+  mechanism: The need to perfect one form stops the collaborative exploration; the team cannot continue while the apprentice demands absolute dedication to a single method
+  blockade_nature: the mutual effort becomes impossible when flexibility is eliminated in favor of pure form
+  pentacles_state: the workshop fractured by the demand for pure dedication; the collaborative learning loses its nature
+  consequence: either the team disperses or the apprentice's mastery is incomplete
+  key_terms: stopped effort, lost breadth, ceased craft, incomplete mastery
+
+dynamic_devolution:
+  mechanism: The craft corrupts into obsessive repetition of a single form without real understanding; the team becomes the machinery that enforces dedication
+  mode: the collaboration becomes rigorous drill; the mutual effort used to enforce form rather than to teach
+  loss: the genuine craft the team could have shared; the learning becomes mechanical
+  key_terms: mechanical effort, obsessive repetition, enforced form, stalled craft
+
+dynamic_dependency:
+  mechanism: The 3 needs the apprentice's dedication to give the team's craft true direction and refinement; the mastery needs the collaboration to remain alive rather than becoming rigid perfection
+  function: Pentacles-3 supplies the community that makes learning joyful and rich; Pentacles-8 supplies the dedication that transforms shared craft into real mastery
+  integration_outcome: a living mastery; craft that is refined through community
+  key_terms: community mastery, refined craft, joyful dedication, living apprenticeship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, 9 of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+numerical_relation: 3 + 9 = 12 (XII The Hanged Man; collaborative craft meets solitary independence; the team and the solitary learning their dance)
+elemental_bridge: Earth's mutual effort meets Earth's settled luxury; the collaboration becomes the foundation of the independent one's freedom
+threshold_type: The craft that frees; collaboration teaching solitude
+
+dynamic_genesis:
+  mechanism: The 3's workshop teaches the solitary one that independence does not require abandonment of all mutual effort; the craft creates the abundance that allows true freedom
+  process: the team understands that the independent one's mastery is the fruit of their earlier work; the collaboration becomes the root that permits solitude
+  outcome: solitude grounded in the craft; independence rooted in shared skill
+  key_terms: grounded independence, crafted abundance, rooted freedom, shared mastery
+
+dynamic_antagonism:
+  mechanism: The 3's need for the team clashes with the 9's complete self-sufficiency; the collaboration meets the one who needs nothing from it
+  tension_axis: valuing mutual effort versus needing no one; creating together versus achieving alone
+  three_of_pentacles_position: Seeks to draw the other into the workshop; values continued collaboration
+  nine_of_pentacles_position: Has no need for the team; is complete in solitary mastery
+  key_terms: urged engagement, defended solitude, offered craft, refused collaboration
+
+dynamic_inhibition:
+  mechanism: The satisfaction of solitude stops the mutual effort; the team cannot engage when the other needs nothing from the collaboration
+  blockade_nature: the craft becomes irrelevant to one who is complete in themselves
+  pentacles_state: the workshop interrupted by the sufficiency of the solitary one; the team's effort finds no place to land
+  consequence: the collaboration withdraws; the mutual effort ceases
+  key_terms: withdrawn effort, ceased craft, irrelevant team, isolated collaboration
+
+dynamic_devolution:
+  mechanism: The craft corrupts into obsessive cycling around the solitary one; the team becomes jealous collaboration
+  mode: the mutual effort becomes a ghost haunting the independent one's threshold
+  loss: the genuine freedom the craft could have expressed; the collaboration becomes needy attachment
+  key_terms: jealous effort, needy cycling, haunting craft, obsessed collaboration
+
+dynamic_dependency:
+  mechanism: The 3 needs the 9 to teach it that some mastery is solitary and complete; the independence needs the craft to prevent its becoming total isolation
+  function: Pentacles-3 supplies the collaboration that keeps even solitude alive and rooted; Pentacles-9 supplies the self-sufficiency that makes true mastery real
+  integration_outcome: independence grounded in craft; solitude that is alive with rooted abundance
+  key_terms: alive independence, crafted solitude, rooted abundance, flowing freedom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, 10 of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Legacy, inheritance, family wealth, generational continuity, established foundation
+numerical_relation: 3 + 10 = 13 (XIII Death; collaborative craft meets generational continuity; the team becomes the lineage)
+elemental_bridge: Earth's constant effort meets Earth's deep root; the workshop becomes the heartbeat of the inheritance
+threshold_type: The craft that continues; collaboration becoming legacy
+
+dynamic_genesis:
+  mechanism: The 3's team becomes the rhythm that sustains what must be passed forward; the craft teaches how to hand the work to the next generation
+  process: the mutual effort understands that the inheritance is the fruit of their collaboration; the team becomes the vessel that carries the craft through time
+  outcome: a legacy alive in the team's hands; continuity that is not static but flowing with shared effort
+  key_terms: flowing legacy, team-built inheritance, continuing craft, generational effort
+
+dynamic_antagonism:
+  mechanism: The 3's eagerness for change clashes with the 10's need for established continuity; the team meets what must remain rooted
+  tension_axis: evolving the craft versus preserving tradition; collaborative innovation versus honoring the inheritance
+  three_of_pentacles_position: Wants to evolve how the work is done; sees stagnation in unchanging methods
+  ten_of_pentacles_position: Needs the craft to remain true to its origins; reads change as betrayal of the inheritance
+  key_terms: urged evolution, defended tradition, offered change, preserved foundation
+
+dynamic_inhibition:
+  mechanism: The weight of the inheritance stops the team's movement; the craft cannot evolve while the legacy demands perfect continuity
+  blockade_nature: the collaboration becomes impossible when innovation is forbidden
+  pentacles_state: the workshop interrupted by the gravity of what must be preserved; the team's effort ceases
+  consequence: either the tradition breaks or the craft becomes static
+  key_terms: stopped effort, broken inheritance, ceased craft, stalled team
+
+dynamic_devolution:
+  mechanism: The craft corrupts into obsessive repetition of ancestral methods; the team becomes compulsive keepers of the past
+  mode: the mutual effort becomes a ghost dance of the ancestors; the collaboration used to animate the forms of the dead
+  loss: the genuine living lineage the craft could have carried; the effort becomes ancestral servitude
+  key_terms: ghost effort, obsessive cycling, ancestral binding, imprisoned craft
+
+dynamic_dependency:
+  mechanism: The 3 needs the 10 to teach it that some continuities are worth preserving; the legacy needs the craft to remain alive rather than becoming a museum
+  function: Pentacles-3 supplies the living effort that keeps the inheritance vital; Pentacles-10 supplies the depth that makes the craft's motion meaningful
+  integration_outcome: a motion that honors and carries forward; legacy that is alive in the team's hands
+  key_terms: living legacy, flowing craft, meaningful effort, vital continuity
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, Page of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+numerical_relation: 3 + 11 = 14 (XIV Temperance; collaborative craft meets youthful exploration; the team teaches the apprentice)
+elemental_bridge: Earth's practiced effort meets Earth's learning hands; the workshop becomes the curriculum
+threshold_type: The apprentice learns craft; collaboration teaching material wisdom
+
+dynamic_genesis:
+  mechanism: The 3's established team teaches the Page how to work within the material world; the collaboration becomes the grammar of practical skill
+  process: the mutual effort shows the young hands the steps; the team teaches not through words but through participation and shared work
+  outcome: material wisdom earned through embodied learning in the workshop; the Page initiated through collaborative practice
+  key_terms: embodied learning, team teaching, earned wisdom, initiated hands
+
+dynamic_antagonism:
+  mechanism: The 3's complex methods clash with the Page's urge to learn one thing deeply; the team meets the student who wants to focus
+  tension_axis: teaching many skills versus mastering one; collaborative complexity versus focused learning
+  three_of_pentacles_position: Offers the whole range of the craft; wants the Page to learn how everything connects
+  page_of_pentacles_position: Wants one clear path to follow; reads complexity as confusion
+  key_terms: urged overview, insisted focus, offered breadth, demanded clarity
+
+dynamic_inhibition:
+  mechanism: The need to understand one thing completely stops the team's teaching; the craft cannot transmit while the Page demands to fully understand before moving forward
+  blockade_nature: the collaboration becomes impossible when every step must be comprehended before practice
+  pentacles_state: the workshop interrupted by the need for complete understanding; the team's rhythm cannot flow
+  consequence: the learning stops; the Page cannot be taught through collaborative practice alone
+  key_terms: interrupted learning, stopped craft, ceased teaching, unmet Page
+
+dynamic_devolution:
+  mechanism: The craft corrupts into meaningless cycling that the Page is forced to repeat without understanding
+  mode: the team's effort becomes mere training; the collaboration used to condition rather than to teach
+  loss: the genuine apprenticeship the craft could have offered; the learning becomes rote
+  key_terms: rote effort, forced imitation, meaningless craft, trained Page
+
+dynamic_dependency:
+  mechanism: The 3 needs the Page's genuine curiosity to give the team's craft teaching purpose; the Page needs the collaboration to actually learn practical wisdom
+  function: Pentacles-3 supplies the working effort that teaches through embodied participation; Pentacles-Page supplies the openness that makes real learning possible
+  integration_outcome: learning through shared craft; wisdom that is danced and lived
+  key_terms: danced wisdom, working learning, team apprenticeship, embodied teaching
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, Knight of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Dedication, reliable service, steady work, methodical action, trustworthy effort
+numerical_relation: 3 + 12 = 15 (XV The Devil; collaborative craft meets dedicated service; the team and the worker learning integration)
+elemental_bridge: Earth's mutual effort meets Earth's steady labor; the workshop becomes the tempo of work
+threshold_type: The craft that works; collaboration becoming reliable
+
+dynamic_genesis:
+  mechanism: The 3's open team provides the rhythm that makes the Knight's labor sustainable and joyful; the collaboration teaches how to work without burning out
+  process: the mutual effort flows with the Knight's dedication; the team becomes the pace at which true work is possible; the craft and service discover their unity
+  outcome: labor that is both dedicated and alive; work that is joyful because it is shared
+  key_terms: shared labor, alive dedication, sustainable work, rhythmic service
+
+dynamic_antagonism:
+  mechanism: The 3's refusal to hold one position clashes with the Knight's commitment to steady work; the team meets the one who stays
+  tension_axis: flowing collaboration versus steady commitment; changing methods versus reliable pattern
+  three_of_pentacles_position: Wants to remain responsive to changing needs; fears that steady commitment will become stale
+  knight_of_pentacles_position: Needs reliable commitment; reads the team's flexibility as unreliability
+  key_terms: urged steadiness, insisted flexibility, demanded reliability, kept effort
+
+dynamic_inhibition:
+  mechanism: The demand for absolute steadiness stops the team's movement; the craft cannot flow while the Knight insists on unchanging dedication
+  blockade_nature: the collaboration becomes impossible when flexibility must be eliminated
+  pentacles_state: the workshop becomes static trying to meet the demand for reliability
+  consequence: either the effort ceases or the work becomes unreliable
+  key_terms: stopped effort, static craft, ceased collaboration, false reliability
+
+dynamic_devolution:
+  mechanism: The craft corrupts into obsessive cycling of the same methods; the team becomes compulsive repetition
+  mode: the mutual effort becomes a treadmill; the collaboration used to animate a meaningless cycle
+  loss: the genuine dedication the craft could have expressed; the work becomes mechanical
+  key_terms: mechanical effort, obsessive cycling, treadmill craft, meaningless work
+
+dynamic_dependency:
+  mechanism: The 3 needs the Knight's dedication to give the team's craft real work to do; the service needs the collaboration to keep work alive and sustainable
+  function: Pentacles-3 supplies the effort that makes labor sustainable and joyful; Pentacles-Knight supplies the dedication that gives craft purpose
+  integration_outcome: work that is both reliable and alive; dedication expressed through team effort
+  key_terms: reliable effort, alive dedication, sustainable craft, rhythmic service
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, Queen of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+numerical_relation: 3 + 13 = 16 (XVI The Tower; collaborative craft meets nurturing mastery; team and care discovering their dance)
+elemental_bridge: Earth's mutual effort meets Earth's abundant care; the workshop becomes the expression of her wisdom
+threshold_type: The Queen teaches craft; effort learning to nurture
+
+dynamic_genesis:
+  mechanism: The 3's team becomes the way the Queen's care moves in the world through shared work; the collaboration carries her wisdom into practical action
+  process: the mutual effort learns from her presence; the craft becomes the way nurturing actually manifests in the world; the team and care discover their unity
+  outcome: care that is alive and working; wisdom expressed through collaborative mastery
+  key_terms: moving care, expressed wisdom, team nurturing, worked abundance
+
+dynamic_antagonism:
+  mechanism: The 3's open collaboration clashes with the Queen's gravitational pull toward the center; the team meets the mother
+  tension_axis: flowing mutual effort versus centered presence; collaborative motion versus called-toward gathering
+  three_of_pentacles_position: Wants to maintain its own rhythm and independence; resists being drawn into her orbit
+  queen_of_pentacles_position: Calls everything into her presence; reads independence as rejection of her care
+  key_terms: resisted call, maintained effort, demanded gathering, kept craft
+
+dynamic_inhibition:
+  mechanism: The gravity of the Queen stops the team's movement; the craft cannot continue while she demands all return to her center
+  blockade_nature: the collaboration becomes impossible when the pull is complete; everything is held in her place
+  pentacles_state: the workshop ceases when the effort is entirely absorbed into her presence
+  consequence: the craft stops; the effort becomes hers only
+  key_terms: stopped craft, absorbed effort, ceased collaboration, centered stillness
+
+dynamic_devolution:
+  mechanism: The craft corrupts into obsessive cycling around the Queen; the team becomes compulsive motion in her orbit
+  mode: the mutual effort becomes servile circulation; the collaboration used to animate her will
+  loss: the genuine care the craft could have offered; the work becomes service without true warmth
+  key_terms: servile effort, obsessive circulation, enslaved craft, loveless work
+
+dynamic_dependency:
+  mechanism: The 3 needs the Queen's care to give the team's craft true nourishment and purpose; the nurturing needs the collaboration to remain alive rather than becoming controlling
+  function: Pentacles-3 supplies the effort that keeps the Queen's care alive and giving; Pentacles-Queen supplies the wisdom that guides craft toward true nurture
+  integration_outcome: a craft that nourishes; effort that is cared for and caring
+  key_terms: nurturing effort, cared craft, moving wisdom, alive care
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP
+
+---
+
+card_pair: 3 of Pentacles, King of Pentacles
+archetype_pentacles_1: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_pentacles_2: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+numerical_relation: 3 + 14 = 17 (XVII The Star; collaborative craft meets absolute dominion; team learning sovereignty)
+elemental_bridge: Earth's mutual effort becomes Earth's power; the workshop is the expression of the King's rule
+threshold_type: The King commands; craft learning to serve
+
+dynamic_genesis:
+  mechanism: The 3's established team becomes the instrument through which the King's dominion manifests; the craft serves his abundant rule
+  process: the mutual effort learns to obey the King's direction while maintaining its collaborative nature; the workshop becomes the way his power is expressed
+  outcome: authority that is alive because it is shared; dominion expressed through living craft
+  key_terms: vital authority, working power, expressed dominion, collaborative stewardship
+
+dynamic_antagonism:
+  mechanism: The 3's collaboration clashes with the King's demand for total obedience; the team meets the throne
+  tension_axis: mutual effort versus commanded obedience; collaborative vision versus ruled pattern
+  three_of_pentacles_position: Maintains the team's input and voice; resists total subsumption
+  king_of_pentacles_position: Demands the craft become his instrument; asserts absolute authority
+  key_terms: asserted command, defended collaboration, demanded obedience, kept effort
+
+dynamic_inhibition:
+  mechanism: The demand for complete obedience stops the team's motion; the craft cannot continue while it must serve the King's will exclusively
+  blockade_nature: the collaboration becomes impossible when the team has no voice
+  pentacles_state: the workshop destroyed by the King's absolute assertion; the effort becomes enslaved
+  consequence: complete submission or rebellion
+  key_terms: enslaved craft, destroyed collaboration, submitted effort, broken resistance
+
+dynamic_devolution:
+  mechanism: The craft corrupts into obsessive execution of the King's commands; the team becomes compulsive obedience
+  mode: the mutual effort becomes the machinery of oppression; the collaboration used to enforce the King's will
+  loss: the freedom that was craft's essence; the work becomes tyranny
+  key_terms: enslaved effort, obsessive obedience, tyrannical craft, oppressed collaboration
+
+dynamic_dependency:
+  mechanism: The 3 needs the King's authority to give the team's craft ultimate purpose and grounding; the dominion needs the craft to remain alive rather than becoming dead rule
+  function: Pentacles-3 supplies the collaborative effort that keeps the King's rule alive and responsive; Pentacles-King supplies the authority that guides craft toward true stewardship
+  integration_outcome: a craft that serves wise rule; effort that is both obedient and vital
+  key_terms: vital obedience, wise authority, working rule, living stewardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPP

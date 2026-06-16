@@ -1,0 +1,697 @@
+card_pair: 3 of Pentacles, Ace of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 3 + 1 = 4 (IV The Emperor; the working company meets the arrived clarity; craft meeting the insight that names it)
+elemental_bridge: Earth's joined hands meet Air's breakthrough; the collaboration meets the clear idea that shows it what to build
+threshold_type: The workshop and the cutting insight; mutual effort meeting the truth that directs it
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the Ace's clarity a company to realize it; the insight is taken up by skilled hands and made into a real thing
+  process: the clear idea arrives; the workshop seizes it and builds it before it fades back into abstraction
+  outcome: an insight grounded into craft; clarity made material by a company ready to act on it
+  key_terms: insight realized, clarity built, the idea made material, the workshop acts
+
+dynamic_antagonism:
+  mechanism: The craft's invested method collides with the Ace's demand that the work be rethought clearly; mutual effort meets the insight that would overturn the plan
+  tension_axis: the collaboration's committed way versus the clarity that says it is wrong
+  pentacles_position: Defends the work already underway; resists the insight that would force a redo
+  swords_position: Cuts through; insists the clear truth be honored even if it undoes the build
+  key_terms: the committed way, the overturning insight, redo resisted, truth vs. sunk effort
+
+dynamic_inhibition:
+  mechanism: The collaboration's momentum will not receive the clarity; the company keeps building the old way past the point the insight showed it wrong
+  blockade_nature: mutual effort, once committed, cannot stop to absorb a truth that arrives mid-build
+  pentacles_state: the workshop deaf to the insight; skill poured on past the moment clarity called for a halt
+  consequence: the clear truth is wasted against momentum; the company builds the wrong thing well
+  key_terms: deaf workshop, wasted clarity, momentum over truth, the wrong thing built well
+
+dynamic_devolution:
+  mechanism: The collaboration uses its expertise to bury the insight; the company's craft-authority deployed to dismiss a clear idea as naive
+  mode: "you don't understand how this works" used to kill a true sight; the newcomer's clarity drowned in guild-knowledge
+  loss: the truth that would have saved the work; insight buried under defensive expertise
+  key_terms: buried insight, weaponized expertise, the dismissed truth, guild-knowledge as wall
+
+dynamic_dependency:
+  mechanism: The 3 needs the Ace of Swords to keep its craft honest about what it is actually making; the clarity needs the collaboration to become more than a passing thought
+  function: Pentacles-3 supplies the skilled company that builds the insight into reality; Swords-Ace supplies the clear truth that keeps the craft from building blindly
+  integration_outcome: a workshop guided by clear thinking and a clarity made real by skilled hands; insight and craft correcting and completing each other
+  key_terms: guided craft, the realized insight, clear-eyed building, truth and skill joined
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, 2 of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
+numerical_relation: 3 + 2 = 5 (V The Pope; the working company meets the stalemate; mutual effort meeting the refused decision)
+elemental_bridge: Earth's joined hands meet Air's suspended choice; the collaboration meets the deadlock that will not decide what to build
+threshold_type: The ready workshop and the undecided plan; skilled hands waiting on a choice that will not come
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 breaks the stalemate by making the choice concrete; the workshop builds a prototype that forces the blocked decision into the open
+  process: rather than argue the deadlock abstractly, the makers build a sample of each option; the choice resolves before a thing the hands can touch
+  outcome: a stalemate broken by making; the blocked decision settled by craft that turns the question physical
+  key_terms: the prototype that decides, stalemate made concrete, choice forced by craft, the touchable answer
+
+dynamic_antagonism:
+  mechanism: The craft's need to commit to one build collides with the 2's refusal to choose; mutual effort meets the deadlock that will not let the work begin
+  tension_axis: the company ready to build versus the choice that will not be made
+  pentacles_position: Demands a decision so the work can start; resents the suspended deliberation
+  swords_position: Holds the balance, refuses to choose; reads the pressure to build as bullying past real uncertainty
+  key_terms: decide so we can build, the refused choice, suspended deliberation, pressure vs. uncertainty
+
+dynamic_inhibition:
+  mechanism: The stalemate freezes the collaboration; the company cannot build while the decision of what to build stays blocked
+  blockade_nature: mutual effort needs a chosen object, and the deadlock withholds it indefinitely
+  pentacles_state: the workshop idle, tools ready, waiting on a choice that never comes; skill stranded behind indecision
+  consequence: the collaboration stalls entirely; a company that can build anything and is permitted to build nothing
+  key_terms: stranded skill, the idle workshop, withheld object, permitted to build nothing
+
+dynamic_devolution:
+  mechanism: The collaboration's stalled energy curdles into endless committee; the deadlock institutionalized into meetings that exist to avoid the choice
+  mode: process substituted for decision; mutual effort spent maintaining the deliberation rather than ending it
+  loss: the work; craft replaced by the bureaucracy of a permanently deferred choice
+  key_terms: endless committee, institutionalized deadlock, process over decision, the deferred choice
+
+dynamic_dependency:
+  mechanism: The 3 needs the 2 of Swords's caution to not rush into the wrong build; the stalemate needs the collaboration to make its choice concrete enough to finally resolve
+  function: Pentacles-3 supplies the craft that turns an abstract choice into a buildable test; Swords-2 supplies the pause that keeps the company from committing before it should
+  integration_outcome: a decision both considered and made; deadlock resolved by building the question into something that can be answered
+  key_terms: considered and decided, the resolved deadlock, tested choice, craft that answers
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, 3 of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
+numerical_relation: 3 + 3 = 6 (VI The Lovers; the working company meets the painful truth; mutual effort meeting the sorrow that separates)
+elemental_bridge: Earth's joined hands meet Air's piercing grief; the collaboration meets the painful truth that can split a company
+threshold_type: The shared work and the wounding truth; craft meeting the sorrow that divides its makers
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives a painful truth a structure that survives it; the company absorbs the wound the work itself must address
+  process: the hard fact is named within the team; the shared task gives the sorrow somewhere to go, hands that keep working through it
+  outcome: a painful truth borne by a company rather than a person; the wound integrated into work that continues
+  key_terms: the borne truth, sorrow given structure, the company endures it, work through the wound
+
+dynamic_antagonism:
+  mechanism: The craft's wish to keep building collides with a separating truth that demands to be faced; mutual effort meets the sorrow that stops everything
+  tension_axis: the work that goes on versus the painful truth that severs the company
+  pentacles_position: Presses to keep building past the wound; treats the heartbreak as a disruption to manage
+  swords_position: Insists the painful truth be faced; refuses to let the work paper over a real separation
+  key_terms: build past the wound, the faced truth, sorrow vs. the task, severance named
+
+dynamic_inhibition:
+  mechanism: The painful truth fractures the collaboration; a separation among the makers stops the shared work cold
+  blockade_nature: mutual effort cannot proceed through a company split by sorrow it will not address
+  pentacles_state: the workshop divided by an unspoken heartbreak; skill paralyzed by a fracture no one names
+  consequence: the collaboration breaks; the work abandoned to a wound that goes unhealed
+  key_terms: the fractured company, the unnamed heartbreak, paralyzed skill, abandoned to the wound
+
+dynamic_devolution:
+  mechanism: The collaboration uses the work to deny the heartbreak; the company throws itself into building to avoid feeling the truth that severs it
+  mode: productivity as anesthetic; mutual effort weaponized so no one has to face the painful fact
+  loss: the truth and the healing it required; sorrow buried under a busyness that cannot last
+  key_terms: anesthetic productivity, the denied truth, buried heartbreak, unhealed and busy
+
+dynamic_dependency:
+  mechanism: The 3 needs the 3 of Swords to make it face the painful truth its work would bury; the sorrow needs the collaboration so the wound is borne by a company, not suffered alone
+  function: Pentacles-3 supplies the structure and company that carry the makers through the wound; Swords-3 supplies the honesty that will not let real pain be built over
+  integration_outcome: a painful truth faced together and survived; sorrow honored within a company whose work resumes once the wound is named
+  key_terms: faced together, the survived truth, honored sorrow, the company that heals and builds
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, 4 of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Rest, truce, peace, mental stillness, respite
+numerical_relation: 3 + 4 = 7 (VII The Chariot; the working company meets needed rest; mutual effort meeting the pause that restores)
+elemental_bridge: Earth's laboring hands meet Air's stillness; the collaboration meets the rest its makers need to keep their skill
+threshold_type: The bench and the necessary pause; craft meeting the respite that sustains it
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 builds in the rest the 4 requires; mutual effort that schedules its own respite stays skilled instead of burning out
+  process: the company lays down its tools together; the shared pause restores the hands and clears the minds before the work resumes
+  outcome: a sustainable craft; collaboration that lasts because it rests, skill preserved by deliberate respite
+  key_terms: built-in rest, the shared pause, sustained craft, skill preserved
+
+dynamic_antagonism:
+  mechanism: The craft's drive to keep producing collides with the 4's need to stop; mutual effort meets the truce it does not want to call
+  tension_axis: the work that presses on versus the rest the makers require
+  pentacles_position: Pushes to keep building; treats the call for rest as slackness
+  swords_position: Insists on the pause; reads the relentless production as a path to ruined hands
+  key_terms: push vs. pause, rest called slackness, the truce resisted, ruined hands warned
+
+dynamic_inhibition:
+  mechanism: The collaboration cannot allow itself to stop; the work's momentum forbids the rest the company needs, and exhaustion erodes the skill
+  blockade_nature: mutual effort that never pauses degrades the very mastery it depends on
+  pentacles_state: the workshop running its makers past restoration; skill worn thin by a craft that refuses respite
+  consequence: the collaboration's quality decays into fatigue; a tired company making steadily worse work
+  key_terms: refused respite, worn-thin skill, fatigue decay, the unresting workshop
+
+dynamic_devolution:
+  mechanism: The collaboration's rest is corrupted into permanent slack; the truce extended until the company forgets how to work
+  mode: respite become avoidance; mutual effort dissolved into a comfortable stillness no one will leave
+  loss: the craft's momentum; a workshop so committed to its own ease it never builds again
+  key_terms: permanent slack, respite as avoidance, the comfortable stillness, momentum dissolved
+
+dynamic_dependency:
+  mechanism: The 3 needs the 4 of Swords to make it stop before its makers break; the rest needs the collaboration to be a pause within real work, not an escape from it
+  function: Pentacles-3 supplies the meaningful craft that makes rest restorative rather than idle; Swords-4 supplies the respite that keeps the company's skill from burning out
+  integration_outcome: a collaboration that works hard and rests well; craft sustained across years by a company that knows when to stop
+  key_terms: work and rest balanced, restorative pause, sustained company, skill that lasts
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, 5 of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
+numerical_relation: 3 + 5 = 8 (VIII Justice; the working company meets the hollow victory; mutual effort meeting the conflict that wins at cost)
+elemental_bridge: Earth's joined hands meet Air's contested win; the collaboration meets the dispute that can split the company even in winning
+threshold_type: The shared work and the divisive conflict; craft meeting the victory that costs the company itself
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 keeps a conflict from becoming a rout; the company's shared structure lets a dispute resolve without a winner who hollows it out
+  process: the disagreement is held inside the work; the contest is settled on the merits of the craft, not by one faction crushing another
+  outcome: a conflict survived without casualty; the company intact because the win was the work's, not a victor's
+  key_terms: conflict without rout, the intact company, dispute on the merits, no hollow victor
+
+dynamic_antagonism:
+  mechanism: The craft's cooperative whole collides with the 5's drive to win the argument at any cost; mutual effort meets the contested truth that wants a loser
+  tension_axis: keeping the company whole versus winning the dispute outright
+  pentacles_position: Subordinates the argument to the shared work; refuses to let anyone be defeated
+  swords_position: Presses to win and to name the loser; reads the call to keep everyone whole as muddling the truth
+  key_terms: whole vs. winning, the named loser, dispute pressed, truth muddled
+
+dynamic_inhibition:
+  mechanism: The conflict's bitterness freezes the collaboration; a contested win leaves resentment that stops the company working together
+  blockade_nature: mutual effort cannot proceed among makers one of whom was defeated and humiliated
+  pentacles_state: the workshop poisoned by an old argument; skill withheld by those who lost the contested truth
+  consequence: the collaboration seizes up; a company that won the dispute and lost the ability to build together
+  key_terms: poisoned workshop, the humiliated loser, withheld skill, won and unable to build
+
+dynamic_devolution:
+  mechanism: The collaboration becomes a theater of hollow victories; mutual effort consumed by makers scoring points against each other
+  mode: the work used as a battlefield for ego; craft sacrificed to the satisfaction of being proven right
+  loss: the shared mastery; a company that argues brilliantly and builds nothing, every win costing the work
+  key_terms: theater of hollow wins, points over craft, ego battlefield, won arguments, lost work
+
+dynamic_dependency:
+  mechanism: The 3 needs the 5 of Swords's honesty that some conflicts are real and have costs; the conflict needs the collaboration to keep its disputes from destroying the company
+  function: Pentacles-3 supplies the shared structure that contains conflict without casualties; Swords-5 supplies the truth that some disagreements must actually be settled
+  integration_outcome: conflict settled honestly without breaking the company; disputes that sharpen the work instead of hollowing it
+  key_terms: settled without casualty, contained dispute, honest conflict, the company that survives winning
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, 6 of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Travel, transition, movement toward solution, passage, departure
+numerical_relation: 3 + 6 = 9 (IX The Hermit; the working company meets the passage; mutual effort meeting the move toward better waters)
+elemental_bridge: Earth's settled workshop meets Air's transition; the collaboration meets the call to move its craft to new ground
+threshold_type: The established bench and the journey; the company asked to carry its skill elsewhere
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 makes the 6's transition survivable; a company carries its craft intact across the passage to new ground
+  process: the makers move together, methods and tools packed; what would scatter a lone worker, the company ports whole to the far shore
+  outcome: a transition that preserves the craft; collaboration that crosses to new waters without losing its skill
+  key_terms: the ported craft, company across the passage, skill preserved in transit, the whole crew moved
+
+dynamic_antagonism:
+  mechanism: The craft's rootedness in its place collides with the 6's call to leave; mutual effort built around a workshop meets the need to depart it
+  tension_axis: the established place versus the passage to a better one
+  pentacles_position: Clings to the known workshop and its setup; resists uprooting a working collaboration
+  swords_position: Calls toward the necessary move; reads the attachment to place as refusing a passage already overdue
+  key_terms: the known workshop, the overdue move, rooted vs. departing, uprooting resisted
+
+dynamic_inhibition:
+  mechanism: Attachment to the established setup freezes the transition; the company will not leave a workshop it has outgrown
+  blockade_nature: mutual effort, bound to its place, cannot make the passage to where the work now needs to be
+  pentacles_state: the workshop clung to past its use; skill stranded in a place the work has moved beyond
+  consequence: the transition never happens; a company preserving a setting instead of following its craft onward
+  key_terms: the outgrown workshop, stranded skill, refused passage, clinging to place
+
+dynamic_devolution:
+  mechanism: The collaboration's move becomes perpetual flight; the company keeps relocating, never settling long enough to build mastery anywhere
+  mode: transition as habit; mutual effort dissipated across endless passages that finish nothing
+  loss: the deep craft that needs a place to ripen; skill kept shallow by a company always in transit
+  key_terms: perpetual flight, the endless move, nothing ripened, shallow transit-craft
+
+dynamic_dependency:
+  mechanism: The 3 needs the 6 of Swords to know when the work must move to new ground; the transition needs the collaboration to carry the craft across rather than abandon it
+  function: Pentacles-3 supplies the company that ports its skill whole through change; Swords-6 supplies the judgment of when and where to make the passage
+  integration_outcome: a craft that moves when it must and settles where it can ripen; transition that carries the company forward without losing its mastery
+  key_terms: moved and rooted, ported mastery, the well-timed passage, craft carried onward
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, 7 of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Deception, theft, cunning, strategic secrecy, hidden strategy
+numerical_relation: 3 + 7 = 10 (X The Wheel of Fortune; the working company meets the hidden strategy; mutual effort meeting cunning and theft)
+elemental_bridge: Earth's open collaboration meets Air's concealment; the company built on shared trust meets the cunning that works in secret
+threshold_type: The open bench and the hidden agenda; mutual effort meeting the one who keeps a secret strategy
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives cunning a legitimate use; strategic discretion, set in a trusted company, becomes prudent protection of the shared work
+  process: the workshop agrees what stays in-house; the cunning serves the collaboration, guarding its methods rather than cheating its members
+  outcome: a craft protected by wise discretion; secrecy turned to the company's defense instead of betrayal
+  key_terms: protective discretion, guarded methods, cunning in service, the defended craft
+
+dynamic_antagonism:
+  mechanism: The craft's foundation of open trust collides directly with the 7's secrecy; mutual effort meets the hidden agenda working against it
+  tension_axis: the shared transparency a company needs versus the concealment of private strategy
+  pentacles_position: Builds on open trust; demands the hidden agenda be brought into the light
+  swords_position: Keeps its strategy concealed; reads the demand for openness as naivety that will be exploited
+  key_terms: open trust, the hidden agenda, transparency demanded, concealment defended
+
+dynamic_inhibition:
+  mechanism: The concealed strategy erodes the collaboration's trust; the company cannot work as one while a member acts on secret aims
+  blockade_nature: mutual effort needs shared knowledge, and the cunning withholds the very thing cooperation requires
+  pentacles_state: the workshop undermined from within; skill guarded by makers who no longer trust each other
+  consequence: the collaboration hollows into mutual suspicion; a company that cannot build because no one is sure who is hiding what
+  key_terms: eroded trust, the undermined workshop, mutual suspicion, hidden aims
+
+dynamic_devolution:
+  mechanism: The collaboration becomes a cover for theft; the shared work used to mask one member stealing the company's craft for themselves
+  mode: trust exploited to steal methods, credit, or clients; mutual effort turned into the camouflage for a heist
+  loss: the company itself; collaboration become the mark, its craft carried off by the cunning it trusted
+  key_terms: the cover for theft, stolen methods, trust exploited, the company as mark
+
+dynamic_dependency:
+  mechanism: The 3 needs the 7 of Swords's strategic sense to protect the craft in a world that would steal it; the cunning needs the collaboration to give its strategy something honest to defend
+  function: Pentacles-3 supplies the trusted company that turns cunning into protection; Swords-7 supplies the strategic discretion that keeps the open craft from being plundered
+  integration_outcome: a craft both open within and shrewdly guarded without; cunning that serves the company instead of preying on it
+  key_terms: open within, guarded without, cunning as shield, the protected collaboration
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, 8 of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Imprisonment, constraint, mental bondage, restriction, entrapment
+numerical_relation: 3 + 8 = 11 (XI Strength; the working company meets the constraint; mutual effort meeting the bondage that traps it)
+elemental_bridge: Earth's joined hands meet Air's binding; the collaboration meets the restriction that ties the makers' hands
+threshold_type: The skilled hands and the binding; mutual effort meeting the constraint it must work within
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 turns constraint into a discipline; tight limits, met by skilled hands, force an ingenuity solitary work could not find
+  process: the company takes the restriction as a brief; the bound conditions become the very frame the craft works against and excels within
+  outcome: mastery sharpened by limitation; a collaboration that builds brilliantly inside bonds that would stop a lone maker
+  key_terms: constraint as discipline, ingenuity under limits, the productive bond, mastery within the frame
+
+dynamic_antagonism:
+  mechanism: The craft's need for room to work collides with the 8's tightening restriction; mutual effort meets the bondage that forbids what the work requires
+  tension_axis: the freedom skilled work needs versus the constraint that strangles it
+  pentacles_position: Pushes against the limits to make the work possible; treats the restriction as an obstacle to break
+  swords_position: Holds the bonds as absolute; reads every push as denial of a constraint that cannot be moved
+  key_terms: room to work, the absolute bond, limits pushed, constraint that strangles
+
+dynamic_inhibition:
+  mechanism: The constraint tightens past the point craft can survive; the collaboration's hands are bound until no skill can express itself
+  blockade_nature: mutual effort cannot build where the restriction forbids the essential moves
+  pentacles_state: the workshop's tools confiscated; skill present but forbidden, a company that knows how and is not allowed
+  consequence: the collaboration is paralyzed; mastery locked behind a constraint that permits nothing
+  key_terms: bound hands, forbidden skill, the confiscated workshop, paralyzed mastery
+
+dynamic_devolution:
+  mechanism: The collaboration internalizes the constraint into self-censorship; the company stops attempting what is merely difficult, mistaking its bonds for the edge of the possible
+  mode: learned helplessness in the craft; mutual effort shrunk to only the permitted, the unpermitted forgotten as unthinkable
+  loss: the reach of the craft; skill atrophied to the size of its cage, the company forgetting it could do more
+  key_terms: self-censorship, learned helplessness, the forgotten possible, atrophied reach
+
+dynamic_dependency:
+  mechanism: The 3 needs the 8 of Swords to know which constraints are real and must be worked within; the constraint needs the collaboration's ingenuity to become a discipline rather than a death
+  function: Pentacles-3 supplies the skilled ingenuity that makes limits productive; Swords-8 supplies the clear sight of which bonds are real and where they actually lie
+  integration_outcome: a craft that works brilliantly within true constraints and tests the false ones; limitation turned from a cage into a frame
+  key_terms: limits made productive, the true bond known, ingenuity framed, craft within constraint
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, 9 of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
+numerical_relation: 3 + 9 = 12 (XII The Hanged Man; the working company meets the tormented mind; mutual effort meeting obsessive anguish)
+elemental_bridge: Earth's grounding hands meet Air's nightmare; the collaboration meets the anxiety that haunts one of its makers
+threshold_type: The shared work and the sleepless mind; craft meeting the torment it might steady
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives an anxious mind a grounding task; the concrete shared work pulls the tormented one out of the spiral into something real
+  process: the obsessive thought is met by hands that have somewhere to be; the company's rhythm and purpose steady a mind that alone would race
+  outcome: anxiety quieted by belonging to real work; the tormented maker grounded by a craft that needs them present
+  key_terms: the grounding task, anxiety steadied, pulled from the spiral, work that anchors
+
+dynamic_antagonism:
+  mechanism: The craft's demand for steady competence collides with the 9's anguish; mutual effort meets the mind too tormented to perform
+  tension_axis: the reliability the work needs versus the anxiety that undermines it
+  pentacles_position: Needs each hand calm and capable; struggles with a member whose torment disrupts the work
+  swords_position: Cannot quiet the nightmare on command; reads the demand for steady competence as one more thing to fail at
+  key_terms: reliability vs. anguish, the disrupted work, calm demanded, one more failure
+
+dynamic_inhibition:
+  mechanism: The obsessive anxiety consumes the maker the collaboration depends on; the torment takes a hand the shared work cannot do without
+  blockade_nature: mutual effort cannot proceed through a mind so haunted it can no longer hold its part
+  pentacles_state: the workshop carrying a paralyzed member; skill suspended around a torment no task can reach
+  consequence: the collaboration stalls; the work waits on an anguish that the craft alone cannot heal
+  key_terms: the consumed maker, paralyzed by torment, suspended work, anguish beyond the task
+
+dynamic_devolution:
+  mechanism: The collaboration becomes a generator of the anxiety it suffers; the company's pressure and judgment feed the very torment that wrecks its maker
+  mode: the workshop a machine of dread; mutual effort turned into a source of the nightmares it then cannot work around
+  loss: the maker and the craft both; a company whose own culture manufactures the anguish that hollows it
+  key_terms: the dread machine, manufactured anxiety, fed torment, the hollowed company
+
+dynamic_dependency:
+  mechanism: The 3 needs the 9 of Swords's honesty about the anguish its members carry; the torment needs the collaboration's grounding task and company to find a way back
+  function: Pentacles-3 supplies the real work and belonging that can steady an anxious mind; Swords-9 supplies the honest acknowledgment of anguish the work must not pretend away
+  integration_outcome: a company that grounds its tormented members without denying their pain; anxiety met by belonging to real, shared work
+  key_terms: grounded without denial, belonging that steadies, honest anguish, the company that holds
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, 10 of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Destruction, ending, inevitable pain, completion through ruin, death-knife
+numerical_relation: 3 + 10 = 13 (XIII Death; the working company meets the final ruin; mutual effort meeting the end that cannot be averted)
+elemental_bridge: Earth's joined hands meet Air's final stroke; the collaboration meets the ending that ruins what was built
+threshold_type: The made thing and its destruction; the company facing the ruin of its work
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 lets a ruin become a clearing; a company that loses its work together can salvage the skill and begin again on the bare ground
+  process: the failed project is let die; the makers, mourning together, carry forward the mastery the ruin could not take
+  outcome: an ending survived as a company; the work destroyed but the collaboration and its skill intact for what comes next
+  key_terms: ruin as clearing, skill salvaged, the company survives the end, mastery carried past ruin
+
+dynamic_antagonism:
+  mechanism: The craft's investment in what it built collides with the 10's inevitable destruction; mutual effort meets the ending it cannot accept
+  tension_axis: the work the company poured itself into versus the ruin that takes it anyway
+  pentacles_position: Fights to save the doomed work; refuses the ending its hands cannot prevent
+  swords_position: The ruin is absolute; the project is finished and no skill will bring it back
+  key_terms: the doomed work, ruin refused, fought to save, the absolute end
+
+dynamic_inhibition:
+  mechanism: The company cannot accept the destruction and so cannot move past it; the collaboration freezes over a corpse it will not bury
+  blockade_nature: mutual effort cannot begin again while bound to mourning a work already wholly ruined
+  pentacles_state: the workshop laboring over a dead project; skill poured into a thing the knife already took
+  consequence: the collaboration is trapped in its loss; a company animating the ruin instead of starting fresh
+  key_terms: the unburied corpse, frozen in loss, labor on the dead, the trapped company
+
+dynamic_devolution:
+  mechanism: The collaboration turns the ruin into mutual blame; the destroyed work becomes a wreckage the makers pick over to assign fault
+  mode: the post-mortem become a trial; mutual effort soured into recrimination over whose hand failed
+  loss: the company itself; the ruin of the work completed by the ruin of the trust that made it
+  key_terms: mutual blame, the wreckage picked over, recrimination, trust ruined too
+
+dynamic_dependency:
+  mechanism: The 3 needs the 10 of Swords's hard truth that some works must be let die; the destruction needs the collaboration so the ending clears ground rather than ending the company
+  function: Pentacles-3 supplies the company and salvaged skill that outlast the ruin; Swords-10 supplies the unflinching truth of when a work is finished
+  integration_outcome: an ending accepted together that frees the company to build again; ruin made into the clearing for the next collaboration
+  key_terms: the accepted ending, freed to rebuild, salvaged company, ruin into clearing
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, Page of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
+numerical_relation: 3 + 11 = 14 (XIV Temperance; the master company meets the young investigator; craft meeting restless inquiry)
+elemental_bridge: Earth's skilled hands meet Air's sharp questions; the workshop meets the newcomer who interrogates everything
+threshold_type: The bench and the questioner; mastery meeting the inquiry that probes it
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the Page's restless questions a craft to investigate; inquiry, set among makers, becomes the testing that keeps the work honest
+  process: the young one's "why is it done this way" is welcomed as audit; the company's methods are examined and improved by the fresh interrogation
+  outcome: a craft kept sharp by inquiry; collaboration whose methods are tested and bettered by the questioner it took in
+  key_terms: inquiry as audit, methods tested, the questioned craft, sharpened by asking
+
+dynamic_antagonism:
+  mechanism: The craft's settled methods collide with the Page's relentless questioning; mutual effort meets the inquiry that respects no received wisdom
+  tension_axis: the proven way of doing versus the question that doubts it
+  pentacles_position: Stands on hard-won method; tires of justifying every step to an untrained challenger
+  swords_position: Questions everything sharply; reads the appeal to experience as a dodge of honest scrutiny
+  key_terms: proven method vs. the question, justification demanded, received wisdom doubted, the relentless why
+
+dynamic_inhibition:
+  mechanism: The endless questioning stalls the collaboration; the work cannot proceed while every step is reopened for interrogation
+  blockade_nature: mutual effort needs settled practice, and the inquiry keeps unsettling the ground the craft stands on
+  pentacles_state: the workshop arguing first principles instead of building; skill suspended in perpetual justification
+  consequence: nothing gets made; the company debates its methods endlessly and never works them
+  key_terms: the reopened step, perpetual justification, unsettled ground, debate over build
+
+dynamic_devolution:
+  mechanism: The collaboration crushes the inquiry to protect its comfort; the Page's questions punished until the newcomer stops asking and the craft's flaws go unexamined
+  mode: curiosity disciplined into silence; mutual effort defended by making inquiry unwelcome
+  loss: the audit the craft needed; a company that silenced its questioner and kept its errors
+  key_terms: crushed inquiry, the silenced newcomer, comfort defended, errors kept
+
+dynamic_dependency:
+  mechanism: The 3 needs the Page of Swords's questions to keep its methods from ossifying; the inquiry needs the collaboration's craft to learn what is worth questioning and what is hard-won
+  function: Pentacles-3 supplies the real methods worth interrogating and the experience to answer; Swords-Page supplies the fresh inquiry that keeps the craft honest
+  integration_outcome: a craft examined and improved by welcomed questions; inquiry tempered into real understanding of the work
+  key_terms: examined methods, welcomed inquiry, the improved craft, questions made understanding
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, Knight of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
+numerical_relation: 3 + 12 = 15 (XV The Devil; the patient company meets the aggressive mind; craft meeting headlong intellectual force)
+elemental_bridge: Earth's deliberate hands meet Air's charging intellect; the methodical workshop meets the one who argues and acts at speed
+threshold_type: The careful build and the aggressive pursuit; mutual effort meeting the mind that charges
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 gives the Knight's aggressive intellect a worthy target; sharp, fast thinking aimed by a company solves what patient craft alone could not
+  process: the charging mind is pointed at the work's hardest problem; the company supplies the structure, the Knight the decisive cut
+  outcome: a craft advanced by aimed aggression; the hard knot cut by a mind the collaboration directed
+  key_terms: aimed aggression, the decisive cut, hard problems solved, directed force
+
+dynamic_antagonism:
+  mechanism: The craft's patient cooperation collides with the Knight's combative haste; mutual effort meets the mind that attacks rather than builds
+  tension_axis: the careful collaborative pace versus the aggressive intellectual charge
+  pentacles_position: Builds slowly by consensus; resents the mind that argues down the company to win
+  swords_position: Charges at the problem and the people; reads the patient method as timid evasion of hard decisions
+  key_terms: consensus vs. the charge, argued down, the combative mind, patience called timid
+
+dynamic_inhibition:
+  mechanism: The Knight's aggression fractures the collaboration's trust; makers stop contributing rather than be attacked, and the shared work loses their skill
+  blockade_nature: mutual effort needs safety to offer half-formed ideas, and the combative mind makes every contribution a risk
+  pentacles_state: the workshop gone silent and defensive; skill withheld to avoid the aggressive pursuit
+  consequence: the collaboration shrinks to the Knight alone; a company that stopped speaking, building nothing it did not have to
+  key_terms: fractured trust, withheld contributions, the silenced bench, shrunk to one
+
+dynamic_devolution:
+  mechanism: The collaboration is conquered by the aggressive mind; mutual effort replaced by a single combatant's will, the company cowed into mere execution
+  mode: the workshop ruled by intimidation; craft-judgment surrendered to whoever argues hardest and fastest
+  loss: the shared mastery; collaboration become a battlefield one mind dominates, the work impoverished to its blind spots
+  key_terms: rule by intimidation, the cowed company, surrendered judgment, dominated craft
+
+dynamic_dependency:
+  mechanism: The 3 needs the Knight of Swords's decisive force to cut through what consensus cannot; the aggression needs the collaboration to aim it at problems instead of people
+  function: Pentacles-3 supplies the structure that directs sharp force toward the work; Swords-Knight supplies the decisive intellect that breaks the collaboration's hardest deadlocks
+  integration_outcome: a company whose decisiveness serves the craft, not ego; aggression aimed at problems and tempered by the bench it works among
+  key_terms: decisiveness that serves, force aimed at problems, tempered aggression, the cutting company
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, Queen of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
+numerical_relation: 3 + 13 = 16 (XVI The Tower; the working company meets discerning judgment; craft meeting the clear, unsparing eye)
+elemental_bridge: Earth's mutual effort meets Air's keen discernment; the workshop meets the perception that sees every flaw in the work
+threshold_type: The made thing and the unsparing critic; craft meeting the judgment that will not flatter it
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 is raised by the Queen's discernment; her clear, unsparing eye holds the company's craft to a standard flattery could not
+  process: she names exactly where the work falls short; the makers, given true critique, build to a height comfortable praise would never reach
+  outcome: a craft elevated by honest judgment; collaboration sharpened by a perception that refuses to be kind about poor work
+  key_terms: elevated by critique, the unsparing standard, honest judgment, craft held high
+
+dynamic_antagonism:
+  mechanism: The craft's collaborative warmth collides with the Queen's cool, independent judgment; mutual effort meets the discernment that stands apart and cuts
+  tension_axis: the company's mutual support versus the critic's solitary clarity
+  pentacles_position: Builds on encouragement and shared morale; bridles at a judgment that withholds warmth
+  swords_position: Holds to clear perception over feeling; reads the company's mutual support as collusion in mediocrity
+  key_terms: morale vs. the cut, withheld warmth, collusion charged, clarity that stands apart
+
+dynamic_inhibition:
+  mechanism: The Queen's unsparing critique, unbalanced by warmth, freezes the collaboration; makers stop risking work that will only be found wanting
+  blockade_nature: mutual effort needs room to try and fail, and the relentless judgment makes every attempt a verdict
+  pentacles_state: the workshop building only the safe and finished; skill narrowed to what can survive the critic's eye
+  consequence: the craft contracts to the unimpeachable; a company that risks nothing because nothing imperfect is permitted
+  key_terms: every attempt a verdict, the safe and finished, narrowed skill, risk frozen out
+
+dynamic_devolution:
+  mechanism: The collaboration's standard hardens into bitter contempt; the Queen's discernment soured into a perception that finds only fault and names it cruelly
+  mode: critique become disdain; mutual effort poisoned by a judgment that wounds the makers more than it helps the work
+  loss: the willing company; craft abandoned by makers driven off by a wisdom turned bitter
+  key_terms: bitter contempt, critique as disdain, wounded makers, the driven-off company
+
+dynamic_dependency:
+  mechanism: The 3 needs the Queen of Swords's discernment to hold its craft to a true standard; the judgment needs the collaboration to give its clarity a real work to improve rather than only to cut
+  function: Pentacles-3 supplies the company and craft worth judging well; Swords-Queen supplies the unsparing perception that keeps the work honest and high
+  integration_outcome: a craft held to a real standard by clear judgment offered in service of the work; discernment that elevates the company instead of emptying it
+  key_terms: true standard, judgment in service, elevated craft, clarity that builds
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS
+
+---
+
+card_pair: 3 of Pentacles, King of Swords
+archetype_pentacles: Collaboration, skill, artisanship, mutual effort, crafted mastery
+archetype_swords: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
+numerical_relation: 3 + 14 = 17 (XVII The Star; the working company meets supreme judgment; craft meeting the authority of absolute logic)
+elemental_bridge: Earth's mutual effort meets Air's commanding logic; the workshop meets the authority whose clear law governs how it works
+threshold_type: The craft and its lawgiver; mutual effort meeting the supreme judgment that sets its standards
+
+dynamic_genesis:
+  mechanism: The collaboration of the 3 is given clear law by the King's authority; his commanding logic sets the standards and principles the company's craft is held to
+  process: the King defines what correct work is; the makers build to a clear, principled standard rather than shifting opinion
+  outcome: a craft governed by clear principle; collaboration whose quality rests on a logic everyone can know and meet
+  key_terms: clear law, principled standard, governed craft, logic everyone can meet
+
+dynamic_antagonism:
+  mechanism: The craft's embodied, hands-on knowledge collides with the King's abstract logic; mutual effort meets the authority that rules from principle without touching the work
+  tension_axis: the maker's practical knowledge versus the lawgiver's abstract judgment
+  pentacles_position: Trusts what the hands know that logic cannot capture; resents a standard set by one who does not build
+  swords_position: Rules by clear principle; reads the appeal to hands-on feel as undisciplined and unaccountable
+  key_terms: hands vs. the principle, the lawgiver who does not build, embodied knowledge, feel called undisciplined
+
+dynamic_inhibition:
+  mechanism: The King's absolute logic overrides the collaboration's craft-knowledge; the makers must follow a standard that misses what only the hands know
+  blockade_nature: mutual effort cannot correct a supreme judgment that does not admit the practical truth of the work
+  pentacles_state: the workshop forced to build to a flawed principle; skill suppressed beneath a logic it may not contradict
+  consequence: the craft fails to the lawgiver's abstraction; a company building correctly by the rule and wrongly in fact
+  key_terms: overridden craft-knowledge, the flawed principle, suppressed skill, correct by rule, wrong in fact
+
+dynamic_devolution:
+  mechanism: The collaboration is reduced to enforcing a cold law; the King's authority hardens into rule by decree, the makers mere executors of judgments they cannot question
+  mode: craft become compliance; mutual effort stripped of judgment and kept only to carry out the law
+  loss: the living knowledge of the makers; collaboration severed from the practical wisdom that should inform the standard
+  key_terms: rule by decree, craft as compliance, executors not makers, severed wisdom
+
+dynamic_dependency:
+  mechanism: The 3 needs the King of Swords's clear authority to give its craft a principled standard; the judgment needs the collaboration's hands-on knowledge to keep its law connected to how the work is actually done
+  function: Pentacles-3 supplies the embodied craft-knowledge that grounds the law in reality; Swords-King supplies the commanding clarity that gives the work a true, knowable standard
+  integration_outcome: a craft governed by clear principle that listens to the hands; supreme judgment and practical mastery setting the standard together
+  key_terms: principle that listens, grounded law, standard set together, clarity and craft joined
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 3-1 through 3-14
+  uid: 3OPS

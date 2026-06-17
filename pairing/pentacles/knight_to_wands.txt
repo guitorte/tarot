@@ -1,0 +1,697 @@
+card_pair: Knight of Pentacles, Ace of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 12 + 1 = 13 (XIII Death; service meets inspiration; the steady worker meets creative spark)
+elemental_bridge: Earth's dedicated service meets Fire's creative flame; the methodical knight meets the visionary fire
+threshold_type: The servant inspired to create; service meeting enterprise
+
+dynamic_genesis:
+  mechanism: The Ace's spark shows the Knight that service includes creative expression; the visionary fire gives the steady worker purpose beyond mere duty
+  process: the dedicated servant discovers that work can be animated by fire; the service becomes a creative act; the labor finds inspiration in the spark
+  outcome: service animated by creative purpose; the knight discovering that work can ignite
+  key_terms: inspired service, animated labor, creative dedication, ignited work
+
+dynamic_antagonism:
+  mechanism: The Knight's methodical pace clashes with the Ace's demand for immediate creation; the steady worker wants to plan while the spark demands expression now
+  tension_axis: methodical preparation versus immediate creation; planned service versus inspired action
+  knight_of_pentacles_position: Creation requires preparation and careful method; the hasty spark is wasted
+  ace_of_wands_position: Method kills the fire; the knight must act on the inspiration now
+  key_terms: urged action, defended method, insisted creation, kept preparation
+
+dynamic_inhibition:
+  mechanism: The Knight's need for methodical planning prevents the Ace's spark from igniting; the servant cannot move fast enough for the fire
+  blockade_nature: the creative moment cannot wait while the knight prepares every step
+  pentacles_state: the servant becomes paralyzed; the steady work turns into endless preparation
+  consequence: the spark dies; the Knight's caution prevents the Ace's fire from working
+  key_terms: lost inspiration, paralyzed service, deadened spark, prevented creation
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into rigid control; the servant uses method to extinguish the creative fire
+  mode: the reliability weaponized to suppress creation; the steady work becomes the tool of constraint
+  loss: the genuine creative courage that service could develop; the knight becomes the careful one who has learned to quench fire
+  key_terms: controlling service, rigid method, suppressed creation, deadened labor
+
+dynamic_dependency:
+  mechanism: The Knight needs the Ace to show that service is ultimately in service of creation; the fire needs the servant's dedication to be sustainable
+  function: Pentacles-Knight supplies the method that makes the Ace's fire buildable; Wands-Ace supplies the inspiration that makes service meaningful
+  integration_outcome: a servant discovering that labor and creation work together; the work animated by creative purpose
+  key_terms: inspired service, sustained creation, dedicated labor, creative work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, 2 of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 12 + 2 = 14 (XIV Temperance; service meets dominion; the steady worker meets power of choice)
+elemental_bridge: Earth's grounded work meets Fire's expanding vision; the servant meets the powerful dreamer
+threshold_type: The servant asked to choose expansion; service meeting dominion
+
+dynamic_genesis:
+  mechanism: The 2's vision shows the Knight that service can expand into dominion; the power teaches the steady worker that reliability can lead to leadership
+  process: the dedicated servant discovers that faithful work earns the right to choose; the service becomes a path to power; the labor finds its reward in expanded possibility
+  outcome: service elevated by vision; the knight discovering that work leads to dominion
+  key_terms: elevating service, powered labor, expanding dedication, chosen growth
+
+dynamic_antagonism:
+  mechanism: The Knight's contentment with steady duty clashes with the 2's demand for expansion; the servant wants to remain reliable while power insists on growth
+  tension_axis: steady duty versus expansive choice; faithful service versus ambitious vision
+  knight_of_pentacles_position: The work is enough; expansion threatens what has been built
+  two_of_wands_position: The servant is limited by loyalty; real power requires bold choice
+  key_terms: urged ambition, defended loyalty, insisted growth, kept duty
+
+dynamic_inhibition:
+  mechanism: The 2's demand for expansion prevents the Knight's faithful service; the servant cannot commit fully to growth while attached to what was
+  blockade_nature: the expansion cannot fully happen while the knight insists on preserving what is
+  pentacles_state: the servant becomes conflicted; the steady work turns into divided loyalty
+  consequence: true growth cannot happen; the Knight's attachment prevents the 2's expansion
+  key_terms: conflicted service, divided loyalty, prevented growth, held ground
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into possessive control; the servant refuses expansion to protect what has been gained
+  mode: the reliability weaponized to resist change; the steady work becomes the refusal of growth
+  loss: the genuine expansion that service could eventually earn; the knight becomes the loyal one who cannot let go of what was
+  key_terms: possessive service, resistant labor, refused growth, controlling dedication
+
+dynamic_dependency:
+  mechanism: The Knight needs the 2 to teach that service eventually leads to choice and expansion; the power needs the servant's dedication to be grounded
+  function: Pentacles-Knight supplies the foundation that makes the 2's expansion sustainable; Wands-2 supplies the vision that shows service has purpose
+  integration_outcome: a servant learning to grow into power; the work that leads to honored choice
+  key_terms: empowering service, grounded vision, expanding dedication, purposeful labor
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, 3 of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 12 + 3 = 15 (XV The Devil; service meets enterprise; the steady worker meets collaborative vision)
+elemental_bridge: Earth's grounded labor meets Fire's forward movement; the servant meets the moving enterprise
+threshold_type: The servant drawn into moving collaboration; service meeting shared growth
+
+dynamic_genesis:
+  mechanism: The 3's collaborative vision shows the Knight that service is part of larger enterprise; the shared growth gives the worker purpose beyond individual duty
+  process: the dedicated servant discovers shared purpose through the 3's movement; the work becomes part of collaborative growth; the labor finds meaning in moving together
+  outcome: service animated by shared purpose; the knight discovering that individual work serves larger vision
+  key_terms: purposeful service, shared labor, moving dedication, collaborative work
+
+dynamic_antagonism:
+  mechanism: The Knight's individual focus clashes with the 3's insistence on collaboration; the steady worker wants independent mastery while shared enterprise demands interdependence
+  tension_axis: individual work versus collaborative movement; solitary mastery versus shared vision
+  knight_of_pentacles_position: The work is mine to do; collaboration spreads focus too thin
+  three_of_wands_position: The worker alone is trapped; the enterprise requires shared movement
+  key_terms: urged collaboration, defended independence, insisted movement, kept focus
+
+dynamic_inhibition:
+  mechanism: The 3's demand for constant collaboration prevents the Knight's individual focus; the servant cannot maintain concentration while required to move with the group
+  blockade_nature: the shared movement cannot include one who insists on working alone
+  pentacles_state: the servant becomes isolated; the steady work turns into solitary labor
+  consequence: the enterprise moves without the knight; the Knight's solitude prevents the 3's full collaboration
+  key_terms: isolated service, solitary labor, sidelined dedication, prevented movement
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into stubborn independence; the servant uses work as a way to resist the collaborative demand
+  mode: the reliability weaponized to refuse the shared movement; the labor becomes the assertion of being separate
+  loss: the genuine shared growth that service could contribute to; the knight becomes the solitary one who has chosen isolation
+  key_terms: stubborn service, separate labor, resisted collaboration, isolated worker
+
+dynamic_dependency:
+  mechanism: The Knight needs the 3 to teach that individual service finds meaning in larger collaborative purpose; the enterprise needs the servant's dedicated work to move
+  function: Pentacles-Knight supplies the grounded labor that makes the 3's movement sustainable; Wands-3 supplies the vision that shows why work matters
+  integration_outcome: a servant learning through collaborative enterprise; the work that serves and shares
+  key_terms: shared service, moving labor, purposeful dedication, collaborative work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, 4 of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 12 + 4 = 16 (XVI The Tower; service meets establishment; the steady worker meets communal joy)
+elemental_bridge: Earth's patient work meets Fire's celebratory joy; the servant meets the celebrating home
+threshold_type: The servant welcomed into establishment and celebration; service meeting community home
+
+dynamic_genesis:
+  mechanism: The 4's celebration shows the Knight that service is honored in community; the joy validates the worker's dedication
+  process: the steady servant discovers that faithful work earns place in celebration; the service becomes rooted in communal home; the labor is crowned with belonging
+  outcome: service honored in community; the knight discovering that work leads to celebration
+  key_terms: honored service, belonging labor, celebrated dedication, rooted work
+
+dynamic_antagonism:
+  mechanism: The Knight's serious work clashes with the 4's insistence on celebration; the steady worker wants to keep laboring while harmony demands presence
+  tension_axis: continued work versus present celebration; serious labor versus joyful dwelling
+  knight_of_pentacles_position: The work must continue; celebration distracts from necessary duty
+  four_of_wands_position: The celebration is the point; the servant's endless work prevents presence
+  key_terms: urged presence, defended duty, insisted celebration, kept working
+
+dynamic_inhibition:
+  mechanism: The Knight's drive to continue working prevents the 4's full celebration; the servant cannot rest in the joy the harmony offers
+  blockade_nature: the celebration cannot be complete while the worker insists on continuing labor
+  pentacles_state: the servant becomes restless; the steady work turns into compulsive activity
+  consequence: the joy is incomplete; the Knight's work prevents the 4's full celebration
+  key_terms: restless service, incomplete joy, prevented celebration, driven labor
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into driven compulsion; the servant uses work to avoid the rest celebration requires
+  mode: the reliability weaponized to deny the need for pause; the labor becomes the endless task
+  loss: the genuine belonging that celebration could offer; the knight becomes the driven one who works even as community celebrates
+  key_terms: compulsive service, driven labor, avoided celebration, restless dedication
+
+dynamic_dependency:
+  mechanism: The Knight needs the 4 to show that work reaches its fulfillment in establishment and celebration; the harmony needs the servant's work to be complete
+  function: Pentacles-Knight supplies the labor that builds the foundation for the 4's joy; Wands-4 supplies the celebration that validates service
+  integration_outcome: a servant honored in communal joy; the work that leads to celebrated belonging
+  key_terms: honored service, celebrated labor, belonging dedication, rooted work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, 5 of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Conflict, competition, struggle, contested victory
+numerical_relation: 12 + 5 = 17 (XVII The Star; service meets conflict; the steady worker meets competitive struggle)
+elemental_bridge: Earth's collaborative work meets Fire's contested flames; the servant meets the struggling warrior
+threshold_type: The servant drawn into conflict; service meeting contested struggle
+
+dynamic_genesis:
+  mechanism: The 5's struggle shows the Knight that service includes standing firm under contest; the conflict teaches the worker that dedication is tested and proven
+  process: the steady servant discovers that work must withstand opposition; the service becomes a test of conviction; the labor is validated through contest
+  outcome: service validated by struggle; the knight discovering that work stands firm against opposition
+  key_terms: tested service, standing labor, validated dedication, proven work
+
+dynamic_antagonism:
+  mechanism: The Knight's collaborative approach clashes with the 5's competitive demand; the servant wants to work with others while conflict divides
+  tension_axis: collaborative service versus competitive struggle; shared work versus contested victory
+  knight_of_pentacles_position: Service is shared; conflict corrupts true work
+  five_of_wands_position: Soft collaboration is naive; real work comes through contested struggle
+  key_terms: urged contest, defended collaboration, insisted struggle, kept harmony
+
+dynamic_inhibition:
+  mechanism: The 5's conflict prevents the Knight's collaborative service; the worker cannot maintain trust while surrounded by contested opposition
+  blockade_nature: the shared work cannot happen while the 5 insists on division and contest
+  pentacles_state: the servant becomes distrustful; the collaborative service turns into defensive position
+  consequence: true service is prevented; the 5's conflict blocks the Knight's cooperation
+  key_terms: blocked service, distrustful labor, prevented collaboration, defended work
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into competitive ambition; the servant uses work as a weapon in the conflict
+  mode: the reliability weaponized for competitive edge; the labor becomes the tool of struggle
+  loss: the genuine service that collaborative work could offer; the knight becomes the competitive worker who fights for dominion
+  key_terms: competitive service, weaponized labor, ambitious dedication, fighting work
+
+dynamic_dependency:
+  mechanism: The Knight needs the 5 to teach that true service must stand against opposition; the contest needs the servant's reliable dedication to have substance
+  function: Pentacles-Knight supplies the grounded work that gives the 5's contest real value; Wands-5 supplies the challenge that proves what the servant builds
+  integration_outcome: a servant who works through tested contest; the labor that stands firm
+  key_terms: tested service, standing labor, grounded struggle, validated work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, 6 of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 12 + 6 = 18 (XVIII The Moon; service meets victory; the steady worker meets public achievement)
+elemental_bridge: Earth's humble labor meets Fire's public recognition; the servant meets the celebrated winner
+threshold_type: The servant honored for faithful work; service meeting public recognition
+
+dynamic_genesis:
+  mechanism: The 6's victory shows the Knight that faithful service earns recognition; the public achievement validates the worker's dedication
+  process: the steady servant discovers that humble work reaches public honor; the service becomes acknowledged and celebrated; the labor finds recognition
+  outcome: service honored publicly; the knight discovering that work leads to achievement
+  key_terms: honored service, recognized labor, validated dedication, celebrated work
+
+dynamic_antagonism:
+  mechanism: The Knight's humble service clashes with the 6's public demand; the servant wants quiet work while achievement requires visibility
+  tension_axis: humble labor versus public recognition; quiet work versus celebrated success
+  knight_of_pentacles_position: True service is quiet; public recognition can corrupt genuine work
+  six_of_wands_position: Hidden work is invisible; the victory proves the service's worth through public acknowledgment
+  key_terms: urged visibility, defended humility, insisted recognition, kept privacy
+
+dynamic_inhibition:
+  mechanism: The 6's public demand prevents the Knight's quiet deepening; the servant cannot maintain humble focus while required to accept public visibility
+  blockade_nature: the recognition cannot be accepted while the worker insists on remaining hidden
+  pentacles_state: the servant becomes uncomfortable; the grounded work turns into public performance
+  consequence: the achievement goes to others; the Knight's humility prevents the 6's recognition
+  key_terms: hidden service, invisible labor, unrewarded dedication, unacknowledged work
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into resentful refusal of recognition; the servant uses humility as a weapon against the 6's visibility
+  mode: the reliability weaponized to deny the value of public acknowledgment; the work becomes the assertion of being above achievement
+  loss: the genuine validation that recognition could offer; the knight becomes the proud one who refused to be honored
+  key_terms: resentful service, refused honor, proud labor, defensive dedication
+
+dynamic_dependency:
+  mechanism: The Knight needs the 6 to show that faithful service deserves public recognition; the victory needs the servant's authentic work to be worth celebrating
+  function: Pentacles-Knight supplies the real labor that gives the 6's victory substance; Wands-6 supplies the recognition that validates service
+  integration_outcome: a servant honored for authentic work; the labor that earns and deserves recognition
+  key_terms: honored service, validated labor, recognized dedication, celebrated work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, 7 of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 12 + 7 = 19 (XIX The Sun; service meets challenge; the steady worker meets defensive stance)
+elemental_bridge: Earth's grounded work meets Fire's determined defense; the servant meets the defending warrior
+threshold_type: The servant standing firm in challenge; service meeting resilient ground
+
+dynamic_genesis:
+  mechanism: The 7's resilience teaches the Knight that service includes standing firm under challenge; the defensive stance shows the worker that conviction matters
+  process: the steady servant discovers that work must be defended when challenged; the service becomes training in maintaining what has been built; the labor gains strength through standing
+  outcome: service grounded in resilience; the knight discovering that work strengthened through challenge
+  key_terms: resilient service, standing labor, defended dedication, strengthened work
+
+dynamic_antagonism:
+  mechanism: The Knight's flexible adjustment clashes with the 7's rigid defense; the worker wants to adapt while the stance demands unmov ing conviction
+  tension_axis: flexible adaptation versus rigid defense; adjusting work versus unwavering stand
+  knight_of_pentacles_position: Service adapts to necessity; fixed stance blocks necessary adjustment
+  seven_of_wands_position: Adaptation is surrender; the servant must hold ground for what has been built
+  key_terms: urged conviction, defended flexibility, insisted stance, kept adjusting
+
+dynamic_inhibition:
+  mechanism: The 7's demand for unwavering stance prevents the Knight's adaptive work; the servant cannot adjust while required to defend position absolutely
+  blockade_nature: the adjustment cannot happen while the stance insists on absolute holding
+  pentacles_state: the servant becomes rigid; the flexible work turns into fixed defense
+  consequence: the work becomes limited; the 7's demand for stance prevents the Knight's development
+  key_terms: rigid service, frozen labor, limited work, locked position
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into stubborn rigidity; the worker uses service as a weapon to hold ground
+  mode: the reliability weaponized to refuse necessary change; the work becomes the assertion of never yielding
+  loss: the genuine flexibility that good service could offer; the knight becomes the stubborn one who holds ground at all costs
+  key_terms: stubborn service, rigid labor, weaponized dedication, fixed work
+
+dynamic_dependency:
+  mechanism: The Knight needs the 7 to teach that service is strengthened by standing firm; the defensive stance needs the servant's work to have foundation worth defending
+  function: Pentacles-Knight supplies the grounded labor that gives the 7's defense real substance; Wands-7 supplies the resilience that protects service
+  integration_outcome: a servant learning to stand firm in service; the work that is both grounded and resilient
+  key_terms: grounded service, standing labor, resilient dedication, defended work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, 8 of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 12 + 8 = 20 (XX Judgement; service meets speed; the steady worker meets rapid fire)
+elemental_bridge: Earth's measured labor meets Fire's swift momentum; the servant meets the accelerated action
+threshold_type: The servant swept into rapid movement; service meeting accelerated pace
+
+dynamic_genesis:
+  mechanism: The 8's speed shows the Knight that work can move with momentum; the rapid progress animates the servant's dedication
+  process: the steady worker discovers that labor can be swift and dynamic; the service accelerates through momentum; the work finds energy in rapid movement
+  outcome: service animated by momentum; the knight discovering that work can move with speed
+  key_terms: accelerated service, dynamic labor, swift dedication, moving work
+
+dynamic_antagonism:
+  mechanism: The Knight's careful pace clashes with the 8's insistence on speed; the worker wants to do work thoroughly while momentum demands quick motion
+  tension_axis: careful pace versus rapid speed; thorough work versus swift movement
+  knight_of_pentacles_position: Real work takes time; speed sacrifices quality
+  eight_of_wands_position: Careful work is too slow; the servant must move with the momentum
+  key_terms: urged speed, defended patience, insisted momentum, kept care
+
+dynamic_inhibition:
+  mechanism: The 8's speed prevents the Knight's careful work; the servant cannot labor thoroughly while being swept along in rapid movement
+  blockade_nature: the thorough work cannot happen while momentum demands swift action
+  pentacles_state: the servant becomes scattered; the careful labor turns into rushed work without depth
+  consequence: quality is lost; the 8's speed prevents the Knight's careful service
+  key_terms: scattered service, rushed labor, lost depth, scattered work
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into frantic accumulation; the servant works at speed without genuine commitment
+  mode: the reliability weaponized for speed without substance; the labor becomes the frenetic motion that appears productive but is empty
+  loss: the genuine care that dedicated work could offer; the knight becomes the busy one who moved fast but built nothing solid
+  key_terms: frantic service, scattered labor, hollow speed, rushed dedication
+
+dynamic_dependency:
+  mechanism: The Knight needs the 8 to show that work must move with life's momentum; the rapid progress needs the servant's grounding to stay on course
+  function: Pentacles-Knight supplies the foundation that makes the 8's speed sustainable and directed; Wands-8 supplies the momentum that keeps service from stagnating
+  integration_outcome: a servant learning to work with swift momentum; the labor that moves and accelerates
+  key_terms: moving service, grounded speed, directed labor, dynamic work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, 9 of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 12 + 9 = 21 (XXI The World; service meets strength; the steady worker meets tested resilience)
+elemental_bridge: Earth's persistent labor meets Fire's tested strength; the servant meets the enduring flame
+threshold_type: The servant strengthened through perseverance; service meeting disciplined power
+
+dynamic_genesis:
+  mechanism: The 9's resilience teaches the Knight that service develops tested strength; the perseverance shows the worker that dedication forges power
+  process: the steady servant discovers that sustained labor develops enduring resilience; the service becomes training in strength; the work is forged through persistence
+  outcome: service strengthened by perseverance; the knight discovering that work develops genuine power
+  key_terms: strengthened service, resilient labor, tested dedication, enduring work
+
+dynamic_antagonism:
+  mechanism: The Knight's varied responsiveness clashes with the 9's single-minded persistence; the worker wants to address different needs while strength demands focused endurance
+  tension_axis: varied responsiveness versus focused persistence; flexible service versus disciplined concentration
+  knight_of_pentacles_position: Service adapts to need; the single focus limits what the servant can offer
+  nine_of_wands_position: Scattered service is weak; true strength comes from one sustained effort
+  key_terms: urged focus, defended flexibility, insisted discipline, kept adapting
+
+dynamic_inhibition:
+  mechanism: The 9's demand for focused discipline prevents the Knight's varied service; the worker cannot respond to different needs while required to concentrate absolutely
+  blockade_nature: the varied response cannot happen while the strength demands singular focus
+  pentacles_state: the servant becomes narrowed; the flexible labor turns into locked concentration
+  consequence: service is limited; the 9's demand prevents the Knight's full development
+  key_terms: narrowed service, focused labor, limited work, concentrated effort
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into rigid specialization; the servant focuses only on one task and becomes blind to other needs
+  mode: the reliability weaponized to justify exclusion of other service; the work becomes the tunnel that permits no other vision
+  loss: the genuine breadth that service could offer; the knight becomes the specialist who has traded flexibility for narrow strength
+  key_terms: rigid service, narrow focus, specialized labor, limited dedication
+
+dynamic_dependency:
+  mechanism: The Knight needs the 9 to teach that service requires perseverance and strength; the endurance needs the servant's continued responsiveness to keep developing
+  function: Pentacles-Knight supplies the flexibility that keeps the 9's discipline from becoming rigid; Wands-9 supplies the persistence that makes service substantial
+  integration_outcome: a servant learning with disciplined strength; the work that is both responsive and deeply rooted
+  key_terms: grounded service, persistent labor, strengthened dedication, resilient work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, 10 of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 12 + 10 = 22 → 2+2=4 (IV The Emperor; service meets burden; the steady worker meets overwhelming responsibility)
+elemental_bridge: Earth's grounded work meets Fire's overwhelming load; the servant meets the burdened flame
+threshold_type: The servant weighted by responsibility; service meeting crushing obligation
+
+dynamic_genesis:
+  mechanism: The 10's burden shows the Knight that service includes carrying weight; the responsibility teaches the worker maturity and the cost of commitment
+  process: the steady servant discovers that work leads to real burden; the service becomes preparation for carrying heavy responsibility; the labor gains gravity and meaning
+  outcome: service matured by responsibility; the knight discovering that work brings obligations
+  key_terms: matured service, responsible labor, weighted dedication, grounded commitment
+
+dynamic_antagonism:
+  mechanism: The Knight's light responsiveness clashes with the 10's crushing burden; the worker wants to serve freely while the weight demands absolute commitment
+  tension_axis: light service versus heavy commitment; responsive work versus crushing responsibility
+  knight_of_pentacles_position: Work should be sustainable; the burden is too much to carry
+  ten_of_wands_position: The servant avoids the real responsibility work brings; maturity demands carrying the full load
+  key_terms: urged commitment, defended lightness, insisted burden, kept serving
+
+dynamic_inhibition:
+  mechanism: The 10's overwhelming weight prevents the Knight's light service; the worker cannot remain responsive while crushed by responsibility
+  blockade_nature: the sustainable work cannot happen while the burden demands total focus on carrying weight
+  pentacles_state: the servant becomes exhausted; the responsive labor turns into weighted burden
+  consequence: the joy of service is lost; the 10's weight prevents the Knight's responsive engagement
+  key_terms: exhausted service, weighted labor, lost joy, crushing responsibility
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into resentful obligation; the worker serves only because bound by burden
+  mode: the reliability weaponized to justify complaint; the work becomes the dutiful carrying that is resented
+  loss: the genuine love of service that labor could offer; the knight becomes the burdened one who works only because must
+  key_terms: dutiful service, resentful labor, weighted dedication, poisoned work
+
+dynamic_dependency:
+  mechanism: The Knight needs the 10 to teach that service includes accepting real weight and responsibility; the burden needs the servant's grounded commitment to be bearable
+  function: Pentacles-Knight supplies the genuine dedication that makes the 10's weight meaningful rather than merely crushing; Wands-10 supplies the call to mature responsibility
+  integration_outcome: a servant learning to bear service's weight; the work that matures through commitment
+  key_terms: committed service, matured labor, responsible dedication, grounded weight
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, Page of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 12 + 11 = 23 → 2+3=5 (V The Pope; service meets enthusiasm; the steady worker meets creative potential)
+elemental_bridge: Earth's reliable work meets Fire's youthful enthusiasm; the methodical knight meets the inspired explorer
+threshold_type: The servant mentoring inspired potential; service meeting creative energy
+
+dynamic_genesis:
+  mechanism: The Page's enthusiasm shows the Knight that service can be animated by creative spark; the youthful energy gives the steady worker purpose and renewal
+  process: the dedicated servant discovers that work takes on new life through the Page's fire; the service becomes a mentorship; the labor finds vitality through teaching inspiration
+  outcome: service animated by youthful purpose; the knight discovering that work gains renewal through teaching
+  key_terms: inspired service, renewed labor, animated dedication, purposeful work
+
+dynamic_antagonism:
+  mechanism: The Knight's serious responsibility clashes with the Page's enthusiastic impulse; the steady worker wants depth while the spark demands quick motion
+  tension_axis: serious commitment versus enthusiastic exploration; deep work versus inspired action
+  knight_of_pentacles_position: Real work requires seriousness; the enthusiasm is too light for genuine labor
+  page_of_wands_position: The seriousness kills the fire; the knight's dedication misses the joy that inspiration brings
+  key_terms: urged joy, defended seriousness, insisted inspiration, kept duty
+
+dynamic_inhibition:
+  mechanism: The Knight's weight of responsibility prevents the Page's full creative expression; the enthusiastic one cannot fully express while constrained by the worker's gravity
+  blockade_nature: the enthusiastic expression cannot flow while the knight insists on serious application only
+  pentacles_state: the servant becomes dull; the steady work turns into joyless grinding
+  consequence: the creative spark is dampened; the Knight's seriousness prevents the Page's expression
+  key_terms: dampened inspiration, dull labor, blocked enthusiasm, serious weight
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into cynicism; the Page corrupts into reckless irresponsibility; they teach each other distortion
+  mode: the worker weaponizes skepticism; the enthusiast weaponizes recklessness; mutual corruption
+  loss: the genuine mutual enrichment that could blend responsibility and inspiration; they become models of imbalance to each other
+  key_terms: corrupted service, cynical labor, reckless inspiration, distorted work
+
+dynamic_dependency:
+  mechanism: Each needs the other to become whole; the Knight needs the Page's inspiration, the Page needs the worker's grounding
+  function: Pentacles-Knight supplies the steadiness that makes the Page's enthusiasm sustainable; Wands-Page supplies the inspiration that animates service
+  integration_outcome: a servant who works with inspired joy; the labor animated by creative energy
+  key_terms: inspired service, grounded enthusiasm, animated labor, purposeful work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, Knight of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 12 + 12 = 24 → 2+4=6 (VI The Lovers; service meets action; the steady worker meets passionate pursuit)
+elemental_bridge: Earth's methodical labor meets Fire's swift action; the servant meets the adventuring knight
+threshold_type: The two knights meeting; service meeting bold action
+
+dynamic_genesis:
+  mechanism: The Wands Knight's action shows the Pentacles Knight that service can be dynamic and swift; the passionate pursuit gives the steady worker momentum
+  process: the dedicated servant discovers action alongside commitment; the work becomes animated by movement; the labor finds vitality through bold engagement
+  outcome: service animated by action; the knight discovering that work and adventure work together
+  key_terms: activated service, animated labor, dynamic dedication, moving work
+
+dynamic_antagonism:
+  mechanism: The Pentacles Knight's careful method clashes with the Wands Knight's reckless haste; they disagree on how work should be done
+  tension_axis: careful method versus bold action; thorough work versus swift movement
+  knight_of_pentacles_position: Real work requires method; the reckless action wastes effort
+  knight_of_wands_position: Method kills the movement; the servant must act boldly now
+  key_terms: urged boldness, defended method, insisted action, kept planning
+
+dynamic_inhibition:
+  mechanism: The Wands Knight's demand for immediate action prevents the Pentacles Knight's careful method; the worker cannot plan while being swept into movement
+  blockade_nature: the methodical work cannot happen while the action insists on immediate engagement
+  pentacles_state: the servant becomes scattered; the careful labor turns into rushed effort
+  consequence: the work loses quality; the Wands Knight's action prevents the Pentacles Knight's careful service
+  key_terms: scattered service, rushed labor, lost quality, disrupted work
+
+dynamic_devolution:
+  mechanism: The Pentacles Knight corrupts into stubborn resistance; the Wands Knight corrupts into reckless destruction; they teach each other corruption
+  mode: the worker weaponizes caution; the action knight weaponizes impulse; mutual corruption
+  loss: the genuine union of careful work and bold action that could be achieved; they become models of opposition to each other
+  key_terms: corrupted service, resistant labor, reckless action, distorted work
+
+dynamic_dependency:
+  mechanism: Each knight needs the other; the Pentacles Knight needs the Wands Knight's momentum, the Wands Knight needs the steady Knight's grounding
+  function: Pentacles-Knight supplies the method that makes the Wands Knight's action sustainable; Wands-Knight supplies the movement that keeps work alive
+  integration_outcome: two knights learning to work together; service and action united
+  key_terms: grounded action, animated service, moving labor, purposeful work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, Queen of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 12 + 13 = 25 → 2+5=7 (VII The Chariot; service meets inspired mastery; the steady worker meets passionate authority)
+elemental_bridge: Earth's grounded labor meets Fire's magnetic presence; the servant meets the charismatic master
+threshold_type: The servant led by inspired authority; service meeting creative leadership
+
+dynamic_genesis:
+  mechanism: The Queen's passionate mastery shows the Knight that service is animated by creative fire; the charisma teaches the worker that labor can radiate outward
+  process: the dedicated servant is inspired by the Queen's presence; the work becomes a channel for creative expression; the labor transforms through inspired guidance
+  outcome: service animated by passion; the knight discovering that work and mastery work together
+  key_terms: inspired service, animated labor, passionate dedication, glowing work
+
+dynamic_antagonism:
+  mechanism: The Knight's quiet dedication clashes with the Queen's public magnetism; the steady worker wants private focus while the charisma demands visible presence
+  tension_axis: private work versus public presence; quiet labor versus magnetic expression
+  knight_of_pentacles_position: Real work is quiet; the public presence is a distraction from genuine service
+  queen_of_wands_position: Private work is invisible; the servant must bring the labor alive through presence
+  key_terms: urged presence, defended privacy, insisted magnetism, kept secrecy
+
+dynamic_inhibition:
+  mechanism: The Queen's demand for visible presence prevents the Knight's quiet deepening; the worker cannot maintain focus while expected to radiate outward
+  blockade_nature: the inner development cannot happen while the Queen requires constant external expression
+  pentacles_state: the servant becomes scattered; the careful work turns into distracted performance
+  consequence: true service is lost; the Queen's demand prevents the Knight's development
+  key_terms: scattered service, distracted labor, lost depth, performed work
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into performative pretense; the worker learns to appear dedicated without genuine commitment
+  mode: the reliability weaponized to create an image; the labor becomes the studied performance
+  loss: the genuine service that work could offer; the knight becomes the one who knows how to look dedicated
+  key_terms: performative service, false dedication, hollow labor, corrupted worker
+
+dynamic_dependency:
+  mechanism: The Knight needs the Queen to show that service is ultimately in service of passionate mastery; the authority needs the servant's dedication to be authentic
+  function: Pentacles-Knight supplies the real work that gives the Queen's presence substance; Wands-Queen supplies the inspiration that activates labor
+  integration_outcome: a servant learning to serve inspired mastery; the work brought alive by passionate presence
+  key_terms: inspired service, authentic labor, animated dedication, glowing work
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW
+
+---
+
+card_pair: Knight of Pentacles, King of Wands
+archetype_pentacles: Dedication, reliable service, steady work, methodical action, trustworthy effort
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 12 + 14 = 26 → 2+6=8 (VIII Justice; service meets commanding fire; the steady worker meets authoritative vision)
+elemental_bridge: Earth's grounded work meets Fire's commanding vision; the servant meets sovereign fire
+threshold_type: The servant ruled by visionary authority; service meeting commanding mastery
+
+dynamic_genesis:
+  mechanism: The King's vision shows the Knight that service serves larger leadership; the commanding authority gives the worker purpose and direction
+  process: the dedicated servant discovers that work serves the King's vision; the service becomes a channel for leadership; the labor finds meaning in serving greater purpose
+  outcome: service directed by vision; the knight discovering that work serves leadership
+  key_terms: purposeful service, directed labor, visionary dedication, sovereign work
+
+dynamic_antagonism:
+  mechanism: The Knight's independent dedication clashes with the King's demand for obedience; the worker wants autonomy while the authority requires submission
+  tension_axis: independent work versus commanded direction; self-directed service versus ruled labor
+  knight_of_pentacles_position: The work is mine to do; the King's command constrains what I can offer
+  king_of_wands_position: The servant's independence is chaos; they must be ruled by greater vision
+  key_terms: urged obedience, defended independence, insisted dominion, kept autonomy
+
+dynamic_inhibition:
+  mechanism: The King's demand for absolute command prevents the Knight's independent dedication; the worker cannot fully commit while requiring autonomy
+  blockade_nature: the true service cannot proceed while the knight insists on maintaining independence
+  pentacles_state: the servant becomes rebellious; the steady work turns into defensive resistance
+  consequence: the vision is missed; the Knight's resistance prevents the King's full teaching
+  key_terms: rebellious service, resisted vision, defended independence, blocked command
+
+dynamic_devolution:
+  mechanism: The Knight corrupts its dedication into either servile imitation or bitter rebellion; the worker loses genuine agency
+  mode: the reliability either completely surrendered to the King's command or weaponized against it; the work becomes either loss of self or destructive defiance
+  loss: the genuine development the King's vision could offer; the knight becomes either enslaved or rebellious, but not truly transformed
+  key_terms: lost agency, servile service, bitter rebellion, corrupted dedication
+
+dynamic_dependency:
+  mechanism: The Knight needs the King to teach that true service serves a vision larger than the self; the authority needs the servant's dedication to lead effectively
+  function: Pentacles-Knight supplies the grounded work that makes the King's vision practical; Wands-King supplies the vision that gives service purpose
+  integration_outcome: a servant learning to serve visionary authority; the work that empowers leadership
+  key_terms: purposeful service, guided labor, visionary dedication, grounded command
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 12-1 through 12-14
+  uid: NOPW

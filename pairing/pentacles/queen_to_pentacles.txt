@@ -1,0 +1,697 @@
+card_pair: Queen of Pentacles, Ace of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Manifestation, earthly foundation, material beginning, prosperity, practical potential
+numerical_relation: 13 + 1 = 14 (XIV Temperance; mastery meets foundation; the nurturing queen meets material beginning)
+elemental_bridge: Earth's abundant care meets Earth's manifest potential; the masterful queen meets the founding earth
+threshold_type: The queen grounding new potential; mastery meeting earthly beginning
+
+dynamic_genesis:
+  mechanism: The Ace's manifestation shows the Queen that mastery includes nurturing new potential; the foundation gives the generous one material reality to manage
+  process: the nurturing master discovers that abundance comes from grounding new potential; the authority becomes the guardian of manifestation; the wisdom serves the beginning
+  outcome: potential nurtured by mastery; the queen discovering that abundance can manifest through care
+  key_terms: nurturing manifestation, abundant foundation, masterful care, grounded potential
+
+dynamic_antagonism:
+  mechanism: The Queen's established mastery clashes with the Ace's newness; the authority wants to refine what is known while the foundation demands beginning something fresh
+  tension_axis: established mastery versus founding beginning; refined authority versus new potential
+  queen_of_pentacles_position: The established abundance is what matters; the new beginning distracts from perfecting current mastery
+  ace_of_pentacles_position: The new potential must be seized and nurtured; the queen's refinement binds to what is old
+  key_terms: urged beginning, defended mastery, insisted newness, kept refining
+
+dynamic_inhibition:
+  mechanism: The Queen's attachment to established mastery prevents the Ace's full manifestation; the authority cannot fully embrace the new while perfecting the old
+  blockade_nature: the new beginning cannot fully emerge while the queen insists on maintaining established abundance
+  pentacles_state: the master becomes conflicted; the nurturing authority turns into divided loyalty
+  consequence: the potential cannot fully emerge; the Queen's attachment prevents the Ace's manifestation
+  key_terms: conflicted mastery, divided authority, prevented manifestation, held ground
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into possessive control of the new; the authority refuses the newness to protect what has been established
+  mode: the abundance weaponized to suppress the Ace's potential; the nurturing becomes the refusal of new growth
+  loss: the genuine manifestation that mastery could bring to new potential; the queen becomes the controlling one who cannot let new things grow
+  key_terms: possessive mastery, resistant authority, refused growth, controlling care
+
+dynamic_dependency:
+  mechanism: The Queen needs the Ace to teach that mastery includes grounding new potential; the foundation needs the authority's wisdom to manifest
+  function: Pentacles-Queen supplies the nurturing mastery that makes the Ace's manifestation real; Pentacles-Ace supplies the potential that shows why mastery matters
+  integration_outcome: a master learning to nurture new manifestation; the authority that brings potential to earth
+  key_terms: nurturing mastery, manifest foundation, abundant authority, grounded care
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, 2 of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Balance, juggling, flexibility, adaptive exchange, equilibrium
+numerical_relation: 13 + 2 = 15 (XV The Devil; mastery meets balance; the nurturing queen meets adaptive exchange)
+elemental_bridge: Earth's abundant authority meets Earth's flowing balance; the masterful queen meets the juggling earth
+threshold_type: The queen learning flexibility; mastery meeting balanced adaptation
+
+dynamic_genesis:
+  mechanism: The 2's balance shows the Queen that mastery includes flexibility; the adaptive exchange teaches the authority that generosity can include change
+  process: the nurturing master discovers that abundance adapts to need; the authority becomes a channel for flowing exchange; the wisdom gains grace through responsive balance
+  outcome: mastery enriched by balance; the queen discovering that authority includes flexible response
+  key_terms: balanced mastery, adaptive authority, flexible care, flowing abundance
+
+dynamic_antagonism:
+  mechanism: The Queen's focused management clashes with the 2's constant adjustment; the authority wants steady abundance while balance demands constant adaptation
+  tension_axis: steady management versus adaptive balance; centered authority versus flowing exchange
+  queen_of_pentacles_position: The abundance requires focus; the constant adjustment scatters the management
+  two_of_pentacles_position: Fixed management is brittle; the authority must flow with changing circumstance
+  key_terms: urged flexibility, defended management, insisted adaptation, kept steadiness
+
+dynamic_inhibition:
+  mechanism: The 2's demand for constant adaptation prevents the Queen's focused management; the authority cannot maintain concentration while required to adjust constantly
+  blockade_nature: the focused authority cannot continue while the balance insists on constant flow
+  pentacles_state: the master becomes scattered; the steady management turns into distracted adjustment
+  consequence: focus is lost; the 2's balance prevents the Queen's deep authority
+  key_terms: scattered mastery, distracted management, lost focus, shifted abundance
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into rigid refusal to adapt; the authority uses steadiness as a weapon against the need for change
+  mode: the abundance weaponized to refuse flexibility; the management becomes the stubborn resistance to adaptation
+  loss: the genuine balance that mastery could offer; the queen becomes the fixed authority who cannot flow with need
+  key_terms: rigid mastery, stubborn authority, refused adaptation, fixed care
+
+dynamic_dependency:
+  mechanism: The Queen needs the 2 to teach that mastery requires responsive flexibility; the balance needs the authority's grounding to not scatter
+  function: Pentacles-Queen supplies the ground that gives the 2's balance direction; Pentacles-2 supplies the flow that makes authority alive
+  integration_outcome: a master learning to lead with balanced flexibility; the authority that is both steady and responsive
+  key_terms: balanced mastery, adaptive authority, grounded flexibility, flowing care
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, 3 of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Collaboration, skill, artisanship, mutual effort, crafted mastery
+numerical_relation: 13 + 3 = 16 (XVI The Tower; mastery meets collaboration; the nurturing queen meets mutual craft)
+elemental_bridge: Earth's abundant care meets Earth's collaborative making; the masterful queen meets the crafting earth
+threshold_type: The queen guiding shared craft; mastery meeting mutual artisanship
+
+dynamic_genesis:
+  mechanism: The 3's collaboration shows the Queen that mastery includes fostering mutual craft; the shared effort teaches the generous authority that excellence is crafted together
+  process: the nurturing master discovers that abundance grows through collaboration; the authority becomes a guide for shared making; the wisdom is refined through mutual artisanship
+  outcome: mastery deepened by collaboration; the queen discovering that authority includes fostering others
+  key_terms: shared mastery, collaborative authority, crafted care, mutual excellence
+
+dynamic_antagonism:
+  mechanism: The Queen's individual authority clashes with the 3's demand for collaboration; the master wants to direct craft while shared making demands equal participation
+  tension_axis: individual authority versus collaborative craft; directed mastery versus shared making
+  queen_of_pentacles_position: True mastery requires clear direction; collaboration dilutes the authority
+  three_of_pentacles_position: Directed work is limiting; real mastery is crafted through shared mutual effort
+  key_terms: urged collaboration, defended authority, insisted craft, kept direction
+
+dynamic_inhibition:
+  mechanism: The 3's demand for collaboration prevents the Queen's directed mastery; the authority cannot maintain standards while required to share decision-making equally
+  blockade_nature: the shared craft cannot proceed while the queen insists on directing standards
+  pentacles_state: the master becomes isolated; the generous authority turns into lonely perfectionism
+  consequence: the collaboration fails; the Queen's authority prevents the 3's shared craft
+  key_terms: isolated mastery, lonely authority, prevented collaboration, solitary care
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into competitive dominance; the authority uses skill to assert superiority over collaborative craft
+  mode: the abundance weaponized to control the collaboration; the care becomes the assertion of being better alone
+  loss: the genuine crafted excellence that collaboration could develop; the queen becomes the perfectionist authority who refused to share
+  key_terms: competitive mastery, weaponized authority, refused collaboration, isolated care
+
+dynamic_dependency:
+  mechanism: The Queen needs the 3 to teach that true mastery is fostered collaboratively; the collaboration needs the authority's wisdom to have real substance
+  function: Pentacles-Queen supplies the grounded skill that makes the 3's making real; Pentacles-3 supplies the collaborative frame that shows why mastery matters
+  integration_outcome: a master learning to lead through collaboration; the authority that guides shared craft
+  key_terms: shared mastery, collaborative authority, crafted care, mutual excellence
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, 4 of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Holding, security, control, possessiveness, guarded resources
+numerical_relation: 13 + 4 = 17 (XVII The Star; mastery meets holding; the nurturing queen meets guarded control)
+elemental_bridge: Earth's abundant care meets Earth's held security; the masterful queen meets the guarded earth
+threshold_type: The queen meeting possessive holding; mastery meeting controlled security
+
+dynamic_genesis:
+  mechanism: The 4's security shows the Queen that mastery includes protecting what matters; the holding teaches the generous authority that abundance is maintained through careful stewardship
+  process: the nurturing master discovers that authority serves to secure and protect resources; the care becomes a practice of guarding what has been built; the wisdom maintains what matters
+  outcome: mastery grounded in security; the queen discovering that authority protects abundance
+  key_terms: protective mastery, secure authority, guarded care, maintained abundance
+
+dynamic_antagonism:
+  mechanism: The Queen's flexible management clashes with the 4's rigid control; the generous authority wants to adapt while the holding demands absolute security
+  tension_axis: flexible management versus rigid holding; responsive authority versus fixed control
+  queen_of_pentacles_position: Abundance must adapt; the rigid holding prevents necessary response
+  four_of_pentacles_position: Flexibility threatens security; the authority must protect what has been built
+  key_terms: urged flexibility, defended security, insisted holding, kept adapting
+
+dynamic_inhibition:
+  mechanism: The 4's rigidity prevents the Queen's responsive management; the authority cannot fully adapt while required to maintain absolute security
+  blockade_nature: the responsive care cannot continue while the holding insists on rigid protection
+  pentacles_state: the master becomes rigid; the responsive authority turns into locked control
+  consequence: growth is prevented; the 4's holding prevents the Queen's adaptation
+  key_terms: rigid mastery, locked authority, prevented growth, controlled care
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into fearful clinging to control; the authority uses management as an excuse to maintain excessive possession
+  mode: the abundance weaponized to justify holding too tightly; the care becomes the assertion of never letting go
+  loss: the genuine flow that mastery could offer; the queen becomes the fearful authority who holds too tight
+  key_terms: fearful mastery, clinging authority, excessive control, locked care
+
+dynamic_dependency:
+  mechanism: The Queen needs the 4 to teach that mastery includes protecting what has been built; the holding needs the authority's wisdom to maintain what matters
+  function: Pentacles-Queen supplies the grounded care that makes the 4's protection meaningful; Pentacles-4 supplies the focus on what matters worth protecting
+  integration_outcome: a master learning to protect what matters; the authority that guards sustainable abundance
+  key_terms: protective mastery, secure authority, guarded care, maintained abundance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, 5 of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Hardship, poverty, material loss, deprivation, abandonment
+numerical_relation: 13 + 5 = 18 (XVIII The Moon; mastery meets hardship; the nurturing queen meets material loss)
+elemental_bridge: Earth's abundant care meets Earth's deprivation; the masterful queen meets the abandoned earth
+threshold_type: The queen facing material struggle; mastery meeting earthly hardship
+
+dynamic_genesis:
+  mechanism: The Queen's generous mastery shows the 5 that hardship can be endured and met with care; the abundant authority teaches that deprivation need not be permanent
+  process: the nurturing master discovers that mastery includes responding to loss with wisdom; the authority becomes a refuge in hardship; the care proves that survival and recovery are possible
+  outcome: hardship met by generous mastery; the queen discovering that authority includes caring for the abandoned
+  key_terms: caring mastery, abundant response, nurturing authority, sustaining wisdom
+
+dynamic_antagonism:
+  mechanism: The Queen's hopeful care clashes with the 5's despair; the master wants to lift up the abandoned while hardship demands surrender
+  tension_axis: generous response versus claimed hopelessness; abundant care versus accepted deprivation
+  queen_of_pentacles_position: The abundance can help; hardship is something to meet with care and recover from
+  five_of_pentacles_position: The deprivation is permanent; the queen's care is false hope that denies real loss
+  key_terms: urged acceptance, defended care, insisted survival, kept managing
+
+dynamic_inhibition:
+  mechanism: The 5's despair prevents the Queen's generous care from landing; the master cannot sustain abundance while surrounded by deprivation
+  blockade_nature: the generous response cannot proceed while the hardship insists on giving up
+  pentacles_state: the master becomes exhausted; the nurturing authority turns into desperate struggle
+  consequence: care becomes meaningless; the 5's despair prevents the Queen's continued offering
+  key_terms: exhausted mastery, desperate care, lost hope, struggling authority
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into controlling "help"; the authority uses abundance as a weapon to make the abandoned feel obligated
+  mode: the care weaponized to control those who suffer; the management becomes the assertion of power over the needy
+  loss: the genuine compassion that mastery could offer; the queen becomes the controlling helper who gives only to dominate
+  key_terms: controlling care, weaponized abundance, obligating mastery, conditional authority
+
+dynamic_dependency:
+  mechanism: The Queen needs the 5 to teach that mastery includes meeting real hardship; the deprivation needs the authority's care to have hope of recovery
+  function: Pentacles-Queen supplies the generous wisdom that can sustain through hardship; Pentacles-5 supplies the honest truth about what loss means
+  integration_outcome: a master learning to respond with genuine care to hardship; the authority that sustains without controlling
+  key_terms: generous mastery, sustaining care, truthful authority, compassionate wisdom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, 6 of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
+numerical_relation: 13 + 6 = 19 (XIX The Sun; mastery meets generosity; the nurturing queen meets fair exchange)
+elemental_bridge: Earth's abundant care meets Earth's flowing generosity; the masterful queen meets the giving earth
+threshold_type: The queen deepening sharing; mastery meeting reciprocal giving
+
+dynamic_genesis:
+  mechanism: The 6's generosity shows the Queen that mastery includes sharing what has been earned; the balanced giving teaches the authority that abundance is meant to flow
+  process: the nurturing master discovers that mastery's purpose includes distribution; the authority becomes a channel for generous exchange; the care gains meaning through reciprocal giving
+  outcome: mastery validated by generosity; the queen discovering that authority includes flowing abundance
+  key_terms: generous mastery, shared authority, abundant care, flowing exchange
+
+dynamic_antagonism:
+  mechanism: The Queen's careful management clashes with the 6's insistence on distribution; the authority wants to maintain control while balanced exchange demands flow
+  tension_axis: careful management versus generous sharing; held authority versus flowing distribution
+  queen_of_pentacles_position: The abundance must be managed carefully; free giving risks what has been built
+  six_of_pentacles_position: Controlled giving is selfish; true mastery is in generous distribution
+  key_terms: urged giving, defended holding, insisted sharing, kept managing
+
+dynamic_inhibition:
+  mechanism: The 6's demand for generous giving prevents the Queen's careful management; the authority cannot maintain order while required to distribute constantly
+  blockade_nature: the generous distribution cannot flow while the queen insists on holding what is earned
+  pentacles_state: the master becomes conflicted; the generous care turns into divided commitment
+  consequence: the sharing is prevented; the Queen's control blocks the 6's generosity
+  key_terms: blocked sharing, conflicted mastery, prevented giving, held authority
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into selfish hoarding; the authority uses management as an excuse to keep what has been earned
+  mode: the abundance weaponized to justify keeping; the care becomes the assertion of mine, not ours
+  loss: the genuine generosity that mastery could express; the queen becomes the hoarder authority who learned only accumulation
+  key_terms: selfish mastery, hoarding authority, refused sharing, isolated care
+
+dynamic_dependency:
+  mechanism: The Queen needs the 6 to teach that mastery includes generous sharing; the balanced giving needs the authority's wisdom to have real substance
+  function: Pentacles-Queen supplies the grounded care that earns what can be shared; Pentacles-6 supplies the generosity that shows why mastery matters
+  integration_outcome: a master learning to lead through generous giving; the authority that shares what it has earned
+  key_terms: generous mastery, shared authority, abundant care, flowing exchange
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, 7 of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Assessment, patience, long-term investment, paused evaluation, trust in process
+numerical_relation: 13 + 7 = 20 (XX Judgement; mastery meets assessment; the nurturing queen meets patient investment)
+elemental_bridge: Earth's abundant care meets Earth's patient evaluation; the masterful queen meets the assessing earth
+threshold_type: The queen pausing to assess; mastery meeting long-term trust
+
+dynamic_genesis:
+  mechanism: The 7's assessment shows the Queen that mastery includes knowing when to pause and evaluate; the patient investment teaches the authority that wisdom comes from reflection
+  process: the nurturing master discovers that authority includes stepping back to assess; the care becomes refined through evaluation; the management gains wisdom through patient consideration
+  outcome: mastery deepened by assessment; the queen discovering that authority includes wise pausing
+  key_terms: assessed mastery, refined authority, patient care, wise management
+
+dynamic_antagonism:
+  mechanism: The Queen's active management clashes with the 7's paused evaluation; the authority wants to keep the abundance flowing while assessment demands stepping back
+  tension_axis: continuing management versus paused assessment; forward authority versus evaluative pause
+  queen_of_pentacles_position: The management must continue; the pause stops necessary momentum
+  seven_of_pentacles_position: Constant management without assessment is blind; the authority must step back to evaluate
+  key_terms: urged patience, defended motion, insisted assessment, kept managing
+
+dynamic_inhibition:
+  mechanism: The 7's demand for pause prevents the Queen's continued management; the authority cannot maintain momentum while required to step back and assess
+  blockade_nature: the forward authority cannot continue while the evaluation insists on pause
+  pentacles_state: the master becomes frustrated; the active care turns into enforced stopping
+  consequence: progress is halted; the 7's assessment prevents the Queen's continuation
+  key_terms: halted mastery, frustrated authority, forced pause, blocked momentum
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into frantic avoidance of assessment; the authority uses continued management to avoid facing what needs evaluation
+  mode: the abundance weaponized to deny need for reflection; the care becomes the escape from truth-telling about progress
+  loss: the genuine wisdom that patient assessment could bring; the queen becomes the busy authority who avoids honest evaluation
+  key_terms: frantic mastery, avoided assessment, denied truth, escaped management
+
+dynamic_dependency:
+  mechanism: The Queen needs the 7 to teach that mastery includes patient assessment; the evaluation needs the authority's care to have real substance to assess
+  function: Pentacles-Queen supplies the grounded abundance that builds what can be assessed; Pentacles-7 supplies the patient wisdom that makes authority worth evaluating
+  integration_outcome: a master learning to lead with patient assessment; the authority that includes wise pausing
+  key_terms: assessed mastery, refined authority, patient care, wise management
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, 8 of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Mastery, skill-development, apprenticeship, dedication, refined craft
+numerical_relation: 13 + 8 = 21 (XXI The World; mastery meets mastery; the nurturing queen meets refined craft)
+elemental_bridge: Earth's abundant care meets Earth's developing excellence; the masterful queen meets the crafting earth
+threshold_type: The queen mentoring mastery; authority meeting skill-development
+
+dynamic_genesis:
+  mechanism: The 8's developing mastery shows the Queen that authority includes guiding skill; the refined craft teaches the generous leader that mastery is fostered through care
+  process: the nurturing master discovers that wisdom includes mentoring craft; the authority becomes a guide toward excellence; the care transforms into masterful guidance
+  outcome: mastery deepened through mentoring; the queen discovering that authority leads toward refined craft
+  key_terms: mentored mastery, refined authority, guided care, developed excellence
+
+dynamic_antagonism:
+  mechanism: The Queen's comfortable mastery clashes with the 8's insistence on continuous refinement; the authority accepts excellence while the craft demands constant improvement
+  tension_axis: satisfied authority versus refined mastery; accepted excellence versus continuous development
+  queen_of_pentacles_position: The mastery is sufficient; constant refinement is unnecessary
+  eight_of_pentacles_position: Acceptance is complacency; true mastery demands dedicated development
+  key_terms: urged refinement, defended sufficiency, insisted mastery, kept satisfied
+
+dynamic_inhibition:
+  mechanism: The 8's demand for continuous development prevents the Queen's satisfaction with accomplished mastery; the authority cannot rest while the craft insists on improvement
+  blockade_nature: the satisfied completion cannot happen while the mastery demands constant refinement
+  pentacles_state: the master becomes driven; the generous care turns into compulsive development
+  consequence: rest is impossible; the 8's demand prevents the Queen's peaceful authority
+  key_terms: driven mastery, restless authority, prevented satisfaction, compulsive care
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into controlling mentorship; the authority uses guidance as a way to maintain power over developing craft
+  mode: the care weaponized to control development; the mentoring becomes the assertion of authority over those who must improve
+  loss: the genuine love of craft that guidance could foster; the queen becomes the controlling mentor who directs only to dominate
+  key_terms: controlling mastery, weaponized authority, dominating care, rigid guidance
+
+dynamic_dependency:
+  mechanism: The Queen needs the 8 to teach that mastery includes fostering continuous growth; the refined craft needs the authority's care to develop meaningfully
+  function: Pentacles-Queen supplies the generous wisdom that makes the 8's development sustainable; Pentacles-8 supplies the inspiration toward refined mastery
+  integration_outcome: a master learning to mentor craft; the authority elevated through guiding others toward excellence
+  key_terms: mentored mastery, refined authority, guided care, developed excellence
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, 9 of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
+numerical_relation: 13 + 9 = 22 → 2+2=4 (IV The Emperor; mastery meets independence; the nurturing queen meets earned abundance)
+elemental_bridge: Earth's abundant care meets Earth's independent luxury; the masterful queen meets the prosperous earth
+threshold_type: The queen releasing toward independence; mastery meeting earned solitude
+
+dynamic_genesis:
+  mechanism: The 9's independence shows the Queen that mastery includes releasing those who have learned; the earned abundance teaches the generous authority that true leadership means letting go
+  process: the nurturing master discovers that care includes supporting independence; the authority becomes the guide who releases; the wisdom knows when to step back
+  outcome: mastery validated by others' independence; the queen discovering that authority includes releasing what it has nurtured
+  key_terms: releasing mastery, supported independence, generous authority, earned solitude
+
+dynamic_antagonism:
+  mechanism: The Queen's continued guidance clashes with the 9's demand for independence; the authority wants to keep directing while abundance insists on standing alone
+  tension_axis: continued guidance versus earned independence; ongoing authority versus solitary freedom
+  queen_of_pentacles_position: The guidance is still needed; independence risks loss of what was built
+  nine_of_pentacles_position: The student must learn to stand alone; continued guidance prevents true freedom
+  key_terms: urged independence, defended guidance, insisted solitude, kept managing
+
+dynamic_inhibition:
+  mechanism: The 9's insistence on independence prevents the Queen's continued mentoring; the authority cannot keep guiding while required to step completely back
+  blockade_nature: the continued guidance cannot happen while the independence demands complete self-reliance
+  pentacles_state: the master becomes conflicted; the caring authority turns into watching from distance
+  consequence: connection is strained; the 9's demand prevents the Queen's continued relationship
+  key_terms: strained mastery, separated authority, prevented guidance, distant care
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into resentful clinging; the authority uses guidance as a way to maintain control over the emerging independent one
+  mode: the care weaponized to punish independence; the guidance becomes the claim that separating means betrayal
+  loss: the genuine joy that others' independence could bring; the queen becomes the controlling authority who cannot let go
+  key_terms: resentful mastery, controlling authority, retained grip, bitter care
+
+dynamic_dependency:
+  mechanism: The Queen needs the 9 to teach that mastery includes supporting independence; the earned abundance needs the authority's care to have been worthwhile
+  function: Pentacles-Queen supplies the nurturing wisdom that makes the 9's independence possible; Pentacles-9 supplies the vision that shows why mastery serves freedom
+  integration_outcome: a master learning to release toward independence; the authority that nurtures others into freedom
+  key_terms: releasing mastery, supported independence, generous authority, earned solitude
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, 10 of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Legacy, inheritance, family wealth, generational continuity, established foundation
+numerical_relation: 13 + 10 = 23 → 2+3=5 (V The Pope; mastery meets legacy; the nurturing queen meets family inheritance)
+elemental_bridge: Earth's abundant care meets Earth's generational foundation; the masterful queen meets the inherited earth
+threshold_type: The queen becoming an elder of legacy; mastery meeting generational inheritance
+
+dynamic_genesis:
+  mechanism: The 10's legacy shows the Queen that mastery is about generational contribution; the family inheritance teaches the generous authority that care builds what endures
+  process: the nurturing master discovers that wisdom transforms into family legacy; the authority becomes a bridge between generations; the care passes forward
+  outcome: mastery elevated to legacy; the queen discovering that authority includes generational stewardship
+  key_terms: legacy mastery, generational authority, enduring care, inherited wisdom
+
+dynamic_antagonism:
+  mechanism: The Queen's present focus clashes with the 10's generational demand; the authority wants to perfect current mastery while legacy insists on future responsibility
+  tension_axis: present mastery versus future legacy; current authority versus generational obligation
+  queen_of_pentacles_position: The present work is what matters; legacy is too distant
+  ten_of_pentacles_position: The present work is meaningless without legacy; the authority must serve generations
+  key_terms: urged legacy, defended present, insisted continuity, kept focus
+
+dynamic_inhibition:
+  mechanism: The 10's generational weight prevents the Queen's present focus; the authority cannot fully concentrate on current mastery while bearing the weight of legacy
+  blockade_nature: the present work cannot proceed freely while the generational obligation demands constant consideration
+  pentacles_state: the master becomes burdened; the generous care turns into weighted responsibility
+  consequence: present focus is lost; the 10's legacy prevents the Queen's full engagement
+  key_terms: burdened mastery, weighted authority, lost focus, heavy care
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into resentful servitude to generations; the authority cares for the past while resenting future obligation
+  mode: the abundance weaponized to claim victimhood; the care becomes the assertion that others demand too much
+  loss: the genuine honor that generational service could offer; the queen becomes the resentful authority bound to what came before
+  key_terms: resentful mastery, burdened authority, refused legacy, bitter care
+
+dynamic_dependency:
+  mechanism: The Queen needs the 10 to teach that present mastery builds future legacy; the generational inheritance needs the authority's care to sustain what endures
+  function: Pentacles-Queen supplies the nurturing work that maintains what the 10 represents; Pentacles-10 supplies the vision of generational continuity
+  integration_outcome: a master learning to serve with awareness of legacy; the authority that builds for generations
+  key_terms: legacy mastery, generational authority, enduring care, inherited wisdom
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, Page of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+numerical_relation: 13 + 11 = 24 → 2+4=6 (VI The Lovers; mastery meets curiosity; the nurturing queen meets practical learning)
+elemental_bridge: Earth's abundant care meets Earth's eager learning; the masterful queen meets the exploring apprentice
+threshold_type: The queen guiding eager learning; mastery meeting curious potential
+
+dynamic_genesis:
+  mechanism: The Page's curiosity shows the Queen that mastery includes nurturing learning; the practical exploration gives the authority purpose through teaching
+  process: the generous master discovers that wisdom includes guiding exploration; the authority becomes a mentor; the care gains meaning through nurturing potential
+  outcome: mastery animated through teaching; the queen discovering that authority includes nurturing growth
+  key_terms: nurturing mastery, guided learning, mentored authority, purposeful care
+
+dynamic_antagonism:
+  mechanism: The Queen's established mastery clashes with the Page's insistent questioning; the authority wants depth while the apprentice demands breadth of learning
+  tension_axis: deep mastery versus broad exploration; established authority versus curious learning
+  queen_of_pentacles_position: Real mastery requires focus; the constant questioning scatters understanding
+  page_of_pentacles_position: The apprentice must explore widely; the queen's focus limits what can be learned
+  key_terms: urged exploration, defended depth, insisted learning, kept focus
+
+dynamic_inhibition:
+  mechanism: The Page's constant questioning prevents the Queen's focused mastery; the authority cannot maintain depth while required to answer and explore
+  blockade_nature: the focused mastery cannot proceed while the apprentice demands constant explanation
+  pentacles_state: the master becomes scattered; the established authority turns into distracted teaching
+  consequence: depth is lost; the Page's questions prevent the Queen's concentration
+  key_terms: scattered mastery, distracted authority, prevented depth, disrupted care
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into dismissive dismissal of learning; the authority uses focus to shut down the apprentice's questioning
+  mode: the abundance weaponized to stop exploration; the wisdom becomes the assertion of already knowing
+  loss: the genuine nurturing that authority could offer; the queen becomes the closed master who refuses to engage
+  key_terms: dismissive mastery, closed authority, refused teaching, rigid care
+
+dynamic_dependency:
+  mechanism: The Queen needs the Page to teach that mastery includes passing knowledge; the apprentice needs the authority's wisdom to ground learning in practice
+  function: Pentacles-Queen supplies the grounded mastery that makes the Page's learning real; Pentacles-Page supplies the enthusiasm that keeps authority alive
+  integration_outcome: a master learning to nurture through teaching; the authority that guides curious potential
+  key_terms: nurturing mastery, guided learning, mentored authority, purposeful care
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, Knight of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Dedication, reliable service, steady work, methodical action, trustworthy effort
+numerical_relation: 13 + 12 = 25 → 2+5=7 (VII The Chariot; mastery meets service; the nurturing queen meets steady dedication)
+elemental_bridge: Earth's generous mastery meets Earth's reliable labor; the masterful queen meets the serving knight
+threshold_type: The queen leading the dedicated worker; mastery meeting steady service
+
+dynamic_genesis:
+  mechanism: The Knight's dedication shows the Queen that mastery includes directing reliable service; the steady work gives the authority substance to manage wisely
+  process: the generous master discovers that wisdom animates labor; the authority channels service toward purpose; the care gains meaning through directing dedicated effort
+  outcome: mastery expressed through service; the queen discovering that authority includes guiding dedicated ones
+  key_terms: directed mastery, guided service, purposeful authority, managed dedication
+
+dynamic_antagonism:
+  mechanism: The Queen's expansive management clashes with the Knight's focused duty; the authority wants flexibility while service demands steady concentration
+  tension_axis: flexible management versus focused service; adaptive authority versus steady dedication
+  queen_of_pentacles_position: The authority must adapt; the narrow focus prevents full response
+  knight_of_pentacles_position: The service requires focus; constant adaptation scatters the work
+  key_terms: urged adaptation, defended focus, insisted flexibility, kept steady
+
+dynamic_inhibition:
+  mechanism: The Knight's rigid focus prevents the Queen's responsive management; the servant cannot adapt to changing needs while required to maintain single-minded dedication
+  blockade_nature: the responsive authority cannot proceed while service insists on fixed concentration
+  pentacles_state: the master becomes frustrated; the generous wisdom turns into constrained direction
+  consequence: flexibility is lost; the Knight's focus prevents the Queen's full authority
+  key_terms: frustrated mastery, constrained authority, lost flexibility, rigid service
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into controlling domination; the authority uses wisdom to manipulate the servant's dedication
+  mode: the care weaponized to control the worker; the management becomes the assertion of power
+  loss: the genuine mutual respect that could exist between authority and service; the queen becomes the controlling master
+  key_terms: controlling mastery, weaponized authority, dominating care, rigid management
+
+dynamic_dependency:
+  mechanism: The Queen needs the Knight to teach that mastery includes valuing steady dedication; the service needs the authority's wisdom to understand larger purpose
+  function: Pentacles-Queen supplies the guiding wisdom that makes the Knight's work meaningful; Pentacles-Knight supplies the reliable effort that grounds authority
+  integration_outcome: a master learning to lead through valued service; the authority that honors dedication
+  key_terms: valued mastery, directed service, purposeful authority, managed dedication
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, Queen of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+numerical_relation: 13 + 13 = 26 → 2+6=8 (VIII Justice; mastery meets mastery; the nurturing queen meets abundant authority)
+elemental_bridge: Earth's generous mastery meets Earth's nurturing authority; the caring queen meets fellow queen
+threshold_type: The two masters together; mastery meeting generous management
+
+dynamic_genesis:
+  mechanism: The two Queens amplify each other's mastery through shared wisdom; their common authority creates abundance for mutual stewardship
+  process: the two masters work side by side; each one's wisdom deepens the other's authority; the care becomes shared stewardship
+  outcome: mutual mastery enriched; each queen discovering that shared authority is richer than solitary power
+  key_terms: mutual mastery, shared authority, enriched wisdom, doubled care
+
+dynamic_antagonism:
+  mechanism: The two Queens compete for primacy in authority; each believes their approach to mastery is the truest way
+  tension_axis: differing expressions of authority; competing visions of mastery
+  pentacles_position_1: My wisdom guides truly; the other master's approach misses what matters
+  pentacles_position_2: My authority is the genuine expression; the other queen's way confuses care with control
+  key_terms: disputed authority, competing mastery, defended approach, contested wisdom
+
+dynamic_inhibition:
+  mechanism: The two Queens' disagreement prevents their full collaboration; each insists on their own way and neither truly shares authority
+  blockade_nature: the shared mastery cannot deepen while each maintains separate conviction
+  pentacles_state: each master becomes isolated; the abundant authority turns into parallel care that never truly touches
+  consequence: neither learns fully from the other; their disagreement prevents genuine collaboration
+  key_terms: isolated mastery, parallel authority, contested wisdom, separated care
+
+dynamic_devolution:
+  mechanism: The Queens corrupt their mastery into mutual criticism; they use authority as a weapon to prove the other wrong
+  mode: the care weaponized for competitive correction; the wisdom becomes the battleground for proving superiority
+  loss: the genuine mutual enrichment that could come from shared authority; they become models of divided mastery
+  key_terms: competitive mastery, weaponized authority, mutual criticism, corrupted care
+
+dynamic_dependency:
+  mechanism: The Queens need each other to realize that mastery is deepened through mutual authority; each supplies what the other cannot alone
+  function: Pentacles-Queen-1 supplies the conviction that wisdom matters; Pentacles-Queen-2 supplies the willingness to share authority
+  integration_outcome: two masters learning to govern together; the care made whole through genuine collaboration
+  key_terms: mutual mastery, shared authority, enriched wisdom, integrated care
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP
+
+---
+
+card_pair: Queen of Pentacles, King of Pentacles
+archetype_pentacles_1: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
+archetype_pentacles_2: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+numerical_relation: 13 + 14 = 27 → 2+7=9 (IX The Hermit; mastery meets dominion; the nurturing queen meets material authority)
+elemental_bridge: Earth's generous mastery meets Earth's commanding authority; the nurturing queen meets the ruling king
+threshold_type: The queen serving the king's dominion; mastery meeting absolute authority
+
+dynamic_genesis:
+  mechanism: The King's authority shows the Queen that mastery includes serving larger dominion; the absolute rule gives the generous care direction and scope
+  process: the nurturing master discovers that wisdom serves command; the authority becomes a channel for the King's rule; the care gains purpose through serving dominion
+  outcome: mastery honored within authority; the queen discovering that great care serves greater leadership
+  key_terms: honored mastery, directed care, purposeful authority, serving leadership
+
+dynamic_antagonism:
+  mechanism: The Queen's independent authority clashes with the King's demand for absolute submission; the master wants to guide while dominion demands obedience
+  tension_axis: independent mastery versus commanded submission; co-equal authority versus absolute rule
+  queen_of_pentacles_position: The authority earned through mastery deserves respect; absolute submission denies earned wisdom
+  king_of_pentacles_position: All authority serves the King; the Queen's mastery must yield to dominion
+  key_terms: urged submission, defended mastery, insisted dominion, kept authority
+
+dynamic_inhibition:
+  mechanism: The King's absolute demand prevents the Queen's independent mastery; the authority cannot maintain autonomous wisdom while required to obey absolutely
+  blockade_nature: the independent authority cannot proceed while the dominion insists on complete submission
+  pentacles_state: the master becomes trapped; the generous wisdom turns into constrained service
+  consequence: true mastery is prevented; the King's demand prevents the Queen's full authority
+  key_terms: trapped mastery, constrained authority, prevented independence, bound wisdom
+
+dynamic_devolution:
+  mechanism: The Queen corrupts its mastery into resentful servitude; the authority serves the King while secretly resenting the lost power
+  mode: the care weaponized through hidden resistance; the mastery becomes the surface compliance hiding internal rebellion
+  loss: the genuine authority that mastery could maintain; the queen becomes the servant authority who serves while scheming
+  key_terms: resentful mastery, hidden resistance, servile authority, corrupted care
+
+dynamic_dependency:
+  mechanism: The Queen needs the King to show that mastery serves dominion; the absolute rule needs the Queen's wisdom to be just and generous
+  function: Pentacles-Queen supplies the nurturing wisdom that makes the King's rule just; Pentacles-King supplies the absolute authority that gives the Queen's mastery scope
+  integration_outcome: a master learning to serve authority; the wisdom that serves dominion wisely
+  key_terms: honored mastery, just rule, serving leadership, wise dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with earth graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to earth (pentacles)
+  numerical_axis: 13-1 through 13-14
+  uid: QOPP

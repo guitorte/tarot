@@ -200,7 +200,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 5 of Wands
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_wands: Conflict, competition, struggle, contested victory, rivalry
+archetype_wands: Conflict, competition, struggle, contested victory
 numerical_relation: 14 + 5 = 19 (XIX The Sun; material dominion meets conflict; the abundant rule meets contested struggle)
 elemental_bridge: Earth's ruling order meets Fire's combusting struggle; the grounded authority meets the competing flames
 threshold_type: The King's dominion tested by conflict; powerful stewardship confronting contested struggle
@@ -650,7 +650,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, King of Wands
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
 numerical_relation: 14 + 14 = 28 → 2+8=10 (X The Wheel of Fortune; material dominion meets visionary authority; the abundant rule meets dynamic leadership)
 elemental_bridge: Earth's grounded command meets Fire's visionary drive; the material power meets the passionate momentum
 threshold_type: Two Kings ruling together; material stewardship meeting visionary leadership

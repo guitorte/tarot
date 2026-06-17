@@ -1,6 +1,6 @@
 card_pair: King of Pentacles, Ace of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_pentacles_2: Manifestation, earthly foundation, material beginning, prosperity, practical potential
 numerical_relation: 14 + 1 = 15 (XV The Devil; material dominion meets new material opening; the abundant rule encounters new earthly potential)
 elemental_bridge: Earth's commanding wealth meets Earth's new foundation; the ruling master encounters the newly manifested opening
 threshold_type: The King's dominion extended by new manifestation; powerful stewardship recognizing new earthly opportunity
@@ -50,7 +50,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 2 of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Exchange, flow, balance, reciprocity, cyclical adaptation
+archetype_pentacles_2: Balance, juggling, flexibility, adaptive exchange, equilibrium
 numerical_relation: 14 + 2 = 16 (XVI The Tower; material dominion meets reciprocal flow; the abundant rule encounters adaptive balance)
 elemental_bridge: Earth's commanding stability meets Earth's flowing balance; the grounded authority meets the cyclical motion
 threshold_type: The King's dominion in motion; powerful stewardship maintaining dynamic balance
@@ -100,7 +100,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 3 of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Craftsmanship, collaboration, skill, mastery, tangible creation
+archetype_pentacles_2: Collaboration, skill, artisanship, mutual effort, crafted mastery
 numerical_relation: 14 + 3 = 17 (XVII The Star; material dominion meets collaborative craft; the abundant rule encounters skilled creation)
 elemental_bridge: Earth's commanding structure meets Earth's collaborative skill; the grounded authority meets the joined craftsmanship
 threshold_type: The King directing collaborative mastery; powerful stewardship enabling shared creation
@@ -150,7 +150,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 4 of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Conservation, security, control, stability, fortress
+archetype_pentacles_2: Holding, security, control, possessiveness, guarded resources
 numerical_relation: 14 + 4 = 18 (XVIII The Moon; material dominion meets material caution; the abundant rule encounters protective holding)
 elemental_bridge: Earth's commanding authority meets Earth's protective grip; the material ruler meets the guarded fortress
 threshold_type: The King reinforcing security; powerful stewardship fortifying defense
@@ -200,7 +200,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 5 of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Deprivation, loss, hardship, exclusion, material scarcity
+archetype_pentacles_2: Hardship, poverty, material loss, deprivation, abandonment
 numerical_relation: 14 + 5 = 19 (XIX The Sun; material dominion meets material hardship; the abundant rule encounters earthly deprivation)
 elemental_bridge: Earth's abundant command meets Earth's material want; the wealthy authority meets the starving ground
 threshold_type: The King confronting deprivation; powerful stewardship facing material crisis
@@ -250,7 +250,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 6 of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Generosity, reciprocal exchange, sharing, equity, mutual support
+archetype_pentacles_2: Sharing, generosity, fair exchange, reciprocal giving, balanced distribution
 numerical_relation: 14 + 6 = 20 (XX Judgement; material dominion judges the distribution; the abundant rule determines fair exchange)
 elemental_bridge: Earth's commanding distribution meets Earth's reciprocal giving; the material authority meets the balanced exchange
 threshold_type: The King determining fair distribution; powerful stewardship judging equitable giving
@@ -300,7 +300,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 7 of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Assessment, investment evaluation, patient cultivation, growth monitoring, trust in process
+archetype_pentacles_2: Assessment, patience, long-term investment, paused evaluation, trust in process
 numerical_relation: 14 + 7 = 21 (XXI The World; material dominion assesses the investment; the abundant rule judges the cultivation)
 elemental_bridge: Earth's commanding judgment meets Earth's patient growth; the material authority meets the slow ripening
 threshold_type: The King assessing long investment; powerful stewardship evaluating patient cultivation
@@ -350,7 +350,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 8 of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Mastery, skill development, focused practice, refinement, expertise
+archetype_pentacles_2: Mastery, skill-development, apprenticeship, dedication, refined craft
 numerical_relation: 14 + 8 = 22 → 2+2=4 (IV The Emperor; material dominion masters the skill; the abundant rule perfects the craft)
 elemental_bridge: Earth's commanding authority meets Earth's dedicated practice; the material ruler meets the focused apprentice
 threshold_type: The King as master of craft; powerful stewardship enabling skill development
@@ -400,7 +400,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 9 of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Abundance, luxury, independence, sovereignty, material security
+archetype_pentacles_2: Independence, luxury, earned abundance, self-sufficiency, prosperous solitude
 numerical_relation: 14 + 9 = 23 → 2+3=5 (V The Pope; material dominion meets independence; the abundant rule encounters self-sufficiency)
 elemental_bridge: Earth's commanding authority meets Earth's earned abundance; the material ruler meets the self-sufficient garden
 threshold_type: The King recognizing achieved independence; powerful stewardship meeting earned self-sufficiency
@@ -450,7 +450,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 10 of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Legacy, inheritance, dynasty, generational wealth, ancestral foundation
+archetype_pentacles_2: Legacy, inheritance, family wealth, generational continuity, established foundation
 numerical_relation: 14 + 10 = 24 → 2+4=6 (VI The Lovers; material dominion becomes legacy; the abundant rule becomes ancestral foundation)
 elemental_bridge: Earth's commanding present meets Earth's enduring inheritance; the material ruler meets the ancestral wealth
 threshold_type: The King becoming ancestor; powerful stewardship becoming dynasty
@@ -600,7 +600,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, Queen of Pentacles
 archetype_pentacles_1: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_pentacles_2: Nurturing mastery, generous abundance, grounded care, domestic sovereignty
+archetype_pentacles_2: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
 numerical_relation: 14 + 13 = 27 → 2+7=9 (IX The Hermit; material dominion meets nurturing mastery; the abundant rule meets grounded care)
 elemental_bridge: Earth's commanding structure meets Earth's nurturing presence; the material authority meets the generous care
 threshold_type: The King and Queen ruling together; material stewardship meeting nurturing mastery

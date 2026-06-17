@@ -50,7 +50,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 2 of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Dominion, duality, choice, paired willpower, expanded vision
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
 numerical_relation: 13 + 2 = 15 (XV The Devil; nurturing mastery meets duality; the abundant authority encounters expanded choice)
 elemental_bridge: Earth's rooted care meets Fire's expansive dominion; the nurturing ground meets the dual force
 threshold_type: The Queen's wisdom choosing; mastery meeting expanded vision
@@ -100,7 +100,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 3 of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Enterprise, expansion, collaborative commerce, established growth, shared enterprise
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
 numerical_relation: 13 + 3 = 16 (XVI The Tower; nurturing mastery meets enterprise; the abundant authority meets collaborative growth)
 elemental_bridge: Earth's sustaining care meets Fire's expansive commerce; the nurturing ground meets shared enterprise
 threshold_type: The Queen's abundance in enterprise; mastery meeting established commerce
@@ -150,7 +150,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 4 of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Celebration, creative victory, established joy, creative success, festive abundance
+archetype_wands: Celebration, harmony, community, home, joy, establishment
 numerical_relation: 13 + 4 = 17 (XVII The Star; nurturing mastery meets celebration; the abundant authority meets festive triumph)
 elemental_bridge: Earth's generous provision meets Fire's creative victory; the nurturing ground meets celebrated success
 threshold_type: The Queen's abundance celebrated; mastery meeting creative joy
@@ -200,7 +200,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 5 of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Conflict, competition, discordant energy, struggle, contested will
+archetype_wands: Conflict, competition, struggle, contested victory
 numerical_relation: 13 + 5 = 18 (XVIII The Moon; nurturing mastery meets conflict; the abundant authority meets contested struggle)
 elemental_bridge: Earth's peaceful care meets Fire's contentious energy; the nurturing ground meets aggressive opposition
 threshold_type: The Queen confronting conflict; mastery meeting contested will
@@ -250,7 +250,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 6 of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Victory, recognition, earned honor, public success, vindicated effort
+archetype_wands: Victory, recognition, success, honor, public achievement
 numerical_relation: 13 + 6 = 19 (XIX The Sun; nurturing mastery meets victory; the abundant authority meets earned honor)
 elemental_bridge: Earth's sustaining care meets Fire's public success; the nurturing ground meets recognized achievement
 threshold_type: The Queen's care bearing fruit in victory; mastery meeting earned triumph
@@ -300,7 +300,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 7 of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Perseverance, determination, defending position, sustained resistance, hard-won ground
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
 numerical_relation: 13 + 7 = 20 (XX Judgement; nurturing mastery meets perseverance; the abundant authority meets sustained effort)
 elemental_bridge: Earth's enduring care meets Fire's determined resistance; the nurturing foundation meets defended ground
 threshold_type: The Queen's care sustained through struggle; mastery meeting hard-won perseverance
@@ -350,7 +350,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 8 of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Swiftness, rapid communication, swift action, velocity, speedy message
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
 numerical_relation: 13 + 8 = 21 (XXI The World; nurturing mastery meets swiftness; the abundant authority meets rapid change)
 elemental_bridge: Earth's steady care meets Fire's rapid movement; the rooted nurturing meets swift action
 threshold_type: The Queen keeping pace with change; mastery meeting velocity
@@ -400,7 +400,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 9 of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Preparation, readiness, completion near, final push, one more effort
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
 numerical_relation: 13 + 9 = 22 → 2+2=4 (IV The Emperor; nurturing mastery meets completion; the abundant authority meets final readiness)
 elemental_bridge: Earth's sustaining care meets Fire's final preparation; the nurturing foundation meets the completing effort
 threshold_type: The Queen seeing things through; mastery meeting near completion
@@ -450,7 +450,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 10 of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Burden, excessive load, oppressive weight, completed effort carrying consequence, burden of responsibility
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
 numerical_relation: 13 + 10 = 23 → 2+3=5 (V The Pope; nurturing mastery meets burden; the abundant authority meets oppressive weight)
 elemental_bridge: Earth's sustaining care meets Fire's heavy burden; the nurturing foundation meets the overwhelming load
 threshold_type: The Queen carrying the weight; mastery meeting excessive burden
@@ -500,7 +500,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, Page of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Curiosity, creative exploration, inspired apprenticeship, visionary potential, entrepreneurial spark
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
 numerical_relation: 13 + 11 = 24 → 2+4=6 (VI The Lovers; nurturing mastery meets creative curiosity; the abundant authority meets visionary apprentice)
 elemental_bridge: Earth's grounded care meets Fire's creative exploration; the practical guide meets the sparkling potential
 threshold_type: The Queen mentoring creation; mastery meeting visionary apprentice
@@ -550,7 +550,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, Knight of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Enterprise, passionate action, inspired mission, visionary pursuit, adventurous enterprise
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
 numerical_relation: 13 + 12 = 25 → 2+5=7 (VII The Chariot; nurturing mastery meets passionate action; the abundant authority meets visionary enterprise)
 elemental_bridge: Earth's sustaining support meets Fire's passionate movement; the grounded care meets the driven action
 threshold_type: The Queen supporting enterprise; mastery meeting passionate mission
@@ -600,7 +600,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, Queen of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Passion, vitality, inspired leadership, magnetic fire, creative command
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
 numerical_relation: 13 + 13 = 26 → 2+6=8 (VIII Justice; nurturing mastery meets passionate leadership; the abundant authority meets visionary fire)
 elemental_bridge: Earth's grounded care meets Fire's visionary passion; the practical manager meets the inspired leader
 threshold_type: Two Queens ruling together; mastery meeting passionate authority
@@ -650,7 +650,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, King of Wands
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_wands: Creative authority, visionary dominion, inspired leadership, passionate rule, command of fire
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
 numerical_relation: 13 + 14 = 27 → 2+7=9 (IX The Hermit; nurturing mastery meets passionate authority; the abundant authority meets visionary dominion)
 elemental_bridge: Earth's sustaining care meets Fire's creative command; the practical management meets inspired rule
 threshold_type: The Queen and King together; mastery meeting passionate authority

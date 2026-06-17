@@ -1,0 +1,697 @@
+card_pair: King of Pentacles, Ace of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 14 + 1 = 15 (XV The Devil; material dominion meets raw creative spark; the abundant rule encounters the first fire)
+elemental_bridge: Earth's commanding wealth meets Fire's new ignition; the ruling foundation meets the emerging vision
+threshold_type: The King's dominion opened by new vision; powerful stewardship encountering visionary spark
+
+dynamic_genesis:
+  mechanism: The King's material foundation gives the Ace's spark a place to ignite and grow; the dominion provides resources and grounding for new vision
+  process: the material authority channels the raw inspiration into viable enterprise; the powerful rule becomes the foundation upon which the spark can build lasting fire
+  outcome: creative spark grounded in material substance; visionary inspiration backed by powerful stewardship
+  key_terms: grounded spark, material inspiration, resourced vision, founded enterprise
+
+dynamic_antagonism:
+  mechanism: The King's caution clashes with the Ace's urgency to ignite; the ruler wants proof while the spark wants only to catch and burn
+  tension_axis: commanded restraint versus creative urgency; tested foundation versus immediate spark
+  king_of_pentacles_position: The dominion must be protected; reckless new vision risks stability
+  ace_of_wands_position: The spark dies if constrained by caution; the dominion cannot hold back fire
+  key_terms: urged restraint, defended spark, insisted foundation, kept urgency
+
+dynamic_inhibition:
+  mechanism: The King's protective caution smothers the Ace's fire before it can catch; the dominion prevents the vision from igniting
+  blockade_nature: the spark cannot ignite while the rule insists on controlled conditions
+  pentacles_state: the King becomes smothering; the powerful stewardship turns into the protection that kills what it would save
+  consequence: the creative spark dies unlit; the King's caution prevents the Ace's enterprise from beginning
+  key_terms: smothered spark, killed vision, prevented ignition, choked enterprise
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into possession of the Ace's vision; the powerful rule claims ownership of the creative spark
+  mode: the material foundation weaponized to control the visionary impulse; the dominion becomes the system that owns what it finances
+  loss: the genuine freedom the spark requires; the rule becomes the mechanism of creative subjugation
+  key_terms: possessed vision, controlled spark, owned enterprise, subjugated creativity
+
+dynamic_dependency:
+  mechanism: The Ace needs the King's material grounding to become more than a flash; the dominion needs the Ace's vision to have new direction and fire
+  function: Pentacles-King supplies the material substance and protective foundation that sustains the spark; Wands-Ace supplies the visionary fire that keeps the dominion from becoming stagnant
+  integration_outcome: creative vision grounded in material substance and resourced by powerful stewardship; spark that builds because it is founded
+  key_terms: resourced vision, grounded spark, founded enterprise, vital dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, 2 of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 14 + 2 = 16 (XVI The Tower; material dominion meets visionary power; the abundant rule meets expansion choice)
+elemental_bridge: Earth's secure rule meets Fire's visionary expansion; the grounded dominion meets the held future
+threshold_type: The King's dominion posed against new possibility; powerful stewardship confronting expansion vision
+
+dynamic_genesis:
+  mechanism: The King's material wealth becomes the foundation for the 2's expansion choice; the dominion provides the resources from which new vision can be chosen
+  process: the material authority validates which expansion possibilities are viable; the powerful rule gives the visionary strategist a choice grounded in real substance
+  outcome: expansion choice grounded in material reality; vision chosen with the knowledge that substance backs it
+  key_terms: resourced choice, validated expansion, grounded vision, founded power
+
+dynamic_antagonism:
+  mechanism: The King's commitment to present dominion clashes with the 2's gaze toward future expansion; the ruler wants to preserve what is while vision seeks what could be
+  tension_axis: current preservation versus future expansion; grounded reality versus visionary choice
+  king_of_pentacles_position: The dominion must be maintained; premature expansion risks what was built
+  two_of_wands_position: The choice must be made; the dominion cannot hold indefinitely static
+  key_terms: urged stability, defended vision, insisted preservation, kept possibility
+
+dynamic_inhibition:
+  mechanism: The King's protective grip prevents the 2's expansion; the dominion cannot release resources for new venture without risking the established rule
+  blockade_nature: the expansion choice cannot be freely made while the king withholds the resources needed to attempt it
+  pentacles_state: the King becomes miserly; the powerful stewardship turns into hoarding that prevents growth
+  consequence: the expansion is forestalled; the King's caution prevents the 2's visionary choice from becoming real
+  key_terms: withheld resources, prevented choice, forestalled expansion, static dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a trap that claims to offer choice while preventing any real expansion; the powerful rule becomes the system that offers the 2 an illusion of freedom
+  mode: the material authority that says yes while refusing to fund; the dominion becomes the cage disguised as open ground
+  loss: the genuine expansion possibility the 2 holds; the rule becomes the system that paralyzes ambition
+  key_terms: illusory choice, trapped vision, prevented expansion, caged power
+
+dynamic_dependency:
+  mechanism: The 2 needs the King's material grounding to make expansion choice meaningful; the dominion needs the 2's visionary choice to have new direction
+  function: Pentacles-King supplies the material resources and wise caution that makes expansion choice sustainable; Wands-2 supplies the visionary possibility that prevents the dominion from becoming static
+  integration_outcome: expansion choice grounded in material possibility; vision enabled by resourced dominion
+  key_terms: resourced vision, grounded choice, funded expansion, vital dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, 3 of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 14 + 3 = 17 (XVII The Star; material dominion meets visionary foresight; the abundant rule meets collaborative enterprise)
+elemental_bridge: Earth's solid establishment meets Fire's far vision; the grounded wealth meets the reaching venture
+threshold_type: The King's dominion extended by visionary enterprise; powerful stewardship meeting collaborative growth
+
+dynamic_genesis:
+  mechanism: The King's material foundation makes the 3's visionary enterprises real and sustainable; the dominion provides the grounding from which collaborative growth can reach far
+  process: the material authority validates the merchant's vision; the powerful rule becomes the backer of far-reaching enterprise; the stewardship enables collaborative ventures to reach beyond present bounds
+  outcome: far-reaching vision grounded in material substance; collaborative growth backed by abundant dominion
+  key_terms: backed ventures, grounded foresight, resourced enterprise, founded growth
+
+dynamic_antagonism:
+  mechanism: The King's cautious wealth-preservation clashes with the 3's visionary reach and expansion urgency; the ruler sees overextension while vision sees necessary growth
+  tension_axis: present security versus future reach; grounded caution versus visionary expansion
+  king_of_pentacles_position: The dominion must be defended; over-ambitious ventures risk established wealth
+  three_of_wands_position: The dominion is meant to grow; caution that prevents venture becomes stagnation
+  key_terms: urged caution, defended venture, insisted security, kept reach
+
+dynamic_inhibition:
+  mechanism: The King's fear of loss prevents the 3's visionary enterprises from launching; the dominion withholds backing until the venture becomes too delayed to begin
+  blockade_nature: far-reaching vision cannot launch while the king witholds resources and approval
+  pentacles_state: the King becomes fearful; the powerful stewardship turns into protective anxiety that kills growth
+  consequence: the enterprise is delayed past viability; the King's caution prevents the 3's ventures from launching
+  key_terms: withheld backing, delayed venture, prevented growth, anxious dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into control of the 3's vision; the powerful rule becomes the system that backs only ventures the king approves
+  mode: the material wealth weaponized to control direction; the dominion becomes the leverage that forces obedience
+  loss: the genuine independent vision the 3 could pursue; the rule becomes the system of conditional support
+  key_terms: controlled venture, conditional backing, directed vision, caged enterprise
+
+dynamic_dependency:
+  mechanism: The 3 needs the King's material backing to reach far; the dominion needs the 3's visionary enterprises to have new directions for growth
+  function: Pentacles-King supplies the material foundation and backing that makes far-reaching vision sustainable; Wands-3 supplies the visionary reach that prevents the dominion from becoming merely preservation
+  integration_outcome: far-reaching ventures grounded in material substance; visionary growth enabled by abundant dominion
+  key_terms: backed vision, resourced enterprise, grounded reach, vital dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, 4 of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 14 + 4 = 18 (XVIII The Moon; material dominion meets celebration; the abundant rule meets communal joy)
+elemental_bridge: Earth's established foundation meets Fire's celebratory gathering; the grounded wealth meets the unified household
+threshold_type: The King's dominion celebrated; powerful stewardship meeting communal festivity
+
+dynamic_genesis:
+  mechanism: The King's material provision becomes the foundation for the 4's celebration; the dominion creates the abundance that allows gathered joy
+  process: the material authority provides the means for the household to gather and celebrate; the powerful rule becomes the grounded center around which community assembles
+  outcome: celebration grounded in material security; communal joy enabled by abundant stewardship
+  key_terms: material gathering, grounded celebration, resourced joy, founded community
+
+dynamic_antagonism:
+  mechanism: The King's vigilance about preservation clashes with the 4's impulse to celebrate and release; the ruler worries while the community wants to gather freely
+  tension_axis: guarded maintenance versus celebratory abandon; careful stewardship versus festive release
+  king_of_pentacles_position: The abundance must be protected; excessive celebration risks the dominion
+  four_of_wands_position: The abundance is meant to be enjoyed; caution that prevents celebration deadens its purpose
+  key_terms: urged restraint, defended celebration, insisted caution, kept joy
+
+dynamic_inhibition:
+  mechanism: The King's protective anxiety prevents the 4's full celebration; the dominion cannot be enjoyed while the ruler worries about its loss
+  blockade_nature: communal celebration cannot unfold freely while the king insists on guarded control
+  pentacles_state: the King becomes anxious; the powerful stewardship turns into worry that prevents the joy it enables
+  consequence: the celebration is shadowed; the King's guardedness prevents the 4's communal gathering from true delight
+  key_terms: shadowed joy, anxious rule, prevented celebration, guarded dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into control of celebration; the powerful rule becomes the system that allows joy only on the king's terms
+  mode: the material provision weaponized to control the community; the dominion becomes the leverage that binds through conditional generosity
+  loss: the genuine spontaneous joy the 4 offers; the rule becomes the system of controlled festivity
+  key_terms: controlled celebration, conditional joy, bound community, weaponized dominion
+
+dynamic_dependency:
+  mechanism: The 4 needs the King's material provision to celebrate truly; the dominion needs the 4's celebration to show its purpose is community joy
+  function: Pentacles-King supplies the material abundance and stable foundation that enables celebration; Wands-4 supplies the communal joy that shows the dominion's true purpose
+  integration_outcome: celebration grounded in material abundance; communal joy enabled by resourced stewardship
+  key_terms: joyful dominion, resourced celebration, grounded community, vital rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, 5 of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Conflict, competition, struggle, contested victory, rivalry
+numerical_relation: 14 + 5 = 19 (XIX The Sun; material dominion meets conflict; the abundant rule meets contested struggle)
+elemental_bridge: Earth's ruling order meets Fire's combusting struggle; the grounded authority meets the competing flames
+threshold_type: The King's dominion tested by conflict; powerful stewardship confronting contested struggle
+
+dynamic_genesis:
+  mechanism: The King's material authority can contain the 5's conflict; the dominion provides the structure within which struggle can be held and addressed
+  process: the material foundation stabilizes the competing forces; the powerful rule gives the conflict a frame and boundaries; the stewardship becomes the ground on which struggle can be productive
+  outcome: conflict contained within material order; struggle given structure and potential resolution
+  key_terms: structured conflict, grounded struggle, bounded competition, ordered authority
+
+dynamic_antagonism:
+  mechanism: The King's demand for order clashes with the 5's vital conflict; the ruler wants to suppress the struggle while the fire needs the contest to burn
+  tension_axis: imposed order versus vital struggle; enforced peace versus necessary conflict
+  king_of_pentacles_position: The dominion requires peace; uncontrolled conflict threatens stability
+  five_of_wands_position: The struggle is alive; imposed peace deadens what makes conflict vital
+  key_terms: urged peace, defended struggle, insisted order, kept fire
+
+dynamic_inhibition:
+  mechanism: The King's heavy order crushes the 5's vital struggle; the dominion prevents conflict from burning and being transformed
+  blockade_nature: productive conflict cannot proceed while the king insists on absolute suppression
+  pentacles_state: the King becomes tyrannical; the powerful stewardship turns into the force that crushes vital struggle
+  consequence: the conflict festers; the King's suppression prevents the 5's struggle from burning through to clarity
+  key_terms: festering conflict, crushed struggle, suppressed fire, tyrannical rule
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into weaponized order; the powerful rule becomes the system that uses force to bind the struggling forces
+  mode: the material authority wielded to enforce conformity through power; the dominion becomes the control that extinguishes vital heat
+  loss: the transformative fire the struggle holds; the rule becomes the system of dead order
+  key_terms: dead order, crushed fire, enforced conformity, weaponized dominion
+
+dynamic_dependency:
+  mechanism: The 5 needs the King's structure to transform conflict into growth; the dominion needs the 5's vital struggle to prevent stagnation
+  function: Pentacles-King supplies the material order and containment that holds conflict productively; Wands-5 supplies the vital fire that prevents the dominion from becoming mere dead control
+  integration_outcome: conflict contained yet alive; productive struggle held within grounded order
+  key_terms: vital dominion, alive struggle, productive conflict, ordered growth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, 6 of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 14 + 6 = 20 (XX Judgement; material dominion meets victory; the abundant rule meets earned recognition)
+elemental_bridge: Earth's substantial achievement meets Fire's blazing acclaim; the grounded wealth meets public triumph
+threshold_type: The King's dominion honored through victory; powerful stewardship meeting achieved recognition
+
+dynamic_genesis:
+  mechanism: The King's material foundation is vindicated through the 6's public victory; the dominion proves itself through the success it enables
+  process: the material authority provides the resources from which the victor emerges; the powerful rule becomes the backer whose stewardship is honored through the victory
+  outcome: victory grounded in material substance; public recognition that the dominion was wise to back the success
+  key_terms: validated authority, honored dominion, resourced victory, grounded triumph
+
+dynamic_antagonism:
+  mechanism: The King's need to control recognition clashes with the 6's drive for independent public acclaim; the ruler wants credit while the victor claims the win
+  tension_axis: the dominion's claim to backing versus the victor's independence; credited authority versus independent triumph
+  king_of_pentacles_position: The dominion enabled this success; the rule deserves recognition for its wisdom
+  six_of_wands_position: The victory is mine; the dominion merely provided resources, not the triumph
+  key_terms: urged credit, defended independence, insisted backing, kept triumph
+
+dynamic_inhibition:
+  mechanism: The King's need to control the narrative prevents the 6's independent triumph; the dominion cannot allow victory that it does not direct
+  blockade_nature: public victory cannot unfold freely when the king demands to direct its narrative
+  pentacles_state: the King becomes controlling; the powerful stewardship turns into the system that claims credit for what it merely funded
+  consequence: the victory is clouded; the King's need for recognition prevents the 6's clear triumph
+  key_terms: clouded victory, controlled triumph, stolen credit, manipulated dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that owns the victor; the powerful rule becomes the mechanism that binds success through claimed credit
+  mode: the material backing weaponized to control the successful; the dominion becomes the force that demands obedience in return for having funded the win
+  loss: the genuine independence the 6 achieves; the rule becomes the system of possession
+  key_terms: possessed victory, owned triumph, bound success, controlling dominion
+
+dynamic_dependency:
+  mechanism: The 6 needs the King's material backing to achieve public victory; the dominion needs the 6's triumph to prove its stewardship was wise
+  function: Pentacles-King supplies the material backing and enabling resources that make victory possible; Wands-6 supplies the public triumph that validates the dominion's wisdom
+  integration_outcome: victory backed by material wisdom; public triumph rooted in grounded stewardship
+  key_terms: validated triumph, grounded victory, resourced success, vital dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, 7 of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 14 + 7 = 21 (XXI The World; material dominion meets defensive stand; the abundant rule meets resilient resistance)
+elemental_bridge: Earth's grounded strength meets Fire's defensive stand; the solid foundation meets the held position
+threshold_type: The King's dominion defended; powerful stewardship meeting resilient challenge
+
+dynamic_genesis:
+  mechanism: The King's material foundation gives the 7 the ground to stand on against pressure; the dominion provides the stable base from which defense is possible
+  process: the material authority validates the defender's position; the powerful rule becomes the backing for the stand; the stewardship confirms that the position is worth holding
+  outcome: defensive stand grounded in material security; resilience backed by abundant dominion
+  key_terms: grounded defense, backed stand, material resilience, founded position
+
+dynamic_antagonism:
+  mechanism: The King's need for uncontested rule clashes with the 7's defensive resistance; the ruler wants submission while the defender maintains its ground
+  tension_axis: demanded submission versus resistant defense; authoritative control versus maintained position
+  king_of_pentacles_position: The dominion requires obedience; resistance threatens the rule
+  seven_of_wands_position: The position must be held; submission would betray the stand
+  key_terms: urged submission, defended position, insisted obedience, kept resistance
+
+dynamic_inhibition:
+  mechanism: The King's authoritative pressure prevents the 7's effective defense; the dominion's weight crushes the defender's capacity to resist
+  blockade_nature: defensive stand cannot proceed when the king's authority actively opposes it
+  pentacles_state: the King becomes oppressive; the powerful stewardship turns into the force crushing the defender
+  consequence: the position is lost; the King's pressure prevents the 7's stand from being maintained
+  key_terms: crushed defense, lost position, oppressive authority, broken dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into tyranny crushing resistance; the powerful rule becomes the system that destroys any position it does not control
+  mode: the material authority weaponized to break the defender; the dominion becomes the overwhelming force
+  loss: the genuine resilience the 7 offers; the rule becomes the system of absolute suppression
+  key_terms: tyrannical dominion, broken resistance, crushed position, absolute authority
+
+dynamic_dependency:
+  mechanism: The 7 needs the King's material backing to defend effectively; the dominion needs the 7's resilient stand to prove its stewardship can endure pressure
+  function: Pentacles-King supplies the material foundation and backing that makes defense sustainable; Wands-7 supplies the resilient resistance that proves the dominion can hold its ground
+  integration_outcome: defensive stand backed by material abundance; resilience grounded in powerful stewardship
+  key_terms: defended dominion, grounded resistance, backed position, vital rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, 8 of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 14 + 8 = 22 → 2+2=4 (IV The Emperor; material dominion governs velocity; the abundant rule directs speed)
+elemental_bridge: Earth's grounding slows Fire's rush; the stable foundation meets the accelerating momentum
+threshold_type: The King's dominion tested by speed; powerful stewardship confronting rapid momentum
+
+dynamic_genesis:
+  mechanism: The King's material foundation channels the 8's speed into directed movement; the dominion provides the launching ground from which acceleration becomes purposeful
+  process: the material authority aims the rushing momentum; the powerful rule gives speed a direction and target; the stewardship becomes the ground from which rapid action can be sustained
+  outcome: rapid progress directed by material wisdom; acceleration grounded in stable dominion
+  key_terms: directed speed, grounded momentum, purposeful action, founded acceleration
+
+dynamic_antagonism:
+  mechanism: The King's preference for deliberate pace clashes with the 8's rushing urgency; the ruler wants to consider while momentum wants only to move
+  tension_axis: careful deliberation versus rapid action; grounded wisdom versus immediate speed
+  king_of_pentacles_position: The dominion requires deliberate choices; hasty action risks stability
+  eight_of_wands_position: The moment is now; deliberation loses the speed that makes action vital
+  key_terms: urged caution, defended speed, insisted consideration, kept momentum
+
+dynamic_inhibition:
+  mechanism: The King's demand for deliberation stalls the 8's momentum before it can reach its target; the dominion prevents acceleration from becoming action
+  blockade_nature: rapid momentum cannot proceed when the king insists on prolonged consideration
+  pentacles_state: the King becomes paralytic; the powerful stewardship turns into the force that stops all motion
+  consequence: the moment is lost; the King's caution prevents the 8's rapid action from manifesting
+  key_terms: lost momentum, stalled action, prevented acceleration, paralytic dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into the system that crushes all rapid movement; the powerful rule becomes the force that enforces absolute stillness
+  mode: the material authority weaponized to stop all momentum; the dominion becomes the deadening weight
+  loss: the vital acceleration the 8 offers; the rule becomes the system of complete stasis
+  key_terms: static dominion, crushed momentum, deadened action, frozen rule
+
+dynamic_dependency:
+  mechanism: The 8 needs the King's material grounding to sustain rapid action over distance; the dominion needs the 8's accelerating momentum to prevent stagnation
+  function: Pentacles-King supplies the material foundation and aim that makes speed purposeful and sustainable; Wands-8 supplies the vital momentum that prevents the dominion from becoming mere inertia
+  integration_outcome: rapid action grounded in material substance; momentum channeled by abundant stewardship
+  key_terms: grounded speed, directed momentum, purposeful acceleration, vital dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, 9 of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 14 + 9 = 23 → 2+3=5 (V The Pope; material dominion sustains tested strength; the abundant rule backs endurance)
+elemental_bridge: Earth's grounded endurance meets Fire's proven strength; the stable foundation meets the tested guardian
+threshold_type: The King's dominion backing tested strength; powerful stewardship meeting resilient endurance
+
+dynamic_genesis:
+  mechanism: The King's material foundation sustains the 9's exhausted resilience; the dominion provides the ongoing support that allows tested strength to continue
+  process: the material authority validates what the guardian has endured; the powerful rule becomes the backing for further tests; the stewardship provides the resources that sustain the tested one
+  outcome: endurance sustained by material provision; tested strength backed by abundant dominion
+  key_terms: sustained resilience, grounded strength, resourced endurance, founded perseverance
+
+dynamic_antagonism:
+  mechanism: The King's demands for continued service clash with the 9's exhaustion and need for rest; the ruler wants more while the guardian needs to stop
+  tension_axis: demanded service versus needed rest; required endurance versus actual depletion
+  king_of_pentacles_position: The dominion requires continued effort; the guardian must maintain the stand
+  nine_of_wands_position: The reserve is empty; further demands will break what remains
+  key_terms: urged continuation, defended rest, insisted duty, kept exhaustion
+
+dynamic_inhibition:
+  mechanism: The King's relentless demands push the 9 past breaking point; the dominion drains the last reserves of an already exhausted defender
+  blockade_nature: genuine rest cannot occur while the king demands endless service
+  pentacles_state: the King becomes predatory; the powerful stewardship turns into the system that feeds on the guardian's depletion
+  consequence: the strength shatters; the King's demands break what he claimed to sustain
+  key_terms: shattered resilience, drained strength, broken guardian, predatory dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system of exploitation; the powerful rule becomes the mechanism that saps strength from those who serve
+  mode: the material authority weaponized to extract endless labor; the dominion becomes the vampire that feeds on exhaustion
+  loss: the genuine endurance the 9 offers; the rule becomes the system of slow destruction
+  key_terms: exploitative dominion, depleted strength, broken resilience, vampiric rule
+
+dynamic_dependency:
+  mechanism: The 9 needs the King's material support to continue; the dominion needs the 9's tested strength to prove its stewardship means something real
+  function: Pentacles-King supplies the material resources and wise judgment about when to rest that sustains endurance; Wands-9 supplies the tested strength that proves the dominion's backing is meaningful
+  integration_outcome: endurance sustained by material wisdom; tested strength backed by genuine stewardship
+  key_terms: sustained strength, grounded resilience, resourced perseverance, vital dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, 10 of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 14 + 10 = 24 → 2+4=6 (VI The Lovers; material dominion meets burden; the abundant rule meets crushing load)
+elemental_bridge: Earth's grounded stewardship meets Fire's overwhelming weight; the solid foundation meets the breaking burden
+threshold_type: The King's dominion burdening the carrier; powerful stewardship becoming oppressive load
+
+dynamic_genesis:
+  mechanism: The King's material foundation can support the 10's burden; the dominion provides the solid ground on which heavy responsibility can be carried
+  process: the material authority validates that the burden serves a purpose; the powerful rule gives structure to the overwhelming weight; the stewardship becomes the ground that makes the carrying possible
+  outcome: burden held within grounded structure; overwhelming weight anchored by material wisdom
+  key_terms: anchored burden, grounded weight, resourced responsibility, founded carrying
+
+dynamic_antagonism:
+  mechanism: The King's appetites for more demands clash with the 10's capacity to carry; the ruler wants increased dominion while the bearer is already at breaking point
+  tension_axis: demanded growth versus actual capacity; expanded rule versus breaking limit
+  king_of_pentacles_position: The dominion can grow; the burden drives growth in stewardship
+  ten_of_wands_position: The limit is now; further demands will snap what remains
+  key_terms: urged growth, defended limit, insisted expansion, kept breaking
+
+dynamic_inhibition:
+  mechanism: The King's relentless appetite for more pushes the 10 past capacity; the dominion's expansion becomes the force that crushes the bearer
+  blockade_nature: genuine relief cannot occur while the king demands endless carrying
+  pentacles_state: the King becomes crushing; the powerful stewardship turns into the system that breaks what it demands
+  consequence: the bearer shatters; the King's appetite destroys what he claimed to steward
+  key_terms: shattered bearer, broken responsibility, crushing dominion, destroyed stewardship
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system of oppression; the powerful rule becomes the mechanism that loads the weak to breaking
+  mode: the material authority wielded to exploit the willing; the dominion becomes the system that crushes those who serve
+  loss: the genuine care for those who bear burdens; the rule becomes the system of merciless extraction
+  key_terms: oppressive dominion, extracted labor, broken bearer, merciless rule
+
+dynamic_dependency:
+  mechanism: The 10 needs the King's wisdom to know which burdens are necessary and which are excess; the dominion needs the 10's willingness to understand its own limits
+  function: Pentacles-King supplies the material support and wise judgment about burden that makes carrying sustainable; Wands-10 supplies the actual responsibility that makes the dominion real
+  integration_outcome: burden understood and supported; responsibility carried within material wisdom
+  key_terms: sustained responsibility, grounded burden, wise stewardship, vital dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, Page of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 14 + 11 = 25 → 2+5=7 (VII The Chariot; material dominion directs youthful fire; the abundant rule channels enthusiasm)
+elemental_bridge: Earth's grounded rule meets Fire's untamed energy; the stable authority meets the eager spark
+threshold_type: The King mentoring youthful potential; powerful stewardship meeting creative enthusiasm
+
+dynamic_genesis:
+  mechanism: The King's material foundation channels the Page's enthusiastic spark into real development; the dominion provides the grounding that turns raw energy into directed potential
+  process: the material authority validates the Page's enthusiasm as having merit; the powerful rule gives structure to creative energy; the stewardship becomes the ground from which youthful fire can grow
+  outcome: enthusiasm directed by material wisdom; creative spark grounded in stable dominion
+  key_terms: directed enthusiasm, grounded spark, resourced potential, founded development
+
+dynamic_antagonism:
+  mechanism: The King's caution clashes with the Page's unbounded enthusiasm; the ruler wants controlled growth while the Page wants to burn bright now
+  tension_axis: regulated development versus immediate fire; measured growth versus raw energy
+  king_of_pentacles_position: The dominion requires discipline; uncontrolled enthusiasm risks the rule
+  page_of_wands_position: The spark must burn; constraint kills the very fire that makes growth possible
+  key_terms: urged discipline, defended spark, insisted control, kept fire
+
+dynamic_inhibition:
+  mechanism: The King's heavy hand dampens the Page's creative spark; the dominion's weight prevents the enthusiasm from igniting
+  blockade_nature: genuine creative fire cannot ignite while the king insists on control
+  pentacles_state: the King becomes dampening; the powerful stewardship turns into the force that kills enthusiasm
+  consequence: the spark dies; the King's caution prevents the Page's fire from becoming real
+  key_terms: dampened spark, killed enthusiasm, prevented fire, smothered potential
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that owns the Page's enthusiasm; the powerful rule becomes the mechanism that controls creative energy
+  mode: the material authority weaponized to harness the Page's fire for the king's purposes; the dominion becomes the system that appropriates youthful energy
+  loss: the genuine independence the Page's enthusiasm offers; the rule becomes the system of possession
+  key_terms: possessed fire, owned enthusiasm, controlled spark, appropriative dominion
+
+dynamic_dependency:
+  mechanism: The Page needs the King's material grounding to develop the creative spark into real potential; the dominion needs the Page's enthusiasm to prevent stagnation
+  function: Pentacles-King supplies the material foundation and wise structure that channels youthful fire productively; Wands-Page supplies the creative enthusiasm that keeps the dominion from becoming mere preservation
+  integration_outcome: enthusiasm channeled into real development; creative fire grounded in material wisdom
+  key_terms: channeled enthusiasm, grounded spark, resourced potential, vital dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, Knight of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 14 + 12 = 26 → 2+6=8 (VIII Justice; material dominion governs bold action; the abundant rule channels passionate movement)
+elemental_bridge: Earth's grounded command meets Fire's galloping passion; the stable foundation meets the rushing rider
+threshold_type: The King backing adventurous action; powerful stewardship meeting passionate pursuit
+
+dynamic_genesis:
+  mechanism: The King's material foundation sustains the Knight's passionate pursuit; the dominion provides the resources from which bold action can be mounted and sustained
+  process: the material authority backs the Knight's adventure; the powerful rule becomes the backer of bold movement; the stewardship provides the means for passionate pursuit to reach its target
+  outcome: passionate action backed by material abundance; bold pursuit grounded in resourced dominion
+  key_terms: backed adventure, grounded passion, resourced action, founded movement
+
+dynamic_antagonism:
+  mechanism: The King's caution clashes with the Knight's reckless passion; the ruler wants controlled action while the rider wants to gallop freely
+  tension_axis: measured action versus reckless passion; commanded control versus independent adventure
+  king_of_pentacles_position: The dominion requires prudence; reckless action threatens stability
+  knight_of_wands_position: Caution kills the passion; the ride must be free or it becomes mere trudging
+  key_terms: urged prudence, defended passion, insisted caution, kept freedom
+
+dynamic_inhibition:
+  mechanism: The King's demands for restraint prevent the Knight's free ride; the dominion's weight anchors the one who needs to gallop
+  blockade_nature: passionate pursuit cannot proceed when the king insists on safe limitations
+  pentacles_state: the King becomes constraining; the powerful stewardship turns into the force that grounds the flyer
+  consequence: the adventure is grounded; the King's caution prevents the Knight's passionate pursuit
+  key_terms: grounded flight, constrained passion, prevented adventure, heavy dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into possessiveness of the Knight; the powerful rule becomes the mechanism that binds the rider through dependence
+  mode: the material provision weaponized to control movement; the dominion becomes the leash disguised as support
+  loss: the genuine freedom the Knight's passion demands; the rule becomes the system of dependent control
+  key_terms: possessed rider, bound passion, controlled adventure, dependent dominion
+
+dynamic_dependency:
+  mechanism: The Knight needs the King's material support to sustain passionate pursuit over distance; the dominion needs the Knight's bold action to prevent slow stagnation
+  function: Pentacles-King supplies the material resources and wise backing that makes passionate pursuit sustainable; Wands-Knight supplies the bold action that prevents the dominion from becoming mere preservation
+  integration_outcome: passionate action backed by material wisdom; bold pursuit grounded in resourced dominion
+  key_terms: resourced passion, grounded adventure, backed movement, vital dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, Queen of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 14 + 13 = 27 → 2+7=9 (IX The Hermit; material dominion meets charismatic authority; the abundant rule meets magnetic leadership)
+elemental_bridge: Earth's grounded command meets Fire's drawing magnetism; the material power meets the inspiring presence
+threshold_type: The King and Queen ruling together; material stewardship meeting charismatic leadership
+
+dynamic_genesis:
+  mechanism: The King's material foundation validates the Queen's charismatic rule; the dominion provides the substance that makes her magnetism real and enduring
+  process: the material authority becomes the grounding for the Queen's inspired leadership; the powerful rule supports her charisma with actual resources; the stewardship enables her magnetic authority to create lasting change
+  outcome: charismatic leadership grounded in material substance; inspiring authority backed by abundant dominion
+  key_terms: grounded charisma, substantive magnetism, resourced leadership, founded inspiration
+
+dynamic_antagonism:
+  mechanism: The King's focus on preservation clashes with the Queen's drive to inspire and transform; the ruler wants to maintain what is while she wants to inspire what could be
+  tension_axis: preservation versus transformation; controlled substance versus liberating magnetism
+  king_of_pentacles_position: The dominion must be protected; her transformative magnetism threatens stability
+  queen_of_wands_position: The magnetism must inspire transformation; his caution suffocates the very inspiration needed
+  key_terms: urged caution, defended magnetism, insisted preservation, kept transformation
+
+dynamic_inhibition:
+  mechanism: The King's heavy caution dampens the Queen's magnetic inspiration; the dominion's weight prevents her charisma from drawing people toward transformation
+  blockade_nature: inspiring magnetism cannot flow freely when the king insists on controlled preservation
+  pentacles_state: the King becomes cold; the powerful stewardship turns into the force that chills her warmth
+  consequence: her inspiration is dimmed; the King's caution prevents the Queen's magnetism from igniting change
+  key_terms: dimmed charisma, chilled magnetism, prevented transformation, cold dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that controls the Queen's magnetism; the powerful rule becomes the mechanism that co-opts her charisma
+  mode: the material wealth weaponized to channel her inspiration toward the king's purposes; the dominion becomes the system that appropriates her magnetism
+  loss: the genuine liberating magnetism the Queen offers; the rule becomes the system of possessed charisma
+  key_terms: possessed charisma, controlled magnetism, appropriated inspiration, controlling dominion
+
+dynamic_dependency:
+  mechanism: The Queen needs the King's material grounding to make her inspiration endure and create lasting change; the dominion needs the Queen's magnetism to inspire people toward the rule
+  function: Pentacles-King supplies the material substance and wise structure that gives lasting form to the Queen's inspiration; Wands-Queen supplies the magnetism that makes the dominion inspiring rather than merely controlling
+  integration_outcome: magnetic leadership grounded in material substance; inspiring authority backed by resourced dominion
+  key_terms: grounded inspiration, substantive magnetism, resourced leadership, vital dominion
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW
+
+---
+
+card_pair: King of Pentacles, King of Wands
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_wands: Leadership, vision, enterprise, dynamic authority, passionate rule
+numerical_relation: 14 + 14 = 28 → 2+8=10 (X The Wheel of Fortune; material dominion meets visionary authority; the abundant rule meets dynamic leadership)
+elemental_bridge: Earth's grounded command meets Fire's visionary drive; the material power meets the passionate momentum
+threshold_type: Two Kings ruling together; material stewardship meeting visionary leadership
+
+dynamic_genesis:
+  mechanism: The King of Pentacles' material wisdom grounds the King of Wands' visionary drive; the two rule together with substance and direction
+  process: the Pentacles King provides the resources and structure; the Wands King provides vision and momentum; together they command a dominion that is both grounded and dynamic
+  outcome: visionary leadership backed by material abundance; dynamic rule grounded in substantial wisdom
+  key_terms: grounded vision, substantial momentum, resourced enterprise, founded direction
+
+dynamic_antagonism:
+  mechanism: The Pentacles King's caution clashes with the Wands King's visionary urgency; the ruler wants to preserve while the visionary wants to innovate and expand
+  tension_axis: preservation versus expansion; caution versus boldness; substance versus momentum
+  king_of_pentacles_position: The dominion must be protected and sustained; reckless vision risks what was built
+  king_of_wands_position: The dominion must expand and innovate; caution that prevents change becomes stagnation
+  key_terms: urged expansion, defended preservation, insisted caution, kept vision
+
+dynamic_inhibition:
+  mechanism: The Pentacles King's protective grip prevents the Wands King's visionary expansion; the dominion becomes stuck between competing desires
+  blockade_nature: dynamic expansion cannot proceed when the Pentacles King insists on controlled preservation
+  pentacles_state: the Pentacles King becomes stifling; his wisdom turns into the force that crushes visionary momentum
+  consequence: the dominion stagnates; neither king's vision can manifest fully
+  key_terms: stagnant dominion, thwarted vision, prevented expansion, frozen rule
+
+dynamic_devolution:
+  mechanism: Each king corrupts in the presence of the other; the Pentacles King becomes oppressively controlling, the Wands King becomes recklessly destructive
+  mode: the two kings turn their authority against each other; dominion becomes a kingdom divided against itself
+  loss: the genuine integration that could serve; the rule becomes a battle for supremacy
+  key_terms: warring kings, divided dominion, corrupted rule, fractured authority
+
+dynamic_dependency:
+  mechanism: The Pentacles King needs the Wands King's vision to prevent stagnation; the Wands King needs the Pentacles King's substance to make vision real
+  function: Pentacles-King supplies the material foundation and wise caution that makes vision sustainable; Wands-King supplies the visionary drive and momentum that prevents mere preservation
+  integration_outcome: visionary leadership backed by material wisdom; dynamic expansion grounded in substantial dominion
+  key_terms: grounded vision, vital dominion, resourced momentum, founded enterprise
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPW

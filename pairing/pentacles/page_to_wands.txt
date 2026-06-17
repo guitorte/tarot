@@ -1,0 +1,697 @@
+card_pair: Page of Pentacles, Ace of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Creative potential, spark, inspiration, enterprise, visionary fire
+numerical_relation: 11 + 1 = 12 (XII The Hanged Man; apprentice meets inspiration; the curious learner meets creative spark)
+elemental_bridge: Earth's practical study meets Fire's creative spark; the apprentice meets the visionary flame
+threshold_type: The learner ignited by creative potential; potential meeting enterprise fire
+
+dynamic_genesis:
+  mechanism: The Ace's creative spark shows the Page that learning includes creation; the visionary fire gives the apprentice direction and creative purpose
+  process: the curious learner discovers that knowledge leads to making things; the apprenticeship becomes a path to creation; the study gains purpose through the fire of enterprise
+  outcome: learning animated by creative spark; the apprentice given visionary direction through inspired potential
+  key_terms: inspired learning, creative apprentice, directed potential, animated study
+
+dynamic_antagonism:
+  mechanism: The Page's careful study clashes with the Ace's insistence on immediate creation; the learner wants to understand before acting while the spark demands expression
+  tension_axis: studied learning versus immediate creation; careful preparation versus inspired action
+  page_of_pentacles_position: Creation requires preparation; the spark is wasted without proper grounding in knowledge
+  ace_of_wands_position: The fire cannot wait for study; the creative moment comes only to those ready to act now
+  key_terms: urged action, defended study, insisted creation, kept preparation
+
+dynamic_inhibition:
+  mechanism: The Ace's demand for immediate action prevents the Page's full preparation; the spark cannot wait while the apprentice deliberates
+  blockade_nature: the creative work cannot begin while the learner insists on further study; the fire goes out in patient waiting
+  pentacles_state: the apprentice becomes paralyzed; the curious mind turns into the overthinking that cannot act
+  consequence: the creative spark is lost; the Page's caution prevents the Ace's fire from igniting work
+  key_terms: lost inspiration, paralyzed apprentice, deadened spark, prevented creation
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into cynical doubt about creation; the apprentice uses study as an excuse to avoid the risk creation requires
+  mode: the curiosity weaponized to argue against the spark; the learning becomes the rationalization of fear
+  loss: the genuine creative courage the apprentice could develop; the learned one becomes the skeptic who has learned only to doubt
+  key_terms: cynical learning, rationalizing doubt, avoided creation, fearful apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the Ace to show that learning's purpose is to enable creation; the creative spark needs the apprentice's grounded knowledge to become sustainable work
+  function: Pentacles-Page supplies the foundation that makes the Ace's fire buildable; Wands-Ace supplies the inspiration that makes study meaningful
+  integration_outcome: an apprentice learning in service of creative work; the knowledge that fuels and sustains creative fire
+  key_terms: purposeful learning, sustained creation, creative apprentice, grounded fire
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, 2 of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Personal power, dominion, potential, vision, choice, expansion planning
+numerical_relation: 11 + 2 = 13 (XIII Death; apprentice meets personal power; the curious learner meets vision and choice)
+elemental_bridge: Earth's grounded learning meets Fire's visionary power; the apprentice meets the expanding choice
+threshold_type: The learner discovering mastery through planning; potential meeting expanded dominion
+
+dynamic_genesis:
+  mechanism: The 2's mastery of vision shows the Page that learning can expand into power; the personal authority gives the apprentice clarity on where the study leads
+  process: the curious learner discovers that knowledge develops personal vision; the apprenticeship expands into planning and choice-making; the study becomes the foundation for personal dominion
+  outcome: learning expanded by vision; the apprentice discovering personal power through expanded knowledge
+  key_terms: expanded learning, empowered apprentice, visionary study, planned potential
+
+dynamic_antagonism:
+  mechanism: The Page's humble learning clashes with the 2's commanding vision; the learner sees the ambitious power as premature while the visionary sees study as insufficient
+  tension_axis: humble learning versus commanding vision; foundational study versus expanded authority
+  page_of_pentacles_position: Knowledge requires building slowly; the ambitious vision outpaces genuine preparation
+  two_of_wands_position: The vision requires moving forward; the apprentice's caution wastes the opportunity for expansion
+  key_terms: urged expansion, defended humility, insisted vision, kept groundedness
+
+dynamic_inhibition:
+  mechanism: The Page's incremental approach prevents the 2's full visionary movement; the apprentice cannot move at the speed the expanding choice demands
+  blockade_nature: the visionary expansion cannot proceed while the learner insists on foundational building
+  pentacles_state: the apprentice becomes stuck; the curious potential turns into the limited study that cannot expand
+  consequence: the vision is unrealized; the Page's measured pace prevents the 2's full dominion
+  key_terms: limited vision, stuck apprentice, unrealized potential, blocked expansion
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into competitive drive for power; the apprentice uses study to claim dominion rather than to serve growth
+  mode: the curiosity weaponized to seize authority; the learning becomes the pursuit of power disguised as knowledge
+  loss: the genuine humility that learning could maintain; the apprentice becomes the ambitious student who has learned only to dominate
+  key_terms: competitive learning, seized power, ambitious apprentice, corrupted vision
+
+dynamic_dependency:
+  mechanism: The Page needs the 2 to show that learning can expand into mastery; the visionary power needs the apprentice's grounded foundation to be lasting
+  function: Pentacles-Page supplies the solid ground that makes vision sustainable; Wands-2 supplies the expanding vision that prevents learning from becoming static
+  integration_outcome: an apprentice learning to expand from foundations into mastery; the knowledge that builds personal authority
+  key_terms: expanding learning, grounded vision, empowered apprentice, founded mastery
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, 3 of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Foresight, vision, growth, enterprise, collaboration, moving forward
+numerical_relation: 11 + 3 = 14 (XIV Temperance; apprentice meets foresight; the curious learner meets visionary growth)
+elemental_bridge: Earth's practical study meets Fire's forward vision; the apprentice meets the moving enterprise
+threshold_type: The learner preparing for distant growth; potential meeting collaborative expansion
+
+dynamic_genesis:
+  mechanism: The 3's foresight shows the Page that learning prepares for future growth; the visionary enterprise gives the apprentice purpose beyond immediate study
+  process: the curious learner discovers that knowledge enables growth toward distant goals; the apprenticeship becomes preparation for expansion; the study finds meaning in serving future enterprise
+  outcome: learning deepened by foresight; the apprentice discovering that study serves growth toward distant vision
+  key_terms: foresighted learning, prepared apprentice, purposeful study, forward potential
+
+dynamic_antagonism:
+  mechanism: The Page's focus on current learning clashes with the 3's orientation toward distant growth; the learner tends the immediate while the enterprise gazes afar
+  tension_axis: present study versus distant vision; foundational preparation versus forward movement
+  page_of_pentacles_position: The study must be solid now; the distant vision can wait until foundations are secure
+  three_of_wands_position: The vision calls forward; the apprentice's focus on the present delays the necessary expansion
+  key_terms: urged movement, defended presence, insisted vision, kept foundation
+
+dynamic_inhibition:
+  mechanism: The Page's absorbed focus prevents the 3's full visionary movement; the apprentice cannot maintain awareness of distant growth while immersed in current study
+  blockade_nature: the forward vision cannot fully guide while the learner remains absorbed in immediate preparation
+  pentacles_state: the apprentice becomes myopic; the curious study turns into the absorbed work that cannot see beyond itself
+  consequence: the growth is delayed; the Page's absorption prevents the 3's expansive movement
+  key_terms: myopic learning, absorbed apprentice, delayed growth, blocked vision
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into defensive resistance to growth; the apprentice uses study as a reason to avoid the risk of forward movement
+  mode: the curiosity weaponized against progress; the learning becomes the excuse that keeps the enterprise grounded in fear
+  loss: the genuine preparation that could serve growth; the apprentice becomes the cautious student who has learned to resist forward movement
+  key_terms: resistant learning, defended stasis, avoided growth, fearful apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the 3 to show that learning serves growth; the forward vision needs the apprentice's preparation to become real enterprise
+  function: Pentacles-Page supplies the preparation that makes distant growth possible; Wands-3 supplies the vision that gives study purpose and direction
+  integration_outcome: an apprentice learning in service of future growth; the knowledge that prepares for visionary expansion
+  key_terms: purposeful learning, prepared growth, visionary apprentice, founded enterprise
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, 4 of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Celebration, harmony, community, home, joy, establishment
+numerical_relation: 11 + 4 = 15 (XV The Devil; apprentice meets celebration; the curious learner meets communal joy)
+elemental_bridge: Earth's focused study meets Fire's celebratory harmony; the apprentice meets the established community
+threshold_type: The learner brought home through study; potential meeting communal establishment
+
+dynamic_genesis:
+  mechanism: The 4's celebration honors the Page's learning; the communal joy shows that study is worthy of celebration and belonging
+  process: the curious apprentice's work is recognized by the community; the learning becomes a path to home and belonging; the study finds its worth in contributing to the established family
+  outcome: learning honored by celebration; the apprentice discovering home through recognized contribution
+  key_terms: honored learning, welcomed apprentice, celebrated study, grounded belonging
+
+dynamic_antagonism:
+  mechanism: The Page's solitary study clashes with the 4's demand for communal participation; the learner remains focused while celebration calls for presence
+  tension_axis: individual study versus communal participation; private learning versus public celebration
+  page_of_pentacles_position: The work must be done in focus; celebration is a distraction from the study
+  four_of_wands_position: The home needs your presence; the solitary apprentice misses the belonging the community offers
+  key_terms: urged participation, defended focus, insisted presence, kept study
+
+dynamic_inhibition:
+  mechanism: The Page's absorption in study prevents full participation in the 4's celebration; the apprentice cannot relax into the community joy
+  blockade_nature: the celebration cannot fully welcome one who remains focused on work rather than community
+  pentacles_state: the apprentice becomes isolated; the study turns into the lonely work that cannot join the home
+  consequence: the belonging is missed; the Page's focus prevents the 4's full celebration
+  key_terms: isolated learning, missed belonging, prevented celebration, lonely study
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into resentful work; the apprentice uses study as an excuse to avoid the vulnerability community requires
+  mode: the curiosity turned into obsessive focus; the learning becomes the escape from communal joy that might reveal inadequacy
+  loss: the genuine belonging that community offers; the apprentice becomes the dedicated student who has learned only isolation
+  key_terms: resentful learning, obsessive focus, avoided belonging, isolated apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the 4 to show that learning ultimately serves community; the celebration needs the apprentice's sincere contribution to be grounded
+  function: Pentacles-Page supplies the work that gives substance to celebration; Wands-4 supplies the community that makes learning meaningful
+  integration_outcome: an apprentice learning in service of community; the study that contributes to and is honored by the home
+  key_terms: communal learning, honored apprentice, celebrated study, belonging potential
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, 5 of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Conflict, competition, struggle, contested victory
+numerical_relation: 11 + 5 = 16 (XVI The Tower; apprentice meets conflict; the curious learner meets contested struggle)
+elemental_bridge: Earth's careful study meets Fire's direct conflict; the apprentice meets the contested arena
+threshold_type: The learner facing competitive struggle; potential meeting conflicted effort
+
+dynamic_genesis:
+  mechanism: The Page's steady learning can navigate the 5's conflict without losing purpose; the apprentice becomes the student who maintains focus amid struggle
+  process: the curious learner discovers that knowledge allows survival amid competition; the apprenticeship includes learning to stand amid conflict; the study becomes the foundation for contested effort
+  outcome: learning strengthened through struggle; the apprentice discovering resilience through focused study
+  key_terms: resilient learning, focused apprentice, steadied study, grounded effort
+
+dynamic_antagonism:
+  mechanism: The Page's measured approach clashes with the 5's urgent struggle; the learner wants understanding while the conflict demands immediate action
+  tension_axis: measured learning versus urgent conflict; studied approach versus immediate struggle
+  page_of_pentacles_position: Understanding the conflict prevents being overwhelmed by it; study is the path to navigating struggle
+  five_of_wands_position: The time for study is over; the immediate conflict demands action, not analysis
+  key_terms: urged action, defended study, insisted response, kept analysis
+
+dynamic_inhibition:
+  mechanism: The Page's deliberation prevents full engagement with the 5's struggle; the apprentice cannot move fast enough to defend their position
+  blockade_nature: the effective struggle cannot proceed while the learner insists on understanding every move
+  pentacles_state: the apprentice becomes overwhelmed; the study turns into the analytical paralysis that leaves no room for effective action
+  consequence: the struggle is lost; the Page's slowness prevents effective participation
+  key_terms: overwhelmed learning, paralyzed apprentice, lost struggle, blocked response
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into defensive rationalization; the apprentice uses study as excuse for avoiding the necessary conflict
+  mode: the curiosity weaponized to explain away responsibility; the learning becomes the justification for withdrawal
+  loss: the genuine courage that facing struggle could build; the apprentice becomes the analytical student who has learned only to avoid
+  key_terms: rationalizing learning, avoided struggle, weaponized analysis, fearful apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the 5 to teach that learning includes learning to act amid uncertainty; the struggle needs the apprentice's grounding to become productive
+  function: Pentacles-Page supplies the foundation that allows standing amid chaos; Wands-5 supplies the fire that tests and hardens the learning
+  integration_outcome: an apprentice learning to act decisively while maintaining integrity; the knowledge that serves in contested situations
+  key_terms: decisive learning, grounded apprentice, productive struggle, tested knowledge
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, 6 of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Victory, recognition, success, honor, public achievement
+numerical_relation: 11 + 6 = 17 (XVII The Star; apprentice meets victory; the curious learner meets public recognition)
+elemental_bridge: Earth's steady work meets Fire's public victory; the apprentice meets achieved success
+threshold_type: The learner achieving public recognition; potential meeting honored achievement
+
+dynamic_genesis:
+  mechanism: The Page's sincere study leads to the 6's recognition; the apprentice's work is vindicated by success
+  process: the curious learner's dedicated effort is rewarded with public honor; the apprenticeship culminates in recognized achievement; the study becomes the path to victory
+  outcome: learning vindicated by success; the apprentice discovering that sincere study leads to honor
+  key_terms: honored learning, successful apprentice, recognized study, vindicated potential
+
+dynamic_antagonism:
+  mechanism: The Page's humble focus clashes with the 6's public visibility; the learner remains dedicated to work while the victor enjoys public attention
+  tension_axis: humble work versus public recognition; dedicated study versus celebrated success
+  page_of_pentacles_position: The work matters more than the recognition; the praise could corrupt genuine learning
+  six_of_wands_position: The victory deserves honor; the apprentice's humility prevents them from receiving the recognition earned
+  key_terms: urged recognition, defended humility, insisted honor, kept work
+
+dynamic_inhibition:
+  mechanism: The Page's discomfort with visibility prevents the 6's full achievement; the apprentice cannot step into the public role the victory requires
+  blockade_nature: the recognition cannot be fully received while the learner insists on remaining hidden
+  pentacles_state: the apprentice becomes diminished; the study turns into the secret work that cannot claim its own worth
+  consequence: the victory is incomplete; the Page's humility prevents the 6's full expression
+  key_terms: diminished learning, hidden success, incomplete victory, unrecognized study
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into competitive drive for recognition; the apprentice studies only to win acclaim rather than for genuine pursuit of knowledge
+  mode: the curiosity weaponized for social gain; the learning becomes the calculated pursuit of public approval
+  loss: the genuine love of learning that could sustain a student; the apprentice becomes the ambitious student who has learned only to impress
+  key_terms: competitive learning, chased recognition, ambitious apprentice, corrupted study
+
+dynamic_dependency:
+  mechanism: The Page needs the 6 to show that genuine work deserves recognition; the public victory needs the apprentice's sincere foundation to be lasting
+  function: Pentacles-Page supplies the solid work that earns real recognition; Wands-6 supplies the honor that validates the learning
+  integration_outcome: an apprentice whose learning is honored with public recognition; the study that leads to genuine achievement
+  key_terms: honored learning, successful apprentice, recognized potential, achieved victory
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, 7 of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Challenge, resilience, defensive struggle, standing ground, maintaining position
+numerical_relation: 11 + 7 = 18 (XVIII The Moon; apprentice meets challenge; the curious learner meets defensive struggle)
+elemental_bridge: Earth's grounded persistence meets Fire's defensive stance; the apprentice meets the tested position
+threshold_type: The learner standing against doubt; potential meeting maintained ground
+
+dynamic_genesis:
+  mechanism: The Page's steady learning provides foundation to resist the 7's challenges; the apprentice becomes resilient through grounded study
+  process: the curious learner discovers that knowledge allows standing firm amid questioning; the apprenticeship develops into a position that cannot be shaken; the study becomes the ground upon which the figure stands
+  outcome: learning that holds ground; the apprentice discovering that sincere study is unshakable
+  key_terms: grounded learning, resilient apprentice, founded study, maintained potential
+
+dynamic_antagonism:
+  mechanism: The Page's openness to learning clashes with the 7's defensive stance; the learner wants to question while the position must be maintained
+  tension_axis: open curiosity versus defensive certainty; questioning study versus fixed position
+  page_of_pentacles_position: Everything can be questioned and learned; the defensive stance prevents further growth
+  seven_of_wands_position: The position must be defended; the apprentice's questioning weakens what has been established
+  key_terms: urged openness, defended position, insisted questioning, kept stance
+
+dynamic_inhibition:
+  mechanism: The Page's questioning nature prevents the 7's full defensive resolve; the apprentice cannot stop questioning long enough to hold firm
+  blockade_nature: the position cannot be fully maintained while the learner insists on examining every foundation
+  pentacles_state: the apprentice becomes uncertain; the curious study turns into the undermining questions that weaken resolve
+  consequence: the ground is lost; the Page's questioning prevents the 7's firm stance
+  key_terms: uncertain learning, weakened position, questioned ground, lost stance
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into stubborn defensiveness; the apprentice uses study to justify refusing to change
+  mode: the curiosity weaponized to defend against challenge; the learning becomes the intellectual fort that refuses genuine growth
+  loss: the genuine openness that learning requires; the apprentice becomes the defended student who has learned only to resist
+  key_terms: stubborn learning, defensive study, weaponized curiosity, hardened apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the 7 to teach that learning requires standing firm against doubt; the defensive stance needs the apprentice's genuine knowledge to be worthy of defending
+  function: Pentacles-Page supplies the knowledge that makes the position worth defending; Wands-7 supplies the strength to hold the learned ground
+  integration_outcome: an apprentice whose learning is defended with firm resolve; the study that becomes a position worth maintaining
+  key_terms: grounded learning, defended apprentice, maintained knowledge, founded stance
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, 8 of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Speed, momentum, rapid progress, swift action, accelerated movement
+numerical_relation: 11 + 8 = 19 (XIX The Sun; apprentice meets speed; the curious learner meets rapid progress)
+elemental_bridge: Earth's patient study meets Fire's swift momentum; the apprentice meets the accelerated movement
+threshold_type: The learner caught in accelerating pace; potential meeting swift action
+
+dynamic_genesis:
+  mechanism: The 8's momentum accelerates the Page's learning; the swift action gives the apprentice's study urgency and velocity
+  process: the curious learner discovers that momentum can carry knowledge forward; the apprenticeship is accelerated by the swift pace; the study gains speed and power through the 8's movement
+  outcome: learning accelerated by momentum; the apprentice discovering that speed can serve understanding
+  key_terms: accelerated learning, swift apprentice, speeding study, momentum potential
+
+dynamic_antagonism:
+  mechanism: The Page's measured approach clashes with the 8's rapid pace; the learner wants to consolidate while the momentum demands forward thrust
+  tension_axis: measured consolidation versus rapid acceleration; careful study versus swift action
+  page_of_pentacles_position: Understanding requires time; the swift pace leaves no time for proper learning
+  eight_of_wands_position: The moment moves now; the apprentice's measured approach cannot keep pace with where the fire needs to go
+  key_terms: urged speed, defended pace, insisted movement, kept study
+
+dynamic_inhibition:
+  mechanism: The Page's need for consolidation prevents the 8's full momentum; the apprentice cannot move at the speed required to ride the swift current
+  blockade_nature: the accelerated movement cannot proceed while the learner insists on lingering with material not yet fully integrated
+  pentacles_state: the apprentice becomes left behind; the study turns into the backward-looking work that cannot catch the moving fire
+  consequence: the momentum is lost; the Page's pace prevents the 8's swift journey
+  key_terms: left behind learning, slowed apprentice, lost momentum, backward study
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into frantic rushing; the apprentice abandons depth for the appearance of speed
+  mode: the curiosity weaponized into hurried superficiality; the learning becomes the hasty accumulation that misses real understanding
+  loss: the genuine depth that careful study could provide; the apprentice becomes the rushing student who has learned only to move
+  key_terms: frantic learning, rushed study, superficial apprentice, abandoned depth
+
+dynamic_dependency:
+  mechanism: The Page needs the 8 to show that learning includes moving with momentum; the swift action needs the apprentice's grounding to become genuinely useful
+  function: Pentacles-Page supplies the depth that makes speed meaningful; Wands-8 supplies the momentum that prevents learning from stalling
+  integration_outcome: an apprentice learning to move swiftly without losing depth; the knowledge that gains power through accelerated integration
+  key_terms: swift learning, grounded apprentice, moving study, momentum potential
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, 9 of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Strength, endurance, perseverance, disciplined power, tested resilience
+numerical_relation: 11 + 9 = 20 (XX Judgement; apprentice meets strength; the curious learner meets tested resilience)
+elemental_bridge: Earth's persistent study meets Fire's enduring strength; the apprentice meets the tested power
+threshold_type: The learner becoming strong through study; potential meeting disciplined resilience
+
+dynamic_genesis:
+  mechanism: The Page's continuous learning builds the 9's strength; the apprentice discovers that steady study develops enduring power
+  process: the curious learner perseveres through difficulty and finds that the learning itself becomes stronger; the apprenticeship develops into tested resilience; the study becomes the fire that strengthens through trial
+  outcome: learning strengthened by persistence; the apprentice discovering that endurance builds power
+  key_terms: tested learning, strong apprentice, resilient study, enduring potential
+
+dynamic_antagonism:
+  mechanism: The Page's openness to new learning clashes with the 9's need to hold tested ground; the learner wants growth while the strength must maintain what has been won
+  tension_axis: growth through new learning versus holding tested position; expansion versus maintenance
+  page_of_pentacles_position: All things can be learned; the strength is incomplete without continued growth
+  nine_of_wands_position: What has been won must be held; the apprentice's search for new knowledge endangers what has already been gained
+  key_terms: urged growth, defended position, insisted expansion, kept ground
+
+dynamic_inhibition:
+  mechanism: The 9's protective stance prevents the Page's full exploration; the apprentice cannot move freely to discover while the strength must defend what exists
+  blockade_nature: the new learning cannot flourish while the tested position insists on protecting what already exists
+  pentacles_state: the apprentice becomes constrained; the curious study turns into the protective learning that cannot expand freely
+  consequence: the growth is limited; the 9's defensive nature prevents the Page's full exploration
+  key_terms: constrained learning, limited apprentice, protected study, bounded potential
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into challenge to the 9's tested ground; the apprentice uses study to undermine what has been established
+  mode: the curiosity weaponized against what has been won; the learning becomes the questioning that weakens needed defenses
+  loss: the genuine integration that learning could offer; the apprentice becomes the questioning student who threatens the stability that others have fought for
+  key_terms: challenging learning, undermined strength, destabilizing apprentice, weaponized curiosity
+
+dynamic_dependency:
+  mechanism: The Page needs the 9 to teach that learning includes standing firm when necessary; the tested strength needs the apprentice's continued growth to prevent stagnation
+  function: Pentacles-Page supplies the fresh learning that keeps strength from becoming rigid; Wands-9 supplies the resilience that allows learning to survive trials
+  integration_outcome: an apprentice learning with tested resilience; the study that develops power through perseverance and careful exploration
+  key_terms: resilient learning, growing apprentice, tested study, strong potential
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, 10 of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Burden, responsibility, overwhelming load, carrying weight, exhaustion
+numerical_relation: 11 + 10 = 21 (XXI The World; apprentice meets burden; the curious learner meets overwhelming weight)
+elemental_bridge: Earth's grounded learning meets Fire's heavy responsibility; the apprentice meets the laden figure
+threshold_type: The learner taking on necessary burdens; potential meeting carried weight
+
+dynamic_genesis:
+  mechanism: The Page's willingness to learn includes learning the weight of responsibility; the apprentice discovers that growth means taking on necessary burdens
+  process: the curious learner discovers that knowledge brings obligation; the apprenticeship includes learning to carry what must be carried; the study becomes grounded in understanding what the world requires
+  outcome: learning deepened by responsibility; the apprentice discovering that maturity includes bearing weight
+  key_terms: grounded learning, responsible apprentice, mature study, weighted potential
+
+dynamic_antagonism:
+  mechanism: The Page's light curiosity clashes with the 10's heavy burden; the learner enjoys exploration while the burden requires endurance
+  tension_axis: light exploration versus heavy responsibility; free inquiry versus obligated carrying
+  page_of_pentacles_position: The learning is pure; the burden would corrupt the fresh curiosity
+  ten_of_wands_position: This weight must be carried; the apprentice's lightness refuses the necessary responsibility
+  key_terms: urged burden, defended lightness, insisted responsibility, kept exploration
+
+dynamic_inhibition:
+  mechanism: The Page's fresh curiosity prevents the 10's honest acknowledgment of the weight; the apprentice cannot see the burden clearly while maintaining naive optimism
+  blockade_nature: the weight cannot be fully acknowledged while the learner insists on seeing only the excitement of discovery
+  pentacles_state: the apprentice becomes complicit; the fresh learning turns into the willful blindness that denies the cost of growth
+  consequence: the burden is not truly faced; the Page's lightness prevents honest recognition of what must be carried
+  key_terms: avoided weight, denied responsibility, complicit learning, blinded apprentice
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into escape from the 10's burden; the apprentice uses study as an excuse to avoid responsibility
+  mode: the curiosity weaponized as avoidance; the learning becomes the entertainment that distracts from what must be done
+  loss: the genuine maturity that responsibility could offer; the apprentice becomes the eternal student who has learned never to grow up
+  key_terms: escapist learning, avoided responsibility, evasive apprentice, perpetual study
+
+dynamic_dependency:
+  mechanism: The Page needs the 10 to teach that learning includes learning to carry necessary weight; the burden needs the apprentice's fresh perspective to remember why the work matters
+  function: Pentacles-Page supplies the meaning that makes bearing the weight purposeful; Wands-10 supplies the reality that learning must serve something larger than itself
+  integration_outcome: an apprentice learning to integrate fresh curiosity with mature responsibility; the knowledge that serves and sustains what must be carried
+  key_terms: responsible learning, mature apprentice, grounded study, meaningful weight
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, Page of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Enthusiasm, potential, inspiration, youthful energy, creative spark
+numerical_relation: 11 + 11 = 22 → 2+2=4 (IV The Emperor; apprentice meets enthusiasm; the curious learner meets creative energy)
+elemental_bridge: Earth's practical learning meets Fire's creative spark; the earthly apprentice meets the inspired apprentice
+threshold_type: The two young learners meeting; potential meeting enthusiastic energy
+
+dynamic_genesis:
+  mechanism: The two Pages inspire each other; material curiosity and creative enthusiasm merge into dynamic learning
+  process: the earthly apprentice learns that knowledge can be animated by passion; the fire apprentice discovers that creation needs material foundation; they become teachers to each other
+  outcome: mutual learning enriched; each apprentice discovering the energy the other carries
+  key_terms: mutual learning, energized apprentices, dynamic growth, inspired discovery
+
+dynamic_antagonism:
+  mechanism: The Page of Pentacles' methodical focus clashes with the Page of Wands' impulsive enthusiasm; they disagree on what matters in learning
+  tension_axis: methodical study versus inspired action; careful foundation versus creative spark
+  page_of_pentacles_position: Enthusiasm without foundations is reckless; the study must be solid
+  page_of_wands_position: Method without inspiration is dead; the creativity must come first
+  key_terms: urged inspiration, defended method, insisted energy, kept foundation
+
+dynamic_inhibition:
+  mechanism: The Pentacles Page's caution prevents the Wands Page's full creative expression; the enthusiast cannot move freely while the methodical one insists on preparation
+  blockade_nature: the creative fire cannot fully ignite while the practical apprentice insists on foundational building
+  pentacles_state: the earthly learner becomes static; the careful study turns into the unimaginative work that cannot catch fire
+  consequence: the inspiration is dampened; the Pentacles Page's caution prevents the Wands Page's full expression
+  key_terms: dampened inspiration, static learning, blocked creativity, constrained discovery
+
+dynamic_devolution:
+  mechanism: The Pages teach each other corruption; the Pentacles Page becomes rigid, the Wands Page becomes reckless; they damage each other's growth
+  mode: the earthly learner weaponizes method against inspiration; the fire apprentice weaponizes enthusiasm against foundation; they become negative models to each other
+  loss: the genuine mutual learning that could enrich both; they become sources of distortion to each other
+  key_terms: corrupted learning, rigid method, reckless energy, distorted discovery
+
+dynamic_dependency:
+  mechanism: Each Page needs the other to become whole; the Pentacles Page needs inspiration, the Wands Page needs foundation
+  function: Pentacles-Page supplies the foundation that makes creativity buildable; Wands-Page supplies the enthusiasm that keeps learning alive
+  integration_outcome: two apprentices learning to integrate method and inspiration; the discovery made complete through complementary energy
+  key_terms: integrated learning, inspired apprentices, founded creativity, mutual growth
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, Knight of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Action, haste, passionate pursuit, adventurous engagement, bold movement
+numerical_relation: 11 + 12 = 23 → 2+3=5 (V The Pope; apprentice meets action; the curious learner meets bold pursuit)
+elemental_bridge: Earth's methodical study meets Fire's passionate action; the apprentice meets the adventuring knight
+threshold_type: The learner caught in the knight's swift action; potential meeting bold engagement
+
+dynamic_genesis:
+  mechanism: The Knight's bold action shows the Page that learning must eventually become deed; the apprentice discovers that study's highest form is passionate engagement
+  process: the curious learner is drawn into the Knight's bold movement; the apprenticeship discovers its meaning in committed action; the study becomes the foundation for fearless engagement
+  outcome: learning animated by action; the apprentice discovering that passion gives study purpose
+  key_terms: activated learning, bold apprentice, engaged study, alive potential
+
+dynamic_antagonism:
+  mechanism: The Page's measured preparation clashes with the Knight's immediate action; the learner wants to complete study while the action demands engagement now
+  tension_axis: continuing preparation versus immediate engagement; extended learning versus instant commitment
+  page_of_pentacles_position: The preparation must be complete before true action begins
+  knight_of_wands_position: The time to act is now; the apprentice's endless preparation is cowardice
+  key_terms: urged action, defended preparation, insisted engagement, kept study
+
+dynamic_inhibition:
+  mechanism: The Page's absorption in preparation prevents the Knight's bold movement; the apprentice cannot commit to action while deliberating completion
+  blockade_nature: the bold engagement cannot proceed while the learner insists on finishing the preparatory phase
+  pentacles_state: the apprentice becomes stalled; the careful study turns into the endless preparation that prevents commitment
+  consequence: the opportunity is lost; the Page's deliberation prevents the Knight's decisive action
+  key_terms: missed opportunity, stalled apprentice, prevented action, endless study
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into fear dressed as preparation; the apprentice uses study to avoid the vulnerability action requires
+  mode: the curiosity weaponized as justification for paralysis; the learning becomes the elaborate preparation that masks cowardice
+  loss: the genuine courage that engagement could build; the apprentice becomes the eternal student who has learned only to avoid living
+  key_terms: fearful learning, endless preparation, avoided engagement, paralyzed apprentice
+
+dynamic_dependency:
+  mechanism: The Page needs the Knight to teach that learning's ultimate purpose is passionate engagement; the bold action needs the apprentice's foundation to sustain the journey
+  function: Pentacles-Page supplies the preparation that makes bold action sustainable; Wands-Knight supplies the courage that transforms study into lived experience
+  integration_outcome: an apprentice whose learning culminates in passionate engagement; the knowledge that powers committed action
+  key_terms: activated learning, courageous apprentice, engaged study, lived purpose
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, Queen of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Charisma, magnetism, creative authority, passionate leadership, inspired mastery
+numerical_relation: 11 + 13 = 24 → 2+4=6 (VI The Lovers; apprentice meets charisma; the curious learner meets inspired mastery)
+elemental_bridge: Earth's earnest study meets Fire's magnetic authority; the apprentice meets the inspired master
+threshold_type: The learner drawn to inspired authority; potential meeting charismatic mastery
+
+dynamic_genesis:
+  mechanism: The Queen's inspired authority shows the Page that learning can develop into magnetic presence; the apprentice is drawn to and learns from the master's power
+  process: the curious learner is inspired by the Queen's authentic authority; the apprenticeship becomes a study of how to lead through passion; the study discovers its highest expression in inspired mastery
+  outcome: learning elevated by mastery; the apprentice discovering that genuine knowledge carries magnetic power
+  key_terms: inspired learning, elevated apprentice, mastered study, powerful potential
+
+dynamic_antagonism:
+  mechanism: The Page's humble questioning clashes with the Queen's assured authority; the learner wants to examine while the master speaks with certainty
+  tension_axis: questioning study versus assured mastery; intellectual examination versus authentic authority
+  page_of_pentacles_position: All things can be questioned; the master's certainty may hide unexamined assumptions
+  queen_of_wands_position: The authority comes from real mastery; the apprentice's questioning shows disrespect for what has been earned
+  key_terms: urged respect, defended questioning, insisted authority, kept examination
+
+dynamic_inhibition:
+  mechanism: The Page's need to question prevents full receptivity to the Queen's teaching; the apprentice cannot absorb the master's power while maintaining analytical distance
+  blockade_nature: the true teaching cannot proceed while the learner insists on questioning rather than receiving
+  pentacles_state: the apprentice becomes isolated; the careful study turns into the defensive analysis that cannot open to inspiration
+  consequence: the mastery is missed; the Page's questioning prevents the Queen's true transmission
+  key_terms: missed mastery, isolated apprentice, defensive study, blocked learning
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into envious critique; the apprentice uses study to diminish the Queen's authority
+  mode: the curiosity weaponized to undermine the master; the learning becomes the intellectual attack that masks envy
+  loss: the genuine wisdom the Queen offers; the apprentice becomes the clever student who has learned only to diminish
+  key_terms: envious learning, critiquing apprentice, diminished mastery, weaponized study
+
+dynamic_dependency:
+  mechanism: The Page needs the Queen to teach that learning can culminate in inspired authority; the magnetic power needs the apprentice's genuine receptivity to be transmitted
+  function: Pentacles-Page supplies the sincere desire to learn that makes reception possible; Wands-Queen supplies the inspired authority that shows where learning leads
+  integration_outcome: an apprentice learning to integrate careful study with inspired mastery; the knowledge that develops authentic authority
+  key_terms: inspired learning, receptive apprentice, mastered study, powerful presence
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW
+
+---
+
+card_pair: Page of Pentacles, King of Wands
+archetype_pentacles: Curiosity, material learning, practical exploration, earthy apprentice, grounded potential
+archetype_wands: Leadership, vision, dominion, commanding presence, authoritative power
+numerical_relation: 11 + 14 = 25 → 2+5=7 (VII The Chariot; apprentice meets dominion; the curious learner meets commanding vision)
+elemental_bridge: Earth's patient learning meets Fire's commanding vision; the apprentice meets the authoritative king
+threshold_type: The learner in the presence of commanding authority; potential meeting visionary dominion
+
+dynamic_genesis:
+  mechanism: The King's commanding vision gives the Page's learning ultimate direction and purpose; the apprentice finds that knowledge serves the larger vision
+  process: the curious learner studies under the King's guidance toward a commanding vision; the apprenticeship becomes training in service to a greater enterprise; the study gains ultimate purpose through the King's dominion
+  outcome: learning directed by commanding vision; the apprentice discovering that knowledge serves authoritative power
+  key_terms: directed learning, purposeful apprentice, visionary study, sovereign potential
+
+dynamic_antagonism:
+  mechanism: The Page's independent inquiry clashes with the King's demand for aligned action; the learner wants freedom while authority requires obedience
+  tension_axis: independent learning versus commanded alignment; free inquiry versus obedient service
+  page_of_pentacles_position: The learning must be free; the King's dominion constrains genuine understanding
+  king_of_wands_position: Learning must serve the vision; the apprentice's independence weakens the necessary alignment
+  key_terms: urged obedience, defended freedom, insisted service, kept inquiry
+
+dynamic_inhibition:
+  mechanism: The Page's resistance to authority prevents the King's true teaching; the apprentice cannot accept the direction the vision demands
+  blockade_nature: the true alignment cannot proceed while the learner insists on maintaining independence
+  pentacles_state: the apprentice becomes rebellious; the careful study turns into the defensive learning that questions every direction
+  consequence: the vision cannot be served; the Page's resistance prevents the King's effective leadership
+  key_terms: rebellious learning, resisted direction, prevented vision, blocked alignment
+
+dynamic_devolution:
+  mechanism: The Page corrupts its learning into either servile acceptance or bitter rebellion against the King; the apprentice loses genuine agency
+  mode: the curiosity either completely surrendered to the King's will or weaponized against it; the learning becomes either loss of self or destructive defiance
+  loss: the genuine development the King's guidance could offer; the apprentice becomes either the slave or the rebel, but not the true student
+  key_terms: lost agency, servile surrender, bitter rebellion, corrupted learning
+
+dynamic_dependency:
+  mechanism: The Page needs the King to teach that learning serves something larger than the self; the commanding vision needs the apprentice's genuine alignment to be realized
+  function: Pentacles-Page supplies the sincere will to learn that makes service possible; Wands-King supplies the vision that makes service meaningful
+  integration_outcome: an apprentice whose learning aligns with visionary authority; the knowledge that empowers commanded vision
+  key_terms: directed learning, aligned apprentice, visionary study, serving purpose
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with fire graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to fire (wands)
+  numerical_axis: 11-1 through 11-14
+  uid: POPW

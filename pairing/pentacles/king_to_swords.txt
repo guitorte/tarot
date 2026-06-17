@@ -1,0 +1,697 @@
+card_pair: King of Pentacles, Ace of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+numerical_relation: 14 + 1 = 15 (XV The Devil; material authority meets clarifying truth; the abundant rule meets sharp insight)
+elemental_bridge: Earth's commanding structure meets Air's cutting clarity; the ruling dominion meets the new truth
+threshold_type: The King's dominion clarified; powerful stewardship meeting sharp insight
+
+dynamic_genesis:
+  mechanism: The Ace's clarity sharpens the King's dominion; the new truth shows the rule where it stands and what it must decide
+  process: the material authority gains precision through the Ace's insight; the powerful structure is clarified by sharp thought; the dominion learns to see its own foundations clearly
+  outcome: dominion clarified by truth; the rule given precision through sharp insight
+  key_terms: clarified dominion, precise authority, sharpened rule, truthful stewardship
+
+dynamic_antagonism:
+  mechanism: The King's settled structure clashes with the Ace's cutting truth; the ruler defends what is built while the blade exposes what is flawed
+  tension_axis: the established dominion versus the cutting clarity; settled rule versus disruptive truth
+  king_of_pentacles_position: The dominion is sound; the relentless cutting threatens to dismantle what works
+  ace_of_swords_position: Truth must cut where needed; the King's defense protects comfortable error
+  key_terms: urged truth, defended structure, insisted clarity, kept dominion
+
+dynamic_inhibition:
+  mechanism: The King's defense of the established order prevents the Ace's full clarity; the dominion refuses the truth that would require change
+  blockade_nature: the sharp insight cannot fully cut while the authority insists on protecting the existing structure
+  pentacles_state: the King becomes defensive; the powerful stewardship turns into the system that resists examination
+  consequence: the truth is blunted; the King's defensiveness prevents the Ace's full clarity
+  key_terms: blunted truth, defensive rule, resisted clarity, protected dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a structure that suppresses inconvenient truth; the rule becomes the authority that punishes the clarity it fears
+  mode: the material power used to silence sharp insight; the dominion becomes the system that buries the truth to preserve itself
+  loss: the honest clarity the Ace offers; the rule becomes the system built on suppressed truth
+  key_terms: suppressive dominion, buried truth, silenced clarity, fearful authority
+
+dynamic_dependency:
+  mechanism: The King needs the Ace to keep the dominion honest; the cutting clarity needs the authority to give its truth practical ground
+  function: Pentacles-King supplies the material structure that the Ace's truth can clarify and improve; Swords-Ace supplies the sharp insight that keeps the dominion from resting on comfortable error
+  integration_outcome: dominion clarified and kept honest by truth; the rule grounded in sharp, examined insight
+  key_terms: honest dominion, clarified rule, examined authority, truthful stewardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, 2 of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Difficult Choice, The Binding Decision, The Divided Will, Conflict Bound
+numerical_relation: 14 + 2 = 16 (XVI The Tower; material authority meets difficult choice; the abundant rule meets divided will)
+elemental_bridge: Earth's decisive command meets Air's bound stalemate; the ruling authority meets the blocked decision
+threshold_type: The King confronting indecision; powerful stewardship meeting the divided will
+
+dynamic_genesis:
+  mechanism: The King's authority can break the 2's deadlock; the decisive dominion provides the ground from which the blocked choice can finally be made
+  process: the material command brings weight to the stalled decision; the powerful structure offers the firm footing the divided will lacks; the dominion becomes the place where the impasse is resolved
+  outcome: deadlock broken by decisive authority; the divided will given firm ground to choose
+  key_terms: decisive dominion, resolved impasse, grounded choice, firm authority
+
+dynamic_antagonism:
+  mechanism: The King's demand for decision clashes with the 2's protective stalemate; the ruler wants action while the divided will fears the cost of choosing
+  tension_axis: the decisive command versus the protective deadlock; forced choice versus held balance
+  king_of_pentacles_position: The dominion requires decisions; endless balancing wastes what must be ruled
+  two_of_swords_position: The choice is genuinely hard; the King's pressure forces a decision before its truth is clear
+  key_terms: urged decision, defended balance, insisted action, kept stalemate
+
+dynamic_inhibition:
+  mechanism: The 2's deadlock infects the King's dominion; the divided will spreads until the authority itself cannot act
+  blockade_nature: the decisive rule cannot proceed while the stalemate's paralysis spreads into the dominion's choices
+  pentacles_state: the King becomes paralyzed; the powerful stewardship turns into the authority that can no longer decide
+  consequence: the dominion stalls; the 2's deadlock prevents the King's decisive rule
+  key_terms: paralyzed rule, spread deadlock, stalled dominion, indecisive authority
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into endless deliberation that avoids responsibility; the rule becomes the authority that hides indecision behind the appearance of care
+  mode: the powerful stewardship used to justify perpetual delay; the dominion becomes the system that never decides and blames the difficulty
+  loss: the decisive action the moment requires; the rule becomes the system of paralyzed avoidance
+  key_terms: avoidant dominion, perpetual delay, hidden indecision, paralyzed rule
+
+dynamic_dependency:
+  mechanism: The King needs the 2 to respect the genuine difficulty of the choice; the divided will needs the authority to provide the firm ground that makes deciding possible
+  function: Pentacles-King supplies the decisive weight and firm structure that breaks the deadlock; Swords-2 supplies the honest recognition that the choice is genuinely hard
+  integration_outcome: dominion that decides while honoring difficulty; the rule grounded enough to break deadlock without rushing past the truth
+  key_terms: decisive dominion, honored difficulty, grounded choice, firm authority
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, 3 of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Hard Truth, The Necessary Wound, The Clarity That Cuts, Pain Witnessed
+numerical_relation: 14 + 3 = 17 (XVII The Star; material authority meets necessary wound; the abundant rule meets painful truth)
+elemental_bridge: Earth's enduring dominion meets Air's piercing sorrow; the ruling foundation meets the wounding truth
+threshold_type: The King's dominion facing pain; powerful stewardship meeting the necessary wound
+
+dynamic_genesis:
+  mechanism: The King's dominion gives the 3's pain a place to be borne; the powerful structure holds steady while the necessary wound is felt
+  process: the material foundation provides the stable ground on which grief can be carried; the powerful stewardship endures while the pain runs its course; the dominion becomes the structure that does not collapse under sorrow
+  outcome: pain held by stable dominion; the necessary wound borne within an enduring structure
+  key_terms: enduring dominion, held pain, steady rule, grounded sorrow
+
+dynamic_antagonism:
+  mechanism: The King's insistence on function clashes with the 3's need to feel the wound; the ruler wants the structure to keep working while the pain demands acknowledgment
+  tension_axis: the functioning dominion versus the felt wound; continued operation versus necessary grief
+  king_of_pentacles_position: The dominion must keep working; dwelling on pain weakens what must be ruled
+  three_of_swords_position: The wound must be felt to heal; the King's function denies the pain its truth
+  key_terms: urged function, defended feeling, insisted grief, kept operation
+
+dynamic_inhibition:
+  mechanism: The King's demand for continued function prevents the 3's necessary grieving; the dominion will not pause for the wound to be felt
+  blockade_nature: the necessary pain cannot be borne while the authority insists the structure keep operating
+  pentacles_state: the King becomes cold; the powerful stewardship turns into the structure that will not stop for sorrow
+  consequence: the wound festers; the King's relentless function prevents the 3's necessary grief
+  key_terms: cold rule, festering wound, denied grief, relentless dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that denies all pain as weakness; the rule becomes the authority that forbids the wound from being acknowledged
+  mode: the material power used to suppress grief in the name of strength; the dominion becomes the system that buries pain and calls it discipline
+  loss: the honest healing the wound requires; the rule becomes the system of denied sorrow that hardens into cruelty
+  key_terms: denying dominion, suppressed pain, forbidden grief, hardened authority
+
+dynamic_dependency:
+  mechanism: The King needs the 3 to teach that dominion must allow pain to be felt; the necessary wound needs the authority to provide the stable structure that can hold grief without collapse
+  function: Pentacles-King supplies the enduring structure that can bear sorrow without breaking; Swords-3 supplies the honest pain that keeps the dominion from becoming coldly mechanical
+  integration_outcome: dominion strong enough to hold its wounds; the rule that endures while honoring the pain it carries
+  key_terms: enduring dominion, held grief, steady rule, compassionate authority
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, 4 of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Necessary Rest, The Pause Earned, The Truce Held, Respite Granted
+numerical_relation: 14 + 4 = 18 (XVIII The Moon; material authority meets necessary rest; the abundant rule meets earned pause)
+elemental_bridge: Earth's tireless dominion meets Air's stillness; the ruling labor meets the earned rest
+threshold_type: The King's dominion at rest; powerful stewardship meeting necessary pause
+
+dynamic_genesis:
+  mechanism: The 4's rest shows the King that dominion requires recovery; the earned pause demonstrates that even powerful rule must allow stillness
+  process: the material authority learns to pause; the powerful structure makes room for recovery; the dominion becomes secure enough to permit rest
+  outcome: dominion that allows recovery; the rule strong enough to permit necessary pause
+  key_terms: rested dominion, secure pause, recovering rule, sustained stewardship
+
+dynamic_antagonism:
+  mechanism: The King's drive to keep building clashes with the 4's need for stillness; the ruler distrusts pause while the rest insists on recovery
+  tension_axis: the tireless stewardship versus the earned rest; perpetual labor versus necessary stillness
+  king_of_pentacles_position: The dominion is never finished; rest risks losing ground that vigilance holds
+  four_of_swords_position: The pause is earned and necessary; the King's tirelessness leads to collapse
+  key_terms: urged rest, defended labor, insisted stillness, kept vigilance
+
+dynamic_inhibition:
+  mechanism: The King's restlessness prevents the 4's full recovery; the dominion will not permit the stillness the pause requires
+  blockade_nature: the necessary rest cannot be taken while the authority insists on perpetual labor
+  pentacles_state: the King becomes driven; the powerful stewardship turns into the system that forbids recovery
+  consequence: the rest is denied; the King's restlessness prevents the 4's necessary pause
+  key_terms: driven rule, denied rest, forbidden stillness, restless dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system of relentless demand that grinds down all it commands; the rule becomes the authority that allows no recovery
+  mode: the material power used to extract endless labor; the dominion becomes the system that burns out everything in its service
+  loss: the sustainable recovery the 4 offers; the rule becomes the system that destroys itself through tireless demand
+  key_terms: grinding dominion, denied recovery, relentless demand, exhausting rule
+
+dynamic_dependency:
+  mechanism: The King needs the 4 to teach that dominion requires rest to endure; the necessary pause needs the authority to provide the security that makes recovery safe
+  function: Pentacles-King supplies the secure structure that makes rest possible without losing ground; Swords-4 supplies the wisdom of recovery that keeps the dominion from grinding itself down
+  integration_outcome: dominion sustainable through earned rest; the rule strong enough to recover and endure
+  key_terms: sustainable dominion, secure rest, enduring rule, recovered stewardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, 5 of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Pyrrhic Victory, The Hollow Win, The Exhausted Triumph, Cost Acknowledged
+numerical_relation: 14 + 5 = 19 (XIX The Sun; material authority meets hollow victory; the abundant rule meets costly triumph)
+elemental_bridge: Earth's stable dominion meets Air's pyrrhic win; the ruling foundation meets the costly conquest
+threshold_type: The King's dominion and the hollow win; powerful stewardship meeting costly triumph
+
+dynamic_genesis:
+  mechanism: The King's dominion can weigh the true cost of the 5's victory; the powerful stewardship judges whether the win was worth its price
+  process: the material wisdom assesses what the conquest actually cost; the powerful structure measures gain against loss; the dominion becomes the ground where hollow victory is honestly accounted
+  outcome: victory honestly weighed; the cost of the win measured by stewardship's accounting
+  key_terms: weighed victory, honest accounting, measured dominion, judging rule
+
+dynamic_antagonism:
+  mechanism: The King's concern for lasting value clashes with the 5's appetite for winning at any cost; the ruler counts the price while the conqueror counts only the conquest
+  tension_axis: the lasting value of dominion versus the hollow gain of victory; sustainable rule versus costly conquest
+  king_of_pentacles_position: The dominion requires sustainable gain; victories that cost more than they give weaken the rule
+  five_of_swords_position: Winning is what matters; the King's accounting hesitates where it should seize
+  key_terms: urged restraint, defended conquest, insisted value, kept accounting
+
+dynamic_inhibition:
+  mechanism: The 5's appetite for hollow victory corrupts the King's stewardship; the drive to win at any cost spreads into the dominion's accounting
+  blockade_nature: the sustainable rule cannot hold while the appetite for costly conquest spreads into every decision
+  pentacles_state: the King becomes ruthless; the powerful stewardship turns into the system that wins while bleeding itself dry
+  consequence: the dominion is depleted; the 5's costly victories drain the King's rule
+  key_terms: ruthless rule, depleted dominion, costly conquest, bleeding stewardship
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that pursues victory regardless of cost; the rule becomes the authority that wins itself into ruin
+  mode: the material power spent on conquests that destroy more than they gain; the dominion becomes the system of pyrrhic triumph
+  loss: the sustainable value the dominion should preserve; the rule becomes the system that conquers its way to collapse
+  key_terms: ruinous dominion, pyrrhic rule, destructive conquest, self-defeating authority
+
+dynamic_dependency:
+  mechanism: The King needs the 5 to recognize when a win is not worth its cost; the hollow victory needs the authority to provide the accounting that measures true value
+  function: Pentacles-King supplies the sustainable wisdom that weighs gain against cost; Swords-5 supplies the hard recognition that some victories are not worth winning
+  integration_outcome: dominion that wins only what is worth winning; the rule guided by honest accounting of cost
+  key_terms: measured dominion, honest victory, sustainable rule, wise authority
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, 6 of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Passage Through Difficulty, The Boat Passage, The Transition Made, Movement Toward Clarity
+numerical_relation: 14 + 6 = 20 (XX Judgement; material authority meets passage; the abundant rule meets transition toward clarity)
+elemental_bridge: Earth's anchored dominion meets Air's crossing passage; the ruling foundation meets the transition made
+threshold_type: The King's dominion in transition; powerful stewardship meeting the necessary crossing
+
+dynamic_genesis:
+  mechanism: The King's dominion provides the means for the 6's passage; the powerful stewardship supplies the resources that carry the transition to calmer waters
+  process: the material authority funds and equips the crossing; the powerful structure provides the boat that carries through difficulty; the dominion becomes the means by which transition is achieved
+  outcome: passage enabled by dominion; the necessary crossing carried by powerful stewardship
+  key_terms: enabling dominion, equipped passage, supported transition, carrying rule
+
+dynamic_antagonism:
+  mechanism: The King's attachment to the established place clashes with the 6's need to move on; the ruler wants to hold ground while the passage insists on leaving
+  tension_axis: the rooted dominion versus the necessary crossing; holding ground versus moving toward clarity
+  king_of_pentacles_position: The dominion is built here; abandoning it for an uncertain crossing risks all that was made
+  six_of_swords_position: This place can no longer be held; the King's attachment prevents the necessary passage
+  key_terms: urged passage, defended ground, insisted transition, kept rootedness
+
+dynamic_inhibition:
+  mechanism: The King's attachment to place prevents the 6's full passage; the dominion's rootedness will not permit the necessary crossing
+  blockade_nature: the transition cannot proceed while the authority insists on holding the ground that must be left
+  pentacles_state: the King becomes stuck; the powerful stewardship turns into the anchor that prevents necessary movement
+  consequence: the passage is blocked; the King's attachment prevents the 6's crossing toward clarity
+  key_terms: stuck rule, blocked passage, anchored dominion, prevented transition
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a refusal of all change; the rule becomes the authority that would rather sink with its ground than make passage
+  mode: the material attachment used to forbid necessary movement; the dominion becomes the system that drowns rather than crosses
+  loss: the clarity the passage moves toward; the rule becomes the system that perishes clinging to what must be left
+  key_terms: drowning dominion, refused passage, fatal attachment, sinking rule
+
+dynamic_dependency:
+  mechanism: The King needs the 6 to know when ground must be left; the passage needs the authority to provide the means that makes the crossing possible
+  function: Pentacles-King supplies the resources and stability that equip the crossing; Swords-6 supplies the wisdom of timely passage that keeps the dominion from drowning in attachment
+  integration_outcome: dominion able to make necessary passage; the rule that carries its people toward clarity rather than clinging to lost ground
+  key_terms: carrying dominion, equipped passage, wise transition, moving rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, 7 of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Cunning Path, The Retreat Made, The Strategy Deployed, Wisdom in Withdrawal
+numerical_relation: 14 + 7 = 21 (XXI The World; material authority meets cunning; the abundant rule meets strategic withdrawal)
+elemental_bridge: Earth's straightforward dominion meets Air's cunning strategy; the ruling power meets the strategic mind
+threshold_type: The King's dominion and cunning; powerful stewardship meeting the strategic path
+
+dynamic_genesis:
+  mechanism: The 7's cunning shows the King that dominion sometimes requires strategy over force; the strategic path demonstrates that rule can achieve through wit what power cannot
+  process: the material authority learns the value of strategic withdrawal; the powerful structure gains the flexibility of cunning; the dominion becomes capable of achieving by stratagem
+  outcome: dominion sharpened by strategy; the rule made flexible through cunning wisdom
+  key_terms: strategic dominion, cunning rule, flexible authority, sharpened stewardship
+
+dynamic_antagonism:
+  mechanism: The King's preference for open dealing clashes with the 7's strategic concealment; the ruler values straightforward stewardship while the strategist values the hidden move
+  tension_axis: the open dominion versus the cunning path; straightforward rule versus strategic concealment
+  king_of_pentacles_position: The dominion is built on trust and openness; cunning erodes the honesty that rule requires
+  seven_of_swords_position: Survival requires strategy; the King's openness leaves the dominion exposed
+  key_terms: urged strategy, defended openness, insisted cunning, kept honesty
+
+dynamic_inhibition:
+  mechanism: The 7's cunning undermines the King's straightforward dominion; the strategic concealment erodes the trust the rule is built on
+  blockade_nature: the open stewardship cannot function while concealment and strategy spread through the dominion
+  pentacles_state: the King becomes suspicious; the powerful stewardship turns into the system that no longer trusts its own
+  consequence: the trust erodes; the 7's cunning undermines the King's straightforward rule
+  key_terms: suspicious rule, eroded trust, undermined dominion, concealing authority
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system of manipulation and hidden dealing; the rule becomes the authority that governs through deception
+  mode: the material power deployed through cunning and concealment; the dominion becomes the system built on strategic dishonesty
+  loss: the genuine trust the dominion required; the rule becomes the system of manipulation that no one can trust
+  key_terms: manipulative dominion, deceptive rule, concealed dealing, untrustworthy authority
+
+dynamic_dependency:
+  mechanism: The King needs the 7 to provide strategic wisdom the dominion lacks; the cunning path needs the authority to keep its strategy in service of legitimate ends
+  function: Pentacles-King supplies the legitimate foundation that gives strategy a worthy purpose; Swords-7 supplies the strategic intelligence that keeps the dominion from being naively exposed
+  integration_outcome: dominion that combines openness with necessary strategy; the rule strategic enough to survive without abandoning trust
+  key_terms: strategic dominion, wise rule, protected authority, intelligent stewardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, 8 of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Bound One, The Prisoner, The Restricted Mind, Constraint Consciousness
+numerical_relation: 14 + 8 = 22 → 2+2=4 (IV The Emperor; material authority meets constraint; the abundant rule meets the bound mind)
+elemental_bridge: Earth's freeing resources meet Air's self-made prison; the ruling power meets the bound one
+threshold_type: The King's dominion and the prisoner; powerful stewardship meeting the restricted mind
+
+dynamic_genesis:
+  mechanism: The King's dominion can free the 8 from its constraint; the material authority provides the resources and ground that loosen the self-made bonds
+  process: the powerful structure offers the means of release; the material stewardship shows the bound one that the prison has a door; the dominion becomes the ground from which freedom is found
+  outcome: constraint loosened by dominion; the bound mind shown the resources of release
+  key_terms: freeing dominion, loosened bonds, grounded release, liberating rule
+
+dynamic_antagonism:
+  mechanism: The King's offer of practical freedom clashes with the 8's conviction of its own helplessness; the ruler points to the door while the prisoner insists there is none
+  tension_axis: the dominion's offered freedom versus the prisoner's conviction of constraint; practical release versus believed helplessness
+  king_of_pentacles_position: The resources for freedom are at hand; the bound one refuses to see the available means
+  eight_of_swords_position: The constraint is real; the King's easy offer ignores how the bonds were made
+  key_terms: urged freedom, defended helplessness, insisted release, kept constraint
+
+dynamic_inhibition:
+  mechanism: The 8's conviction of helplessness resists the King's practical aid; the dominion's offered resources cannot reach the one who refuses to see the door
+  blockade_nature: the freeing authority cannot release the prisoner who insists the bonds cannot be loosed
+  pentacles_state: the King becomes frustrated; the powerful stewardship turns into the aid that cannot reach the willingly bound
+  consequence: the freedom is refused; the 8's conviction prevents the King's release
+  key_terms: frustrated rule, refused freedom, unreached prisoner, blocked release
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that profits from the 8's constraint; the rule becomes the authority that keeps the bound one dependent
+  mode: the material power used to maintain the prisoner's helplessness; the dominion becomes the system that needs its subjects bound
+  loss: the genuine freedom the dominion could offer; the rule becomes the system that profits from constraint
+  key_terms: confining dominion, profitable constraint, maintained helplessness, exploitative rule
+
+dynamic_dependency:
+  mechanism: The King needs the 8 to understand that freedom cannot be imposed from outside; the bound mind needs the authority to provide the patient resources that make release possible when chosen
+  function: Pentacles-King supplies the material ground and patient resources from which freedom becomes possible; Swords-8 supplies the recognition that release must be chosen, not merely offered
+  integration_outcome: dominion that patiently enables freedom; the rule that provides the ground without forcing the release
+  key_terms: patient dominion, enabled freedom, grounded release, respectful rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, 9 of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Repeated Thought, The Night-Mind Spinning, The Worry-Spiral, Obsession Witnessed
+numerical_relation: 14 + 9 = 23 → 2+3=5 (V The Pope; material authority meets worry-spiral; the abundant rule meets the night-mind)
+elemental_bridge: Earth's grounding dominion meets Air's spinning anguish; the ruling solidity meets the worried mind
+threshold_type: The King's dominion and the worry-spiral; powerful stewardship meeting night anguish
+
+dynamic_genesis:
+  mechanism: The King's solid dominion grounds the 9's spinning worry; the material stability offers the worried mind something real to stand on
+  process: the powerful structure provides the concrete ground that quiets the spiral; the material stewardship shows the night-mind the solid facts beneath its fears; the dominion becomes the anchor against anxious spinning
+  outcome: worry grounded by solid dominion; the spinning mind anchored to material reality
+  key_terms: grounding dominion, anchored worry, solid rule, steadying authority
+
+dynamic_antagonism:
+  mechanism: The King's confidence in solid facts clashes with the 9's spiraling fears; the ruler points to what is real while the worried mind spins past all reassurance
+  tension_axis: the dominion's solid reality versus the spiral's groundless fear; material confidence versus anxious spinning
+  king_of_pentacles_position: The dominion is secure; the worry has no basis in the solid facts
+  nine_of_swords_position: The fear is real to the one who suffers it; the King's confidence dismisses the genuine anguish
+  key_terms: urged calm, defended fear, insisted reality, kept worry
+
+dynamic_inhibition:
+  mechanism: The 9's spiraling worry resists the King's grounding; the night-mind spins past every solid fact the dominion offers
+  blockade_nature: the steadying authority cannot quiet the spiral that finds new fears faster than facts can answer
+  pentacles_state: the King becomes impatient; the powerful stewardship turns into the dismissal that cannot reach the worried
+  consequence: the worry continues; the King's grounding cannot quiet the 9's spinning mind
+  key_terms: impatient rule, continuing spiral, unquieted worry, dismissive authority
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that exploits the 9's anxiety; the rule becomes the authority that governs through manufactured fear
+  mode: the material power used to keep subjects anxious and dependent; the dominion becomes the system that profits from the worry it should quiet
+  loss: the genuine security the dominion could provide; the rule becomes the system that manufactures the fear it claims to ease
+  key_terms: anxious dominion, manufactured fear, exploited worry, fear-ruling authority
+
+dynamic_dependency:
+  mechanism: The King needs the 9 to recognize that real security must address genuine fear; the worried mind needs the authority to provide the solid ground that the spiral can eventually rest upon
+  function: Pentacles-King supplies the material security and patient ground that anxiety can settle into; Swords-9 supplies the honest fear that keeps the dominion from dismissing real anguish
+  integration_outcome: dominion that grounds genuine anxiety; the rule patient enough to be the solid floor beneath the worried mind
+  key_terms: grounding dominion, settled worry, patient rule, secure authority
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, 10 of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Completion Through Devastation, The Final Wound, The Piercing Truth, Ending Witnessed
+numerical_relation: 14 + 10 = 24 → 2+4=6 (VI The Lovers; material authority meets devastation; the abundant rule meets the final ending)
+elemental_bridge: Earth's enduring dominion meets Air's final devastation; the ruling foundation meets the witnessed ending
+threshold_type: The King's dominion and the final wound; powerful stewardship meeting complete devastation
+
+dynamic_genesis:
+  mechanism: The King's dominion provides the ground on which the 10's devastation can be rebuilt; the powerful stewardship offers the foundation from which what ended can begin again
+  process: the material authority surveys the ruin and begins reconstruction; the powerful structure provides the resources to rebuild after the ending; the dominion becomes the ground from which recovery rises
+  outcome: devastation given ground for rebuilding; the final ending made the foundation of a new beginning
+  key_terms: rebuilding dominion, grounded recovery, restoring rule, foundational stewardship
+
+dynamic_antagonism:
+  mechanism: The King's drive to rebuild clashes with the 10's need to fully acknowledge the ending; the ruler reaches for reconstruction while the devastation insists the ending be witnessed first
+  tension_axis: the dominion's drive to rebuild versus the wound's need to be witnessed; premature reconstruction versus honored ending
+  king_of_pentacles_position: The dominion must rebuild; dwelling in the ruin wastes what could be restored
+  ten_of_swords_position: The ending must be fully witnessed; the King's haste to rebuild denies the devastation its truth
+  key_terms: urged rebuilding, defended witness, insisted recovery, kept ending
+
+dynamic_inhibition:
+  mechanism: The King's haste to rebuild prevents the 10's full witnessing of the ending; the dominion will not pause to honor what was devastated
+  blockade_nature: the genuine ending cannot be witnessed while the authority rushes toward reconstruction
+  pentacles_state: the King becomes mechanical; the powerful stewardship turns into the system that paves over devastation
+  consequence: the ending is unhonored; the King's haste prevents the 10's necessary witnessing
+  key_terms: mechanical rule, unhonored ending, rushed rebuilding, paving dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that denies all endings; the rule becomes the authority that rebuilds compulsively to avoid facing what was lost
+  mode: the material power used to bury devastation under new construction; the dominion becomes the system that never lets an ending be true
+  loss: the honest completion the 10 witnesses; the rule becomes the system of compulsive rebuilding that never mourns
+  key_terms: denying dominion, buried ending, compulsive rebuilding, unmourning rule
+
+dynamic_dependency:
+  mechanism: The King needs the 10 to honor endings before rebuilding; the devastation needs the authority to provide the ground from which genuine renewal can rise
+  function: Pentacles-King supplies the foundation and resources for genuine rebuilding; Swords-10 supplies the honest witnessing of ending that makes renewal real rather than denial
+  integration_outcome: dominion that honors endings and then rebuilds; the rule that witnesses devastation before founding the new
+  key_terms: renewing dominion, honored ending, grounded rebuilding, honest rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, Page of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+numerical_relation: 14 + 11 = 25 → 2+5=7 (VII The Chariot; material authority meets youthful truth; the abundant rule meets the new thought)
+elemental_bridge: Earth's settled dominion meets Air's arriving idea; the ruling structure meets the youthful messenger
+threshold_type: The King mentoring sharp learning; powerful stewardship meeting the new thought
+
+dynamic_genesis:
+  mechanism: The King's dominion gives the Page's new ideas a place to be tested; the powerful structure provides the ground where youthful thought can prove itself
+  process: the material authority funds and shelters the learner's inquiry; the powerful stewardship tests the new thought against reality; the dominion becomes the proving ground for arriving ideas
+  outcome: new thought tested by dominion; the youthful idea given ground to prove its worth
+  key_terms: testing dominion, grounded inquiry, mentoring rule, proving stewardship
+
+dynamic_antagonism:
+  mechanism: The King's settled certainty clashes with the Page's restless questioning; the ruler trusts proven structure while the messenger challenges with new ideas
+  tension_axis: the settled dominion versus the questioning thought; proven authority versus restless inquiry
+  king_of_pentacles_position: The dominion is proven; the Page's untested ideas threaten what works
+  page_of_swords_position: New thought must be free to question; the King's certainty stifles the inquiry that improves
+  key_terms: urged inquiry, defended certainty, insisted questioning, kept structure
+
+dynamic_inhibition:
+  mechanism: The King's settled certainty prevents the Page's full questioning; the dominion's proven structure refuses the new thought that would test it
+  blockade_nature: the youthful inquiry cannot flourish while the authority insists its proven ways need no questioning
+  pentacles_state: the King becomes closed; the powerful stewardship turns into the system that refuses examination
+  consequence: the inquiry is stifled; the King's certainty prevents the Page's questioning thought
+  key_terms: closed rule, stifled inquiry, refused questioning, certain dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that punishes the Page's questions; the rule becomes the authority that crushes inquiry to protect itself
+  mode: the material power used to silence the messenger; the dominion becomes the system that forbids the new thought
+  loss: the genuine improvement the Page's questions offer; the rule becomes the system of unchallengeable certainty
+  key_terms: silencing dominion, crushed inquiry, forbidden questioning, unchallengeable rule
+
+dynamic_dependency:
+  mechanism: The King needs the Page to keep the dominion questioning and improving; the new thought needs the authority to provide the ground that tests and realizes ideas
+  function: Pentacles-King supplies the proving ground and resources that test new ideas; Swords-Page supplies the fresh inquiry that keeps the dominion from settling into unexamined certainty
+  integration_outcome: dominion kept sharp by questioning; the rule that mentors inquiry while grounding it in proven structure
+  key_terms: questioning dominion, mentored inquiry, tested thought, improving rule
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, Knight of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Driven Mind, The Relentless Seeker, The Truth-Pursuer, Clarity-Driven Movement
+numerical_relation: 14 + 12 = 26 → 2+6=8 (VIII Justice; material authority meets driven intellect; the abundant rule meets the relentless seeker)
+elemental_bridge: Earth's measured dominion meets Air's relentless drive; the ruling stability meets the charging seeker
+threshold_type: The King's dominion and the driven mind; powerful stewardship meeting relentless pursuit
+
+dynamic_genesis:
+  mechanism: The King's dominion gives the Knight's relentless drive a direction worth pursuing; the powerful stewardship channels the charging intellect toward lasting purpose
+  process: the material authority provides the goals worth the Knight's pursuit; the powerful structure directs the driven mind toward what endures; the dominion becomes the purpose behind the charge
+  outcome: drive directed by dominion; the relentless seeker given a purpose worth pursuing
+  key_terms: directing dominion, channeled drive, purposeful rule, guiding stewardship
+
+dynamic_antagonism:
+  mechanism: The King's measured deliberation clashes with the Knight's headlong drive; the ruler weighs each step while the seeker charges ahead
+  tension_axis: the measured dominion versus the relentless charge; deliberate rule versus driven pursuit
+  king_of_pentacles_position: The dominion requires deliberation; the Knight's reckless charge destroys what care has built
+  knight_of_swords_position: The pursuit cannot wait; the King's deliberation lets the moment and the truth escape
+  key_terms: urged speed, defended deliberation, insisted pursuit, kept measure
+
+dynamic_inhibition:
+  mechanism: The King's deliberation prevents the Knight's full charge; the dominion's measured pace will not release the driven mind to pursue
+  blockade_nature: the relentless pursuit cannot proceed while the authority insists on careful deliberation
+  pentacles_state: the King becomes obstructive; the powerful stewardship turns into the system that holds back necessary drive
+  consequence: the pursuit is checked; the King's deliberation prevents the Knight's relentless drive
+  key_terms: obstructive rule, checked pursuit, held drive, deliberating dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that harnesses the Knight's drive for ruthless ends; the rule becomes the authority that aims relentless pursuit at conquest
+  mode: the material power directing the driven mind toward domination; the dominion becomes the system that weaponizes relentless pursuit
+  loss: the genuine truth-seeking the Knight could serve; the rule becomes the system that turns drive into ruthless conquest
+  key_terms: weaponizing dominion, ruthless pursuit, directed drive, conquering rule
+
+dynamic_dependency:
+  mechanism: The King needs the Knight's drive to keep the dominion from stagnating; the relentless seeker needs the authority to provide the worthy purpose that gives pursuit meaning
+  function: Pentacles-King supplies the lasting goals and grounding that give the charge direction; Swords-Knight supplies the relentless drive that keeps the dominion from settling into inertia
+  integration_outcome: dominion driven toward worthy ends; the rule that channels relentless pursuit into lasting purpose
+  key_terms: driven dominion, purposeful pursuit, directed rule, vital stewardship
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, Queen of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+numerical_relation: 14 + 13 = 27 → 2+7=9 (IX The Hermit; material authority meets discerning mind; the abundant rule meets clear authority)
+elemental_bridge: Earth's material dominion meets Air's discerning judgment; the ruling structure meets the sovereign intellect
+threshold_type: The King and the discerning Queen; powerful stewardship meeting clear authority
+
+dynamic_genesis:
+  mechanism: The Queen's discernment sharpens the King's dominion; the clear intellect ensures the material rule judges wisely what it commands
+  process: the material authority gains clarity through the Queen's discernment; the powerful structure is guided by clear judgment; the dominion learns to rule with sharpened understanding
+  outcome: dominion sharpened by discernment; the rule guided by clear sovereign judgment
+  key_terms: discerning dominion, clear rule, judged authority, sharpened stewardship
+
+dynamic_antagonism:
+  mechanism: The King's material warmth clashes with the Queen's hard clarity; the ruler values the grounded and human while the discerning mind values the cleanly judged
+  tension_axis: the material warmth versus the hard clarity; grounded dominion versus cutting discernment
+  king_of_pentacles_position: The dominion must remain humane; the Queen's hard clarity can become cold judgment
+  queen_of_swords_position: Rule requires clear discernment; the King's warmth blurs the judgments that good governance demands
+  key_terms: urged clarity, defended warmth, insisted discernment, kept humanity
+
+dynamic_inhibition:
+  mechanism: The King's material warmth prevents the Queen's full discernment; the dominion's preference for the humane blunts the clear judgment the Queen offers
+  blockade_nature: the sharp discernment cannot fully operate while the authority softens every hard judgment
+  pentacles_state: the King becomes indulgent; the powerful stewardship turns into the system that avoids necessary hard judgments
+  consequence: the discernment is blunted; the King's warmth prevents the Queen's clear judgment
+  key_terms: indulgent rule, blunted discernment, softened judgment, lenient dominion
+
+dynamic_devolution:
+  mechanism: The King corrupts dominion into a system that uses the Queen's clarity for cold control; the discerning mind becomes the instrument of merciless rule
+  mode: the material power wedded to merciless discernment; the dominion becomes the system that judges without warmth and rules without mercy
+  loss: the humane balance warmth and clarity could form; the rule becomes the system of cold, exacting control
+  key_terms: merciless dominion, cold discernment, exacting rule, unmerciful authority
+
+dynamic_dependency:
+  mechanism: The King needs the Queen's discernment to rule wisely; the clear intellect needs the authority to ground its judgments in material reality and human warmth
+  function: Pentacles-King supplies the grounded warmth and material foundation that keep discernment humane; Swords-Queen supplies the clear judgment that keeps the dominion from indulgent imprecision
+  integration_outcome: dominion that judges clearly while remaining humane; the rule combining material warmth with sovereign discernment
+  key_terms: discerning dominion, humane clarity, wise rule, balanced authority
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS
+
+---
+
+card_pair: King of Pentacles, King of Swords
+archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
+archetype_swords: The Sovereign Intellect, The Absolute Authority, The Discerning Dominion, Truth-Ruled Power
+numerical_relation: 14 + 14 = 28 → 2+8=10 (X The Wheel of Fortune; material authority meets sovereign intellect; the abundant rule meets truth-ruled power)
+elemental_bridge: Earth's material command meets Air's intellectual sovereignty; the material dominion meets the truth-ruled power
+threshold_type: Two Kings ruling together; material and intellectual authority unified
+
+dynamic_genesis:
+  mechanism: The two Kings rule in complementarity; material dominion and intellectual sovereignty together create complete governance
+  process: the King of Swords' clear judgment is made concrete through the King of Pentacles' material dominion; the King of Pentacles' authority is sharpened by intellectual rigor; together they rule with grounded clarity
+  outcome: governance made complete; material substance and intellectual authority unified
+  key_terms: complete dominion, unified rule, grounded clarity, integrated authority
+
+dynamic_antagonism:
+  mechanism: The King of Pentacles' material grounding clashes with the King of Swords' abstract principle; the material ruler values the concrete while the intellectual king values the cleanly reasoned
+  tension_axis: the concrete dominion versus the abstract principle; material rule versus intellectual law
+  king_of_pentacles_position: The dominion must serve concrete reality; abstract principle ignores the material ground that rule depends on
+  king_of_swords_position: Rule must follow clear principle; the King of Pentacles' material focus muddies the law that governance requires
+  key_terms: urged principle, defended ground, insisted clarity, kept substance
+
+dynamic_inhibition:
+  mechanism: The King of Pentacles' material grounding prevents the King of Swords' full intellectual rule; the concrete dominion resists the abstract principle the intellect would impose
+  blockade_nature: the clear principle cannot fully govern while the material authority insists on concrete exception
+  pentacles_state: the King of Pentacles becomes obstinate; the material stewardship turns into the system that resists principled reform
+  consequence: the intellectual rule is limited; the material authority prevents the King of Swords' full principled governance
+  key_terms: obstinate dominion, limited principle, resisted reform, concrete rule
+
+dynamic_devolution:
+  mechanism: The King of Pentacles corrupts dominion into materialist control; the King of Swords' intellect becomes corrupted into cold tyranny of principle
+  mode: material power wedded to merciless law; concrete dominion and abstract principle become twin instruments of control; they become corrupted rulers
+  loss: the grounded clarity that could serve all; they teach each other to rule without mercy
+  key_terms: tyrannical dominion, cold principle, merciless rule, corrupted authority
+
+dynamic_dependency:
+  mechanism: Each King needs the other to rule well; the King of Pentacles needs clear principle, the King of Swords needs material grounding
+  function: Pentacles-King supplies the material substance and concrete ground that give the King of Swords' principles practical effect; Swords-King supplies the clear judgment that keeps the dominion from ruling by mere appetite
+  integration_outcome: dominion ruled with grounded clarity; material authority and intellectual sovereignty working in unified service
+  key_terms: complete dominion, principled rule, grounded clarity, integrated authority
+
+structural_metadata:
+  series_count: 14
+  format_version: 1.3
+  ontology: jodorowskian numerological psychology with air graduation
+  encoding: UTF-8
+  elemental_primary: earth (pentacles) to air (swords)
+  numerical_axis: 14-1 through 14-14
+  uid: KOPS

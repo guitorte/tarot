@@ -50,7 +50,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 2 of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Difficult Choice, The Binding Decision, The Divided Will, Conflict Bound
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 numerical_relation: 13 + 2 = 15 (XV The Devil; nurturing mastery meets division; abundant authority confronts divided choice)
 elemental_bridge: Earth's unified care meets Air's conflicted thought; the whole management meets the split decision
 threshold_type: The Queen facing the unbearable choice; mastery meeting impossible decision
@@ -100,7 +100,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 3 of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Hard Truth, The Necessary Wound, The Clarity That Cuts, Pain Witnessed
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 numerical_relation: 13 + 3 = 16 (XVI The Tower; nurturing mastery meets pain; abundant authority confronts necessary wounding)
 elemental_bridge: Earth's gentle care meets Air's sharp wounding; the nurturing ground meets the cutting truth
 threshold_type: The Queen witnessing necessary pain; mastery meeting the hard truth
@@ -150,7 +150,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 4 of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Necessary Rest, The Pause Earned, The Truce Held, Respite Granted
+archetype_swords: Rest, truce, peace, mental stillness, respite
 numerical_relation: 13 + 4 = 17 (XVII The Star; nurturing mastery meets rest; abundant authority meets earned respite)
 elemental_bridge: Earth's sustaining care meets Air's contemplative rest; the nurturing foundation meets the necessary pause
 threshold_type: The Queen providing sanctuary; mastery meeting earned respite
@@ -200,7 +200,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 5 of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Pyrrhic Victory, The Hollow Win, The Exhausted Triumph, Cost Acknowledged
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 numerical_relation: 13 + 5 = 18 (XVIII The Moon; nurturing mastery meets hollow victory; abundant authority confronts costly win)
 elemental_bridge: Earth's generous provision meets Air's exhausted triumph; the nurturing ground meets the bitter success
 threshold_type: The Queen caring for the victor; mastery meeting the cost of victory
@@ -250,7 +250,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 6 of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Passage Through Difficulty, The Boat Passage, The Transition Made, Movement Toward Clarity
+archetype_swords: Travel, transition, movement toward solution, passage, departure
 numerical_relation: 13 + 6 = 19 (XIX The Sun; nurturing mastery meets passage; abundant authority meets transition)
 elemental_bridge: Earth's rooted care meets Air's flowing transition; the nurturing foundation meets the passage through difficulty
 threshold_type: The Queen supporting passage; mastery meeting transition
@@ -300,7 +300,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 7 of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Cunning Path, The Retreat Made, The Strategy Deployed, Wisdom in Withdrawal
+archetype_swords: Deception, theft, cunning, strategic secrecy, hidden strategy
 numerical_relation: 13 + 7 = 20 (XX Judgement; nurturing mastery meets cunning; abundant authority confronts strategic withdrawal)
 elemental_bridge: Earth's open care meets Air's hidden strategy; the transparent nurturing meets the strategic retreat
 threshold_type: The Queen discovering hidden strategy; mastery meeting cunning path
@@ -350,7 +350,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 8 of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The New Truth, The Clarity Arrived, The Insight Witnessed, Thought Ignited
+archetype_swords: Imprisonment, constraint, mental bondage, restriction, entrapment
 numerical_relation: 13 + 8 = 21 (XXI The World; nurturing mastery meets clarifying insight; abundant authority encounters decisive thought)
 elemental_bridge: Earth's grounded care meets Air's liberating clarity; the nurturing foundation meets the freeing insight
 threshold_type: The Queen understanding the prisoner's liberation; mastery meeting the clarity that frees
@@ -400,7 +400,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 9 of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Repeated Thought, The Night-Mind Spinning, The Worry-Spiral, Obsession Witnessed
+archetype_swords: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
 numerical_relation: 13 + 9 = 22 → 2+2=4 (IV The Emperor; nurturing mastery meets obsession; abundant authority confronts worry-spiral)
 elemental_bridge: Earth's grounded calm meets Air's spinning anxiety; the rooted care meets the obsessive thought
 threshold_type: The Queen soothing the tortured mind; mastery meeting the anxiety spiral
@@ -450,7 +450,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, 10 of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Completion Through Devastation, The Final Wound, The Piercing Truth, Ending Witnessed
+archetype_swords: Destruction, ending, inevitable pain, completion through ruin, death-knife
 numerical_relation: 13 + 10 = 23 → 2+3=5 (V The Pope; nurturing mastery meets devastation; abundant authority confronts final wound)
 elemental_bridge: Earth's sustaining presence meets Air's final wounding; the nurturing foundation meets the piercing truth
 threshold_type: The Queen ministering to the fallen; mastery meeting devastating wound
@@ -500,7 +500,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, Page of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
 numerical_relation: 13 + 11 = 24 → 2+4=6 (VI The Lovers; nurturing mastery meets youthful truth; abundant authority encounters the young messenger)
 elemental_bridge: Earth's grounded care meets Air's quick intelligence; the nurturing foundation meets the arriving message
 threshold_type: The Queen teaching the young messenger; mastery meeting intellectual apprentice
@@ -550,7 +550,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, Knight of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Driven Mind, The Relentless Seeker, The Truth-Pursuder, Clarity-Driven Movement
+archetype_swords: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
 numerical_relation: 13 + 12 = 25 → 2+5=7 (VII The Chariot; nurturing mastery meets driven intellect; abundant authority encounters the relentless seeker)
 elemental_bridge: Earth's rooted care meets Air's driven movement; the grounded foundation meets the restless intellect
 threshold_type: The Queen sustaining the seeker; mastery meeting the relentless mind
@@ -600,7 +600,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, Queen of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
 numerical_relation: 13 + 13 = 26 → 2+6=8 (VIII Justice; nurturing mastery meets sovereign intellect; abundant authority encounters discerning clarity)
 elemental_bridge: Earth's grounded care meets Air's sharp discernment; the nurturing foundation meets the clarifying mind
 threshold_type: Two Queens ruling with wisdom; mastery meeting intellectual authority
@@ -650,7 +650,7 @@ structural_metadata:
 
 card_pair: Queen of Pentacles, King of Swords
 archetype_pentacles: Nurturing mastery, practical wisdom, abundant care, earthly authority, generous management
-archetype_swords: The Sovereign Intellect, The Absolute Authority, The Discerning Dominion, Truth-Ruled Power
+archetype_swords: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
 numerical_relation: 13 + 14 = 27 → 2+7=9 (IX The Hermit; nurturing mastery meets intellectual authority; abundant authority encounters sovereign intellect)
 elemental_bridge: Earth's grounded care meets Air's sovereign intellect; the practical management meets intellectual dominion
 threshold_type: The Queen and King together; mastery meeting intellectual authority

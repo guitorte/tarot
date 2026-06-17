@@ -50,7 +50,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 2 of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Difficult Choice, The Binding Decision, The Divided Will, Conflict Bound
+archetype_swords: Stalemate, choice, decision avoidance, binding agreement, blocked clarity
 numerical_relation: 14 + 2 = 16 (XVI The Tower; material authority meets difficult choice; the abundant rule meets divided will)
 elemental_bridge: Earth's decisive command meets Air's bound stalemate; the ruling authority meets the blocked decision
 threshold_type: The King confronting indecision; powerful stewardship meeting the divided will
@@ -100,7 +100,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 3 of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Hard Truth, The Necessary Wound, The Clarity That Cuts, Pain Witnessed
+archetype_swords: Heartbreak, separation, sorrow, painful truth, unavoidable pain
 numerical_relation: 14 + 3 = 17 (XVII The Star; material authority meets necessary wound; the abundant rule meets painful truth)
 elemental_bridge: Earth's enduring dominion meets Air's piercing sorrow; the ruling foundation meets the wounding truth
 threshold_type: The King's dominion facing pain; powerful stewardship meeting the necessary wound
@@ -150,7 +150,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 4 of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Necessary Rest, The Pause Earned, The Truce Held, Respite Granted
+archetype_swords: Rest, truce, peace, mental stillness, respite
 numerical_relation: 14 + 4 = 18 (XVIII The Moon; material authority meets necessary rest; the abundant rule meets earned pause)
 elemental_bridge: Earth's tireless dominion meets Air's stillness; the ruling labor meets the earned rest
 threshold_type: The King's dominion at rest; powerful stewardship meeting necessary pause
@@ -200,7 +200,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 5 of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Pyrrhic Victory, The Hollow Win, The Exhausted Triumph, Cost Acknowledged
+archetype_swords: Conflict, defeat, hollow victory, defeat-at-cost, contested truth
 numerical_relation: 14 + 5 = 19 (XIX The Sun; material authority meets hollow victory; the abundant rule meets costly triumph)
 elemental_bridge: Earth's stable dominion meets Air's pyrrhic win; the ruling foundation meets the costly conquest
 threshold_type: The King's dominion and the hollow win; powerful stewardship meeting costly triumph
@@ -250,7 +250,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 6 of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Passage Through Difficulty, The Boat Passage, The Transition Made, Movement Toward Clarity
+archetype_swords: Travel, transition, movement toward solution, passage, departure
 numerical_relation: 14 + 6 = 20 (XX Judgement; material authority meets passage; the abundant rule meets transition toward clarity)
 elemental_bridge: Earth's anchored dominion meets Air's crossing passage; the ruling foundation meets the transition made
 threshold_type: The King's dominion in transition; powerful stewardship meeting the necessary crossing
@@ -300,7 +300,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 7 of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Cunning Path, The Retreat Made, The Strategy Deployed, Wisdom in Withdrawal
+archetype_swords: Deception, theft, cunning, strategic secrecy, hidden strategy
 numerical_relation: 14 + 7 = 21 (XXI The World; material authority meets cunning; the abundant rule meets strategic withdrawal)
 elemental_bridge: Earth's straightforward dominion meets Air's cunning strategy; the ruling power meets the strategic mind
 threshold_type: The King's dominion and cunning; powerful stewardship meeting the strategic path
@@ -350,7 +350,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 8 of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Bound One, The Prisoner, The Restricted Mind, Constraint Consciousness
+archetype_swords: Imprisonment, constraint, mental bondage, restriction, entrapment
 numerical_relation: 14 + 8 = 22 → 2+2=4 (IV The Emperor; material authority meets constraint; the abundant rule meets the bound mind)
 elemental_bridge: Earth's freeing resources meet Air's self-made prison; the ruling power meets the bound one
 threshold_type: The King's dominion and the prisoner; powerful stewardship meeting the restricted mind
@@ -400,7 +400,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 9 of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Repeated Thought, The Night-Mind Spinning, The Worry-Spiral, Obsession Witnessed
+archetype_swords: Anxiety, nightmares, mental anguish, obsessive thought, tormenting mind
 numerical_relation: 14 + 9 = 23 → 2+3=5 (V The Pope; material authority meets worry-spiral; the abundant rule meets the night-mind)
 elemental_bridge: Earth's grounding dominion meets Air's spinning anguish; the ruling solidity meets the worried mind
 threshold_type: The King's dominion and the worry-spiral; powerful stewardship meeting night anguish
@@ -450,7 +450,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, 10 of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Completion Through Devastation, The Final Wound, The Piercing Truth, Ending Witnessed
+archetype_swords: Destruction, ending, inevitable pain, completion through ruin, death-knife
 numerical_relation: 14 + 10 = 24 → 2+4=6 (VI The Lovers; material authority meets devastation; the abundant rule meets the final ending)
 elemental_bridge: Earth's enduring dominion meets Air's final devastation; the ruling foundation meets the witnessed ending
 threshold_type: The King's dominion and the final wound; powerful stewardship meeting complete devastation
@@ -500,7 +500,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, Page of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Messenger, The Youthful Truth, The New Thought, Idea Arriving
+archetype_swords: Curiosity, investigation, youthful inquiry, intellectual potential, messenger
 numerical_relation: 14 + 11 = 25 → 2+5=7 (VII The Chariot; material authority meets youthful truth; the abundant rule meets the new thought)
 elemental_bridge: Earth's settled dominion meets Air's arriving idea; the ruling structure meets the youthful messenger
 threshold_type: The King mentoring sharp learning; powerful stewardship meeting the new thought
@@ -550,7 +550,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, Knight of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Driven Mind, The Relentless Seeker, The Truth-Pursuer, Clarity-Driven Movement
+archetype_swords: Action, haste, intellectual combat, aggressive pursuit, direct confrontation
 numerical_relation: 14 + 12 = 26 → 2+6=8 (VIII Justice; material authority meets driven intellect; the abundant rule meets the relentless seeker)
 elemental_bridge: Earth's measured dominion meets Air's relentless drive; the ruling stability meets the charging seeker
 threshold_type: The King's dominion and the driven mind; powerful stewardship meeting relentless pursuit
@@ -600,7 +600,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, Queen of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Discerning Mind, The Clear Authority, The Sovereign Intellect, Clarity Hard-Won
+archetype_swords: Intellectual mastery, discernment, independent thought, sharpened perception, bitter wisdom
 numerical_relation: 14 + 13 = 27 → 2+7=9 (IX The Hermit; material authority meets discerning mind; the abundant rule meets clear authority)
 elemental_bridge: Earth's material dominion meets Air's discerning judgment; the ruling structure meets the sovereign intellect
 threshold_type: The King and the discerning Queen; powerful stewardship meeting clear authority
@@ -650,7 +650,7 @@ structural_metadata:
 
 card_pair: King of Pentacles, King of Swords
 archetype_pentacles: Material authority, abundant leadership, earthly dominion, prosperous rule, powerful stewardship
-archetype_swords: The Sovereign Intellect, The Absolute Authority, The Discerning Dominion, Truth-Ruled Power
+archetype_swords: Intellectual authority, absolute truth, cold logic, commanding clarity, supreme judgment
 numerical_relation: 14 + 14 = 28 → 2+8=10 (X The Wheel of Fortune; material authority meets sovereign intellect; the abundant rule meets truth-ruled power)
 elemental_bridge: Earth's material command meets Air's intellectual sovereignty; the material dominion meets the truth-ruled power
 threshold_type: Two Kings ruling together; material and intellectual authority unified

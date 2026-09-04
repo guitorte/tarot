@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17140f">
+<title>02 · Carrossel de lentes</title>
+<link rel="stylesheet" href="data/base.css">
+<style>
+  :root{--paper:#17140f;--paper-2:#241f18;--ink:#f3ece0;--ink-2:#cfc4b2;--muted:#8f8474;
+        --line:rgba(243,236,224,.14);--gold:#e0a94a}
+  .kw{color:#fff;box-shadow:inset 0 -.42em 0 rgba(224,169,74,.3)}
+  html,body{height:100%}
+  body{height:100dvh;display:flex;flex-direction:column;overflow:hidden;
+       padding:calc(8px + var(--safe-t)) 0 0}
+
+  /* --- palco: as duas cartas --- */
+  .stage{flex:0 0 auto;display:flex;align-items:flex-end;justify-content:center;gap:10px;
+         padding:6px 16px 0;height:34dvh;min-height:190px}
+  .card{position:relative;height:100%;aspect-ratio:11/18;border-radius:12px;overflow:hidden;
+        background:var(--paper-2);box-shadow:0 10px 26px rgba(0,0,0,.5)}
+  .card:first-child{transform:rotate(-2.5deg)}
+  .card:last-child{transform:rotate(2.5deg)}
+  .card img{width:100%;height:100%;object-fit:cover}
+  .card .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+    color:var(--muted);font-size:12.5px;text-align:center;padding:14px;line-height:1.4;
+    border:1px dashed var(--line);border-radius:12px}
+  .card .role{position:absolute;top:8px;left:8px;font-size:9.5px;letter-spacing:.12em;
+    text-transform:uppercase;background:rgba(0,0,0,.55);padding:4px 7px;border-radius:5px;color:#fff}
+
+  .pairline{flex:0 0 auto;text-align:center;font-family:var(--serif);font-size:16.5px;
+    padding:12px 16px 4px;color:var(--ink)}
+  .pairline .ar{color:var(--gold);margin:0 6px}
+  .pairline small{display:block;font-family:var(--sans);font-size:11.5px;color:var(--muted);
+    letter-spacing:.05em;margin-top:3px}
+
+  /* --- carrossel de lentes: uma por tela, deslizando --- */
+  .rail{flex:1 1 auto;display:flex;overflow-x:auto;overflow-y:hidden;
+    scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none;
+    padding:8px 0 0;gap:0}
+  .rail::-webkit-scrollbar{display:none}
+  .pane{flex:0 0 100%;scroll-snap-align:center;padding:0 18px;overflow-y:auto;
+    overscroll-behavior:contain}
+  .pane-in{background:var(--paper-2);border-radius:18px;padding:16px 16px 18px;min-height:100%;
+    border-top:3px solid var(--ac)}
+  .lhead{display:flex;align-items:center;gap:9px}
+  .lnum{width:26px;height:26px;border-radius:50%;background:var(--ac);color:#12100c;
+    font-size:13px;font-weight:700;display:flex;align-items:center;justify-content:center}
+  .lname{font-family:var(--serif);font-size:19px;font-weight:600}
+  .gloss{font-size:13px;color:var(--muted);margin:7px 0 14px;line-height:1.5}
+  .gloss em{font-style:normal;color:var(--ink-2)}
+  .seed{font-size:17px;line-height:1.45;color:var(--ink-2);margin:0 0 13px;padding-left:14px;
+    border-left:2px solid rgba(224,169,74,.35)}
+
+  .dots{flex:0 0 auto;display:flex;justify-content:center;gap:7px;padding:10px 0 4px}
+  .dot{width:7px;height:7px;border-radius:50%;background:var(--line);transition:background .2s,width .2s}
+  .dot.on{background:var(--gold);width:20px;border-radius:4px}
+
+  /* --- dock no polegar --- */
+  .dock{flex:0 0 auto;display:flex;gap:10px;padding:8px 16px calc(12px + var(--safe-b))}
+  .btn{flex:1;min-height:52px;border-radius:15px;background:var(--paper-2);color:var(--ink);
+    font-size:15px;display:flex;align-items:center;justify-content:center;gap:8px;font-weight:500}
+  .btn.main{background:var(--gold);color:#191509;font-weight:650}
+  .btn:active{transform:translateY(1px)}
+  .empty{padding:24px;text-align:center;color:var(--muted);font-size:15px;line-height:1.6}
+</style>
+</head>
+<body>
+<div class="stage">
+  <button class="card" id="c0" onclick="choose(0)"><span class="role">origem</span>
+    <span class="ph">toque para escolher</span></button>
+  <button class="card" id="c1" onclick="choose(1)"><span class="role">destino</span>
+    <span class="ph">toque para escolher</span></button>
+</div>
+
+<div class="pairline" id="pairline">duas cartas, cinco lentes<small>deslize as lentes com o polegar →</small></div>
+
+<div class="rail" id="rail"><div class="pane"><div class="pane-in" style="--ac:#8f8474">
+  <div class="empty">Escolha as duas cartas acima.<br>As cinco lentes viram cinco telas — você desliza, não rola.</div>
+</div></div></div>
+
+<div class="dots" id="dots"></div>
+
+<div class="dock">
+  <button class="btn" onclick="sortear()">🎲 Sortear</button>
+  <button class="btn main" onclick="remix()">✦ Mais ideias</button>
+</div>
+
+<a class="back" href="index.html">layouts ↑</a>
+
+<script src="data/deck.js"></script>
+<script src="data/img.js"></script>
+<script src="data/engine.js"></script>
+<script src="data/picker.js"></script>
+<script>
+const T=TAROT; let sel=[null,null];
+const rail=document.getElementById('rail'), dots=document.getElementById('dots');
+
+function choose(i){
+  Picker.open({title:i===0?'Carta de origem':'Carta de destino',selected:sel[i],
+    onPick:n=>{sel[i]=n;paint();render();}});
+}
+function paint(){
+  [0,1].forEach(i=>{
+    const el=document.getElementById('c'+i),n=sel[i];
+    el.innerHTML=`<span class="role">${i===0?'origem':'destino'}</span>`+
+      (n?`<img src="${T.imgThumb(n)}" alt="${T.cleanName(n)}">`
+        :`<span class="ph">toque para escolher</span>`);
+  });
+  const p=document.getElementById('pairline');
+  p.innerHTML = (sel[0]&&sel[1])
+    ? `${T.cleanName(sel[0])}<span class="ar">→</span>${T.cleanName(sel[1])}<small>deslize as lentes →</small>`
+    : `duas cartas, cinco lentes<small>deslize as lentes com o polegar →</small>`;
+}
+function render(){
+  if(!sel[0]||!sel[1]){dots.innerHTML='';return;}
+  rail.innerHTML=T.readingFor(sel[0],sel[1]).map(r=>
+    `<div class="pane"><div class="pane-in" style="--ac:${r.lens.ac}">
+      <div class="lhead"><span class="lnum">${r.lens.n}</span><span class="lname">${r.lens.name}</span></div>
+      <p class="gloss">${r.lens.gloss}</p>
+      ${r.seeds.map(s=>`<p class="seed">${s}</p>`).join('')}
+    </div></div>`).join('');
+  dots.innerHTML=T.LENSES.map((l,i)=>`<span class="dot${i===0?' on':''}"></span>`).join('');
+  rail.scrollTo({left:0});
+}
+rail.addEventListener('scroll',()=>{
+  const i=Math.round(rail.scrollLeft/rail.clientWidth);
+  document.querySelectorAll('.dot').forEach((d,k)=>d.classList.toggle('on',k===i));
+},{passive:true});
+function sortear(){sel=T.randomPair();T.buzz(12);paint();render();}
+function remix(){if(sel[0]&&sel[1]){const at=Math.round(rail.scrollLeft/rail.clientWidth);
+  render();rail.scrollLeft=at*rail.clientWidth;T.buzz(8);}else sortear();}
+paint();
+</script>
+</body>
+</html>

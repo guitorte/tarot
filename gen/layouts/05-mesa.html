@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#1b2a24">
+<title>05 · Mesa</title>
+<link rel="stylesheet" href="data/base.css">
+<style>
+  :root{--felt:#1b2a24;--felt-2:#22352d;--paper:#f6f2e9;--ink:#221f1a;--gold:#c9a227}
+  html,body{height:100%}
+  body{height:100dvh;overflow:hidden;background:
+    radial-gradient(120% 80% at 50% 18%,#2b4238,var(--felt) 70%);color:#efe8da}
+
+  .title{position:absolute;top:calc(16px + var(--safe-t));left:0;right:0;text-align:center;z-index:3}
+  .title h1{font-family:var(--serif);font-size:19px;margin:0;font-weight:600;letter-spacing:.02em}
+  .title p{font-size:12px;color:rgba(239,232,218,.55);margin:4px 0 0}
+
+  .table{position:absolute;top:0;left:0;right:0;height:58dvh;display:flex;align-items:center;
+    justify-content:center;gap:16px;padding:56px 20px 0}
+  .seat{width:38vw;max-width:186px;aspect-ratio:11/18;perspective:900px}
+  .flip{width:100%;height:100%;position:relative;transform-style:preserve-3d;
+    transition:transform .55s cubic-bezier(.4,.9,.3,1)}
+  .seat.up .flip{transform:rotateY(180deg)}
+  .face{position:absolute;inset:0;backface-visibility:hidden;border-radius:12px;overflow:hidden;
+    box-shadow:0 14px 30px rgba(0,0,0,.45)}
+  .back-face{background:
+      repeating-linear-gradient(45deg,#2f4d6e,#2f4d6e 7px,#27415d 7px,#27415d 14px);
+    border:5px solid #f2ece0;display:flex;align-items:center;justify-content:center}
+  .back-face:after{content:"✦";font-size:34px;color:rgba(242,236,224,.75)}
+  .front-face{transform:rotateY(180deg);background:#0d0b09}
+  .front-face img{width:100%;height:100%;object-fit:cover}
+  .seat .lbl{position:absolute;left:0;right:0;bottom:-26px;text-align:center;font-size:11px;
+    letter-spacing:.12em;text-transform:uppercase;color:rgba(239,232,218,.5)}
+  .seat .nm{position:absolute;left:0;right:0;bottom:-26px;text-align:center;font-family:var(--serif);
+    font-size:14px;color:#efe8da}
+
+  .tools{position:absolute;top:calc(58dvh + 14px);left:0;right:0;display:flex;justify-content:center;
+    gap:10px;z-index:3}
+  .tools button{min-height:46px;padding:0 18px;border-radius:999px;font-size:14px;
+    background:rgba(239,232,218,.1);color:#efe8da;border:1px solid rgba(239,232,218,.16)}
+  .tools button.pri{background:var(--gold);color:#1c1707;font-weight:650;border-color:transparent}
+
+  /* --- folha de leitura que sobe --- */
+  .sheet{position:fixed;left:0;right:0;bottom:0;z-index:30;height:88dvh;background:var(--paper);
+    color:var(--ink);border-radius:22px 22px 0 0;box-shadow:0 -12px 40px rgba(0,0,0,.45);
+    transform:translateY(100%);transition:transform .38s cubic-bezier(.22,1,.36,1);
+    display:flex;flex-direction:column}
+  .sheet.peek{transform:translateY(calc(100dvh - 34dvh - var(--safe-b)*0))}
+  .sheet.peek{transform:translateY(66dvh)}
+  .sheet.full{transform:translateY(0)}
+  .handle{padding:10px 0 6px;flex:0 0 auto}
+  .handle .bar{width:44px;height:5px;border-radius:5px;background:rgba(34,31,26,.2);margin:0 auto}
+  .sheet .pairline{text-align:center;font-family:var(--serif);font-size:16px;padding:2px 20px 10px;
+    flex:0 0 auto;color:var(--ink)}
+  .sheet .pairline span{color:var(--gold)}
+  .scroll{overflow-y:auto;overscroll-behavior:contain;padding:0 20px calc(24px + var(--safe-b));flex:1}
+  .lens{padding:14px 0;border-top:1px solid rgba(34,31,26,.1)}
+  .lhead{display:flex;align-items:baseline;gap:9px;margin-bottom:8px}
+  .lname{font-family:var(--serif);font-size:17px;font-weight:600}
+  .lshort{font-size:12px;color:#948a7a}
+  .seed{font-size:16.5px;line-height:1.45;color:#5b544a;margin:0 0 10px;
+    border-left:3px solid var(--ac);padding-left:11px}
+  .kw{color:var(--ink);box-shadow:inset 0 -.42em 0 rgba(201,162,39,.24)}
+</style>
+</head>
+<body>
+<div class="title"><h1>Mesa</h1><p>toque na carta para virar · segure para escolher</p></div>
+
+<div class="table">
+  <div class="seat" id="seat0">
+    <div class="flip">
+      <div class="face back-face"></div>
+      <div class="face front-face"><img id="img0" alt=""></div>
+    </div>
+    <span class="lbl" id="lbl0">origem</span>
+  </div>
+  <div class="seat" id="seat1">
+    <div class="flip">
+      <div class="face back-face"></div>
+      <div class="face front-face"><img id="img1" alt=""></div>
+    </div>
+    <span class="lbl" id="lbl1">destino</span>
+  </div>
+</div>
+
+<div class="tools">
+  <button onclick="reset()">↺ Recolher</button>
+  <button class="pri" onclick="drawBoth()">🎲 Tirar duas</button>
+</div>
+
+<div class="sheet" id="sheet">
+  <div class="handle" onclick="toggleSheet()"><div class="bar"></div></div>
+  <div class="pairline" id="pairline"></div>
+  <div class="scroll" id="scroll"></div>
+</div>
+
+<a class="back" href="index.html">layouts ↑</a>
+
+<script src="data/deck.js"></script>
+<script src="data/img.js"></script>
+<script src="data/engine.js"></script>
+<script src="data/picker.js"></script>
+<script>
+const T=TAROT; let sel=[null,null];
+const sheet=document.getElementById('sheet');
+
+[0,1].forEach(i=>{
+  const seat=document.getElementById('seat'+i);
+  let timer=null,long=false;
+  seat.addEventListener('pointerdown',()=>{long=false;timer=setTimeout(()=>{long=true;T.buzz(14);
+    Picker.open({title:i===0?'Carta de origem':'Carta de destino',selected:sel[i],
+      onPick:n=>place(i,n)});},420);});
+  ['pointerup','pointerleave','pointercancel'].forEach(ev=>
+    seat.addEventListener(ev,e=>{clearTimeout(timer);
+      if(ev==='pointerup'&&!long) flip(i);}));
+});
+
+function flip(i){
+  if(!sel[i]){ let n; do{n=T.DECK[Math.floor(Math.random()*T.DECK.length)].name;}while(n===sel[1-i]);
+    place(i,n); return; }
+  const seat=document.getElementById('seat'+i);
+  seat.classList.remove('up'); sel[i]=null; document.getElementById('lbl'+i).className='lbl';
+  document.getElementById('lbl'+i).textContent=i===0?'origem':'destino';
+  render();
+}
+function place(i,name){
+  sel[i]=name; T.buzz(10);
+  document.getElementById('img'+i).src=T.imgThumb(name);
+  const seat=document.getElementById('seat'+i); seat.classList.add('up');
+  const l=document.getElementById('lbl'+i); l.className='nm'; l.textContent=T.cleanName(name);
+  render();
+}
+function drawBoth(){
+  const p=T.randomPair(); place(0,p[0]); setTimeout(()=>place(1,p[1]),180);
+}
+function reset(){
+  sel=[null,null];
+  [0,1].forEach(i=>{document.getElementById('seat'+i).classList.remove('up');
+    const l=document.getElementById('lbl'+i);l.className='lbl';l.textContent=i===0?'origem':'destino';});
+  render();
+}
+function toggleSheet(){
+  if(sheet.classList.contains('full')){sheet.classList.remove('full');sheet.classList.add('peek');}
+  else if(sheet.classList.contains('peek')){sheet.classList.remove('peek');sheet.classList.add('full');}
+}
+function render(){
+  if(!sel[0]||!sel[1]){sheet.className='sheet';return;}
+  document.getElementById('pairline').innerHTML=
+    `${T.cleanName(sel[0])} <span>→</span> ${T.cleanName(sel[1])}`;
+  document.getElementById('scroll').innerHTML=T.readingFor(sel[0],sel[1]).map(r=>
+    `<div class="lens" style="--ac:${r.lens.ac}">
+      <div class="lhead"><span class="lname">${r.lens.name}</span><span class="lshort">${r.lens.short}</span></div>
+      ${r.seeds.map(s=>`<p class="seed">${s}</p>`).join('')}
+    </div>`).join('');
+  if(!sheet.classList.contains('full')) sheet.className='sheet peek';
+}
+</script>
+</body>
+</html>

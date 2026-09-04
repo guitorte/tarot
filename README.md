@@ -14,6 +14,8 @@ Dicionário de interpretações do Tarô com 15 mestres diferentes. App React/Vi
 
 ### [`gen/`](./gen/)
 Experimento paralelo de visualização dos Arcanos Maiores.
+Em [`gen/layouts/`](./gen/layouts/) há seis protótipos de layout do gerador para uso no
+celular (retrato, uma mão) — mesmo motor, interfaces diferentes.
 
 ### [`combinations/`](./combinations/)
 Notas e documentação sobre dinâmicas e combinações de cartas — especialmente o Mago e A Torre.

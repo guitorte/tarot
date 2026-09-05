@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f4f1e9">
+<title>Tarô do Craque — Sobreimpressão</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="data/shell.css">
+<style>
+/* SKIN 01 — RISOGRAFIA: duas tintas chapadas (rosa flúor + azul), sobreposição
+   em multiply, retícula de pontos e papel granulado. Nada de sombra macia. */
+:root{
+  --paper:#f4f1e9; --ink:#141110; --pink:#ff3f6c; --blue:#1f3fd8;
+  --display:"Archivo Black",Impact,sans-serif;
+  --body:"Archivo","Helvetica Neue",Arial,sans-serif;
+}
+body{
+  font-family:var(--body);color:var(--ink);background:var(--paper);
+  background-image:
+    radial-gradient(var(--blue) .6px,transparent .7px),
+    radial-gradient(var(--pink) .6px,transparent .7px);
+  background-size:14px 14px,14px 14px;
+  background-position:0 0,7px 7px;
+}
+body:before{ /* grão de papel */
+  content:"";position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.5;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/><feColorMatrix type='saturate' values='0'/></filter><rect width='120' height='120' filter='url(%23n)' opacity='.22'/></svg>");
+}
+.wrap,.dock,.sheet,.scrim{position:relative;z-index:1}
+
+/* cabeçalho */
+.kicker{font-size:11px;letter-spacing:.24em;text-transform:uppercase;font-weight:700;color:var(--blue)}
+h1{font-family:var(--display);font-size:40px;line-height:.92;letter-spacing:-.02em;
+  color:var(--pink);text-transform:uppercase;mix-blend-mode:multiply}
+h1 span{display:block;color:var(--blue)}
+.sub{font-size:15px;color:var(--ink);max-width:26em}
+.rule{height:8px;margin:16px 0 0;background:var(--blue);mix-blend-mode:multiply}
+
+/* par de cartas */
+.slot-label{font-size:10px;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:var(--ink)}
+.card-btn{position:relative;background:var(--pink);color:var(--paper);mix-blend-mode:multiply;
+  transition:transform .08s}
+.card-btn:before{content:"";position:absolute;inset:6px -6px -6px 6px;background:var(--blue);z-index:-1}
+.card-btn:active{transform:translate(3px,3px)}
+.card-btn .glyph{font-size:26px;line-height:1}
+.card-btn .ph{font-size:14px;font-weight:600;letter-spacing:.02em}
+.card-btn .name{font-family:var(--display);font-size:19px;text-transform:uppercase;letter-spacing:-.01em}
+.card-btn .suit{font-size:10px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;opacity:.85}
+.arrow{font-family:var(--display);font-size:22px;color:var(--blue)}
+
+/* ferramentas */
+.tool{background:transparent;border:2.5px solid var(--blue);color:var(--blue);
+  font-weight:700;font-size:14px;letter-spacing:.02em}
+.tool:active{background:var(--blue);color:var(--paper)}
+.tool svg{width:17px;height:17px}
+
+/* estados */
+.empty{border:2.5px dashed var(--blue);color:var(--ink);font-size:15.5px;line-height:1.65}
+.empty b{font-weight:700;color:var(--pink)}
+.results.show{animation:pop .4s ease both}
+@keyframes pop{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.pairline{font-family:var(--display);font-size:16px;text-transform:uppercase;letter-spacing:-.01em}
+.pairline em{font-style:normal;color:var(--pink)}
+.pairline .ar{color:var(--blue);margin:0 7px}
+
+/* lentes */
+.lens{background:var(--paper);border:2.5px solid var(--ink);box-shadow:7px 7px 0 var(--ac);
+  animation:pop .4s ease both;animation-delay:var(--d)}
+.lens-n{font-family:var(--display);font-size:15px;width:30px;height:30px;color:var(--paper);
+  background:var(--ink)}
+.lens-name{font-family:var(--display);font-size:19px;text-transform:uppercase}
+.lens-gloss{font-size:13.5px;color:#4a4340}
+.lens-gloss em{font-style:normal;color:var(--blue);font-weight:600}
+.seed{font-size:16.5px;line-height:1.4}
+.seed .dot{color:var(--pink);font-size:12px;padding-top:4px}
+.seed .txt{color:#2a2523}
+.kw{font-weight:700;color:var(--ink);background:linear-gradient(0deg,rgba(255,63,108,.35) .45em,transparent .45em)}
+.footnote{font-size:12.5px;color:#5c5551;line-height:1.6}
+
+/* dock */
+.dock{background:linear-gradient(0deg,var(--paper) 62%,rgba(244,241,233,0))}
+.gen{background:var(--blue);color:var(--paper);font-family:var(--display);font-size:17px;
+  text-transform:uppercase;letter-spacing:.02em;box-shadow:6px 6px 0 var(--pink)}
+.gen:active{transform:translate(3px,3px);box-shadow:3px 3px 0 var(--pink)}
+
+/* folha */
+.scrim{background:rgba(31,63,216,.28)}
+.sheet{background:var(--paper);border-top:3px solid var(--ink)}
+.grab{background:var(--ink)}
+.sheet-title{font-family:var(--display);font-size:17px;text-transform:uppercase}
+.sheet-x{background:var(--pink);color:var(--paper);font-size:22px}
+.search{background:var(--paper);border:2.5px solid var(--ink);color:var(--ink);font-size:16px}
+.search::placeholder{color:#8e8681}
+.grp{font-family:var(--display);font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--paper);background:var(--blue);padding:7px 10px;margin:14px 0 6px}
+.row{font-weight:600;font-size:16.5px;border:2px solid var(--ink);background:var(--paper)}
+.row:active,.row.sel{background:var(--pink);color:var(--paper)}
+.row .rg{color:var(--blue)}
+.row.sel .rg,.row:active .rg{color:var(--paper)}
+.nohit{color:#8e8681}
+
+.skin-back{position:fixed;right:10px;top:calc(8px + env(safe-area-inset-top));z-index:60;
+  font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;
+  background:var(--ink);color:var(--paper);padding:6px 9px;text-decoration:none}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="kicker">Tarô do Craque</p>
+    <h1>Gerador<span>de Frases</span></h1>
+    <p class="sub">duas cartas, cinco lentes, muitas ideias pra destravar</p>
+    <div class="rule"></div>
+  </header>
+
+  <div class="pair">
+    <div class="slot"><p class="slot-label">Carta de origem</p>
+      <button class="card-btn" id="btn0"></button></div>
+    <div class="arrow">→</div>
+    <div class="slot"><p class="slot-label">Carta de destino</p>
+      <button class="card-btn" id="btn1"></button></div>
+  </div>
+
+  <div class="tools">
+    <button class="tool" data-act="invert">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M4 8h13l-3-3M20 16H7l3 3"/></svg> Inverter</button>
+    <button class="tool" data-act="random">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><rect x="4" y="4" width="16" height="16"/><circle cx="9" cy="9" r="1.4" fill="currentColor" stroke="none"/><circle cx="15" cy="15" r="1.4" fill="currentColor" stroke="none"/></svg> Sortear par</button>
+  </div>
+
+  <div id="empty" class="empty">
+    Escolha <b>duas cartas</b> e o tarô devolve uma constelação de faíscas —
+    pequenas combinações pra você puxar o fio e ler à sua maneira.<br>
+    Nada aqui é resposta fechada. São <b>pontos de partida</b>.
+  </div>
+
+  <div id="results" class="results"></div>
+
+  <p id="footnote" class="footnote hidden">
+    Nem toda lente encaixa em todo par — use as que acenderem algo e ignore o resto.
+    Toque em <b>Mais ideias</b> pra trocar as faíscas.
+  </p>
+</div>
+
+<div class="dock hidden" id="dock">
+  <button class="gen" data-act="more">✦&nbsp; Mais ideias</button>
+</div>
+
+<a class="skin-back" href="index.html">skins ↑</a>
+
+<script src="../layouts/data/deck.js"></script>
+<script src="../layouts/data/img.js"></script>
+<script src="../layouts/data/engine.js"></script>
+<script src="data/app.js"></script>
+</body>
+</html>

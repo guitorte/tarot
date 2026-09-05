@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f5f1e8">
+<title>04 · Dock de polegar</title>
+<link rel="stylesheet" href="data/base.css">
+<style>
+  body{padding:calc(14px + var(--safe-t)) 0 0}
+  .head{padding:0 18px 4px}
+  .head h1{font-family:var(--serif);font-size:24px;margin:0;font-weight:600}
+  .head p{color:var(--muted);font-size:14px;margin:5px 0 0}
+
+  /* barra fina que gruda no topo quando rola */
+  .sticky{position:sticky;top:0;z-index:20;background:rgba(245,241,232,.92);
+    backdrop-filter:blur(8px);border-bottom:1px solid var(--line);
+    padding:9px 18px;display:flex;align-items:center;gap:9px;margin-top:14px}
+  .sticky img{width:22px;height:35px;object-fit:cover;border-radius:4px}
+  .sticky b{font-family:var(--serif);font-weight:600;font-size:15px}
+  .sticky .ar{color:var(--gold)}
+  .sticky.off{display:none}
+
+  .lenses{padding:6px 18px 0}
+  .lens{padding:18px 0;border-bottom:1px solid var(--line)}
+  .lhead{display:flex;align-items:center;gap:9px;margin-bottom:6px}
+  .lnum{width:24px;height:24px;border-radius:7px;background:var(--ac);color:#fff;font-size:12px;
+    font-weight:700;display:flex;align-items:center;justify-content:center}
+  .lname{font-family:var(--serif);font-size:18px;font-weight:600}
+  .gloss{font-size:13px;color:var(--muted);margin:0 0 12px;line-height:1.5}
+  .gloss em{font-style:normal;color:var(--ink-2)}
+  .seed{font-size:16.5px;line-height:1.45;color:var(--ink-2);margin:0 0 11px;
+    display:flex;gap:9px}
+  .seed:before{content:"✦";color:var(--ac);font-size:11px;padding-top:5px}
+  .empty{margin:22px 18px;padding:26px 20px;border:1px dashed var(--line);border-radius:16px;
+    text-align:center;color:var(--muted);font-size:15px;line-height:1.65}
+  .empty b{color:var(--ink-2)}
+
+  /* --- dock: tudo que se toca vive aqui --- */
+  .dock{position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--paper);
+    border-top:1px solid var(--line);box-shadow:0 -6px 24px rgba(34,31,26,.1);
+    padding:10px 12px calc(10px + var(--safe-b))}
+  .slots{display:grid;grid-template-columns:1fr 46px 1fr;gap:8px;align-items:center}
+  .slot{display:flex;align-items:center;gap:9px;background:var(--paper-2);border-radius:14px;
+    padding:8px 10px;min-height:60px;text-align:left;overflow:hidden}
+  .slot img{width:34px;height:55px;object-fit:cover;border-radius:6px;flex:0 0 auto;
+    box-shadow:0 1px 5px rgba(34,31,26,.25)}
+  .slot .box{width:34px;height:55px;border-radius:6px;border:1px dashed var(--muted);flex:0 0 auto;
+    display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:15px}
+  .slot .t{min-width:0}
+  .slot .r{display:block;font-size:9.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--muted);font-weight:700}
+  .slot .n{display:block;font-size:14.5px;font-weight:600;white-space:nowrap;overflow:hidden;
+    text-overflow:ellipsis}
+  .mid{display:flex;flex-direction:column;gap:6px;align-items:center}
+  .mid button{width:46px;height:27px;border-radius:9px;background:var(--paper-2);font-size:14px;
+    display:flex;align-items:center;justify-content:center;color:var(--ink-2)}
+  .more{width:100%;min-height:52px;margin-top:9px;border-radius:15px;background:var(--ink);
+    color:var(--paper);font-size:16px;font-weight:600;display:flex;align-items:center;
+    justify-content:center;gap:9px}
+  .more:active{opacity:.85}
+  .more[disabled]{opacity:.35}
+</style>
+</head>
+<body>
+<div class="head">
+  <h1>Gerador de frases</h1>
+  <p>duas cartas, cinco lentes, quinze faíscas</p>
+</div>
+
+<div class="sticky off" id="sticky"></div>
+
+<div id="body">
+  <div class="empty">Os dois seletores moram na <b>barra de baixo</b> — nada aqui em cima
+    precisa de toque. Escolha as cartas com o polegar e leia com o dedão parado.</div>
+</div>
+
+<div class="dock">
+  <div class="slots">
+    <button class="slot" id="s0" onclick="pick(0)">
+      <span class="box">+</span><span class="t"><span class="r">origem</span><span class="n">escolher</span></span></button>
+    <div class="mid">
+      <button onclick="swap()" aria-label="Inverter">⇄</button>
+      <button onclick="sortear()" aria-label="Sortear">🎲</button>
+    </div>
+    <button class="slot" id="s1" onclick="pick(1)">
+      <span class="box">+</span><span class="t"><span class="r">destino</span><span class="n">escolher</span></span></button>
+  </div>
+  <button class="more" id="more" disabled onclick="remix()">✦ Mais ideias</button>
+</div>
+
+<a class="back" href="index.html">layouts ↑</a>
+
+<script src="data/deck.js"></script>
+<script src="data/img.js"></script>
+<script src="data/engine.js"></script>
+<script src="data/picker.js"></script>
+<script>
+const T=TAROT; let sel=[null,null];
+function pick(i){Picker.open({title:i===0?'Carta de origem':'Carta de destino',selected:sel[i],
+  onPick:n=>{sel[i]=n;paint();render();}});}
+function swap(){sel=[sel[1],sel[0]];paint();render();}
+function sortear(){sel=T.randomPair();T.buzz(12);paint();render();}
+function remix(){if(sel[0]&&sel[1]){render();T.buzz(8);scrollTo({top:0,behavior:'smooth'});}}
+
+function paint(){
+  [0,1].forEach(i=>{
+    const el=document.getElementById('s'+i),n=sel[i],role=i===0?'origem':'destino';
+    el.innerHTML=(n?`<img src="${T.imgMini(n)}" alt="">`:`<span class="box">+</span>`)+
+      `<span class="t"><span class="r">${role}</span><span class="n">${n?T.cleanName(n):'escolher'}</span></span>`;
+  });
+  document.getElementById('more').disabled=!(sel[0]&&sel[1]);
+  const st=document.getElementById('sticky');
+  if(sel[0]&&sel[1]){st.classList.remove('off');
+    st.innerHTML=`<img src="${T.imgMini(sel[0])}" alt=""><b>${T.cleanName(sel[0])}</b>
+      <span class="ar">→</span><b>${T.cleanName(sel[1])}</b><img src="${T.imgMini(sel[1])}" alt="">`;}
+  else st.classList.add('off');
+}
+function render(){
+  const box=document.getElementById('body');
+  if(!sel[0]||!sel[1]){box.innerHTML=`<div class="empty">Falta ${sel[0]||sel[1]?'uma carta':'as duas cartas'} —
+    use os botões da barra de baixo.</div>`;return;}
+  box.innerHTML='<div class="lenses">'+T.readingFor(sel[0],sel[1]).map(r=>
+    `<div class="lens" style="--ac:${r.lens.ac}">
+      <div class="lhead"><span class="lnum">${r.lens.n}</span><span class="lname">${r.lens.name}</span></div>
+      <p class="gloss">${r.lens.gloss}</p>
+      ${r.seeds.map(s=>`<p class="seed"><span>${s}</span></p>`).join('')}
+    </div>`).join('')+'</div>';
+}
+function fit(){document.body.style.paddingBottom=(document.querySelector('.dock').offsetHeight+20)+'px';}
+addEventListener('resize',fit); paint(); fit();
+</script>
+</body>
+</html>

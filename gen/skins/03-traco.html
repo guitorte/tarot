@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0e1130">
+<title>Tarô do Craque — Traço</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&display=swap">
+<link rel="stylesheet" href="data/shell.css">
+<style>
+/* SKIN 03 — TRAÇO: fundo índigo, desenho vetorial de linha fina em dourado,
+   motivos celestes chapados. Sem preenchimento, só contorno. */
+:root{
+  --bg:#0e1130; --bg-2:#151a3f; --line:rgba(224,199,140,.32);
+  --gold:#e0c78c; --gold-2:#c9a44f; --ink:#f2eee4; --ink-2:#b9b3a3; --muted:#7c7767;
+  --display:"Syne","Helvetica Neue",Arial,sans-serif;
+  --body:"DM Sans","Helvetica Neue",Arial,sans-serif;
+}
+body{font-family:var(--body);color:var(--ink);background:var(--bg)}
+.sky{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.9}
+.wrap,.dock,.sheet,.scrim,.skin-back{position:relative;z-index:1}
+
+.kicker{font-size:10.5px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold-2);font-weight:700}
+h1{font-family:var(--display);font-size:34px;font-weight:800;letter-spacing:-.02em;color:var(--ink)}
+.sub{font-size:14.5px;color:var(--ink-2)}
+.rule{height:1px;background:var(--line);margin-top:18px;position:relative}
+.rule:after{content:"✦";position:absolute;top:-11px;left:50%;transform:translateX(-50%);
+  background:var(--bg);padding:0 10px;color:var(--gold);font-size:12px}
+
+.slot-label{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.card-btn{background:transparent;border:1px solid var(--line);border-radius:2px;position:relative;
+  color:var(--ink)}
+.card-btn:before,.card-btn:after{content:"";position:absolute;width:9px;height:9px;
+  border:1px solid var(--gold-2)}
+.card-btn:before{top:6px;left:6px;border-right:none;border-bottom:none}
+.card-btn:after{bottom:6px;right:6px;border-left:none;border-top:none}
+.card-btn:active{background:var(--bg-2)}
+.card-btn.filled{border-color:var(--gold-2)}
+.card-btn .glyph{font-size:22px;color:var(--gold)}
+.card-btn .ph{font-size:13.5px;color:var(--muted)}
+.card-btn .name{font-family:var(--display);font-size:19px;font-weight:700;color:var(--ink)}
+.card-btn .suit{font-size:9.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.arrow{color:var(--gold-2);font-size:18px}
+
+.tool{border:1px solid var(--line);border-radius:2px;color:var(--ink-2);font-size:14px;font-weight:500}
+.tool:active{border-color:var(--gold);color:var(--gold)}
+.tool svg{width:16px;height:16px}
+
+.empty{border:1px solid var(--line);border-radius:2px;color:var(--ink-2);font-size:15px;line-height:1.7}
+.empty b{color:var(--gold);font-weight:700}
+.results.show{animation:fade .55s ease both}
+@keyframes fade{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:none}}
+.pairline{font-family:var(--display);font-size:16px;font-weight:700;color:var(--ink)}
+.pairline em{font-style:normal}
+.pairline .ar{color:var(--gold);margin:0 8px;font-weight:400}
+
+.lens{background:var(--bg-2);border:1px solid var(--line);border-radius:2px;
+  animation:fade .5s ease both;animation-delay:var(--d);position:relative;overflow:hidden}
+.lens:before{content:"";position:absolute;top:0;left:0;width:100%;height:1px;background:var(--ac);opacity:.55}
+.lens-n{width:26px;height:26px;border-radius:50%;border:1px solid var(--ac);color:var(--ac);
+  font-size:12px;font-weight:700;font-family:var(--display)}
+.lens-name{font-family:var(--display);font-size:18px;font-weight:700;letter-spacing:-.01em}
+.lens-gloss{font-size:13px;color:var(--muted)}
+.lens-gloss em{font-style:normal;color:var(--ink-2)}
+.seed{font-size:16px;line-height:1.45}
+.seed .dot{color:var(--ac);font-size:10px;padding-top:5px}
+.seed .txt{color:var(--ink-2)}
+.kw{color:var(--ink);font-weight:500;border-bottom:1px solid var(--gold-2);padding-bottom:1px}
+.footnote{font-size:12.5px;color:var(--muted);line-height:1.7}
+
+.dock{background:linear-gradient(0deg,var(--bg) 62%,rgba(14,17,48,0))}
+.gen{background:transparent;border:1px solid var(--gold);border-radius:2px;color:var(--gold);
+  font-family:var(--display);font-size:16px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.gen:active{background:var(--gold);color:var(--bg)}
+
+.scrim{background:rgba(6,8,22,.6);backdrop-filter:blur(2px)}
+.sheet{background:var(--bg-2);border-top:1px solid var(--gold-2);border-radius:3px 3px 0 0}
+.grab{background:var(--line)}
+.sheet-title{font-family:var(--display);font-size:17px;font-weight:700}
+.sheet-x{border:1px solid var(--line);border-radius:50%;color:var(--gold);font-size:20px}
+.search{background:transparent;border:1px solid var(--line);border-radius:2px;color:var(--ink);font-size:16px}
+.search::placeholder{color:var(--muted)}
+.search:focus{border-color:var(--gold-2)}
+.grp{font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-2);
+  background:var(--bg-2);font-weight:700}
+.row{border-bottom:1px solid rgba(224,199,140,.14);font-size:16.5px;color:var(--ink);margin:0}
+.row:active{background:rgba(224,199,140,.08)}
+.row.sel{color:var(--gold)}
+.row .rg{color:var(--gold-2)}
+.nohit{color:var(--muted)}
+
+.skin-back{position:fixed;right:10px;top:calc(8px + env(safe-area-inset-top));z-index:60;
+  font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);
+  border:1px solid var(--line);padding:5px 9px;text-decoration:none}
+</style>
+</head>
+<body>
+<svg class="sky" viewBox="0 0 400 800" preserveAspectRatio="xMidYMin slice" aria-hidden="true"
+     fill="none" stroke="#e0c78c" stroke-width="1">
+  <g opacity=".30">
+    <circle cx="330" cy="88" r="42"/>
+    <path d="M330 46a42 42 0 0 0 0 84 30 30 0 0 1 0-84z" fill="#e0c78c" stroke="none" opacity=".5"/>
+    <g stroke-linecap="round">
+      <path d="M62 150v26M49 163h26M56 157l12 12M68 157l-12 12"/>
+      <path d="M198 62v16M190 70h16"/>
+      <path d="M120 300v18M111 309h18"/>
+      <path d="M300 420v14M293 427h14"/>
+      <path d="M40 520v14M33 527h14"/>
+      <path d="M356 640v16M348 648h16"/>
+    </g>
+    <circle cx="150" cy="470" r="1.6" fill="#e0c78c" stroke="none"/>
+    <circle cx="250" cy="220" r="1.6" fill="#e0c78c" stroke="none"/>
+    <circle cx="80" cy="700" r="1.6" fill="#e0c78c" stroke="none"/>
+    <circle cx="330" cy="300" r="1.6" fill="#e0c78c" stroke="none"/>
+    <path d="M-20 250 C 90 210, 150 300, 260 250 S 420 210, 460 240" opacity=".5"/>
+    <path d="M-20 610 C 100 570, 170 660, 280 610 S 430 570, 460 600" opacity=".35"/>
+  </g>
+</svg>
+
+<div class="wrap">
+  <header>
+    <p class="kicker">Tarô do Craque</p>
+    <h1>Gerador de Frases</h1>
+    <p class="sub">duas cartas, cinco lentes, muitas ideias pra destravar</p>
+    <div class="rule"></div>
+  </header>
+
+  <div class="pair">
+    <div class="slot"><p class="slot-label">Carta de origem</p>
+      <button class="card-btn" id="btn0"></button></div>
+    <div class="arrow">→</div>
+    <div class="slot"><p class="slot-label">Carta de destino</p>
+      <button class="card-btn" id="btn1"></button></div>
+  </div>
+
+  <div class="tools">
+    <button class="tool" data-act="invert">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M4 9h14l-3.5-3.5M20 15H6l3.5 3.5"/></svg> Inverter</button>
+    <button class="tool" data-act="random">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 3l1.9 5.6L19.5 10l-4.6 3.4L16.4 19 12 15.8 7.6 19l1.5-5.6L4.5 10l5.6-1.4z"/></svg> Sortear par</button>
+  </div>
+
+  <div id="empty" class="empty">
+    Escolha <b>duas cartas</b> e o tarô devolve uma constelação de faíscas —
+    pequenas combinações pra você puxar o fio e ler à sua maneira.<br>
+    Nada aqui é resposta fechada. São <b>pontos de partida</b>.
+  </div>
+
+  <div id="results" class="results"></div>
+
+  <p id="footnote" class="footnote hidden">
+    Nem toda lente encaixa em todo par — use as que acenderem algo e ignore o resto.
+    Toque em <b>Mais ideias</b> pra trocar as faíscas.
+  </p>
+</div>
+
+<div class="dock hidden" id="dock">
+  <button class="gen" data-act="more">✦&nbsp; Mais ideias</button>
+</div>
+
+<a class="skin-back" href="index.html">skins ↑</a>
+
+<script src="../layouts/data/deck.js"></script>
+<script src="../layouts/data/img.js"></script>
+<script src="../layouts/data/engine.js"></script>
+<script src="data/app.js"></script>
+</body>
+</html>

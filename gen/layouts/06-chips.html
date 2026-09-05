@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f5f1e8">
+<title>06 · Chips e palavras</title>
+<link rel="stylesheet" href="data/base.css">
+<style>
+  body{padding:calc(12px + var(--safe-t)) 0 0}
+  .bar{display:flex;align-items:center;gap:10px;padding:0 16px 12px}
+  .mini{display:flex;align-items:center;gap:7px;background:var(--paper-2);border-radius:12px;
+    padding:6px 10px 6px 6px;min-height:48px;flex:1;min-width:0}
+  .mini img{width:28px;height:45px;object-fit:cover;border-radius:5px;flex:0 0 auto}
+  .mini .box{width:28px;height:45px;border-radius:5px;border:1px dashed var(--muted);flex:0 0 auto;
+    display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:14px}
+  .mini span{font-size:13.5px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .bar .ar{color:var(--muted);font-size:15px}
+
+  /* --- chips das lentes --- */
+  .chips{display:flex;gap:8px;overflow-x:auto;padding:0 16px 12px;scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{flex:0 0 auto;min-height:44px;padding:10px 15px;border-radius:999px;font-size:14.5px;
+    background:var(--paper-2);color:var(--ink-2);display:flex;align-items:center;gap:7px;font-weight:500}
+  .chip .d{width:8px;height:8px;border-radius:50%;background:var(--ac)}
+  .chip.on{background:var(--ac);color:#fff}
+  .chip.on .d{background:rgba(255,255,255,.85)}
+
+  /* --- painel da lente --- */
+  .panel{margin:0 16px;background:var(--paper-2);border-radius:18px;padding:16px 16px 10px;
+    min-height:210px}
+  .ptop{display:flex;align-items:baseline;gap:9px;margin-bottom:4px}
+  .pname{font-family:var(--serif);font-size:19px;font-weight:600}
+  .pgloss{font-size:12.5px;color:var(--muted);margin:0 0 14px;line-height:1.5}
+  .pgloss em{font-style:normal;color:var(--ink-2)}
+  .seed{font-size:17px;line-height:1.42;color:var(--ink-2);margin:0 0 13px;padding-left:12px;
+    border-left:3px solid var(--ac)}
+  .none{color:var(--muted);font-size:14px;padding:8px 0 14px}
+
+  /* --- âncora por palavra --- */
+  .words{padding:16px 16px calc(96px + var(--safe-b))}
+  .words h2{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);
+    margin:0 0 10px;font-weight:700}
+  .cloud{display:flex;flex-wrap:wrap;gap:7px}
+  .w{min-height:40px;padding:9px 13px;border-radius:999px;font-size:13.5px;background:var(--paper-2);
+    color:var(--ink-2);border:1px solid transparent}
+  .w.src{border-color:rgba(176,125,43,.4)}
+  .w.on{background:var(--ink);color:var(--paper)}
+
+  .fab{position:fixed;right:14px;bottom:calc(16px + var(--safe-b));z-index:60;min-height:56px;
+    padding:0 20px;border-radius:999px;background:var(--ink);color:var(--paper);font-size:15px;
+    font-weight:600;display:flex;align-items:center;gap:8px;box-shadow:0 6px 18px rgba(34,31,26,.3)}
+</style>
+</head>
+<body>
+<div class="bar">
+  <button class="mini" id="m0" onclick="pick(0)"><span class="box">+</span><span>origem</span></button>
+  <span class="ar">→</span>
+  <button class="mini" id="m1" onclick="pick(1)"><span class="box">+</span><span>destino</span></button>
+</div>
+
+<div class="chips" id="chips"></div>
+<div class="panel" id="panel">
+  <p class="none">Escolha duas cartas. As cinco lentes viram cinco chips — uma aberta por vez,
+  sem rolagem longa. Depois toque numa palavra lá embaixo para ancorar as frases nela.</p>
+</div>
+
+<div class="words" id="words"></div>
+
+<button class="fab" onclick="sortear()">🎲 Sortear</button>
+<a class="back" href="index.html">layouts ↑</a>
+
+<script src="data/deck.js"></script>
+<script src="data/img.js"></script>
+<script src="data/engine.js"></script>
+<script src="data/picker.js"></script>
+<script>
+const T=TAROT; let sel=[null,null], lens=0, anchor=null;
+
+function pick(i){Picker.open({title:i===0?'Carta de origem':'Carta de destino',selected:sel[i],
+  onPick:n=>{sel[i]=n;anchor=null;paint();}});}
+function sortear(){sel=T.randomPair();anchor=null;T.buzz(12);paint();}
+
+function paint(){
+  [0,1].forEach(i=>{
+    const el=document.getElementById('m'+i),n=sel[i];
+    el.innerHTML=(n?`<img src="${T.imgMini(n)}" alt="">`:`<span class="box">+</span>`)+
+      `<span>${n?T.cleanName(n):(i===0?'origem':'destino')}</span>`;
+  });
+  document.getElementById('chips').innerHTML=T.LENSES.map((l,i)=>
+    `<button class="chip${i===lens?' on':''}" style="--ac:${l.ac}" onclick="setLens(${i})">
+      <span class="d"></span>${l.name}</button>`).join('');
+  renderPanel(); renderWords();
+}
+function setLens(i){lens=i;T.buzz(6);paint();}
+function setAnchor(w){anchor=(anchor===w?null:w);T.buzz(6);paint();}
+
+function renderPanel(){
+  const box=document.getElementById('panel');
+  if(!sel[0]||!sel[1]){return;}
+  const L=T.LENSES[lens];
+  let list=T.moreSeeds(sel[0],sel[1],lens,18);
+  if(anchor){
+    const a=anchor.toLowerCase();
+    list=list.filter(s=>s.toLowerCase().includes('>'+a+'<'));
+    if(list.length<3){ // tenta de novo com um sorteio maior antes de desistir
+      const extra=T.moreSeeds(sel[0],sel[1],lens,40)
+        .filter(s=>s.toLowerCase().includes('>'+a+'<'));
+      list=[...new Set(list.concat(extra))];
+    }
+  }
+  list=list.slice(0,3);
+  box.style.setProperty('--ac',L.ac);
+  box.innerHTML=`<div class="ptop"><span class="pname">${L.name}</span></div>
+    <p class="pgloss">${L.gloss}</p>`+
+    (list.length?list.map(s=>`<p class="seed" style="--ac:${L.ac}">${s}</p>`).join('')
+      :`<p class="none">nenhuma frase desta lente passa por <b>${anchor}</b> — tente outra palavra.</p>`);
+}
+function renderWords(){
+  const box=document.getElementById('words');
+  if(!sel[0]||!sel[1]){box.innerHTML='';return;}
+  const a=T.byName(sel[0]), b=T.byName(sel[1]);
+  const words=[...new Set([...T.pos(a),...T.neg(a),...T.pos(b),...T.neg(b)])];
+  box.innerHTML=`<h2>ancorar numa palavra</h2><div class="cloud">`+
+    words.map(w=>`<button class="w${anchor===w?' on':''}" onclick="setAnchor('${w.replace(/'/g,"\\'")}')">${w}</button>`).join('')+
+    `</div>`;
+}
+paint();
+</script>
+</body>
+</html>

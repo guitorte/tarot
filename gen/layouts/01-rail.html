@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f5f1e8">
+<title>01 · Rail de cartas</title>
+<link rel="stylesheet" href="data/base.css">
+<style>
+  body{padding-top:calc(10px + var(--safe-t))}
+  .top{padding:0 16px}
+  .kicker{display:flex;align-items:baseline;gap:8px;margin:0 0 10px}
+  .kicker h1{font-family:var(--serif);font-size:19px;margin:0;font-weight:600}
+
+  /* --- par selecionado: duas cartas grandes, tocáveis --- */
+  .pair{display:grid;grid-template-columns:1fr 34px 1fr;align-items:center;gap:6px}
+  .slot{position:relative;border-radius:var(--card-r);overflow:hidden;aspect-ratio:11/18;
+    background:var(--paper-2);box-shadow:0 2px 10px rgba(34,31,26,.16);
+    display:flex;align-items:center;justify-content:center}
+  .slot img{width:100%;height:100%;object-fit:cover}
+  .slot.active{outline:3px solid var(--gold);outline-offset:2px}
+  .slot .ph{color:var(--muted);font-size:12px;text-align:center;padding:10px;line-height:1.35}
+  .slot .cap{position:absolute;left:0;right:0;bottom:0;padding:16px 8px 7px;color:#fff;font-size:12.5px;
+    font-weight:600;text-align:center;background:linear-gradient(0deg,rgba(0,0,0,.72),transparent)}
+  .swap{display:flex;align-items:center;justify-content:center;height:48px;width:34px;
+    color:var(--muted);font-size:17px;border-radius:50%}
+  .swap:active{background:var(--paper-2)}
+
+  /* --- leitura --- */
+  .reading{padding:16px 16px 0}
+  .lens{border-top:1px solid var(--line);padding:13px 0 3px}
+  .lens:first-child{border-top:none}
+  .lhead{display:flex;align-items:center;gap:8px;margin-bottom:7px}
+  .ldot{width:9px;height:9px;border-radius:50%;background:var(--ac)}
+  .lname{font-family:var(--serif);font-size:16px;font-weight:600}
+  .lshort{font-size:12.5px;color:var(--muted)}
+  .seed{font-size:16px;color:var(--ink-2);margin:0 0 9px;line-height:1.42}
+  .empty{padding:34px 20px;text-align:center;color:var(--muted);font-size:15px;line-height:1.6}
+
+  /* --- rail fixo no polegar --- */
+  .rail{position:fixed;left:0;right:0;bottom:0;z-index:50;
+    background:linear-gradient(0deg,var(--paper) 78%,rgba(245,241,232,.86));
+    backdrop-filter:blur(8px);border-top:1px solid var(--line);
+    padding-bottom:var(--safe-b)}
+  .tabs{display:flex;gap:6px;overflow-x:auto;padding:9px 12px 3px;scrollbar-width:none}
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{flex:0 0 auto;min-height:36px;padding:7px 13px;border-radius:999px;font-size:13px;
+    color:var(--ink-2);background:var(--paper-2)}
+  .tab.on{background:var(--ink);color:var(--paper)}
+  .strip{display:flex;gap:9px;overflow-x:auto;padding:9px 12px 12px;
+    scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .strip::-webkit-scrollbar{display:none}
+  .mini{flex:0 0 auto;width:74px;padding:0;scroll-snap-align:center;position:relative}
+  .mini img{width:74px;height:121px;object-fit:cover;border-radius:9px;
+    box-shadow:0 2px 7px rgba(34,31,26,.2)}
+  .mini.sel img{outline:2.5px solid var(--gold);outline-offset:2px}
+  .mini .n{display:block;font-size:10px;color:var(--muted);text-align:center;margin-top:4px;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:74px}
+  .anchor{flex:0 0 auto;width:1px;scroll-snap-align:start}
+  .railhint{font-size:11px;color:var(--muted);padding:0 14px 2px}
+</style>
+</head>
+<body>
+<div class="top">
+  <div class="kicker"><h1>Rail de cartas</h1><span class="tagline">protótipo 01</span></div>
+  <div class="pair">
+    <button class="slot active" id="s0" onclick="setActive(0)"><span class="ph">toque numa carta<br>do rail ↓</span></button>
+    <button class="swap" onclick="swap()" aria-label="Inverter">⇄</button>
+    <button class="slot" id="s1" onclick="setActive(1)"><span class="ph">e depois<br>na segunda</span></button>
+  </div>
+</div>
+
+<div class="reading" id="reading">
+  <div class="empty">O baralho inteiro mora na faixa de baixo.<br>Role com o polegar, toque em duas cartas.</div>
+</div>
+
+<div class="rail">
+  <div class="tabs" id="tabs"></div>
+  <div class="railhint" id="hint">escolhendo a <b>carta de origem</b></div>
+  <div class="strip" id="strip"></div>
+</div>
+
+<a class="back" href="index.html">layouts ↑</a>
+
+<script src="data/deck.js"></script>
+<script src="data/img.js"></script>
+<script src="data/engine.js"></script>
+<script>
+const T=TAROT;
+let sel=[null,null], active=0;
+
+/* rail: baralho inteiro, agrupado por naipe, imagens mini (~6 kB cada) */
+const strip=document.getElementById('strip'), tabs=document.getElementById('tabs');
+let html='', tabHtml='';
+T.SUIT_ORDER.forEach((s,i)=>{
+  tabHtml+=`<button class="tab${i===0?' on':''}" data-suit="${s}" onclick="goSuit('${s}',this)">${T.SUIT_GLYPH[s]} ${s==='Arcanos Maiores'?'Maiores':s}</button>`;
+  html+=`<span class="anchor" id="a-${s.replace(/\s/g,'')}"></span>`;
+  T.DECK.filter(c=>T.suitOf(c.name)===s).forEach(c=>{
+    html+=`<button class="mini" data-name="${c.name}" onclick="pick('${c.name.replace(/'/g,"\\'")}')">
+      <img loading="lazy" decoding="async" src="${T.imgMini(c.name)}" alt="${T.cleanName(c.name)}">
+      <span class="n">${T.cleanName(c.name)}</span></button>`;
+  });
+});
+strip.innerHTML=html; tabs.innerHTML=tabHtml;
+
+function goSuit(s,el){
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('on',t===el));
+  const a=document.getElementById('a-'+s.replace(/\s/g,''));
+  strip.scrollTo({left:a.offsetLeft-12,behavior:'smooth'});
+}
+function setActive(i){active=i;paint();}
+function pick(name){
+  T.buzz(8);
+  sel[active]=name;
+  if(sel[0]&&!sel[1])active=1; else if(sel[1]&&!sel[0])active=0; else active=active?0:1;
+  paint();render();
+}
+function swap(){sel=[sel[1],sel[0]];paint();render();}
+
+function paint(){
+  [0,1].forEach(i=>{
+    const el=document.getElementById('s'+i), n=sel[i];
+    el.classList.toggle('active',active===i);
+    el.innerHTML = n
+      ? `<img src="${T.imgThumb(n)}" alt=""><span class="cap">${T.cleanName(n)}</span>`
+      : `<span class="ph">${i===0?'carta de origem':'carta de destino'}</span>`;
+  });
+  document.getElementById('hint').innerHTML =
+    `escolhendo a <b>carta de ${active===0?'origem':'destino'}</b>`;
+  document.querySelectorAll('.mini').forEach(m=>
+    m.classList.toggle('sel', sel.includes(m.dataset.name)));
+}
+function render(){
+  const box=document.getElementById('reading');
+  if(!sel[0]||!sel[1]){
+    box.innerHTML='<div class="empty">Falta uma carta — toque no rail de baixo.</div>';return;}
+  box.innerHTML=T.readingFor(sel[0],sel[1]).map(r=>
+    `<div class="lens" style="--ac:${r.lens.ac}">
+       <div class="lhead"><span class="ldot"></span><span class="lname">${r.lens.name}</span>
+         <span class="lshort">${r.lens.short}</span></div>
+       ${r.seeds.map(s=>`<p class="seed">${s}</p>`).join('')}
+     </div>`).join('');
+}
+function fit(){document.body.style.paddingBottom=(document.querySelector('.rail').offsetHeight+18)+'px';}
+addEventListener('resize',fit);
+paint();fit();
+</script>
+</body>
+</html>

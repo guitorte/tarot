@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#111111">
+<title>Skins do /gen</title>
+<style>
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0}
+  body{background:#111;color:#f4f2ee;line-height:1.55;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+    padding:calc(24px + env(safe-area-inset-top)) 18px calc(40px + env(safe-area-inset-bottom));
+    max-width:560px;margin:0 auto}
+  .eyebrow{font-size:10.5px;letter-spacing:.22em;text-transform:uppercase;color:#8f8a80;
+    font-weight:700;margin:0 0 10px}
+  h1{font-size:30px;line-height:1.08;margin:0 0 12px;letter-spacing:-.02em}
+  .lede{color:#b8b2a8;font-size:15.5px;margin:0 0 6px}
+  .lede b{color:#f4f2ee;font-weight:600}
+  .note{color:#8f8a80;font-size:13px;margin:14px 0 26px}
+  .grid{display:flex;flex-direction:column;gap:12px}
+  a.skin{display:block;text-decoration:none;color:inherit;border-radius:16px;padding:16px;
+    border:1px solid #2b2822;background:#191713}
+  a.skin:active{border-color:#4a453c}
+  .top{display:flex;align-items:center;gap:10px;margin-bottom:9px}
+  .n{font-size:10.5px;letter-spacing:.16em;color:#8f8a80;font-weight:700}
+  .name{font-size:20px;font-weight:650;letter-spacing:-.01em}
+  .chips{display:flex;gap:0;border-radius:6px;overflow:hidden;margin:0 0 11px;height:22px}
+  .chips i{flex:1;display:block}
+  p.d{margin:0;font-size:14.5px;color:#b8b2a8}
+  .type{margin:10px 0 0;font-size:12px;color:#8f8a80;
+    font-family:ui-monospace,"SF Mono",Menlo,monospace}
+  footer{margin-top:28px;padding-top:18px;border-top:1px solid #2b2822;color:#8f8a80;font-size:13px}
+  footer a{color:#c9c3b8}
+</style>
+</head>
+<body>
+  <p class="eyebrow">Tarô · /gen</p>
+  <h1>Seis skins pro gerador</h1>
+  <p class="lede">Mesma tela, mesmo fluxo, mesmas frases do <b>/gen</b> de hoje —
+    dois seletores, inverter, sortear, cinco lentes, folha de busca. Muda só a pele.</p>
+  <p class="note">Todos carregam o mesmo <code>data/app.js</code>; cada arquivo é só um
+    &lt;style&gt;. Trocar de estilo é trocar um CSS.</p>
+
+  <div class="grid">
+    <a class="skin" href="01-riso.html">
+      <div class="top"><span class="n">01</span><span class="name">Sobreimpressão</span></div>
+      <div class="chips"><i style="background:#f4f1e9"></i><i style="background:#ff3f6c"></i>
+        <i style="background:#1f3fd8"></i><i style="background:#141110"></i></div>
+      <p class="d">Risografia: duas tintas chapadas, retícula de pontos, papel granulado e
+        sombra dura deslocada. Barulhento e impresso.</p>
+      <p class="type">Archivo Black · Archivo</p>
+    </a>
+
+    <a class="skin" href="02-bauhaus.html">
+      <div class="top"><span class="n">02</span><span class="name">Blocos</span></div>
+      <div class="chips"><i style="background:#ffffff"></i><i style="background:#e3352b"></i>
+        <i style="background:#1852c4"></i><i style="background:#f5c518"></i><i style="background:#111"></i></div>
+      <p class="d">Geometria primária: contorno preto grosso, sombra sólida, círculo,
+        triângulo e quadrado no lugar de ornamento.</p>
+      <p class="type">Outfit</p>
+    </a>
+
+    <a class="skin" href="03-traco.html">
+      <div class="top"><span class="n">03</span><span class="name">Traço</span></div>
+      <div class="chips"><i style="background:#0e1130"></i><i style="background:#151a3f"></i>
+        <i style="background:#e0c78c"></i><i style="background:#f2eee4"></i></div>
+      <p class="d">Índigo com desenho vetorial de linha fina em dourado — lua, estrelas,
+        cantos marcados. Só contorno, nenhum preenchimento.</p>
+      <p class="type">Syne · DM Sans</p>
+    </a>
+
+    <a class="skin" href="04-editorial.html">
+      <div class="top"><span class="n">04</span><span class="name">Editorial</span></div>
+      <div class="chips"><i style="background:#fafaf8"></i><i style="background:#dcdcd6"></i>
+        <i style="background:#ff3b1f"></i><i style="background:#0a0a0a"></i></div>
+      <p class="d">Grid suíço: tipo enorme, fio de cabelo, um único acento e zero raio.
+        A hierarquia inteira é tipográfica.</p>
+      <p class="type">Anton · Work Sans</p>
+    </a>
+
+    <a class="skin" href="05-solar.html">
+      <div class="top"><span class="n">05</span><span class="name">Solar</span></div>
+      <div class="chips"><i style="background:#1b1440"></i><i style="background:#b9a4ff"></i>
+        <i style="background:#ff7a5c"></i><i style="background:#ffd166"></i></div>
+      <p class="d">Ilustração 2D de crepúsculo: degradês chapados, sol e morros vetoriais,
+        superfícies translúcidas sem desfoque.</p>
+      <p class="type">Sora · Manrope</p>
+    </a>
+
+    <a class="skin" href="06-recorte.html">
+      <div class="top"><span class="n">06</span><span class="name">Recorte</span></div>
+      <div class="chips"><i style="background:#0f5f6e"></i><i style="background:#ff6b4a"></i>
+        <i style="background:#d6e34f"></i><i style="background:#f6efdf"></i></div>
+      <p class="d">Colagem de papel cortado: formas orgânicas de cor cheia, cantos irregulares,
+        nada de degradê.</p>
+      <p class="type">Fraunces · Karla</p>
+    </a>
+  </div>
+
+  <footer>
+    O <a href="../index.html">/gen original</a> continua onde estava.
+    Detalhes e como adotar uma skin: <a href="README.md">README</a>.
+    Layouts alternativos (outra conversa) ficam em <a href="../layouts/index.html">gen/layouts</a>.
+  </footer>
+</body>
+</html>

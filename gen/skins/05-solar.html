@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#1b1440">
+<title>Tarô do Craque — Solar</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Manrope:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="data/shell.css">
+<style>
+/* SKIN 05 — SOLAR: ilustração vetorial 2D de crepúsculo. Gradientes chapados,
+   formas orgânicas grandes, superfícies translúcidas sem desfoque. */
+:root{
+  --deep:#1b1440; --deep-2:#2a1c5c; --coral:#ff7a5c; --peach:#ffb27a;
+  --sun:#ffd166; --lilac:#b9a4ff; --ink:#fdf6ef; --ink-2:#d8cbe6; --muted:#9b8fc0;
+  --display:"Sora","Helvetica Neue",Arial,sans-serif;
+  --body:"Manrope","Helvetica Neue",Arial,sans-serif;
+  --surface:rgba(255,255,255,.07); --edge:rgba(255,255,255,.14);
+}
+body{font-family:var(--body);color:var(--ink);
+  background:linear-gradient(180deg,#150f36 0%,var(--deep) 34%,#3a1f5e 68%,#6b2f63 100%);
+  background-attachment:fixed}
+.scene{position:fixed;inset:0;z-index:0;pointer-events:none}
+.wrap,.dock,.sheet,.scrim,.skin-back{position:relative;z-index:1}
+
+.kicker{font-size:10.5px;letter-spacing:.22em;text-transform:uppercase;font-weight:700;color:var(--sun)}
+h1{font-family:var(--display);font-size:36px;font-weight:800;letter-spacing:-.03em;line-height:1.02;
+  background:linear-gradient(96deg,var(--sun),var(--coral) 55%,var(--lilac));
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+.sub{font-size:15px;color:var(--ink-2)}
+.rule{height:5px;border-radius:5px;margin-top:18px;
+  background:linear-gradient(90deg,var(--sun),var(--coral),var(--lilac));opacity:.85}
+
+.slot-label{font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.card-btn{background:var(--surface);border:1px solid var(--edge);border-radius:22px;
+  transition:transform .1s,background .2s}
+.card-btn:active{transform:scale(.98);background:rgba(255,255,255,.12)}
+.card-btn.filled{background:linear-gradient(160deg,rgba(255,209,102,.22),rgba(185,164,255,.16));
+  border-color:rgba(255,209,102,.4)}
+.card-btn .glyph{font-size:24px;color:var(--sun)}
+.card-btn .ph{font-size:14px;color:var(--muted)}
+.card-btn .name{font-family:var(--display);font-size:19px;font-weight:700;letter-spacing:-.02em}
+.card-btn .suit{font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.arrow{color:var(--coral);font-size:20px}
+
+.tool{background:var(--surface);border:1px solid var(--edge);border-radius:16px;
+  color:var(--ink-2);font-size:14.5px;font-weight:600}
+.tool:active{background:rgba(255,122,92,.22);color:var(--ink)}
+.tool svg{width:17px;height:17px}
+
+.empty{background:var(--surface);border:1px solid var(--edge);border-radius:24px;
+  color:var(--ink-2);font-size:15.5px;line-height:1.65}
+.empty b{color:var(--sun);font-weight:700}
+.results.show{animation:float .5s cubic-bezier(.2,.8,.2,1) both}
+@keyframes float{from{opacity:0;transform:translateY(14px) scale(.99)}to{opacity:1;transform:none}}
+.pairline{font-family:var(--display);font-size:16.5px;font-weight:700}
+.pairline em{font-style:normal;color:var(--sun)}
+.pairline .ar{color:var(--coral);margin:0 8px}
+
+.lens{background:var(--surface);border:1px solid var(--edge);border-radius:22px;
+  animation:float .5s ease both;animation-delay:var(--d);position:relative;overflow:hidden}
+.lens:before{content:"";position:absolute;top:-42px;right:-42px;width:110px;height:110px;
+  border-radius:50%;background:var(--ac);opacity:.22}
+.lens-n{width:30px;height:30px;border-radius:50%;background:var(--ac);color:#141033;
+  font-family:var(--display);font-size:13px;font-weight:800}
+.lens-name{font-family:var(--display);font-size:19px;font-weight:700;letter-spacing:-.02em}
+.lens-gloss{font-size:13px;color:var(--muted)}
+.lens-gloss em{font-style:normal;color:var(--ink-2)}
+.seed{font-size:16.5px;line-height:1.45}
+.seed .dot{color:var(--ac);font-size:11px;padding-top:5px}
+.seed .txt{color:var(--ink-2)}
+.kw{color:var(--ink);font-weight:700;
+  background:linear-gradient(0deg,rgba(255,209,102,.28) .5em,transparent .5em)}
+.footnote{font-size:12.5px;color:var(--muted);line-height:1.65}
+
+.dock{background:linear-gradient(0deg,#6b2f63 55%,rgba(107,47,99,0))}
+.gen{border-radius:20px;color:#231340;font-family:var(--display);font-size:16.5px;font-weight:800;
+  background:linear-gradient(100deg,var(--sun),var(--peach) 52%,var(--coral));
+  box-shadow:0 8px 22px rgba(255,122,92,.34)}
+.gen:active{transform:translateY(2px);box-shadow:0 4px 12px rgba(255,122,92,.3)}
+
+.scrim{background:rgba(14,9,36,.6)}
+.sheet{background:linear-gradient(180deg,#241a52,#1b1440);border-radius:26px 26px 0 0;
+  border-top:1px solid var(--edge)}
+.grab{background:rgba(255,255,255,.25);border-radius:6px}
+.sheet-title{font-family:var(--display);font-size:17px;font-weight:700}
+.sheet-x{border-radius:50%;background:var(--surface);color:var(--ink-2);font-size:21px}
+.search{background:var(--surface);border:1px solid var(--edge);border-radius:16px;
+  color:var(--ink);font-size:16px}
+.search::placeholder{color:var(--muted)}
+.search:focus{border-color:rgba(255,209,102,.5)}
+.grp{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--sun);font-weight:700;
+  background:#1e1748}
+.row{border-radius:16px;background:var(--surface);font-size:16.5px;font-weight:600;color:var(--ink)}
+.row:active{background:rgba(255,122,92,.24)}
+.row.sel{background:linear-gradient(100deg,rgba(255,209,102,.28),rgba(185,164,255,.22));color:var(--ink)}
+.row .rg{color:var(--sun)}
+.nohit{color:var(--muted)}
+
+.skin-back{position:fixed;right:10px;top:calc(8px + env(safe-area-inset-top));z-index:60;
+  font-size:10px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--ink);
+  background:var(--surface);border:1px solid var(--edge);border-radius:999px;padding:6px 11px;
+  text-decoration:none}
+</style>
+</head>
+<body>
+<svg class="scene" viewBox="0 0 400 800" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd166" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#ff7a5c" stop-opacity=".55"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b9a4ff" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#ff7a5c" stop-opacity=".22"/>
+    </linearGradient>
+  </defs>
+  <circle cx="318" cy="132" r="66" fill="url(#g1)" opacity=".5"/>
+  <circle cx="318" cy="132" r="40" fill="#ffd166" opacity=".35"/>
+  <path d="M-40 690 C 60 600, 130 700, 210 645 S 360 560, 440 620 L 440 820 L -40 820 Z" fill="url(#g2)"/>
+  <path d="M-40 745 C 80 690, 160 760, 250 715 S 380 660, 440 700 L 440 820 L -40 820 Z"
+        fill="#2a1c5c" opacity=".65"/>
+  <g fill="#fdf6ef" opacity=".5">
+    <circle cx="60" cy="90" r="1.8"/><circle cx="140" cy="180" r="1.4"/><circle cx="240" cy="60" r="1.6"/>
+    <circle cx="90" cy="300" r="1.3"/><circle cx="350" cy="330" r="1.5"/><circle cx="30" cy="430" r="1.4"/>
+  </g>
+</svg>
+
+<div class="wrap">
+  <header>
+    <p class="kicker">Tarô do Craque</p>
+    <h1>Gerador de Frases</h1>
+    <p class="sub">duas cartas, cinco lentes, muitas ideias pra destravar</p>
+    <div class="rule"></div>
+  </header>
+
+  <div class="pair">
+    <div class="slot"><p class="slot-label">Carta de origem</p>
+      <button class="card-btn" id="btn0"></button></div>
+    <div class="arrow">→</div>
+    <div class="slot"><p class="slot-label">Carta de destino</p>
+      <button class="card-btn" id="btn1"></button></div>
+  </div>
+
+  <div class="tools">
+    <button class="tool" data-act="invert">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 9h14l-4-4M20 15H6l4 4"/></svg> Inverter</button>
+    <button class="tool" data-act="random">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4.5"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.6 5.6l2 2M16.4 16.4l2 2M18.4 5.6l-2 2M7.6 16.4l-2 2"/></svg> Sortear par</button>
+  </div>
+
+  <div id="empty" class="empty">
+    Escolha <b>duas cartas</b> e o tarô devolve uma constelação de faíscas —
+    pequenas combinações pra você puxar o fio e ler à sua maneira.<br>
+    Nada aqui é resposta fechada. São <b>pontos de partida</b>.
+  </div>
+
+  <div id="results" class="results"></div>
+
+  <p id="footnote" class="footnote hidden">
+    Nem toda lente encaixa em todo par — use as que acenderem algo e ignore o resto.
+    Toque em <b>Mais ideias</b> pra trocar as faíscas.
+  </p>
+</div>
+
+<div class="dock hidden" id="dock">
+  <button class="gen" data-act="more">✦&nbsp; Mais ideias</button>
+</div>
+
+<a class="skin-back" href="index.html">skins ↑</a>
+
+<script src="../layouts/data/deck.js"></script>
+<script src="../layouts/data/img.js"></script>
+<script src="../layouts/data/engine.js"></script>
+<script src="data/app.js"></script>
+</body>
+</html>

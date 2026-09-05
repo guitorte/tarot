@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0f5f6e">
+<title>Tarô do Craque — Recorte</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Karla:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="data/shell.css">
+<style>
+/* SKIN 06 — RECORTE: colagem de papel cortado. Formas orgânicas chapadas,
+   nenhum degradê, cantos irregulares e cor cheia. */
+:root{
+  --teal:#0f5f6e; --teal-2:#0b4d59; --cream:#f6efdf; --coral:#ff6b4a;
+  --lime:#d6e34f; --plum:#7a3b6b; --ink:#10262b; --ink-2:#3f5a60;
+  --display:"Fraunces",Georgia,serif;
+  --body:"Karla","Helvetica Neue",Arial,sans-serif;
+}
+body{font-family:var(--body);color:var(--cream);background:var(--teal)}
+.collage{position:fixed;inset:0;z-index:0;pointer-events:none}
+.wrap,.dock,.sheet,.scrim,.skin-back{position:relative;z-index:1}
+
+.kicker{font-size:10.5px;letter-spacing:.2em;text-transform:uppercase;font-weight:700;color:var(--lime)}
+h1{font-family:var(--display);font-size:38px;font-weight:700;line-height:1;letter-spacing:-.02em;
+  color:var(--cream)}
+h1 mark{background:var(--coral);color:var(--cream);padding:0 8px;
+  border-radius:40% 60% 55% 45%/60% 40% 60% 40%}
+.sub{font-size:15px;color:#cfe3e2}
+.rule{height:12px;margin-top:18px;background:var(--lime);
+  border-radius:60% 40% 50% 50%/100% 100% 0 0}
+
+.slot-label{font-size:10px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:#9fc4c4}
+.card-btn{background:var(--cream);color:var(--ink);
+  border-radius:36% 64% 58% 42%/48% 42% 58% 52%;transition:transform .12s}
+.card-btn:nth-of-type(1){}
+.card-btn:active{transform:rotate(-1.5deg) scale(.99)}
+.card-btn.filled{background:var(--lime)}
+.card-btn .glyph{font-size:23px;color:var(--coral)}
+.card-btn.filled .glyph{color:var(--plum)}
+.card-btn .ph{font-size:14px;color:#6b7f83;font-weight:500}
+.card-btn .name{font-family:var(--display);font-size:19px;font-weight:700;color:var(--ink)}
+.card-btn .suit{font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:#4a6a70}
+.arrow{color:var(--lime);font-size:20px}
+
+.tool{background:var(--teal-2);color:var(--cream);font-size:14.5px;font-weight:600;
+  border-radius:58% 42% 45% 55%/50% 55% 45% 50%}
+.tool:active{background:var(--coral)}
+.tool svg{width:17px;height:17px}
+
+.empty{background:var(--teal-2);color:#cfe3e2;font-size:15.5px;line-height:1.65;
+  border-radius:42% 58% 38% 62%/40% 38% 62% 60%}
+.empty b{color:var(--lime);font-weight:700}
+.results.show{animation:cut .45s cubic-bezier(.2,.9,.3,1) both}
+@keyframes cut{from{opacity:0;transform:translateY(10px) rotate(-.6deg)}to{opacity:1;transform:none}}
+.pairline{font-family:var(--display);font-size:17px;font-weight:700;color:var(--cream)}
+.pairline em{font-style:normal}
+.pairline .ar{color:var(--coral);margin:0 8px}
+
+.lens{background:var(--cream);color:var(--ink);animation:cut .45s ease both;animation-delay:var(--d);
+  border-radius:22px 40px 24px 44px;position:relative;overflow:hidden}
+.lens:before{content:"";position:absolute;left:-30px;bottom:-46px;width:120px;height:120px;
+  background:var(--ac);opacity:.18;border-radius:50% 50% 42% 58%/58% 42% 58% 42%}
+.lens-n{width:32px;height:32px;background:var(--ac);color:var(--cream);font-family:var(--display);
+  font-size:14px;font-weight:700;border-radius:52% 48% 42% 58%/58% 42% 58% 42%}
+.lens-name{font-family:var(--display);font-size:20px;font-weight:700;color:var(--ink)}
+.lens-gloss{font-size:13px;color:#5c7378}
+.lens-gloss em{font-style:normal;color:var(--ink);font-weight:600}
+.seed{font-size:16.5px;line-height:1.45}
+.seed .dot{color:var(--ac);font-size:11px;padding-top:5px}
+.seed .txt{color:var(--ink-2)}
+.kw{color:var(--ink);font-weight:700;background:rgba(214,227,79,.55);padding:0 3px;
+  border-radius:6px 10px 7px 12px}
+.footnote{font-size:12.5px;color:#9fc4c4;line-height:1.65}
+
+.dock{background:linear-gradient(0deg,var(--teal) 60%,rgba(15,95,110,0))}
+.gen{background:var(--coral);color:var(--cream);font-family:var(--display);font-size:17px;
+  font-weight:700;border-radius:46% 54% 50% 50%/38% 40% 60% 62%}
+.gen:active{transform:translateY(2px) rotate(-.6deg)}
+
+.scrim{background:rgba(8,44,52,.6)}
+.sheet{background:var(--cream);color:var(--ink);border-radius:34px 34px 0 0}
+.grab{background:#cbc3ae;border-radius:6px}
+.sheet-title{font-family:var(--display);font-size:18px;font-weight:700;color:var(--ink)}
+.sheet-x{background:var(--coral);color:var(--cream);font-size:20px;
+  border-radius:52% 48% 45% 55%/50% 52% 48% 50%}
+.search{background:#efe6d2;color:var(--ink);font-size:16px;
+  border-radius:22px 30px 24px 32px;border:none}
+.search::placeholder{color:#96907f}
+.grp{font-size:10.5px;letter-spacing:.18em;text-transform:uppercase;font-weight:700;
+  color:var(--plum);background:var(--cream)}
+.row{background:#efe6d2;color:var(--ink);font-size:16.5px;font-weight:600;
+  border-radius:18px 26px 20px 28px}
+.row:active{background:var(--lime)}
+.row.sel{background:var(--plum);color:var(--cream)}
+.row .rg{color:var(--coral)}
+.row.sel .rg{color:var(--lime)}
+.nohit{color:#96907f}
+
+.skin-back{position:fixed;right:10px;top:calc(8px + env(safe-area-inset-top));z-index:60;
+  font-size:10px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--teal);
+  background:var(--lime);padding:6px 11px;text-decoration:none;
+  border-radius:50% 50% 45% 55%/55% 45% 55% 45%}
+</style>
+</head>
+<body>
+<svg class="collage" viewBox="0 0 400 800" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  <path d="M-30 -20 C 90 40, 60 150, 150 160 S 300 90, 430 150 L 430 -30 Z" fill="#0b4d59"/>
+  <circle cx="352" cy="252" r="58" fill="#7a3b6b" opacity=".5"/>
+  <path d="M20 560 C 70 500, 150 540, 160 610 S 90 720, 30 680 S -20 610, 20 560 Z"
+        fill="#ff6b4a" opacity=".22"/>
+  <path d="M300 700 C 350 660, 420 700, 420 760 L 300 780 Z" fill="#d6e34f" opacity=".2"/>
+  <g fill="#f6efdf" opacity=".18">
+    <circle cx="70" cy="240" r="7"/><circle cx="110" cy="270" r="4"/><circle cx="330" cy="520" r="6"/>
+  </g>
+</svg>
+
+<div class="wrap">
+  <header>
+    <p class="kicker">Tarô do Craque</p>
+    <h1>Gerador de <mark>Frases</mark></h1>
+    <p class="sub">duas cartas, cinco lentes, muitas ideias pra destravar</p>
+    <div class="rule"></div>
+  </header>
+
+  <div class="pair">
+    <div class="slot"><p class="slot-label">Carta de origem</p>
+      <button class="card-btn" id="btn0"></button></div>
+    <div class="arrow">→</div>
+    <div class="slot"><p class="slot-label">Carta de destino</p>
+      <button class="card-btn" id="btn1"></button></div>
+  </div>
+
+  <div class="tools">
+    <button class="tool" data-act="invert">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M4.5 9h14l-4-4M19.5 15h-14l4 4"/></svg> Inverter</button>
+    <button class="tool" data-act="random">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 3c2 4 5 5 8 6-3 1-6 2-8 6-2-4-5-5-8-6 3-1 6-2 8-6z"/></svg> Sortear par</button>
+  </div>
+
+  <div id="empty" class="empty">
+    Escolha <b>duas cartas</b> e o tarô devolve uma constelação de faíscas —
+    pequenas combinações pra você puxar o fio e ler à sua maneira.<br>
+    Nada aqui é resposta fechada. São <b>pontos de partida</b>.
+  </div>
+
+  <div id="results" class="results"></div>
+
+  <p id="footnote" class="footnote hidden">
+    Nem toda lente encaixa em todo par — use as que acenderem algo e ignore o resto.
+    Toque em <b>Mais ideias</b> pra trocar as faíscas.
+  </p>
+</div>
+
+<div class="dock hidden" id="dock">
+  <button class="gen" data-act="more">✦&nbsp; Mais ideias</button>
+</div>
+
+<a class="skin-back" href="index.html">skins ↑</a>
+
+<script src="../layouts/data/deck.js"></script>
+<script src="../layouts/data/img.js"></script>
+<script src="../layouts/data/engine.js"></script>
+<script src="data/app.js"></script>
+</body>
+</html>

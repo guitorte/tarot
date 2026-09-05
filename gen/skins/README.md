@@ -6,6 +6,8 @@ no topo, inverter, sortear par, as cinco lentes em coluna, a folha de busca e o 
 
 Abra [`index.html`](./index.html) no celular para ver as seis.
 
+> **A skin 04 (Editorial) já está aplicada no [`gen/index.html`](../index.html).** As outras cinco continuam aqui como alternativas — trocar é trocar o `<style>`.
+
 | | Skin | Ideia visual | Fontes |
 |---|---|---|---|
 | 01 | [Sobreimpressão](./01-riso.html) | risografia de duas tintas, retícula de pontos, papel granulado, sombra dura | Archivo Black · Archivo |

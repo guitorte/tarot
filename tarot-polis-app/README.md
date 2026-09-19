@@ -21,12 +21,29 @@ npm run build    # production build into dist/
 To repackage as an Android app, point Capacitor at `dist/`:
 
 ```sh
-npx cap add android   # first time only; android/ is gitignored
-npm run build && npx cap sync android
+npm run build
+npx cap add android      # generates android/, which is gitignored
+npx cap sync android
+cd android && ./gradlew assembleDebug
 ```
 
 `capacitor.config.json` keeps the app id (`com.guitorte.tarotpolis`) of the
 existing build, so an install upgrades the app in place.
+
+## Building on CI
+
+`.github/workflows/build-apk.yml` does the same thing on every push that
+touches this directory, and on demand from the Actions tab (*Build
+Tarot-Polis* → *Run workflow*). It regenerates the Android project from
+`capacitor.config.json`, so nothing native is kept under version control,
+and leaves two artifacts on the run:
+
+- `tarot-polis-web-<sha>` — the `dist/` bundle
+- `tarot-polis-debug-apk-<sha>` — `tarot-polis-debug-<short sha>.apk`
+
+The APK is signed with Gradle's debug keystore, same as
+`apk/tarot-polis-debug-5.zip`: installable for testing, not for the Play
+Store.
 
 ## Layout
 

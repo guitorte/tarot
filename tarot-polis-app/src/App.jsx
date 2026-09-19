@@ -1,13 +1,18 @@
 import { useCallback, useState } from 'react'
-import { Plus } from 'lucide-react'
+import { Highlighter, Plus } from 'lucide-react'
 import BottomSheet from './components/BottomSheet.jsx'
 import CardMeanings from './components/CardMeanings.jsx'
 import CardPicker from './components/CardPicker.jsx'
 import CardTabs from './components/CardTabs.jsx'
 import EmptyState from './components/EmptyState.jsx'
+import HighlightsSheet from './components/HighlightsSheet.jsx'
 import { AUTHORS, DEFAULT_EXPANDED_AUTHORS } from './data/authors.js'
+import { getMeanings } from './data/meanings.js'
 import { useCardSwipe } from './hooks/useCardSwipe.js'
+import { useHighlights } from './hooks/useHighlights.js'
 import { useScrollOffsets } from './hooks/useScrollMemory.js'
+
+const resolveText = (card, author) => getMeanings(card)?.[author]
 
 const MAX_CARDS = 3
 
@@ -15,8 +20,10 @@ export default function App() {
   const [selectedCards, setSelectedCards] = useState([])
   const [activeCardIndex, setActiveCardIndex] = useState(0)
   const [isSheetOpen, setSheetOpen] = useState(false)
+  const [isHighlightsOpen, setHighlightsOpen] = useState(false)
   const [expandedByCard, setExpandedByCard] = useState(new Map())
   const scrollOffsets = useScrollOffsets()
+  const highlights = useHighlights()
 
   const expandedAuthors = useCallback(
     (cardName) => expandedByCard.get(cardName) ?? DEFAULT_EXPANDED_AUTHORS,
@@ -117,6 +124,22 @@ export default function App() {
           Tarot-Polis
         </h1>
         <div className="flex items-center gap-3">
+          <button
+            onClick={() => setHighlightsOpen(true)}
+            className="touch-target relative flex items-center justify-center w-8 h-8 rounded-lg transition-colors"
+            style={{ backgroundColor: '#1e1e2e', color: '#a1a1aa' }}
+            aria-label="Marcações"
+          >
+            <Highlighter className="h-4 w-4" />
+            {highlights.count > 0 && (
+              <span
+                className="absolute -top-1 -right-1 min-w-4 h-4 px-1 rounded-full text-[10px] font-bold flex items-center justify-center"
+                style={{ backgroundColor: '#a78bfa', color: '#0a0a0f' }}
+              >
+                {highlights.count}
+              </span>
+            )}
+          </button>
           {hasCards && (
             <span className="text-xs font-medium" style={{ color: '#a1a1aa' }}>
               {selectedCards.length}/{MAX_CARDS}
@@ -154,6 +177,7 @@ export default function App() {
             onExpandAll={() => expandAll(activeCard)}
             onCollapseAll={() => collapseAll(activeCard)}
             scrollOffsets={scrollOffsets}
+            highlights={highlights}
           />
         </div>
       ) : (
@@ -181,6 +205,22 @@ export default function App() {
           selectedCards={selectedCards}
           onSelectCard={selectCard}
           maxCards={MAX_CARDS}
+        />
+      </BottomSheet>
+
+      <BottomSheet
+        isOpen={isHighlightsOpen}
+        onClose={() => setHighlightsOpen(false)}
+      >
+        <HighlightsSheet
+          byPassage={highlights.byPassage}
+          count={highlights.count}
+          storageFailed={highlights.storageFailed}
+          resolveText={resolveText}
+          onExport={highlights.exportDocument}
+          onImport={highlights.importDocument}
+          onErase={highlights.erase}
+          onClearAll={highlights.clearAll}
         />
       </BottomSheet>
     </div>

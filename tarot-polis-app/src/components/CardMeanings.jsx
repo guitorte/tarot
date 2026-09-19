@@ -1,9 +1,12 @@
-import { useMemo } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import { Book, ChevronDown, ChevronUp, User } from 'lucide-react'
 import { AUTHORS } from '../data/authors.js'
 import { CARD_BADGES, SUITS, getSuit, isMajorArcana } from '../data/cards.js'
 import { getMeanings } from '../data/meanings.js'
 import { useScrollMemory } from '../hooks/useScrollMemory.js'
+import { useTextSelection } from '../hooks/useTextSelection.js'
+import HighlightableText from './HighlightableText.jsx'
+import HighlightToolbar from './HighlightToolbar.jsx'
 
 export default function CardMeanings({
   cardName,
@@ -12,6 +15,7 @@ export default function CardMeanings({
   onExpandAll,
   onCollapseAll,
   scrollOffsets,
+  highlights,
 }) {
   const meanings = useMemo(() => getMeanings(cardName), [cardName])
   const badge = CARD_BADGES[cardName]
@@ -23,6 +27,38 @@ export default function CardMeanings({
   // Scroll offsets are stored per card, so coming back to this tab lands on
   // the paragraph the reader left off at instead of the top of the pane.
   const scroll = useScrollMemory(scrollOffsets, cardName)
+
+  // A pending selection and a tapped highlight both drive the same toolbar.
+  const { selection, setSelection, clear: clearSelection } =
+    useTextSelection(scroll.ref)
+  const [pickedHighlight, setPickedHighlight] = useState(null)
+  const target = pickedHighlight ?? selection
+
+  const dismiss = useCallback(() => {
+    setPickedHighlight(null)
+    clearSelection()
+  }, [clearSelection])
+
+  const paint = useCallback(
+    (color) => {
+      if (target) highlights.highlight(target.card, target.author, { ...target, color })
+      dismiss()
+    },
+    [dismiss, highlights, target],
+  )
+
+  const erase = useCallback(() => {
+    if (target) highlights.erase(target.card, target.author, target.start, target.end)
+    dismiss()
+  }, [dismiss, highlights, target])
+
+  const pickHighlight = useCallback(
+    (picked) => {
+      setSelection(null)
+      setPickedHighlight(picked)
+    },
+    [setSelection],
+  )
 
   if (!meanings) {
     return (
@@ -40,6 +76,7 @@ export default function CardMeanings({
     <div
       ref={scroll.ref}
       onScroll={scroll.onScroll}
+      onScrollCapture={() => setPickedHighlight(null)}
       className="flex-1 overflow-y-auto pb-24"
     >
       <div
@@ -128,12 +165,13 @@ export default function CardMeanings({
                       className="h-4 w-4 flex-shrink-0 mt-0.5"
                       style={{ color: '#a78bfa' }}
                     />
-                    <p
-                      className="text-sm leading-relaxed"
-                      style={{ color: 'rgba(250, 250, 250, 0.9)' }}
-                    >
-                      {meaning}
-                    </p>
+                    <HighlightableText
+                      text={meaning}
+                      ranges={highlights.rangesFor(cardName, author.id)}
+                      card={cardName}
+                      author={author.id}
+                      onPickHighlight={pickHighlight}
+                    />
                   </div>
                 </div>
               )}
@@ -141,6 +179,13 @@ export default function CardMeanings({
           )
         })}
       </div>
+
+      <HighlightToolbar
+        target={target}
+        onPick={paint}
+        onErase={erase}
+        onDismiss={dismiss}
+      />
     </div>
   )
 }

@@ -15,6 +15,7 @@ same React 19 + Vite + Tailwind v4 stack, same components, same card data
 ```sh
 npm install
 npm run dev      # dev server
+npm test         # unit tests (vitest)
 npm run build    # production build into dist/
 ```
 
@@ -56,14 +57,24 @@ src/
     CardPicker.jsx           search + suit browser inside the sheet
     BottomSheet.jsx          drag-to-dismiss sheet
     EmptyState.jsx
+    HighlightableText.jsx    one interpretation, cut into highlightable runs
+    HighlightToolbar.jsx     floating colour picker over a selection
+    HighlightsSheet.jsx      list, export and import of highlights
   hooks/
     useScrollMemory.js       per-card scroll offsets
     useCardSwipe.js          axis-locked horizontal swipe between tabs
     useSheetDrag.js          drag the sheet down to close
+    useHighlights.js         highlight state, persisted to localStorage
+    useTextSelection.js      browser selection -> source-text offsets
+  lib/
+    ranges.js                range algebra (paint, erase, split, segment)
+    highlightStore.js        storage, export document, import + re-anchoring
+    shareFile.js             file out/in, native share sheet or download
   data/
     tarot_significados.json  interpretations, keyed by card and author
     cards.js                 card names, suits, badges
     authors.js               the 17 interpreters
+    highlightColors.js       the six highlight colours
     meanings.js              lookup + search over the JSON
 ```
 
@@ -84,3 +95,37 @@ out when the font swaps in — is re-applied on the next frame.
 
 Removing a card forgets its offset, so adding the same card back opens it at
 the top.
+
+### Highlights
+
+Select any stretch of an interpretation and a toolbar offers six colours —
+amarelo, verde, azul, roxo, rosa, laranja — plus an eraser. Tapping an
+existing highlight reopens the same toolbar on it, to recolour or remove.
+
+**Anchoring.** A highlight is stored as a character range into the source
+text of one (card, author) pair, not as a serialized DOM range. The
+interpretations ship with the app and never change at runtime, so offsets
+survive re-renders, font swaps and markup changes — including the tab
+switch that remounts the pane. `useTextSelection` maps a browser selection
+back onto those offsets through the `data-offset` on each rendered run.
+
+Ranges of one passage are kept sorted and never overlap: painting over an
+existing highlight erases what it covers and splits the remainder, so the
+colour you see is always the colour that is stored. `src/lib/ranges.js` holds
+that algebra and `src/lib/__tests__/` covers it.
+
+**Persistence.** Everything is written to `localStorage` under
+`tarot-polis:highlights:v1` on every change, which survives closing the app.
+It does *not* survive uninstalling it, and Android may clear it when storage
+runs low — hence export.
+
+**Export / import.** The *Marcações* sheet (highlighter icon in the header)
+writes a JSON file holding every highlight *plus the highlighted excerpt*.
+On device the file goes to the app's Documents folder and straight into the
+system share sheet; in a browser it downloads.
+
+Importing merges into what is already there rather than replacing it, so
+re-importing your own export is a no-op. Because the excerpt travels with
+the offsets, an import into a future version whose text has shifted
+re-anchors each highlight by searching for its excerpt; anything whose text
+is gone is reported as skipped rather than dropped silently.

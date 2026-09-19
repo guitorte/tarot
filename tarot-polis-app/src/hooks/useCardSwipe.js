@@ -2,6 +2,11 @@ import { useCallback, useRef } from 'react'
 
 const DIRECTION_LOCK_PX = 10
 
+function hasTextSelection() {
+  const selection = window.getSelection()
+  return Boolean(selection && selection.rangeCount > 0 && !selection.isCollapsed)
+}
+
 /**
  * Horizontal swipe between card tabs. The axis is locked on the first
  * meaningful movement so a vertical scroll through the meanings is never
@@ -18,7 +23,8 @@ export function useCardSwipe({ onSwipeLeft, onSwipeRight, threshold = 50 }) {
     startX.current = touch.clientX
     startY.current = touch.clientY
     deltaX.current = 0
-    axis.current = 'none'
+    // Dragging a selection handle sideways is not a request for the next tab.
+    axis.current = hasTextSelection() ? 'vertical' : 'none'
   }, [])
 
   const onTouchMove = useCallback((event) => {

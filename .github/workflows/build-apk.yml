@@ -1,0 +1,83 @@
+name: Build Tarot-Polis
+
+on:
+  push:
+    paths:
+      - 'tarot-polis-app/**'
+      - '.github/workflows/build-apk.yml'
+  pull_request:
+    paths:
+      - 'tarot-polis-app/**'
+      - '.github/workflows/build-apk.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+defaults:
+  run:
+    working-directory: tarot-polis-app
+
+jobs:
+  build:
+    name: Web bundle + debug APK
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: tarot-polis-app/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build web bundle
+        run: npm run build
+
+      - name: Upload web bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: tarot-polis-web-${{ github.sha }}
+          path: tarot-polis-app/dist
+          retention-days: 30
+
+      - uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      # The Android project is generated from capacitor.config.json on every
+      # run, so nothing native is kept under version control.
+      - name: Add Android platform
+        run: npx cap add android
+
+      - name: Sync web assets into the Android project
+        run: npx cap sync android
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+        with:
+          packages: 'platforms;android-36 build-tools;36.0.0 platform-tools'
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - name: Assemble debug APK
+        run: ./gradlew assembleDebug --no-daemon
+        working-directory: tarot-polis-app/android
+
+      - name: Name the APK after the commit
+        run: |
+          mkdir -p out
+          cp android/app/build/outputs/apk/debug/app-debug.apk \
+             "out/tarot-polis-debug-${GITHUB_SHA::7}.apk"
+
+      - name: Upload debug APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: tarot-polis-debug-apk-${{ github.sha }}
+          path: tarot-polis-app/out/*.apk
+          retention-days: 30

@@ -27,6 +27,34 @@
       </header>
       <div id="sheet-grid"></div>
     </section>
+    <section class="sheet marks" id="marks" role="dialog" aria-labelledby="marks-title" tabindex="-1">
+      <div class="sheet-grip" aria-hidden="true"></div>
+      <header class="sheet-head">
+        <h2 class="sheet-title" id="marks-title">Highlights</h2>
+        <button type="button" class="text-btn" id="marks-close">Done</button>
+      </header>
+      <p class="marks-where" id="marks-where"></p>
+      <div id="marks-list"></div>
+      <section class="backup" aria-labelledby="backup-title">
+        <h3 class="backup-title" id="backup-title">Back up or move</h3>
+        <p class="backup-text">Export your highlights to keep a copy, or to bring them to another phone or browser. Importing only adds highlights; it never deletes any.</p>
+        <div class="backup-actions">
+          <button type="button" class="btn" id="export-file">Save file</button>
+          <button type="button" class="btn" id="export-copy">Copy</button>
+          <label class="btn" for="import-file">Open file</label>
+          <button type="button" class="btn" id="paste-toggle" aria-expanded="false" aria-controls="paste-box">Paste</button>
+        </div>
+        <input type="file" id="import-file" class="sr-only" accept=".json,application/json,text/plain">
+        <label class="sr-only" for="export-text">Exported highlights</label>
+        <textarea class="export-text" id="export-text" rows="5" readonly hidden></textarea>
+        <div class="paste" id="paste-box" hidden>
+          <label class="paste-label" for="paste-text">Paste the text of an export</label>
+          <textarea id="paste-text" rows="5" spellcheck="false"></textarea>
+          <button type="button" class="btn btn-strong" id="paste-import">Import</button>
+        </div>
+        <p class="marks-status" id="marks-status" role="status" aria-live="polite"></p>
+      </section>
+    </section>
   </div>
   <footer class="dock" id="dock" hidden>
     <nav class="tabs" id="tabs" aria-label="Card sections"></nav>
@@ -39,10 +67,23 @@
         <button type="button" class="slot-pick" id="slot-b"></button>
         <button type="button" class="slot-clear" id="clear-b">&times;</button>
       </div>
+      <button type="button" class="marks-btn" id="marks-btn" aria-label="Highlights" aria-expanded="false" aria-controls="marks">
+        <svg class="icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M14.6 3.8l5.6 5.6-8.4 8.4H6.2v-5.6z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M11.8 6.6l5.6 5.6" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 21h17" class="icon-ink" stroke-width="2.6" stroke-linecap="round"/></svg>
+        <span class="marks-count" id="marks-count"></span>
+      </button>
     </div>
   </footer>
+  <div class="hlbar" id="hlbar" role="toolbar" aria-labelledby="hlbar-title">
+    <div class="hlbar-head">
+      <p class="hlbar-title" id="hlbar-title">Highlight the selection</p>
+      <button type="button" class="text-btn" id="hl-erase">Erase</button>
+      <button type="button" class="text-btn" id="hl-done">Done</button>
+    </div>
+    <div class="swatches" id="swatches"></div>
+  </div>
 </div>
 <script src="data.js"></script>
+<script src="highlights.js"></script>
 <script src="app.js"></script>
 <!-- /page -->
 </body>

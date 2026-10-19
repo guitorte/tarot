@@ -147,7 +147,9 @@ def render(md, paragraphs=True):
                 if cells:
                     items.append(f"<li>{inline(' '.join(cells))}</li>")
             if items:
-                parts.append('<ul class="cmp">' + "".join(items) + "</ul>")
+                # A line break between items keeps their texts apart in
+                # textContent, which highlight excerpts are cut from.
+                parts.append('<ul class="cmp">' + "\n".join(items) + "</ul>")
             continue
         text = "\n".join(lines).strip()
         solo = re.fullmatch(r"\*\*([^*]+?)\*\*", text)
@@ -196,7 +198,7 @@ def senses(fragment):
             items.append(buf.strip())
     if not items:
         return ""
-    return '<ul class="senses">' + "".join(f"<li>{i}</li>" for i in items) + "</ul>"
+    return '<ul class="senses">' + "\n".join(f"<li>{i}</li>" for i in items) + "</ul>"
 
 
 def plain(html_text):

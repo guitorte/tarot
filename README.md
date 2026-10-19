@@ -12,6 +12,9 @@ Leitor de combinações de cartas de tarô. Aplicação web standalone que usa u
 ### [`tarot-polis/`](./tarot-polis/)
 Dicionário de interpretações do Tarô com 15 mestres diferentes. App React/Vite compilado.
 
+### [`lenormand-app/`](./lenormand-app/)
+Lenormand Pairs: leitor de combinações do baralho Lenormand para celular — uma página, telas verticais, tudo ao alcance do polegar. Usa só o conteúdo de [`lenormand/`](./lenormand/): combinações, palavras-chave, significados e comparações de cada carta.
+
 ### [`gen/`](./gen/)
 Experimento paralelo de visualização dos Arcanos Maiores.
 Em [`gen/layouts/`](./gen/layouts/) há seis protótipos de layout do gerador para uso no
@@ -29,6 +32,7 @@ Notas e documentação sobre dinâmicas e combinações de cartas — especialme
 tarô/
 ├── taro-quebrado/     leitor de combinações (app web)
 ├── tarot-polis/       dicionário interpretativo com múltiplos mestres (app React)
+├── lenormand-app/     combinações e cartas do Lenormand (app web, celular)
 ├── gen/               visualizador de arcanos (experimento)
 ├── combinations/      notas sobre dinâmicas e combinações
 ├── new/               rascunhos e trabalho em andamento

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!-- page -->
+<title>Lenormand Pairs</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Lenormand card combinations, keywords, meanings and comparisons, built for one-handed use on a phone.">
+<meta name="theme-color" content="#F1F2F5" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#101319" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="app" id="app" data-mode="home">
+  <div class="stage">
+    <main class="reader" id="reader" tabindex="-1"></main>
+    <div class="shade" id="shade"></div>
+    <section class="sheet" id="sheet" role="dialog" aria-labelledby="sheet-title" tabindex="-1">
+      <div class="sheet-grip" aria-hidden="true"></div>
+      <header class="sheet-head">
+        <h2 class="sheet-title" id="sheet-title">Choose a card</h2>
+        <button type="button" class="text-btn" id="sheet-close">Cancel</button>
+      </header>
+      <div id="sheet-grid"></div>
+    </section>
+  </div>
+  <footer class="dock" id="dock" hidden>
+    <nav class="tabs" id="tabs" aria-label="Card sections"></nav>
+    <div class="slots">
+      <div class="slot" data-slot="a">
+        <button type="button" class="slot-pick" id="slot-a"></button>
+        <button type="button" class="slot-clear" id="clear-a">&times;</button>
+      </div>
+      <div class="slot" data-slot="b">
+        <button type="button" class="slot-pick" id="slot-b"></button>
+        <button type="button" class="slot-clear" id="clear-b">&times;</button>
+      </div>
+    </div>
+  </footer>
+</div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+<!-- /page -->
+</body>
+</html>
